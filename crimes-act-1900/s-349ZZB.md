@@ -1,0 +1,3 @@
+# Offence of making false statements in warrants
+349ZZB. A person shall not make, in an application for a warrant, a statement that the person knows to be false or misleading in a material particular.
+Penalty: Imprisonment for 2 years.

@@ -15,10 +15,16 @@
 ## PERJURY AND LIKE OFFENCES
 ## PART VIII—AIDING AND ABETTING, ACCESSORIES, ATTEMPTS, INCITEMENT AND CONSPIRACY
 ## part x—criminal investigation
-### Division 1—Criminal investigation (generally)
-### Division 2—Criminal investigation (extra-territorial offences)
+### Division 1—Preliminary
+### Division 1A—Preventative action
+### Division 2—Search warrants
+### Division 3—Stopping and searching conveyances
+### Division 4—Arrest and related matters
+### Division 5—General
+## Part XA—Investigation of extra-territorial offences
 ## PART XI
 ## PROCEDURE, EVIDENCE, VERDICT, &c.
+## part xia—unfitness to plead, mental illness and mental dysfunction3
 ## PART XII
 ## SENTENCES
 ### Division 1—General principles and procedures
