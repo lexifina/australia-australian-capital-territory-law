@@ -1,7 +1,7 @@
 # Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · corporation
 · exercise
 · function

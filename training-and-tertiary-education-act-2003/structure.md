@@ -26,4 +26,3 @@
 ## Part 6.1 Visits to premises
 ## Part 6.2 Review of decisions
 ## Part 6.3 Other provisions
-# Chapter 7 Transitional
