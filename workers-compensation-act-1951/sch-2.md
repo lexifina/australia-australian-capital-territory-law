@@ -1,4 +1,4 @@
-# SCHEDULE 2 Section 10
+# SCHEDULE 2 (Section 10)
 Part I
 Injuries in respect of which the amount of compensation specified in section 10 (1) is payable
 Loss of both eyes

@@ -1,4 +1,4 @@
-# SCHEDULE 1 Section 7
+# SCHEDULE 1 (Section 7)
 Scale and conditions of compensation
 1AA. In this Schedule—
 “child”, in relation to a worker, means an unmarried child of the worker who is—
