@@ -26,4 +26,3 @@
 ### Division 9.4 Miscellaneous
 ## Part 10 Review of decisions
 ## Part 11 Miscellaneous
-## Part 12 Transitional provisions and consequential amendments
