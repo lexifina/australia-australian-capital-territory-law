@@ -119,7 +119,7 @@ that the person has ceased to be the health and safety representative for that d
 before section 58 insert
 ## 57A Health and safety committees
 (1) A health and safety committee shall be established in respect of the employer’s employees at a particular work place if—
-  (a) the number of employees of the employer who work at the workplace is normally not less than 50 (whether or not the employers are all at work at the workplace at the same time); and
+  (a) the number of employees of the employer who work at the workplace is normally not less than 50 (whether or not the employees are all at work at the workplace at the same time); and
   (b) the employees are included in 1 or more designated work groups in respect of the employer; and
   (c) the employer is requested to establish the committee by—
     (i) a health and safety representative for the designated work group or for 1 of the designated work groups; or
