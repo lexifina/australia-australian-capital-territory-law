@@ -1,7 +1,6 @@
 ## PART I
 ## PRELIMINARY AND INTERPRETATION
-## PART III
-## OFFENCES AGAINST THE PERSON
+## PART III—OFFENCES AGAINST THE PERSON
 ## PART IIIA
 ## SEXUAL OFFENCES
 ## PART IV—OFFENCES RELATING TO PROPERTY
@@ -12,13 +11,10 @@
 ### Division 4—Miscellaneous
 ## PART VII
 ## PERJURY AND LIKE OFFENCES
-## PART VIII
-## CONSPIRACY TO ACCUSE OF CRIME
-## PART IX
-## ABETTORS AND ACCESSORIES
-## PART X
-## APPREHENSION, DETENTION AND DISCHARGE OF CERTAIN PERSONS AND SEARCH AND SEIZURE PROVISIONS
+## part viii—aiding and abetting, accessories, attempts, incitement and conspiracy
+## PART X—apprehension, detention, discharge, search and seizure and escape
 ### Division 1—Apprehension, detention, search and seizure
+### Division 1A—Escape provisions
 ### Division 2—Criminal investigation (extra-territorial offences)
 ## PART XI
 ## PROCEDURE, EVIDENCE, VERDICT, &c.
