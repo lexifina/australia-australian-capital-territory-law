@@ -1,5 +1,5 @@
-## part 1—preliminary
-## part 2—Unfair practices
-## part 3—codes of practice
-## part 4—enforcement and remedies
-## part 5—miscellaneous
+## Part 1 Preliminary
+## Part 2 Unfair practices
+## Part 3 Codes of practice
+## Part 4 Enforcement and remedies
+## Part 5 Miscellaneous
