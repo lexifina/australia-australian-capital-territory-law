@@ -1,16 +1,16 @@
-## PART I—PRELIMINARY
-## PART II—JURISDICTION
-## PART III—ADOPTIONs under this act
-### Division 1—General
-### Division 2—Consents to adoptions
-### Division 3—Conditional Orders
-### Division 4—Effect of adoption orders
-### Division 5—Interim orders
-## PART IV—RECOGNITION OF ADOPTIONS
-## PART V—ACCESS TO INFORMATION
-### Division 1—General
-### Division 2—Non-identifying information
-### Division 3—Identifying information
-## PART VI—PRIVATE ADOPTION AGENCIES
-## PART VII—OFFENCES
-## PART VIII—MISCELLANEOUS
+## Part 1 Preliminary
+## Part 2 Jurisdiction
+## Part 3 Adoptions under this Act
+### Division 3.1 General
+### Division 3.2 Consents to adoptions
+### Division 3.3 Conditional orders
+### Division 3.4 Effect of adoption orders
+### Division 3.5 Interim orders
+## Part 4 Recognition of adoptions
+## Part 5 Access to information
+### Division 5.1 General
+### Division 5.2 Non-identifying information
+### Division 5.3 Identifying information
+## Part 6 Private adoption agencies
+## Part 7 Offences
+## Part 8 Miscellaneous
