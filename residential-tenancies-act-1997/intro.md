@@ -1,3 +1,2 @@
-Australian Capital Territory
-Residential Tenancies Act 1997
+# Residential Tenancies Act 1997
 An Act relating to residential tenancies
