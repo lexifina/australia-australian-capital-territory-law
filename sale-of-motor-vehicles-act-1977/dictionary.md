@@ -1,5 +1,21 @@
 # Dictionary
 (see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACT
+· administrative appeals tribunal
+· chief executive (see s 163)
+· corporation
+· disallowable instrument (see s 9)
+· Executive
+· individual
+· lawyer
+· Minister (see s 162)
+· notifiable instrument (see s 10)
+· penalty unit (see s 133)
+· police officer
+· State
+· the Territory.
 accessory, in relation to a motor vehicle, means—
   (a) a car radio, sound reproducing equipment or an airconditioning unit fitted to the vehicle; or
   (b) a spare wheel or any other thing carried in or attached to the vehicle.
@@ -42,7 +58,7 @@ demonstrator, in relation to a motor vehicle, means a vehicle—
     (ii) the purpose of demonstrating the motor vehicle, or another vehicle of the same type, to a potential buyer of that vehicle.
 deputy registrar means the Deputy Registrar of Motor Vehicle Dealers under section 5A.
 director-general, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-executive officer, of a corporation, means the person, by whatever named called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
+executive officer, of a corporation, means a person, by whatever named called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 Examples
 1 A director of the corporation
 2 An employee of, or a person associated with, the corporation who is involved in activities that involve policy and decision making, related to the business affairs of the corporation, to the extent that the consequences of the formation of the policies, or the making of the decisions, may have some significant bearing on the financial standing of the corporation or the conduct of its affairs.
