@@ -1,6 +1,6 @@
-# Dictionary
+# U Dictionary
 (see s 4)
-aggravated offence, for part 3C (Sexual servitude)—see section 92ZD.
+aggravated offence, for part 5 (Sexual servitude)—see section 81.
 bail undertaking means an undertaking given by a person charged with an offence in order to obtain bail in relation to the offence.
 child—
   (a) means a person who has not attained the age of 18 years; and
@@ -14,13 +14,12 @@ director of public prosecutions means—
 as the case requires.
 document of title to land includes every deed, certificate of title, map, paper, or parchment, written or printed, or partly written and partly printed, being or containing evidence of the title, or part of the title, to any real estate or to any interest in or out of real estate.
 domestic violence offence means—
-  (a) an offence against a provision of this Act specified in schedule 2, column 1 or an attempt to commit such an offence; or
+  (a) an offence against a provision of this Act specified in schedule 1, column 1 or an attempt to commit such an offence; or
   (b) an offence against the Domestic Violence Act 1986, section 19D; or
   (c) any of the following provisions of the Road Transport (Safety and Traffic Management) Act 1999:
     (i) section 6 (1) (which is about negligent driving);
     (ii) section 7 (1) (which is about furious, reckless or dangerous driving);
-    (iii) section 8 (1) or (2) (which are about menacing driving); or
-  (ca) an offence against the Motor Traffic Act 1936, section 129 (which is about reckless, dangerous or negligent driving);
+    (iii) section 8 (1) or (2) (which are about menacing driving);
 committed by a person so as to cause physical or emotional harm to—
   (d) a spouse of the person; or
   (e) a child of the person or of a spouse of the person; or
@@ -57,8 +56,8 @@ relative, in relation to a person—
 school means—
   (a) a school or college established or maintained by or on behalf of the Territory; or
   (b) a school or college registered or provisionally registered under the Education Act 1937.
-sexual services, for part 3C (Sexual servitude)—see section 92ZA.
-sexual servitude, for part 3C (Sexual servitude)—see section 92ZA.
+sexual services, for part 5 (Sexual servitude)—see section 78.
+sexual servitude, for part 5 (Sexual servitude)—see section 78.
 spouse includes former spouse, de facto spouse and former de facto spouse.
 trustee means a trustee on some express trust howsoever created, and includes the heir or personal representative of such trustee, and every other person upon whom the duty of such trust shall have devolved, and also any official manager, assignee, liquidator, or other like officer, acting under any Act relating to joint-stock companies or to bankruptcy or insolvency.
 trust fund means the Confiscated Assets Trust Fund established by the Proceeds of Crime Act 1991, section 33.
