@@ -1,6 +1,6 @@
-## part i—preliminary
-## part ii—remuneration tribunal
-## part III—Inquiries and determinations
+## part 1—preliminary
+## part 2—remuneration tribunal
+## part 3—Inquiries and determinations
 ### Division 1—General
 ### Division 2—Procedure
-## part iv—miscellaneous
+## part 4—miscellaneous
