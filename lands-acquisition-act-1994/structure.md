@@ -19,6 +19,7 @@
 ### Division 2—Claims for, and offers of, compensation
 ### Division 3—Determination of compensation payable
 ### Division 4—Payment of compensation
+## part 7A—Compensation for acquisition by utilities
 ## Part VIII—Persons with limited powers to deal with interests in land
 ## part ix—Dealings in land vested in acquiring authorities
 ## Part X—Miscellaneous
