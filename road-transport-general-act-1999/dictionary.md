@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 accident, for part 10 (Compulsory vehicle insurance)—see motor accident.
 administering authority, for an infringement notice offence, means the person or unincorporated body that, under the regulations, is the administering authority for the offence.
@@ -27,7 +27,6 @@ Commonwealth authority—see section 158 (Definitions for pt 10).
 credit card includes a debit card.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
 decision-maker, in part 7 (Review of decisions under road transport legislation)—see section 91 (Notice of decisions to be given to affected people).
-defined right—see section 102 (1).
 drive a vehicle includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
   (b) if the vehicle is a trailer—draw or tow the vehicle; and
@@ -80,8 +79,6 @@ responsible person, for a vehicle—see sections 10 and 11.
 restricted hire vehicle—see section 100 (Definitions for pt 9).
 restricted hire vehicle operator’s licence—see section 126 (1).
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-restricted taxi—see section 100 (Definitions for pt 9).
-restricted taxi operator’s licence—see section 108 (1).
 reviewable decision—see section 90 (1) (Application of pt 7 etc).
 revocation notice—see section 86 (1) (Revocation of suspension of driver licence, registration etc).
 ride, for the rider of a motorbike or an animal-drawn vehicle, includes be in control of the vehicle.
@@ -99,9 +96,7 @@ road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
 sightseeing vehicle operator’s licence—see section 135 (1).
 sold vehicle declaration means a statutory declaration mentioned in section 40.
-taxi—see section 100 (Definitions for pt 9).
-taxi operator’s licence—see section 106 (1).
-taxi zone—see section 100 (Definitions for pt 9).
+taxi—see the Road Transport (Public Passenger Services) Act 2001, section 31 (Meaning of taxi).
 third-party policy—see section 158 (Definitions for pt 10).
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
