@@ -1,21 +1,24 @@
-# DICTIONARY (See s 3)
-Note 1 The following terms that are relevant to this Act are defined in the dictionary to the Interpretation Act 1967:
-adult
-chief police officer
-contravene
-director of public prosecutions
-doctor
-law, of the Territory
-lawyer
-magistrate
-nurse
-police officer
-State
-under
-Note 2 The Interpretation Act 1967 contains other definitions and provisions that are relevant to this Act.
+# Dictionary
+(see s 3)
+Note 1 The Legislation Act 2001 contains definitions and provisions that are relevant to this Act.
+Note 2 The Legislation Act 2001, dict, pt 1, defines the following terms that are particularly relevant to this Act:
+  adult
+  chief police officer
+  contravene
+  dental technician
+  dentist
+  director of public prosecutions
+  doctor
+  law, of the Territory
+  lawyer
+  magistrate
+  nurse
+  police officer
+  State
+  under.
 another participating jurisdiction—see section 100.
 another Territory means a Territory other than this Territory or the Northern Territory.
-Note State includes the Northern Territory (see Interpretation Act 1967, dictionary).
+Note State includes the Northern Territory (see Legislation Act 2001, dict, pt 1).
 appropriate authority—see section 100.
 appropriately qualified person—see section 13 (Meaning of appropriately qualified person).
 authorised applicant—see section 12 (Meaning of authorised applicant).
@@ -27,40 +30,40 @@ DNA database—see section 100.
 DNA database system—see section 94.
 forensic material—see section 5 (Forensic material and forensic procedures).
 forensic order means—
-    (a) an order of a magistrate under section 33 (Final order for carrying out of forensic procedure); or
-    (b) an interim order of a magistrate under section 41 (Interim order for immediate carrying out of forensic procedure); or
-    (c) an order of a court under section 77 (Court order for carrying out of forensic procedure on serious offender) or section 78 (Carrying out of forensic procedure following conviction); or
-    (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material by order of magistrate after parent or guardian of child or incapable person withdraws consent).
+  (a) an order of a magistrate under section 33 (Final order for carrying out of forensic procedure); or
+  (b) an interim order of a magistrate under section 41 (Interim order for immediate carrying out of forensic procedure); or
+  (c) an order of a court under section 77 (Court order for carrying out of forensic procedure on serious offender) or section 78 (Carrying out of forensic procedure following conviction); or
+  (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material by order of magistrate after parent or guardian of child or incapable person withdraws consent).
 forensic procedure—see section 5 (Forensic material and forensic procedures).
 function includes power.
 incapable person—see section 15 (Meaning of incapable person).
 in custody—a person is in custody if the person is in the lawful custody of a police officer.
 inform a person of a matter means inform the person of the matter, through an interpreter if necessary, in language (including sign language or braille) in which the person can communicate with reasonable fluency.
 informed consent—
-    (a) for a suspect—see section 21 (Informed consent of suspect to forensic procedure); and
-    (b) for a serious offender—see section 69 (Informed consent of serious offender to forensic procedure); and
-    (c) for a volunteer or parent or guardian of a volunteer—see section 80 (Informed consent of volunteer or parent or guardian of volunteer).
+  (a) for a suspect—see section 21 (Informed consent of suspect to forensic procedure); and
+  (b) for a serious offender—see section 69 (Informed consent of serious offender to forensic procedure); and
+  (c) for a volunteer or parent or guardian of a volunteer—see section 80 (Informed consent of volunteer or parent or guardian of volunteer).
 infringement notice means—
-    (a) an infringement notice under the Road Transport (General) Act 1999; or
-    (b) any other notice (however described) served on a person under a Territory law that states to the effect that, if the person pays an amount in relation to an offence, no further action will be taken in relation to the offence.
+  (a) an infringement notice under the Road Transport (General) Act 1999; or
+  (b) any other notice (however described) served on a person under a Territory law that states to the effect that, if the person pays an amount in relation to an offence, no further action will be taken in relation to the offence.
 interview friend—see section 16.
 intimate forensic procedure—see section 6 (What is an intimate forensic procedure?)
 investigating police officer—see section 11 (Meaning of investigating police officer).
 jurisdiction—see section 100.
-member of the opposite sex, for a transgender person—see paragraph 17 (4) (a).
-member of the same sex, for a transgender person—see paragraph 17 (4) (b).
+member of the opposite sex, for a transgender person—see section 17 (4) (a).
+member of the same sex, for a transgender person—see section 17 (4) (b).
 missing persons index—see section 94.
 non-intimate forensic procedure—see section 7 (What is a non-intimate forensic procedure?).
 offence means an offence against a law in force in the Territory.
 parent—see section 14 (Meaning of child and parent of a child).
 participating jurisdiction—see section 100.
 police station includes—
-    (a) a Territory police station; and
-    (b) any other building (or part of a building) occupied by the Australian Federal Police.
+  (a) an ACT police station; and
+  (b) any other building (or part of a building) occupied by the Australian Federal Police.
 prison includes a place where a person may be detained under the Removal of Prisoners Act 1968.
 prison medical officer means—
-    (a) for a prison or another place of detention (other than a remand centre)—a medical officer for the prison or other place of detention; or
-    (b) for a remand centre— the medical officer for remand centre under the Remand Centres Act 1976.
+  (a) for a prison or another place of detention (other than a remand centre)—a medical officer for the prison or other place of detention; or
+  (b) for a remand centre— the medical officer for remand centre under the Remand Centres Act 1976.
 recognised transgender person—see section 17.
 remand centre means a remand centre under the Remand Centres Act 1976.
 responsible Minister—see section 100.
@@ -70,7 +73,7 @@ serious offence—see section 9 (Meaning of serious offence and serious offender
 serious offender—see section 9 (Meaning of serious offence and serious offender).
 serious offenders index—see section 94.
 statistical index—see section 94.
-summary offence means an offence that is punishable on summary conviction under section 33E of the Interpretation Act 1967.
+summary offence means an offence that is punishable on summary conviction under the Legislation Act 2001, section 136.
 suspect—see section 8 (Meaning of suspect).
 suspects index—see section 94.
 telephone includes any telecommunications device.
@@ -79,4 +82,4 @@ unknown deceased persons index—see section 94.
 volunteer—see section 10 (Meaning of volunteer).
 volunteers (limited purposes) index—see section 94.
 volunteers (unlimited purposes) index—see section 94.
-warrant, for the apprehension of a person, includes a warrant issued under Division 5 of Part 4 of the Magistrates Court Act 1930 for the arrest or apprehension of the person.
+warrant, for the apprehension of a person, includes a warrant issued under the Magistrates Court Act 1930, division 4.5 for the arrest or apprehension of the person.
