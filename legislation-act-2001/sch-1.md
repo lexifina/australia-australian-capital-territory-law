@@ -1,4 +1,4 @@
-# U Schedule 1 Acts included in sources of law in the ACT
+# Schedule 1 Acts included in sources of law in the ACT
 (see s 17)
 ## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 name of Act | column 3 number or date of assent and original jurisdiction
@@ -10,27 +10,20 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 6 | Petition of Right 1627 | 3 Chas 1 c 1 (UK)
 7 | Bill of Rights 1688 | 1 Will and Mary sess 2 c 2 (UK)
 8 | Act of Settlement 1700 | 12 and 13 Will 3 c 2 (UK)
-9 | Set-off of Debts Act 1728 | 2 Geo 2 c 22 (UK)
-10 | Set-off of Debts Act 1735 | 8 Geo 2 c 24 (UK)
-11 | Royal Marriages Act 1772 | 12 Geo 3 c 11 (UK)
-12 | Foreign Tribunals Evidence Act 1856 | 19 and 20 Vic c 113 (UK)
-13 | Evidence by Commission Act 1859 | 22 Vic c 20 (UK)
-14 | Evidence by Commission Act 1885 | 48 and 49 Vic c 74 (UK)
-15 | Contractors Debts Act 1897 | 1897 No 29 (NSW)
-16 | Conveyancing and Law of Property Act 1898 | 1898 No 17 (NSW)
-17 | Landlord and Tenant Act 1899 | 1899 No 18 (NSW)
-18 | Crimes Act 1900 | 1900 No 40 (NSW)
-19 | Truck Act 1900 | 1900 No 55 (NSW)
-20 | Judgment Creditors Remedies Act 1901 | 1901 No 8 (NSW)
-21 | Games, Wagers and Betting Houses Act 1901 | 1902 No 18 (NSW)
-22 | Arrest on Mesne Process Act 1902 | 1902 No 24 (NSW)
-23 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
-24 | Public Roads Act 1902 | 1902 No 95 (NSW)
-25 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
-26 | Fertilisers Act 1904 | 1904 No 33 (NSW)
-27 | Forfeiture and Validation of Leases Act 1905 | 1905 No 8 (NSW)
-28 | Gaming and Betting Act 1906 | 1906 No 13 (NSW)
-29 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
+9 | Royal Marriages Act 1772 | 12 Geo 3 c 11 (UK)
+10 | Contractors Debts Act 1897 | 1897 No 29 (NSW)
+11 | Conveyancing and Law of Property Act 1898 | 1898 No 17 (NSW)
+12 | Landlord and Tenant Act 1899 | 1899 No 18 (NSW)
+13 | Crimes Act 1900 | 1900 No 40 (NSW)
+14 | Truck Act 1900 | 1900 No 55 (NSW)
+15 | Games, Wagers and Betting Houses Act 1901 | 1902 No 18 (NSW)
+16 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
+17 | Public Roads Act 1902 | 1902 No 95 (NSW)
+18 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
+19 | Fertilisers Act 1904 | 1904 No 33 (NSW)
+20 | Forfeiture and Validation of Leases Act 1905 | 1905 No 8 (NSW)
+21 | Gaming and Betting Act 1906 | 1906 No 13 (NSW)
+22 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly

@@ -346,8 +346,7 @@ sentence administration board means the Sentence Administration Board establishe
 SES means the ACT State Emergency Service established under the Emergencies Act 2004.
 sign includes attach a seal and make a mark.
 sitting day, of the Legislative Assembly, means a day when the Assembly meets.
-Small Claims Court means the Magistrates Court when exercising jurisdiction as the Small Claims Court.
-Note The Magistrates Court (Civil Jurisdiction) Act 1982 deals with the exercise of this jurisdiction.
+Small Claims Court means the Magistrates Court when it is exercising jurisdiction under the Magistrates Court Act 1930, part 4.6.
 solicitor means a lawyer who practises as a solicitor.
 Speaker means the Presiding Officer of the Legislative Assembly.
 Note The Presiding Officer is elected under the Self-Government Act, s 11.
