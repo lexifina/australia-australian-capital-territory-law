@@ -72,6 +72,7 @@ chief officer (rural fire service) means the chief officer (rural fire service) 
 chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004.
 chief planning executive—see the Planning and Land Act 2002, dictionary.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
+chief solicitor means the chief solicitor under the Government Solicitor Act 1989.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
 city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
@@ -105,6 +106,7 @@ converted ordinance means an enactment that was an ordinance immediately before 
 Coroner’s Court means the Coroner’s Court under the Coroners Act 1997.
 corporation includes a body politic or corporate.
 Corporations Act means the Corporations Act 2001 (Cwlth).
+Court of Appeal means the Court of Appeal constituted under the Supreme Court Act 1933.
 court of summary jurisdiction means the Magistrates Court.
 credit tribunal means the Australian Capital Territory Credit Tribunal.
 Note The Consumer Credit (Administration) Act 1996 deals with the establishment, functions and powers of the tribunal.
@@ -181,9 +183,11 @@ guardianship tribunal means the Guardianship and Management of Property Tribunal
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
 Imperial Act means an Act of the United Kingdom Parliament.
+independent competition and regulatory commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory established under the Independent Competition and Regulatory Commission Act 1997.
 indictable offence—see section 190.
 indictment includes information.
 individual means a natural person.
+infringement notice includes an infringement notice under the Magistrates Court Act 1930 or the Road Transport (General) Act 1999.
 in relation to includes the following:
   (a) in respect of;
   (b) with respect to;
@@ -243,6 +247,7 @@ name includes—
   (c) for a position—the position’s title or designation.
 named month means one of the 12 months of the year.
 national capital authority means the National Capital Authority under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
+national capital plan means the National Capital Plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national land means National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note If an area of land in the ACT is, or is intended to be, used by or on behalf of the Commonwealth, it may be declared National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 27.
 night means the period between sunset on one day and sunrise on the next day.
@@ -250,7 +255,7 @@ Northern Territory means the Northern Territory of Australia.
 notifiable instrument—see section 10 (Meaning of notifiable instrument).
 notification—
   (a) of an Act—see section 30 (References to notification of Acts); and
-  (b) of a statutory instrument—see section 63 (References to notification of registrable instruments).
+  (b) of a registrable instrument—see section 63 (References to notification of registrable instruments).
 notification day, for an Act or statutory instrument, means the day the Act or instrument is notified.
 NSW Act means an Act of the New South Wales Parliament.
 number means—
@@ -316,12 +321,14 @@ remand centre administrator means the Administrator under the Remand Centres Act
 remuneration tribunal means the Remuneration Tribunal established by the Remuneration Tribunal Act 1995.
 repeal includes—
   (a) for an Act or statutory instrument—omit a provision of the Act or instrument; and
-  (b) for an Act or statutory instrument (or a provision of it)—abrogate or limit its effect, or exclude from its application, any circumstance, matter, person, place or purpose; and
-  (c) for a provision of an Act or statutory instrument—omit the provision (or a part of it); and
-  (d) for a statutory instrument—revoke the instrument (or part of it); and
-  (e) for a decision—revoke it or cancel it; and
-  (f) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9).
+  (b) for a provision of an Act or statutory instrument—omit the provision (or a part of it); and
+  (c) for an Act or statutory instrument (or a provision of it)—abrogate or limit its effect, or exclude from its application any circumstance, matter, person, place or purpose; and
+  (d) for an Act or statutory instrument (or a provision of it)—any other implied repeal; and
+  (e) for a statutory instrument—revoke the instrument (or part of it); and
+  (f) for a decision—revoke it or cancel it; and
+  (g) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9).
 residential tenancies tribunal means the Residential Tenancies Tribunal established by the Residential Tenancies Act 1997.
+resident judge means a resident judge under the Supreme Court Act 1933.
 road transport authority means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 rules means—
