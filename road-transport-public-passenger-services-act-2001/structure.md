@@ -21,9 +21,6 @@
 ## Part 6 Miscellaneous
 ## Part 7 Transitional provisions
 ### Division 7.1 General
-### Division 7.2 Bus services under Motor Omnibus Act
-### Division 7.4 Bus operator’s licences
-### Division 7.5 Bus service licences
 ### Division 7.6 Small buses
 ### Division 7.7 Taxis
 ## Dictionary
