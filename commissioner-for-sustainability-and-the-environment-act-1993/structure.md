@@ -3,4 +3,3 @@
 ## Part 3 Functions and powers of commissioner
 ## Part 4 Reports
 ## Part 5 Miscellaneous
-## Part 6 Validation
