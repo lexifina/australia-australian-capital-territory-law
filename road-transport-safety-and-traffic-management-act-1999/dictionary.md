@@ -51,8 +51,6 @@ road transport authority (or authority) means the Australian Capital Territory R
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
 speed measuring device means a device designed to measure the speed at which vehicles are travelling.
-the regulations made under this Act includes any publication applied, adopted or incorporated under the regulations, whether entirely or in part and with or without changes.
-this Act (or the Act) includes the regulations under this Act.
 traffic includes vehicle and pedestrian traffic.
 traffic accident—see section 15.
 traffic lights includes any traffic arrows installed with or near the lights.
