@@ -19,6 +19,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · may (see also s 146)
 · must (see also s 146)
 · police officer
+· present
 · property
 · public trustee
 · registrar-general
@@ -137,7 +138,6 @@ Note An interstate penalty charge is taken to be a penalty charge under this Act
 penalty order—see section 82.
 person assisting, in relation to a search warrant, for part 13 (Search warrants)—see section 195.
 premises, for part 13 (Search warrants)—see section 195.
-present an indictment includes laying an information.
 production order—see section 156.
 property—
   (a) of an offender, for division 7.3 (Value of benefits)—see section 90; and
