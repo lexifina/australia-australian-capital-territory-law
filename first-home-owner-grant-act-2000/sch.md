@@ -11,7 +11,7 @@ comprehensive home building contract means a contract under which a builder unde
 consideration, for an eligible transaction—see subsection 13 (7).
 contract for the purchase of a home—see subsection 13 (3).
 corresponding law means an Act of a State corresponding to this Act.
-Note: State includes the Northern Territory (see Interpretation Act 1967, dict, def of State)
+Note State includes the Northern Territory (see Interpretation Act 1967, dict, def of State)
 determined fee, for a provision of this Act, means the fee (if any) determined under section 54 (Determination of fees) for the provision.
 eligibility criteria means the criteria for deciding whether an applicant for a first home owner grant is eligible for the grant (see Division 2.2).
 eligible transaction—see subsections 13 (1) and (2).
