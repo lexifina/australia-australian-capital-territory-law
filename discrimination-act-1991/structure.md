@@ -1,5 +1,4 @@
 ## PART I—PRELIMINARY
-## part ii—discrimination to which act applies
 ## PART III—UNLAWFUL DISCRIMINATION
 ### Division 1—Discrimination in work
 ### Division 2—Discrimination in other areas
@@ -24,5 +23,9 @@
 ### Division 7—Miscellaneous
 ## PART IX—EXEMPTIONS
 ## Part ixA—discrimination tribunal
+### Division 1—Establishment, functions and powers
+### Division 2—Tribunal members
+### Division 3—Registrar and deputy registrars
+### Division 4—Other provisions
 ## PART X—DISCRIMINATION COMMISSIONER
 ## PART XI—MISCELLANEOUS
