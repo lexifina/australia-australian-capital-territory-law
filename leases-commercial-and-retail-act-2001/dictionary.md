@@ -1,34 +1,35 @@
 # Dictionary
 (see s 4)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · exercise
-· function.
+· function
+· GST.
 accounting period, for a lessor, means a financial year or other period included in a disclosure notice under section 31 (Form of disclosure statements) or otherwise agreed between the parties.
 bond means an amount paid or payable by a tenant as security for the performance of his or her obligations under a lease.
 certificate of occupancy—see the Building Act 2004, dictionary.
 certified exclusionary clause—see section 111.
-change of use lease—see section 9 (What is a change of use lease?).
+change of use lease—see section 9.
 commencement day means 1 July 2002.
 commercial premises—see section 7 (When are premises commercial or retail premises?).
 conduct, in relation to a lease or to negotiations for the entering into of a lease, means an act or omission in relation to the lease or negotiations.
 Examples of acts and omissions in relation to leases or negotiations
-1 Making a request or demand of a person in relation to the lease or negotiations.
-2 Taking action to enforce the terms of the lease.
-3 An action or omission that causes a breach of the lease.
+1 making a request or demand of a person in relation to the lease or negotiations
+2 taking action to enforce the terms of the lease
+3 an action or omission that causes a breach of the lease
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 core trading hours, for a shopping centre, means the hours when retail premises in the shopping centre are generally required to be open for business, whether the requirement is imposed by or under the lease or by or under another agreement or arrangement between the lessor and tenant or is imposed in another way.
 demolition, in relation to premises, includes any repair, renovation or reconstruction of a building containing the premises that cannot be carried out practicably without vacant possession of the premises.
-disclosure statement means a disclosure statement under section 30 (Disclosure statements).
+disclosure statement means a disclosure statement under section 30.
 discretionary rent review clause means a provision in a lease that—
   (a) provides for rent to be set or changed in accordance with whichever of 2 or more methods of calculating the change would result in the highest rent; or
   (b) has the effect of reserving to a party to the lease a discretion as to which of 2 or more methods of calculating initial rent or a change to rent is to apply; or
   (c) has the effect of reserving to a party to the lease complete discretion as to the rate of rent to apply; or
   (d) has the effect of preventing, or giving a person the power to prevent, a decrease if the provision for determining initial rent or rent variations otherwise operates in a way that rent might decrease.
-dispute means a dispute to which this Act applies under section 17 (Disputes).
+dispute means a dispute to which this Act applies under section 17.
 enter into, a lease—see section 5 (When is a lease entered into to work out timing for obligations under this Act?).
 excluded area—see section 11 (What is an excluded area?).
 extend, under an option, includes renew under the option.
-GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 initial rent means the rent set at the beginning of a lease or renewal of a lease.
 key money means an amount paid by or on behalf of a tenant to, or at the direction of, a lessor, or any benefit given to, or at the direction of, a lessor, but does not include—
   (a) rent; or
@@ -52,12 +53,12 @@ option, for a lease, means a right given under the lease for—
   (a) the extension of the term of the lease; or
   (b) the renewal of the lease for a further term.
 premises, for a lease, are the premises covered by the lease.
-recoverable outgoings means outgoings recoverable under section 70 (Recoverable outgoings).
+recoverable outgoings means outgoings recoverable under section 70.
 renewal, of a lease—see section 6 (When is a lease taken to be renewed for this Act?).
 rent includes a component of rent.
 rent review includes a change to rent payable on the exercise of an option under a lease, but does not include a predetermined rent change.
 retail area means the area of a shopping centre other than an excluded area.
-shopping centre—see section 8 (What are shopping centres?).
+shopping centre—see section 8.
 small commercial premises means commercial premises with a lettable area of no more than 300m2.
 taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 tenant, of premises, means a person who has the right to occupy the premises under a lease, and includes—
@@ -65,7 +66,7 @@ tenant, of premises, means a person who has the right to occupy the premises und
   (b) a person who receives the right to occupy the premises by assignment from the tenant or by operation of law; and
   (c) in relation to negotiations for a lease—a prospective tenant.
 termination notice means a notice under section 117 (Right to terminate—no disclosure statement etc) or 118 (Failure to notify material change in disclosure statement).
-Territory lease means—
+territory lease means—
   (a) a lease granted under the Land (Planning and Environment) Act 1991; or
   (b) a lease under the Unit Titles Act 2001;
 but does not include a sublease.
