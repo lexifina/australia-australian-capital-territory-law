@@ -18,4 +18,3 @@
 ## Part 9 Offences
 ## Part 10 Reconsideration and review
 ## Part 11 Miscellaneous
-## Part 12 Temporary provisions
