@@ -5,4 +5,3 @@
 ## Part 5 Building and construction industry training plans
 ## Part 6 Inspectors
 ## Part 7 Miscellaneous
-## Part 8 Validation
