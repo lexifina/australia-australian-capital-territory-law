@@ -24,6 +24,8 @@ compensation means an amount payable under this Act in relation to an injury to,
 compensation for costs, for a worker, means compensation to which the worker is entitled under part 4.5 (Compensation for medical treatment, damage and other costs).
 compulsory insurance policy—see section 144 (Meaning of compulsory insurance policy).
 cpi indexed—see section 20.
+damages, for chapter 9 (Common law damages)—see section 180.
+damages claim, for part 9.2 (Choice of law)—see section 182C.
 deductible proportion, for part 4.4 (Compensation for permanent injuries)—see section 61 (1) (Deduction for previous injury or pre-existing condition).
 dependant, of a dead worker, means an individual—
   (a) who was totally or partly dependent on the worker’s earnings on the day of the worker’s death or who would, apart from the worker’s incapacity because of the injury, have been so dependent; and
@@ -36,7 +38,10 @@ domestic partner, of a worker who has died, means the person who was the worker�
 Note This definition qualifies the meaning of domestic partner given by the Legislation Act, s 169.
 employer—
   (a) see section 5 (Meaning of employer); and
-  (b) for chapter 5 (Injury management process)–see section 87 (Meaning of employer and insurer if more than 1).
+  (b) for part 4.2A (Employment connection with ACT or State)—see section 36A (2) (Meaning of Territory or State of connection etc); and
+  (c) for chapter 5 (Injury management process)—see section 87 (Meaning of employer and insurer if more than 1); and
+  (d) for part 9.2 (Choice of law)—see section 182A (1).
+employment, for part 4.2A (Employment connection with ACT or State)—see section 36A (2) (Meaning of Territory or State of connection etc).
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 full-time student means an individual who—
   (a) is at least 16 years old but younger than 25; and
@@ -49,6 +54,7 @@ incapacity date, for a worker, means—
 initial loss, for part 4.4 (Compensation for permanent injuries)—see section 61 (1) (Deduction for previous injury or pre-existing condition).
 injured worker—see section 86 (Definitions for ch 5).
 injury—see section 4 (Meaning of injury).
+Note For an extended meaning of injury for ch 9 (Common law damages), see s 180.
 injury management, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
 injury management program, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
 injury notice—
@@ -112,10 +118,17 @@ speech therapist means—
   (b) a person who is a member of the Australian Association for Speech and Hearing.
 statutory floor means the federal minimum wage decided from time to time by the Australian Industrial Relations Commission under the Workplace Relations Act 1996 (Cwlth).
 substantial means real, actual or material.
-Territory worker means a worker of the Territory under section 33 (Compensation limited to Territory workers).
+substantive law, for part 9.2 (Choice of law)—see section 182B.
+Territory or State of connection—see section 36A.
+Territory worker means a worker for whom the ACT is the Territory or State of connection.
 therapeutic treatment includes an examination, test or analysis done for the purpose of diagnosing, or treatment given for the purpose of alleviating, an injury.
 totally incapacitated—see section 6 (Meaning of totally incapacitated).
 vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140 (Meaning of vocational rehabilitation).
 weekly compensation, for a worker, means compensation to which the worker is entitled under section 39 (Totally incapacitated workers), section 40 (Partially incapacitated workers up to 26 weeks after incapacity date) or section 41 (Partially incapacitated workers after 26 weeks after incapacity date).
-worker—see chapter 3 (Meaning of worker).
+worker—
+  (a) see chapter 3 (Meaning of worker); and
+  (b) for part 4.2A (Employment connection with ACT or State)—see section 36A (2) (Meaning of Territory or State of connection etc); and
+  (c) for part 9.2 (Choice of law)—see section 182A (1).
+workers compensation law means a law of a place that sets up a statutory scheme for the compensation of injuries arising out of or in the course of employment.
 workplace injury—see section 86 (Definitions for ch 5).
+work-related injury, for part 9.2 (Choice of law)—see section 182A (2) and (3).

@@ -4,6 +4,7 @@
 # Chapter 4 Entitlement to compensation
 ## Part 4.1 Important concepts
 ## Part 4.2 Compensation for personal injury
+## Part 4.2A Employment connection with ACT or State
 ## Part 4.3 Weekly compensation
 ## Part 4.4 Compensation for permanent injuries
 ## Part 4.5 Compensation for medical treatment, damage and other costs
@@ -24,9 +25,14 @@
 ## Part 6.4 Settlement of claims
 # Chapter 7 Vocational rehabilitation
 # Chapter 8 Insurance
+# Chapter 9 Common law damages
+## Part 9.1 Interpretation and application
+## Part 9.3 Compensation and common law damages
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 On-the-spot fines
 # Chapter 13 Review of decisions by administrative appeals tribunal
 # Chapter 14 Miscellaneous
 # Chapter 15 Temporary provisions for acts of terrorism
+# Chapter 16 Transitional—Workers Compensation Amendment Act 2001
+# Chapter 17 Transitional—Workers Compensation Amendment Act 2003 (No 2)
