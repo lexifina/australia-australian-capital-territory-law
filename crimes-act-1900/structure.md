@@ -8,13 +8,14 @@
 ### Division 2—Theft and related offences
 ### Division 3—Criminal damage to property
 ### Division 3A—Forgery and the use of forged instruments
+### Division 3B—Offences relating to computers
 ### Division 4—Miscellaneous
+## part V—escape provisions
 ## PART VII
 ## PERJURY AND LIKE OFFENCES
-## part viii—aiding and abetting, accessories, attempts, incitement and conspiracy
-## PART X—apprehension, detention, discharge, search and seizure and escape
-### Division 1—Apprehension, detention, search and seizure
-### Division 1A—Escape provisions
+## PART VIII—AIDING AND ABETTING, ACCESSORIES, ATTEMPTS, INCITEMENT AND CONSPIRACY
+## part x—criminal investigation
+### Division 1—Criminal investigation (generally)
 ### Division 2—Criminal investigation (extra-territorial offences)
 ## PART XI
 ## PROCEDURE, EVIDENCE, VERDICT, &c.
@@ -27,5 +28,6 @@
 ## PART XV
 ## CONDITIONAL RELEASE OF OFFENDERS
 ## PART XVA—COMMUNITY SERVICE ORDERS
+## part XVB—grant of pardon and remission of penalties
 ## PART XVI
 ## MISCELLANEOUS ENACTMENTS
