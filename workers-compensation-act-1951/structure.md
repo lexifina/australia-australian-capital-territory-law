@@ -24,11 +24,9 @@
 ## Part 6.4 Settlement of claims
 # Chapter 7 Vocational rehabilitation
 # Chapter 8 Insurance
-# Chapter 9 Compensation and common law remedies
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 On-the-spot fines
 # Chapter 13 Review of decisions by administrative appeals tribunal
 # Chapter 14 Miscellaneous
 # Chapter 15 Temporary provisions for acts of terrorism
-# Chapter 16 Transitional
