@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 appropriation means an appropriation of public money by any Act including this Act.
 Appropriation Act means an Act that makes appropriations in respect of a financial year for purposes referred to in section 8.
@@ -30,6 +30,8 @@ general government sector means—
 generally accepted accounting practice means accounting practices and procedures recognised by the accounting profession as appropriate for reporting financial information relating to government, a department or a Territory authority, being practices and procedures that are consistent with this Act and any relevant Appropriation Act.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
+interest includes a dividend and any other financial return on a deposit, loan or other investment.
+invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
 Legislative Assembly secretariat means the clerk of the Legislative Assembly and the officers and employees of the public service who assist the clerk in the exercise of the clerk’s functions.
 outcomes means the consequences for the community of outputs.
 outputs means goods produced or services provided by a department or Territory authority or a person producing goods or providing services on behalf of a department or Territory authority.
