@@ -1,7 +1,7 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
-approved rehabilitation provider, for chapter 7 (Vocational rehabilitation)—see section 139 (Meaning of approved rehabilitation provider etc).
+approved rehabilitation provider—see section 139 (1).
 average pre-incapacity weekly earnings means earnings worked out under—
   (a) for a worker who is not a contractor—section 21 (Working out average pre-incapacity weekly earnings for non-contractor); or
   (b) for a worker who is a contractor—section 22 (Working out average pre-incapacity weekly earnings for contractor).
@@ -61,6 +61,7 @@ insurer—
     (ii) if there is more than 1 employer of the worker—see section 87; and
   (b) for part 6.2 (Time for accepting or rejecting claims)—see section 127 (1).
 loss, for chapter 4 (Entitlement to compensation)—see section 48.
+lump sum claim means a claim for compensation under this Act in relation to a loss to which part 4.4 (Compensation for permanent injuries) or 4.6 (Compensation for death) applies.
 maximum loss amount, for part 4.4 (Compensation for permanent injuries)—see section 50.
 medical referee means a medical referee appointed under section 211.
 medical treatment means—
@@ -97,7 +98,7 @@ protocol—
 recognised auditor, in relation to a certificate provided for an employer for this Act, means any of the following who are not the employer or an employee or executive officer of the employer:
   (a) an auditor registered under the Corporations Act;
   (b) a member of the Institute of Chartered Accountants in Australia;
-  (c) a member of the Australian Society of Certified Practising Accountants;
+  (c) a member of CPA Australia;
   (d) a member of the National Institute of Accountants.
 registered agreement means an agreement registered under section 79 (Registration of agreements for compensation).
 registered auditor means an auditor registered under the Corporations Act.
