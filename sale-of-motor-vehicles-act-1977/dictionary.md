@@ -28,10 +28,10 @@ and includes a motor vehicle, or a motor vehicle included in a class of motor ve
   (g) a motor vehicle, or a class of motor vehicles, prescribed not to be a motor vehicle, or a class of motor vehicles, as the case may be, for this definition.
 compensation fund means the motor vehicle dealers compensation fund.
 corporate licensee means a corporation that holds a licence.
-creditor, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+creditor, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 dealer—see section 6A.
 dealings register, of a licensed dealer, means a dealings register maintained by the dealer under section 15 (Licensees to maintain dealings register).
-debtor, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+debtor, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 demonstrator, in relation to a motor vehicle, means a vehicle—
   (a) that has been sold only to a dealer or wholesaler; and
   (b) that has been registered only in the name of any 1 of the following persons:
@@ -41,7 +41,7 @@ demonstrator, in relation to a motor vehicle, means a vehicle—
     (i) a purpose in connection with its manufacture or sale; or
     (ii) the purpose of demonstrating the motor vehicle, or another vehicle of the same type, to a potential buyer of that vehicle.
 deputy registrar means the Deputy Registrar of Motor Vehicle Dealers under section 5A.
-director-general, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+director-general, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 executive officer, of a corporation, means the person, by whatever named called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 Examples
 1 A director of the corporation
@@ -59,13 +59,14 @@ or for 2 or more of those purposes, but does not include—
   (h) a person who holds himself or herself out as ready to purchase motor vehicles from the public; or
   (i) a person or a person included in a class of persons declared by the regulations to be excluded from this definition.
 function includes power.
-hire-purchase agreement, in relation to a motor vehicle, includes a letting of the motor vehicle with an option to purchase and an agreement the object of which is the sale and purchase of a motor vehicle by instalments (whether the agreement describes the instalments as rent or hire or otherwise), but does not include an agreement under which the property in the motor vehicle comprised in the agreement passes at the time of the agreement or at any time before delivery of the motor vehicle.
-hire-purchase agreement, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
-hirer, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+hire-purchase agreement, in relation to a motor vehicle, means—
+  (a) a letting of the vehicle with an option to purchase the vehicle; or
+  (b) an agreement for the purchase of the vehicle by instalments (whether described as rent or hire or otherwise), other than an agreement under which the property in the vehicle passes at the time of the agreement or on, or at any time before, delivery of the vehicle.
+hirer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 individual licensee means an individual who holds a licence.
 infringement notice, for part 10 (Enforcement)—see section 66.
-inspector means an inspector under section 5B but, for Part 10 (Enforcement), does not include a police officer.
-lease, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+inspector means an inspector under section 5B but, for part 10 (Enforcement), does not include a police officer.
+lease, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 licence means a vehicle sale licence or a car market operator licence and, if the licence is varied under section 14E, includes the licence as so varied.
 licensed car market operator means a person who holds a car market operator licence.
 licensed dealer means a dealer who holds a vehicle sale licence.
@@ -73,39 +74,43 @@ licensed wholesaler means a person who holds a vehicle sale licence to carry on 
 manufacturer means a person who carries on the business of making or assembling motor vehicles.
 model designation means, in relation to a motor vehicle of a particular model, the words, figures, letters or other symbols (if any) applied by the manufacturer of that motor vehicle to describe or identify a motor vehicle of that model.
 motorcycle means a motor vehicle that has less than 4 wheels and is steered by means of handlebars.
-motor vehicle means any motor car, motorcycle, or other vehicle used on land that is propelled wholly or partly by any volatile spirit, steam, gas, oil or electricity, or by any means other than human or animal power, whether or not that vehicle is in working condition or is incomplete but does not include any vehicle used on a railway or tramway or a vehicle included in a class of vehicles that the Minister has, under section 92, declared not to be a motor vehicle for the purposes of this Act.
+motor vehicle means any motor car, motorcycle, or other vehicle used on land that is propelled wholly or partly by any volatile spirit, steam, gas, oil or electricity, or by any means other than human or animal power, whether or not that vehicle is in working condition or is incomplete but does not include any vehicle used on a railway or tramway or a vehicle included in a class of vehicles that the Minister has, under section 92, declared not to be a motor vehicle for this Act.
 new motor vehicle means a motor vehicle other than a second-hand motor vehicle.
-non-dealer, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
-notice, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+non-dealer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+notice, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 notified person, for part 10 (Enforcement)—see section 66.
 odometer means an instrument or device that measures and records the distance travelled by a motor vehicle, but does not include an instrument or device that is designed so as to permit, as part of its normal functioning, manual alteration of the distance so recorded.
 on-the-spot-fine, for part 10 (Enforcement)—see section 66.
-owner, in relation to a motor vehicle, includes—
-  (a) a person who is the sole owner, joint owner or part owner of the motor vehicle; and
-  (b) a person who has the possession of the motor vehicle under or subject to a hire-purchase agreement or subject to a bill of sale or like instrument; and
-  (c) a person who has the possession of the motor vehicle under a contract of hire;
-but does not include a person in whom the property in the motor vehicle or any absolute or conditional right or licence to take possession of the motor vehicle is vested under or subject to a contract of hire or hire-purchase agreement or subject to a bill of sale or like instrument but who has not for the time being the possession of the motor vehicle.
-owner, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
-participating state, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
-payment, of a purchase price, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+owner, in relation to a motor vehicle—
+  (a) for part 4A (Registration of interests in motor vehicles)—see section 32A; and
+  (b) in any other case—
+    (i) includes a person—
+      (A) who is the sole owner, joint owner or part owner of the motor vehicle; or
+      (B) who has possession of the motor vehicle under a hire-purchase agreement, or bill of sale or similar instrument; or
+      (C) who has possession of the motor vehicle under a contract of hire; and
+    (ii) does not include a person—
+      (A) mentioned in paragraph (b) (i) (A) who does not have possession of the motor vehicle; or
+      (B) who is entitled under a contract of hire, hire-purchase agreement, or bill of sale or similar instrument, to possession of the motor vehicle but who does not have possession of it.
+participating State, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+payment, of a purchase price, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 premises includes a parcel of vacant land.
-purchase, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+purchase, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 qualified accountant means—
   (a) a member of the Institute of Chartered Accountants in Australia, the National Institute of Accountants or the Australian Society of Certified Practising Accountants; or
   (b) a person registered as a registered company auditor under the Corporations Act.
 register means the register of motor vehicle dealers kept by the registrar under section 6.
-registered, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
-register of interests, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+registered, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+register of interests, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 registrar means the Registrar of Motor Vehicle Dealers under section 5.
-registrable interest, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+registrable interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 relevant amount, for part 10 (Enforcement)—see section 66.
 relevant chief executive, for part 2 (Licences to carry on business as a dealer, wholesaler or car market operator)—see section 6B.
 relevant period for payment, for part 10 (Enforcement)—see section 66.
 schedule 3 offence, for part 10 (Enforcement)—see section 66.
-security interest, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 sell, in relation to a motor vehicle, means to sell as principal or agent.
 suitable person—see section 71.
-the NSW Act, for pt 4A (Registration of interests in motor vehicles)—see section 32A.
+the NSW Act, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 trade owner means—
   (a) a dealer; or
   (b) a financier.

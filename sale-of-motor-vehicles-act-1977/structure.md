@@ -1,5 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 Licences to carry on business as a dealer, wholesaler or car market operator
+## Part 2 Licences to carry on business as dealer, wholesaler or car market operator
 ## Part 3 Dealings in motor vehicles
 ## Part 4 Sale of second-hand motor vehicles generally
 ## Part 4A Registration of interests in motor vehicles
