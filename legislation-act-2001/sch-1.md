@@ -1,6 +1,6 @@
 # Schedule 1 Acts included in sources of law of the Territory
 (see s 17)
-## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
+## U Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 citation (if provided by the Act) or subject matter | column 3 year (if not provided in the citation), number or date of royal assent and original jurisdiction
 1 | Magna Carta | (1297) 25 Edw. 1, c 29 (UK)
 2 | Due process of law | (1351) 25 Edw. 3, St. 5 c 4 (UK)
@@ -55,7 +55,8 @@ column 1 item | column 2 citation (if provided by the Act) or subject matter | c
 51 | Second-hand Dealers and Collectors Act 1906 | 1906 No 30 (NSW)
 52 | Defamation (Amendment) Act 1909 | 1909 No 22 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
-Note to pt 1.2 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
+Note to pt 1.2
+The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
 column 1 item | column 2 name of NSW Act | column 3 applying Territory Act
 1 | Scaffolding and Lifts Act 1912 | Scaffolding and Lifts Act 1957 (repealed)
 2 | Anglican Church of Australia Trust Property Act 1917 | Anglican Church of Australia Trust Property Act 1928

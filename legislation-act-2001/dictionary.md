@@ -27,7 +27,7 @@ auditor-general means the Auditor-General for the Territory.
 Note The Auditor-General Act 1996 provides for the appointment, functions and powers of the auditor-general.
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external Territory.
 Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
-Note Australian driver licence is defined in the dictionary to that Act to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also definition of driver licence).
+Note Australian driver licence is defined in the dictionary to that Act to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def of driver licence).
 authorised deposit-taking institution means an authorised deposit-taking institution under the Banking Act 1959 (Cwlth).
 bank means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the word ‘bank’, ‘banker’ or ‘banking’; or
@@ -119,7 +119,7 @@ document includes—
   (c) anything from which images, sounds, messages or writings can be produced or reproduced, whether with or without the aid of anything else; or
   (d) a drawing, map, photograph or plan.
 driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
-Note Driver licence is defined in the dictionary to that Act to mean a driver licence of any kind issued under that Act (see also definition of Australian driver licence).
+Note Driver licence is defined in the dictionary to that Act to mean a driver licence of any kind issued under that Act (see also def of Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established by the Electoral Act 1992.
 electoral commissioner means the Electoral Commissioner under the Electoral Act 1992.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
@@ -141,8 +141,8 @@ foreign country means a country (whether or not an independent sovereign state) 
 former NSW Act means a NSW Act mentioned in schedule 1.
 former UK Act means a UK Act mentioned in schedule 1.
 found guilty, of an offence, includes—
-  (a) having the offence taken into account under the Crimes Act 1900, section 448; and
-  (b) having an order made in relation to the offence under the Crimes Act 1900, section 556A or the Children and Young People Act 1999, section 96.
+  (a) having the offence taken into account under the Crimes Act 1900, section 357; and
+  (b) having an order made in relation to the offence under the Crimes Act 1900, section 402 or the Children and Young People Act 1999, section 96.
 function includes authority, duty and power.
 gambling and racing commission means the Gambling and Racing Commission established under the Gambling and Racing Control Act 1999.
 Gazette means the Australian Capital Territory Gazette.
