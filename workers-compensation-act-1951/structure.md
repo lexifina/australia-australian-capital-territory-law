@@ -1,6 +1,6 @@
 ## PART I—PRELIMINARY
 ## PART II—ENTITLEMENT TO COMPENSATION
-## part iia—occupational rehabilitation2
+## part iia—occupational rehabilitation
 ## PART III—INSURANCE
 ## PART IV—COMPENSATION AND COMMON LAW REMEDIES
 ## PART V—iNSPECTION
