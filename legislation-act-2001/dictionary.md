@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used words and expressions
+Part 1 Meaning of commonly-used words and expressions
 (see s 144)
 Note Words and expressions that are defined only for this Act are set out in pt 2.
 AAT—see definition of administrative appeals tribunal.
@@ -94,6 +94,7 @@ Note The Australian Government Gazette was published from 1 July 1973 to 30 June
 community advocate means the Community Advocate under the Community Advocate Act 1991.
 confer, in relation to a function, includes impose.
 conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 1980.
+consumer and trader tribunal means the Consumer and Trader Tribunal under the Consumer and Trader Tribunal Act 2003.
 Consumer Credit (Australian Capital Territory) Code means the provisions applying because of the Consumer Credit Act 1995, section 4.
 Consumer Credit (Australian Capital Territory) Regulations means the provisions applying because of the Consumer Credit Act 1995, section 5.
 contravene includes fail to comply with.
@@ -111,9 +112,9 @@ Criminal Code means the Criminal Code 2002.
 custodial escort means a person appointed as an escort under the Custodial Escorts Act 1998, section 4.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130 (What is a definition?).
-dentist means a registered dentist under the Dentists Act 1931.
 dental prosthetist means a registered dental prosthetist under the Dental Technicians and Dental Prosthestists Registration Act 1988.
 dental technician means a registered dental technician under the Dental Technicians and Dental Prosthestists Registration Act 1988.
+dentist means a registered dentist under the Dentists Act 1931.
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
 director of corrective services means the Director of Corrective Services under the Periodic Detention Act 1995.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
@@ -251,6 +252,7 @@ occupy a position includes hold the position or exercise functions of the positi
 office includes position.
 office of fair trading means the Office of Fair Trading of the Australian Capital Territory.
 Note The Fair Trading (Consumer Affairs) Act 1973 establishes the office and deals with its functions and powers.
+OH&S commissioner means the Occupational Health and Safety Commissioner under the Occupational Health and Safety Act 1989.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
 ordinance means an ordinance made under the Seat of Government (Administration) Act 1910 (Cwlth), section 12.
@@ -332,7 +334,7 @@ summary offence—see section 190 (2).
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
 swear, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
-Territory authority means a body established under an Act.
+Territory authority means a body established under an Act, but does not include a body declared under the regulations not to be a Territory authority.
 Territory instrumentality means a corporation that—
   (a) is established under an Act or statutory instrument, or under the Corporations Act; and
   (b) is a Territory instrumentality under the Public Sector Management Act 1994.
@@ -372,8 +374,10 @@ Examples
 printing, photocopying, photography, typewriting
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
-U Part 2 Words and expressions for Legislation Act 2001 only
+Part 2 Words and expressions for Legislation Act 2001 only
 Note Words and expressions that apply to all Acts and statutory instruments are set out in pt 1.
+Act, for chapter 14 (Interpretation of Acts and statutory instruments)—see section 136.
+Note See also def Act in dict, pt 1.
 administrator, for part 19.5 (Service of documents)—see section 246.
 agency, for part 19.5 (Service of documents)—see section 246.
 appointee—
@@ -401,13 +405,15 @@ fax number, for part 19.5 (Service of documents)—see section 246.
 fee, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
 home address, for part 19.5 (Service of documents)—see section 246.
 law—
-  (a) for chapter 8 (Commencement and exercise of powers before commencement)—see section 72 (Meaning of law in ch 8); and
-  (b) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9); and
-  (c) for chapter 11 (Republication of Acts and statutory instruments)—see section 107 (Meaning of law in ch 11); and
-  (d) for chapter 13 (Structure of Acts and statutory instruments)—see section 125 (Meaning of law in ch 13); and
-  (e) for chapter 16 (Courts, tribunals and other decision-makers)—see section 175 (Meaning of law in ch 16); and
-  (f) for chapter 17 (Entities and positions)—see section 185 (Meaning of law in ch 17); and
-  (g) for chapter 19 (Administrative and machinery provisions)—see section 195 (Meaning of law in ch 19).
+  (a) for chapter 3 (Authorised versions and evidence of laws and legislative material)—see section 22A; and
+  (b) for chapter 8 (Commencement and exercise of powers before commencement)—see section 72 (Meaning of law in ch 8); and
+  (c) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9); and
+  (d) for chapter 11 (Republication of Acts and statutory instruments)—see section 107 (Meaning of law in ch 11); and
+  (e) for chapter 13 (Structure of Acts and statutory instruments)—see section 125 (Meaning of law in ch 13); and
+  (f) for chapter 16 (Courts, tribunals and other decision-makers)—see section 175 (Meaning of law in ch 16); and
+  (g) for chapter 17 (Entities and positions)—see section 185 (Meaning of law in ch 17); and
+  (h) for chapter 19 (Administrative and machinery provisions)—see section 195 (Meaning of law in ch 19).
+legislative material, for chapter 3 (Authorised versions and evidence of laws and legislative material)—see section 22A.
 non-determinative provision—see section 5 (3).
 provide a service, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
 referential words means words that identify a provision as a provision, or part of a provision, of the Act, statutory instrument or provision in which they appear.
@@ -418,8 +424,11 @@ Examples
 4 said
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 register means the ACT legislation register.
-republication means a republication of a law with the meaning of section 107 (Meaning of law in ch 11).
+republication—
+  (a) for chapter 3 (Authorised versions and evidence of laws and legislative material)—see section 22A; and
+  (b) for chapter 11 (Republication of Acts and statutory instruments)—see section 107.
 republication date, for an authorised republication, means the date stated in the republication as the republication date.
 responsible, for part 19.5 (Service of documents)—see section 246.
 scrutiny committee principles, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5).
 service, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
+working out the meaning of an Act, for part 14.2 (Key principles of interpretation)—see section 138.
