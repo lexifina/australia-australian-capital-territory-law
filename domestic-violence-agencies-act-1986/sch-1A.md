@@ -1,4 +1,5 @@
-# SCHEDULE 1A Section 3
+# SCHEDULE 1A Subparagraph 4A (1) (c) (ii)
+\1. An offence listed in the following table:
 DOMESTIC VIOLENCE OFFENCES UNDER THE CRIMES ACT 1900
 Column 1 Provision | Column 2 Description of offence
 12 | Murder
@@ -12,12 +13,12 @@ Column 1 Provision | Column 2 Description of offence
 25 | Unlawfully or negligently causing grievous bodily harm
 26 | Common assault
 27 | Acts endangering human life
-28 | Acts endangering the health, safety or physical well-being of another person
+28 | Acts endangering the health, safety or physical wellbeing of another person
 29 | Culpable driving of a motor vehicle
 30 | Threatening to kill
 31 | Threatening to inflict grievous bodily harm
 32 (1) (a) | Making a demand with a threat to kill or inflict grievous bodily harm
-32 (2) (a) | Making a demand with a threat to endanger health, safety or physical well-being
+32 (2) (a) | Making a demand with a threat to endanger health, safety or physical wellbeing
 33 | Possession of an object with intent to use it to kill or cause grievous bodily harm
 34 | Forcible confinement or imprisonment
 34A | Stalking
@@ -43,6 +44,7 @@ Column 1 Provision | Column 2 Description of offence
 493 | Possession of an offensive weapon or disabling substance in a public place in circumstances likely to cause alarm
 494 | Possession of an offensive weapon or disabling substance in circumstances indicating intent to use the weapon or substance
 546A | Behaving in an offensive manner
+\2. An offence against Part VIII of the Crimes Act 1900 that relates to an offence listed in the Table in item 1.
 ## Schedule 1 Section 3
 Drugs
 Amitriptyline and other compounds structurally derived therefrom by substitution in the side chain.
@@ -87,12 +89,13 @@ Court at Canberra No. of 19
 The Court, having heard an application made by [name of applicant] under the Domestic Violence Act 1986 in respect of the conduct [or threatened conduct] of [name of respondent] towards [name of person to be protected]:
 Now the Court this day orders that, for [period]:
 \1. [name of respondent] not engage in the following conduct:
-\2. [name of respondent] not engage in conduct that constitutes any domestic violence offence.
+\*2. [name of respondent] not engage in conduct that constitutes any domestic violence offence.
 \3. [name of respondent] comply with the following prohibitions and conditions:
 [specify prohibitions and conditions and any other period or periods for which they are imposed]
 Dated 19 .
 [Signature]
 Registrar of the Magistrates court
+\* Delete for interim protection order.
 Note: If a State or another Territory has reciprocal legislation in force, this order may be registered, and enforced, in that State or other Territory without notice of registration being given to the respondent.
 Form 3 Section 19
 Domestic Violence Act 1986
@@ -102,7 +105,7 @@ In the Magistrates
 Court at Canberra No. of 19
 The Court, having heard an application made by [name of applicant] under the Domestic Violence Act 1986 in respect of the conduct [or threatened conduct] of [name of respondent] towards [name of person to be protected], and having on [date of original order] ordered that, for [period]:
 \1. [name of respondent] not engage in the following conduct:
-\2. [name of respondent] not engage in conduct that constitutes any domestic violence offence.
+\*2. [name of respondent] not engage in conduct that constitutes any domestic violence offence.
 \3. [name of respondent] comply with the following prohibitions and conditions:
 [specify prohibitions and conditions and any other period or periods for which they are imposed]
 Now the Court, on the application of [name of applicant], this day orders that the Protection Order [or Interim Protection Order] be varied as follows:
@@ -110,3 +113,4 @@ Now the Court, on the application of [name of applicant], this day orders that t
 Dated 19 .
 [Signature]
 Registrar of the Magistrates Court
+      \* Delete for variation of interim protection order.
