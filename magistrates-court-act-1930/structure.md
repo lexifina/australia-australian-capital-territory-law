@@ -23,7 +23,7 @@
 ### Division 1—Institution of Proceedings
 ### Division 2—Proceedings subsequent to Hearing of Evidence
 ### Division 2A—Costs
-### Division 3—Bail2
+### Division 3—Recognizances of Witnesses
 ### Division 4—Miscellaneous
 ## Part VII—Proceedings in case of Offences Punishable Summarily
 ## Part VIIA—Service and pleading by post with respect to certain offences
@@ -39,13 +39,11 @@
 ### Division 1—The Appellate Jurisdiction of the Supreme Court
 ### Division 2—Appeals
 ### Division 3—Orders to Review
-### Division 3A—Absconding Appellants2
-### Division 4—General Provisions2
+### Division 4—General Provisions
 ## Part XII—Protection Of Magistrates In The Execution Of Their Office
 ## Part XIII—Costs And Fees
-## Part XIIIA—Special Provisions With Respect To Bail
 ## Part XIV—Securities
 ## Part XV—Miscellaneous
 ## The ScheduleS
-## The First Schedule2
+## The First Schedule
 ## Notice of Proceedings
