@@ -1,13 +1,14 @@
 # Dictionary
 (see s 3)
-Note 1 The following terms that are relevant to this Act are defined in the Legislation Act 2001, dict, pt 1:
-  · doctor
-  · exercise
-  · function
-  · Self-government Act
-  · Speaker
-  · State.
-Note 2 The Legislation Act 2001 contains other definitions and provisions that are relevant to this Act.
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· adult
+· doctor
+· exercise
+· fail
+· function
+· Self-government Act
+· Speaker.
 AAT means the administrative appeals tribunal.
 abbreviation, of the name of a political party or ballot group, includes an alternative name of the party or group.
 address—
@@ -27,22 +28,24 @@ authorised witness, for part 10 (Voting)—see section 127 (Meaning of authorise
 available for public inspection—see section 4A (Meaning of available for public inspection).
 ballot group, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 ballot group candidate means a candidate at an election nominated by the registered officer of a registered ballot group.
-ballot paper includes an electronic ballot paper.
+ballot paper—
+  (a) includes an electronic ballot paper; and
+  (b) if regulations are in force under section 114 (7) (Ballot papers)—means a ballot paper in the form prescribed under the regulations.
+Note A ballot paper is required to be in the form set out in sch 1 (see s 114 (1)).
 bribery, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 broadcast includes televise.
 broadcaster, for division 14.5 (Disclosure of electoral expenditure)—see section 223 (Definitions for div 14.5).
 candidate means—
   (a) except in part 13 (Casual vacancies)—a person declared to be a candidate under section 109 (Declaration of candidates); and
   (b) in part 13—a person declared to be a candidate under section 193 (Publication of candidates’ details).
-candidate square, in relation to a ballot paper, means a square that is printed on a ballot paper adjacent to a candidate’s name under section 116 (1) (h).
+candidate square—see section 116 (1) (h) (Printing of ballot papers).
 certified list of electors means a certified list of electors prepared under section 121.
 closed, in relation to a roll, means closed in accordance with section 80.
 commissioner means the Electoral Commissioner appointed under section 22.
 Commonwealth Electoral Act means the Commonwealth Electoral Act 1918 (Cwlth).
 Commonwealth roll means the roll of electors for the ACT required by the Commonwealth Electoral Act, section 81.
-contravention, for part 16 (Disputed elections, eligibility and vacancies)—see section 250A (References in pt 16 to contraventions of sections).
-court, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
-Court of Disputed Elections means the Supreme Court exercising jurisdiction under part 16.
+contravention, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
+Court of Disputed Elections—see section 252 (2).
 declaration vote means a vote cast in accordance with any of the following provisions:
   (a) section 135 (Declaration voting at polling places);
   (b) section 136A (Postal voting before polling day);
@@ -72,22 +75,22 @@ electoral expenditure, for division 14.5 (Disclosure of electoral expenditure)�
 electoral matter—see section 4 (Meaning of electoral matter).
 electoral paper means a document, form or notice provided for or required under this Act.
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
+electronic form, of a roll or an extract from a roll, means a disk, tape or other device from which the information in the extract or roll may be reproduced by mechanical, electronic or other means.
 electronic voting—see section 120 (2).
 eligible elector, for division 10.4 (Voting otherwise than at a polling place)—see section 136 (Meaning of eligible elector for div 10.4).
 eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 entity, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
-extract, in relation to a roll—see section 59.
+extract, from a roll—see section 59.
 extraordinary election—see section 101.
 file, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 financial controller, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 former MLA, for part 13 (Casual vacancies)—see section 190 (Definitions for pt 13).
 general election means a general election of MLAs.
 gift, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
-group, in relation to candidates in an election—see section 115.
+group, in relation to candidates in an election, means candidates whose names are grouped on the ballot papers in accordance with section 115 (1) or (2), whichever is applicable.
 hospital includes a convalescent home and an institution similar to a hospital or convalescent home.
 hour of nomination—see section 108.
-illegal practice, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 investigation notice, for division 14.7 (Compliance)—see section 235 (Definitions for div 14.7).
 judge means—
   (a) a judge of the Supreme Court; or
@@ -115,14 +118,18 @@ party candidate means—
 person, for part 15 (Review of decisions)—see section 244 (Definitions for pt 15).
 place of nomination—see section 108.
 political party means an organisation, incorporated or unincorporated, an object or activity of which is the promotion of the election to the Assembly of a candidate or candidates endorsed by it.
-polling day—see section 102.
+polling day—
+  (a) means the day when, apart from section 111 (Need for an election), a poll for an election would be required; and
+  (b) except in part 8 (Timing of elections) and part 9 (Arrangements for elections), includes—
+    (i) if the time for holding an election is extended under section 159 for more than 1 day—each of those days; and
+    (ii) if polling is suspended under section 160—a day when polling is resumed.
 polling place means a place appointed as a polling place under section 119 (Polling places and scrutiny centres), and, for division 17.3 (Campaigning offences), includes—
   (a) a place where a vote may be made before an officer under section 136B (Ordinary or declaration voting in ACT before polling day) or section 136C (Declaration voting outside ACT on or before polling day); and
   (b) a place where mobile polling is taking place under division 10.5 (Mobile polling).
 postal vote means a declaration vote in respect of which the declaration voting papers are given to the elector concerned by virtue of—
   (a) an application under section 136A (2); or
   (b) section 141.
-pre-election period means the period of 37 days ending on the expiration of polling day for an election.
+pre-election period means the period of 37 days ending on the end of polling day for an election.
 proceeding, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 property, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 publish, for division 17.3 (Campaigning offences)—see section 291 (Definitions for div 17.3).
@@ -152,9 +159,9 @@ scrutineer means a person appointed under section 122 to be a scrutineer.
 scrutiny centre means a place appointed as a scrutiny centre under section 119.
 secretary, in relation to a political party, means the secretary or chief administrative officer (however described) of the party.
 Speaker—
-  (a) for part 13 (Casual vacancies)—see section 190 (Definitions for pt 13); and
-  (b) for part 16 (Disputed elections, eligibility and vacancies)—see section 251 (References in pt 16 to Speaker).
-Note Speaker is defined in the Legislation Act 2001, dict, pt 1.
+  (a) for part 13 (Casual vacancies)—see section 190; and
+  (b) for part 16 (Disputed elections, eligibility and vacancies)—see section 251.
+Note Speaker is defined in the Legislation Act 2001, dict. pt 1.
 special hospital, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).
 sponsoring MLA, in relation to a registered ballot group, means the MLA who applied to register the group.
 staff, in relation to the electoral commission, means—

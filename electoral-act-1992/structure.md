@@ -25,7 +25,7 @@
 ### Division 10.6 Miscellaneous
 ### Division 10.7 Failure to vote
 ## Part 11 Polling in Antarctica
-## Part 12 The Scrutiny
+## Part 12 The scrutiny
 ## Part 13 Casual vacancies
 ## Part 14 Election funding and financial disclosure
 ### Division 14.1 Preliminary

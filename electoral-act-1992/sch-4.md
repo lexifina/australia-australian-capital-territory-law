@@ -7,13 +7,13 @@ ballot paper means a ballot paper that is formal under part 12.
 continuing candidate means a candidate, other than a successful candidate, an excluded candidate or a candidate who died before polling day.
 count means an allotment of votes under clause 3 (1), 6 (3), 9 (2) (c) or 14 (2).
 count votes, in relation to a candidate, is the number of votes calculated as follows (any fraction being disregarded):
-    where:
+  where:
     BP means the number of ballot papers to be dealt with at a count that record the next available preference for the candidate.
     TV means the transfer value of those ballot papers.
 excluded candidate means a candidate excluded under clause 8.
 next available preference means the next highest preference recorded for a continuing candidate on a ballot paper.
 quota means the quota of an electorate for an election and is calculated as follows (any fraction being disregarded):
-    where:
+  where:
     BP means the number of ballot papers for the election.
     N means the number of positions to be filled at the election.
 successful candidate means a candidate who is successful under clause 3, 4, 6, 9 or 14.
@@ -21,12 +21,12 @@ surplus, in relation to a successful candidate, means the candidate’s total vo
 total votes, in relation to a candidate, means the sum of all votes allotted to the candidate.
 transfer value, in relation to a ballot paper, is—
   (a) in relation to the allotment of votes from the surplus of a successful candidate—for ballot papers that specify a next available preference, subject to subclause (2), the value calculated as follows:
-    where:
+  where:
     S means the surplus.
-    CP means the number of ballot papers counted for the candidate at the count at which he or she became successful and which specify a next available preference; or
+    CP means the number of ballot papers counted for the candidate at the count at which he or she became successful and that specify a next available preference; or
   (b) in relation to the allotment of votes under clause 9 (2) (c)—
-    (i) for ballot papers in respect of which votes were allotted to the excluded candidate under clause 3—1; or
-    (ii) for ballot papers in respect of which count votes were allotted to the excluded candidate under clause 6 (3) or 9 (2) (c)—the transfer value of the ballot papers when counted for the purpose of that allotment.
+    (i) for ballot papers in relation to which votes were allotted to the excluded candidate under clause 3—1; or
+    (ii) for ballot papers in relation to which count votes were allotted to the excluded candidate under clause 6 (3) or 9 (2) (c)—the transfer value of the ballot papers when counted for the purpose of that allotment.
 (2) If, but for this subclause, the transfer value of a ballot paper calculated in accordance with subsection (1), definition of transfer value, paragraph (a) would be greater than the transfer value of the ballot paper when counted for the successful candidate, the transfer value of that ballot paper is the lastmentioned transfer value.
 ## 2 Disregarding preferences
 (1) This clause applies if effect is to be given to preferences indicated in candidate squares on a ballot paper under section 180.
@@ -69,7 +69,7 @@ is the relevant candidate.
 (4) If—
   (a) a person becomes the relevant candidate under subclause (3) (c) (ii); and
   (b) the ballot papers are recounted in accordance with section 187; and
-  (c) the same candidates would, but for this subclause, become the contemporary candidates once again under that subparagraph;
+  (c) the same candidates would, apart from this subclause, become the contemporary candidates once again under that subparagraph;
 the person shall be taken to be the relevant candidate for subclause (2) in the recounting of those ballot papers.
 ## 8 Exclusion of candidates
 (1) If clause 5 or 15 requires a candidate to be excluded, the candidate with the least total votes shall be excluded.
@@ -80,7 +80,7 @@ shall be excluded.
 (3) If—
   (a) a person is excluded under subclause (2) (b); and
   (b) the ballot papers are recounted in accordance with section 187; and
-  (c) that paragraph would, but for this subclause, be applicable once again to the same candidates;
+  (c) that paragraph would, apart from this subclause, be applicable once again to the same candidates;
 the person shall be taken to be excluded in the recounting of those ballot papers.
 ## 9 Votes of excluded candidates
 (1) If a candidate is excluded in accordance with clause 8, the ballot papers counted for the candidate shall be sorted into groups according to their transfer values when counted for him or her.
@@ -96,7 +96,7 @@ If, after a calculation under clause 3 (3), 6 (4) or 9 (2) (d), the total votes 
 ## 11 Application
 (1) This part applies in relation to the vacancy in the seat of a former MLA that is to be filled by recount under section 194.
 (2) For this part—
-  (a) continuing candidate means a candidate within the meaning of part 13, but does not include a candidate who died before the recount for the purposes of this part commenced; and
+  (a) continuing candidate means a candidate within the meaning of part 13, but does not include a candidate who died before the recount for the purposes of this part began; and
   (b) the quota is calculated under clause 12; and
   (c) the transfer value is determined under clause 13.
 ## 12 Quota
