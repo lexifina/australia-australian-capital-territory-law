@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 ABS means the Australian Bureau of Statistics established under the Australian Bureau of Statistics Act 1975 (Cwlth).
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
@@ -80,6 +80,7 @@ partially incapacitated—see section 7 (Meaning of partially incapacitated).
 payment includes a non-monetary payment.
 pension age, for a worker—see the Social Security Act 1991 (Cwlth), section 23 (5A), (5B), (5C) and (5D).
 personal injury plan, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
+physiotherapist means a person entitled to practise as a physiotherapist under the Physiotherapists Act 1977 or a corresponding law of a State or another Territory.
 professional sporting activity means—
   (a) participation for fee or reward as a contestant in a sporting or athletic activity; or
   (b) training or preparation for such participation; or
@@ -101,6 +102,7 @@ spouse, in relation to an injured or deceased worker, includes a person of the o
 statutory floor means the federal minimum wage decided from time to time by the Australian Industrial Relations Commission under the Workplace Relations Act 1996 (Cwlth).
 substantial means real, actual or material.
 Territory worker means a worker of the Territory under section 33 (Compensation limited to Territory workers).
+therapeutic treatment includes an examination, test or analysis done for the purpose of diagnosing, or treatment given for the purpose of alleviating, an injury.
 totally incapacitated—see section 6 (Meaning of totally incapacitated).
 vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140 (Meaning of vocational rehabilitation).
 weekly compensation, for a worker, means compensation to which the worker is entitled under section 39 (Totally incapacitated workers), section 40 (Partially incapacitated workers up to 26 weeks after incapacity date) or section 41 (Partially incapacitated workers after 26 weeks after incapacity date).

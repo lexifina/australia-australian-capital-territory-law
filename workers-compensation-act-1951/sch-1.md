@@ -1,4 +1,4 @@
-# Schedule 1 Compensation for permanent injuries
+# U Schedule 1 Compensation for permanent injuries
 (see s 48 and s 51)
 column 1 | column 2 | column 3
 item | nature of injury | % of maximum amount payable
