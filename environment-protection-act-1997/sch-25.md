@@ -1,4 +1,4 @@
-# SCHEDULE 2 Section 145
+# SCHEDULE 25 Section 145
 specific offences
 Part I—Preliminary
 \1. Interpretation
@@ -139,9 +139,7 @@ Penalty:
 Penalty:
   (a) if the offender is a natural person—5 penalty units;
   (b) if the offender is a body corporate—25 penalty units.
-(2) In subclause (1)—
-  (a) a reference to a motor vehicle that is designed to operate on unleaded petrol shall be read as a reference to a motor vehicle that complies with any of the design rules known as Australian Design Rule 37, 40 or 41; and
-  (b) “Australian Design Rule” has the same meaning as in section 7A of the Motor Traffic Act 1936.
+(2) A reference in this clause to a motor vehicle that is designed to operate on unleaded petrol is a reference to an unleaded petrol motor vehicle within the meaning of the regulations under the Road Transport (Vehicle Registration) Act 1999.
 \13. Sale of high octane unleaded petrol
 (1) A person shall not offer high octane unleaded petrol for sale unless the person also offers low octane unleaded petrol for sale.
 Penalty:

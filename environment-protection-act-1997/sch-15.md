@@ -1,4 +1,4 @@
-# SCHEDULE 1 Section 42
+# SCHEDULE 15 Section 42
 ACTIVITIES requiring an environmental authorisation
 \1. Interpretation
 In this Schedule, unless the contrary intention appears—
@@ -15,10 +15,11 @@ In this Schedule, unless the contrary intention appears—
 “groundwater” means water occurring or obtained from below the surface of the ground, including water occurring in or obtained from a bore or an aquifer, but not including water occurring in or obtained from any other system for the distribution, reticulation, transportation, storage or treatment of water or waste;
 “motor racing event” means—
     (a) a motor vehicle race or practice for such a race; or
-    (b) a motor vehicle reliability trial or speed test, including a trial or test in relation to which the persons taking part have a permit under section 217 of the Motor Traffic Act 1936;
+    (b) a motor vehicle reliability trial or speed test, including a trial or test for which the vehicles have been exempted under the road transport legislation from the provisions of that legislation about attaching silencers to the exhaust pipes of motor vehicles, rules of the road and speed limits during the trial or test.
 “ozone depleting substance” means a substance listed in Schedule 1 to the Ozone Protection Act 1989 of the Commonwealth, whether existing alone or in a mixture;
 “primary production” has the same meaning as in the Income Tax Assessment Act 1936 of the Commonwealth;
 “receiving waters” means groundwater or water in a waterway;
+road transport legislation—see Road Transport (General) Act 1999, section 6.
 “stock” has the same meaning as in the Stock Act 1991;
 “stormwater” means water run-off from an urban area that is normally collected by the stormwater system;
 “stormwater system” means a system of pipes, gutters, drains, floodways and channels, being public works constructed to collect or transport stormwater in or through an urban area;
