@@ -292,6 +292,7 @@ police officer means a member or special member of the Australian Federal Police
 position includes office.
 power includes authority.
 prescribed, in an Act, means prescribed by the Act or under regulations under the Act.
+present an indictment includes lay an information.
 privacy commissioner means the Privacy Commissioner under the Privacy Act 1998 (Cwlth).
 proceeding means a legal or other action or proceeding.
 property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
