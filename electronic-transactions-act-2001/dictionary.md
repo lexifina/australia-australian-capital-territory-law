@@ -1,0 +1,22 @@
+# Dictionary
+(see s 5)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· document
+· regulations
+· the Territory.
+computer program—see the Copyright Act 1968 (Cwlth), section 10.
+consent includes consent that can reasonably be inferred from the conduct of the person concerned, but does not include consent given subject to conditions unless the conditions are complied with.
+data includes all or part of a computer program.
+data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
+electronic communication means—
+  (a) a communication of information in the form of data, text or images by means of guided or unguided electromagnetic energy, or both; or
+  (b) a communication of information in the form of sound by means of guided or unguided electromagnetic energy, or both, where the sound is processed at its destination by an automated voice recognition system.
+information means information in the form of data, text, images or sound.
+information system means a system for generating, sending, receiving, storing or otherwise processing electronic communications.
+information technology requirements includes software requirements.
+law of this jurisdiction means a law of the Territory.
+non-profit body means a body that is not carried on for profit or gain to its individual members and is, by the terms of the body’s constitution, prohibited from making any distribution, whether in money, property or otherwise, to its members.
+place of business, for a government, an authority of a government or a non-profit body, means a place where any operations or activities are carried out by that government, authority or body.
+this jurisdiction means the Territory.
+transaction includes any contract, agreement or other arrangement, whether or not of a commercial kind.
