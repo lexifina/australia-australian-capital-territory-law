@@ -1,7 +1,7 @@
 # Dictionary
 (see s 3)
 appropriation means an appropriation of public money by any Act including this Act.
-Appropriation Act means an Act that makes appropriations in respect of a financial year for purposes referred to in section 8.
+Appropriation Act means an Act that makes appropriations in relation to a financial year for purposes referred to in section 8.
 appropriation unit means a class of outputs, or a group of output classes, for which an appropriation is made by an Appropriation Act.
 banking account means an account with an authorised deposit-taking institution that is, or is substantially the same as, a bank account.
 borrowing includes—
@@ -25,7 +25,7 @@ departmental banking account means a banking account referred to in section 34 (
 expenses, in relation to an output, means the expenses incurred in providing the output quantified on an accrual accounting basis and includes the overhead expenses properly attributable to the output.
 financial management guidelines means the financial management guidelines under this Act.
 general government sector means—
-  (a) those organisations whose primary function is to provide services which are mainly not market orientated, are mainly for the consumption of the community generally, involve the transfer or redistribution of income, and are financed mainly through appropriation; and
+  (a) those organisations whose primary function is to provide services that are mainly not market orientated, are mainly for the consumption of the community generally, involve the transfer or redistribution of income, and are financed mainly through appropriation; and
   (b) those organisations that are controlled by the Territory and provide investment or other financial services.
 generally accepted accounting practice means accounting practices and procedures recognised by the accounting profession as appropriate for reporting financial information relating to government, a department or a Territory authority, being practices and procedures that are consistent with this Act and any relevant Appropriation Act.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
@@ -36,7 +36,7 @@ Legislative Assembly secretariat means the clerk of the Legislative Assembly and
 outcomes means the consequences for the community of outputs.
 outputs means goods produced or services provided by a department or Territory authority or a person producing goods or providing services on behalf of a department or Territory authority.
 prescribed means prescribed by the financial management guidelines.
-public money means all moneys received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
+public money means all money received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
   (a) money held by the Territory as trust money; or
   (b) money received by a Territory owned corporation; or
   (c) money received by a Territory authority; or
@@ -44,8 +44,8 @@ public money means all moneys received by the Territory, including the proceeds 
   (e) money received by the Territory—
     (i) in repayment of an investment made by the Territory for a Territory authority; or
     (ii) as interest on such an investment.
-public trading enterprise means an organisation whose primary function is to provide goods and services which are mainly market orientated, non-regulatory and non-financial in nature and who recover a significant part of their costs from individual consumers.
-public trading enterprise sector means those organisations whose primary function is to provide goods and services which are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
+public trading enterprise means an organisation whose primary function is to provide goods and services that are mainly market orientated, non-regulatory and non-financial in nature and who recover a significant part of their costs from individual consumers.
+public trading enterprise sector means those organisations whose primary function is to provide goods and services that are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
 responsible chief executive, in relation to a department, means—
   (a) if the department is constituted by an administrative unit or a part of an administrative unit—the chief executive of that administrative unit; or
   (b) if the department is constituted by a group of 2 or more administrative units—the person prescribed as the responsible chief executive in relation to the department.
@@ -61,8 +61,8 @@ taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwl
 Territory authority means a body corporate established by an Act, but does not include a body declared under section 3B not to be a Territory authority.
 Territory banking account means the banking account referred to in section 33.
 trust money means—
-  (a) money deposited with the Territory pending the completion of a transaction or the determination of a dispute and which may become repayable to the depositor or payable to the Territory or any other person; or
-  (b) all money that is paid into a Territory court for possible repayment to the payee or a third party by virtue of any Act, order, instruction or authority; or
+  (a) money deposited with the Territory pending the completion of a transaction or the determination of a dispute and that may become repayable to the depositor or payable to the Territory or any other person; or
+  (b) all money that is paid into a Territory court for possible repayment to the payee or a third party because of any Act, order, instruction or authority; or
   (c) money that belongs to or is due to any person and is collected by the Territory as a result of an agreement between the Territory and that person; or
   (d) unclaimed money that is due to or belongs to any person and is deposited with the Territory; or
   (e) money that is paid to the Territory in trust for any other lawful purpose including interest on trust money.
