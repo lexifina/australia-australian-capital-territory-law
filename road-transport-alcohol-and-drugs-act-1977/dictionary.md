@@ -40,7 +40,7 @@ driver involved in an accident means a driver of a motor vehicle that is involve
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 drug means—
   (a) a substance specified in schedule 1; or
-  (b) a substance that is specified in the Drugs of Dependence Regulations 1993, schedule 1 or 2; or
+  (b) a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences); or
   (c) any other substance that, on its own or in combination with alcohol, may influence the driving of the person who has taken the drug.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external Territory driver licence.
