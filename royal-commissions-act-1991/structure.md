@@ -1,10 +1,10 @@
-## PART 1—PRELIMINARY
-## PART 2—ROYAL COMMISSIONS
-## PART 3—INQUIRIES
-## PART 4—PROCEEDINGS OF COMMISSIONS
-### Division 1—General
-### Division 2—Evidence
-### Division 3—Powers
-### Division 4—Hearings
-## PART 5—OFFENCES
-## PART 6—MISCELLANEOUS
+## Part 1 Preliminary
+## Part 2 Royal commissions
+## Part 3 Inquiries
+## Part 4 Proceedings of commissions
+### Division 4.1 General
+### Division 4.2 Evidence
+### Division 4.3 Powers
+### Division 4.4 Hearings
+## Part 5 Offences
+## Part 6 Miscellaneous
