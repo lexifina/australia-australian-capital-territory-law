@@ -89,6 +89,11 @@ professional sporting activity means—
 protocol—
   (a) for chapter 7 (Vocational rehabilitation)—see section 141 (Meaning of protocol in ch 7 etc); or
   (b) means a protocol, approved in accordance with the regulations, prescribing how certain activities under this Act should be performed.
+recognised auditor, in relation to a certificate provided for an employer for this Act, means any of the following who are not the employer or an employee or executive officer of the employer:
+  (a) an auditor registered under the Corporations Act;
+  (b) a member of the Institute of Chartered Accountants in Australia;
+  (c) a member of the Australian Society of Certified Practising Accountants;
+  (d) a member of the National Institute of Accountants.
 registered agreement means an agreement registered under section 79 (Registration of agreements for compensation).
 registered auditor means an auditor registered under the Corporations Act.
 return-to-work program means a program mentioned in section 109 (Workplace rehabilitation).
