@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -8,7 +8,7 @@ the Territory
 ACT
 in relation to.
 approved private sector committee means a committee declared to be an approved private sector quality assurance committee under section 19.
-approved public sector committee means a committee established as an approved public sector quality assurance committee under section 8 (Approval of public sector committees) or section 12 (Approval of Calvary Hospital committees).
+approved public sector committee means a committee established as an approved public sector quality assurance committee under section 8 (Approval of public sector committees) or section 12 (Approval of Calvary Health Care ACT committees).
 authorised representative, for part 6A (VMO service contracts)—see section 33A.
 clinical privileges means—
   (a) the extent to which a health service provider has the right to perform treatment or carry out other procedures at a health facility; or
