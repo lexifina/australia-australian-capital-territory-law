@@ -1,6 +1,6 @@
-# Schedule 1 Modifications and adaptations of the provisions of part 9 in their application to employees
+# Schedule 1 Modifications and adaptations of part 9 in its application to employees
 (see s 202)
-[1.1] Interpretation for pt 8 Section 178 (1), definition of original office
+[1.1] Interpretation for pt 9 Section 178 (1), definition of original office
 substitute
 original office means, for a person who has been—
     (a) dismissed from employment under section 187, 188 or 197; or
@@ -30,7 +30,7 @@ substitute
 performs duties
 [1.7] Section 187 (6) (a) (vi)
 omit
-to a specified office (whether at the same or a different locality), being an office for which he or she is qualified and which has the same classification as the classification of the office held by him or her
+to a specified office (whether at the same or a different locality), being an office for which he or she is qualified and that has the same classification as the classification of the office held by him or her
 substitute
 to other duties for which he or she is qualified (whether at the same or a different locality)
 [1.8] Section 187 (6) (a) (vii)
@@ -45,7 +45,7 @@ substitute
 his or her employment
 [1.10] Convictions by courts Section 188 (1) (c)
 substitute
-  (c) direct that there be taken, in the case of an employee, action by way of transferring him or her to other duties for which he or she is qualified (whether at the same or a different locality) and the salary or salary range applicable to which is the same as or lower than that applicable to the duties of the employee immediately before the chief officer so directs; or
+  (c) direct that there be taken, for an employee, action by way of transferring him or her to other duties for which he or she is qualified (whether at the same or a different locality) and the salary or salary range applicable to which is the same as or lower than that applicable to the duties of the employee immediately before the chief officer so directs; or
 [1.11] Section 188 (1) (d)
 omit
 the service
