@@ -26,5 +26,3 @@
 ## Part 8 Public health investigations
 ## Part 9 Review and appeals
 ## Part 10 Miscellaneous
-## Dictionary
-## Endnotes
