@@ -24,6 +24,5 @@
 ## Part 11 Miscellaneous
 ## Part 12 Transitional provisions
 ### Division 12.1 General
-### Division 12.2 Existing food businesses
 ### Division 12.3 Other transitional matters
 ### Division 12.4 Expiry
