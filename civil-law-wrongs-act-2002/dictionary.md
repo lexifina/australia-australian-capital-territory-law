@@ -1,7 +1,7 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • doctor
 • domestic partner (see s 169)
 • entity
@@ -11,7 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • Minister (see s 162)
 • proceeding
 • property
-• (the) Territory
+• (the) Territory.
 accident means an incident out of which personal injury arises, and includes a motor accident.
 accommodation provider—see section 146.
 accommodation unit—see section 144.
