@@ -80,3 +80,390 @@ WARNING
 Under the Civil Law (Wrongs) Act 2002, an equine professional is not liable for injury to, or the death of, a participant in an equine activity that results from an inherent risk of the activity. This is subject to limitations set out in the Act.
 (3) The warning notice must be in black letters with each letter at least 2cm high.
 (4) The warning notice must also be included in clearly visible print in each written contract the equine professional enters into for the provision of professional services, instruction or rental of equipment or tack to a participant.
+## Schedule 4 Professional standards
+## Part 4.1 Preliminary
+## 4.1 Objects of sch 4
+The objects of this schedule are—
+  (a) to enable the creation of schemes to limit the civil liability of professionals and others; and
+  (b) to facilitate the improvement of occupational standards of professionals and others; and
+  (c) to protect consumers of the services provided by professionals and others; and
+  (d) to establish a council to supervise the preparation and application of schemes and to assist in the improvement of occupational standards and protection of consumers.
+## 4.2 Definitions for sch 4
+In this schedule:
+business assets, of a person, means the property of the person that is used to perform the person’s occupation and that can be taken in proceedings to enforce a judgment of a court.
+council—see section 4.36.
+court includes a tribunal and an arbitrator.
+damages means damages awarded in relation to a claim or counterclaim or by way of set-off, and includes—
+  (a) interest payable on an amount awarded as damages; and
+  (b) legal costs and expenses ordered to be paid in relation to an award of damages (other than legal costs and expenses incurred in enforcing a judgment or incurred on an appeal made by a defendant).
+judgment includes—
+  (a) a judgment given by consent; and
+  (b) a decision of a tribunal; and
+  (c) an award of an arbitrator.
+occupational association means a corporation—
+  (a) that represents the interests of people who are members of the same occupational group; and
+  (b) the membership of which is limited mainly to members of the occupational group.
+occupational group includes a professional group and a trade group.
+occupational liability means civil liability arising (in tort, contract or otherwise) directly or vicariously from anything done or omitted to be done by a member of an occupational association acting in the performance of the member’s occupation.
+scheme means a scheme for limiting the occupational liability of members of an occupational association.
+## 4.3 Application of sch 4
+(1) This schedule does not apply to liability for damages arising from any of the following:
+  (a) personal injury to a person;
+  (b) anything done or omitted to be done by a lawyer in acting for a client in a personal injury claim;
+  (c) a breach of trust;
+  (d) fraud or dishonesty.
+(2) This schedule does not apply to liability that may be the subject of a proceeding under the Land Titles Act 1925, part 16 (Civil rights and remedies).
+## Part 4.2 Limitation of liability
+## Division 4.2.1 Making, amendment and revocation of schemes
+## 4.4 Preparation of schemes and recommendation by council
+(1) An occupational association may prepare a scheme.
+(2) The council may, on the application of an occupational association, prepare a scheme.
+(3) The council may, on the application of an occupational association, recommend a scheme prepared under this section to the Minister for approval.
+## 4.5 Public notification of schemes
+Before recommending a scheme, the council must publish a notice in a daily newspaper circulating in the ACT—
+  (a) explaining the nature and significance of the scheme; and
+  (b) stating where a copy of the scheme can be obtained or inspected; and
+  (c) inviting comments and submissions within a stated time, but at least 21 days after the day the notice is published.
+## 4.6 Making of comments and submissions about schemes
+(1) Anyone may make a comment or submission to the council about a scheme for which notice has been published under section 4.5.
+(2) A comment or submission must be made within the period stated in the notice or within any longer time the council allows.
+## 4.7 Consideration of comments, submissions etc
+(1) Before recommending a scheme in relation to an occupational association, the council must consider the following:
+  (a) all comments and submissions made to it in accordance with section 4.6;
+  (b) the position of people who may be affected by limiting the occupational liability of members of the occupational association;
+  (c) the nature and level of claims relating to occupational liability made against members of the occupational association;
+  (d) the risk management strategies of the occupational association;
+  (e) how those strategies are intended to be implemented;
+  (f) the cost and availability of insurance against occupational liability for members of the occupational association;
+  (g) the standards (mentioned in section 4.23) decided by the occupational association in relation to insurance policies.
+  (h) the provisions in the proposed scheme for making and deciding complaints, and imposing and enforcing disciplinary measures against members of the occupational association.
+(2) Subsection (1) does not limit the matters the council may consider.
+## 4.8 Public hearings
+(1) The council may conduct a public hearing about a scheme if the council considers it appropriate.
+(2) A public hearing may be conducted in the way the council decides.
+## 4.9 Submission of schemes to Minister
+The council may submit a scheme it recommends to the Minister for approval.
+## 4.10 Approval of schemes by Minister
+(1) The Minister may, in writing, approve a scheme submitted by the council.
+(2) An approved scheme is a disallowable instrument.
+Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+## 4.11 Commencement of schemes
+(1) A scheme approved by the Minister commences—
+  (a) on the date or time (after its notification day) provided for in the approval; or
+  (b) if a date or time is not provided for in the approval— 2 months after its notification day.
+(2) This section is subject to any order of the Supreme Court under section 4.12 (2).
+## 4.12 Challenges to scheme
+(1) A person who is, or is reasonably likely to be, affected by a scheme approved by the Minister, may, at any time before the scheme commences, apply to the Supreme Court for an order that the scheme is void for noncompliance with this schedule.
+(2) The Supreme Court may, on the making of the application or at any time before the scheme commences, order that the commencement of the scheme is stayed until further order of the court.
+(3) The Supreme Court may, in relation to the application—
+  (a) make or decline to make an order that the scheme is void for noncompliance with this schedule; or
+  (b) if the court has stayed the commencement of the scheme— give directions about the things that must be done so that the scheme may commence; or
+  (c) make any other order it considers appropriate.
+## 4.13 Review of schemes
+(1) The Minister may direct the council to review the operation of a scheme.
+(2) The council must comply with a direction under subsection (1), but may on its own initiative review the operation of a scheme at any time (whether before or after the scheme ceases to have effect).
+(3) A review may, but need not, be conducted to decide whether a scheme should be amended or revoked or whether a new scheme should be made.
+## 4.14 Amendment and revocation of schemes
+(1) An occupational association may prepare an amendment or revocation of a scheme that relates to its members.
+(2) The council may, on the application of an occupational association, prepare an amendment or revocation of a scheme that relates to the members of the association.
+(3) The Minister may direct the council to prepare an amendment or revocation of a scheme.
+(4) The council must comply with a direction but may on its own initiative prepare an amendment or revocation of a scheme at any time while the scheme remains in force.
+(5) Sections 4.4 to 4.12 apply, with any necessary changes, to the amendment or revocation of a scheme.
+## Division 4.2.2 Content of schemes
+## 4.15 People to whom scheme applies
+(1) A scheme may provide that it applies to—
+  (a) everyone within an occupational association; or
+  (b) a stated class or classes of people within an occupational association.
+(2) A scheme applying in relation to an occupational association may provide that the occupational association may, on application by a person, exempt the person from the scheme.
+(3) A scheme ceases to apply to a person exempted under subsection (2)—
+  (a) on the date the exemption is granted; or
+  (b) if the exemption provides for a later date—the later date.
+(4) Subsection (2) does not apply to a person to whom a scheme applies because of section 4.16.
+## 4.16 Other people to whom scheme applies
+(1) If a scheme applies to a person, the scheme also applies to—
+  (a) each partner of the person; and
+  (b) each employee of the person; and
+  (c) if the person is a corporation, each officer of the corporation; and
+  (d) each person who is, under a regulation made for section 4.25 (Limitation of amount of damages), associated with the person.
+(2) If the partner, employee or officer of the person is entitled to be a member of the same occupational association as the person but is not a member, the scheme does not apply to the partner, employee or officer.
+(3) In this section:
+officer—
+  (a) in relation to a corporation within the meaning of the Corporations Act—see the Corporations Act, section 82A (Officers of bodies corporate and other entities); and
+  (b) in relation to any other corporation—means anyone (by whatever name called) who is concerned in or takes part in the management of the corporation.
+## 4.17 Limitation of liability by insurance arrangements
+A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages in relation to the cause of action above the monetary ceiling if the person can satisfy the court that the person has the benefit of an insurance policy—
+  (a) insuring the person against the occupational liability; and
+  (b) under which the amount payable in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy) is at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened.
+## 4.18 Limitation of liability by reference to amount of business assets
+A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages for the cause of action above the monetary ceiling if the person can satisfy the court—
+  (a) that the person has business assets with a net current market value of at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened; or
+  (b) that—
+    (i) the person has business assets and the benefit of an insurance policy insuring the person against the occupational liability; and
+    (ii) the net current market value of the assets and the amount payable under the insurance policy in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy), if combined, would total an amount that is at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened.
+## 4.19 Limitation of liability by multiple of charges
+(1) A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages in relation to the cause of action above the limitation amount if the person can satisfy the court—
+  (a) that the person has the benefit of an insurance policy—
+    (i) insuring the person against that occupational liability; and
+    (ii) under which the amount payable in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy) is at least an amount (the limitation amount), that is a reasonable charge for the services provided by the person, or that the person failed to provide, and to which the cause of action relates, multiplied by the multiple stated in the scheme in relation to the cause of action and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened; or
+  (b) that the person has business assets with a net current market value of at least the limitation amount; or
+  (c) that—
+    (i) the person has business assets and the benefit of an insurance policy insuring the person against the occupational liability; and
+    (ii) the net current market value of the assets and the amount payable under the insurance policy in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy), if combined, would total an amount that is at least the limitation amount.
+(2) In deciding what is a reasonable charge for a provision mentioned in subsection (1), the court must consider—
+  (a) the amount charged; and
+  (b) the amount that would ordinarily be charged in accordance with a scale of charges (a relevant scale) accepted by the occupational association of which the person is a member; or
+  (c) if there is not a relevant scale—the amount that a competent person with the same qualifications and experience as the person would be likely to charge in the same circumstances.
+(3) This section does not limit an amount of damages for which a person is liable if the amount is less than the amount stated for the purpose in the scheme in relation to the class of person and the kind of work concerned.
+## 4.20 Statement of different limits of liability
+(1) A scheme may provide for—
+  (a) the same maximum amount of liability for all cases to which the scheme applies; or
+  (b) different maximum amounts of liability for different cases or classes of case to which the scheme applies; or
+  (c) different maximum amounts of liability for the same class of case to which the scheme applies for different purposes.
+(2) A scheme may give an occupational association a discretionary authority, on application by a person to whom the scheme applies, to state in relation to the person a higher maximum amount of liability than would otherwise apply under the scheme in relation to the person, either in all cases, in any stated case or class of case, or for different purposes.
+## 4.21 Combination of provisions under s 14.7, s 4.18 and s 4.19
+(1) This section applies if, in a scheme, provisions of the kind mentioned in section 4.19, and provisions (the additional provisions) of the kind mentioned in section 4.17 or section 4.18 (or both), apply to a person at the same time in relation to the same occupation.
+(2) The scheme must provide that the damages awarded against the person are to be decided under section 4.19 but must not exceed the monetary ceiling provided in relation to the person under the additional provisions.
+## 4.22 Amount below which liability may not be limited
+(1) A scheme may affect the liability for damages arising from a single cause of action only to the extent that the liability results in damages exceeding an amount (at least $500 000) decided by the council and stated in the scheme.
+(2) In making a decision, the council must consider—
+  (a) the number and amounts of claims made against people within the occupational association concerned; and
+  (b) the need to adequately protect consumers.
+(3) A council decision—
+  (a) takes effect when an amendment of the scheme giving effect to the decision takes effect; and
+  (b) applies only to a cause of action that arises after the decision takes effect.
+## 4.23 Insurance to be of required standard
+For a scheme, an insurance policy must comply with standards decided by the occupational association whose members may be insured under the policy.
+## Division 4.2.3 Effect of schemes
+## 4.24 Limit of occupational liability by schemes
+(1) To the extent provided under this schedule and the provisions of the scheme, a scheme limits the occupational liability of a person in relation to a cause of action based on an act or omission if the scheme applied to the person when the act or omission happened.
+(2) The limitation of liability applying to the cause of action is the limitation provided under the scheme when the act or omission happened.
+(3) A limitation of liability that, under this section, applies in relation to an act or omission applies to every cause of action based on the act or omission, irrespective of when the cause of action arises or proceedings are begun in relation to it, even if the scheme has been amended or, under section 4.28 (Duration of scheme), has ceased to be in force.
+(4) A person to whom a scheme applies cannot choose not to be subject to the scheme unless exempt under provisions included in the scheme under section 4.15 (2) (People to whom scheme applies).
+## 4.25 Limitation of amount of damages
+(1) A limitation under a scheme of an amount of damages is a limitation of the amount of damages that may be awarded for a single claim and is not a limitation of the amount of damages that may be awarded for all claims arising out of the same act or omission.
+(2) Separate claims by 2 or more people who have a joint interest in a cause of action based on the same act or omission are to be treated as a single claim for this schedule.
+(3) Two or more claims by the same person arising out of the same act or omission against people who are associated are to be treated as a single claim for this schedule.
+(4) People are associated if they are—
+  (a) officers of the same corporation (within the meaning of section 4.16); or
+  (b) partners, employees of the same employer or in the relationship of employer and employee; or
+  (c) prescribed by regulation for this subsection.
+## 4.26 Effect of scheme on other parties to proceedings
+A scheme does not limit the liability of a person who is a party to a proceeding if the scheme does not apply to the person.
+## 4.27 Proceedings to which a scheme applies
+A scheme in force under this schedule applies to proceedings relating to acts or omissions that happened after the commencement of the scheme.
+## 4.28 Duration of scheme
+(1) A scheme remains in force for the period (not longer than 5 years) decided by the council unless, before the end of the period decided—
+  (a) it is revoked; or
+  (b) its operation is extended by notice under this section; or
+  (c) its operation ceases because of the operation of another Act.
+(2) The Minister may, in writing, extend the period for which the scheme is in force.
+(3) An instrument under subsection (2) is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
+(4) An instrument under subsection (2) is effective to extend the period for which a scheme is in force only if it is notified under the Legislation Act before the day the period ends.
+(5) The period for which a scheme is in force may be extended only once, and for not longer than 12 months.
+## 4.29 Notification of limitation of liability
+(1) A person commits an offence if—
+  (a) the person’s occupational liability is limited under this schedule; and
+  (b) the person gives a document to a client or prospective client; and
+  (c) the document promotes or advertises the person or the person’s occupation; and
+  (d) the document does not carry a statement that the person’s liability is limited.
+Maximum penalty: 50 penalty units.
+(2) A person commits an offence if—
+  (a) the person’s occupational liability is limited under this schedule; and
+  (b) a client, or a prospective client, requests a copy of the scheme limiting the person’s occupational liability; and
+  (c) the person fails to give a copy of the scheme to the client or prospective client.
+Maximum penalty: 50 penalty units.
+(3) A regulation may prescribe a form of statement for this section.
+(4) A person does not commit an offence against subsection (1) in relation to a document if the document carries a statement in the prescribed form.
+(5) In this section:
+document includes an item of official correspondence ordinarily used by the person in the performance of the person’s occupation and a similar document, but does not include a business card.
+## Part 4.3 Compulsory insurance
+## 4.30 Occupational association may require members to insure
+(1) An occupational association may require its members to hold insurance against occupational liability.
+(2) A requirement under subsection (1) may be imposed as a condition of membership or otherwise.
+(3) The occupational association may set the standards with which the insurance must comply.
+Example
+The occupational association may set the amount of the insurance.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+(4) The occupational association may set different standards of insurance for different classes of members.
+(5) The standards are in addition to other statutory requirements and must not be inconsistent with them.
+## 4.31 Monitoring claims by occupational associations
+(1) An occupational association may establish a committee, or 2 or more occupational associations may establish a common committee, for monitoring and analysing claims made against members for occupational liability.
+(2) Not all committee members need to be members of the occupational association or associations concerned.
+Example
+An insurer representative may be a committee member.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+(3) An occupational association may, through the committee or otherwise, issue practice advice to its members to minimise claims for occupational liability.
+(4) A committee may ask an insurer to give it any information or a copy of any document that the committee considers will assist it in carrying out its function.
+## Part 4.4 Risk management
+## 4.32 Risk management strategies by occupational associations
+(1) If an occupational association seeks the council’s recommendation for a scheme under section 4.4 (Preparation of schemes and recommendation by council), it must give the council—
+  (a) a detailed list of the risk management strategies it intends to implement for its members; and
+  (b) information about how it intends to implement the strategies.
+(2) The method of implementation may be imposed as a condition of membership or otherwise.
+(3) The strategies are to apply in addition to, and must not be inconsistent with, other statutory requirements.
+## 4.33 Reporting by occupational associations
+(1) An occupational association must give the council the information the council asks for about the association’s risk management strategies.
+(2) An occupational association must give an annual report to the council about the implementation and monitoring of its risk management strategies, the effect of the strategies and any changes made or proposed to be made to them.
+(3) The occupational association’s annual report must include details of any findings made, or conclusions drawn, by a committee established by it (whether solely or jointly with other associations) under section 4.31 (Monitoring claims by occupational associations).
+(4) The occupational association’s annual report must be incorporated into the council’s annual report in a form decided by the council.
+## 4.34 Compliance audits
+(1) An audit of the compliance of members (a compliance audit), or of specified members or a specified class or classes of members, of an occupational association with the association’s risk management strategies—
+  (a) may be conducted at any time by the council or the association; or
+  (b) must be conducted by the association if the council requests it.
+(2) If a compliance audit is conducted by the council—
+  (a) the occupational association must give, and ensure that its members give, the council any information or a copy of any document that the council reasonably asks for, relating to the conduct of the audit; and
+  (b) the council must give a copy of a report of the audit to the association.
+(3) If the occupational association conducts a compliance audit, it must give a copy of a report of the audit to the council.
+## Part 4.5 Complaints and disciplinary matters
+## 4.35 Complaints and Discipline Code
+(1) A scheme may adopt the provisions of the model code set out in schedule 5 with any changes recommended by the council.
+(2) The changes may include provisions for the making and deciding of complaints and the imposition and enforcement of disciplinary measures against members of an occupational association, including (but not limited to) the following:
+  (a) the establishment of committees for implementing the model code or any of its provisions;
+  (b) the procedure at committee meetings;
+  (c) whether a committee may administer an oath;
+  (d) the application or exclusion of the rules of, and practice relating to, evidence;
+  (e) the grounds on which a complaint may be made;
+  (f) the verification of complaints by statutory declaration;
+  (g) the suspension of members from membership or from practice;
+  (h) the imposition of fines;
+  (i) the making of appeals;
+  (j) the exchange of information with other occupational associations (within or outside the ACT).
+(3) The provisions are in addition to other relevant statutory schemes and must not be inconsistent with them.
+## Part 4.6 Professional standards council
+## Division 4.6.1 Establishment and functions of council
+## 4.36 The council
+(1) The Professional Standards Council (the council) is established.
+(2) The council—
+  (a) is a corporation; and
+  (b) must have a seal.
+## 4.37 Functions of council
+(1) The council has the following functions:
+  (a) to give advice to the Minister about—
+    (i) the approval of schemes, and their amendment and revocation, by the Minister; and
+    (ii) the operation of this schedule; and
+    (iii) anything else relating to the occupational liability of members of occupational associations;
+  (b) to give advice to occupational associations about policies of insurance for part 4.2 (Limitation of liability);
+  (c) to encourage and assist in the improvement of occupational standards of members of occupational associations;
+  (d) to encourage and assist in the development of self-regulation of occupational associations, including giving advice and assistance about the following:
+    (i) codes of ethics;
+    (ii) codes of practice;
+    (iii) quality management;
+    (iv) risk management;
+    (v) resolution of complaints by clients;
+    (vi) voluntary mediation services;
+    (vii) membership requirements;
+    (viii) discipline of members;
+    (ix) continuing occupational education;
+  (e) to monitor the occupational standards of members of occupational groups;
+  (f) to monitor the compliance by an occupational association with its risk management strategies;
+  (g) to publish advice and information about the matters mentioned in this subsection;
+  (h) to conduct forums, approved by the Minister, on issues of interest to members of occupational groups;
+  (i) to collect, analyse and provide the Minister with information on issues and policies about the standards of occupational groups;
+  (j) any other functions given to it under this schedule or any other territory law.
+(2) The council is not authorised to give advice about occupational standards prescribed under another Act or statutory instrument.
+(3) Any advice given to the Minister by the council may be given with or without a request of the Minister.
+## Division 4.6.2 Membership of council
+## 4.38 Membership of council
+The council is to consist of 11 people appointed by the Minister who have the experience, skills and qualifications the Minister considers appropriate to enable them to make a contribution to the work of the council.
+Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
+Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see s 207).
+Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+## 4.39 Chairperson and deputy chairperson of council
+(1) Two of the members of the council are to be appointed as chairperson and deputy chairperson of the council, respectively.
+Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
+Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see s 207).
+Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+(2) The Minister may remove a member from the office of chairperson or deputy chairperson of the council at any time.
+(3) A person holding office as chairperson or deputy chairperson of the council vacates the office if the person—
+  (a) is removed from the office by the Minister; or
+  (b) ceases to be a member.
+Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
+## 4.40 Deputies of members
+(1) The Minister may appoint a person to be the deputy of a member.
+(2) In the absence of a member, the member’s deputy—
+  (a) is, if available, to act in the place of the member; and
+  (b) while so acting, has all the functions of the member and is taken to be a member.
+(3) The deputy of a member who is chairperson or deputy chairperson of the council does not (because of this section) have the member’s functions as chairperson or deputy chairperson.
+(4) A person acting in the place of a member is entitled to be paid the allowances decided by the Minister.
+## 4.41 Term of appointment
+A member is to be appointed for not longer than 3 years.
+## 4.42 Allowances of members
+A member is entitled to be paid the allowances decided by the Minister.
+## 4.43 Vacancy in office of member
+(1) The office of a member becomes vacant if the member—
+  (a) dies; or
+  (b) completes a term of office and is not re-appointed; or
+  (c) is removed from office by the Minister; or
+  (d) is absent from 4 consecutive meetings of the council of which reasonable notice has been given to the member personally or in the ordinary course of post, except on leave granted by the council or unless, before the end of 4 weeks after the day of the last of those meetings, the member is excused by the council for having been absent from those meetings; or
+  (e) becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of creditors; or
+  (f) is convicted in the ACT of an offence punishable by imprisonment for 12 months or more or is convicted elsewhere of an offence that, if committed in the ACT, would be an offence so punishable.
+Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
+(2) The Minister may remove a member from office for—
+  (a) incompetence or misbehaviour; or
+  (b) mental or physical incapacity to carry out the duties of office satisfactorily.
+## 4.44 Filling of vacancy in office of member
+If the office of a member becomes vacant, a person may be appointed to fill the vacancy.
+## 4.45 Personal liability of members etc
+(1) A member, a deputy of a member, or anyone acting under the direction of the council, a member or a deputy member, is not personally liable for anything done or omitted to be done honestly—
+  (a) in the exercise of a function under this schedule; or
+  (b) in the reasonable belief that the act or omission was in the exercise of a function under this schedule.
+(2) Any liability that, apart from subsection (1), would attach to a person attaches instead to the council.
+## Division 4.6.3 Procedure of council
+## 4.46 General procedure for council
+(1) The procedure for the calling of meetings of the council and for the conduct of business at those meetings is, subject to this schedule and the regulations, to be as decided by the council.
+(2) However, the chairperson of the council is to call the first meeting of the council in the way the chairperson considers appropriate.
+(3) Subsection (2) and this subsection expire 6 months after the day this section commences.
+## 4.47 Quorum at council meetings
+The quorum for a meeting of the council is a majority of its members for the time being.
+## 4.48 Presiding member at council meetings
+(1) The chairperson of the council or, in the absence of the chairperson, the deputy chairperson of the council or, in the absence of both, another member elected to chair the meeting by the members present is to preside at a meeting of the council.
+(2) The person presiding at any meeting of the council has a deliberative vote and, if the votes are equal, has a second or casting vote.
+## 4.49 Voting at council meetings
+A decision supported by a majority of the votes cast at a meeting of the council at which a quorum is present is the decision of the council.
+## Division 4.6.4 Miscellaneous
+## 4.50 Requirement to provide information
+(1) The council may, by written notice, require an occupational association—
+  (a) whose members are subject to a scheme in force under this schedule; or
+  (b) that seeks the council’s recommendation under section 4.4 for a scheme, or an amendment or revocation of a scheme;
+to give it the information it reasonably requires to exercise its functions.
+(2) An occupational association commits an offence if it does not comply with a notice under this section.
+Maximum penalty: 5 penalty units.
+## 4.51 Referral of complaints
+(1) An occupational association may refer to the council any complaint or other evidence received by it that a member or former member of the association has committed an offence against section 4.29 (Notification of limitation of liability) or an offence against a regulation.
+(2) An occupational association must give information to the council about—
+  (a) any complaint or other evidence covered by subsection (1) that it did not refer to the council; and
+  (b) particulars of any action taken by it on the complaint or other evidence and of the outcome of the action.
+(3) An occupational association, member of an association’s executive body, or anyone acting under the direction of an association or its executive body, is not personally liable for anything done or omitted to be done honestly—
+  (a) in the exercise of a function under this section; or
+  (b) in the reasonable belief that the act or omission was in the exercise of a function under this section.
+(4) Any liability that, apart from subsection (3), would attach to a person attaches instead to the occupational association.
+## 4.52 Council committees
+(1) The council may, with the Minister’s approval, establish committees to assist in the exercise of its functions.
+(2) Committee members need not be members of the council.
+(3) The procedure for calling committee meetings and for the conduct of business at those meetings is to be decided by the council or (subject to any decision of the council) by the committee.
+## 4.53 Use of government staff or facilities
+The council may, with the approval of the Minister, arrange for the use of government staff or facilities.
+## 4.54 Engagement of consultants by council
+The council, or a committee established under section 4.52, may engage consultants with suitable qualifications and experience, either in an honorary capacity or for remuneration.
+## 4.55 Accountability of council to Minister
+(1) The council must exercise its functions subject to—
+  (a) the general direction and control of the Minister; and
+  (b) any specific written directions given by the Minister.
+(2) Without limiting subsection (1) (b), a direction may require the council to give the Minister information, or give access to information, in its possession or control about anything stated in the direction.
+## 4.56 Annual report of council
+(1) The council must prepare a report on the council’s work and activities during each financial year.
+(2) The council must give the report for a financial year to the Minister before 1 October in the next financial year.
+(3) The Minister must present a copy of the annual report to the Legislative Assembly within 6 sitting days after the day the Minister receives it.
+## Part 4.7 Miscellaneous
+## 4.57 Characterisation of sch 4
+The provisions of this schedule are to be regarded as part of the substantive law of the ACT.
+## 4.58 No contracting out of sch 4
+This schedule applies to a person to whom a scheme in force under this schedule applies despite any contract to the contrary, whether the contract was made before, on or after the day the person became a person to whom the scheme applies.
+## 4.59 No limitation on other insurance
+This schedule does not limit the insurance arrangements a person may make apart from those made for this schedule.
+## 4.60 Review of sch 4
+(1) The Minister must review this schedule as soon as possible after the end of its 5th year of operation.
+(2) The review must examine whether the policy objectives of this schedule remain valid and whether the terms of the schedule remain appropriate for securing those objectives.
+(3) A report of the outcome of the review is to be presented to the Legislative Assembly within 12 months after the end of the 5 years.
+(4) This section expires 7 years after the day it commences.

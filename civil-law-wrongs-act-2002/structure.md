@@ -28,6 +28,7 @@
 ## Part 7.2 Loss of capacity to perform domestic services
 ## Part 7.3 Contributory negligence
 ## Part 7.4 Other provisions—damages
+# Chapter 7A Proportionate liability
 # Chapter 8 Liability of public and other authorities
 # Chapter 9 Defamation
 ## Part 9.1 Preliminary—defamation
