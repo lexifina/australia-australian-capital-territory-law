@@ -1,4 +1,4 @@
-# U Schedule 1 Work
+# Schedule 1 Work
 (see dict, def work)
 1 The construction, erection, alteration, repair, renovation, demolition, maintenance or removal of a building or structure.
 2 The construction, alteration or repair of a road, street parking area, footpath, thoroughfare (for pedestrians or vehicles), kerbing, guttering, roundabout, median strip, or the performance of other road works.
@@ -17,5 +17,4 @@
 13 The construction, repair, alteration or removal of a playing field, golf course, racecourse, stadium, swimming pool or other sporting or recreational facility.
 14 Landscaping or the construction, alteration or removal of a park or garden.
 15 Work to improve the drainage of land.
-16 The removal of material that is asbestos for the Building Act 1972 from a building or any machinery, plant or equipment located in or on a building.
-17 Any site preparation work (including pile driving) preliminary to the performance of any construction work.
+16 Any site preparation work (including pile driving) preliminary to the performance of any construction work.

@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -13,7 +13,6 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 board means the Building and Construction Industry Training Fund Board established by section 4.
 Building Act, for part 3—see section 15.
 building approval, for part 3—see section 15.
-building controller, for part 3—see section 15.
 building work, for part 3—see section 15.
 chairperson means the chairperson of the board.
 council means the ACT Regional Building & Construction Industry Training Council Incorporated.
