@@ -29,3 +29,5 @@ The Executive may, with the consent of the auditor-general, retire the auditor-g
 (4) Anything done by or in relation to a person purporting to act pursuant to an appointment under subclause (1) is not invalid on the ground that—
   (a) the appointment was ineffective or had ceased to have effect; or
   (b) the occasion to act had not arisen or had ceased.
+## 7 Application of Legislation Act, div 19.3.3
+The Legislation Act 2001, division 19.3.3 (Appointments—Assembly consultation) applies to the appointment of a person to be auditor-general, or to act as auditor-general, as if the power to make the appointment were vested in a Minister, and in that application a reference in the division to a Minister is taken to be a reference to the Executive.
