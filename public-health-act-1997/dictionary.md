@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -21,6 +21,7 @@ authorisation means—
   (a) for a public health officer exercising a function under this Act—an authorisation given to the officer under section 12A (1) to exercise the function; and
   (b) for an authorised medical officer exercising a function under this Act—an authorisation given to the officer under section 14 (1) to exercise the function.
 authorised medical officer means an authorised medical officer under section 13.
+authorised nurse practitioner means a nurse practitioner who is the occupant of a nurse practitioner position acting within the scope of practice for the position.
 authorised officer, in relation to the exercise of a function under this Act, means—
   (a) the chief health officer; or
   (b) a public health officer authorised under section 12A (1) to exercise the function; or
@@ -64,6 +65,7 @@ notifiable condition means a disease or medical condition—
   (a) determined by the Minister under section 100 (1) (a); or
   (b) declared by the chief health officer under section 101 (1) (a).
 notified suspension or cancellation, of registration—see section 56P (1).
+nurse practitioner position—see the Health Act 1993, section 37B (2).
 occupier—
   (a) for this Act (other than part 5)—of a place, includes—
     (i) an owner of the place; and
@@ -99,9 +101,11 @@ registrable public health risk activity means a public health risk activity decl
 registration means the registration, under section 56G, of a person to carry on a registered activity.
 registration certificate means a registration certificate under section 56H.
 responsible person, in relation to a person having a notifiable condition, means—
-  (a) a medical practitioner; or
-  (b) a counsellor who has counselled the person in relation to that condition; or
-  (c) a person who is responsible for the care, support or education of the person.
+  (a) a doctor; or
+  (b) an authorised nurse practitioner; or
+  (c) a counsellor who has counselled the person in relation to the condition; or
+  (d) a person who is responsible for the care, support or education of the person.
+scope of practice—see the Health Act 1993, section 37B (2).
 sewerage utility, for division 6B.2 (Sewage)—see section 118H (Definitions for div 6B.2).
 transmissible notifiable condition means a notifiable condition—
   (a) determined by the Minister to be a transmissible notifiable condition under section 100 (1) (b); or
