@@ -5,11 +5,8 @@
 ## Part 4 Female genital mutilation
 ## Part 5 Sexual servitude
 ## Part 6 Offences relating to property
-### Division 6.1 Interpretation for part 6
-### Division 6.2 Theft and related offences
 ### Division 6.2A Money laundering and organised fraud
 ### Division 6.3 Criminal damage to property
-### Division 6.4 Forgery and use of forged instruments
 ### Division 6.6 Contamination of goods and related offences
 ### Division 6.7 Offences relating to causing public alarm
 ### Division 6.8 Miscellaneous
