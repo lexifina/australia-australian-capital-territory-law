@@ -1,5 +1,11 @@
 # Dictionary
-(see s 2A)
+(see s 2)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· appoint
+· exercise
+· function
+· Magistrates Court.
 convulsive therapy means a procedure for the induction of an epileptiform convulsion in a person.
 decision-making principles—see section 5 (Principles to be followed by decision-makers).
 deputy president means a deputy president of the tribunal.
