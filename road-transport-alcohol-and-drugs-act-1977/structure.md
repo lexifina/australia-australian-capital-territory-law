@@ -1,7 +1,8 @@
-## Part I—Preliminary
-## Part II—Examination of persons for Alcohol or Drugs
-## Part III—Offences
-## Part IV—Penalties
-## Part VII—Evidence
-## Part VIII—Rehabilitation programs
-## Part IX—Miscellaneous
+## Part 1—Preliminary
+## Part 2—Examination of persons for Alcohol or Drugs
+## Part 3—Offences
+## Part 4—Penalties
+## Part 7—Evidence
+## Part 8—Rehabilitation programs
+## Part 9—Miscellaneous
+## Part 10—Transitional
