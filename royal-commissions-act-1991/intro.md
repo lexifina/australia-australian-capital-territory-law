@@ -1,3 +1,3 @@
 Australian Capital Territory
-royal commissions act 1991
-An Act relating to Royal Commissions
+Royal Commissions Act 1991
+An Act relating to royal commissions
