@@ -2,36 +2,28 @@
 (see s 40)
 ## 1 Appointment of members
 (1) Members of the tribunal shall be appointed by the Minister.
-(2) The president and deputy president shall be legal practitioners of not less than 5 years standing.
+Note 1 For the making of appointments (including acting appointments), see Legislation Act, pt 19.3.
+Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+(2) The president and deputy president shall be lawyers of not less than 5 years standing.
 (3) A person is not eligible to be a member of the tribunal if the person is—
   (a) an officer or employee of a controlling body;
   (b) registered with or licensed by a controlling body under the approved rules (otherwise than as the owner of a horse or dog that is so registered or licensed); or
   (c) registered with or licensed by a corresponding body (otherwise than as the owner of a horse or dog that is so registered or licensed), where the registration or licence is of a kind recognised by a controlling body for the purposes of the approved rules.
-(4) A member whose term has expired is eligible for re-appointment.
+Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
 ## 2 Acting appointments
 (1) The deputy president of the tribunal shall act as president if the president is for any reason unable or unavailable to act.
 (2) Subject to this clause, the Minister may appoint a qualified person to act in the place of a member when the member is for any reason unable or unavailable to act in that member’s capacity.
 (3) An appointment under subclause (2) shall not authorise a person to act for a continuous period of more than 6 months.
-(4) Anything done by or in relation to a person purporting to act under this clause is not invalid merely because—
-  (a) the occasion to act had not arisen or had ceased; or
-  (b) there was a defect or irregularity in an appointment; or
-  (c) the appointment had ceased to have effect.
 ## 3 Term of office
-A member of the tribunal is appointed for the term of office, not exceeding 3 years, specified in the instrument of appointment.
-## 4 Removal of members
-(1) The Minister shall terminate the appointment of a member of the tribunal if the member—
-  (a) resigns by giving written notice to the Minister; or
-  (b) ceases to be eligible for membership in the relevant capacity; or
-  (c) becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of remuneration for their benefit; or
-  (d) fails to disclose an interest as required by clause 7.
-(2) The Minister may terminate the appointment of a member of the tribunal for misbehaviour or physical or mental incapacity.
-## 5 Remuneration and allowances
-(1) A member of the tribunal shall be paid such remuneration and allowances as are prescribed in the regulations.
-(2) Subclause (1) does not apply—
-  (a) in relation to remuneration—if there is a subsisting determination relating to the remuneration to be paid to a member; or
-  (b) in relation to an allowance of a particular kind—if there is a subsisting determination relating to an allowance of that kind to be paid to a member.
-(3) In this clause:
-determination means a determination under the Remuneration Tribunal Act 1995.
+A member of the tribunal must be appointed for a term not longer than 3 years.
+## 4 Ending of appointment
+(1) The Minister must end the appointment of a member of the tribunal if the member—
+  (a) ceases to be eligible for membership in the relevant capacity; or
+  (b) becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+  (c) fails to disclose an interest as required by clause 7.
+(2) The Minister may end the appointment of a member of the tribunal for misbehaviour or physical or mental incapacity.
+Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 ## 6 Leave of absence
 The Minister may grant a member of the tribunal leave of absence on such terms and conditions as to remuneration and otherwise as the Minister determines.
 ## 7 Disclosure of interests

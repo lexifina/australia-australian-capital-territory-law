@@ -2,20 +2,16 @@
 (see s 42)
 ## 1 Appointment of assessors
 Assessors shall be appointed by the Minister from among persons who the Minister is satisfied have special knowledge of or experience in the racing industry.
+Note 1 For the making of appointments (including acting appointments), see Legislation Act, pt 19.3.
+Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
 ## 2 Term of office
-An assessor is appointed for the term of office, not exceeding 3 years, specified in the instrument of appointment, and is eligible for re-appointment.
-## 3 Removal of assessors
-(1) The Minister shall terminate the appointment of an assessor if the assessor—
-  (a) resigns by giving written notice to the Minister; or
-  (b) fails to disclose an interest as required by clause 5.
-(2) The Minister may terminate the appointment of an assessor for misbehaviour or physical or mental incapacity.
-## 4 Remuneration and allowances
-(1) An assessor shall be paid such remuneration and allowances as are prescribed in the regulations.
-(2) Subclause (1) does not apply—
-  (a) in relation to remuneration—if there is a subsisting determination relating to the remuneration to be paid to an assessor; or
-  (b) in relation to an allowance of a particular kind—if there is a subsisting determination relating to an allowance of that kind to be paid to an assessor.
-(3) In this clause:
-determination means a determination under the Remuneration Tribunal Act 1995.
+An assessor must be appointed for a term not longer than 3 years.
+Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
+## 3 Ending of appointments
+(1) The Minister must end the appointment of an assessor if the assessor fails to disclose an interest as required by clause 5.
+(2) The Minister may end the appointment of an assessor for misbehaviour or physical or mental incapacity.
+Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 ## 5 Disclosure of interests
 An assessor—
   (a) shall inform the president when it becomes apparent that the assessor has or has acquired an interest that could conflict with the assessor’s proper performance of his or her functions as assessor of the tribunal in a hearing; and
