@@ -2,10 +2,13 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· ambulance service
 · chief executive
+· chief officer (ambulance service)
 · contravene
 · doctor
 · document
+· emergency services commissioner
 · exercise
 · function
 · medical practitioner
