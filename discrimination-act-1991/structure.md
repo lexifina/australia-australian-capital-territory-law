@@ -10,6 +10,7 @@
 ### Division 4—Exceptions relating to religious or political convictions
 ### Division 5—Exceptions relating to impairment
 ### Division 6—Exceptions relating to age
+### Division 7—Exceptions relating to profession, trade, occupation or calling
 ## PART V—SEXUAL HARASSMENT
 ## Part VI—Racial Vilification
 ## PART VII—OTHER UNLAWFUL ACTS
