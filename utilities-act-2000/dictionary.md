@@ -16,7 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State
 · Supreme Court
 · the Territory.
-annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant year.
+annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant financial year.
 approved meter, for division 6.4 (Passing on supply costs)—see section 97.
 authorised person means a person appointed as an authorised person under section 114.
 capital contribution charge—see section 101 (Capital contribution charges—network development).
