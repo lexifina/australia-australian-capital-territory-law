@@ -9,7 +9,7 @@
 ## Part 6 Economic measures
 ## Part 7 Environmental protection agreements
 ## Part 8 Environmental authorisations
-### Division 8.1A Interpretation for part 8
+### Division 8.1A Interpretation for pt 8
 ### Division 8.1 Requirements to hold and comply with an authorisation
 ### Division 8.2 Grant, variation, cancellation and suspension
 ## Part 9 Environmental protection

@@ -1,6 +1,6 @@
 # Schedule 1 Activities requiring environmental authorisation
 (see s 42)
-## 1 Definitions for sch 1
+## 1.1 Definitions for sch 1
 In this schedule:
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised concert venue means a concert venue where the holder of an environmental authorisation for the conduct of outdoor concert activities is authorised to conduct such an activity.
@@ -27,13 +27,13 @@ motor racing event means—
 ozone-depleting substance means a substance listed in the Ozone Protection Act 1989 (Cwlth), schedule 1, whether existing alone or in a mixture.
 primary production—see the Income Tax Assessment Act 1936 (Cwlth).
 receiving waters means ground water or water in a waterway.
-regulated waste—see clause 1A.
+regulated waste—see section 1.1A.
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
 stock—see the Stock Act 1991.
 stormwater means water run-off from an urban area that is normally collected by the stormwater system.
 stormwater system means a system of pipes, gutters, drains, floodways and channels, being public works constructed to collect or transport stormwater in or through an urban area.
 waste means any solid, liquid or gas, or any combination of them, that is a surplus product or unwanted by-product of an activity, whether the product or by-product is of value or not.
-wastewater means water that is the by-product of an activity, being water that—
+wastewater means water that is the by-product of an activity if the water—
   (a) contains other matter (whether in a solid, liquid or gaseous state); or
   (b) if added to receiving waters—has the potential to pollute those waters.
 water includes water that contains impurities.
@@ -43,7 +43,7 @@ waterway means—
   (c) a lake, pond, lagoon or marsh (whether formed by geomorphic processes or by works) in which water collects (whether continuously or intermittently);
 and includes the bed that the water in the waterway normally flows over or is covered by and the banks that the water in the waterway normally flows between or is contained by, but does not include land normally not part of the waterway that may be covered from time to time by floodwaters from the waterway.
 year means any 12 month period.
-## 1A Meaning of regulated waste
+## 1.1A Meaning of regulated waste
 (1) Regulated waste means waste that is, or contains, 1 or more of the following kinds of waste:
   (a) hazardous waste;
   (b) group A waste;
@@ -52,8 +52,8 @@ year means any 12 month period.
     (i) municipal waste; or
     (ii) food waste; or
     (iii) vegetable matter produced by agriculture or horticulture.
-(2) An expression used in subclause (1) and defined in the environmental standards has the same meaning as in the standards.
-## 2 Class A activities
+(2) An expression used in subsection (1) and defined in the environmental standards has the same meaning as in the standards.
+## 1.2 Class A activities
 For section 42, the following activities are class A activities:
 column 1 item | column 2 activity
 1 | the manufacture, sale, storage, supply, transport, use, servicing or disposal of, or other dealing with— (a) an ozone-depleting or other substance; or (b) a thing containing an ozone-depleting or other substance; if that activity is a prescribed activity in relation to that substance or thing
@@ -64,12 +64,12 @@ column 1 item | column 2 activity
 6 | the conduct of a crematorium for the reduction by means of thermal oxidation of human bodies to cremated remains
 7 | the operation of a commercial landfill facility that receives, or is intended by the operator to receive, more than 5 000t of waste per year
 8 | the acceptance by a lessee or occupier of land that is in an area identified in—
- | (a) the Territory plan as 1 of the following: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or
+ | (a) the territory plan as 1 of the following: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or
  | (b) the national capital plan as 1 of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland; of more than 100m3 of soil for placement on that land
 9 | transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies
 10 | the provision of regulated waste for transportation from 1 place in the ACT to another place in the ACT
 11 | the transportation of regulated waste from 1 place in the ACT to another place in the ACT
-12 | sewage treatment, being an activity involving the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 people per day, other than an activity involving the recycling of wastewater if there is no discharge to receiving waters
+12 | sewage treatment if the activity involves the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 people per day, other than an activity involving the recycling of wastewater if there is no discharge to receiving waters
 13 | the treatment (other than by incineration), storage or handling of more than 1 000m3 of contaminated soil from land outside the parcel of land where the contaminated soil is treated, stored or handled
 14 | the treatment (other than by incineration), storage or handling of more than 10 000m3 of contaminated soil from land
 15 | the operation of a facility at which more than 800 animals per day may be milked
@@ -85,7 +85,7 @@ column 1 item | column 2 activity
 25 | outdoor concert activities using amplifying equipment if the venue has the capacity to hold more than 2 000 people and is not an authorised concert venue
 26 | the management of a concert venue that has the capacity to hold more than 2 000 people where outdoor concert activities using amplifying equipment are held
 27 | the generation of electricity by a generator classified as a scheduled generating unit under the National Electricity Code, clause 2.2.2
-28 | motor racing events, other than such events held at an authorised racing venue
+28 | motor racing events, other than motor racing events held at an authorised racing venue
 29 | the management of a motor racing venue where motor racing events are held
 30 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity
 31 | the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 (Cwlth) for pest control or turf management
@@ -106,7 +106,7 @@ column 1 item | column 2 activity
 46 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
 47 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 46
 48 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
-## 3 Class B activities
+## 1.3 Class B activities
 For section 42, the following activities are class B activities:
 column 1 item | column 2 activity
 1 | the manufacture of things in furnaces or kilns (including bricks, glass, pipes, pottery goods and tiles) at a facility designed to produce between 100t and 10 000t of things per year
