@@ -1,5 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 Giving of evidence about sexual offences by children
+## Part 2 Giving of evidence about sexual offences
 ## Part 3 Use of audiovisual links and audio links
 ### Division 3.1 Preliminary
 ### Division 3.2 Use of interstate audiovisual links or audio links in proceedings before Territory courts
