@@ -55,11 +55,11 @@ damage—
 defamation—see section 115.
 default value, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 duty of care, for chapter 8 (Liability of public and other authorities)—see section 109.
-equine, for schedule 3 (Equine activities)—see schedule 3, clause 1.
-equine activity, for schedule 3 (Equine activities)—see schedule 3, clause 1.
-equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, clause 1.
-equine facility, for schedule 3 (Equine activities)—see schedule 3, clause 1.
-equine professional, for schedule 3 (Equine activities)—see schedule 3, clause 1.
+equine, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
+equine activity, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
+equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
+equine facility, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
+equine professional, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 evidence, for chapter 6 (Expert medical evidence)—see section 82.
 expert, for chapter 6 (Expert medical evidence)—see section 82.
 expert medical evidence, for chapter 6 (Expert medical evidence)—see section 82.
@@ -75,7 +75,7 @@ funeral expenses includes costs related to any of the following:
   (g) a headstone, plaque, tablet or other memorial.
 guest—see section 148.
 harm, for chapter 4 (Negligence)—see section 40.
-inherent risks of equine activities, for schedule 3 (Equine activities)—see schedule 3, clause 1.
+inherent risks of equine activities, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 innkeeper’s liability—see section 147.
 insured, for part 15.3 (Attachment of insurance money)—see section 206 (1).
 insurer—
@@ -107,8 +107,8 @@ parent—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
 parliamentary body—see section 115.
-participant, for schedule 3 (Equine activities)—see schedule 3, clause 1.
-participate, for schedule 3 (Equine activities)—see schedule 3, clause 1.
+participant, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
+participate, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 party, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 personal injury means bodily injury, and includes—
   (a) mental or nervous shock; and
