@@ -4,14 +4,18 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · administrative unit
+· ambulance service
 · chief executive
 · contravene
 · fail
+· fire brigade
 · found guilty
 · indictable offence (see s 190)
 · instrument (see s 14)
 · notification (see s 63)
 · penalty unit (see s 133)
+· rural fire service
+· SES
 · State.
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
 analysis, of a dangerous substance or anything else, includes examining or testing the substance or thing.
