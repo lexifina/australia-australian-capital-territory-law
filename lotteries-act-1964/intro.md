@@ -1,3 +1,2 @@
-Australian Capital Territory
-lotteries act 1964
-An Act relating to Lotteries
+# Lotteries Act 1964
+An Act relating to lotteries
