@@ -35,10 +35,3 @@ non-urban land means—
     (i) urban area;
     (ii) industrial centre;
     (iii) Lake Burley Griffin and Foreshores.
-## Part 3.14 Nature Conservation Act 1980
-U [3.47] Section 60I (d)
-substitute
-  (d) in accordance with a strategic bushfire management plan under the Emergencies Act 2004; or
-U [3.48] Section 60R (d)
-substitute
-  (d) in accordance with a strategic bushfire management plan under the Emergencies Act 2004; or
