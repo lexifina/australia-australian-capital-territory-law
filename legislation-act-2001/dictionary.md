@@ -1,8 +1,8 @@
 # Dictionary
-(see s 3)
+(see s 2)
 Part 1 Meaning of commonly-used words and expressions
 (see s 144)
-Note Words and expressions that are defined only for the Legislation Act 2001 are set out in pt 2.
+Note Words and expressions that are defined only for this Act are set out in pt 2.
 Act—see the following sections:
   (a) section 7 (Meaning of Act generally);
   (b) section 17 (References to Acts include references to former Cwlth enactments etc).
@@ -23,11 +23,11 @@ amend includes—
 appoint includes reappoint.
 asset includes property of any kind.
 Attorney-General means the Minister designated Attorney-General by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Attorney-General.
-auditor-general means the Auditor-General for the Territory.
+auditor-general means the auditor-general for the Territory.
 Note The Auditor-General Act 1996 provides for the appointment, functions and powers of the auditor-general.
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external Territory.
 Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
-Note Australian driver licence is defined in the dictionary to that Act to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def of driver licence).
+Note Australian driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def driver licence).
 authorised deposit-taking institution means an authorised deposit-taking institution under the Banking Act 1959 (Cwlth).
 bank means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the word ‘bank’, ‘banker’ or ‘banking’; or
@@ -41,20 +41,23 @@ Examples
 4 a partnership
 5 a joint venture
 6 a corporation sole
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 breach includes contravene.
 building society means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the expression ‘building society’; or
   (b) any other expression (whether or not in English) similar in meaning to the expression mentioned in paragraph (a).
 business day means a day that is not—
   (a) a Saturday or Sunday; or
-  (b) a public holiday or bank holiday in the Territory under the Holidays Act 1958.
+  (b) a public holiday or bank holiday in the ACT under the Holidays Act 1958.
+by-laws, in relation to an Act, means by-laws made or in force under the Act.
 calendar month means a period beginning at the start of any day of a named month and ending—
   (a) at the end of the day before the corresponding day of the next named month; or
   (b) if there is no such corresponding day—at the end of the last day of the next named month.
 Examples
 1 The period beginning at the start of 5 July 2000 and ending at midnight on 4 August 2000 is a calendar month.
 2 The period beginning at the start of 30 January 2001 and ending at midnight on 28 February 2001 is a calendar month. The calendar month ends on the last day of February because in that year February does not have a day corresponding to 29 January (because 2001 is not a leap year). If the period began at the start of 30 January 2004 (ie, a leap year), the calendar month would end at midnight on 29 February 2004.
-calendar year means a period of 12 months commencing on 1 January.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
+calendar year means a period of 12 months beginning on 1 January.
 change includes change by omission, substitution or addition.
 chief executive—see section 163.
 chief fire control officer means the Chief Fire Control Officer under the Bushfire Act 1936.
@@ -63,10 +66,11 @@ Chief Justice means the Chief Justice of the Supreme Court.
 Chief Magistrate means the Chief Magistrate of the Magistrates Court.
 Chief Minister means the Chief Minister for the Territory.
 Note The Chief Minister is elected under the Self-Government Act, s 40.
-chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the Territory.
+chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
-city area means the area that was the City Area under the City Area Leases Act 1936 immediately before its repeal.
+city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
+Note See s 106 for the meaning of references to repealed laws.
 clerk, in relation to the Legislative Assembly, means the Clerk of the Legislative Assembly.
 Note The office of Clerk is established under the Public Sector Management Act 1994.
 commencement, of an Act or statutory instrument—see section 80 (References to commencement of law).
@@ -119,11 +123,12 @@ document includes—
   (c) anything from which images, sounds, messages or writings can be produced or reproduced, whether with or without the aid of anything else; or
   (d) a drawing, map, photograph or plan.
 driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
-Note Driver licence is defined in the dictionary to that Act to mean a driver licence of any kind issued under that Act (see also def of Australian driver licence).
+Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established by the Electoral Act 1992.
 electoral commissioner means the Electoral Commissioner under the Electoral Act 1992.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
 entity includes an unincorporated body and a person (including a person occupying a position).
+environment protection authority means the Environment Protection Authority under the Environment Protection Act 1997.
 establish includes constitute and continue in existence.
 estate includes any charge, claim, demand, easement, encumbrance, lien, right and title, whether at law or in equity.
 Executive means the Australian Capital Territory Executive.
@@ -137,9 +142,14 @@ file includes lodge.
 financial year means a period of 12 months beginning on 1 July.
 fire brigade means the Australian Capital Territory Fire Brigade established by the Fire Brigade (Administration) Act 1974.
 fire commissioner means the Fire Commissioner under the Fire Brigade (Administration) Act 1974.
+for, in relation to an Act or statutory instrument, includes for the purposes of the Act or statutory instrument.
+Note Under s 7 (3) and s 13 (3) a reference to an Act or statutory instrument includes a reference to a provision of an Act or statutory instrument.
 foreign country means a country (whether or not an independent sovereign state) outside Australia and the external Territories.
-former NSW Act means a NSW Act mentioned in schedule 1.
-former UK Act means a UK Act mentioned in schedule 1.
+former NSW Act means an Act corresponding to a NSW Act mentioned in schedule 1.
+Note 1 The Crimes Act 1900 is taken to have been enacted by the Legislative Assembly because of the Crimes Legislation (Status and Citation) Act 1992. The 1992 Act was repealed by the Law Reform (Miscellaneous Provisions) Act 1999, but its previous operation was saved (see s 5 (2)).
+Note 2 The other former NSW Acts are taken to have been enacted by the Legislative Assembly because of the Interpretation Act 1967, s 65. Section 65 has expired, but its previous operation was saved (see s 65 (3)).
+former UK Act means an Act corresponding to a UK Act mentioned in schedule 1.
+Note Former UK Acts are also taken to have been enacted by the Legislative Assembly because of the Interpretation Act 1967, s 65.
 found guilty, of an offence, includes—
   (a) having the offence taken into account under the Crimes Act 1900, section 357; and
   (b) having an order made in relation to the offence under the Crimes Act 1900, section 402 or the Children and Young People Act 1999, section 96.
@@ -151,13 +161,13 @@ government printer includes anyone printing for or by the authority of the Execu
 government solicitor means the Government Solicitor under the Government Solicitor Act 1989.
 Governor means—
   (a) for a State (other than the Northern Territory)—the Governor of the State, and includes a person administering the Government of the State; or
-  (b) for the Northern Territory—the Administrator of the Territory, and includes a person administering the Government of the Territory.
+  (b) for the Northern Territory—the Administrator of the Northern Territory, and includes a person administering the Government of the Northern Territory.
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
 guardianship tribunal means the Guardianship and Management of Property Tribunal established under the Guardianship and Management of Property Act 1991.
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
 Imperial Act means an Act of the United Kingdom Parliament.
-indictable offence—see section 136 (1).
+indictable offence—see section 190 (1).
 indictment includes information.
 individual means a natural person.
 instrument—see section 14 (Meaning of instrument).
@@ -166,8 +176,8 @@ interest, in relation to land or other property, means—
   (b) a right, power or privilege over, or in relation to, the land or other property.
 internal Territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
 Jervis Bay Territory means the Territory accepted by the Commonwealth under the Jervis Bay Territory Acceptance Act 1915 (Cwlth).
-Note The Territory is described in the agreement set out in the schedule to the Act.
-judge, of the Supreme Court, means a resident judge, additional judge or acting judge under the Supreme Court Act 1933.
+Note The Jervis Bay Territory is described in the agreement set out in that Act, schedule.
+judge means a resident judge, additional judge or acting judge under the Supreme Court Act 1933.
 Lake Burley Griffin means Lake Burley Griffin as defined in the Lakes Act 1976.
 Lake Ginninderra means Lake Ginninderra as defined in the Lakes Act 1976.
 land includes messuages, tenements and hereditaments, corporeal or incorporeal, of any tenure or description, whatever the interest in the land.
@@ -202,8 +212,9 @@ name includes—
   (b) for an instrument—the instrument’s citation; and
   (c) for a position—the position’s title or designation.
 named month means one of the 12 months of the year.
+national capital authority means the National Capital Authority under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national land means National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
-Note If an area of land in the Territory is, or is intended to be, used by or on behalf of the Commonwealth, it may be declared National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 27.
+Note If an area of land in the ACT is, or is intended to be, used by or on behalf of the Commonwealth, it may be declared National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 27.
 night means the period between sunset on one day and sunrise on the next day.
 Northern Territory means the Northern Territory of Australia.
 notifiable instrument—see section 10 (Meaning of notifiable instrument).
@@ -235,10 +246,10 @@ police officer means a member or special member of the Australian Federal Police
 position includes office.
 power includes authority.
 prescribed, in an Act, means prescribed by the Act or regulations under the Act.
-privacy commissioner means the Privacy Commissioner under the Privacy Act 1998 (Cwlth).
+privacy commissioner means the Privacy commissioner under the Privacy Act 1998 (Cwlth).
 proceeding means a legal or other action or proceeding.
-property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a chose in action.
-Note A chose in action is an intangible personal property right recognised and protected by the law. Examples include debts, money held in a bank, shares, rights under a trust, copyright and right to sue for breach of contract.
+property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
+Note A thing in action is an intangible personal property right recognised and protected by the law. Examples include debts, money held in a bank, shares, rights under a trust, copyright and right to sue for breach of contract.
 provision—see section 16 (Meaning of provision).
 public employee means—
   (a) a public servant; or
@@ -265,17 +276,20 @@ repeal includes—
   (a) for an Act or statutory instrument—omit a provision of the Act or instrument; and
   (b) for an Act or statutory instrument (or a provision of it)—abrogate or limit its effect, or exclude from its application, any circumstance, matter, person, place or purpose; and
   (c) for a provision of an Act or statutory instrument—omit the provision (or a part of it); and
-  (d) for a decision—revoke it or cancel it; and
-  (e) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9).
+  (d) for a statutory instrument—revoke the instrument (or part of it); and
+  (e) for a decision—revoke it or cancel it; and
+  (f) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9).
 residential tenancies tribunal means the Residential Tenancies Tribunal established by the Residential Tenancies Act 1997.
 road transport authority means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
-rules, of a court or tribunal, means rules made by the person or body having power to make rules (however described) regulating the practice and procedure of the court or tribunal.
+rules means—
+  (a) of a court or tribunal—rules made by the person or body having power to make rules (however described) regulating the practice and procedure of the court or tribunal; and
+  (b) in relation to an Act—rules made or in force under the Act.
 rural firefighting service means the Rural Firefighting Service established by the Bushfire Act 1936.
 see, in a definition—see section 131 (Signpost definitions).
 Self-Government Act means the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
 self-government day means 11 May 1989.
-Note This is the day when the remaining provisions of the Self-Government Act commenced and, in particular, the Australian Capital Territory was established as a body politic, the Legislative Assembly was empowered to make laws for the Territory and the Executive was established.
+Note This is the day when the remaining provisions of the Self-Government Act commenced and, in particular, the Australian Capital Territory was established as a body politic, the Legislative Assembly was empowered to make laws for the ACT and the Executive was established.
 sign includes attach a seal and make a mark.
 sitting day, of the Legislative Assembly, means a day when the Assembly meets.
 Small Claims Court means the Magistrates Court when exercising jurisdiction as the Small Claims Court.
@@ -287,9 +301,9 @@ Standards Australia means the company named Standards Australia International Li
 State means a State of the Commonwealth, and includes the Northern Territory.
 statutory declaration means a statutory declaration made under the Statutory Declarations Act 1959 (Cwlth).
 statutory instrument—see section 13 (Meaning of statutory instrument).
-statutory office-holder means the person occupying a position under an Act or statutory instrument.
+statutory office-holder means a person occupying a position under an Act or statutory instrument (other than a position in the public service).
 subordinate law—see section 8 (Meaning of subordinate law).
-summary offence—see section 136 (2).
+summary offence—see section 190 (2).
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
 swear, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
@@ -301,9 +315,9 @@ Territory authority means a body established under an Act.
 Territory instrumentality means a corporation that—
   (a) is established under an Act or statutory instrument, or under the Corporations Act; and
   (b) is a Territory instrumentality under the Public Sector Management Act 1994.
-Note Territory instrumentality is defined in the Public Sector Management Act 1994, s 3 (1).
+Note Territory instrumentality is defined in the Public Sector Management Act 1994, s 3.
 Territory land means Territory Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
-Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the Territory is not national land (see the definition above) it is Territory land.
+Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land (see the definition above) it is Territory land.
 Territory owned corporation means a Territory owned corporation under the Territory Owned Corporations Act 1990.
 Territory plan means the Territory plan as in force from time to time under the Land (Planning and Environment) Act 1991.
 transitional includes saving.
@@ -324,46 +338,49 @@ United Kingdom Parliament means—
 veterinary surgeon means a registered veterinary surgeon under the Veterinary Surgeons Act 1965.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
+working day means a day that is not a Saturday, Sunday or public holiday.
 writing includes any way of representing or reproducing words in visible form.
 Examples
 Printing, photocopying, photography, typewriting.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
-Part 2 Words and expressions for the Legislation Act 2001 only
+Part 2 Words and expressions for Legislation Act 2001 only
 Note Words and expressions that apply to all Acts and statutory instruments are set out in pt 1.
-administrator, for part 18.5 (Service of documents)—see section 246.
-agency, for part 18.5 (Service of documents)—see section 246.
+administrator, for part 19.5 (Service of documents)—see section 246.
+agency, for part 19.5 (Service of documents)—see section 246.
 appointee—
-  (a) for division 18.3.1 (Appointments—other than acting appointments)—see section 207 (2); and
-  (b) for division 18.3.2 (Acting appointments)—see section 217 (2).
+  (a) for division 19.3.1 (Appointments—other than acting appointments)—see section 207 (2); and
+  (b) for division 19.3.2 (Acting appointments)—see section 217 (2).
 appointer—
-  (a) for division 18.3.1 (Appointments—other than acting appointments)—see section 205 (1); and
-  (b) for division 18.3.2 (Acting appointments)—see section 215 (1); and
-  (c) for part 18.4 (Delegations)—see section 230 (1).
-approved web site means an Internet site approved under section 21 (Approved web site).
+  (a) for division 19.3.1 (Appointments—other than acting appointments)—see section 205; and
+  (b) for division 19.3.2 (Acting appointments)—see section 215; and
+  (c) for part 19.4 (Delegations)—see section 230 (1).
+approved web site means an internet site approved under section 21 (Approved web site).
 authorised republication—see section 15 (Meaning of authorised republication).
 authorising law, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5).
 benefits, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5).
-business address, for part 18.5 (Service of documents)—see section 246.
-corporation, for part 18.5 (Service of documents)—see section 246.
+business address, for part 19.5 (Service of documents)—see section 246.
+corporation, for part 19.5 (Service of documents)—see section 246.
 costs, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5).
 current legislative drafting practice means the legislative drafting practices from time to time used in the Parliamentary Counsel’s Office.
-delegate, for part 18.4 (Delegations)—see section 233 (2).
-document, for part 18.5 (Service of documents)—see section 246.
+delegate, for part 19.4 (Delegations)—see section 233 (2).
+determinative provision—see section 5 (2).
+document, for part 19.5 (Service of documents)—see section 246.
 editorial amendment, of a law—see section 116 (Ambit of editorial amendments).
-email address, for part 18.5 (Service of documents)—see section 246.
-executive officer, for part 18.5 (Service of documents)—see section 246.
-fax number, for part 18.5 (Service of documents)—see section 246.
+email address, for part 19.5 (Service of documents)—see section 246.
+executive officer, for part 19.5 (Service of documents)—see section 246.
+fax number, for part 19.5 (Service of documents)—see section 246.
 fee, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
-home address, for part 18.5 (Service of documents)—see section 246.
+home address, for part 19.5 (Service of documents)—see section 246.
 law—
-  (a) for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5); and
-  (b) for chapter 8 (Commencement and exercise of powers before commencement)—see section 72 (Meaning of law in ch 8); and
-  (c) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9); and
-  (d) for chapter 11 (Republication of Acts and statutory instruments)—see section 107 (Meaning of law in ch 11); and
-  (e) for chapter 13 (Structure of Acts and statutory instruments)—see section 125 (Meaning of law in ch 13); and
-  (f) for chapter 16 (Courts, tribunals and other decision-makers)—see section 175 (Meaning of law in ch 16); and
-  (g) for chapter 17 (Entities and positions)—see section 185 (Meaning of law in ch 17); and
-  (h) for chapter 18 (Administrative and machinery provisions)—see section 195 (Meaning of law in ch 18).
+  (a) for chapter 8 (Commencement and exercise of powers before commencement)—see section 72 (Meaning of law in ch 8); and
+  (b) for chapter 9 (Repeal and amendment of laws)—see section 82 (Definitions for ch 9); and
+  (c) for chapter 11 (Republication of Acts and statutory instruments)—see section 107 (Meaning of law in ch 11); and
+  (d) for chapter 13 (Structure of Acts and statutory instruments)—see section 125 (Meaning of law in ch 13); and
+  (e) for chapter 16 (Courts, tribunals and other decision-makers)—see section 175 (Meaning of law in ch 16); and
+  (f) for chapter 17 (Entities and positions)—see section 185 (Meaning of law in ch 17); and
+  (g) for chapter 19 (Administrative and machinery provisions)—see section 195 (Meaning of law in ch 19).
+non-determinative provision—see section 5 (3).
 provide a service, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
 referential words means words that identify a provision as a provision, or part of a provision, of the Act, statutory instrument or provision in which they appear.
 Examples
@@ -371,9 +388,10 @@ Examples
 2 of this section
 3 hereof
 4 said
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 register means the ACT legislation register.
 republication means a republication of a law with the meaning of section 107 (Meaning of law in ch 11).
 republication date, for an authorised republication, means the date stated in the republication as the republication date.
-responsible, for part 18.5 (Service of documents)—see section 246.
+responsible, for part 19.5 (Service of documents)—see section 246.
 scrutiny committee principles, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5).
 service, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
