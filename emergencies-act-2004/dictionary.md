@@ -138,6 +138,6 @@ standards and protocols, for an emergency service, means the standards and proto
 strategic bushfire management plan means the strategic bushfire management plan under section 72.
 structure includes industrial plant and equipment.
 support unit, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
-Territory controller means the person appointed to be the Territory controller for a declared state of emergency under section 157.
+Territory controller means the person appointed to be the Territory controller for a declared state of emergency under section 159.
 vehicle includes an aircraft, boat and train.
 volunteer member means a person appointed as a volunteer member of an emergency service under section 24.

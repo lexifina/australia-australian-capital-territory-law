@@ -46,12 +46,3 @@
 # Chapter 10 Miscellaneous
 ## Part 10.1 Other offences relating to fires
 ## Part 10.2 Other miscellaneous provisions
-# Chapter 11 Consequential and transitional matters
-## Part 11.2 Transitional provisions
-### Division 11.2.1 Definitions for pt 11.2
-### Division 11.2.2 Emergency management committee
-### Division 11.2.3 Bushfire council
-### Division 11.2.4 Former bushfire council—assets, rights and liabilities
-### Division 11.2.5 Members of fire brigade
-### Division 11.2.6 Emergency Services Commissioner
-### Division 11.2.7 Other provisions
