@@ -8,13 +8,11 @@
 ### Division 6.2 Theft and related offences
 ### Division 6.3 Criminal damage to property
 ### Division 6.4 Forgery and use of forged instruments
-### Division 6.5 Offences relating to computers
 ### Division 6.6 Contamination of goods and related offences
 ### Division 6.7 Offences relating to causing public alarm
 ### Division 6.8 Miscellaneous
 ## Part 7 Escape provisions
 ## Part 8 Perjury and like offences
-## Part 9 Aiding and abetting, accessories, attempts, incitement and conspiracy
 ## Part 10 Criminal investigation
 ### Division 10.1 Preliminary
 ### Division 10.2 Preventative action
@@ -31,7 +29,6 @@
 ### Division 13.4 Dismissal by Magistrates Court on grounds of mental impairment
 ### Division 13.5 Referral of mentally dysfunctional or mentally ill persons to tribunal following conviction
 ### Division 13.6 Summary proceedings against mentally dysfunctional or mentally ill persons
-## Part 14 Intoxication
 ## Part 15 Sentences
 ### Division 15.1 General principles and procedures
 ### Division 15.2 Pre-sentence reports
