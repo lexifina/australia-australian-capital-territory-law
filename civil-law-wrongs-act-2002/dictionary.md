@@ -1,12 +1,12 @@
 # Dictionary
 (see s 2)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 • doctor
 • domestic partner (see s 169)
 • entity
 • foreign country
-• indictable offence (see s 190 (1))
+• indictable offence (see s 190)
 • lawyer
 • Minister (see s 162)
 • proceeding
@@ -17,7 +17,7 @@ accommodation provider—see section 146.
 accommodation unit—see section 144.
 action, for chapter 9 (Defamation)—see section 115.
 agent, of an accommodation provider—see section 144.
-aggrieved person for part 9.2 (Resolution of disputes without litigation—defamation)—see section 116.
+aggrieved person, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 116.
 agreed expert, for chapter 6 (Expert medical evidence)—see section 84.
 amends agreement, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 119 (1).
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
@@ -25,7 +25,7 @@ apology, for part 2.3 (Apologies)—see section 13.
 appointed expert, for chapter 6 (Expert medical evidence)—see section 84.
 child—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
-  (b) for part 3.2 (Injury arising from mental or nervous shock)—see section 32.
+  (b) for part 3.2 (Mental harm)—see section 32.
 claim—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
   (b) for chapter 6 (Expert medical evidence)—see section 82; and
@@ -38,7 +38,7 @@ complying notice of claim, for chapter 5 (Personal injuries claims—pre-court p
 consequential mental harm, for part 3.2 (Mental harm)—see section 32.
 contribution notice, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 57 (Respondent may add someone else as contributor).
 contributor, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
-costs, for chapter 10 (Limitations on legal costs) —see section 180.
+costs, for chapter 14 (Limitations on legal costs)—see section 180.
 country, for chapter 9 (Defamation)—see section 115.
 court—
   (a) for part 2.5 (Proceedings against and contributions between wrongdoers)—see section 19; and
@@ -47,7 +47,7 @@ court—
   (d) for part 7.3 (Contributory negligence)—see section 101; and
   (e) for chapter 9 (Defamation)—see section 115; and
   (f) for chapter 13 (Misrepresentation)—see section 172; and
-  (g) for part 14.1 (Maximum costs for certain personal injury damages claims)—see section 180.
+  (g) for part 14.1 (Maximum costs for certain personal injury damages claims)—see section 180; and
   (h) for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
 damage—
   (a) for part 2.5 (Proceedings against and contributions between wrongdoers)—see section 19; and
@@ -63,7 +63,7 @@ equine professional, for schedule 3 (Equine activities)—see schedule 3, clause
 evidence, for chapter 6 (Expert medical evidence)—see section 82.
 expert, for chapter 6 (Expert medical evidence)—see section 82.
 expert medical evidence, for chapter 6 (Expert medical evidence)—see section 82.
-family member, of a person, for part 3.2 (Injury arising from mental or nervous shock)—see section 32.
+family member, of a person, for part 3.2 (Mental harm)—see section 32.
 fault, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 funeral expenses includes costs related to any of the following:
   (a) the publication of death and funeral notices;
@@ -105,7 +105,7 @@ non-fraudulent misrepresentation, for chapter 13 (Misrepresentation)—see secti
 offer to make amends, for chapter 9 (Defamation)—see section 115.
 parent—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
-  (b) for part 3.2 (Injury arising from mental or nervous shock)— see section 32.
+  (b) for part 3.2 (Mental harm)—see section 32.
 parliamentary body—see section 115.
 participant, for schedule 3 (Equine activities)—see schedule 3, clause 1.
 participate, for schedule 3 (Equine activities)—see schedule 3, clause 1.
@@ -129,7 +129,7 @@ recreational drug means a drug consumed voluntarily for non-medicinal purposes, 
 respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1) (Liability of carriers for certain goods worth more than $20).
-transport, for part 11.2 (Common carriers)—see section 159.
+transport, for part 11.2 (Common carriers)—see section 156.
 traveller accommodation—see section 145.
 tribunal, for chapter 9 (Defamation)—see section 115.
 voluntary basis—see section 6.
