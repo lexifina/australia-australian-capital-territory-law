@@ -43,14 +43,14 @@ child, of a person, includes a child—
   (a) who normally or regularly lives with the person; or
   (b) of whom the person is a guardian.
 court means the Supreme Court or Magistrates Court.
-domestic violence offence—see the Crimes Act 1900, dictionary.
+domestic violence offence—an offence that a person is accused of committing is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2001.
 grant, in relation to bail (other than in section 22 (Criteria for granting bail to adults) or section 23 (Criteria for granting bail to children)), includes continue.
 offence includes—
   (a) an alleged offence; and
   (b) except for section 8 (1) (a) and section 9 (1)—
     (i) a breach of the peace or an apprehended breach of the peace; and
     (ii) breach of a recognisance or an order mentioned in section 8A (1).
-relevant person—see the Crimes Act 1900, dictionary.
+parental responsibility—see the Children and Young People Act 1999, section 17.
 surety, in relation to an accused person, means a person other than the accused person who is subject to a liability under a bail condition mentioned in section 25 (1).
 undertaking to appear means an undertaking given under section 28 (1).
 victim in relation to an accused person, means—
