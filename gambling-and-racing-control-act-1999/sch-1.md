@@ -28,7 +28,7 @@ The Minister shall appoint a person employed under the Public Sector Management 
   (b) there was a defect or irregularity in an appointment; or
   (c) the appointment had ceased to have effect.
 ## 5 Term of office
-(1) A member of the Commission is appointed for the term of office, not exceeding 3 years, specified in the instrument of appointment.
+(1) A member of the Commission (other than the Chief Executive) is appointed for the term of office, not exceeding 3 years, specified in the instrument of appointment.
 (2) A member of the Commission is eligible for re-appointment.
 ## 6 Removal of members
 (1) The Minister shall terminate the appointment of a member of the Commission if the member—
