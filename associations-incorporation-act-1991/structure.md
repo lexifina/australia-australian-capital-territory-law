@@ -1,19 +1,19 @@
-## PART I—PRELIMINARY
-## PART II—ADMINISTRATION
-## PART III—INCORPORATION GENERALLY
-### Division 1—Preliminary
-### Division 2—Incorporation
-### Division 3—Incorporation of amalgamating associations
-### Division 4—Objects and rules of incorporated associations
-### Division 5—Names of incorporated associations
-### Division 6—Contracts
-### Division 7—Rights and liabilities of members and officers
-### Division 8—Miscellaneous
-## PART IV—MANAGEMENT
-## PART V—ACCOUNTS, AUDIT AND ANNUAL RETURNS
-## PART VI—TRANSFER OF INCORPORATION
-## PART VII—WINDING UP
-## PART VIII—INVESTIGATION OF ASSOCIATION’S AFFAIRS
-## PART IX—OFFENCES AND RELATED MATTERS
-## PART X—MISCELLANEOUS
-## PART XI—TRANSITIONAL AND SAVINGS PROVISIONS
+### Part 1 Preliminary
+## Part 2 Administration
+## Part 3 Incorporation generally
+### Division 3.1 Preliminary
+### Division 3.2 Incorporation
+### Division 3.3 Incorporation of amalgamating associations
+### Division 3.4 Objects and rules of incorporated associations
+### Division 3.5 Names of incorporated associations
+### Division 3.6 Contracts
+### Division 3.7 Rights and liabilities of members and officers
+### Division 3.8 Miscellaneous
+## Part 4 Management
+## Part 5 Accounts, audit and annual returns
+## Part 6 Transfer of incorporation
+## Part 7 Winding-up
+## Part 8 Investigation of association’s affairs
+## Part 9 Offences and related matters
+## Part 10 Miscellaneous
+## Part 11 Transitional and savings provisions
