@@ -12,7 +12,7 @@ column 1 item | column 2 exempt people
 8 | a practising pharmacist
 9 | a practising veterinary surgeon
 10 | a police officer
-11 | a person with full-time duties as a member of the fire brigade
+11 | a person with full-time duties as a member of an emergency service
 12 | a person living in the Jervis Bay Territory
 13 | a judge or master of the Supreme Court
 14 | a member of the Legislative Assembly or a member of staff of a member of the Legislative Assembly who is an adviser or private secretary
@@ -22,7 +22,7 @@ column 1 item | column 2 exempt people
 18 | a person holding any of the following positions in the Legislative Assembly: (a) clerk; (b) deputy clerk; (c) clerk assistant; (d) sergeant-at-arms; (e) editor of debates; (f) secretary to a committee of the Assembly
 19 | a public servant exercising the functions of a social worker responsible to the chief executive responsible for administering the Children and Young People Act 1999, chapter 2 (General objects, principles and parental responsibility)
 20 | a public servant holding a delegation under the Children and Young People Act 1999, section 34 whose principal function is to direct and control the provision of youth justice services in the ACT
-21 | the chief fire control officer or deputy fire control officer
+21 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
 22 | an appointee under the Remand Centres Act 1976, section 6 or 6A
 23 | a community corrections officer under the Supervision of Offenders (Community Service Orders) Act 1985
 24 | a person appointed as 1 of the following: (a) a royal commission under the Royal Commissions Act 1991, section 5; (b) a board of inquiry under the Inquiries Act 1991, section 5; (c) a member of a judicial commission under the Judicial Commissions Act 1994, section 6
