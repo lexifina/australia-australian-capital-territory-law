@@ -55,5 +55,3 @@
 ## Part 13 Community service obligations
 ## Part 14 Vicarious liability
 ## Part 15 Miscellaneous
-## Part 16 Transitional
-### Division 16.3 Gas Supply Act, repeal and savings
