@@ -1,4 +1,4 @@
-## Part I—preliminary
-## Part II—registration
-## PArt iiI—OFFENCES
-## part Iv—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Registration
+## Part 3 Offences
+## Part 4 Miscellaneous
