@@ -30,6 +30,7 @@
 ## Part 8 Infringement notices for certain offences
 ### Division 8.1 Preliminary
 ### Division 8.2 Infringement and reminder notices
+### Division 8.2A Additional provisions for vehicle-related offences
 ### Division 8.3 Disputing liability
 ### Division 8.4 Miscellaneous
 ## Part 9 Enforcement of decisions
