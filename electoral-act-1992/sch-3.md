@@ -26,7 +26,7 @@ that has not been dealt with at an earlier preliminary scrutiny.
 (a) 1 group containing papers to which clause 9 applies;
 (b) 1 group containing the remainder.
 \9. (1) This clause applies to a set of declaration voting papers if the OIC is satisfied that—
-(a) the elector who signed the declaration was, when the roll closed for the election, entitled to be enrolled thereon; and
+(a) the elector who signed the declaration was, when the roll closed for the election, entitled to be enrolled; and
 (b) the omission of the elector’s name from the roll resulted from an official error.
 (2) For the purposes of paragraph (1) (b), where an elector’s name has been duly removed from the roll for an electorate in which the elector is otherwise entitled to vote, the removal shall be taken to have been an official error, unless the removal occurred before the roll closed for the purpose of the last election before that to which the papers relate in which case the removal shall not be taken to be an official error.
 \10. (1) An officer shall withdraw the ballot papers from the envelopes in the groups of declaration voting papers to which paragraph 7 (a) or clause 9 applies and, without unfolding or inspecting the ballot papers or allowing any other person to do so, admit them to scrutiny under section 183.
