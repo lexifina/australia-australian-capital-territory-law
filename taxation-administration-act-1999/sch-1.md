@@ -7,8 +7,8 @@ A person dissatisfied with a decision listed in clause 2 may—
 ## 2 Kinds of decision subject to objection or appeal
 Clause 1 applies to a decision—
   (a) under section 8 determining the existence and effect of a tax avoidance scheme; or
-  (b) under section 31 (3) to impose penalty tax; or
-  (c) under section 31 (2) to impose increased penalty tax; or
+  (b) under section 31 (6) to impose penalty tax; or
+  (c) under section 31 (5) to impose increased penalty tax; or
   (d) under section 34 to impose increased penalty tax; or
   (e) under section 37 refusing to remit penalty tax; or
   (f) under section 40 (5) revoking a variation previously granted in relation to requirements for a return; or
