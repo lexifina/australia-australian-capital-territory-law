@@ -86,7 +86,7 @@ offence, for part 10 (Enforcement)—see section 150.
 owner, of premises, means—
   (a) a person who owns the premises; or
   (b) a lessee of the premises under a lease granted by or for the Commonwealth; or
-  (c) in the case of a unit under the Unit Titles Act 1970—the person who is the unit proprietor;
+  (c) for a unit under the Unit Titles Act 2000—the unit owner;
 whether alone or together with 1 or more other people.
 party, to a complaint, for part 12 (Complaints)—see section 184.
 personal information—see the Privacy Act 1988 (Cwlth), section 6 (Interpretation), but does not include information available to a section of the public.
