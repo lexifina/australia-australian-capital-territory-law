@@ -1,4 +1,6 @@
-## Part I—Preliminary
-## Part II—Cranes, Hoists, Plant and Scaffolding and Building, Excavation and Compressed Air Work
-## Part III—Lifts
-## Part IV—Inspection
+## Part 1 Preliminary
+## Part 1A Administration
+## Part 2 Cranes, hoists, plant and scaffolding and building, excavation and compressed air work
+## Part 3 Lifts
+## Part 4 Inspection
+## Part 5 Miscellaneous
