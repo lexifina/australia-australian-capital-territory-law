@@ -1,21 +1,21 @@
-## Part I—Preliminary
-## PART II—FORMATION OF THE CONTRACT
-### Division 1—Contract of Sale
-### Division 2—Formalities of the Contract
-### Division 3—Subject Matter of the Contract
-### Division 4—The Price
-### Division 5—Conditions and Warranties
-### Division 6—Sale by Sample
-## PART III—EFFECTS OF THE CONTRACT
-### Division 1—Transfer of Property as between Seller and Buyer
-### Division 2—Transfer of Title
-## Part IV—Performance of the Contract
-## PART V—RIGHTS OF UNPAID SELLER AGAINST THE GOODS
-### Division 1—General
-### Division 2—Unpaid Seller’s Lien
-### Division 3—Stoppage in transitu
-### Division 4—Re-sale by Buyer or Seller
-## Part VI—Actions for Breach of the Contract
-### Division 1—Remedies of the Seller
-### Division 2—Remedies of the Buyer
-## Part VII—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Formation of the contract
+### Division 2.1 Contract of sale
+### Division 2.2 Formalities of contract
+### Division 2.3 Subject matter of contract
+### Division 2.4 The price
+### Division 2.5 Conditions and warranties
+### Division 2.6 Sale by sample
+## Part 3 Effects of the contract
+### Division 3.1 Transfer of property between seller and buyer
+### Division 3.2 Transfer of title
+## Part 4 Performance of the contract
+## Part 5 Rights of unpaid seller against the goods
+### Division 5.1 General
+### Division 5.2 Unpaid seller’s lien
+### Division 5.3 Stoppage in transitu
+### Division 5.4 Resale by buyer or seller
+## Part 6 Actions for breach of the contract
+### Division 6.1 Remedies of seller
+### Division 6.2 Remedies of buyer
+## Part 7 Miscellaneous
