@@ -27,7 +27,7 @@
 ### Division 7.1 General
 ### Division 7.2 General powers
 ### Division 7.3 Performance of network operations
-### Division 7.4 Authorised persons
+### Division 7.4 Authorised people
 ### Division 7.5 Miscellaneous
 ## Part 8 Protection of networks
 ### Division 8.1 General
@@ -41,7 +41,7 @@
 ### Division 10.1 General
 ### Division 10.2 ICRC inspectors
 ### Division 10.3 Technical inspectors
-### Division 10.4 Authorised persons for utility
+### Division 10.4 Authorised people for utility
 ### Division 10.5 Miscellaneous
 ## Part 11 Essential Services Consumer Council
 ### Division 11.1 Establishment and functions
