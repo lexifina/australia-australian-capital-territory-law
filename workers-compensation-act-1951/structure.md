@@ -34,5 +34,4 @@
 # Chapter 13 Review of decisions by administrative appeals tribunal
 # Chapter 14 Miscellaneous
 # Chapter 15 Temporary provisions for acts of terrorism
-# Chapter 16 Transitional—Workers Compensation Amendment Act 2001
 # Chapter 17 Transitional—Workers Compensation Amendment Act 2003 (No 2)
