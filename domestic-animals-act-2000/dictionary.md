@@ -1,9 +1,18 @@
 # Dictionary
 (see s 3)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· chief executive
+· contravene
+· found guilty
+· function
+· person
+· police officer
+· the Territory.
 administering authority, for part 4 (Infringement notices for certain offences)—see section 84.
 animal boarding facility means a kennel, cattery, stable or other premises where animals are kept temporarily by a person other than a keeper of the animal.
 animal nuisance, for part 6 (Animal nuisance)—see section 107 (Meaning of animal nuisance and nuisance notice for pt 6).
-animal welfare offence means an offence against a provision of the following sections of the Animal Welfare Act 1992:
+animal welfare offence means an offence against a provision of any of the following sections of the Animal Welfare Act 1992:
   (a) section 7 (Cruelty);
   (b) section 8 (Pain);
   (c) section 9 (Confined animals);
@@ -17,14 +26,15 @@ animal welfare offence means an offence against a provision of the following sec
   (k) section 17 (Matches, competitions and baiting);
   (l) section 19 (Medical and surgical procedures).
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
-authorised officer an authorised officer under section 123 (Authorised officers), and includes the registrar and a deputy registrar.
+authorised officer means an authorised officer under section 123, and includes the registrar and a deputy registrar.
 authorised person, for part 4 (Infringement notices for certain offences)—see section 84.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
+connected with an offence, for division 9.2 (Powers of authorised officers)—see section 126.
 dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Offences of attacking or harassing).
 dangerous dog licence means a licence under section 25 (1) (Dangerous dog licences—approval or refusal).
 date of service, for part 4 (Infringement notices for certain offences)—see section 84.
 deputy registrar means a deputy registrar under section 122 (Deputy registrars).
-de-sex, for part 3 (Dogs and Cats)—see section 73 (Meaning of desex and permit for pt 3).
+de-sex, for part 3 (Dogs and Cats)—see section 73 (Meaning of de-sex and permit for pt 3).
 disability, for a person, means—
   (a) total or partial loss of the person’s bodily or mental functions; or
   (b) total or partial loss of a part of the body; or
@@ -48,7 +58,6 @@ excluded offence means—
     (iv) section 106 (Imposition of excess charges for assistance animal);
     (v) section 142 (Dishonoured cheques and credit transactions);
     (vi) section 143 (Obstruction etc of authorised officers).
-function includes power.
 harass—
     (a) of a person—see section 49 (1) (Harassment of persons and animals by dogs); and
     (b) of an animal—see section 49 (2).
@@ -58,12 +67,12 @@ infringement notice penalty, for part 4 (Infringement notices for certain offenc
 keeper means—
     (a) of a registered dog—the registered keeper of the dog; or
     (b) of another animal—the owner of the animal.
-licence, for division 2.4 (General provisions about multiple dog and dangerous dog licences)—see section 29 (Meaning of licence for div 4).
 minor offence means an offence against this Act punishable by a maximum penalty of 5 penalty units or less.
 multiple dog licence means a licence under section 20 (1) (Multiple dog licences—approval or refusal).
 muzzle means a device that, if worn by a dog, prevents the dog from biting a person or animal.
 nuisance notice, for part 6 (Animal nuisance)—see section 107 (Meaning of animal nuisance and nuisance notice for pt 6).
 occupier, of premises, includes a person who is, or is reasonably believed to be, in charge of the premises.
+offence, for division 9.2 (Powers of authorised officers)—see section 126.
 permit, for part 3 (Dogs and Cats)—see section 73 (Meaning of desex and permit for pt 3).
 premises includes land (whether vacant or occupied), an aircraft, a vessel and a vehicle.
 prohibited area means an area declared by the Minister under section 41 (1) (Prohibited areas).
@@ -77,5 +86,7 @@ registered keeper, of a dog, means the person stated in the register as a keeper
 registrar means the registrar under section 121 (Registrar).
 registration certificate means a registration certificate issued under section 11 (1) or (4) (Registration numbers, certificates and tags).
 registration tag means a registration tag issued under section 11 (1) or (4) (Registration numbers, certificates and tags).
+release a dog to a person includes permit the dog to be collected by the person.
 reminder notice, for part 4 (Infringement notices for certain offences)—see section 96 (Reminder notices).
 residential premises, for division 9.2 (Powers of authorised officers)—see section 126.
+special licence, for division 2.4 (General provisions about multiple dog and dangerous dog licences)—see section 29.
