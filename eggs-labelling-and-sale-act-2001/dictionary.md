@@ -1,5 +1,6 @@
 # Dictionary
 (see s 3)
+Note The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 code means the Model Code of Practice for the Welfare of Animals: Domestic Poultry, made by the Animal Welfare Committee of the Standing Committee on Agriculture and Resource Management, as in force from time to time.
 egg labelling requirements—see section 5 (What are the egg labelling requirements).
 hen means a domestic fowl (Gallus gallus).
