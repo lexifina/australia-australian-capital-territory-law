@@ -1,29 +1,28 @@
-## part i—preliminary
-## part ii—CONTROL OF INTERACTIVE GAMBLING
-### Division 1—The co-operative scheme
+## part 1—preliminary
+## part 2—CONTROL OF INTERACTIVE GAMBLING
+### Division 1—The cooperative scheme
 ### Division 2—Authorised providers and authorised games
-### Division 3—Conduct of authorised games
 ### Division 4—Restriction of gambling venues
 ### Division 5—Exemption schemes
-## PART III—INTERACTIVE GAMBLING LICENCES
+## PART 3—INTERACTIVE GAMBLING LICENCES
 ### Division 1—Applications for, and issue of, interactive gambling licences
 ### Division 2—General provisions about interactive gambling licences
 ### Division 3—Suspension and cancellation of interactive gambling licences
 ### Division 4—Security certificates
-## part iv—key persons
+## part 4—key persons
 ### Division 1—Requirement for key persons to be licensed
 ### Division 2—Issue of key person licences
 ### Division 3—Disciplinary action
 ### Division 4—Notification of key person licensees
 ### Division 5—Requirements about key relationships
-## PART V—AGENTS
+## PART 5—AGENTS
 ### Division 1—Agency agreements
 ### Division 2—Disciplinary action
-## PART VI—LICENCE FEES AND TAX
+## PART 6—LICENCE FEES AND TAX
 ### Division 1—Preliminary
 ### Division 2—Licence fees
 ### Division 3—Interactive gambling tax
-## part vii—compliance requirements
+## part 7—compliance requirements
 ### Division 1—Rules and directions
 ### Division 2—Place of operation
 ### Division 3—Control systems
@@ -40,5 +39,5 @@
 ### Division 14—Advertising
 ### Division 15—Complaints and improper behaviour
 ### Division 16—Gambling offences
-## part viii—administrative review
-## part ix—miscellaneous
+## part 8—administrative review
+## part 9—miscellaneous
