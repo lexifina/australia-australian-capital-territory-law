@@ -16,14 +16,14 @@
 ### Division 1—General
 ### Division 2—Evidence
 ### Division 3—Remand
-### Division 4—Committal and Recognisance
+### Division 4—Committal and Recognizance
 ### Division 5—Adjournment of Proceedings
 ## Part VI—Proceedings in Case of Indictable Offences
 ### Division 1A—Preliminary
 ### Division 1—Institution of Proceedings
 ### Division 2—Proceedings subsequent to Hearing of Evidence
 ### Division 2A—Costs
-### Division 3—Recognisances of Witnesses
+### Division 3—Recognizances of Witnesses
 ### Division 4—Miscellaneous
 ## Part VII—Proceedings in case of Offences Punishable Summarily
 ## Part VIIA—Service and pleading by post with respect to certain offences
