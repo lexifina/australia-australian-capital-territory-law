@@ -3,14 +3,21 @@
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · appointment
+· entity
 · Executive
+· exercise
+· fail
 · function
+· law, of the Territory
 · Speaker
+· Territory authority
 · Territory owned corporation.
+· under
 controlling interest—see section 5.
 Financial Management Act means the Financial Management Act 1996.
 independent auditor means the person for the time being engaged under section 27 to conduct audits under part 5.
 performance audit, in relation to a person, body or thing, means a review or examination of any aspect of the operations of the person, body or thing.
+protected information, for part 6 (Miscellaneous)—see section 32A.
 public accounts committee means the committee of the Legislative Assembly whose functions include the examination of financial statements for the Territory, a department or a Territory authority.
 public sector company means—
   (a) a subsidiary of a Territory authority; or
