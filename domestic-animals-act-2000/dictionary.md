@@ -1,0 +1,81 @@
+# Dictionary
+(see s 3)
+administering authority, for part 4 (Infringement notices for certain offences)—see section 84.
+animal boarding facility means a kennel, cattery, stable or other premises where animals are kept temporarily by a person other than a keeper of the animal.
+animal nuisance, for part 6 (Animal nuisance)—see section 107 (Meaning of animal nuisance and nuisance notice for pt 6).
+animal welfare offence means an offence against a provision of the following sections of the Animal Welfare Act 1992:
+  (a) section 7 (Cruelty);
+  (b) section 8 (Pain);
+  (c) section 9 (Confined animals);
+  (d) section 10 (Alleviation of pain);
+  (e) section 11 (Release);
+  (f) section 12 (Poisons);
+  (g) section 13 (Electrical devices);
+  (h) section 14 (Spurs);
+  (i) section 15 (Conveyance and containment);
+  (j) section 16 (Working, riding and driving unfit animals);
+  (k) section 17 (Matches, competitions and baiting);
+  (l) section 19 (Medical and surgical procedures).
+assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
+authorised officer an authorised officer under section 123 (Authorised officers), and includes the registrar and a deputy registrar.
+authorised person, for part 4 (Infringement notices for certain offences)—see section 84.
+carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
+dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Offences of attacking or harassing).
+dangerous dog licence means a licence under section 25 (1) (Dangerous dog licences—approval or refusal).
+date of service, for part 4 (Infringement notices for certain offences)—see section 84.
+deputy registrar means a deputy registrar under section 122 (Deputy registrars).
+de-sex, for part 3 (Dogs and Cats)—see section 73 (Meaning of desex and permit for pt 3).
+disability, for a person, means—
+  (a) total or partial loss of the person’s bodily or mental functions; or
+  (b) total or partial loss of a part of the body; or
+  (c) the presence in the body of disease or organisms causing illness; or
+  (d) the presence in the body of organisms that can cause disease or illness; or
+  (e) the malfunction, malformation or disfigurement of a part of the person’s body; or
+  (f) a disorder or malfunction that results in the person learning differently from a person without the disorder or malfunction; or
+  (g) a disorder, illness or disease that affects a person’s thought processes, perception of reality, emotions or judgment or that results in disturbed behaviour;
+and includes a disability that—
+  (h) currently exists; or
+  (i) previously existed but no longer exists; or
+  (j) may exist in the future; or
+  (k) is imputed to a person.
+enter, for division 9.2 (Powers of authorised officers)—see section 126.
+excluded offence means—
+  (a) a minor offence; or
+  (b) an offence against any of the following sections:
+    (i) section 37 (Return of special licences);
+    (ii) section 82 (Offence—cats in declared areas);
+    (iii) section 105 (Exclusion of assistance animal from public place);
+    (iv) section 106 (Imposition of excess charges for assistance animal);
+    (v) section 142 (Dishonoured cheques and credit transactions);
+    (vi) section 143 (Obstruction etc of authorised officers).
+function includes power.
+harass—
+    (a) of a person—see section 49 (1) (Harassment of persons and animals by dogs); and
+    (b) of an animal—see section 49 (2).
+infringement notice—see section 84.
+infringement notice offence, for part 4 (Infringement notices for certain offences)—see section 84.
+infringement notice penalty, for part 4 (Infringement notices for certain offences)—see section 84.
+keeper means—
+    (a) of a registered dog—the registered keeper of the dog; or
+    (b) of another animal—the owner of the animal.
+licence, for division 2.4 (General provisions about multiple dog and dangerous dog licences)—see section 29 (Meaning of licence for div 4).
+minor offence means an offence against this Act punishable by a maximum penalty of 5 penalty units or less.
+multiple dog licence means a licence under section 20 (1) (Multiple dog licences—approval or refusal).
+muzzle means a device that, if worn by a dog, prevents the dog from biting a person or animal.
+nuisance notice, for part 6 (Animal nuisance)—see section 107 (Meaning of animal nuisance and nuisance notice for pt 6).
+occupier, of premises, includes a person who is, or is reasonably believed to be, in charge of the premises.
+permit, for part 3 (Dogs and Cats)—see section 73 (Meaning of desex and permit for pt 3).
+premises includes land (whether vacant or occupied), an aircraft, a vessel and a vehicle.
+prohibited area means an area declared by the Minister under section 41 (1) (Prohibited areas).
+public place—
+  (a) see the Roads and Public Places Act 1937, section 2; and
+  (b) includes a public vehicle.
+public vehicle—see the Road Transport (General) Act 1999, section 158.
+reasonably believes means has reasonable grounds for believing.
+register means the register kept by the registrar under section 5 (Register).
+registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
+registrar means the registrar under section 121 (Registrar).
+registration certificate means a registration certificate issued under section 11 (1) or (4) (Registration numbers, certificates and tags).
+registration tag means a registration tag issued under section 11 (1) or (4) (Registration numbers, certificates and tags).
+reminder notice, for part 4 (Infringement notices for certain offences)—see section 96 (Reminder notices).
+residential premises, for division 9.2 (Powers of authorised officers)—see section 126.
