@@ -6,4 +6,5 @@
 ## PART V—iNSPECTION
 ## PART VI—PROCEDURE FOR PAYMENT OF COMPENSATION
 ## part Via—weekly compensation payments
+## part viB—on-the-spot fines
 ## PART VII—MISCELLANEOUS
