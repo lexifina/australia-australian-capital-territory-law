@@ -7,6 +7,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · function
 · the Territory.
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
+accredited hire car service operator means accredited under the regulations to operate a hire car service.
 accredited taxi network provider means accredited under the regulations to operate a taxi network.
 accredited taxi service operator means accredited under the regulations to operate a taxi service.
 affiliated, in relation to an accredited taxi service operator, means affiliated with an accredited taxi network provider.
@@ -15,18 +16,21 @@ authority—see road transport authority.
 bus means a motor vehicle built mainly to carry people that seats over 9 adults (including the driver).
 bus service—see section 11 (Meaning of bus service).
 fare means the amount payable by passengers for transport, or for the transport of passengers’ luggage or other goods, on public passenger vehicles.
-holder means—
-  (a) of a service contract—the person who (apart from the road transport authority) is a party to the contract; or
-  (b) of a taxi licence—the person to whom the licence was issued.
+hire car—see section 67.
+hire car licence—see section 61.
+hire car service—see section 69.
+holder, of a service contract, for part 2 (Bus services), means the person who (apart from the road transport authority) is a party to the contract.
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
-licence, in relation to a taxi, means a licence issued under the regulations to use a vehicle as a taxi.
 long-distance service—see section 14 (What is a long-distance service?).
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
 public bus means a bus used to provide a bus service.
 public passenger service—see section 10 (What is a public passenger service?).
-public passenger vehicle means a bus or taxi.
+public passenger vehicle means a public bus, taxi or hire car.
 public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 regular route service—see section 12 (What is a regular route service?).
+restricted hire car—see section 68.
+restricted hire car licence—see section 62.
+restricted hire car service—see section 70.
 restricted taxi—see section 46 (Meaning of restricted taxi).
 restricted taxi licence—see section 38 (Meaning of restricted taxi licence).
 restricted taxi service—see section 48 (Meaning of restricted taxi service).

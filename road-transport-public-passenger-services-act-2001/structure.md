@@ -18,4 +18,13 @@
 ### Division 5.2 Accreditation of taxi service operators
 ### Division 5.3 Entitlement to operate taxi services
 ### Division 5.4 Regulation of taxi services
-## Part 6 Miscellaneous
+## Part 6 Licensing of hire cars
+### Division 6.1 Basic concepts
+### Division 6.2 Hire car licences
+## Part 7 Hire car services
+### Division 7.1 Basic concepts
+### Division 7.2 Accreditation of hire car service operators
+### Division 7.3 Entitlement to operate hire car services
+### Division 7.4 Regulation of hire car services
+## Part 8 Miscellaneous
+## Part 9 Transitional provisions
