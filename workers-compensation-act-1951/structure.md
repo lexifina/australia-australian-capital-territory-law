@@ -5,5 +5,5 @@
 ## PART IV—COMPENSATION AND COMMON LAW REMEDIES
 ## PART V—iNSPECTION
 ## PART VI—PROCEDURE FOR PAYMENT OF COMPENSATION
-## part Via—weekly compensation payments2
+## part Via—weekly compensation payments
 ## PART VII—MISCELLANEOUS
