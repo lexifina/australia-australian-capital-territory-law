@@ -1,6 +1,6 @@
-## part i—preliminary
-## part II—The Auditor-General
-## part III—Functions and powers
-## part IV—administration
-## part v—audit of Auditor-General’s operations
-## Part Vi—Miscellaneous
+## Part 1 Preliminary
+## Part 2 The auditor-general
+## Part 3 Functions and powers
+## Part 4 Administration
+## Part 5 Audit of auditor-general’s operations
+## Part 6 Miscellaneous

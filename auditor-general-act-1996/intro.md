@@ -1,3 +1,2 @@
-Australian Capital Territory
-auditor-general act 1996
-An Act to provide for an Auditor-General and for related purposes
+# Auditor-General Act 1996
+An Act provide for an auditor-general, and for related purposes
