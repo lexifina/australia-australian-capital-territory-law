@@ -19,6 +19,3 @@
 ### Division 5.3 Entitlement to operate taxi services
 ### Division 5.4 Regulation of taxi services
 ## Part 6 Miscellaneous
-## Part 7 Transitional provisions
-### Division 7.1 General
-### Division 7.6 Small buses
