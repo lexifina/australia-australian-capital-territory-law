@@ -1,5 +1,12 @@
 # Dictionary
 (see s 3)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· contravene
+· corporation
+· fail
+· found guilty
+· individual.
 application, for a licence, includes an application for renewal of a licence.
 authorised officer—see the Gambling and Racing Control Act 1999, section 20.
 bet means any stake, pledge or wager in money between 2 people on any event or contingency relating to—
