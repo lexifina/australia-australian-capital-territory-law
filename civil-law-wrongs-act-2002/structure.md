@@ -23,6 +23,9 @@
 ## Part 5.4 Other provisions—defamation
 # Chapter 6 Trespass
 # Chapter 7 Mitigation of strict liability
+## Part 7.1 Traveller accommodation providers liability
+### Division 7.1.1 Preliminary
+### Division 7.1.2 Liability of accommodation providers
 ## Part 7.2 Common carriers
 ### Division 7.2.1 Preliminary—common carriers
 ### Division 7.2.2 When common law liability of carriers not affected
