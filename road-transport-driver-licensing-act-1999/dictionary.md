@@ -1,5 +1,11 @@
 # Dictionary
 (see s 4)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· ACT
+· exercise
+· function
+· instrument.
 additional provisional class, in relation to an Australian driver licence (including a provisional licence) of a particular class, means any other class of licence that is shown on the licence as a provisional class.
 administering authority, for a demerit points offence, means the entity that, under the regulations made under the Road Transport (General) Act 1999, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
@@ -24,13 +30,11 @@ driver licence receipt means a receipt that—
   (a) is issued following an application for an Australian driver licence and after payment of any applicable fee; and
   (b) authorises the holder to drive a motor vehicle on a road or road related area.
 driver licence register means the register required to be kept under section 6 (b) (Functions of road transport authority).
-exercise a function includes perform a duty.
 external driver licence means—
   (a) an external Territory driver licence; or
   (b) a foreign driver licence.
 external Territory driver licence means a licence to drive a motor vehicle (however described) issued under the law of an external Territory.
 foreign driver licence means a licence to drive a motor vehicle (however described) issued under the law of a foreign country.
-function includes power.
 incur, demerit points for an offence—see section 13B (2) (When demerit points are incurred).
 infringement notice—
   (a) means a notice served under the Road Transport (General) Act 1999, section 24 (Service of infringement notices generally) or 36 (Service of infringement notices on responsible persons for vehicles); and
@@ -46,7 +50,7 @@ National Road Transport Commission means the National Road Transport Commission 
 national schedule of demerit points means the offences, and the number of demerit points incurred for each offence, prescribed under the regulations under the Road Transport (General) Act 1999 as the national schedule of demerit points.
 photograph—
   (a) includes a digitised, electronic or computer generated image in a form approved by the road transport authority; and
-  (b) for part 3A (Protection of photographs and signatures)—see section 33B.
+  (b) for part 4 (Protection of photographs and signatures)—see section 35.
 probationary licence means—
   (a) a driver licence, other than a learner licence, issued under this Act to a person who applies for a driver licence after a period of disqualification (whether or not by court order) from holding or obtaining an Australian driver licence; or
   (b) an equivalent Australian driver licence issued under a corresponding law.
@@ -55,19 +59,19 @@ provisional licence means an Australian driver licence issued as a provisional l
 public vehicle—see the Road Transport (General) Act 1999, section 158.
 public vehicle licence means a driver licence that authorises the person to drive a public vehicle for hire or reward.
 restricted licence means an Australian driver licence, issued under the authority of a court in Australia, that authorises the holder to drive only in the course of his or her employment or in other restricted circumstances.
-road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as an order under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
+road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
 road related area means—
   (a) an area that divides a road; or
   (b) a footpath or nature strip adjacent to a road; or
   (c) an area that is open to the public and is designated for use by cyclists or animals; or
   (d) an area that is not a road and that is open to or used by the public for driving, riding, or parking vehicles; or
   (e) a shoulder of a road; or
-  (f) any other area that is open to or used by the public so far as an order under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
-but does not include an area that would otherwise be a road related area so far as an order under that section declares that this Act does not apply to the area.
+  (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
+but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
-signature, for part 3A (Protection of photographs and signatures)—see section 33B.
+signature, for part 4 (Protection of photographs and signatures)—see section 35.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
