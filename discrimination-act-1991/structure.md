@@ -8,7 +8,7 @@
 ### Division 4.2 Exceptions about sex, relationship status, pregnancy or breastfeeding
 ### Division 4.3 Exceptions relating to race
 ### Division 4.4 Exceptions relating to religious or political convictions
-### Division 4.5 Exceptions relating to impairment
+### Division 4.5 Exceptions relating to disability
 ### Division 4.6 Exceptions relating to age
 ### Division 4.7 Exceptions relating to profession, trade, occupation or calling
 ## Part 5 Sexual harassment
