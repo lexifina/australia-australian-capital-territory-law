@@ -1,84 +1,70 @@
-# U Schedule 1 Scale and conditions of compensation
-(see s 7)
-1AA In this schedule:
-child, in relation to a worker, means an unmarried child of the worker who is—
-  (a) under the age of 16 years; or
-  (b) a full-time student.
-full-time student means a person who—
-  (a) has attained the age of 16 years but not the age of 25 years; and
-  (b) is receiving full-time education at a secondary or tertiary educational institution.
-prescribed person, in relation to a worker, means a person who has attained the age of 16 years and is—
-  (a) a member of the worker’s family; or
-  (b) caring for a child of the worker, being a child who is wholly or mainly dependent on the worker’s earnings.
-1 The amount of compensation shall be—
-  (a) where the death of the worker results from the injury—
-    (i) if the worker leaves any dependants wholly dependent on his or her earnings—$20 000 and, in respect of each dependent child of the worker, payment at the rate of $7 per week from the date of death until the person ceases to be a child; and
-    (ii) if the worker does not leave any dependants wholly dependent upon his or her earnings, but leaves dependants in part dependent upon his or her earnings—such sum, not exceeding in any case the amount payable under subparagraph (i) as is reasonable and proportionate to the loss to the dependants resulting from the cessation of the earnings of the worker; and
-    (iii) such sum, not exceeding $450, on account of the expenses of the worker’s funeral as is reasonable; and
-  (b) where the worker is totally incapacitated for work by the injury, in respect of the period of the worker’s incapacity—
-    (i) $57 for each week, and a proportionate amount for each additional day; and
-    (ii) if the worker had a spouse at the date of the injury—$15 for each week, and a proportionate amount for each additional day, during which the spouse is wholly or mainly dependent on the worker’s earnings; and
-    (iii) if the worker has no spouse, and there is a prescribed person in relation to the worker—$15 for each week, and a proportionate amount for each additional day, during which the prescribed person is wholly or mainly dependent on the worker’s earnings, in respect of 1 prescribed person only; and
-    (iv) if the worker has a child, whether born before or after the date of the injury, but not including a child of a marriage or exnuptial relationship formed after that date—$7 for each week, and a proportionate amount for each additional day, during which the child is wholly or mainly dependent on the worker’s earnings; and
-    (v) if the prescribed amount applicable to a worker in respect of a week, being 1 of the first 26 weeks of the incapacity, exceeds an amount calculated by adding to $57 the amount or amounts (if any) payable to the worker under subparagraphs (ii), (iii) and (iv)—the amount of the excess for each week, and a proportionate amount for each day; and
-  (c) where the worker is partially incapacitated for work by the injury—a weekly payment during his or her incapacity—
-    (i) of the amount (if any) by which the weekly amount that he or she is earning, or is able to earn in some suitable employment or business, after the injury is less than his or her weekly pay at the date of the injury, or of the amount of $57, whichever is the less; or
-    (ii) of the amount (if any) by which the weekly amount that he or she is earning, or is able to earn in some suitable employment or business, after the injury is less than the weekly amount that would have been payable to him or her under paragraph (b), if he or she had been totally incapacitated;
-  whichever is the greater.
-1A For clause 1 (b), the prescribed amount applicable to a worker in respect of a week is—
-  (a) in the case of a worker who is, during that week, employed under conditions of employment providing for sick leave payments—an amount equal to the sick leave payment that the worker would receive in respect of that week if, during that week, he or she were entitled to, and were granted, sick leave on full pay by reason of an illness that is not attributable to an injury in relation to which this Act applies; or
-  (b) in any other case—an amount equal to the amount of the earnings that would, but for the injury, be payable to the worker in respect of that week.
-1B For clause 1A—
-  (a) a worker who would be, or would have been, employed but for his or her incapacity shall be taken to be employed or to have been employed, as the case may be; and
-  (b) a reference to a sick leave payment is a reference to a payment by way of salary, wages or pay in respect of a period during which the worker concerned is absent from employment by reason of illness; and
-  (c) a reference to earnings, in relation to a worker—
-    (i) includes a reference to the earnings that would be, or would have been, payable to the worker but for his or her incapacity; and
-    (ii) does not include a reference to—
-      (A) a payment in respect of overtime; or
-      (B) an allowance that is intermittent or is payable in respect of special expenses incurred or likely to be incurred by the worker in respect of his or her employment; or
-      (C) income received in respect of engaging in a professional sporting activity.
-2 Notwithstanding anything contained in clause 1—
-  (a) where death results from the injury—
-    (i) any amount paid or payable before the death of the worker by way of weekly payments in respect of his or her total or partial incapacity for work shall not be deducted from the sum payable under clause 1 (a) (i), or shall be disregarded in determining the sum payable under clause 1 (a) (ii), as the case may be; but
-    (ii) the amount by which any lump sum, paid to a worker in pursuance of clause 13 or section 10 before the death of the worker, exceeds the total of all weekly payments which would have been payable under clause 1 (b) or (c), if they had continued until the date of the worker’s death, shall be deducted from the sum payable under clause 1 (a) (i), or shall be taken into account in determining the sum payable under clause 1 (a) (ii), as the case may be, provided that the sum so payable is not reduced to less than $2 000; and
-  (b) where the worker is totally or partially incapacitated for work by the injury—
-    (i) no payment shall be made under clause 1 (b) or (c) which is in excess of the amount of the weekly pay of the worker at the date of the injury; and
-    (ii) subject to clause 2A regard shall be had to any payment, allowance or benefit which the worker receives from his or her employer during the period of the worker’s incapacity and the amount of the weekly payment otherwise payable under clause 1 (b) or (c) shall be reduced to such amount (if any) as is just and proper; and
-    (iii) if the worker is a minor who is not entitled under the terms of any award order or determination of an industrial authority, any industrial agreement or any law to receive the same rate of pay as an adult, ‘$42.75’ shall be deemed to be substituted for ‘$57.00’ in the application of the provisions of clause 1 (b) or (c) in relation to the worker while he or she remains such a minor; and
-  (c) where the worker is totally incapacitated for work by the injury–eligibility for weekly payment under clause 1 (b) in respect of a child born after the date of the injury shall not accrue until the date of birth of the child.
-2A For clause 2 (b) (ii), no regard shall be had to any payment, allowance or benefit that is payable to the worker by his or her employer under the terms of an award, order or determination of an industrial authority, under the terms of an industrial agreement or under the terms of the contract of service or apprenticeship between the worker and his or her employer whereby provision is made, in the event of the worker being totally or partially incapacitated for work in circumstances to which this Act applies, for the payment by the employer to the worker of a weekly amount equal to the amount by which the weekly amount payable as compensation is less than a weekly amount ascertained or calculated in accordance with those terms.
-3 The amount of family allowance paid under the Social Security Act 1947 (Cwlth), part 10 in respect of a child shall be disregarded in ascertaining, for this schedule, whether or not that child is or was dependent upon the earnings of the worker.
-4 In this schedule:
-  (a) pay means the salary or wages of the worker, and includes—
-    (i) where at the date of the injury the worker was engaged in part-time work—his or her earnings from any other employment; and
-    (ii) unless otherwise prescribed—any allowance payable to the worker in respect of his or her employment;
-  but subject to the regulations, does not include any allowance which is intermittent or which is payable in respect of special expenses incurred or likely to be incurred by the worker in respect of his or her employment; and
-  (b) any reference to the weekly pay of the worker at the date of the injury means, if the rate of pay of workers of the same class is subsequently varied by competent authority or following upon a variation in the cost of living, the rate of pay as so varied.
-5 Where a worker has given notice of an injury, or has made a claim for compensation for an injury, the worker shall, if so required by the employer, submit himself or herself for examination by a medical practitioner provided and paid by the employer, and, if the worker refuses to submit himself or herself to the examination, or in any way obstructs the examination, the worker’s right to compensation, and to take or prosecute any proceedings under this Act in relation to compensation, shall be suspended until the examination has taken place.
-6 A payment in the case of death (including a payment under clause 9A) shall, unless otherwise ordered in pursuance of the provisions of this schedule, be paid into the court and any sum so paid into court shall, subject to rules of court, and the provisions of this schedule, be invested, applied or otherwise dealt with by the court in such manner as the court in its discretion thinks fit for the benefit of the persons entitled thereto under this Act, or (except in the case of a payment under clause 9A) dealt with in accordance with the Public Trustee Act 1985, section 25 and the receipt of the registrar of the court shall be a sufficient discharge in respect of the amount paid in:
-Provided that, if so agreed, the payment in case of death shall, if the worker leaves no dependants, be made to his or her legal personal representative, or if the worker has no such representative, to the person to whom the expenses of medical treatment and the funeral are due.
-6A The court may, in the case of weekly payments referred to in clause 1 (a) (i) payable in respect of a particular child, order that, instead of those payments being paid into court, those payments be made, until the court otherwise orders, to such person as the court specifies in the order to be applied for the benefit of the child.
-7 (1) Where weekly payments (other than payments referred to in clause 1 (a) (i)) are payable to a person under a legal disability, the court may order that, until it otherwise orders—
-  (a) the payments be paid into court; or
-  (b) the payments be made to such person as the court specifies in the order to be applied for the benefit of the person under legal disability.
-(2) Where a lump sum payment (other than a payment under clause 9A) is payable to a person under a legal disability, the payment shall, unless the court otherwise orders, be paid into court.
-(3) Where under this clause the payment of a weekly payment or a lump sum payment is to be paid into court, the provisions of clause 6 with respect to payments into court in pursuance of that clause and, in the case of a lump sum payment, the Public Trustee Act 1985, section 25 shall apply to sums paid into court under this clause.
-7A An application for an order under clause 6A or 7 may be made on the application of the person liable to make the weekly payments or by or on behalf of the person to whom or in respect of whom payments are payable.
-8 Where there are both total and partial dependants and an application is made to the court in accordance with the rules of court, the court may allot the compensation partly to the total and partly to the partial dependants.
-9 Where, on application being made in accordance with rules of court, it appears to the court that, on account of neglect of children on the part of a widow, or on account of the variation of the circumstances of the various dependants, or for any other sufficient cause, an order of the court or an award as to the apportionment amongst the several dependants of any sum paid as compensation, or as to the manner in which any sum payable to any such dependant is to be invested, applied, or otherwise dealt with ought to be varied, the court may make such order for the variation of the former order or the award, as in the circumstances of the case, the court may think just.
-9A Where—
-  (a) a weekly payment under clause 1 (a) (i) in respect of a child of a worker ceases to be payable; and
-  (b) the aggregate amount of such weekly payments is less than $700;
-there is payable an additional amount of compensation equal to the difference between the aggregate amount and $700.
-10 Any worker receiving weekly payments under this Act shall, if so required by the employer, from time to time submit himself or herself for examination by a medical practitioner provided and paid by the employer and if the worker refuses to submit himself or herself to the examination or in any way obstructs the examination, the worker’s right to such weekly payments shall be suspended until the examination has taken place.
-11 (1) A worker shall not be required to submit himself or herself for examination by a medical practitioner under clause 5 or 10 otherwise than in accordance with the regulations.
-(2) Where a worker has so submitted himself or herself for examination by a medical practitioner, or has been examined by a medical practitioner selected by himself or herself, and the employer or the worker, as the case may be, has within 6 days after such examination furnished the other with a copy of the report of that practitioner as to the worker’s condition, then, in the absence of agreement between the employer and the worker as to the worker’s condition or fitness for employment, the registrar of the court may, on an application being made by either of the parties and on payment of such fee not exceeding $2.00, as may be prescribed, refer the matter to a medical referee.
-(3) The medical referee to whom the matter is so referred shall, in accordance with the regulations, give a certificate as to the condition of the worker and his or her fitness for employment, specifying, where necessary, the kind of employment for which the worker is fit and that certificate shall be conclusive evidence as to the matters so certified until such time as the worker’s claim is the subject of arbitration in accordance with schedule 4.
-(4) Where no agreement can be come to between the employer and the worker as to whether or to what extent the incapacity of the worker is due to the injury, this subclause shall, subject to the regulations, apply as if the question were a question as to the condition of the worker.
-(5) If a worker, on being required so to do, refuses to submit himself or herself for examination by a medical referee to whom the matter has been so referred, or in any way obstructs the medical referee, his or her right to compensation and to take or prosecute any proceeding under this Act in relation to compensation, or, in the case of a worker in receipt of a weekly payment, his or her right to that weekly payment shall be suspended until the examination has taken place.
-(6) Rules of court may be made for prescribing the manner in which documents are to be furnished or served and applications made under this clause, the forms to be used for these purposes and the fees to be paid under this clause.
-12 A weekly payment (other than a weekly payment referred to in clause (1) (a) (i)) payable under this Act may be varied or ended by agreement or by arbitration under this Act or ended in accordance with section 26C or 26E.
-13 Where, in any case other than one of total and permanent incapacity, any weekly payment (other than a weekly payment referred to in clause (1) (a) (i)) has been continued for not less than 6 months, the liability therefor may be redeemed by the payment of a lump sum of such amount as may be settled by agreement (subject to schedule 4, clause 10) or, upon application by or on behalf of the employer with the consent of the worker, by arbitration under this Act, and the lump sum may be ordered by the court to be invested or otherwise applied for the benefit of the person entitled thereto.
-14 If a worker receiving a weekly payment ceases to reside in Australia, the worker shall thereupon cease to be entitled to receive any weekly payment, unless a medical referee certifies that the incapacity resulting from the injury is likely to be of a permanent nature or that the worker’s absence from Australia is desirable for recuperative purposes. If a medical referee so certifies the worker shall be entitled to receive quarterly the amount of the weekly payments accruing due during the preceding quarter, so long as the worker proves in such a manner and at such intervals as may be prescribed, his or her identity and the continuance of the incapacity in respect of which the weekly payment is payable.
-15 A weekly payment, or a sum paid by way of redemption thereof, shall not be capable of being assigned, charged, or attached, and shall not pass to any other person by operation of law, nor shall any claim be set off against the amount of the payment or sum.
-16 Where under this schedule a right to compensation is suspended no compensation shall be payable in respect of the period of suspension.
+# Schedule 1 Compensation for permanent injuries
+(see s 48 and s 51)
+column 1 | column 2 | column 3
+item | nature of injury | % of maximum amount payable
+ | Speech loss | 
+1 | loss of power of speech | 60
+ | Sensory loss | 
+2 | loss of sense of taste or smell | 17
+3 | loss of senses of taste and smell | 34
+ | Hearing loss | 
+4 | loss of hearing of both ears | 65
+5 | loss of hearing of 1 ear | 20
+ | Loss of vision | 
+6 | loss of sight of both eyes | 100
+7 | loss of sight of an only eye | 100
+8 | loss of sight of 1 eye, together with serious diminution of the sight of the other eye | 75
+9 | loss of sight of 1 eye | 40
+10 | loss of binocular vision (if not otherwise compensable under this schedule) | 40
+11 | loss of eyeball (in addition to compensation for loss of sight of the eye) | 22
+ | Arm injuries | 
+12 | loss of right arm at or above elbow | 80
+13 | loss of right arm below elbow | 75
+14 | loss of left arm at or above elbow | 75
+15 | loss of left arm below elbow | 70
+ | Hand injuries | 
+16 | loss of right hand | 70
+17 | loss of left hand | 65
+18 | loss of thumb of right hand | 30
+19 | loss of thumb of left hand | 26
+20 | loss of a joint of thumb | 16
+21 | loss of forefinger of right hand | 21
+22 | loss of forefinger of left hand | 18
+23 | loss of 2 joints of forefinger of right hand | 16
+24 | loss of 2 joints of forefinger of left hand | 12
+25 | loss of first joint of forefinger of right hand | 10
+26 | loss of first joint of forefinger of left hand | 9
+27 | loss of middle finger of either hand | 12
+28 | loss of 2 joints of middle finger of either hand | 10
+29 | loss of first joint of middle finger of either hand | 6
+30 | loss of little or ring finger of either hand | 11
+31 | loss of 2 joints of little or ring finger of either hand | 9
+32 | loss of first joint of little or ring finger of either hand | 6
+ | Leg injuries | 
+33 | loss of either leg at or above knee | 75
+34 | loss of either leg below knee | 70
+ | Foot injuries | 
+35 | loss of a foot | 65
+36 | loss of great toe of either foot | 22
+37 | loss of a joint of great toe of either foot | 10
+38 | loss of any other toe | 6
+39 | loss of any joint of any other toe | 2
+ | Bowel injury | 
+40 | permanent loss of bowel function | 65
+ | Loss of sexual organs etc | 
+41 | loss of sexual organs | 47
+42 | loss of both breasts | 47
+43 | loss of 1 breast | 30
+44 | permanent and total loss of capacity to engage in sexual intercourse | 75
+ | Brain damage | 
+45 | permanent brain damage if not, or not completely an injury otherwise compensable under this schedule | 100
+ | Permanent impairment of back, neck, pelvis | 
+46 | permanent impairment of back | 60
+47 | permanent impairment of neck | 40
+48 | permanent impairment of pelvis | 15
+ | Disfigurement | 
+49 | severe facial disfigurement if not, or not completely, an injury otherwise compensable under this schedule | 80
+50 | severe bodily disfigurement if not, or not completely, an injury otherwise compensable under this schedule | 50
+ | Disease | 
+51 | HIV infection (Human Immunodeficiency Virus infection) | 100
+52 | AIDS (Acquired Immune Deficiency Syndrome) | 100
