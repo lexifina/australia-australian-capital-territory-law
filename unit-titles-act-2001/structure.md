@@ -37,4 +37,3 @@
 ## Part 13 Expiry and termination of unit leases
 ## Part 14 Administrative review
 ## Part 15 Miscellaneous
-## Part 16 Repeals and transitional
