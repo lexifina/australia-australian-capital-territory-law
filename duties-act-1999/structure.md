@@ -53,4 +53,3 @@
 ## Part 12.1 Stamping instruments
 ## Part 12.2 Enforcement
 ## Part 12.3 Miscellaneous
-# Chapter 13 Transitional
