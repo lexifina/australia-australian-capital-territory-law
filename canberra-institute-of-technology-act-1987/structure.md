@@ -1,5 +1,5 @@
 ## Part I—Preliminary
-## part ii— Canberra institute of technology
+## part ii—Canberra institute of technology
 ### Division 1—Establishment and functions
 ### Division 3—Powers and limitations
 ## PART III—DIRECTOR OF INSTITUTE
