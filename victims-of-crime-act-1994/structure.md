@@ -1,7 +1,7 @@
-## part 1—preliminary
-## Part 2—treatment of victims of crime
-## part 3—victims of crime coordinator
-### Division 1—Functions and powers
-### Division 2—Office of coordinator
-## part 4—victims Services scheme
-## Part 5—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Treatment of victims of crime
+## Part 3 Victims of crime coordinator
+### Division 3.1 Functions and powers
+### Division 3.2 Office of coordinator
+## Part 4 Victims services scheme
+## Part 5 Miscellaneous
