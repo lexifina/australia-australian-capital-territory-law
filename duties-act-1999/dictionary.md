@@ -10,18 +10,18 @@ application to register a motor vehicle means—
 approved means approved by the commissioner.
 associated person means a person who is associated with another person in accordance with any of the following provisions:
   (a) persons are associated persons if they are related persons;
-  (b) natural persons are associated persons if they are partners in a partnership to which the Partnership Act 1963 applies;
+  (b) individuals are associated persons if they are partners in a partnership to which the Partnership Act 1963 applies;
   (c) private companies are associated persons if common shareholders have a majority interest in each private company;
   (d) trustees are associated persons if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
   (e) a private company and a trustee are associated persons if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee;
-and, for the purposes of part 3.2, a public company and a subsidiary of a public company are taken to be associated persons.
+and, for part 3.2, a public company and a subsidiary of a public company are taken to be associated persons.
 Australian register—see the Corporations Act, section 9.
 bankrupt includes applying to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounding with creditors or making an assignment of remuneration for their benefit.
 charge includes impose.
 charitable organisation means an association, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for the purpose of securing pecuniary benefits to its members.
 commercial hire business—section 163.
 commissioner means the commissioner for revenue.
-company title dwelling means a separate dwelling in a building containing more than 1 separate dwelling situated on land in the Territory owned or leased by a company in which shares issued by the company are owned by persons who, by virtue of the ownership of their shares, have an exclusive right to occupy a part of the building.
+company title dwelling means a separate dwelling in a building containing more than 1 separate dwelling situated on land in the ACT owned or leased by a company in which shares issued by the company are owned by persons who, because of the ownership of their shares, have an exclusive right to occupy a part of the building.
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
 complying superannuation fund means an entity that is—
   (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or 42A; or
@@ -30,14 +30,14 @@ corporation means a body corporate, whether incorporated in this jurisdiction or
 Corporations Act means the Corporations Act 2001 (Cwlth).
 Note A reference to a Cwlth Act includes a reference to the Act as originally made and as amended (see Legislation Act 2001, s 102).
 corresponding Act means an Act of another Australian jurisdiction that corresponds to this Act.
-corresponding law, in relation to a law of the Territory, means a law of a State or another Territory that is similar, or has a similar effect, to that law of the Territory.
+corresponding law, in relation to a Territory law, means a law of a State or another Territory that is similar, or has a similar effect, to that Territory law.
 cost, in relation to a lease—see section 136.
 Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission appointed under the Seat of Government (Administration) Act 1924 (Cwlth).
 determined amount, in relation to duty, means an amount—
   (a) determined by the Minister; or
   (b) calculated in a manner determined by the Minister;
-under the Taxation Administration Act, section 139 for the purposes of the provision in which the expression occurs.
-determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the purposes of the provision in which the expression occurs.
+under the Taxation Administration Act, section 139 for the provision where the expression occurs.
+determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 disabled person means a person who is 16 years of age or older and who is—
   (a) permanently blind; or
   (b) permanently incapacitated for work.
@@ -45,31 +45,31 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest to be taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or persons in whom it is vested if a discretion conferred under the trust is exercised.
-domestic partner means a person who is a party to a domestic relationship, and includes a person who was a party to such a relationship that has ceased, whether the cessation took effect in Australia or elsewhere.
+domestic partner means a person who is a party to a domestic relationship, and includes a person who was a party to a domestic relationship that has ceased, whether the cessation took effect in Australia or elsewhere.
 domestic relationship—see the Domestic Relationships Act 1994.
 duly stamped, in relation to an instrument, means duly stamped as mentioned in section 235.
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
 dutiable value, in relation to a motor vehicle—see section 203.
 dutiable value, in relation to dutiable property other than a motor vehicle—see section 20.
-eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date on which a liability to duty arises (or would otherwise arise).
+eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 error transaction means a sale or purchase of shares made to reverse a sale or purchase of shares made mistakenly not more than 7 days earlier, and the sale or purchase so reversed.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
 foreign resident means a person who at the relevant time—
-  (a) in the case of a person, other than a person referred to in paragraph (b) or (c)—is not resident or domiciled in Australia; or
-  (b) in the case of a body corporate—is not incorporated under a law of an Australian jurisdiction and—
+  (a) for a person, other than a person referred to in paragraph (b) or (c)—is not resident or domiciled in Australia; or
+  (b) for a body corporate—is not incorporated under a law of an Australian jurisdiction and—
     (i) does not have its central management and control in Australia; and
     (ii) does not have its voting power controlled by shareholders who are residents of Australia; or
-  (c) in the case of a partnership or other unincorporated association or body of persons—does not have a member who is resident in Australia; or
-  (d) in the case of a trust estate—
+  (c) for a partnership or other unincorporated association or body of persons—does not have a member who is resident in Australia; or
+  (d) for a trust estate—
     (i) does not have a trustee who is resident in Australia; and
     (ii) does not have its central management and control in Australia.
 franchise means the package of rights held by a franchisee under a franchise arrangement.
 franchise arrangement means an agreement or other arrangement between 2 or more persons by which 1 of them (the franchisor) authorises or permits another (the franchisee)—
-  (a) to engage in the business of offering, selling or distributing goods and services within or partly within the Territory, and the franchisee is required to do so—
+  (a) to engage in the business of offering, selling or distributing goods and services within or partly within the ACT, and the franchisee is required to do so—
     (i) in accordance with a specified marketing, business or technical plan or system; and
     (ii) under a common format or procedure (or format and procedure); and
-  (b) to use a mark or common trade name, in such a manner that the business carried on by the franchisee is, or is capable of being, identified by the public as being substantially associated with the mark or name identifying, commonly connected with or controlled by the franchisor or a related person.
+  (b) to use a mark or common trade name, in such a way that the business carried on by the franchisee is, or is capable of being, identified by the public as being substantially associated with the mark or name identifying, commonly connected with or controlled by the franchisor or a related person.
 franchisee—see the definition of franchise arrangement.
 franchisor—see the definition of franchise arrangement.
 general insurance—see section 175.
@@ -81,7 +81,7 @@ hire-purchase agreement means a letting of goods with an option to purchase and 
     (ii) a business or an interest in a business.
 hiring charges—see section 155.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
-impressed stamp means a stamp impressed by means of a die or other device made pursuant to section 233.
+impressed stamp means a stamp impressed by means of a die or other device made under section 233.
 instrument includes a written document and a written statement.
 insurance includes assurance.
 insurance intermediary—see the Insurance (Agents and Brokers) Act 1984 (Cwlth).
@@ -92,12 +92,12 @@ intellectual property means—
     (i) a business name, trading name, trade mark or industrial design; or
     (ii) a thing, system or process that is the subject of a patent, registered design or copyright (or an adaptation or modification of such a thing, system or process).
 interest includes an estate, an interest under a lease or a sublease, a proprietary right and a beneficial interest.
-interest, in relation to a land-rich corporation—see section 83 (1).
+interest, in relati6on to a land-rich corporation—see section 83 (1).
 international trade insurance means—
   (a) insurance of freight against loss or damage in the course of, or incidental to, international transport of the freight; or
-  (b) insurance of an aircraft or ship against loss or damage during a particular period when the aircraft or ship is under construction or undergoing refitting, maintenance or repairs where, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used wholly or principally for the international transport of freight for an indefinitely continuing period commencing immediately after the completion of the construction, refitting, maintenance or repairs, as the case may be; or
-  (c) insurance of an aircraft or ship against loss or damage in the course of, or incidental to, a particular journey or journeys where, at the time the insurance was effected, it was intended by the owner that the journey or journeys would be wholly or principally for the international transport of freight; or
-  (d) insurance of an aircraft or ship against loss or damage during a particular period where, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used during that period wholly or principally for the international transport of freight.
+  (b) insurance of an aircraft or ship against loss or damage during a particular period when the aircraft or ship is under construction or undergoing refitting, maintenance or repairs if, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used wholly or principally for the international transport of freight for an indefinitely continuing period commencing immediately after the completion of the construction, refitting, maintenance or repairs, as the case may be; or
+  (c) insurance of an aircraft or ship against loss or damage in the course of, or incidental to, a particular journey or journeys if, at the time the insurance was effected, it was intended by the owner that the journey or journeys would be wholly or principally for the international transport of freight; or
+  (d) insurance of an aircraft or ship against loss or damage during a particular period if, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used during that period wholly or principally for the international transport of freight.
 international transport, in relation to freight, means the transport, in connection with trade or commerce, of the freight between—
   (a) a place in a foreign country; and
   (b) a place in—
@@ -112,13 +112,13 @@ land used for primary production means land used primarily for—
   (d) a plant nursery; or
   (e) the propagation for sale of mushrooms, orchids or flowers; or
   (f) aquaculture.
-land use entitlement means an entitlement to occupy land within the Territory conferred through an ownership of shares in a company or an ownership of units in a unit trust scheme, or a combination of a shareholding or ownership of units together with a lease or licence.
+land use entitlement means an entitlement to occupy land within the ACT conferred through an ownership of shares in a company or an ownership of units in a unit trust scheme, or a combination of a shareholding or ownership of units together with a lease or licence.
 lease—see section 133.
 life company—see the Life Insurance Act 1995 (Cwlth).
 life insurance—see section 175.
 majority shareholder, in relation to a private company, means—
-  (a) in the case of a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
-  (b) in the case of a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
+  (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
+  (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
 managed investment scheme means a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C, and includes a public unit trust scheme.
 marketable securities means—
   (a) shares mentioned in section 10 (1) (d); or
@@ -130,7 +130,7 @@ motor vehicle means—
   (a) a motor vehicle or trailer within the meaning of the Vehicle Registration Act; or
   (b) a caravan.
 new motor vehicle means a motor vehicle that has not previously been registered under—
-  (a) the Vehicle Registration Act or another ACT law; or
+  (a) the Vehicle Registration Act or another Territory law; or
   (b) a law of the Commonwealth, a State or another Territory.
 non-commercial Commonwealth authority means a body corporate (not being an incorporated company, society or association) that—
   (a) is incorporated for a public purpose by or under a law of the Territory or the Commonwealth; and
@@ -157,13 +157,13 @@ registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
 related body corporate—see the Corporations Act, section 9.
 related person means a person who is related to another person in accordance with any of the following provisions:
-  (a) natural persons are related persons if—
+  (a) individuals are related persons if—
     (i) one is the spouse or domestic partner of the other; or
     (ii) the relationship between them is that of parent and child, brothers, sisters, or brother and sister;
   (b) private companies are related persons if they are related bodies corporate;
-  (c) a natural person and a private company are related persons if the natural person is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
-  (d) a natural person and a trustee are related persons if the natural person is a beneficiary of the trust (not being a public unit trust scheme) of which the trustee is a trustee;
-  (e) a private company and a trustee are related persons if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (not being a public unit trust scheme) of which the trustee is a trustee.
+  (c) an individual and a private company are related persons if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
+  (d) an individual and a trustee are related persons if the individual is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee;
+  (e) a private company and a trustee are related persons if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee.
 replica—see section 228.
 responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
@@ -187,14 +187,14 @@ stock exchange means—
   (c) a stock exchange declared under section 252A (Declaration of recognised stock exchange) to be a recognised stock exchange for this Act.
 subsidiary, of a private corporation—see section 81 (3) and (4).
 Taxation Administration Act means the Taxation Administration Act 1999.
-tax avoidance scheme means a scheme where the person who has, or 1 or more of the persons who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
+tax avoidance scheme means a scheme if the person who has, or 1 or more of the persons who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
   (a) that an amount of duty would not be payable by a person, being an amount that would have been, or might reasonably be expected to have been, payable by the person; or
   (b) that an amount of duty payable by a person would be less than the amount that would have been, or might reasonably be expected to have been, payable by the person; or
   (c) that a refund of duty would be payable to a person, being a refund that would not have been or might reasonably be expected not to have been, payable to the person;
 if the scheme had not been entered into or carried out, or for purposes of which that purpose was the dominant purpose.
 tenement includes an office, room or apartment in a tenement.
 Territory company means—
-  (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the Territory; or
+  (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the ACT; or
   (b) a corporation that is incorporated under a Territory Act.
 trading stock, in relation to a vehicle dealer licensed under the Sale of Motor Vehicles Act 1977 or a corresponding law, means a vehicle offered or exposed for sale by the dealer in the course of the dealer’s business, except a vehicle used—
   (a) personally by the dealer or a member of the dealer’s staff; or
@@ -215,7 +215,7 @@ unencumbered value—see section 22.
 unit, in relation to a unit trust scheme, means—
   (a) a right or interest (whether described as a unit or a sub-unit or otherwise) of a beneficiary under the scheme; or
   (b) a right to any such right or interest.
-unit trust scheme means any arrangements made for the purpose, or having the effect, of providing, for persons having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in any profits, income or distribution of assets arising from the acquisition, holding, management or disposal of any property whatever pursuant to the trust.
+unit trust scheme means any arrangements made for the purpose, or having the effect, of providing, for persons having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in any profits, income or distribution of assets arising from the acquisition, holding, management or disposal of any property whatever under the trust.
 value of the lease—see section 140 (1) (b) (General rate—short-term leases).
 variation, in relation to a lease, means a variation made for any reason or on any basis and includes a further variation.
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
