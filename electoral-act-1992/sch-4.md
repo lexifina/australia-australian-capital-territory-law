@@ -99,7 +99,7 @@ Quota
 where TVA is the sum of the total votes allotted to the continuing candidates at the count, any fraction being disregarded.
 Transfer value
 \13. (1) For the purposes of this Part, the transfer value of ballot papers counted for the former MLA—
-(a) in relation to a ballot paper dealt with at the count at which the former MLA became successful—is the value ascertained in accordance with subclause (2);
+(a) in relation to a ballot paper dealt with at the count at which the former MLA became successful—is the value ascertained in accordance with subclause (2) or (3), as the case requires;
 (b) in relation to a ballot paper dealt with at the count under clause 3—is 1; and
 (c) in relation to a ballot paper dealt with at any other count—is the transfer value of the ballot paper when counted for the purpose of allotting count votes to the former MLA.
 (2) Where, at the count at which the former MLA became successful, NCP X TV was greater than or equal to Q—N—
