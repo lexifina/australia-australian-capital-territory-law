@@ -1,4 +1,4 @@
-# U Schedule 1 Domestic violence offences
+# Schedule 1 Domestic violence offences
 (see dict)
 column 1 item | column 2 provision | column 3 description of offence
 1 | 12 | murder
@@ -37,7 +37,6 @@ column 1 item | column 2 provision | column 3 description of offence
 34 | 63 | abduction
 35 | 116 | destroying or damaging property
 36 | 117 | arson
-37 | 121 | possession of article with intent to destroy property
 38 | 150 (1) (a) | being armed with weapon etc with intent to commit offence
 39 | 151 | forcible entry on land
 40 | 380 | possession of an offensive weapons
