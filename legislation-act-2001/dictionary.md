@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used words and expressions
+U Part 1 Meaning of commonly-used words and expressions
 (see s 144)
 Note Words and expressions that are defined only for this Act are set out in pt 2.
 Act—see the following sections:
