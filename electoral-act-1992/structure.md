@@ -18,8 +18,9 @@
 ### Division 3—Miscellaneous
 ## Part X—Voting
 ### Division 1—General
-### Division 2—Ordinary voting
-### Division 3—Declaration voting
+### Division 2—Ordinary voting at a polling place
+### Division 3—Declaration voting at a polling place
+### Division 3A—Voting otherwise than at a polling place
 ### Division 4—Mobile polling
 ### Division 5—Miscellaneous
 ### Division 6—Failure to vote

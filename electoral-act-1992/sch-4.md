@@ -70,12 +70,22 @@ More than 1 surplus
 (i) 1 of the contemporary candidates had more total votes than any other contemporary candidate at the last count at which all the contemporary candidates had unequal total votes—that candidate; or
 (ii) there is no count at which all the contemporary candidates had unequal total votes—the contemporary candidate who is determined by the Commissioner by lot to be the relevant candidate;
 is the relevant candidate.
+(4) Where—
+(a) a person becomes the relevant candidate by virtue of subparagraph (3) (c) (ii);
+(b) the ballot papers are recounted in accordance with section 187; and
+(c) the same candidates would, but for this subclause, become the contemporary candidates once again by virtue of that subparagraph;
+the person shall be taken to be the relevant candidate for the purposes of subclause (2) in the recounting of those ballot papers.
 Exclusion of candidates
 \8. (1) Where clause 5 or 15 requires a candidate to be excluded, the candidate with the least total votes shall be excluded.
 (2) Where 2 or more candidates each have the same total votes, being fewer total votes than any other candidate and—
 (a) 1 of those candidates had fewer total votes than any other of those candidates at the last count at which all those candidates had unequal votes—that candidate; or
 (b) there is no count at which all those candidates had unequal total votes—the candidate who, of those candidates, is determined by the Commissioner by lot to be the candidate to be excluded;
 shall be excluded.
+(3) Where—
+(a) a person is excluded by virtue of paragraph (2) (b);
+(b) the ballot papers are recounted in accordance with section 187; and
+(c) that paragraph would, but for this subclause, be applicable once again to the same candidates;
+the person shall be taken to be excluded in the recounting of those ballot papers.
 Votes of excluded candidates
 \9. (1) Where a candidate is excluded in accordance with clause 8, the ballot papers counted for the candidate shall be sorted into groups according to their transfer values when counted for him or her.
 (2) Subject to subclause (3), each group under subclause (1) shall be dealt with as follows:
@@ -133,6 +143,11 @@ Successful candidate is dead
 Multiple vacancies
 \17. (1) If there are 2 or more vacancies in the seats of former MLAs that are required to be filled by recount under section 194, the recounts shall be conducted in the order in which the vacancies occurred.
 (2) If 2 or more of those vacancies occurred at the same time, the Commissioner shall determine by lot the order in which the recounts are to be conducted.
+(3) Where—
+(a) a person is a candidate in relation to more than 1 casual vacancy;
+(b) the person becomes a candidate in relation to those casual vacancies before the Commissioner declares elected the successful candidate in relation to any of those casual vacancies; and
+(c) the person is successful in relation to 1 of those casual vacancies;
+for the purpose of conducting the recount in relation to the casual vacancies other than the one in relation to which the person was successful, the person shall be taken not to be a continuing candidate.
 ## Part iV—deceased successful candidates
 Application of Part III
 \18. (1) Where a successful candidate dies on or after polling day but before the declaration of the result of the election, the ballot papers counted for the deceased candidate shall be dealt with in accordance with Part III of this Schedule as if they had been counted for a former MLA.
