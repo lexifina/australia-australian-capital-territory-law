@@ -19,6 +19,7 @@ Reference to Act | Subject or short title | Extent of repeal
 31 Vic. No. 25 | “Treason Felony Act of 1868” | The whole.
 46 Vic. No. 17 | “Criminal Law Amendment Act.” | All hitherto unrepealed, except s. 295, from the words “And every solemn declaration” to the end of the section; ss. 336 to 340 inclusive; the last clause of s. 342; s. 343; ss. 346, 347; so much of s. 359 as relates to the custody of records by the Prothonotary; s. 434; s. 436; ss. 440 to 444 inclusive; the last clause of s. 445; ss. 453, 454, 455; so much of s. 459 as relates to Courts of Petty Sessions; s. 471; and the Seventh Schedule.
 52 Vic. No. 6 | “Criminal Law Amendment Act of 1888.” | The whole, except s. 2.
+Reference to Act | Subject or short title | Extent of repeal
 55 Vic. No. 5 | “Criminal Law and Evidence Amendment Act of 1891.” | All hitherto unrepealed, except ss. 17, 23, 24, 26, and 34, and so much of s. 35 as relates to 40 Vic. No. 14.
 57 Vic. No. 23 | “First Offenders Probation Act of 1894.” | The whole.
 No. 11, 1898 | “Evidence Act, 1898” | Sections 7, 27, 31, 37, 38, 39, 40, 41 and 48.
