@@ -1,6 +1,6 @@
-## Part I—Preliminary
-## Part II—Mercantile Agents
-## Part III—Guarantors and Sureties
-## Part IV—Usury
-## Part V—Written Memoranda
-## Part VI—Warehousemen’s liens
+## Part 1 Preliminary
+## Part 2 Mercantile agents
+## Part 3 Guarantors and sureties
+## Part 4 Usury
+## Part 5 Written memoranda
+## Part 6 Warehouse persons’ liens
