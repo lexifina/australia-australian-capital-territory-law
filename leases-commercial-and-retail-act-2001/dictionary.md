@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -6,7 +6,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · function.
 accounting period, for a lessor, means a financial year or other period included in a disclosure notice under section 31 (Form of disclosure statements) or otherwise agreed between the parties.
 bond means an amount paid or payable by a tenant as security for the performance of his or her obligations under a lease.
-certificate of occupancy means a certificate under the Building Act 1972, section 53.
+certificate of occupancy—see the Building Act 2004, dictionary.
 certified exclusionary clause—see section 111.
 change of use lease—see section 9 (What is a change of use lease?).
 commencement day means 1 July 2002.
