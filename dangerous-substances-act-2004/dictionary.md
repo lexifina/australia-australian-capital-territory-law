@@ -39,7 +39,7 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 cause death or injury to a person, or substantial damage to property or the environment, means substantially contribute directly or indirectly to the death, injury or damage.
 close associate, of someone, for chapter 4 (Licences for dangerous substances)—see section 48.
 compliance agreement—see section 94 (2).
-condition, of a licence, includes a condition prescribed under the regulations that applies to the licence.
+condition, of a licence, includes a condition prescribed by regulation that applies to the licence.
 connected, with an offence, for chapter 7 (Enforcement powers)—see section 141.
 controlled dangerous substance—see section 73.
 correctly—
@@ -47,7 +47,7 @@ correctly—
   (b) pack, store, label or placard a dangerous substance—see section 14.
 corresponding law means—
   (a) a law of the Commonwealth, a State, another Territory or New Zealand corresponding, or substantially corresponding, to this Act; or
-  (b) a law of the Commonwealth, a State, another Territory or New Zealand that is declared under the regulations to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act; or
+  (b) a law of the Commonwealth, a State, another Territory or New Zealand that is declared by regulation to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act; or
   (c) the Dangerous Goods Act 1975.
 dangerous occurrence—see section 38.
 dangerous substance—
@@ -73,7 +73,7 @@ import a dangerous substance or anything else means import the substance or thin
 improvement notice—see section 100.
 incorporated document means—
   (a) a document mentioned in section 10 (3); or
-  (b) an instrument applied, adopted or incorporated under the regulations.
+  (b) an instrument applied, adopted or incorporated by regulation.
 infringement notice—see the Magistrates Court Act 1930, section 117.
 infringement notice offence—see the Magistrates Court Act 1930, section 117.
 inspector means an inspector under section 207.
@@ -154,7 +154,7 @@ system includes the following:
   (d) a system of work;
   (e) a management system;
   (f) a safety management system;
-  (g) a system prescribed under the regulations;
+  (g) a system prescribed by regulation;
   (h) a system that includes any combination of the systems mentioned in paragraphs (a) to (g).
 trade or commerce includes a business or professional activity.
 vehicle means any kind of vehicle on wheels (including a vehicle used on railways or tramways), and includes an aircraft or vessel used on water.
