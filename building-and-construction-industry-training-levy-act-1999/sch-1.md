@@ -1,6 +1,5 @@
-# Schedule Work for the purposes of Act
-(see s 3)
-The following constitute work for the purposes of this Act:
+# Schedule 1 Work
+(see dict, def of work)
 1 The construction, erection, alteration, repair, renovation, demolition, maintenance or removal of a building or structure.
 2 The construction, alteration or repair of a road, street parking area, footpath, thoroughfare (for pedestrians or vehicles), kerbing, guttering, roundabout, median strip, or the performance of other road works.
 3 The construction, alteration, repair, demolition or removal of a railway or part of a railway, or of any platform, signal or other structure connected with a railway.
@@ -11,7 +10,7 @@ The following constitute work for the purposes of this Act:
 8 The construction, alteration, repair, demolition or removal of a dam, reservoir, weir or other embankment or structure for the catchment, collection, storage, control or diversion of water.
 9 The laying of pipes and other prefabricated material in the ground.
 10 The construction, erection, installation, alteration, repair, demolition or removal of any system or plant associated with the conveyance, collection, storage, treatment or distribution of water or gas, or the disposal of sewage or effluent.
-11 On-site electrical, electronic, communications or data networks or mechanical services work, including on-site work that is related to the construction, erection, installation, alteration, repair, servicing or dismantling of any plant, plant facility or equipment.
+11 Electrical, electronic, communications or data networks or mechanical services work, including work that is related to the construction, erection, installation, alteration, repair, servicing or dismantling of any plant, plant facility or equipment.
 12 The on-site construction, installation, alteration, repair, renovation, demolition or removal of—
   (a) a lift or escalator; or
   (b) any airconditioning, ventilation or refrigeration system or equipment.
