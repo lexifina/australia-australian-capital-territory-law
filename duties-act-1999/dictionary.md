@@ -45,7 +45,6 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest to be taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or persons in whom it is vested if a discretion conferred under the trust is exercised.
-domestic partner means a person who is a party to a domestic relationship, and includes a person who was a party to a domestic relationship that has ceased, whether the cessation took effect in Australia or elsewhere.
 domestic relationship—see the Domestic Relationships Act 1994.
 duly stamped, in relation to an instrument, means duly stamped as mentioned in section 235.
 dutiable property—see section 10.
@@ -137,6 +136,9 @@ new motor vehicle means a motor vehicle that has not previously been registered 
 non-commercial Commonwealth authority means a body corporate (not being an incorporated company, society or association) that—
   (a) is incorporated for a public purpose by or under a law of the Territory or the Commonwealth; and
   (b) does not have as its sole or principal function the carrying on of an activity in the nature of a business, whether or not for profit.
+partner—a person’s partner is either of the following:
+  (a) the person’s spouse;
+  (b) someone with whom the person has a domestic relationship.
 partnership interest—see section 10 (1) (i).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 pooled superannuation trust means an entity that is a pooled superannuation trust in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 44.
@@ -161,7 +163,7 @@ Note A registered scheme under the Corporations Act is a managed investment sche
 related body corporate—see the Corporations Act, section 9.
 related person means a person who is related to another person in accordance with any of the following provisions:
   (a) individuals are related persons if—
-    (i) one is the spouse or domestic partner of the other; or
+    (i) they are partners, or they have been partners and the partnership has ended (whether the partnership ended in Australia or elsewhere); or
     (ii) the relationship between them is that of parent and child, brothers, sisters, or brother and sister;
   (b) private companies are related persons if they are related bodies corporate;
   (c) an individual and a private company are related persons if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
@@ -184,7 +186,6 @@ special hiring agreement means a written agreement for the hire of goods—
       (B) fail or malfunction in the normal course of operation or use; or
       (C) are temporarily replaced during the servicing, maintenance or repair of the goods; or
     (ii) provisions under which other goods, whether of the same or a different type, may be additionally provided.
-spouse, in relation to a person, includes another person who is in a domestic relationship within the meaning of the Domestic Relationships Act 1994 with the person.
 stock exchange means—
   (a) the Australian Stock Exchange Limited; or
   (b) a stock exchange that is a member of the Fédération Internationale des Bourses de Valeurs; or
