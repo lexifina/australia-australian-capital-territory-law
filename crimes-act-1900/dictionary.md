@@ -1,5 +1,23 @@
-# U Dictionary
+# Dictionary
 (see s 4)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· Act
+· adult
+· contravene
+· chief police officer
+· commissioner of police
+· director of public prosecutions
+· fail
+· indictable offence (see also s 190)
+· judge
+· lawyer
+· magistrate
+· medical practitioner
+· penalty unit (see also s 133)
+· police officer
+· summary offence (see also s 190)
+· the Territory.
 aggravated offence, for part 5 (Sexual servitude)—see section 81.
 bail undertaking means an undertaking given by a person charged with an offence to obtain bail in relation to the offence.
 child—
@@ -12,7 +30,6 @@ director of public prosecutions means—
   (a) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1990; or
   (b) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1983 (Cwlth);
 as the case requires.
-document of title to land includes every deed, certificate of title, map, paper, or parchment, written or printed, or partly written and partly printed, being or containing evidence of the title, or part of the title, to any real estate or to any interest in or out of real estate.
 domestic violence offence means behaviour directed at a relevant person that is or was an offence against—
   (a) the Protection Orders Act 2001, section 34 (which is about contravening protection orders) in relation to a domestic violence order; or
   (b) a provision of this Act mentioned in schedule 1 (which deals with domestic violence crimes); or
@@ -30,9 +47,6 @@ knife includes—
   (c) any other blade;
 but does not include a knife of a class or description excluded from this definition by the regulations.
 loaded arms means any firearm, airgun or air pistol that is loaded with any projectile or missile, whether or not the firearm, airgun or air pistol is capable of being discharged.
-medical practitioner means a person—
-  (a) who is registered under the Medical Practitioners Act 1930; or
-  (b) who is to be deemed to be registered under that Act because of the Mutual Recognition Act 1992 (Cwlth), section 25.
 motor vehicle—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 offensive weapon means—
   (a) anything made or adapted for use, or capable of being used, for causing injury to or incapacitating a person; or
