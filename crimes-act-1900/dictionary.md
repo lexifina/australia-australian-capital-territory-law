@@ -41,15 +41,6 @@ director of public prosecutions means—
   (b) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1983 (Cwlth);
 as the case requires.
 domestic partner includes former domestic partner.
-domestic violence offence means behaviour directed at a relevant person that is or was an offence against—
-  (a) the Protection Orders Act 2001, section 34 (which is about contravening protection orders) in relation to a domestic violence order; or
-  (b) a provision of this Act mentioned in schedule 1 (which deals with domestic violence crimes); or
-  (c) the Criminal Code, section 403, 404, 406, 407 or 408 (which deal with property offences); or
-  (d) any of the following provisions of the Road Transport (Safety and Traffic Management) Act 1999:
-    (i) section 6 (1) (which is about negligent driving);
-    (ii) section 7 (1) (which is about furious, reckless or dangerous driving);
-    (iii) section 8 (1) or (2) (which are about menacing driving).
-Note A reference to an offence against a Territory law includes a reference to a related ancillary offence, eg attempt (see Legislation Act 2001, s 189).
 employee, for part 2A (Industrial manslaughter)—see section 49A.
 employer, for part 2A (Industrial manslaughter)—see section 49A.
 government, for part 2A (Industrial manslaughter)—see the Legislation Act, section 121 (6).
@@ -82,11 +73,6 @@ relative, of a person (the original person)—
     (v) nephew, niece or cousin; and
   (b) if the original person has or had a domestic partner (other than a spouse)—includes someone who would have been a relative of a kind mentioned in paragraph (a) if the original person had been legally married to the domestic partner; and
   (c) includes someone who has been a relative of a kind mentioned in paragraph (a) or (b) of the original person.
-relevant person, in relation to a person (the original person), means—
-  (a) a domestic partner of the original person; or
-  (b) a relative of the original person; or
-  (c) a child of a domestic partner of the original person; or
-  (d) someone who normally lives, or normally lived, in the same household as the original person (other than as a tenant or boarder).
 school means—
   (a) a government or non-government school under the Education Act 2004; or
   (b) an educational institution conducted by the Canberra Institute of Technology;
