@@ -1,12 +1,18 @@
 # Dictionary
 (see s 4)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· ACT
+· exercise
+· function
+· instrument.
 another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device means a camera detection device approved under the regulations.
 approved speed measuring device means a speed measuring device approved under the regulations.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Australian Transport Council means the Australian Transport Council mentioned in the National Road Transport Commission Act 1991 (Cwlth), section 3 or its successor.
 authorised person, for a provision of this Act, means—
-  (a) a person who is appointed as an authorised person under the Road Transport (General) Act 1999 for the provision; or
+  (a) a person who is appointed as an authorised person under the Road Transport (General) Act 1999, section 19 for the provision; or
   (b) a person who is, under the regulations made under this Act or the Road Transport (General) Act 1999, an authorised person for the provision.
 authority—see road transport authority.
 camera detection device—see section 23.
@@ -16,10 +22,8 @@ drive a vehicle includes—
   (c) if the vehicle can be ridden—ride the vehicle.
 driver, of a vehicle, means the person who is driving the vehicle.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-exercise a function includes perform a duty.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external Territory driver licence.
-function includes power.
 indicated on, an image of a vehicle taken by an approved camera detection device, includes accompanying or reasonably associated with the image.
 infringement notice—see the Road Transport (General) Act 1999, dictionary.
 installation, of a prescribed traffic control device, includes the painting or formation of any marks or structure that forms, or forms part of, the device.
@@ -38,15 +42,15 @@ restricted licence—see the Road Transport (Driver Licensing) Act 1999, diction
 retention area—see the Uncollected Goods Act 1996, section 4.
 ride, for the rider of a motorbike or an animal-drawn vehicle, includes be in control of the vehicle.
 rider, of a vehicle that can be ridden, means the person who is riding the vehicle.
-road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as an order under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
+road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
 road related area means—
   (a) an area that divides a road; or
   (b) a footpath or nature strip adjacent to a road; or
   (c) an area that is open to the public and is designated for use by cyclists or animals; or
   (d) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles; or
   (e) a shoulder of a road; or
-  (f) any other area that is open to or used by the public so far as an order under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
-but does not include an area that would otherwise be a road related area so far as an order under that section declares that this Act does not apply to the area.
+  (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
+but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
