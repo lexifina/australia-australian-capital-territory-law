@@ -3,12 +3,13 @@
 U Part 1 Meaning of commonly-used words and expressions
 (see s 144)
 Note Words and expressions that are defined only for this Act are set out in pt 2.
+AAT—see definition of administrative appeals tribunal.
 Act—see the following sections:
   (a) section 7 (Meaning of Act generally);
   (b) section 17 (References to Acts include references to former Cwlth enactments etc).
 Note See also s 102 (Meaning of references to a law or instrument generally) and s 104 (References to laws include references to instruments under laws).
 ACT means the Australian Capital Territory.
-ADI is short for authorised deposit-taking institution.
+ADI—see definition of authorised deposit-taking institution.
 administrative appeals tribunal (or AAT) means the Administrative Appeals Tribunal established under the Administrative Appeals Tribunal Act 1989.
 administrative unit means an administrative unit for the time being established under the Public Sector Management Act 1994, section 13 (1).
 adult means an individual who is at least 18 years old.
@@ -28,7 +29,7 @@ Note The Auditor-General Act 1996 provides for the appointment, functions and po
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external Territory.
 Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Australian driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def driver licence).
-authorised deposit-taking institution means an authorised deposit-taking institution under the Banking Act 1959 (Cwlth).
+authorised deposit-taking institution (or ADI) means an authorised deposit-taking institution under the Banking Act 1959 (Cwlth).
 bank means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the word ‘bank’, ‘banker’ or ‘banking’; or
   (b) any other word (whether or not in English) similar in meaning to a word mentioned in paragraph (a).
@@ -125,6 +126,7 @@ document includes—
   (b) anything on which there are figures, marks, numbers, perforations, symbols or anything else having a meaning for persons qualified to interpret them; or
   (c) anything from which images, sounds, messages or writings can be produced or reproduced, whether with or without the aid of anything else; or
   (d) a drawing, map, photograph or plan.
+DPP—see definition of director of public prosecutions.
 driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established by the Electoral Act 1992.
@@ -154,8 +156,8 @@ Note 2 The other former NSW Acts are taken to have been enacted by the Legislati
 former UK Act means an Act corresponding to a UK Act mentioned in schedule 1.
 Note Former UK Acts are also taken to have been enacted by the Legislative Assembly because of the Interpretation Act 1967, s 65.
 found guilty, of an offence, includes—
-  (a) having the offence taken into account under the Crimes Act 1900, section 357; and
-  (b) having an order made in relation to the offence under the Crimes Act 1900, section 402 or the Children and Young People Act 1999, section 96.
+  (a) having the offence taken into account under the Crimes Act 1900, section 357 (which is about taking outstanding charges into account when passing sentence); and
+  (b) having an order made in relation to the offence under the Crimes Act 1900, section 402 (Conditional release of offenders without proceeding to conviction) or the Children and Young People Act 1999, section 98 (Disposition without proceeding to conviction).
 function includes authority, duty and power.
 gambling and racing commission means the Gambling and Racing Commission established under the Gambling and Racing Control Act 1999.
 Gazette means the Australian Capital Territory Gazette.
@@ -174,6 +176,14 @@ Imperial Act means an Act of the United Kingdom Parliament.
 indictable offence—see section 190 (1).
 indictment includes information.
 individual means a natural person.
+in relation to includes the following:
+  (a) in respect of;
+  (b) with respect to;
+  (c) in connection with;
+  (d) in regard to;
+  (e) with reference to;
+  (f) relating to;
+  (g) for or with respect to.
 instrument—see section 14 (Meaning of instrument).
 interest, in relation to land or other property, means—
   (a) a legal or equitable estate in the land or other property; or
@@ -194,6 +204,7 @@ law, of the Territory, means—
 lawyer means a legal practitioner.
 legal aid commission means the Legal Aid Commission (A.C.T.) established by the Legal Aid Act 1977.
 legal practitioner means a barrister, solicitor, barrister and solicitor or legal practitioner entered onto the High Court Register of Practitioners or on the roll, however described, of the Supreme Court of a State or Territory.
+Legislation Act means the Legislation Act 2001.
 Legislative Assembly means the Legislative Assembly for the Territory.
 Note The Assembly is established by the Self-Government Act, s 8 (1).
 liability means any liability or obligation (whether liquidated or unliquidated, certain or contingent, or accrued or accruing).
@@ -249,7 +260,7 @@ planning authority means the Australian Capital Territory Planning Authority und
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
 power includes authority.
-prescribed, in an Act, means prescribed by the Act or regulations under the Act.
+prescribed, in an Act, means prescribed by the Act or under regulations under the Act.
 privacy commissioner means the Privacy Commissioner under the Privacy Act 1998 (Cwlth).
 proceeding means a legal or other action or proceeding.
 property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
@@ -315,7 +326,6 @@ summary offence—see section 190 (2).
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
 swear, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
-tenancy tribunal means the Tenancy Tribunal established by the Tenancy Tribunal Act 1994.
 the Territory means—
   (a) when used in a geographical sense—the Australian Capital Territory; or
   (b) in any other case—the body politic established by the Self-Government Act, section 7.
@@ -327,7 +337,7 @@ Note Territory instrumentality is defined in the Public Sector Management Act 19
 Territory land means Territory Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land (see the definition above) it is Territory land.
 Territory owned corporation means a Territory owned corporation under the Territory Owned Corporations Act 1990.
-Territory plan means the Territory plan as in force from time to time under the Land (Planning and Environment) Act 1991.
+Territory plan means the Territory plan under the Land (Planning and Environment) Act 1991.
 transitional includes saving.
 Treasurer means the Minister designated Treasurer by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Treasurer.
 tribunal includes any entity that is authorised to hear, receive and examine evidence.
