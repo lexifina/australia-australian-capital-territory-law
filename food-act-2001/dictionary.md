@@ -1,5 +1,10 @@
 # Dictionary
 (see s 4)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· chief health officer
+· exercise
+· function.
 advertisement means—
   (a) any words, whether written or spoken; or
   (b) any pictorial representation or design; or
