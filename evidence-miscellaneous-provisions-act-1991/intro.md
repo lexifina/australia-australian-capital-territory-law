@@ -1,3 +1,5 @@
+  As in force on
+  30 June 2000
 Australian Capital Territory
-Evidence (MISCELLANEOUS PROVISIONS) Act 1991
-An Act to provide for evidence given by a child in certain proceedings to be observed and heard on a closed-circuit television system
+Evidence (Miscellaneous Provisions) Act 1991
+An Act about evidence
