@@ -1,5 +1,17 @@
 # Dictionary
 (see s 3)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· asset
+· corporation
+· entity
+· exercise
+· function
+· law, of the Territory
+· notifiable instrument (see s 10)
+· property
+· State
+· the Territory.
 ACTEW means ACTEW Corporation Limited.
 agent company means a company that is appointed to act as agent under section 34.
 AGL means The Australian Gas Light Company.
