@@ -1,0 +1,44 @@
+# Dictionary
+(see s 5)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· appoint
+· asset
+· Australia
+· Commonwealth
+· exercise
+· external Territory
+· function
+· Jervis Bay Territory
+· land
+· Legislative Assembly
+· power
+· property.
+agreement means the agreement made on 1 May 1992 between the Commonwealth, the States, the Australian Capital Territory, the Northern Territory and the Australian Local Government Association, a copy of which is set out in schedule 1.
+Australian Local Government Association means the Australian Local Government Association Limited.
+Commonwealth Act means the National Environment Protection Council Act 1994 (Cwlth).
+council means the National Environment Protection Council established by section 7.
+member means a member of the council.
+ministerial council means a council, comprising 1 or more Ministers of the Commonwealth and Ministers of 1 or more of the States or Territories, that includes environmental protection in its functions.
+minor variation, for a national environment protection measure—see section 21A (Minor variation of measures).
+national environment protection goal means a goal—
+  (a) that relates to desired environmental outcomes; and
+  (b) that guides the formulation of strategies for the management of human activities that may affect the environment.
+national environment protection guideline means a guideline that gives guidance on possible means for achieving desired environmental outcomes.
+national environment protection measure means a measure made under section 13 (1).
+national environment protection protocol means a protocol that relates to the process to be followed in measuring environmental characteristics to determine—
+  (a) whether a particular standard or goal is being met or achieved; or
+  (b) the extent of the difference between the measured characteristic of the environment and a particular standard or a particular goal.
+national environment protection standard means a standard that consists of quantifiable characteristics of the environment against which environmental quality can be assessed.
+NEPC committee means the committee established by section 28.
+NEPC executive officer means the person who, from time to time, holds the office of NEPC Executive Officer established by section 38, and includes a person acting in that office.
+NEPC service corporation means the corporation referred to in section 34.
+participating jurisdiction means the Commonwealth, a participating State or a participating Territory.
+participating State means a State—
+  (a) that is a party to the agreement; and
+  (b) in which an Act that corresponds to this Act is in force in accordance with the agreement.
+participating Territory means a Territory—
+  (a) that is a party to the agreement; and
+  (b) in which an Act that corresponds to this Act is in force in accordance with the agreement.
+service corporation means the NEPC service corporation.
+Territory means the Australian Capital Territory and the Northern Territory.
