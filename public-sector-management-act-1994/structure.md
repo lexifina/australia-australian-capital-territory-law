@@ -42,10 +42,3 @@
 ### Division 3—Investigation of grievances by the Merit Protection Agency
 ### Division 4—Merit protection
 ## Part xiiI—Miscellaneous
-## SCHEDULE 1 Section 202
-## Modifications and adaptations of the provisions of Part IX in their application to employees
-## schedule 2 Subsection 235 (2)
-## Modifications of the Merit Protection Act in its application under section 235
-## SCHEDULE 3 Paragraph 249 (a)
-## MODIFICATIONS AND ADAPTATIONS OF THE OCCUPATIONAL HEALTH AND SAFETY ACT 1989 IN ITS APPLICATION TO PUBLIC EMPLOYEES
-## “PART IVA—inquiries and reports in relation to matters affecting public employees
