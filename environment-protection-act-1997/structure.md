@@ -1,43 +1,44 @@
-## part 1—preliminary
-## Part 2—Administration
-### Division 1—Environment Management Authority
-### Division 2—Public inspection of documents
-## part 3—environmental duties
-## part 4—environment protection policies
-## part 5—accredited codes of practice
-## part 6—economic measures
-## part 7—Environmental protection agreements
-## part 8—environmental authorisations
-### Division 1A—Interpretation
-### Division 1—Requirements to hold and comply with an authorisation
-### Division 2—Grant, variation, cancellation and suspension
-## part 9—environmental protection
-### Division 1—Environmental improvement plans
-### Division 2—Environmental audits
-### Division 3—Emergency plans
-### Division 4—Financial assurances
-### Division 5—Assessment and remediation
-### Division 6—Costs of assessment and remediation
-## part 10—Functions of the Minister
-## part 11—authorised officers’ powers
-### Division 1—Preliminary
-### Division 2—Entry and inspection generally
-### Division 3—Emergency powers
-### Division 4—Seizure, retention and disposal of things
-### Division 5—Other powers
-## PART 12—analysts’ powers
-## Part 13—Enforcement
-### Division 1—On-the-spot fines
-### Division 2—Environment protection orders
-### Division 3—Injunctive orders
-### Division 4—Power to require information
-## Part 14—administrative review
-## Part 15—offences
-### Division 1—Environmental offences
-### Subdivision A—General environmental offences
-### Subdivision B—Specific offences
-### Division 2—Liability etc of corporate officers
-### Division 3—Other offences
-### Division 4—Defences
-### Division 5—General
-## Part 16—MISCELLANEOUS
+## Part 1 Preliminary
+## Part 2 Administration
+### Division 2.1 Environment Management Authority
+### Division 2.2 Public inspection of documents
+### Division 2.3 Register of contaminated sites
+## Part 3 Environmental duties
+## Part 4 Environment protection policies
+## Part 5 Accredited codes of practice
+## Part 6 Economic measures
+## Part 7 Environmental protection agreements
+## Part 8 Environmental authorisations
+### Division 8.1A Interpretation
+### Division 8.1 Requirements to hold and comply with an authorisation
+### Division 8.2 Grant, variation, cancellation and suspension
+## Part 9 Environmental protection
+### Division 9.1 Environmental improvement plans
+### Division 9.2 Environmental audits
+### Division 9.3 Emergency plans
+### Division 9.4 Financial assurances
+### Division 9.5 Assessment and remediation
+### Division 9.6 Costs of assessment and remediation
+## Part 10 Functions of the Minister
+## Part 11 Authorised officers’ powers
+### Division 11.1 Preliminary
+### Division 11.2 Entry and inspection generally
+### Division 11.3 Emergency powers
+### Division 11.4 Seizure, retention and disposal of things
+### Division 11.5 Other powers
+## Part 12 Analysts’ powers
+## Part 13 Enforcement
+### Division 13.1 On-the-spot fines
+### Division 13.2 Environment protection orders
+### Division 13.3 Injunctive orders
+### Division 13.4 Power to require information
+## Part 14 Administrative review
+## Part 15 Offences
+### Division 15.1 Environmental offences
+#### Subdivision 15.1.1 General environmental offences
+#### Subdivision 15.1.2 Specific offences
+### Division 15.2 Liability etc of corporate officers
+### Division 15.3 Other offences
+### Division 15.4 Defences
+### Division 15.5 General
+## Part 16 Miscellaneous
