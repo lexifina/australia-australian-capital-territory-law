@@ -8,7 +8,7 @@
 ## Part 3A Intestacy
 ### Division 3A.1 Preliminary
 ### Division 3A.2 Distribution on intestacy
-### Division 3A.3 Rights of spouses to intestate dwelling houses
+### Division 3A.3 Rights of partners to intestate dwelling houses
 ## Part 3B Simultaneous deaths
 ## Part 3C Functions of executors and administrators
 ## Part 3D Liability of certain persons in relation to deceased estates
