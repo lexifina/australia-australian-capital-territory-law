@@ -63,7 +63,9 @@ column 1 item | column 2 activity
 5 | the sterilisation of clinical waste
 6 | the conduct of a crematorium for the reduction by means of thermal oxidation of human bodies to cremated remains
 7 | the operation of a commercial landfill facility that receives, or is intended by the operator to receive, more than 5 000t of waste per year
-8 | the acceptance by a lessee or occupier of land that is in an area identified in— (a) the Territory plan as 1 of the following: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or (b) the national capital plan as 1 of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland; of more than 100m3 of soil for placement on that land
+8 | the acceptance by a lessee or occupier of land that is in an area identified in—
+ | (a) the Territory plan as 1 of the following: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or
+ | (b) the national capital plan as 1 of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland; of more than 100m3 of soil for placement on that land
 9 | transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies
 10 | the provision of regulated waste for transportation from 1 place in the Territory to another place in the Territory
 11 | the transportation of regulated waste from 1 place in the Territory to another place in the Territory
@@ -90,7 +92,7 @@ column 1 item | column 2 activity
 32 | the operation of a facility designed to store more than 500m3 of petroleum products
 33 | the production of petroleum products (other than the recovery, processing or disposal of petroleum product waste) at a facility designed to produce more than 100t of petroleum products per year
 34 | the operation of a facility that recovers, processes or disposes, or is intended by the operator to recover, process or dispose, of more than 20t of waste petroleum products per year
-35 | the operation of an aerodrome for helicopters (other than a facility used only for the emergency medical evacuation, retrieval or rescue of people by helicopter) if— (a) the aerodrome is operated for more than 2 weeks; and (b) the number of take-offs and landings by helicopters is, or is intended by the operator to be, more than 30 per week; and (c) the aerodrome is located less than 1 km from a dwelling not associated with the aerodrome
+35 | the operation of an aerodrome for helicopters (other than a facility used only for the emergency medical evacuation, retrieval or rescue of people by helicopter) if— (a) the aerodrome is operated for more than 2 weeks; and (b) the number of take-offs and landings by helicopters is, or is intended by the operator to be, more than 30 per week; and (c) the aerodrome is located less than 1km from a dwelling not associated with the aerodrome
 36 | the conduct of a logging operation that logs, or is intended by the operator to log, more than 5 000t of timber per year
 37 | the commercial production of alcoholic beverages or distilled alcohol at a facility designed to produce more than 100kL of alcoholic beverages or distilled alcohol per year
 38 | the conduct of an operation that applies to land, or is intended by the operator to apply to land, more than 500t per year of organic products produced by the treatment of sewerage for the improvement of soil
