@@ -21,6 +21,8 @@
 ## PROCEDURE, EVIDENCE, VERDICT, &c.
 ## PART XII
 ## SENTENCES
+### Division 1—General principles and procedures
+### Division 2—Pre-sentence reports
 ## PART XIII
 ## PROCEEDINGS AFTER SENTENCE
 ## PART XIV
