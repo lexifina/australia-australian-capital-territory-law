@@ -17,6 +17,10 @@
 ### Division 1—Preliminary
 ### Division 2—Notification of notifiable conditions
 ### Division 3—Public health hazards
+## part 6A—public health alerts
+## part 6B—drinking water and sewage processing
+### Division 1—Drinking water
+### Division 2—Sewage
 ## part 7—Public health emergencies
 ## part 8—public health investigations
 ## part 9—review and appeals

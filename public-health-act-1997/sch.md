@@ -90,3 +90,4 @@ this Act includes the regulations.
 transmissible notifiable condition means a notifiable condition—
     (a) determined by the Minister to be a transmissible notifiable condition under paragraph 100 (1) (b); or
     (b) declared by the chief health officer to be a transmissible notifiable condition under paragraph 101 (1) (b).
+utility—see Utilities Act 2000, dictionary.
