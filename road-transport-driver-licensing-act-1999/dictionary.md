@@ -1,6 +1,7 @@
 # Dictionary
 (see s 4)
 additional provisional class, in relation to an Australian driver licence (including a provisional licence) of a particular class, means any other class of licence that is shown on the licence as a provisional class.
+administering authority, for a demerit points offence, means the entity that, under the regulations made under the Road Transport (General) Act 1999, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
 Australian driver licence means—
   (a) a driver licence; or
@@ -10,6 +11,7 @@ authority—see road transport authority.
 class, of a driver licence, means a class of driver licence prescribed under the regulations.
 conditional licence means an Australian driver licence that is subject to a condition imposed by the road transport authority or the licensing authority of another jurisdiction.
 corresponding law means a law of another jurisdiction under which authority is given to drive motor vehicles on roads or road related areas.
+demerit points offence—see section 13 (Meaning of demerit points offence).
 demerit points register means the register required to be kept under section 6 (c) (Functions of road transport authority).
 drive a vehicle includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
@@ -29,6 +31,7 @@ external driver licence means—
 external Territory driver licence means a licence to drive a motor vehicle (however described) issued under the law of an external Territory.
 foreign driver licence means a licence to drive a motor vehicle (however described) issued under the law of a foreign country.
 function includes power.
+incur, demerit points for an offence—see section 13B (2) (When demerit points are incurred).
 infringement notice—
   (a) means a notice served under the Road Transport (General) Act 1999, section 24 (Service of infringement notices generally) or 36 (Service of infringement notices on responsible persons for vehicles); and
   (b) includes a notice (however described) served on a person under the law of another jurisdiction that gives the person the option of paying an amount for an offence instead of being charged with the offence.
