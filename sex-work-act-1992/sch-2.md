@@ -1,4 +1,4 @@
-# U Schedule 2 Disqualifying offences—this Act
+# Schedule 2 Disqualifying offences—this Act
 (see s 6 (1), def disqualifying offence, par (a) (ii))
 column 1 | column 2 | column 3
 item | section | description
@@ -9,5 +9,5 @@ item | section | description
 5 | 21 | receive proceeds of child prostitution
 6 | 23 | permit child on premises
 7 | 24 | obligations when prostitute infected with sexually transmitted disease
-8 | 26 | obligations in relation to medical examination of prostitute
+8 | 26 | obligations in relation to medical test and medical examination of prostitute
 9 | 27 | obligations about use of prophylactics

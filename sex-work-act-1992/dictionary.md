@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -9,6 +9,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · function
 · police officer.
 annual notice, for part 2 (Registration)—see section 8.
+authorised nurse practitioner means a nurse practitioner who is the occupant of a nurse practitioner position acting within the scope of practice for the position.
 brothel means premises used or to be used for the purpose of prostitution, but does not include premises where accommodation is normally provided on a commercial basis if the prostitution occurs under an arrangement initiated elsewhere.
 commercial brothel, for part 2 (Registration)—see section 5.
 commercial escort agency, for part 2 (Registration)—see section 5.
@@ -19,7 +20,7 @@ drug of dependence—see the Drugs of Dependence Act 1989, section 3 (1).
 employed—a prostitute is employed at a brothel or from an escort agency if the prostitute provides commercial sexual services at the brothel, or from the escort agency, under a contract of service or a contract for services.
 escort agency means a business of arranging prostitution, being a business carried on at premises other than a brothel.
 interested person, for part 2 (Registration)—see section 5.
-medical examination includes the taking of a sample of tissue, blood, urine or other bodily material for medical testing.
+nurse practitioner position—see the Health Act 1993, section 37B (2).
 operator, of a brothel or escort agency, includes a person in day-to-day control of the brothel or escort agency.
 police report, for part 2 (Registration)—see section 5.
 premises includes a part of premises.
@@ -40,6 +41,7 @@ sexual services means—
   (c) any activity that involves the use of one person by another for his or her sexual gratification.
 sexually transmitted disease—see the Sexually Transmitted Diseases Act 1956, section 4 (Interpretation).
 Note Under the Sexually Transmitted Diseases Act 1956, s 4 a sexually transmitted disease is chancroid, chlamydial disease, donovanosis, gonorrhoea, HIV/AIDS, lymphogranuloma venereum, syphilis or a disease prescribed by regulations under that Act.
+scope of practice—see the Health Act 1993, section 37B (2).
 sole operator, for part 2 (Registration)—see section 5.
 sole operator brothel, for part 2 (Registration)—see section 5.
 sole operator escort agency, for part 2 (Registration)—see section 5.
