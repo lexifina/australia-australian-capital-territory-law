@@ -43,7 +43,7 @@ public authority means an administrative unit or Territory authority, and includ
 Note Administrative unit and Territory authority are defined in the Legislation Act 2001, dict, pt 1.
 quash—see section 8.
 sexual offence means the following offences:
-  (a) an offence against the Crimes Act 1900, part 3A (Sexual Offences) or part 3B (Female Genital Mutilation);
+  (a) an offence against the Crimes Act 1900, part 3 (Sexual Offences) or part 3B (Female Genital Mutilation);
   (b) an offence (such as an offence against the Crimes Act 1900, section 27 (Acts endangering life etc) or section 102 (Burglary)) that includes the commission of, or an intention to commit, an offence mentioned in paragraph (a) or (d);
   (c) an offence of attempting, or of conspiracy or incitement, to commit an offence mentioned in paragraph (a), (b) or (d);
   (d) an offence (including a Commonwealth offence, State offence or foreign offence) prescribed under the regulations;
