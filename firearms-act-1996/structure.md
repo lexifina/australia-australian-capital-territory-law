@@ -15,4 +15,4 @@
 ## Part 9 Firearms prohibition orders
 ## Part 10 Review of decisions
 ## Part 11 Miscellaneous provisions
-## Part 12 Savings, transitional and consequential provisions
+## Part 12 Transitional provisions
