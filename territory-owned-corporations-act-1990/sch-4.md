@@ -26,18 +26,3 @@ substitute
 insert
 (5) In this section:
 subsidiary, in relation to a Territory owned corporation, means a body corporate that under the Corporations Act is a subsidiary of the corporation.
-## 5 Operation of s 30
-(1) In this section:
-acquired, in relation to an asset, means an acquisition of the asset for the Commonwealth Act, part 3A.
-asset - see the Commonwealth Act, part 3A.
-Commonwealth Act means the Income Tax Assessment Act 1936 (Cwlth).
-cost base - see the Commonwealth Act, section 160ZH.
-disposed of, in relation to an asset, means a disposal of the asset for the Commonwealth Act, part 3A.
-indexed cost base - see the Commonwealth Act, section 160ZH.
-reduced cost base - see the Commonwealth Act, section 160ZH.
-vested means vested under the Electricity and Water (Corporatisation) (Consequential Provisions) Act 1995, section 4.
-(2) For section 30, an asset vested in the company which was acquired by the authority before 20 September 1985 shall be taken to have been acquired by the company before that date.
-(3) For section 30, where an asset vested in the company—
-  (a) was acquired by the authority on or after 20 September 1985; and
-  (b) is disposed of by the company;
-the asset shall be taken to have been acquired by the company at a cost base to the company equal to the cost base that would have been the cost base, the indexed cost base or the reduced cost base, as the case may be, to the authority of that asset if the asset had been disposed of by the authority at the time it was disposed of by the company.
