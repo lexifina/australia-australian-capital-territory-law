@@ -1,7 +1,7 @@
-# U Dictionary
+# Dictionary
 (see s 4)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · exercise
 · function
@@ -14,7 +14,7 @@ Australian driver licence means—
   (b) a licence (including a conditional licence, learner licence, probationary licence, provisional licence or restricted licence or a driver licence receipt) issued under the law of another jurisdiction authorising the holder to drive a motor vehicle on a road or road related area.
 Australian Transport Council means the Australian Transport Council mentioned in the National Road Transport Commission Act 1991 (Cwlth), section 3 or its successor.
 authority—see road transport authority.
-class, of a driver licence, means a class of driver licence prescribed under the regulations.
+class, of a driver licence, means a class of driver licence prescribed by regulation.
 conditional licence means an Australian driver licence that is subject to a condition imposed by the road transport authority or the licensing authority of another jurisdiction.
 corresponding law means a law of another jurisdiction under which authority is given to drive motor vehicles on roads or road related areas.
 demerit points offence—see section 13 (Meaning of demerit points offence).
@@ -31,23 +31,23 @@ driver licence receipt means a receipt that—
   (b) authorises the holder to drive a motor vehicle on a road or road related area.
 driver licence register means the register required to be kept under section 6 (b) (Functions of road transport authority).
 external driver licence means—
-  (a) an external Territory driver licence; or
+  (a) an external territory driver licence; or
   (b) a foreign driver licence.
-external Territory driver licence means a licence to drive a motor vehicle (however described) issued under the law of an external Territory.
+external territory driver licence means a licence to drive a motor vehicle (however described) issued under the law of an external territory.
 foreign driver licence means a licence to drive a motor vehicle (however described) issued under the law of a foreign country.
 incur, demerit points for an offence—see section 13B (2) (When demerit points are incurred).
 infringement notice—
-  (a) means a notice served under the Road Transport (General) Act 1999, section 24 (Service of infringement notices generally) or 36 (Service of infringement notices on responsible persons for vehicles); and
+  (a) means a notice served under the Road Transport (General) Act 1999, section 24 (Service of infringement notices generally) or 36 (Service of infringement notices on responsible people for vehicles); and
   (b) includes a notice (however described) served on a person under the law of another jurisdiction that gives the person the option of paying an amount for an offence instead of being charged with the offence.
 infringement notice penalty—
   (a) see the Road Transport (General) Act 1999, dictionary; and
   (b) includes an amount payable under an infringement notice served on a person under the law of another jurisdiction.
-jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
+jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 learner licence means an Australian driver licence issued to a person under the law of any jurisdiction that authorises the person to drive a motor vehicle on a road or road related area for the purpose of learning to drive.
 licensing authority, for another jurisdiction, means the entity that has functions under the law of the other jurisdiction corresponding to the functions of the road transport authority under this Act.
 motor vehicle means a vehicle that is built to be propelled by a motor that forms part of the vehicle.
 National Road Transport Commission means the National Road Transport Commission established by the National Road Transport Commission Act 1991 (Cwlth) or its successor.
-national schedule of demerit points means the offences, and the number of demerit points incurred for each offence, prescribed under the regulations under the Road Transport (General) Act 1999 as the national schedule of demerit points.
+national schedule of demerit points means the offences, and the number of demerit points incurred for each offence, prescribed by regulation under the Road Transport (General) Act 1999 as the national schedule of demerit points.
 photograph—
   (a) includes a digitised, electronic or computer generated image in a form approved by the road transport authority; and
   (b) for part 4 (Protection of photographs and signatures)—see section 35.
@@ -56,7 +56,8 @@ probationary licence means—
   (b) an equivalent Australian driver licence issued under a corresponding law.
 proof of age card means a card issued under the Liquor Act 1975, section 175 (1).
 provisional licence means an Australian driver licence issued as a provisional licence, but does not include an Australian driver licence that includes an additional provisional class merely because it includes the additional provisional class.
-public vehicle—see the Road Transport (General) Act 1999, section 158.
+public vehicle means a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
+Note A public passenger vehicle is a public bus, taxi or hire car.
 public vehicle licence means a driver licence that authorises the person to drive a public vehicle for hire or reward.
 restricted licence means an Australian driver licence, issued under the authority of a court in Australia, that authorises the holder to drive only in the course of his or her employment or in other restricted circumstances.
 road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
@@ -76,4 +77,4 @@ trailer means a vehicle being towed, or built to be towed, by a motor vehicle, b
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
   (a) any description of vehicle on wheels, other than a vehicle used on a railway or tramway; or
-  (b) any other vehicle prescribed under the regulations.
+  (b) any other vehicle prescribed by regulation.
