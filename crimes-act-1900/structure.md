@@ -32,6 +32,7 @@
 ### Division 13.4 Dismissal by Magistrates Court on grounds of mental impairment
 ### Division 13.5 Referral of mentally dysfunctional or mentally ill persons to tribunal following conviction
 ### Division 13.6 Summary proceedings against mentally dysfunctional or mentally ill persons
+### Division 13.7 Transitional
 ## Part 15 Sentences
 ### Division 15.1 General principles and procedures
 ### Division 15.2 Pre-sentence reports
