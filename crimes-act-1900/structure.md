@@ -10,6 +10,7 @@
 ### Division 6.4 Forgery and the use of forged instruments
 ### Division 6.5 Offences relating to computers
 ### Division 6.6 Contamination of goods and related offences
+### Division 6.6A Offences relating to causing public alarm
 ### Division 6.7 Miscellaneous
 ## Part 7 Escape provisions
 ## Part 8 Perjury and like offences
