@@ -10,7 +10,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · police officer.
 close associate—see section 22.
 employee licence—see section 13.
-grounds for disciplinary action, in relation to a licence—see section 30.
+grounds for disciplinary action, in relation to a licensee—see section 30.
 licence means a licence under this Act.
 licence number—see section 28 (c).
 licensee means the holder of a licence.
