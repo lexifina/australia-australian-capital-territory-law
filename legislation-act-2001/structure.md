@@ -44,7 +44,7 @@
 ## Part 19.1 Introductory
 ## Part 19.2 Functions
 ## Part 19.3 Appointments
-### Division 19.3.1 Appointments—other than acting appointments
+### Division 19.3.1 Appointments—general
 ### Division 19.3.2 Acting appointments
 ### Division 19.3.2A Standing acting arrangements
 ### Division 19.3.3 Appointments—Assembly consultation

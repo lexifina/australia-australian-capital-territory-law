@@ -1,8 +1,8 @@
 # Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used words and expressions
+Part 1 Meaning of commonly-used terms
 (see s 144)
-Note Words and expressions that are defined only for this Act are set out in pt 2.
+Note Terms that are defined only for this Act are set out in pt 2.
 AAT—see definition of administrative appeals tribunal.
 Act—see the following sections:
   (a) section 7 (Meaning of Act generally);
@@ -45,8 +45,8 @@ Examples
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 breach includes contravene.
 building society means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
-  (a) the expression ‘building society’; or
-  (b) any other expression (whether or not in English) similar in meaning to the expression mentioned in paragraph (a).
+  (a) the term ‘building society’; or
+  (b) any other term (whether or not in English) similar in meaning.
 business day means a day that is not—
   (a) a Saturday or Sunday; or
   (b) a public holiday or bank holiday in the ACT under the Holidays Act 1958.
@@ -106,8 +106,8 @@ court of summary jurisdiction means the Magistrates Court.
 credit tribunal means the Australian Capital Territory Credit Tribunal.
 Note The Consumer Credit (Administration) Act 1996 deals with the establishment, functions and powers of the tribunal.
 credit union means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
-  (a) the expression ‘credit union’; or
-  (b) any other expression (whether or not in English) similar in meaning to the expression mentioned in paragraph (a).
+  (a) the term ‘credit union’; or
+  (b) any other term (whether or not in English) similar in meaning.
 Criminal Code means the Criminal Code 2002.
 custodial escort means a person appointed as an escort under the Custodial Escorts Act 1998, section 4.
 daylight means the period in a day from sunrise to sunset.
@@ -122,7 +122,7 @@ disallowable instrument—see section 9 (Meaning of disallowable instrument).
 discrimination commissioner means the Discrimination Commissioner under the Discrimination Act 1991.
 discrimination tribunal means the Discrimination Tribunal established by the Discrimination Act 1991.
 doctor means a registered medical practitioner under the Medical Practitioners Act 1930.
-document includes—
+document means any record of information, and includes—
   (a) anything on which there is writing; or
   (b) anything on which there are figures, marks, numbers, perforations, symbols or anything else having a meaning for persons qualified to interpret them; or
   (c) anything from which images, sounds, messages or writings can be produced or reproduced, whether with or without the aid of anything else; or
@@ -176,7 +176,7 @@ guardianship tribunal means the Guardianship and Management of Property Tribunal
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
 Imperial Act means an Act of the United Kingdom Parliament.
-indictable offence—see section 190 (1).
+indictable offence—see section 190.
 indictment includes information.
 individual means a natural person.
 in relation to includes the following:
@@ -187,6 +187,11 @@ in relation to includes the following:
   (e) with reference to;
   (f) relating to;
   (g) for or with respect to.
+insolvent under administration means—
+  (a) a person who is an undischarged bankrupt under the Bankruptcy Act 1966 (Cwlth) or the corresponding provisions of the law of an external Territory or foreign country; or
+  (b) a person for whom a debt agreement has been made under the Bankruptcy Act 1966 (Cwlth), part 9 (Debt agreements), or the corresponding provisions of the law of an external Territory or foreign country, if the debt agreement has not ended or been terminated; or
+  (c) a person who has signed a deed of arrangement or assignment under the Bankruptcy Act 1966 (Cwlth), part 10 (Arrangements with creditors without sequestration), or the corresponding provisions of the law of an external Territory or foreign country, if the terms of the deed have not been fully complied with; or
+  (d) a person whose creditors have accepted a composition under the Bankruptcy Act 1966 (Cwlth), part 10, or the corresponding provisions of the law of an external Territory or foreign country, if a final payment has not been made under the composition.
 instrument—see section 14 (Meaning of instrument).
 interest, in relation to land or other property, means—
   (a) a legal or equitable estate in the land or other property; or
@@ -330,7 +335,7 @@ statutory declaration means a statutory declaration made under the Statutory Dec
 statutory instrument—see section 13 (Meaning of statutory instrument).
 statutory office-holder means a person occupying a position under an Act or statutory instrument (other than a position in the public service).
 subordinate law—see section 8 (Meaning of subordinate law).
-summary offence—see section 190 (2).
+summary offence—see section 190.
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
 swear, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
@@ -368,23 +373,25 @@ United Kingdom Parliament means—
 veterinary surgeon means a registered veterinary surgeon under the Veterinary Surgeons Act 1965.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
-working day means a day that is not a Saturday, Sunday or public holiday.
+working day means a day that is not—
+  (a) a Saturday or Sunday; or
+  (b) a public holiday in the ACT under the Holidays Act 1958.
 writing includes any way of representing or reproducing words in visible form.
 Examples
 printing, photocopying, photography, typewriting
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
-Part 2 Words and expressions for Legislation Act 2001 only
-Note Words and expressions that apply to all Acts and statutory instruments are set out in pt 1.
+Part 2 Terms for Legislation Act 2001 only
+Note Terms that apply to all Acts and statutory instruments are set out in pt 1.
 Act, for chapter 14 (Interpretation of Acts and statutory instruments)—see section 136.
 Note See also def Act in dict, pt 1.
 administrator, for part 19.5 (Service of documents)—see section 246.
 agency, for part 19.5 (Service of documents)—see section 246.
 appointee—
-  (a) for division 19.3.1 (Appointments—other than acting appointments)—see section 207 (2); and
+  (a) for division 19.3.1 (Appointments—general)—see section 207 (2); and
   (b) for division 19.3.2 (Acting appointments)—see section 217 (2).
 appointer—
-  (a) for division 19.3.1 (Appointments—other than acting appointments)—see section 205; and
+  (a) for division 19.3.1 (Appointments—general)—see section 205; and
   (b) for division 19.3.2 (Acting appointments)—see section 215; and
   (c) for part 19.4 (Delegations)—see section 230 (1).
 approved web site means an internet site approved under section 21 (Approved web site).
@@ -416,7 +423,7 @@ law—
 legislative material, for chapter 3 (Authorised versions and evidence of laws and legislative material)—see section 22A.
 non-determinative provision—see section 5 (3).
 provide a service, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
-referential words means words that identify a provision as a provision, or part of a provision, of the Act, statutory instrument or provision in which they appear.
+referential term means a term that identifies a provision as a provision, or part of a provision, of the Act, statutory instrument or provision in which it appears.
 Examples
 1 of this Act
 2 of this section
@@ -429,6 +436,7 @@ republication—
   (b) for chapter 11 (Republication of Acts and statutory instruments)—see section 107.
 republication date, for an authorised republication, means the date stated in the republication as the republication date.
 responsible, for part 19.5 (Service of documents)—see section 246.
+retrospectively, for the commencement of legislation—see section 75A (Meaning of commences retrospectively).
 scrutiny committee principles, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31 (Definitions for ch 5).
 service, for part 6.3 (Making of certain statutory instruments about fees)—see section 55 (Definitions for pt 6.3).
 working out the meaning of an Act, for part 14.2 (Key principles of interpretation)—see section 138.

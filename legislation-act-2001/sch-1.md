@@ -25,15 +25,14 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 21 | Judgment Creditors Remedies Act 1901 | No 8 (NSW)
 22 | Games, Wagers and Betting Houses Act 1901 | No 18 (NSW)
 23 | Arrest on Mesne Process Act 1902 | No 24 (NSW)
-24 | Innkeepers Liability Act 1902 | No 64 (NSW)
-25 | Pawnbrokers Act 1902 | No 66 (NSW)
-26 | Public Roads Act 1902 | No 95 (NSW)
-27 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
-28 | Fertilisers Act 1904 | No 33 (NSW)
-29 | Forfeiture and Validation of Leases Act 1905 | No 8 (NSW)
-30 | Free Education Act 1906 | No 12 (NSW)
-31 | Gaming and Betting Act 1906 | No 13 (NSW)
-32 | Second-hand Dealers Act 1906 | No 30 (NSW)
+24 | Pawnbrokers Act 1902 | No 66 (NSW)
+25 | Public Roads Act 1902 | No 95 (NSW)
+26 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
+27 | Fertilisers Act 1904 | No 33 (NSW)
+28 | Forfeiture and Validation of Leases Act 1905 | No 8 (NSW)
+29 | Free Education Act 1906 | No 12 (NSW)
+30 | Gaming and Betting Act 1906 | No 13 (NSW)
+31 | Second-hand Dealers Act 1906 | No 30 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
