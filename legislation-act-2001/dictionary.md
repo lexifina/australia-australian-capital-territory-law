@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used words and expressions
+U Part 1 Meaning of commonly-used words and expressions
 (see s 144)
 Note Words and expressions that are defined only for this Act are set out in pt 2.
 Act—see the following sections:
@@ -106,6 +106,7 @@ Note The Consumer Credit (Administration) Act 1996 deals with the establishment,
 credit union means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the expression ‘credit union’; or
   (b) any other expression (whether or not in English) similar in meaning to the expression mentioned in paragraph (a).
+Criminal Code means the Criminal Code 2002.
 custodial escort means a person appointed as an escort under the Custodial Escorts Act 1998, section 4.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130 (What is a definition?).
@@ -351,7 +352,7 @@ word includes any drawing, figure, number and symbol.
 working day means a day that is not a Saturday, Sunday or public holiday.
 writing includes any way of representing or reproducing words in visible form.
 Examples
-Printing, photocopying, photography, typewriting.
+printing, photocopying, photography, typewriting
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
 Part 2 Words and expressions for Legislation Act 2001 only
