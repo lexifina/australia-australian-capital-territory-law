@@ -8,7 +8,7 @@
 ## part VI—economic measures
 ## part VII—Environmental protection agreements
 ## part VIII—environmental authorisations
-### Division 1A—Interpretation5
+### Division 1A—Interpretation
 ### Division 1—Requirements to hold and comply with an authorisation
 ### Division 2—Grant, variation, cancellation and suspension
 ## part IX—environmental protection
@@ -16,8 +16,8 @@
 ### Division 2—Environmental audits
 ### Division 3—Emergency plans
 ### Division 4—Financial assurances
-### Division 5—Assessment and remediation 5
-### Division 6—Costs of assessment and remediation5
+### Division 5—Assessment and remediation
+### Division 6—Costs of assessment and remediation
 ## part X—Functions of the Minister
 ## part XI—authorised officers’ powers
 ### Division 1—Preliminary

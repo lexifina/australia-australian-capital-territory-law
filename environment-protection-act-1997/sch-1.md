@@ -1,6 +1,6 @@
-# SCHEDULE 15 Section 42
+# SCHEDULE 1 Section 42
 ACTIVITIES requiring an environmental authorisation
-\1. Interpretation
+1 Interpretation
 In this Schedule, unless the contrary intention appears—
 “aquifer” means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water;
 “authorised concert venue” means a concert venue at which the holder of an environmental authorisation for the conduct of outdoor concert activities is authorised to conduct such an activity;
@@ -33,7 +33,7 @@ road transport legislation—see Road Transport (General) Act 1999, section 6.
     (b) a channel formed (whether in whole or in part) by altering or relocating a waterway described in paragraph (a), and includes the stormwater system; or
     (c) a lake, pond, lagoon or marsh (whether formed by geomorphic processes or by works) in which water collects (whether continuously or intermittently);
   and includes the bed that the water in the waterway normally flows over or is covered by and the banks that the water in the waterway normally flows between or is contained by, but does not include land normally not part of the waterway that may be covered from time to time by floodwaters from the waterway.
-\2. Class A activities
+2 Class A activities
 For the purposes of section 42, the following activities are Class A activities:
   (a) the manufacture, sale, storage, supply, transport, use, servicing or disposal of, or other dealing with—
     (i) an ozone depleting or other substance; or
@@ -43,9 +43,15 @@ For the purposes of section 42, the following activities are Class A activities:
   (c) commercial incineration activities primarily conducted for the destruction, by means of thermal oxidation, of wastes (including biological, veterinary, medical, dental, cytotoxic, quarantine, chemical and municipal wastes);
   (d) the conduct of a crematorium for the reduction by means of thermal oxidation of human bodies to cremated remains;
   (e) commercial landfill activities, being the disposal of household or commercial waste under layers of earth;
-  (f) transport activities to which a national environment protection measure made under subsection 13 (1) of the National Environment Protection Council Act 1994 relating to the transport of waste between the Territory and a State or another Territory relates;
+  (ea) the acceptance by a lessee or occupier of land that is in an area identified in—
+    (i) the Territory Plan as 1 of the following,:
+    Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or
+    (ii) the National Capital Plan as 1 of the following:
+    Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland;
+  of more than 100 cubic metres of soil for placement on that land
+  (f) transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies;
   (g) sewage treatment, being an activity involving the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 persons per day, other than an activity involving the recycling of wastewater where there is no discharge to receiving waters;
-  (h) commercial aquaculture, being the propagation or rearing of fish or other freshwater organisms in the course of which supplementary feeding is used;
+  (h) commercial aquaculture, being the propagation or rearing of fish or other aquatic organisms in the course of which supplementary feeding is used;
   (j) the conduct of a stock feedlot, being the holding of 50 or more animals in a yard where the stock are fed by machine or by hand for commercial purposes, but not including the holding of stock for feeding during a drought or other emergency or the holding of stock at an abattoir or saleyard;
   (k) the conduct of stock saleyards with a total holding capacity of greater than 500 animals, being the commercial conduct of yards at which stock are sold or exchanged and including the conduct of associated transport loading facilities;
   (m) woolscouring or wool carbonising activities, being the commercial cleaning or carbonising of wool;
@@ -60,7 +66,7 @@ For the purposes of section 42, the following activities are Class A activities:
     (iii) to conserve biological diversity or ecological integrity;
   (u) the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 of the Commonwealth for pest control or turf management;
   (v) activities involving the storage or production of a petroleum product, including waste oil recovery activities, where the amount stored is greater than 500 cubic metres or the amount produced is greater than 100 tonnes per year.
-\3. Class B activities
+3 Class B activities
 For the purposes of section 42, the following activities are Class B activities:
   (a) the commercial production of alcoholic or non-alcoholic beverages where the amount produced, or to be produced, is greater than 50,000 litres per year;
   (b) the manufacture of things in furnaces or kilns, including bricks, glass, pipes, pottery goods and tiles, where the total amount produced, or to be produced, is greater than 100 tonnes per year;
