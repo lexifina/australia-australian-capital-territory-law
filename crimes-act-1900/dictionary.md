@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -44,7 +44,7 @@ domestic partner includes former domestic partner.
 domestic violence offence means behaviour directed at a relevant person that is or was an offence against—
   (a) the Protection Orders Act 2001, section 34 (which is about contravening protection orders) in relation to a domestic violence order; or
   (b) a provision of this Act mentioned in schedule 1 (which deals with domestic violence crimes); or
-  (c) the Criminal Code, section 103, 104, 106, 107 or 108 (which deal with property offences); or
+  (c) the Criminal Code, section 403, 404, 406, 407 or 408 (which deal with property offences); or
   (d) any of the following provisions of the Road Transport (Safety and Traffic Management) Act 1999:
     (i) section 6 (1) (which is about negligent driving);
     (ii) section 7 (1) (which is about furious, reckless or dangerous driving);
@@ -88,8 +88,9 @@ relevant person, in relation to a person (the original person), means—
   (c) a child of a domestic partner of the original person; or
   (d) someone who normally lives, or normally lived, in the same household as the original person (other than as a tenant or boarder).
 school means—
-  (a) a school or college established or maintained by or on behalf of the Territory; or
-  (b) a school or college registered or provisionally registered under the Education Act 1937.
+  (a) a government or non-government school under the Education Act 2004; or
+  (b) an educational institution conducted by the Canberra Institute of Technology;
+and includes any land or premises that belong to, are occupied by, or are used in relation to, a school.
 senior officer, for part 2A (Industrial manslaughter)—see section 49A.
 serious harm, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 sexual services, for part 5 (Sexual servitude)—see section 78.
