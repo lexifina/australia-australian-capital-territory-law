@@ -1,3 +1,2 @@
-Australian Capital Territory
-family provision act 1969
-An Act to ensure that the Family of a Deceased Person receives adequate Provision out of his or her Estate
+# Family Provision Act 1969
+An Act to ensure that the family of a deceased person receives adequate provision out of his or her estate
