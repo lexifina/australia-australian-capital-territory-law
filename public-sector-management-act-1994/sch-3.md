@@ -13,7 +13,6 @@ designated work group means—
 and, in relation to an employer, means such a group that consists entirely of employees of the employer.
 [3.3] Section 5 (1), new definitions
 insert
-annual report means the annual report (if any) of an administrative unit of the public service or of a Territory instrumentality to the responsible Minister for the administrative unit or the instrumentality relating to the activities, operations, business or affairs of the administrative unit or the instrumentality.
 public employee—see the Public Sector Management Act 1994, section 3.
 Territory instrumentality—see the Public Sector Management Act 1994, section 3.
 [3.4] Duties of employers in relation to employees Section 27 (2) (e)
@@ -259,21 +258,19 @@ shall be taken to be an approved code of practice for this Act.
 [3.25] New sections 91A and 91B
 insert
 ## 91A Certain matters to be included in annual reports
-(1) The annual report in relation to a financial year—
-  (a) of each administrative unit of the public service through which the Territory acts; and
-  (b) of each Territory instrumentality that is required, under the Act or other law by or in accordance with which the instrumentality is established or incorporated, to prepare an annual report of its activities with a view to that report being presented to the Legislative Assembly;
-shall include details of the following matters:
-  (c) the occupational health and safety policy of the administrative unit or instrumentality during the financial year, including details of—
+An annual report of an administrative unit or Territory instrumentality under the Annual Reports (Government Agencies) Act 2004 for a financial year must include details of the following during the year:
+  (a) the occupational health and safety policy of the unit or instrumentality, including details of—
     (i) any agreement made with public employees relating to occupational health and safety; and
     (ii) the establishment of committees to deal with occupational health and safety matters; and
-    (iii) the selection of health and safety representatives; and
-  (d) measures taken during the year to ensure the health, safety and welfare at work of public employees and contractors dealing with the administrative unit or instrumentality; and
-  (e) statistics of any accidents or dangerous occurrences during the year that arose out of the conduct of undertakings by the administrative unit or instrumentality and that required the giving of notice under section 85; and
-  (f) any investigations conducted during the year that relate to undertakings carried on by the employer, including details of all—
-    (i) tests conducted on any plant, substance or thing in the course of such investigations; and
-    (ii) directions given to the employer under section 78 during the year; and
-    (iii) notices given to the relevant employer under sections 76 and 77; and
-  (g) any other matters that are prescribed.
+    (iii) the selection of health and safety representatives;
+  (b) measures taken to ensure the health, safety and welfare at work of public employees and contractors dealing with the unit or instrumentality;
+  (c) statistics of any accidents or dangerous occurrences that arose out of the conduct of undertakings by the unit or instrumentality that required notice to be given under section 85 (Notice of events);
+  (d) any investigations conducted that relate to undertakings carried on by the unit or instrumentality, including details of all—
+    (i) tests conducted on any plant, substance or thing in the course of the investigations; and
+    (ii) directions given under section 78 (Directions not to disturb workplace etc) during the year; and
+    (iii) notices given under section 76 (Improvement notices) or section 77 (Prohibition notices);
+  (e) anything else prescribed under the regulations.
+Note Financial year has an extended meaning in the Annual Reports (Government Agencies) Act 2004.
 ## 91B Institution of proceedings
 (1) Proceedings for an offence against this Act in relation to a matter affecting public employees may be instituted by the commissioner.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act 2001, s 104).
