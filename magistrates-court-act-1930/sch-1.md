@@ -1,34 +1,34 @@
 # Schedule 1
-Form 1 Paragraph 206A (1) (a)
+Form 1 (See par 206A (1) (a))
 Magistrates Court Act 1930
 ## Notice of Proceedings
 In the Magistrates
-Court at Canberra No. of 19
+Court at Canberra No. of 20
 Between (applicant)
 and (respondent)
 To the respondent
-An application in accordance with Part 10 of the Magistrates Court Act 1930 for a restraining order has been made by [name of applicant] against you. A copy of the application is attached. The application has been set down for hearing on 19 at (time) at (place) .
+An application in accordance with Part 10 of the Magistrates Court Act 1930 for a restraining order has been made by [name of applicant] against you. A copy of the application is attached. The application has been set down for hearing on 20 at (time) at (place) .
 If you do not appear in person at the hearing of the application, the court may—
 (a) deal with the application in your absence; or
 (b) issue a warrant for your apprehension to be brought before the court.
-Dated 19 .
+Dated 20 .
 [Signature]
 Registrar of the Magistrates Court
-Form 1A Paragraph 206K (2) (a)
+Form 1A (See par 206K (2) (a))
 Magistrates Court Act 1930
 Restraining Order or
 Interim Restraining Order
-(Heading as in Form 1)
+(Heading as in form 1)
 The court, having heard an application made by [name of applicant] under the Magistrates Court Act 1930 in respect of the conduct [or threatened conduct] of [name of respondent] towards [name of aggrieved person]—
 Now the court this day orders that, for [period]—
 \1. [name of respondent] not engage in the following conduct:
 \2. [name of respondent] comply with the following prohibitions and conditions:
 [specify prohibitions and conditions and any other period or periods for which they are imposed]
-Dated 19 .
+Dated 20 .
 [Signature]
 Registrar of the Magistrates Court
-Note: If a State or another Territory has reciprocal legislation in force, this order may be registered, and enforced, in that State or other Territory without notice of registration being given to the respondent.
-Form 1B Paragraph 206K (2) (b)
+Note If a State or another Territory has reciprocal legislation in force, this order may be registered, and enforced, in that State or other Territory without notice of registration being given to the respondent.
+Form 1B (See par 206K (2) (b))
 Magistrates Court Act 1930
 Order Varying Restraining Order or Interim Restraining Order
 (Heading as in Form 1)
@@ -38,23 +38,23 @@ The court, having heard an application made by [name of applicant] under the Mag
 [specify prohibitions and conditions and any other period or periods for which they are imposed]
 Now the court, on the application of [name of applicant], this day orders that the restraining order [or interim restraining order] be varied as follows:
 [specify details of variation]
-Dated 19 .
+Dated 20 .
 [Signature]
 Registrar of the Magistrates Court
 Form 2
 Information to Ground Search Warrant
 Australian Capital Territory, to wit. | }
-The information of CD, of , in the Territory , made this day of 19 , before the undersigned (a magistrate of or registrar of Magistrates Court of the Territory), who says that the following goods of [him or her], CD, to wit [describe them], were on the day of [or have lately been] feloniously stolen, taken and carried away, from and out of the dwelling house [or as the case may be] of CD situate at , in the Territory, and that he or she, CD, has reasonable cause to suspect, and does suspect that the goods, or part thereof, are concealed in the dwelling house or premises [or as the case may be] in the occupation of AB, situate at , in the Territory.
+The information of CD, of , in the Territory , made this day of 20 , before the undersigned (a magistrate of or registrar of Magistrates Court of the Territory), who says that the following goods of [him or her], CD, to wit [describe them], were on the day of [or have lately been] feloniously stolen, taken and carried away, from and out of the dwelling house [or as the case may be] of CD situate at , in the Territory, and that he or she, CD, has reasonable cause to suspect, and does suspect that the goods, or part thereof, are concealed in the dwelling house or premises [or as the case may be] in the occupation of AB, situate at , in the Territory.
 [Here state grounds of suspicion.]
 Sworn before me the day and year first abovementioned, at , in the Territory.
-JS,
-Magistrate.
+[Signature]
+Magistrate
 Form 3
 Information in all other cases
 Australian Capital Territory, to wit.
-The information of CD, of , in the Territory , laid this day of , 19 , before the undersigned, a magistrate of the Territory, who says that on the day of , 19 , at (etc stating the offence or subject matter).
+The information of CD, of , in the Territory , laid this day of , 20 , before the undersigned, a magistrate of the Territory, who says that on the day of , 20 , at (etc stating the offence or subject matter).
 Sworn (or laid) before me on the day of the year firstmentioned, at , in the Territory.
-JS
+[Signature]
 Magistrate
 The causes of complaint in civil cases may be stated as follows:
 For that you assaulted AB by [state nature of assault].
@@ -78,48 +78,49 @@ For money due to AB on account stated.
 For that certain of your cattle, to wit, (11 cows), trespassed on the land of AB
 FORM 4
 Certificate of indictment being found
-I HEREBY certify that at the sittings of the Supreme Court, held at in the on the day of 19 , an information was presented against AB, therein described as AB, late of , in the Territory , for that he or she, on the day of 19 , at [etc stating shortly the offence], and that AB did not appear or plead to the information.
-Dated this day of , 19 .
-Registrar.
+I HEREBY certify that at the sittings of the Supreme Court, held at in the on the day of 20 , an information was presented against AB, therein described as AB, late of , in the Territory , for that he or she, on the day of 20 , at [etc stating shortly the offence], and that AB did not appear or plead to the information.
+Dated this day of , 20 .
+[Signature]
+Registrar of the Magistrates Court
 SUMMONSES
 FORM 5
 Summons to the defendant upon information
 In the Magistrates Court at Canberra.
 To AB, of , in the Australian Capital Territory.
-WHEREAS an information has this day been laid before the undersigned (a magistrate of or registrar of the Magistrates Court of the Territory), that you, on the day of 19 , at [here state shortly the matter of the information]. These are therefore to command you, in the Sovereign’s name, to appear at at in the Territory, on the day of 19 , at o’clock in the forenoon, before the court, to answer the information, and to be further dealt with according to law.
-Given under my hand, at in the Territory, this day of 19 .
-JS,
-Magistrate or registrar of Magistrates Court.
+WHEREAS an information has this day been laid before the undersigned (a magistrate of or registrar of the Magistrates Court of the Territory), that you, on the day of 20 , at [here state shortly the matter of the information]. These are therefore to command you, in the Sovereign’s name, to appear at at in the Territory, on the day of 20 , at before the court, to answer the information, and to be further dealt with according to law.
+Given under my hand, at in the Territory, this day of 20 .
+[Signature]
+Magistrate or Registrar of Magistrates Court
 Affidavit of service [to be endorsed on summons].
 AB of being duly sworn saith as follows:
-I am a of Police stationed at
-On the day of 19 , I personally served the withinnamed CD with the within summons by delivering a copy of it to him or her personally and at the same time showing him or her the original summons.
+I am a of police stationed at
+On the day of 20 , I personally served the withinnamed CD with the within summons by delivering a copy of it to him or her personally and at the same time showing him or her the original summons.
 Sworn before me [etc as in information].
 Form 7
 Summons to a person to give evidence [and produce documents]
 In the Magistrates Court at Canberra.
 AB, informant
 CD, defendant.
-Date of information 19 .
+Date of information 20 .
 Nature of information [state shortly].
 To , of , in the Australian Capital Territory.
-THESE are to require you to appear on the day of 19 , at o’clock in the noon, at in the Territory, before the court to give such evidence as you know concerning the matter of the abovementioned information. [Where documents are required to be produced add and also to bring with you and produce at the time and place aforesaid for examination at the hearing thereof the following accounts, papers, books, or other documents, that is to say: or such of them as are in your possession or control].
-Dated at the day of , 19 .
-JS,
-Magistrate or registrar of Magistrates Court.
+THESE are to require you to appear on the day of 19 , at at in the Territory, before the court to give such evidence as you know concerning the matter of the abovementioned information. [Where documents are required to be produced add and also to bring with you and produce at the time and place aforesaid for examination at the hearing thereof the following accounts, papers, books, or other documents, that is to say: or such of them as are in your possession or control].
+Dated at the day of , 20 .
+[Signature]
+Magistrate or Registrar of Magistrates Court
 Form 8
 Summons to a person to produce documents
 In the Magistrates Court at Canberra.
 AB, informant.
 CD, defendant.
-Date of information 19 .
+Date of information 20 .
 Nature of information [state shortly].
 To , of , in the Australian Capital Territory.
-THESE are to require you to appear on the day of 19 , at o’clock in the noon, at in the Territory, before the court and to bring with you and produce for examination at the hearing of the abovementioned information the following accounts, papers, books, or other documents, that is to say: or such of them as are in your possession or control.
-Dated at the day of , 19 .
-JS,
-Magistrate or registrar of Magistrates Court.
-FORM 9 Paragraphs 60A (2) (b) and 62 (2) (a)
+THESE are to require you to appear on the day of 20 , at in the Territory, before the court and to bring with you and produce for examination at the hearing of the abovementioned information the following accounts, papers, books, or other documents, that is to say: or such of them as are in your possession or control.
+Dated at the day of , 20 .
+[Signature]
+Magistrate or Registrar of Magistrates Court
+FORM 9 (See pars 60A (2) (b) and 62 (2) (a))
 magistrates court
 Australian capital territory
 UNDERTAKING TO ATTEND AS A WITNESS
@@ -128,17 +129,17 @@ Court Ref: ...........
 File No: ...........
 [name] ..................................................
 [address] ..................................................
-...................................P/C......... Date of birth: ..... /....... /19..... M/F
+...................................P/C......... Date of birth: ..... /....... /20..... M/F
 is required to attend the Magistrates Court to give evidence in the matter
 of .......................................................................
 at .......................................................................
-on [date] ...... / ..... /19.... at [time] ............... am
+on [date] ...... / ..... /20.... at [time] ............... am
 [signed] ...............................................................
-on [date] ...... / ..... / 19.....
+on [date] ...... / ..... / 20.....
 Informant/registrar
 Do not detach
 To be completed by the person requested or summoned to attend as a witness at a hearing in the Magistrates Court and to be returned to the informant/the Magistrates Court in the attached stamped and addressed envelope by
-.......... / ............. / 19.......
+.......... / ............. / 20.......
 failure to return this undertaking by the above date may result in a warrant being issued for your arrest
 I [name] ..................................................
 [address] ..................................................
@@ -146,11 +147,11 @@ I [name] ..................................................
 will attend the Magistrates Court to give evidence in the matter
 of .......................................................................
 at .......................................................................
-on [date] ..... / ..... /19..... at [time] ............... a.m.
-[signed] ............................................................... on [date] ...... /...... / 19.....
-NB A form for the claim for reimbursement of the reasonable costs and expenses incurred by you in appearing as a witness is attached. Please complete the form and present it to the court registry counter following your appearance as a witness.
-FORM 10 Paragraphs 60A (2) (c) and 62 (2) (b)
-Subsections 62A (1) and 67 (1A)
+on [date] ..... / ..... /20..... at [time] ............... a.m.
+[signed] ............................................................... on [date] ...... /...... / 20.....
+Note A form for the claim for reimbursement of the reasonable costs and expenses incurred by you in appearing as a witness is attached. Please complete the form and present it to the court registry counter following your appearance as a witness.
+FORM 10 (See pars 60A (2) (c) and 62 (2) (b)
+See ss 62A (1) and 67 (1A))
 magistrates court
 Australian capital territory
 CLAIM FOR EXPENSES BY WITNESS
@@ -163,79 +164,78 @@ by [means of travel] .......................................
 [number of journeys] .....................................
 and claim the reasonable expenses of travel to give evidence of
 $ ....................... Receipts /tickets attached
-[signed]........................................................ [date]...... /...... / 19.....
+[signed]........................................................ [date]...... /...... / 20.....
 RECEIPT
 I have received the sum of $..................... being the expenses of travel to give evidence.
-[signed]........................................................ [date] ..... /...... / 19.....
+[signed]........................................................ [date] ..... /...... / 20.....
 Warrants
 Form 12
 Warrant in the first instance to apprehend a person charged with an offence
 In the Magistrates Court at Canberra.
 To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
-Whereas an information has this day been laid upon oath before the undersigned, the registrar of Magistrates Court or a magistrate of the Territory, for that AB on the day of 19 , at [here state shortly the offence]:
+Whereas an information has this day been laid upon oath before the undersigned, the registrar of Magistrates Court or a magistrate of the Territory, for that AB on the day of 20 , at [here state shortly the offence]:
 These are therefore to command you, in the Sovereign’s name, forthwith to apprehend AB and cause [him or her] to be brought before a magistrate of the Territory to answer to the information, and be further dealt with according to law.
-Given under my hand, at Canberra, in the Territory, this day of 19 .
-JS,
-Registrar of Magistrates Court or Magistrate.
+Given under my hand, at Canberra, in the Territory, this day of 20 .
+[Signature]
+Registrar of Magistrates Court or Magistrate
 Form 13
 Search warrant
 In the Magistrates Court at Canberra.
-To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other Police Officers in the Territory.
-Whereas an information has this day been laid upon oath before the undersigned, the registrar of Magistrates Court, or a magistrate of the Territory, for that AB, on the day of 19 , at [here state shortly the offence]:
+To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
+Whereas an information has this day been laid upon oath before the undersigned, the registrar of Magistrates Court, or a magistrate of the Territory, for that AB, on the day of 20 , at [here state shortly the offence]:
 These are therefore to command you, in the Sovereign’s name, forthwith with proper assistance, to enter the dwelling house and premises [or as the case may be] of AB [in the day time], and there diligently search for the goods; and if the same, or any part thereof, are found upon search, that you attach the goods so found [and apprehend AB, and bring (him or her) before the court to give an account of how he or she came by the goods, and to be further dealt with according to law].
-Given under my hand, at Canberra, in the Territory, this day of 19 .
-JS,
-Registrar of Magistrates Court or Magistrate.
+Given under my hand, at Canberra, in the Territory, this day of 20 .
+[Signature]
+Registrar of Magistrates Court or Magistrate
 Form 14
 Warrant to apprehend defendant where the summons is disobeyed
 In the Magistrates Court at Canberra.
 To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
-Whereas on the day of , 19 , an information was laid that AB [etc as in the summons], and a summons was then issued to AB, commanding [him or her] to appear at at in the Territory, on the day of 19 , at o’clock in the forenoon, before the court, to answer the information: And whereas AB neglected to appear at the time and place appointed by the summons, and it has been proved upon oath that the summons was duly served upon AB: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend AB and cause [him or her] to be brought before the court to answer the information, and to be further dealt with according to law.
-Given under my hand, at Canberra, in the Territory, this day of , 19 .
-JS,
-Registrar of Magistrates Court or Magistrate.
+Whereas on the day of , 20 , an information was laid that AB [etc as in the summons], and a summons was then issued to AB, commanding [him or her] to appear at at in the Territory, on the day of 20 , at before the court, to answer the information: And whereas AB neglected to appear at the time and place appointed by the summons, and it has been proved upon oath that the summons was duly served upon AB: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend AB and cause [him or her] to be brought before the court to answer the information, and to be further dealt with according to law.
+Given under my hand, at Canberra, in the Territory, this day of , 20 .
+[Signature]
+Registrar of Magistrates Court or Magistrate
 Form 14A
 Warrant to apprehend defendant where a notice under section 89A is disobeyed
 In the Magistrates Court at Canberra.
 To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
-Whereas on the day of , 19 , an information was laid that AB, [etc as in the summons or warrant]: and whereas AB was excused from attendance under subsection 89A (1): and whereas a notice under subsection 89A (4) [or 89A (5)] was served on AB requiring AB to attend on the day of 19 , at o’clock in the noon, before the Magistrates Court: and whereas it has been proved on oath that the notice was duly served on AB: and whereas AB neglected to attend at the time and place specified in the notice: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend AB and cause [him or her] to be brought before the Magistrates Court to be dealt with according to law.
-Given under my hand, at Canberra, in the Territory, this day of , 19 .
-JS,
-Registrar of Magistrates Court or Magistrate.
+Whereas on the day of , 20 , an information was laid that AB, [etc as in the summons or warrant]: and whereas AB was excused from attendance under subsection 89A (1): and whereas a notice under subsection 89A (4) [or 89A (5)] was served on AB requiring AB to attend on the day of 20 , at before the Magistrates Court: and whereas it has been proved on oath that the notice was duly served on AB: and whereas AB neglected to attend at the time and place specified in the notice: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend AB and cause [him or her] to be brought before the Magistrates Court to be dealt with according to law.
+Given under my hand, at Canberra, in the Territory, this day of , 20 .
+[Signature]
+Registrar of Magistrates Court or Magistrate
 Form 16
 Warrant where a witness has not obeyed a summons to attend the examination of a person charged with an indictable offence or the hearing of a charge punishable on summary conviction
 In the Magistrates Court at Canberra.
 To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
-Whereas on the day of , 19 , an information was laid that AB [etc as in the summons or warrant], and a summons was duly issued to EF of in the Territory , requiring [him or her] to appear on the day of 19 , at , in the Territory, before the court, to testify what [he or she] knew concerning the matter of the information: And whereas proof has this day been made upon oath that such summons was duly served upon EF: And whereas EF neglected to appear at the time and place appointed by the summons, and no just excuse has been offered for such neglect: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend EF and cause [him or her] to be brought before the court at Canberra, in the Territory, to testify what [he or she] knows concerning the matter of the information.
-Given under my hand, at , in the Territory, this day of 19 .
-JS,
-Registrar of Magistrates Court or Magistrate.
+Whereas on the day of , 20 , an information was laid that AB [etc as in the summons or warrant], and a summons was duly issued to EF of in the Territory , requiring [him or her] to appear on the day of 20 , at , in the Territory, before the court, to testify what [he or she] knew concerning the matter of the information: And whereas proof has this day been made upon oath that such summons was duly served upon EF: And whereas EF neglected to appear at the time and place appointed by the summons, and no just excuse has been offered for such neglect: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend EF and cause [him or her] to be brought before the court at Canberra, in the Territory, to testify what [he or she] knows concerning the matter of the information.
+Given under my hand, at , in the Territory, this day of 20 .
+[Signature]
+Registrar of Magistrates Court or Magistrate
 Form 17
 Warrant for a witness in the first instance
 In the Magistrates Court at Canberra.
 To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
-Whereas on the day of , 19 , at , an information was laid that AB [etc as in the summons or warrant] and it being made to appear before me upon oath that EF of in the Territory [ ] is likely to give material evidence on behalf of the prosecution [or as the case may be] in the matter, and it is probable that EF will not attend to give evidence without being compelled so to do: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend EF and cause [him or her] to be brought before the court at Canberra, in the Territory, to testify what [he or she] knows concerning the matter of the information.
-Given under my hand, at , in the Territory, this day of 19 .
-JS,
-Registrar of Magistrates Court or Magistrate.
+Whereas on the day of , 20 , at , an information was laid that AB [etc as in the summons or warrant] and it being made to appear before me upon oath that EF of in the Territory [ ] is likely to give material evidence on behalf of the prosecution [or as the case may be] in the matter, and it is probable that EF will not attend to give evidence without being compelled so to do: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend EF and cause [him or her] to be brought before the court at Canberra, in the Territory, to testify what [he or she] knows concerning the matter of the information.
+Given under my hand, at , in the Territory, this day of 20 .
+[Signature]
+Registrar of Magistrates Court or Magistrate
 Form 18
 Warrant to apprehend person indicted
 In the Magistrates Court at Canberra.
 To the Commissioner of Police at Canberra, in the Australian Capital Territory, and to all other police officers in the Territory.
 Whereas it has been certified by the registrar of the Supreme Court that [etc stating the certificate (Form 4)]: These are therefore to command you, in the Sovereign’s name, forthwith to apprehend AB and cause [him or her] to be brought before the Magistrates Court to be dealt with according to law.
-Given under my hand, at Canberra, in the Territory, this day of 19 .
-JS,
-Magistrate.
-remands
+Given under my hand, at Canberra, in the Territory, this day of 20 .
+[Signature]
+Magistrate
 FORM 19
-WARRANT of REMAND OR COMMITMENT
+Warrant of remand or commitment
 Authority and directions
 To [all police officers/all escorts]*.
 You must take, safely convey, and deliver the person named in this warrant to the custody of the administrator.
 To the administrator and any other person into whose custody the person is transferred:
 You must receive the person named in this warrant into custody and safely keep that person—
-(i) for the period specified, or in the circumstances described, in this warrant or such earlier day as may be lawfully ordered; or
-(ii) until the person is otherwise removed or discharged from custody by due course of law.
+  (i) for the period specified, or in the circumstances described, in this warrant or such earlier day as may be lawfully ordered; or
+  (ii) until the person is otherwise removed or discharged from custody by due course of law.
 Personal details of person to be remanded or committed
 Name:
 Address:
@@ -246,150 +246,146 @@ Description of the charge(s):
 Who filed the charge(s)?
 History of defendant/witness*
 The defendant /witness*—
-has been committed for trial/sentence* before the Supreme Court.*
-has been sentenced to a term of imprisonment.
-has been remanded in custody.
-has been committed for safe custody.
-is already in custody and has been charged with another offence.
-refused to enter into a recognisance to give evidence.
-has refused to take an oath or make an affirmation to testify as a witness.
-having sworn an oath or made an affirmation, refused to answer a question without offering any just excuse.
-has refused or disobeyed an order of the court.
+  ❑ has been committed for trial/sentence* before the Supreme Court.*
+  ❑ has been sentenced to a term of imprisonment.
+  ❑ has been remanded in custody.
+  ❑ has been committed for safe custody.
+  ❑ is already in custody and has been charged with another offence.
+  ❑ refused to enter into a recognisance to give evidence.
+  ❑ has refused to take an oath or make an affirmation to testify as a witness.
+  ❑ having sworn an oath or made an affirmation, refused to answer a question without offering any just excuse.
+  ❑ has refused or disobeyed an order of the court.
 Reason for custody
-The proceeding has been adjourned and the defendant/ witness* is to be brought before the Magistrates Court/Supreme Court* at [location] at [hour] am/pm* on [date].
-The defendant/witness* has been committed for a period of [number] days.
-The defendant has been sentenced to imprisonment for [period of imprisonment] with a nonparole period of [nonparole period].
-The defendant is to be released on serving a term of imprisonment of [period of imprisonment] and entering into a recognisance the conditions of which are endorsed below.
-Endorsement
-The accused did not apply for bail.
-The defendant’s application for bail was refused. The reasons for refusal are:
-Bail was granted and the defendant is to be released from custody when he or she signs an undertaking agreeing to the conditions which are endorsed below:
-The defendant is to be released on serving a term of imprisonment of [period of imprisonment] and on entering into a recognisance on the following conditions:
-This warrant is issued by the court for the purposes of the Removal of Prisoners Act 1968 and the Prisons Act 1952 of New South Wales.
+  ❑ The proceeding has been adjourned and the defendant/ witness* is to be brought before the Magistrates Court/Supreme Court* at [location] at [hour] am/pm* on [date].
+  ❑ The defendant/witness* has been committed for a period of [number] days.
+  ❑ The defendant has been sentenced to imprisonment for [period of imprisonment] with a nonparole period of [nonparole period].
+  ❑ The defendant is to be released on serving a term of imprisonment of [period of imprisonment] and entering into a recognisance the conditions of which are endorsed below.
+  Endorsement
+  ❑ The accused did not apply for bail.
+  ❑ The defendant’s application for bail was refused. The reasons for refusal are:
+  ❑ Bail was granted and the defendant is to be released from custody when he or she signs an undertaking agreeing to the conditions which are endorsed below:
+  ❑ The defendant is to be released on serving a term of imprisonment of [period of imprisonment] and on entering into a recognisance on the following conditions:
+This warrant is issued by the court for the purposes of the Removal of Prisoners Act 1968 and the Prisons Act 1952 (NSW).
 The accused was legally represented by [name of legal representative] whose phone number is [phone number].
 SIGNED AT CANBERRA ON THE [day] DAY OF [month and year] BY
 MAGISTRATE/REGISTRAR*
-\*Delete whichever is inapplicable.
-recognisances etc.
+  \*Delete whichever is inapplicable.
 Form 21
 Certificate of consent to bail by the committing magistrate indorsed on the commitment
 I hereby certify that I consent to the withinnamed AB being bailed by recognisance, himself or herself in the sum of and [2] sureties in the sum of [each] (to be included where an order is made under section 248A) And the withinnamed AB himself or herself in the sum of to comply with (here insert terms of order under section 248A).
-JS,
-Magistrate.
+[Signature]
+Magistrate
 Form 22
 The like on a separate paper
-Whereas AB was, on the day of , 19 , committed by [me] to the *gaol/remand centre at , in the , charged with [etc naming the offence shortly]:
+Whereas AB was, on the day of , 20 , committed by [me] to the *gaol/remand centre at , in the , charged with [etc naming the offence shortly]:
 I hereby certify that I consent to AB being bailed by recognisance, himself or herself in the sum of and [2] sureties in the sum of [each] (to be included where an order is made under section 248A)
 And the withinnamed AB himself or herself in the sum of to comply with (here insert terms of order under section 248A).
-Dated this day of , 19 .
-JS,
-Magistrate.
+Dated this day of , 20 .
+[Signature]
+Magistrate
 \*Strike out whichever is inapplicable.
 Form 30
 Recognisance to give evidence
 Australian Capital Territory, to wit. | }
-BE it remembered that on the day of , 19 , CD, of , in the Territory, , came before [me] a magistrate of the Territory, and acknowledged [himself or herself] to owe to the Crown the sum of to be made and levied of [his or her] goods and chattels, lands, and tenements, to the use of the Crown if CD shall fail in the conditions endorsed.
+BE it remembered that on the day of , 20 , CD, of , in the Territory, , came before [me] a magistrate of the Territory, and acknowledged [himself or herself] to owe to the Crown the sum of to be made and levied of [his or her] goods and chattels, lands, and tenements, to the use of the Crown if CD shall fail in the conditions endorsed.
 Taken and acknowledged before [me] the day and year first abovementioned at Canberra, in the Territory.
-JS,
-Magistrate.
+[Signature]
+Magistrate
 Condition
-THE condition of the withinwritten recognisance is such that whereas AB, was this day charged before the Magistrates Court at Canberra, for that [etc as in the caption of the depositions]. If therefore CD shall appear at the next sittings of the Supreme Court, to be holden at in the , on , the day of , 19 , and there give evidence upon an information to be then preferred against AB for the offence aforesaid, then the recognisance to be void, or else to stand in full force and effect.
+THE condition of the withinwritten recognisance is such that whereas AB, was this day charged before the Magistrates Court at Canberra, for that [etc as in the caption of the depositions]. If therefore CD shall appear at the next sittings of the Supreme Court, to be holden at in the , on , the day of , 20 , and there give evidence upon an information to be then preferred against AB for the offence aforesaid, then the recognisance to be void, or else to stand in full force and effect.
 Form 31
 Notices of recognisance to be given to the witnesses
 Australian Capital Territory, to wit. | }
 TAKE notice that you, CD, of , in the Territory, are bound in the sum of , to appear at the next [as in the condition], and then and there to give evidence against AB, and unless you then appear and give evidence accordingly the recognisance entered into by you will be forthwith put in suit and enforced against you.
-Dated this day of , 19 .
-JS,
-Magistrate.
+Dated this day of , 20 .
+[Signature]
+Magistrate
 Form 34
 Statement of the defendant
 Australian Capital Territory, to wit. | }
-AB stands charged before the Magistrates Court, at Canberra, this day of , 19 , that [he or she] [describe the offence as in a warrant of commitment], and the charge being read to AB and the witnesses for the prosecution, CD and EF, being severally examined AB is now addressed by the court as follows:
+AB stands charged before the Magistrates Court, at Canberra, this day of , 20 , that [he or she] [describe the offence as in a warrant of commitment], and the charge being read to AB and the witnesses for the prosecution, CD and EF, being severally examined AB is now addressed by the court as follows:
 ‘Do you wish to say anything in answer to the charge? You are not obliged to say anything unless you desire to do so but whatever you say may be given in evidence against you upon your trial. You are clearly to understand that you have nothing to hope from any promise or favour and nothing to fear from any threat which may have been held out to you to induce you to make any admission or confession of your guilt; but whatever you now say may be given in evidence against you upon your trial, notwithstanding any such promise or threat.’
 Whereupon AB says as follows: [Here state whatever the prisoner may say, and in his or her very words as nearly as possible; get him or her to sign it if he or she will.]
+[Signature]
 AB
 Taken before the court at Canberra, in the Territory, the day and year first abovementioned.
-JS,
-Magistrate.
+[Signature]
+Magistrate
 Form 36
 Conviction for a penalty to be levied by execution
 Australian Capital Territory, to wit. | }
-BE it remembered that on the day of , 19 , at Canberra, in the Territory, AB of , in the Territory [ ], is convicted before the Magistrates Court at Canberra, that AB [etc stating the offence and the time and place when and where it was committed], and AB was adjudged for [his or her] offence to forfeit and pay the sum of [stating the penalty and the compensation, if any] to be paid and applied according to law, and also to pay to CD the sum of for [his or her] costs, and if the several sums are not paid forthwith [or on or before next] then it is hereby ordered that the sums be levied by execution against the goods and chattels of AB
+BE it remembered that on the day of , 20 , at Canberra, in the Territory, AB of , in the Territory [ ], is convicted before the Magistrates Court at Canberra, that AB [etc stating the offence and the time and place when and where it was committed], and AB was adjudged for [his or her] offence to forfeit and pay the sum of [stating the penalty and the compensation, if any] to be paid and applied according to law, and also to pay to CD the sum of for [his or her] costs, and if the several sums are not paid forthwith [or on or before next] then it is hereby ordered that the sums be levied by execution against the goods and chattels of AB
 Given under my hand, at Canberra, in the Territory, the day and year first abovementioned.
-JS
-Magistrate.
+[Signature]
+Magistrate
 Form 38
 Conviction when the punishment is imprisonment, and costs are awarded to be levied by execution
 Australian Capital Territory, to wit. | }
-BE it remembered that on the day of , 19 , in the Territory, AB of , in the Territory, , is convicted before the Magistrates Court at Canberra, that AB [etc stating the offence and the time and place when and where it was committed], and AB was adjudged for [his or her] offence to be imprisoned in the gaol at , in the , [there to be kept to hard labour] for the space of , and AB was also adjudged to pay to CD the sum of for [his or her] costs; and if the sum for costs is not paid forthwith [or on or before next] then it is hereby ordered that the sum be levied by execution against the goods and chattels of AB
+BE it remembered that on the day of , 20 , in the Territory, AB of , in the Territory, , is convicted before the Magistrates Court at Canberra, that AB [etc stating the offence and the time and place when and where it was committed], and AB was adjudged for [his or her] offence to be imprisoned in the gaol at , in the , [there to be kept to hard labour] for the space of , and AB was also adjudged to pay to CD the sum of for [his or her] costs; and if the sum for costs is not paid forthwith [or on or before next] then it is hereby ordered that the sum be levied by execution against the goods and chattels of AB
 Given under my hand, at Canberra, in the Territory, the day and year first abovementioned.
-JS,
-Magistrate.
-conviction for indictable offence
+[Signature]
+Magistrate
 Form 39
 Summary conviction
 Australian Capital Territory, to wit. | }
-BE it remembered that on the day of , 19 , at Canberra, in the Territory, AB, being charged before the Magistrates Court, at Canberra, that AB [etc stating the offence and the time and place when and where committed], and the age of AB on the [date of offence] having in the opinion of the court not exceeded 16 [or 12] years [or and the value of the goods not exceeding $4 (or as the case may be)] and AB [or CD, the parent (or guardian) of AB] consenting to the court deciding upon the charge summarily, AB is therefore convicted before the court of the offence, and AB is adjudged for [his or her] offence to be imprisoned in the gaol at , in the , [there to be kept to hard labour] for the term of .
+BE it remembered that on the day of , 20 , at Canberra, in the Territory, AB, being charged before the Magistrates Court, at Canberra, that AB [etc stating the offence and the time and place when and where committed], and the age of AB on the [date of offence] having in the opinion of the court not exceeded 16 [or 12] years [or and the value of the goods not exceeding $4 (or as the case may be)] and AB [or CD, the parent (or guardian) of AB] consenting to the court deciding upon the charge summarily, AB is therefore convicted before the court of the offence, and AB is adjudged for [his or her] offence to be imprisoned in the gaol at , in the , [there to be kept to hard labour] for the term of .
 Given under my hand at Canberra, in the Territory, the day and year first abovementioned.
-JS,
-Magistrate.
+[Signature]
+Magistrate
 Form 40
 Summary conviction on confession
 Australian Capital Territory, to wit. | }
-BE it remembered that on the day of , 19 , at Canberra, in the Territory, AB being charged before the Magistrates Court, at Canberra, that [he or she] AB [etc stating the offence and the time and place when and where committed] and AB, pleading guilty to such charge [he or she] is thereupon convicted before the court of the offence, and AB is adjudged for [his or her] offence to be imprisoned in the gaol at , in the [there to be kept to hard labour] for the term of .
+BE it remembered that on the day of , 20 , at Canberra, in the Territory, AB being charged before the Magistrates Court, at Canberra, that [he or she] AB [etc stating the offence and the time and place when and where committed] and AB, pleading guilty to such charge [he or she] is thereupon convicted before the court of the offence, and AB is adjudged for [his or her] offence to be imprisoned in the gaol at , in the [there to be kept to hard labour] for the term of .
 Given under my hand at Canberra, in the Territory, the day and year first abovementioned.
-JS,
-Magistrate.
-Order And Certificates Of Dismissal
+[Signature]
+Magistrate
 Form 41
 Order of dismissal of an information
 In the Magistrates Court at Canberra.
 AB, informant.
 CD, defendant.
-Date of information 19 .
+Date of information 20 .
 Nature of information [state shortly].
-BE it remembered that on the day of 19, the abovementioned information was laid before the court for that [etc as in the summons to the defendant] and now at this day, to wit, on the day of at in the Australian Capital Territory, both the parties having appeared in order that the information should be heard and determined [or CD having appeared before the court, but AB, although duly called not having appeared] whereupon the matter of the information being duly considered it appears to this court that the information is not proved and the same is hereby dismissed and it is adjudged that AB do pay to CD the sum of for [his or her] costs incurred by [him or her] in [his or her] defence in this behalf, and if the sum for costs is not paid [forthwith or on or before ] it is ordered that the same be levied by distress and the sale of the goods and chattels, money, Australian notes, bank notes, cheques, bills of exchange, promissory notes, bonds, specialties, or securities of money of AB
-Dated at Canberra the day of , 19 .
-JS,
-Magistrate.
+BE it remembered that on the day of 20, the abovementioned information was laid before the court for that [etc as in the summons to the defendant] and now at this day, to wit, on the day of at in the Australian Capital Territory, both the parties having appeared in order that the information should be heard and determined [or CD having appeared before the court, but AB, although duly called not having appeared] whereupon the matter of the information being duly considered it appears to this court that the information is not proved and the same is hereby dismissed and it is adjudged that AB do pay to CD the sum of for [his or her] costs incurred by [him or her] in [his or her] defence in this behalf, and if the sum for costs is not paid [forthwith or on or before ] it is ordered that the same be levied by distress and the sale of the goods and chattels, money, Australian notes, bank notes, cheques, bills of exchange, promissory notes, bonds, specialties, or securities of money of AB
+Dated at Canberra the day of , 20 .
+[Signature]
+Magistrate
 Form 42
 Certificate of dismissal
 Australian Capital Territory, to wit. | }
-I, the undersigned, a magistrate of the Territory, hereby certify that on the day of , 19 , at , in the Territory, AB was charged before the Magistrates Court, at Canberra, AB, [etc stating the offences and the time and place when and where alleged to have been committed] and that the court thereupon dismissed the information.
-Given under my hand, at Canberra, in the Territory, this day of , 19 .
-JS,
-Magistrate.
+I, the undersigned, a magistrate of the Territory, hereby certify that on the day of , 20 , at , in the Territory, AB was charged before the Magistrates Court, at Canberra, AB, [etc stating the offences and the time and place when and where alleged to have been committed] and that the court thereupon dismissed the information.
+Given under my hand, at Canberra, in the Territory, this day of , 20 .
+[Signature]
+Magistrate
 Form 43
 Certificate of dismissal on summary hearing of indictable offence
 Australian Capital Territory, to wit. | }
-I, the undersigned, a magistrate of the Territory, hereby certify that on the day of , 19 , at Canberra, in the Territory, AB, charged before the Magistrates Court, at Canberra, that [stating the offence charged, and the time and place when and where committed, etc as in Form 39 to the asterisk*], the information is thereupon dismissed.
-Given under my hand, at Canberra, in the Territory, this day of , 19 .
-JS,
-Magistrate.
+I, the undersigned, a magistrate of the Territory, hereby certify that on the day of , 20 , at Canberra, in the Territory, AB, charged before the Magistrates Court, at Canberra, that [stating the offence charged, and the time and place when and where committed, etc as in form 39 to the asterisk*], the information is thereupon dismissed.
+Given under my hand, at Canberra, in the Territory, this day of , 20 .
+[Signature]
+Magistrate
 Orders
 Form 47
 Order for any matter where the disobeying of it is punishable with imprisonment
 Australian Capital Territory, to wit. | }
-BE it remembered that on the day of , 19 , information was laid before the Magistrates Court, at Canberra, that [stating the facts entitling the complainant to the order, with the time and place when they occurred], and on the day of , at Canberra, in the Territory, having heard the information, the court adjudged AB to [here state the matter required to be done], and if upon a copy of the minute of this order being served upon AB, either personally or by leaving the same for [him or her] at [his or her] last-known or usual place of abode [he or she] shall neglect or refuse to obey the same it is adjudged that AB be imprisoned in the gaol at , in the [there to be kept to hard labour] for the term of [unless the order is sooner obeyed, if the Act authorise this], and it is also adjudged that AB pay to CD the sum of for costs, and if the sum is not paid forthwith [or on or before next], it is ordered that the same be levied by execution against the goods and chattels of AB
-Given under my hand, at Canberra, in the Territory, this day of 19 .
-JS,
-Magistrate.
+BE it remembered that on the day of , 20 , information was laid before the Magistrates Court, at Canberra, that [stating the facts entitling the complainant to the order, with the time and place when they occurred], and on the day of , at Canberra, in the Territory, having heard the information, the court adjudged AB to [here state the matter required to be done], and if upon a copy of the minute of this order being served upon AB, either personally or by leaving the same for [him or her] at [his or her] last-known or usual place of abode [he or she] shall neglect or refuse to obey the same it is adjudged that AB be imprisoned in the gaol at , in the [there to be kept to hard labour] for the term of [unless the order is sooner obeyed, if the Act authorise this], and it is also adjudged that AB pay to CD the sum of for costs, and if the sum is not paid forthwith [or on or before next], it is ordered that the same be levied by execution against the goods and chattels of AB
+Given under my hand, at Canberra, in the Territory, this day of 20 .
+[Signature]
+Magistrate
 Form 48
 Order for payment of compensation and costs where information brought or made in the wrong court
 In the Magistrates Court, at Canberra.
 AB, informant.
 CD, defendant.
-Date of information 19 .
+Date of information 20 .
 Nature of information [state shortly].
 BE it remembered that AB has now here vexatiously and oppressively brought CD before this court to answer a certain information of AB there now being a place at which a Magistrates Court is held more easy of access than this place, not only from the place of abode of CD but also from the place where the subject matter of the information arose, and now at this day [conclude as in ordinary cases].
-JS,
-Magistrate.
-execution and imprisonment
-gaoler’s receipt
+[Signature]
+Magistrate
 Form 76
 \*Gaoler’s/superintendent’s receipt for the prisoner
 I HEREBY certify that I have received from WT, [police officer/escort]* of Canberra, in the Australian Capital Territory, the body of AB in good health [or as the case may be], together with a warrant under the hand of JS, a magistrate of the Territory.
-PK,
+[Signature]
 \*Keeper of the gaol/
 superintendent of the Remand Centre.
 \*Strike out whichever is inapplicable
