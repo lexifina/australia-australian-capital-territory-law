@@ -1,5 +1,12 @@
 # Dictionary
 (see s 3)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· administrative appeals tribunal
+· function
+· Supreme Court
+· Territory owned corporation
+· the Territory.
 administrative fund means a fund established by a body corporate to meet recurrent and capital expenditure of the body corporate.
 basic scheme, for part 12 (Termination of community title schemes)—see section 87.
 body corporate means a body corporate created under this Act for a community title scheme.

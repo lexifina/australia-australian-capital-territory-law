@@ -7,7 +7,7 @@
 ## Part 7 Enforcement of schemes
 ## Part 8 Bodies corporate
 ### Division 8.1 Establishment of bodies corporate
-### Division 8.2 Functions, duties and powers of bodies corporate
+### Division 8.2 Functions of bodies corporate
 ### Division 8.3 Membership and general meetings
 ### Division 8.4 Management
 ### Division 8.5 By-laws
