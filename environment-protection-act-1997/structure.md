@@ -1,6 +1,6 @@
 ## Part 1 Preliminary
 ## Part 2 Administration
-### Division 2.1 Environment Management Authority
+### Division 2.1 Environment Protection Authority
 ### Division 2.2 Public inspection of documents
 ### Division 2.3 Register of contaminated sites
 ## Part 3 Environmental duties
