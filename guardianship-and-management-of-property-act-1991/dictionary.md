@@ -3,6 +3,7 @@
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · appoint
+· domestic partner (see s 169)
 · exercise
 · function
 · Magistrates Court.
@@ -45,6 +46,5 @@ psychiatric illness means a condition that seriously impairs (either temporarily
   (d) a severe disturbance of mood;
   (e) sustained or repeated irrational behaviour indicating the presence of the symptoms referred to in paragraph (a), (b), (c) or (d).
 psychiatric surgery means surgery on the brain of a person, other than neurosurgery.
-spouse, in relation to a person, includes a person of the opposite sex to the person who is not legally married to the person but who lives with the person on a bona fide domestic basis.
 tribunal means the Guardianship and Management of Property Tribunal established by section 57.
 trustee company—see the Trustee Companies Act 1947, section 3 (Interpretation).
