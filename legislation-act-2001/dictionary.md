@@ -183,6 +183,8 @@ Governor means—
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 guardianship tribunal means the Guardianship and Management of Property Tribunal established under the Guardianship and Management of Property Act 1991.
+heritage council means the Australian Capital Territory Heritage Council under the Heritage Act 2004.
+heritage register means the heritage register under the Heritage Act 2004.
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
 Imperial Act means an Act of the United Kingdom Parliament.
