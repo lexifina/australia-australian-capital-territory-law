@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 accident, for part 10 (Compulsory vehicle insurance)—see motor accident.
 administering authority, for an infringement notice offence, means the person or unincorporated body that, under the regulations, is the administering authority for the offence.
@@ -11,18 +11,15 @@ authorised person means—
   (a) for a provision of this Act (except a provision of part 3 (Infringement notices for certain offences))—either of the following:
     (i) a person who is appointed as an authorised person under this Act for the provision;
     (ii) a person who, under the regulations, is an authorised person for the provision; or
-    (b) for an infringement notice for an infringement notice offence—any of the following:
-      (i) the administering authority;
-      (ii) a person who is authorised, in writing, by the administering authority to serve an infringement notice for the offence;
-      (iii) anyone else who, under the regulations, may serve an infringement notice for the offence; or
-    (c) for a reminder notice for an infringement notice offence—any of the following:
-      (i) the administering authority;
-      (ii) a person who is authorised, in writing, by the administering authority to serve a reminder notice for the offence;
-      (iii) anyone else who, under the regulations, may serve a reminder notice for the offence.
+  (b) for an infringement notice for an infringement notice offence—any of the following:
+    (i) the administering authority;
+    (ii) a person who is authorised, in writing, by the administering authority to serve an infringement notice for the offence;
+    (iii) anyone else who, under the regulations, may serve an infringement notice for the offence; or
+  (c) for a reminder notice for an infringement notice offence—any of the following:
+    (i) the administering authority;
+    (ii) a person who is authorised, in writing, by the administering authority to serve a reminder notice for the offence;
+    (iii) anyone else who, under the regulations, may serve a reminder notice for the offence.
 authority—see road transport authority.
-bus, for part 9 (Public vehicles)—see section 100 (Definitions for pt 9).
-bus operator’s licence—see section 138 (1).
-bus service licence—see section 142 (1).
 camera-detected offence means an offence detected by an approved camera detection device.
 certificate of insurance—see section 158 (Definitions for pt 10).
 claim, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
@@ -69,7 +66,10 @@ offence of culpable driving, for a person, means—
 owner, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
 private hire car—see section 100 (Definitions for pt 9).
 private hire car operator’s licence—see subsection 120 (1).
-public vehicle—see section 100 (Definitions for pt 9).
+public bus—see the Road Transport (Public Passenger Services) Act 2001, dictionary.
+public vehicle—
+  (a) for part 9 (Public vehicles)—see section 100; and
+  (b) for part 10 (Compulsory vehicle insurance)—see section 158.
 public vehicle policy—see section 218.
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
@@ -114,5 +114,3 @@ vehicle means—
   (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or
   (b) any other vehicle prescribed under the regulations;
 and includes anything else that, under the regulations, is to be treated as a vehicle.
-visiting bus—see section 149 (1).
-visiting bus operator’s licence—see section 149 (1).

@@ -26,16 +26,12 @@
 ## Part 8 Fees, charges and other amounts payable under road transport legislation
 ## Part 9 Public vehicles
 ### Division 9.1 Definitions
-### Division 9.2 Taxis and restricted taxis
 ### Division 9.3 Private hire cars
 ### Division 9.4 Restricted hire vehicles
 ### Division 9.5 Sightseeing vehicles
-### Division 9.6 Buses
-### Division 9.7 Bus services
-### Division 9.8 Visiting buses
 ### Division 9.9 Certain people to have use, control and management of vehicles
 ### Division 9.10 Other matters
-## Part 10 Compulsory vehicle Insurance
+## Part 10 Compulsory vehicle insurance
 ### Division 10.1 Preliminary
 ### Division 10.2 Compulsory insurance
 ### Division 10.3 Taking out and duration of third-party insurance
