@@ -1,9 +1,5 @@
-## part i—preliminary
-## PART II—LICENCES
-## Part Iii—Second-hand Dealers
-## Part iv—Collectors
-## Part V—Miscellaneous
-### SCHEDULES
-### First Schedule Subsection 2E (1)
-### Second-hand Dealers and Collectors Act 1906
-### Second-hand dealer’s licence
+## Part 1 Preliminary
+## Part 2 Licences
+## Part 3 Second-hand dealers
+## Part 4 Collectors
+## Part 5 Miscellaneous
