@@ -24,7 +24,7 @@ amend includes—
 appoint includes reappoint.
 asset includes property of any kind.
 Attorney-General means the Minister designated Attorney-General by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Attorney-General.
-auditor-general means the auditor-general for the Territory.
+auditor-general means the Auditor-General for the Territory.
 Note The Auditor-General Act 1996 provides for the appointment, functions and powers of the auditor-general.
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external Territory.
 Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
@@ -67,6 +67,7 @@ Chief Justice means the Chief Justice of the Supreme Court.
 Chief Magistrate means the Chief Magistrate of the Magistrates Court.
 Chief Minister means the Chief Minister for the Territory.
 Note The Chief Minister is elected under the Self-Government Act, s 40.
+chief planning executive—see the Planning and Land Act 2002, dictionary.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
@@ -80,7 +81,6 @@ commissioner for fair trading means the Commissioner for Fair Trading of the Aus
 Note The Fair Trading (Consumer Affairs) Act 1973 provides for the office of the commissioner.
 commissioner for health complaints means the Community and Health Services Complaints Commissioner under the Community and Health Services Complaints Act 1993.
 commissioner for housing means the Commissioner for Housing under the Housing Assistance Act 1987.
-commissioner for land and planning means the Commissioner for Land and Planning under the Land (Planning and Environment) Act 1991.
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
 commissioner for surveys means the Commissioner for Surveys under the Surveyors Act 2001.
@@ -199,6 +199,7 @@ Lake Burley Griffin means Lake Burley Griffin as defined in the Lakes Act 1976.
 Lake Ginninderra means Lake Ginninderra as defined in the Lakes Act 1976.
 land includes messuages, tenements and hereditaments, corporeal or incorporeal, of any tenure or description, whatever the interest in the land.
 Note A number of the terms mentioned in the definition of land have a technical meaning at law. A messuage is a house together with its gardens, orchards and outbuildings. The term tenement signifies land capable of being held in freehold. Hereditament refers to real property that can be inherited. Hereditaments may be corporeal, that is, tangible things such as lands and buildings, or incorporeal, that is, intangible rights attaching to land such as rents, easements, tithes and profits a prendre. (Profits a prendre are the right to take some product of, or part of the soil from, the land of someone else.)
+land development agency means the Land Development Agency established under the Planning and Land Act 2002, section 38 (1).
 law, of the Territory, means—
   (a) an Act; or
   (b) a subordinate law; or
@@ -259,7 +260,8 @@ penalty unit—see section 133.
 person includes an individual and a corporation.
 Note Section 160 deals with references to a person generally.
 pharmacist means a registered pharmacist under the Pharmacy Act 1931.
-planning authority means the Australian Capital Territory Planning Authority under the Land (Planning and Environment) Act 1991.
+planning and land authority means the Planning and Land Authority established under the Planning and Land Act 2002, section 7 (1).
+planning and land council means the Planning and Land Council established under the Planning and Land Act 2002, section 25.
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
 power includes authority.
