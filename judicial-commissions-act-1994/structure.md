@@ -1,11 +1,11 @@
-## PART 1—PRELIMINARY
-## PART 2—TENURE OF JUDICIAL OFFICE
-## PART 3—JUDICIAL COMMISSIONS
-## PART 4—COMPLAINTS AGAINST JUDICIAL OFFICERS
-## PART 5—PROCEEDINGS OF COMMISSIONS
-### Division 1—General
-### Division 2—Evidence
-### Division 3—Powers
-### Division 4—Hearings
-## PART 6—OFFENCES
-## PART 7—MISCELLANEOUS
+## Part 1 Preliminary
+## Part 2 Tenure of judicial office
+## Part 3 Judicial commissions
+## Part 4 Complaints against judicial officers
+## Part 5 Proceedings of commissions
+### Division 5.1 General
+### Division 5.2 Evidence
+### Division 5.3 Powers
+### Division 5.4 Hearings
+## Part 6 Offences
+## Part 7 Miscellaneous
