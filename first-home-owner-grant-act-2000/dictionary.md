@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -37,4 +37,8 @@ permanent resident means—
   (a) a person who holds a permanent visa for the Migration Act 1958 (Cwlth), section 30; or
   (b) a New Zealand citizen who holds a special category visa under the Migration Act 1958 (Cwlth), section 32.
 relevant interest in land—see section 5 (2), (3) and (4).
-residence requirement means the requirement that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence within 1 year after the completion of the eligible transaction or a longer period approved by the commissioner (see section 12).
+residence requirements means—
+  (a) the requirement—
+    (i) under section 12 (1), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a continuous period of at least 6 months; or
+    (ii) under section 12 (1) and (2) (a), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a shorter period approved by the commissioner; and
+  (b) the requirement under section 12 (3) that the period of occupation required under section 12 (1), or section 12 (1) and (2) (a), must start within 1 year after completion of the eligible transaction or a longer period approved by the commissioner.
