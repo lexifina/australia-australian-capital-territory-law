@@ -16,11 +16,12 @@ document of title to land includes every deed, certificate of title, map, paper,
 domestic violence offence means behaviour directed at a relevant person that is or was an offence against—
   (a) the Protection Orders Act 2001, section 34 (which is about contravening protection orders) in relation to a domestic violence order; or
   (b) a provision of this Act mentioned in schedule 1 (which deals with domestic violence crimes); or
-  (c) a provision of part 9 (Aiding and abetting, accessories, attempts, incitement and conspiracy) of this Act in relation to an offence against a provision mentioned in schedule 1; or
+  (c) the Criminal Code, section 103, 104, 106, 107 or 108 (which deal with property offences); or
   (d) any of the following provisions of the Road Transport (Safety and Traffic Management) Act 1999:
     (i) section 6 (1) (which is about negligent driving);
     (ii) section 7 (1) (which is about furious, reckless or dangerous driving);
     (iii) section 8 (1) or (2) (which are about menacing driving).
+Note A reference to an offence against a Territory law includes a reference to a related ancillary offence, eg attempt (see Legislation Act 2001, s 189).
 grievous bodily harm includes any permanent or serious disfiguring of the person.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
 knife includes—
