@@ -1,6 +1,5 @@
 # Dictionary
 (see s 2)
-ABS means the Australian Bureau of Statistics established under the Australian Bureau of Statistics Act 1975 (Cwlth).
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
 approved rehabilitation provider, for chapter 7 (Vocational rehabilitation)—see section 139 (Meaning of approved rehabilitation provider etc).
 average pre-incapacity weekly earnings means earnings worked out under—
@@ -9,7 +8,9 @@ average pre-incapacity weekly earnings means earnings worked out under—
 average pre-incapacity weekly hours means hours worked out under—
   (a) for a worker who is not a contractor—section 23 (Working out average pre-incapacity weekly hours for non-contractor); or
   (b) for a worker who is a contractor—section 24 (Working out average pre-incapacity weekly hours for contractor).
-AWE means the Average weekly earnings, States and Territories, seasonally adjusted for the ACT (all males total earnings) issued by the ABS.
+AWE means—
+  (a) the average weekly earnings, States and Territories, seasonally adjusted for the ACT (all males total earnings) contained in Average Weekly Earnings, Australia issued by the Australian Statistician; or
+  (b) if the Australian Statistician issues a publication (however described) containing average weekly earnings in substitution for, or instead of, the average weekly earnings mentioned in paragraph (a)—the substituted average weekly earnings.
 awe indexed—see section 20.
 boilermakers deafness includes deafness of a similar origin.
 child, in relation to a worker, means an unmarried child of the worker who is—
