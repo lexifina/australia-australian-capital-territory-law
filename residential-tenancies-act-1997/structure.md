@@ -1,4 +1,4 @@
-## part i—preliminary
+## part I—preliminary
 ## part ii—Residential tenancy agreements
 ### Division 1—Terms of agreement
 ### Division 2—Pre-contractual obligations
@@ -32,11 +32,3 @@
 ### Division 3—Other matters about the Tribunal
 ## Part VIII—referrals and appeals to supreme Court
 ## part Ix—Miscellaneous
-### Bond and Condition Report
-### Rent and other charges
-### Tenant’s use of the premises without interference
-### Lessor to make repairs
-### Tenant to look after the premises
-### Lessor’s access to the premises
-### Termination of the tenancy by the tenant
-### Termination of the tenancy by the lessor
