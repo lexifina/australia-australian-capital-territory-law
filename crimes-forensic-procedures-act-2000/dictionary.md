@@ -80,4 +80,4 @@ unknown deceased persons index—see section 94.
 volunteer—see section 10.
 volunteers (limited purposes) index—see section 94.
 volunteers (unlimited purposes) index—see section 94.
-warrant, for the apprehension of a person, includes a warrant issued under the Magistrates Court Act 1930, division 4.5 for the arrest or apprehension of the person.
+warrant, for the apprehension of a person, includes a warrant issued under the Magistrates Court Act 1930, division 3.3.4 (Warrants of arrest) for the arrest or apprehension of the person.
