@@ -17,6 +17,11 @@
 ## Part 4.2 Duty of care
 ## Part 4.3 Causation
 ## Part 4.4 Other provisions—negligence
+# Chapter 5 Personal injuries claims—pre-court procedures
+## Part 5.1 Preliminary
+## Part 5.2 Claims procedures
+## Part 5.3 Obligations of parties to give documents and information
+## Part 5.4 Other provisions—pre-court procedures
 # Chapter 6 Expert medical evidence
 # Chapter 7 Damages
 ## Part 7.1 Damages for personal injuries—exclusions and limitations
@@ -47,6 +52,7 @@
 # Chapter 13 Misrepresentation
 # Chapter 14 Limitations on legal costs
 ## Part 14.1 Maximum costs for certain personal injury damages claims
+## Part 14.2 Costs in damages claims if no reasonable prospects of success
 # Chapter 15 Miscellaneous
 ## Part 15.1 Mediation and neutral evaluation
 ## Part 15.2 General reporting requirements of insurers
