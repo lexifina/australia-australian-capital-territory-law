@@ -1,12 +1,12 @@
 # Dictionary
 (see s 3)
-Note 1 The following terms that are relevant to this Act are defined in the Legislation Act 2001, dictionary:
-  • doctor
-  • exercise
-  • function
-  • Self-government Act
-  • Speaker
-  • State.
+Note 1 The following terms that are relevant to this Act are defined in the Legislation Act 2001, dict, pt 1:
+  · doctor
+  · exercise
+  · function
+  · Self-government Act
+  · Speaker
+  · State.
 Note 2 The Legislation Act 2001 contains other definitions and provisions that are relevant to this Act.
 AAT means the administrative appeals tribunal.
 abbreviation, of the name of a political party or ballot group, includes an alternative name of the party or group.
@@ -15,7 +15,7 @@ address—
   (b) in division 17.3—see section 291 (Definitions for div 17.3).
 amount, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 Antarctica, for part 11 (Polling in Antarctica)—see section 167 (Definitions for pt 11).
-Antarctic elector means an elector who is an Antarctic elector by virtue of section 171.
+Antarctic elector means an elector who is an Antarctic elector under section 171.
 application, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 approved computer program means the computer program approved under section 118A.
 Assembly means the Legislative Assembly.
@@ -34,12 +34,12 @@ broadcaster, for division 14.5 (Disclosure of electoral expenditure)—see secti
 candidate means—
   (a) except in part 13 (Casual vacancies)—a person declared to be a candidate under section 109 (Declaration of candidates); and
   (b) in part 13—a person declared to be a candidate under section 193 (Publication of candidates’ details).
-candidate square, in relation to a ballot paper, means a square that is printed on a ballot paper adjacent to a candidate’s name by virtue of section 116 (1) (h).
+candidate square, in relation to a ballot paper, means a square that is printed on a ballot paper adjacent to a candidate’s name under section 116 (1) (h).
 certified list of electors means a certified list of electors prepared under section 121.
 closed, in relation to a roll, means closed in accordance with section 80.
 commissioner means the Electoral Commissioner appointed under section 22.
 Commonwealth Electoral Act means the Commonwealth Electoral Act 1918 (Cwlth).
-Commonwealth roll means the roll of electors for the Territory required by the Commonwealth Electoral Act, section 81.
+Commonwealth roll means the roll of electors for the ACT required by the Commonwealth Electoral Act, section 81.
 contravention, for part 16 (Disputed elections, eligibility and vacancies)—see section 250A (References in pt 16 to contraventions of sections).
 court, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 Court of Disputed Elections means the Supreme Court exercising jurisdiction under part 16.
@@ -74,7 +74,7 @@ electoral paper means a document, form or notice provided for or required under 
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
 electronic voting—see section 120 (2).
 eligible elector, for division 10.4 (Voting otherwise than at a polling place)—see section 136 (Meaning of eligible elector for div 10.4).
-eligible overseas elector means a person who is an eligible overseas elector by virtue of section 74.
+eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 entity, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 extract, in relation to a roll—see section 59.
@@ -154,14 +154,14 @@ secretary, in relation to a political party, means the secretary or chief admini
 Speaker—
   (a) for part 13 (Casual vacancies)—see section 190 (Definitions for pt 13); and
   (b) for part 16 (Disputed elections, eligibility and vacancies)—see section 251 (References in pt 16 to Speaker).
-Note Speaker is defined in the Legislation Act 2001, dict.
+Note Speaker is defined in the Legislation Act 2001, dict, pt 1.
 special hospital, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).
 sponsoring MLA, in relation to a registered ballot group, means the MLA who applied to register the group.
 staff, in relation to the electoral commission, means—
   (a) the staff assisting the commissioner referred to in section 31; and
   (b) persons employed or engaged under section 32.
 station, for part 11 (Polling in Antarctica)—see section 167 (Definitions for pt 11).
-suppressed address means an address particulars of which are required to be suppressed from a roll extract by virtue of section 77.
+suppressed address means an address particulars of which are required to be suppressed from a roll extract under section 77.
 transmit, for part 11 (Polling in Antarctica)—see section 167 (Definitions for pt 11).
 undue influence, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 visiting officer, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).

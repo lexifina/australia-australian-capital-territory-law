@@ -1,12 +1,11 @@
-## Preamble
 ## Part 1 Preliminary
 ## Part 2 Australian Capital Territory Electoral Commission
 ### Division 2.1 Establishment, functions and powers of electoral commission
 ### Division 2.2 Members of electoral commission
 ### Division 2.3 Meetings
-## Part 3 Electoral commissioner and staff of Electoral Commission
+## Part 3 Electoral commissioner and staff of electoral commission
 ### Division 3.1 Electoral commissioner
-### Division 3.2 Staff of the electoral commission
+### Division 3.2 Staff of electoral commission
 ## Part 4 Electorates
 ## Part 5 Electoral rolls
 ## Part 6 Enrolment
@@ -56,4 +55,3 @@
 ### Division 18.1 Injunctions
 ### Division 18.2 Prosecutions
 ## Part 19 Miscellaneous
-## Part 20 Transitional provisions

@@ -4,7 +4,7 @@ Legislative Assembly for the Australian Capital Territory
 Ballot paper Election of [1] Member(s)
 Electorate of [2]
 Number [1] boxes from 1 to [1] in the order of your choice
-Then you may show as many further preferences as you wish by writing numbers from [3] onwards in other boxes.
+Then you may show as many further preferences as you wish by writing numbers from [3] onwards in other boxes. |  |  |  |  | 
  | A [4] |  |  | B [4] |  |  | C [4] |  |  | [5] | 
  |  | [6] |  |  | [6] |  |  | [6] |  |  | [6]
  |  |  |  |  |  |  |  |  |  |  | [7]

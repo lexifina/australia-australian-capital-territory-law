@@ -12,16 +12,16 @@ that has not been dealt with at an earlier preliminary scrutiny.
   (b) 1 group containing the remainder.
 6 (1) In this clause:
 relevant provision means—
-  (a) in the case of a vote under section 135—section 135 (4);
-  (b) in the case of a vote under section 136A—section 136A (8);
-  (c) in the case of a vote under section 136B—section 135 (4) as applied by section 136B (18); or
-  (d) in the case of a vote under section 136C—section 135 (4) as applied by section 136C (8).
+  (a) for a vote under section 135—section 135 (4); or
+  (b) for a vote under section 136A—section 136A (8); or
+  (c) for a vote under section 136B—section 135 (4) as applied by section 136B (18); or
+  (d) for a vote under section 136C—section 135 (4) as applied by section 136C (8).
 (2) This clause applies to a set of declaration voting papers if the officer is satisfied that—
   (a) the signature on the declaration is that of the elector; and
   (b) the certificate by the witness is in accordance with the relevant provision; and
-  (c) in the case of a postal vote where the papers were posted to the commissioner—the papers were so posted before the close of the poll; and
-  (d) in the case of the vote of an Antarctic elector—the envelope referred to in section 176 (1) (c) is endorsed and signed by an authorised officer in accordance with that paragraph.
-(3) For the purposes of subclause (2) (b), where an officer referred to in section 135 (4) omits to sign the certificate, the certificate shall nevertheless be taken to be in accordance with the relevant provision, if—
+  (c) for a postal vote if the papers were posted to the commissioner—the papers were so posted before the close of the poll; and
+  (d) for the vote of an Antarctic elector—the envelope referred to in section 176 (1) (c) is endorsed and signed by an authorised officer in accordance with that paragraph.
+(3) For subclause (2) (b), if an officer referred to in section 135 (4) omits to sign the certificate, the certificate shall nevertheless be taken to be in accordance with the relevant provision, if—
   (a) the issue of the relevant declaration voting papers was recorded under division 10.3 or 10.4; and
   (b) the OIC is satisfied the papers were properly issued to the elector.
 7 An officer shall sort the declaration voting papers to which clause 6 applies into the following groups:
@@ -33,8 +33,8 @@ relevant provision means—
 9 This clause applies to a set of declaration voting papers if the OIC is satisfied that—
   (a) the elector who signed the declaration was, when the roll closed for the election, entitled to be enrolled; and
   (b) the omission of the elector’s name from the roll resulted from an official error.
-10 An officer shall withdraw the ballot papers from the envelopes in the groups of declaration voting papers to which clause 7 (a) or 9 applies and, without unfolding or inspecting the ballot papers or allowing any other person to do so, admit them to scrutiny under section 183.
-(2) Where 2 or more sets of papers to which clause 7 (a) or 9 applies are in the name of a particular elector—
+10 (1) An officer shall withdraw the ballot papers from the envelopes in the groups of declaration voting papers to which clause 7 (a) or 9 applies and, without unfolding or inspecting the ballot papers or allowing any other person to do so, admit them to scrutiny under section 183.
+(2) If 2 or more sets of papers to which clause 7 (a) or 9 applies are in the name of a particular elector—
   (a) the OIC shall determine which set shall be dealt with in accordance with subclause (1); and
   (b) the remaining set shall be set aside.
 (3) The OIC shall ensure that ballot papers referred to in subclause (1) are kept in a separate sealed ballot box until they are dealt with under section 183.
