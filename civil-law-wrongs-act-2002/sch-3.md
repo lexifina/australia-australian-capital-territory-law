@@ -1,5 +1,5 @@
 # Schedule 3 Equine activities
-1 Definitions for sch 3
+## 3.1 Definitions for sch 3
 In this schedule:
 equine means a horse, donkey, mule or hinny.
 equine activity means any of the following:
@@ -12,21 +12,21 @@ equine activity means any of the following:
   (e) a ride, trip, hunt or other activity (however informal or impromptu) that is sponsored by an equine activity sponsor;
   (f) placing or replacing horseshoes on an equine.
 Examples for par (a)
-dressage
-3-day events
-performance riding
-polo
-showjumping
-steeplechasing
+1 dressage
+2 3-day events
+3 performance riding
+4 polo
+5 showjumping
+6 steeplechasing
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 equine activity sponsor means—
   (a) an entity that (whether or not it operates for profit) sponsors, organises or provides a facility for an equine activity; or
   (b) an operator, instructor or promoter of an equine facility.
 Examples for par (a)
-pony clubs
-riding clubs or schools
-equestrian centres
-school-sponsored classes
+1 pony clubs
+2 riding clubs or schools
+3 equestrian centres
+4 school-sponsored classes
 equine facility includes an equestrian centre, riding school, stable, clubhouse, fair or arena where an equine activity is held.
 equine professional means a person engaged for reward in—
   (a) instructing a participant or renting an equine to a participant to—
@@ -40,8 +40,8 @@ inherent risks of equine activities means the dangers or conditions that are an 
   (d) collisions with other equines or objects; and
   (e) the potential of a participant to act negligently that may contribute to injury to the participant or others.
 Examples for par (e)
-failing to maintain control over an equine
-not acting within the participant’s ability
+1 failing to maintain control over an equine
+2 not acting within the participant’s ability
 participant means a person who participates in an equine activity (whether or not a fee is paid for the participation).
 participate in an equine activity—
   (a) means—
@@ -50,14 +50,14 @@ participate in an equine activity—
     (iii) assist in medical treatment of an equine, whether mounted or unmounted; or
     (iv) assist a participant or show management; but
   (b) does not include be a spectator at an equine activity (unless the spectator is in an unauthorised area and in immediate proximity to the equine activity).
-2 Application of sch 3
+## 3.2 Application of sch 3
 This schedule does not prevent or limit the liability of an equine activity sponsor, an equine professional or anyone else in relation to—
   (a) activities engaged in as part of the horseracing industry; or
   (b) any action for breach of the Trade Practices Act 1974 (Cwlth) or the Fair Trading Act 1992; or
   (c) a claim under the Workers Compensation Act 1951.
-3 Limitation on liability for injury or death of participant
+## 3.3 Limitation on liability for injury or death of participant
 (1) An equine activity sponsor, an equine professional or anyone else is not liable for personal injury to a participant resulting from the inherent risks of equine activities.
-(2) However, this clause does not prevent or limit the liability of a person (the defendant) if—
+(2) However, this section does not prevent or limit the liability of a person (the defendant) if—
   (a) the injury was caused by faulty equipment or tack and the defendant—
     (i) provided the equipment or tack; and
     (ii) knew or ought reasonably to have known that the equipment or tack was faulty; or
@@ -70,8 +70,8 @@ This schedule does not prevent or limit the liability of an equine activity spon
     (iii) a sign warning about the dangerous latent condition had not been conspicuously displayed on the land or at the facility; or
   (d) the defendant acted, or omitted to act, in a way that showed intentional or reckless disregard for the safety of the participant and the act or omission caused the injury; or
   (e) the defendant intentionally injured the participant.
-(3) Also, this clause does not prevent or limit an equine professional’s liability to a participant in relation to an equine facility if, before the injury happened, the equine professional had not complied with clause 4 in relation to the facility.
-4 Warning notice
+(3) Also, this section does not prevent or limit an equine professional’s liability to a participant in relation to an equine facility if, before the injury happened, the equine professional had not complied with clause 4 in relation to the facility.
+## 3.4 Warning notice
 (1) An equine professional must ensure that a warning notice is displayed—
   (a) on or near an equine facility that is owned, managed or controlled by the equine professional; and
   (b) so that it can be clearly seen by participants before participating in equine activities at the facility.
