@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -33,18 +33,17 @@ law enforcement agency means any of the following:
   (a) the Australian Federal Police;
   (b) the police service or force of a State, another Territory or a foreign country;
   (c) the Australian Customs Service;
-  (d) the National Crime Authority;
-  (e) the Australian Bureau of Criminal Intelligence;
-  (f) the CrimTrac Agency, established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc. of Executive Agencies);
-  (g) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
-  (h) the New South Wales Crime Commission or a similar entity established under the law of another State;
-  (i) the Attorney-General for the Territory, the Commonwealth, a State or another Territory;
-  (j) people employed in a government department of the Commonwealth, a State or another Territory and whose primary functions are the beginning or conduct of proceedings for offences;
-  (k) the Office of the Director of Public Prosecutions or a similar entity established under a Commonwealth or State law;
-  (l) the director of public prosecutions, or a person performing a similar function under a Commonwealth or State law;
-  (m) a lawyer to the extent that the lawyer is engaged under a Commonwealth or State law to prosecute offences;
-  (n) prison officers;
-  (o) an entity prescribed under the regulations.
+  (d) the Australian Crime Commission;
+  (e) the CrimTrac Agency, established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc. of Executive Agencies);
+  (f) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
+  (g) the New South Wales Crime Commission or a similar entity established under the law of another State;
+  (h) the Attorney-General for the Territory, the Commonwealth, a State or another Territory;
+  (i) people employed in a government department of the Commonwealth, a State or another Territory and whose primary functions are the beginning or conduct of proceedings for offences;
+  (j) the Office of the Director of Public Prosecutions or a similar entity established under a Commonwealth or State law;
+  (k) the director of public prosecutions, or a person performing a similar function under a Commonwealth or State law;
+  (l) a lawyer to the extent that the lawyer is engaged under a Commonwealth or State law to prosecute offences;
+  (m) prison officers;
+  (n) an entity prescribed under the regulations.
 prison officer includes a person employed in an entity responsible under the law of the Territory, or of the Commonwealth, a State or a foreign country, for providing correctional services for offenders.
 public authority means an administrative unit or Territory authority, and includes a person exercising functions for the Territory, an administrative unit or Territory authority.
 quash—see section 8.
