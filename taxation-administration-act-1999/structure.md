@@ -1,32 +1,32 @@
-## part 1—preliminary
-## PART 2—PURPOSE OF ACT AND RELATIONSHIP WITH OTHER TAX LAWS
-## PART 3—ASSESSMENT OF TAX LIABILITY
-## PART 4—REFUNDS OF TAX
-## PART 5—INTEREST AND PENALTY TAX
-### Division 1—Interest
-### Division 2—Penalty tax
-## PART 6—RETURNS
-### Division 1—General
-### Division 2—Special arrangements for making returns and paying tax
-## PART 7—COLLECTION OF TAX
-## PART 8—RECORD KEEPING AND GENERAL OFFENCES
-### Division 1—Record keeping
-### Division 2—General offences
-### Division 3—Supplementary offence provisions
-## PART 9—TAX OFFICERS, INVESTIGATION AND SECRECY PROVISIONS
-### Division 1—Tax officers
-### Division 2—Powers of investigation
-### Division 3—Cooperation with other jurisdictions
-### Division 4—Secrecy
-## PART 10—OBJECTIONS AND APPEALS
-### Division 1—Objections
-### Division 2—Appeals to the tribunal
-### Division 3—Interest
-## PART 11—MISCELLANEOUS PROVISIONS
-### Division 1—Business groups
-### Division 2—Treatment of bodies corporate
-### Division 3—Payments
-### Division 4—Notices and service of documents
-### Division 5—Proceedings and evidence
-### Division 6—Miscellaneous
-## part 12—transitional
+## Part 1 Preliminary
+## Part 2 Purpose of Act and relationship with other tax laws
+## Part 3 Assessment of tax liability
+## Part 4 Refunds of tax
+## Part 5 Interest and penalty tax
+### Division 5.1 Interest
+### Division 5.2 Penalty tax
+## Part 6 Returns
+### Division 6.1 General
+### Division 6.2 Special arrangements for making returns and paying tax
+## Part 7 Collection of tax
+## Part 8 Record keeping and general offences
+### Division 8.1 Record keeping
+### Division 8.2 General offences
+### Division 8.3 Supplementary offence provisions
+## Part 9 Tax officers, investigation and secrecy provisions
+### Division 9.1 Tax officers
+### Division 9.2 Powers of investigation
+### Division 9.3 Cooperation with other jurisdictions
+### Division 9.4 Secrecy
+## Part 10 Objections and appeals
+### Division 10.1 Objections
+### Division 10.2 Appeals to tribunal
+### Division 10.3 Interest
+## Part 11 Miscellaneous provisions
+### Division 11.1 Business groups
+### Division 11.2 Treatment of bodies corporate
+### Division 11.3 Payments
+### Division 11.4 Notices and service of documents
+### Division 11.5 Proceedings and evidence
+### Division 11.6 Miscellaneous
+## Part 12 Transitional
