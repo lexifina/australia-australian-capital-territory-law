@@ -10,6 +10,7 @@
 ### Division 3.1.2 Liability and damages for death
 ### Division 3.1.3 Procedural matters—action for death
 ## Part 3.2 Injury arising from mental or nervous shock
+## Part 3.3 Temporary exclusion of liability for terrorism-associated risks
 # Chapter 4 Damages
 ## Part 4.1 General exclusions and limitations about damages
 ## Part 4.2 Loss of capacity to perform domestic services
