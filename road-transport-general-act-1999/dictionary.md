@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 accident, for part 10 (Compulsory vehicle insurance)—see motor accident.
 administering authority, for an infringement notice offence, means the person or unincorporated body that, under the regulations, is the administering authority for the offence.
@@ -41,7 +41,7 @@ function includes power.
 home address, of a person, means the address of the place where the person usually lives.
 hospital treatment—see section 158 (Definitions for pt 10).
 illegal user declaration means a statutory declaration mentioned in section 38.
-infringement notice means a notice served under section 24 (Service of infringement notices generally) or 36 (Service of infringement notices on responsible persons for vehicles).
+infringement notice means a notice served under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible persons for vehicles).
 infringement notice declaration means an illegal user declaration, known user declaration, sold vehicle declaration or unknown user declaration.
 infringement notice offence means an offence prescribed under the regulations as an infringement notice offence.
 infringement notice penalty, for a person for an infringement notice offence, means—
@@ -61,7 +61,7 @@ National Road Transport Commission means the National Road Transport Commission 
 nominal defendant—see section 158 (Definitions for pt 10).
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
-  (b) any other offence against the Crimes Act 1900 where a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
+  (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
 owner, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
 private hire car—see section 100 (Definitions for pt 9).
 private hire car operator’s licence—see subsection 120 (1).
@@ -96,7 +96,7 @@ road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
 sightseeing vehicle operator’s licence—see section 135 (1).
 sold vehicle declaration means a statutory declaration mentioned in section 40.
-taxi—see the Road Transport (Public Passenger Services) Act 2001, section 31 (Meaning of taxi).
+taxi—see the Road Transport (Public Passenger Services) Act 2001, section 45 (Meaning of taxi).
 third-party policy—see section 158 (Definitions for pt 10).
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
