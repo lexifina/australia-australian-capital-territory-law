@@ -78,9 +78,9 @@ permit, for part 3 (Dogs and Cats)—see section 73 (Meaning of de-sex and permi
 premises includes land (whether vacant or occupied), an aircraft, a vessel and a vehicle.
 prohibited area means an area declared by the Minister under section 41 (1) (Prohibited areas).
 public place—
-  (a) see the Roads and Public Places Act 1937, section 2; and
-  (b) includes a public vehicle.
-public vehicle—see the Road Transport (General) Act 1999, section 158.
+  (a) see the Roads and Public Places Act 1937, dictionary; and
+  (b) includes a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
+Note A public passenger vehicle is a public bus, taxi or hire car.
 reasonably believes means has reasonable grounds for believing.
 register means the register kept by the registrar under section 5 (Register).
 registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
