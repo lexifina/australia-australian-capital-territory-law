@@ -1,7 +1,7 @@
-## Part I—Preliminary
-## Part II—Boards of Inquiry
-## Part III—inquiries
+## Part 1—Preliminary
+## Part 2—boards of Inquiry
+## Part 3—inquiries
 ### Division 1—General
 ### Division 2—Hearings
-## part iv—offences
-## Part V—Miscellaneous
+## part 4—offences
+## Part 5—Miscellaneous
