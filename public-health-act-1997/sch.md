@@ -5,26 +5,26 @@ activity accreditation standards, for an activity accreditation scheme, means th
 activity licence means a licence under section 30.
 activity premises alteration, for a licensable public health risk activity, means a structural alteration of premises where the activity is carried on, including a structural alteration of any fixtures or fittings of the premises.
 activity register—see section 56D.
-Analyst means an Analyst under section 15.
-authorisation, in relation to a Public Health Officer or an Authorised Medical Officer performing a function under this Act, means an authorisation under subsection 14 (2) issued to that officer in relation to that function.
-Authorised Medical Officer means an Authorised Medical Officer under section 13.
+analyst means an analyst under section 15.
+authorisation, in relation to a public health officer or an authorised medical officer performing a function under this Act, means an authorisation under subsection 14 (2) issued to that officer in relation to that function.
+authorised medical officer means an authorised medical officer under section 13.
 authorised officer, in relation to the performance of a function for the purposes of this Act, means—
-    (a) the Chief Health Officer; or
-    (b) a Public Health Officer or an Authorised Medical Officer who has been issued with an authorisation to perform that function.
+    (a) the chief health officer; or
+    (b) a public health officer or an authorised medical officer who has been issued with an authorisation to perform that function.
 automatic, suspension of registration—see subsection 56Q (1).
-Chief Health Officer means the Chief Health Officer under section 7.
-Code of Practice means a Code of Practice determined under section 133.
+chief health officer means the chief health officer under section 7.
+code of practice means a code of practice determined under section 133.
 contact means a person who—
     (a) has been or may have been a source of infection to a person who has a notifiable condition; or
     (b) has been or may have been exposed to infection by a person with a notifiable condition.
 contravention, of this Act or a corresponding public health risk law, includes the contravention of a notice, direction or other instrument given under this Act or such a law.
 corresponding public health risk law, in relation to a public health risk activity or a public health risk procedure, means a law of a State or another Territory that regulates the performance of the activity or procedure, as the case may be.
 counsellor means—
-    (a) a registered psychologist within the meaning of the Psychologists Act 1994;
+    (a) a registered psychologist within the meaning of the Psychologists Act 1994; or
     (b) a nurse counsellor; or
     (c) a social worker.
 defined influential person, in relation to a person proposing to carry on, or carrying on, a public health risk activity, means—
-    (a) if the person is to employ or otherwise engage, or employs or otherwise engages, a manager to carry on the activity, or that part of the activity that involves the performance of public health risk procedures—the manager;
+    (a) if the person is to employ or otherwise engage, or employs or otherwise engages, a manager to carry on the activity, or that part of the activity that involves the performance of public health risk procedures—the manager; and
     (b) if the person is a body corporate—a director, secretary, officer or manager of the body; and
     (c) if the person is to carry on, or carries on, the activity in partnership with any other person or person—
       (i) each other partner; and
@@ -50,7 +50,7 @@ location-specific, for a registrable public health risk activity, means that the
 medical practitioner means a registered medical practitioner under the Medical Practitioners Act 1930.
 notifiable condition means a disease or medical condition—
     (a) determined by the Minister under paragraph 100 (1) (a); or
-    (b) declared by the Chief Health Officer under paragraph 101 (1) (a).
+    (b) declared by the chief health officer under paragraph 101 (1) (a).
 notified suspension or cancellation, of registration—see subsection 56P (1).
 occupier, of a place, includes—
     (a) an owner of the place; and
@@ -71,7 +71,7 @@ public health means—
     (a) the health of individuals in the context of the wider health of the community; or
     (b) the organised response by society to protect and promote health and prevent illness, injury and disability.
 public health direction means a direction under section 113.
-Public Health Officer means a Public Health Officer under section 12.
+public health officer means a public health officer under section 12.
 public health risk activity means an activity declared by the Minister to be a public health risk activity under section 18.
 public health risk procedure means a procedure declared by the Minister under section 18 to be a public health risk procedure in relation to a public health risk activity.
 registered activity means a registrable public health risk activity authorised by a registration certificate.
@@ -82,10 +82,11 @@ registrable public health risk activity means a public health risk activity decl
 registration means the registration, under section 56G, of a person to carry on a registered activity.
 registration certificate means a registration certificate under section 56H.
 responsible person, in relation to a person having a notifiable condition, means—
-    (a) a medical practitioner;
+    (a) a medical practitioner; or
     (b) a counsellor who has counselled the person in relation to that condition; or
-    (c) a person who is responsible for the care, support or education of the person. registered activity means a registrable public health risk activity authorised by a registration certificate.
+    (c) a person who is responsible for the care, support or education of the person.
+registered activity means a registrable public health risk activity authorised by a registration certificate.
 this Act includes the regulations.
 transmissible notifiable condition means a notifiable condition—
     (a) determined by the Minister to be a transmissible notifiable condition under paragraph 100 (1) (b); or
-    (b) declared by the Chief Health Officer to be a transmissible notifiable condition under paragraph 101 (1) (b).
+    (b) declared by the chief health officer to be a transmissible notifiable condition under paragraph 101 (1) (b).
