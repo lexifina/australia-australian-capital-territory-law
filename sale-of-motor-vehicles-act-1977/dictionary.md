@@ -112,7 +112,7 @@ payment, of a purchase price, for part 4A (Registration of interests in motor ve
 premises includes a parcel of vacant land.
 purchase, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 qualified accountant means—
-  (a) a member of the Institute of Chartered Accountants in Australia, the National Institute of Accountants or the Australian Society of Certified Practising Accountants; or
+  (a) a member of the Institute of Chartered Accountants in Australia, the National Institute of Accountants or CPA Australia; or
   (b) a person registered as a registered company auditor under the Corporations Act.
 register means the register of motor vehicle dealers kept by the registrar under section 6.
 registered, for part 4A (Registration of interests in motor vehicles)—see section 32A.
