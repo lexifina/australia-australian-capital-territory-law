@@ -1,5 +1,5 @@
   As in force on
-  28 September 2000
+  11 April 2001
 Australian Capital Territory
 Electoral Act 1992
 An Act to provide for elections of members of the Legislative Assembly and related matters

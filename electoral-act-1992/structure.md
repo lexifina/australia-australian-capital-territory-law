@@ -15,6 +15,7 @@
 ## Part 9—Arrangements for elections
 ### Division 1—Nominations
 ### Division 2—Ballot papers
+### Division 9.2A—Electronic voting devices and vote counting programs
 ### Division 3—Miscellaneous
 ## Part 10—Voting
 ### Division 1—General
@@ -47,6 +48,7 @@
 ### Division 1—Bribery and improper influence
 ### Division 2—Protection of rights
 ### Division 3—Campaigning offences
+### Division 17.3A—Electronic voting offences
 ### Division 4—Voting fraud
 ### Division 5—Electoral papers
 ### Division 6—Official functions
