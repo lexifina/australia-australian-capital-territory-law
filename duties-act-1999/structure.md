@@ -1,66 +1,55 @@
-## chapter i—preliminary
-## CHAPTER 2—TRANSACTIONS CONCERNING DUTIABLE PROPERTY
-## PART 1—INTRODUCTION AND OVERVIEW
-## part 2—dutiable value
-## Part 3—Rates of duty
-## Part 4—Off-market transfers of marketable securities5
-### Division 2.4.1—SCH-regulated transfers (CHESS)
-### Division 2.4.2—The securities clearing house
-### Division 2.4.3—London Stock Exchange
-### Division 2.4.4—Payment by periodic return
-### Division 2.4.5—Miscellaneous
-## Part 5—SPECIAL provisions
-## Part 6—concessional rates of duty
-### Division 2.6.1—Trusts
-### Division 2.6.2—Superannuation
-### Division 2.6.3—Miscellaneous
-## PART 7—EXEMPTIONS
-## CHAPTER 3—CERTAIN TRANSACTIONS TREATED AS TRANSFERS
-## PART 1—PRELIMINARY
-## PART 2—ACQUISITION OF INTERESTS IN CERTAIN LANDHOLDERS
-### Division 3.2.1—Landholding private corporations
-### Division 3.2.2—Acquisitions of interests in private corporations
-### Division 3.2.3—Charging of duty
-### Division 3.2.4—General and supplemental
-## PART 3—ENTITLEMENTS ARISING FROM CAPITAL REDUCTIONS OR ALTERATIONS OF RIGHTS
-## Part 4—acquisition of land use entitlements by allotment of shares or issue of units
-## part 5—allotment of shares by direction
-## CHAPTER 4—ON-MARKET TRANSFERS OF MARKETABLE SECURITIES5
-## Part 1—preliminary5
-## Part 2—Liability for duty5
-## part 3—rates of duty5
-## Part 4—records of transfers5
-## part 5—periodic returns and payment of duty5
-## part 6—miscellaneous5
-## chapter 5—lease instruments
-## part 1—preliminary
-## Part 2—liability for duty
-## Part 3—rates of duty
-## part 4—unascertainable lease costs
-## Part 5—miscellaneous
-## chapter 6—hire of goods
-## part 1—preliminary
-## part 2—imposition and rates of duty
-## part 3—arrangements applicable to persons engaged in the business of hiring out goods
-## part 4—arrangements applicable to persons other than those engaged in the business of hiring out goods
-## chapter 7—mortgages
-## chapter 8—Insurance
-## Part 1—preliminary
-## part 2—general insurance
-## part 3—life insurance
-## part 4—payment of duty by insurers
-## part 5—apportionment
-### Division 8.5.1—Apportionment of premiums and other amounts between Australian jurisdictions
-### Division 8.5.2—Apportionment of premiums and other amounts as between different types of insurance
-## part 6—exempt insurance
-## part 7—miscellaneous
-## Chapter 9—motor vehicle registration
-## part 1—imposition and rates of duty
-## Part 2—exemptions
-## part 3—miscellaneous
-## chapter 10—miscellaneous duties
-## CHAPTER 11—GENERAL EXEMPTIONS FROM DUTY
-## chapter 12—miscellaneous
-## Part 1—stamping instruments
-## Part 2—enforcement
-## Part 3—Miscellaneous
+# Chapter 1 Preliminary
+# Chapter 2 Transactions concerning dutiable property
+## Part 2.1 Introduction and overview
+## Part 2.2 Dutiable value
+## Part 2.3 Rates of duty
+## Part 2.4 Special provisions
+## Part 2.5 Concessional rates of duty
+### Division 2.5.1 Trusts
+### Division 2.5.2 Superannuation
+### Division 2.5.3 Miscellaneous
+## Part 2.6 Exemptions
+# Chapter 3 Certain transactions treated as transfers
+## Part 3.1 Preliminary
+## Part 3.2 Acquisition of interests in certain landholders
+### Division 3.2.1 Landholding private corporations
+### Division 3.2.2 Acquisitions of interests in private corporations
+### Division 3.2.3 Charging of duty
+### Division 3.2.4 General and supplemental
+## Part 3.3 Entitlements arising from capital reductions or alterations of rights
+## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
+## Part 3.5 Allotment of shares by direction
+## Part 3.6 Voluntary transfers under the Financial Sector (Transfers of Business) Act 1999 (Cwlth)
+# Chapter 5 Lease instruments
+## Part 5.1 Preliminary
+## Part 5.2 Liability for duty
+## Part 5.3 Rates of duty
+## Part 5.4 Unascertainable lease costs
+## Part 5.5 Miscellaneous
+# Chapter 6 Hire of goods
+## Part 6.1 Preliminary
+## Part 6.2 Imposition and rates of duty
+## Part 6.3 Arrangements applicable to persons engaged in the business of hiring out goods
+## Part 6.4 Arrangements applicable to persons other than those engaged in the business of hiring out goods
+# Chapter 7 Mortgages
+# Chapter 8 Insurance
+## Part 8.1 Preliminary
+## Part 8.2 General insurance
+## Part 8.3 Life insurance
+## Part 8.4 Payment of duty by insurers
+## Part 8.5 Apportionment
+### Division 8.5.1 Apportionment of premiums and other amounts between Australian jurisdictions
+### Division 8.5.2 Apportionment of premiums and other amounts as between different types of insurance
+## Part 8.6 Exempt insurance
+## Part 8.7 Miscellaneous
+# Chapter 9 Motor vehicle registration
+## Part 9.1 Imposition and rates of duty
+## Part 9.2 Exemptions
+## Part 9.3 Miscellaneous
+# Chapter 10 Miscellaneous duties
+# Chapter 11 General exemptions from duty
+# Chapter 12 Miscellaneous
+## Part 12.1 Stamping instruments
+## Part 12.2 Enforcement
+## Part 12.3 Miscellaneous
+# Chapter 13 Transitional
