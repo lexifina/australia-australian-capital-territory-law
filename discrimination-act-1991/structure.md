@@ -5,7 +5,7 @@
 ### Division 2—Discrimination in other areas
 ## PART IV—EXCEPTIONS TO UNLAWFUL DISCRIMINATION
 ### Division 1—General exceptions
-### Division 2—Exceptions relating to sex, marital status or pregnancy
+### Division 2—Exceptions relating to sex, marital status, pregnancy or breastfeeding
 ### Division 3—Exceptions relating to race
 ### Division 4—Exceptions relating to religious or political convictions
 ### Division 5—Exceptions relating to impairment
