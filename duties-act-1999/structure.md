@@ -3,7 +3,7 @@
 ## PART 1—INTRODUCTION AND OVERVIEW
 ## part 2—dutiable value
 ## Part 3—Rates of duty
-## Part 4—Off-market transfers of marketable securities
+## Part 4—Off-market transfers of marketable securities5
 ### Division 2.4.1—SCH-regulated transfers (CHESS)
 ### Division 2.4.2—The securities clearing house
 ### Division 2.4.3—London Stock Exchange
@@ -25,13 +25,13 @@
 ## PART 3—ENTITLEMENTS ARISING FROM CAPITAL REDUCTIONS OR ALTERATIONS OF RIGHTS
 ## Part 4—acquisition of land use entitlements by allotment of shares or issue of units
 ## part 5—allotment of shares by direction
-## CHAPTER 4—ON-MARKET TRANSFERS OF MARKETABLE SECURITIES
-## Part 1—preliminary
-## Part 2—Liability for duty
-## part 3—rates of duty
-## Part 4—records of transfers
-## part 5—periodic returns and payment of duty
-## part 6—miscellaneous
+## CHAPTER 4—ON-MARKET TRANSFERS OF MARKETABLE SECURITIES5
+## Part 1—preliminary5
+## Part 2—Liability for duty5
+## part 3—rates of duty5
+## Part 4—records of transfers5
+## part 5—periodic returns and payment of duty5
+## part 6—miscellaneous5
 ## chapter 5—lease instruments
 ## part 1—preliminary
 ## Part 2—liability for duty
