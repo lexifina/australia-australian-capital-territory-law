@@ -1,11 +1,11 @@
-## part 1—preliminary
-## part 2—health care principles
-## part 3—public sector quality assurance committees
-### Division 1—General
-### Division 2—Confidentiality and evidentiary matters
-## Part 3A—private sector quality assurance committees
-### Division 1—General
-### Division 2—Confidentiality and evidentiary matters
-## part 4—clinical privileges
-## part 6—administrative review
-## Part 7—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Health care principles
+## Part 3 Public sector quality assurance committees
+### Division 3.1 General
+### Division 3.2 Confidentiality and evidentiary matters
+## Part 4 Private sector quality assurance committees
+### Division 4.1 General
+### Division 4.2 Confidentiality and evidentiary matters
+## Part 5 Clinical privileges
+## Part 6 Administrative review
+## Part 7 Miscellaneous
