@@ -5,7 +5,7 @@ Provisions to the effect of the following provisions are to be included in the c
 1 A shareholder who is a Minister ceases to be eligible to hold shares in the company on ceasing to be a Minister, and may thereafter exercise no right as a shareholder (except to transfer his or her shares as directed by the Chief Minister).
 3 All decisions relating to the operation of a company are to be made by or under the authority of the directors in accordance with the statement of corporate intent of the company or, if the company is a subsidiary, of the Territory owned corporation that is the ultimate holding company.
 4 The company, its directors and its voting shareholders shall comply with the Territory Owned Corporations Act 1990.
-5 Where—
+5 If—
   (a) an appointment referred to in the Territory Owned Corporations Act 1990, section 12 (3) is made; and
   (b) the voting shareholders have not complied with the Territory Owned Corporations Act 1990, section 12 (2);
 the director appointed holds office—
@@ -25,7 +25,7 @@ Provisions to the effect of the following provisions are to be included in the c
 6 The quorum at a general meeting shall consist of 2 voting shareholders present in person or by proxy.
 7 The company must register a transfer of a voting share or a right relating to a voting share that is signed by the Chief Minister on behalf of the transferor and is accompanied by a declaration by the Chief Minister that the signature of the holder of the share or right cannot readily be obtained.
 8 The company must register a transfer of a non-voting share or a right relating to a non-voting share that is signed by the Treasurer on behalf of the transferor and is accompanied by a declaration by the Treasurer that the signature of the holder of the share or right cannot readily be obtained.
-9 The company may only register a transfer of a share or a right if the transfer has been made under a direction under the Territory Owned Corporations Act 1990, section 13 or under a provision required to be included in the constitution of the company by clause 7 or 8.
+9 The company may only register a transfer of a share or a right if the transfer has been made under a direction under the Territory Owned Corporations Act 1990, section 13 or under a provision required to be included in the constitution of the company by clause 7 or clause 8.
 ## Part 3.3
 Provisions to the effect of the following provisions are to be included in the constitution of a company that is a subsidiary:
 1 A person shall not be appointed as director unless the voting shareholders consent to the appointment.
