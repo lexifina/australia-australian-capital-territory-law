@@ -1,13 +1,9 @@
 # SCHEDULE 2 Section 10
-Part I
-Injuries in respect of which the amount of compensation specified in section 10 (1) is payable
 Loss of both eyes
 Loss of an only useful eye, the other being blind or absent
 Loss of both hands
 Loss of hand and foot
 Loss of both feet
-Part II
-Injuries in respect of which a percentage of the amount of compensation specified in section 10 (1) is payable
 Second
 First Column Column
 Nature of Injury Percentage

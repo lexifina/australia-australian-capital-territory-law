@@ -1,5 +1,4 @@
 # SCHEDULE 4 Section 24
-RULES RELATING TO ARBITRATIONS UNDER THIS ACT
 \1. For the purpose of settling any matter which, under this Act, is to be settled by arbitration, if any committee, representative of an employer and the employer’s workers, exists with power to settle matters under this Act in the case of the employer and workers, the matter shall, unless either party objects by notice in writing sent to the other party before the committee meets to consider the matter, be settled by the arbitration of the committee, or be referred by it, in its discretion, to arbitration as provided in this Schedule.
 \2. If either party so objects, or there is no such committee, or the committee so refers the matter or fails to settle the matter within one month from the date of the claim, the matter shall be settled by the Court by arbitration.
 \3. The Commercial Arbitration Act 1986 does not apply to an arbitration under this Act, but a committee may, if it thinks fit, submit a question of law for the decision of the Court.
