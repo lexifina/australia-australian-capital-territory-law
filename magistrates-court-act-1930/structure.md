@@ -41,7 +41,8 @@
 ### Division 3—Orders to Review
 ### Division 4—General Provisions
 ## Part XII—Protection Of Magistrates In The Execution Of Their Office
-## Part XIII—Costs And Fees
+## Part XIII—Costs
+## part XiiiA—fees and charges
 ## Part XIV—Securities
 ## Part XV—Miscellaneous
 ## The ScheduleS
