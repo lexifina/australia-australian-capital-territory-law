@@ -1,17 +1,18 @@
-## part i—preliminary
-## part II—the commission
-### Division 1—Establishment, functions and powers of the Commission
-### Division 2—Constitution of the Commission
-## part iii—ROLE OF THE COMMISSION IN DEALING WITH THE SOCIAL EFFECTS OF GAMBLING
-### Division 1—Monitoring and research
-### Division 2—Dealing with social effects of gambling
-## part IV—powers of investigation
-### Division 1—Authorised officers
-### Division 2—Powers of Investigation
-### Division 3—Co-operation with other jurisdictions
-### Division 4—Secrecy
-## Part V—Inquiries
-## Part VI—Tax administration
-## part VII—Casino control
-## part VIII—Racing
-## part IX—miscellaneous
+## Part 1 Preliminary
+## Part 2 The commission
+### Division 2.1 Establishment, functions and powers of commission
+### Division 2.2 Constitution of commission
+## Part 3 Role of commission in dealing with social effects of gambling
+### Division 3.1 Monitoring and research
+### Division 3.2 Dealing with social effects of gambling
+## Part 4 Powers of investigation
+### Division 4.1 Authorised officers
+### Division 4.2 Powers of investigation
+### Division 4.3 Cooperation with other jurisdictions
+### Division 4.4 Secrecy
+## Part 5 Inquiries
+## Part 6 Tax administration
+## Part 7 Casino control
+## Part 8 Racing
+## Part 8A Service of documents
+## Part 9 Miscellaneous
