@@ -5,16 +5,17 @@ The Minister shall appoint a person employed under the Public Sector Management 
 ## 2 Appointment of ordinary members
 (1) The Minister shall appoint eligible persons to be ordinary members.
 (2) Subject to this clause, a person is eligible if the person—
-  (a) is of good character and has a good reputation in his profession or business; and
+  (a) is of good character and has a good reputation in the person’s profession or business; and
   (b) has suitable experience and qualifications to perform the duties of a member.
 (3) A person is not eligible if—
-  (a) the person or the person’s spouse has an interest in a business subject to a gaming law; or
+  (a) the person or the person’s domestic partner has an interest in a business subject to a gaming law; or
+  Note For the meaning of domestic partner, see Legislation Act, s 169.
   (b) the person has a close personal association with a person who is not of good character and business reputation; or
   (c) the person has a business or financial association with a person who is not of good character and business reputation; or
   (d) the person has been convicted of an offence against a gaming law or a corresponding law; or
   (e) the person has, within the period of 5 years before the proposed appointment, been convicted of an offence punishable by imprisonment for 12 months or more.
 (4) In this section—
-  (a) a reference to a conviction includes a reference to an order made in relation to the person under the Crimes Act 1900, section 556A; and
+  (a) a reference to a conviction includes a reference to an order made in relation to the person under the Crimes Act 1900, section 402; and
   (b) a reference to a corresponding law is a reference to a law of another jurisdiction, whether within or outside Australia, that regulates gaming or racing.
 (5) An ordinary member shall be appointed on a part-time basis.
 ## 3 Appointment of chairperson
