@@ -4,14 +4,14 @@
 ## Part 4 Female genital mutilation
 ## Part 5 Sexual servitude
 ## Part 6 Offences relating to property
-### Division 6.1 Interpretation
+### Division 6.1 Interpretation for part 6
 ### Division 6.2 Theft and related offences
 ### Division 6.3 Criminal damage to property
-### Division 6.4 Forgery and the use of forged instruments
+### Division 6.4 Forgery and use of forged instruments
 ### Division 6.5 Offences relating to computers
 ### Division 6.6 Contamination of goods and related offences
-### Division 6.6A Offences relating to causing public alarm
-### Division 6.7 Miscellaneous
+### Division 6.7 Offences relating to causing public alarm
+### Division 6.8 Miscellaneous
 ## Part 7 Escape provisions
 ## Part 8 Perjury and like offences
 ## Part 9 Aiding and abetting, accessories, attempts, incitement and conspiracy
@@ -41,9 +41,9 @@
 ## Part 19 Community service orders
 ## Part 20 Inquiries into convictions
 ### Division 20.1 Preliminary
-### Division 20.2 How to start an inquiry
+### Division 20.2 How to start inquiry
 ### Division 20.3 Inquiry procedure
 ### Division 20.4 Supreme Court orders following inquiry report
 ### Division 20.5 Application to earlier convictions
 ## Part 21 Grant of pardon and remission of penalties
-## Part 22 Miscellaneous enactments
+## Part 22 Miscellaneous
