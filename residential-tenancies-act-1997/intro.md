@@ -1,2 +1,2 @@
 # Residential Tenancies Act 1997
-U An Act relating to residential tenancies
+An Act relating to residential tenancies and occupancy agreements

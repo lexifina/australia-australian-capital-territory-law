@@ -1,4 +1,7 @@
 ## Part 1 Preliminary
+## Part 1A Meaning of residential tenancy agreement
+## Part 2 Residential tenancy agreements
+### Division 2.1 Terms of agreement
 ### Division 2.2 Precontractual obligations
 ### Division 2.3 Consideration
 ### Division 2.4 Lessor’s obligations on signing agreement
@@ -16,6 +19,9 @@
 ### Division 4.6 Abandonment of premises
 ### Division 4.7 Miscellaneous
 ## Part 5 Rental rate increases
+## Part 5A Occupancy agreements
+## Part 6 Resolution of residential tenancy and occupancy disputes
+### Division 6.1A Important concepts
 ### Division 6.1 Action by registrar
 ### Division 6.2 Applications
 ### Division 6.3 Preliminary conferences
@@ -29,3 +35,4 @@
 ### Division 7.4 Other matters about tribunal
 ## Part 8 Referrals and appeals to Supreme Court
 ## Part 9 Miscellaneous
+## Part 10 Transitional
