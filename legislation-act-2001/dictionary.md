@@ -126,6 +126,8 @@ document includes—
   (b) anything on which there are figures, marks, numbers, perforations, symbols or anything else having a meaning for persons qualified to interpret them; or
   (c) anything from which images, sounds, messages or writings can be produced or reproduced, whether with or without the aid of anything else; or
   (d) a drawing, map, photograph or plan.
+domestic partner—see section 169 (1).
+domestic partnership—see section 169 (2).
 DPP—see definition of director of public prosecutions.
 driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
@@ -189,6 +191,7 @@ interest, in relation to land or other property, means—
   (a) a legal or equitable estate in the land or other property; or
   (b) a right, power or privilege over, or in relation to, the land or other property.
 internal Territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
+intersex person—see section 169B.
 Jervis Bay Territory means the Territory accepted by the Commonwealth under the Jervis Bay Territory Acceptance Act 1915 (Cwlth).
 Note The Jervis Bay Territory is described in the agreement set out in that Act, schedule.
 judge means a resident judge, additional judge or acting judge under the Supreme Court Act 1933.
@@ -277,6 +280,7 @@ public service means the Australian Capital Territory Public Service.
 Note The Public Sector Management Act 1994, s 12 deals with the constitution of the public service.
 public trustee means the Public Trustee for the Australian Capital Territory under the Public Trustee Act 1985.
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
+recognised transgender person—see section 169A (3).
 registered surveyor means a surveyor under the Surveyors Act 2001.
 registrable instrument—see section 12 (Meaning of registrable instrument).
 registrar means—
@@ -326,9 +330,6 @@ summary offence—see section 190 (2).
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
 swear, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
-the Territory means—
-  (a) when used in a geographical sense—the Australian Capital Territory; or
-  (b) in any other case—the body politic established by the Self-Government Act, section 7.
 Territory authority means a body established under an Act.
 Territory instrumentality means a corporation that—
   (a) is established under an Act or statutory instrument, or under the Corporations Act; and
@@ -338,6 +339,10 @@ Territory land means Territory Land under the Australian Capital Territory (Plan
 Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land (see the definition above) it is Territory land.
 Territory owned corporation means a Territory owned corporation under the Territory Owned Corporations Act 1990.
 Territory plan means the Territory plan under the Land (Planning and Environment) Act 1991.
+the Territory means—
+  (a) when used in a geographical sense—the Australian Capital Territory; or
+  (b) in any other case—the body politic established by the Self-Government Act, section 7.
+transgender person—see section 169A (1) and (2).
 transitional includes saving.
 Treasurer means the Minister designated Treasurer by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Treasurer.
 tribunal includes any entity that is authorised to hear, receive and examine evidence.
