@@ -1,7 +1,7 @@
-## Part I—Preliminary
-## Part II—Administration
-## Part III—Clinical Waste Manual
-## Part IV—Licences
-## Part V—Offences
-## Part VI—Enforcement
-## Part VII—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Administration
+## Part 3 Clinical waste manual
+## Part 4 Licences
+## Part 5 Offences
+## Part 6 Enforcement
+## Part 7 Miscellaneous
