@@ -1,1 +1,2 @@
-An Act relating to the Conduct of Certain Proceedings in Courts
+# Enforcement of Public Interests Act 1973
+An Act relating to the conduct of certain proceedings in courts
