@@ -44,7 +44,7 @@ public money means all money received by the Territory, including the proceeds o
   (e) money received by the Territory—
     (i) in repayment of an investment made by the Territory for a Territory authority; or
     (ii) as interest on such an investment.
-public trading enterprise means an organisation whose primary function is to provide goods and services that are mainly market orientated, non-regulatory and non-financial in nature and who recover a significant part of their costs from individual consumers.
+public trading enterprise means an organisation whose primary function is to provide goods and services that are mainly market orientated, non-regulatory and non-financial in nature and who may recover a significant part of their costs from individual consumers.
 public trading enterprise sector means those organisations whose primary function is to provide goods and services that are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
 responsible chief executive, in relation to a department, means—
   (a) if the department is constituted by an administrative unit or a part of an administrative unit—the chief executive of that administrative unit; or
