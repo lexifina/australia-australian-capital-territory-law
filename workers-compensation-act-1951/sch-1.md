@@ -1,7 +1,7 @@
-# U Schedule 1 Compensation for permanent injuries
+# Schedule 1 Compensation for permanent injuries
 (see s 48 and s 51)
 column 1 | column 2 | column 3
-item | nature of injury | % of maximum amount payable
+item | nature of injury | % of single loss amount payable
  | Speech loss | 
 1 | loss of power of speech | 60
  | Sensory loss | 

@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 ABS means the Australian Bureau of Statistics established under the Australian Bureau of Statistics Act 1975 (Cwlth).
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
@@ -50,6 +50,7 @@ injury management program, for chapter 5 (Injury management process)—see secti
 injury notice—
   (a) for chapter 5 (Injury management process)—see section 93 (2) (Early notification of workplace injury); and
   (b) for chapter 6 (Claims)—see section 120 (Time for taking proceedings generally).
+inspector means an inspector appointed under section 188 (1).
 insurer—
   (a) for chapter 5 (Injury management process), means—
     (i) an approved insurer or a self-insurer; or
