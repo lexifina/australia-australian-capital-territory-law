@@ -1,3 +1,2 @@
-Australian Capital Territory
-mercantile law act 1962
-An Act relating to Mercantile Agents, Guarantors and Sureties, Usury, Written Memoranda and Warehousemen’s Liens
+# Mercantile Law Act 1962
+An Act relating to mercantile agents, guarantors and sureties, usury, Written memoranda and warehouse persons’ liens
