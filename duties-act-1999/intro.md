@@ -1,3 +1,4 @@
+  As in force on
+  31 March 2000
 Australian Capital Territory
-duties act 1999
-An Act to create and charge various duties
+Duties Act 1999
