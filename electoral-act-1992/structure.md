@@ -4,24 +4,23 @@
 ### Division 1—Establishment, functions and powers
 ### Division 2—Members
 ### Division 3—Meetings
-## Part III—electoral commissioner1
-### Division 1—Electoral Commissioner1
-### Division 2—Staff of the Electoral Commission1
+## Part III—Electoral commissioner and staff of Electoral Commission
+### Division 1—Electoral Commissioner
+### Division 2—Staff of the Electoral Commission
 ## part IV—electorates
-## part V—miscellaneous1
-## part v—electoral rolls1
-## part vI—enrolment1
-## part vii—registration of political parties1
-## part viii—timing of elections1
-## part ix—arrangements for elections1
-## part x—voting1
-## part xi—polling in antarctica1
-## part xii—the scrutiny1
-## part xiii—casuAl vacancies1
-## part xiv—election funding and financial disclosure1
-## part xv—review of decisions1
-## part xvi—disputed elections, eligibility and vacancies1
-## part xvii—electoral offences1
-## part xviii—enforcement proceedings1
-## part xix—miscellaneous1
-## schedules 1-41
+## part v—electoral rolls2
+## part vI—enrolment2
+## part vii—registration of political parties2
+## part viii—timing of elections2
+## part ix—arrangements for elections2
+## part x—voting2
+## part xi—polling in antarctica2
+## part xii—the scrutiny2
+## part xiii—casuAl vacancies2
+## part xiv—election funding and financial disclosure2
+## part xv—review of decisions2
+## part xvi—disputed elections, eligibility and vacancies2
+## part xvii—electoral offences2
+## part xviii—enforcement proceedings2
+## part xix—miscellaneous2
+## schedules 1-42
