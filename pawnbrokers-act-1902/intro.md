@@ -1,2 +1,2 @@
 # Pawnbrokers Act 1902
-U An Act to consolidate the enactment regulating the trade or business of pawnbrokers
+An Act to provide for the licensing and regulation of pawnbrokers, and for other purposes
