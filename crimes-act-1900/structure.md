@@ -1,5 +1,6 @@
 ## Part 1 Preliminary
 ## Part 2 Offences against the person
+## Part 2A Industrial manslaughter
 ## Part 3 Sexual offences
 ## Part 4 Female genital mutilation
 ## Part 5 Sexual servitude

@@ -21,13 +21,18 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · summary offence (see also s 190)
 · the Territory
 · transgender person (see s169A).
+agent, for part 2A (Industrial manslaughter)—see section 49A.
 aggravated offence, for part 5 (Sexual servitude)—see section 81.
 bail undertaking means an undertaking given by a person charged with an offence to obtain bail in relation to the offence.
+causes death, for part 2A (Industrial manslaughter)—see section 49A.
 child—
   (a) means a person who has not attained the age of 18 years; and
   (b) in relation to a person, includes a child—
     (i) who normally or regularly resides with the person; or
     (ii) of whom the person is a guardian.
+commissioner for OH&S, for part 2A (Industrial manslaughter)—see section 49A.
+conduct, for part 2A (Industrial manslaughter)—see the Criminal Code, section 13.
+death, for part 2A (Industrial manslaughter)—see the Criminal Code, section 13.
 director of public prosecutions means—
   (a) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1990; or
   (b) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1983 (Cwlth);
@@ -42,7 +47,12 @@ domestic violence offence means behaviour directed at a relevant person that is 
     (ii) section 7 (1) (which is about furious, reckless or dangerous driving);
     (iii) section 8 (1) or (2) (which are about menacing driving).
 Note A reference to an offence against a Territory law includes a reference to a related ancillary offence, eg attempt (see Legislation Act 2001, s 189).
+employee, for part 2A (Industrial manslaughter)—see section 49A.
+employer, for part 2A (Industrial manslaughter)—see section 49A.
+government, for part 2A (Industrial manslaughter)—see the Legislation Act, section 121 (6).
+government entity, for part 2A (Industrial manslaughter)—see section 49A.
 grievous bodily harm includes any permanent or serious disfiguring of the person.
+independent contractor, for part 2A (Industrial manslaughter)—see section 49A.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
 knife includes—
   (a) a knife blade; and
@@ -55,7 +65,11 @@ offensive weapon means—
   (a) anything made or adapted for use, or capable of being used, for causing injury to or incapacitating a person; or
   (b) anything intended for that use by the person who is carrying it or otherwise has it in his or her possession;
 and includes an imitation or replica of an offensive weapon.
-officer, in relation to a body corporate or public company, includes a person who has been appointed or who acts as an auditor of the body corporate or public company.
+officer—
+  (a) of a corporation, for part 2A (Industrial manslaughter)—see the Corporations Act, section 9; and
+  (b) in relation to a body corporate or public company, for the Act—includes a person who has been appointed or who acts as an auditor of the body corporate or public company.
+outworker, for part 2A (Industrial manslaughter)—see section 49A.
+provide services, for part 2A (Industrial manslaughter)—see section 49A.
 relative, of a person (the original person)—
   (a) means the original person’s—
     (i) father, mother, grandfather, grandmother, stepfather, stepmother, father-in-law or mother-in-law; or
@@ -73,9 +87,13 @@ relevant person, in relation to a person (the original person), means—
 school means—
   (a) a school or college established or maintained by or on behalf of the Territory; or
   (b) a school or college registered or provisionally registered under the Education Act 1937.
+senior officer, for part 2A (Industrial manslaughter)—see section 49A.
+serious harm, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
 tainted property, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 10.
 target material, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 195.
 trustee means a trustee on some express trust howsoever created, and includes the heir or personal representative of such trustee, and every other person on whom the duty of such trust shall have devolved, and also any official manager, assignee, liquidator, or other like officer, acting under any Act relating to joint-stock companies or to bankruptcy or insolvency.
 vessel means any ship or vessel used in or intended for navigation, other than an undecked boat.
+volunteer, for part 2A (Industrial manslaughter)—see section 49A.
+worker, for part 2A (Industrial manslaughter)—see section 49A.
