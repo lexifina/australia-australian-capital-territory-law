@@ -39,6 +39,7 @@ employment includes—
   (b) work as a Territory employee; and
   (c) work as an unpaid worker.
 employment agency means any person who or body that (whether for payment or not) assists people to find employment or other work or assists employers to find employees or workers.
+HIV/AIDS status, for part 6 (Racial, sexuality and HIV/AIDS vilification)—see section 65.
 investigation means an investigation under division 8.2.
 man means a member of the male sex irrespective of age.
 member, of the tribunal, means the president or a deputy president.
@@ -53,7 +54,7 @@ president means the president of the tribunal.
 principal means—
   (a) for a commission agent—a person for whom the commission agent does work as a commission agent; or
   (b) for a contract worker—a person for whom the contract worker does work under a contract between the contract worker’s employer and the person.
-public act, for part 6 (Racial vilification)—see section 65.
+public act, for part 6 (Racial, sexuality and HIV/AIDS vilification)—see section 65.
 race includes—
   (a) colour, descent, ethnic and national origin and nationality; and
   (b) any 2 or more distinct races that are collectively referred to or known as a race.
