@@ -1,5 +1,4 @@
-# 92 Expiry of div 7.7
-This division expires on 2 March 2003.
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:

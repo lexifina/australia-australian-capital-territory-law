@@ -22,5 +22,3 @@
 ## Part 7 Transitional provisions
 ### Division 7.1 General
 ### Division 7.6 Small buses
-### Division 7.7 Taxis
-## Dictionary
