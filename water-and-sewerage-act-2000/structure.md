@@ -9,4 +9,3 @@
 ### Division 4.3 Powers of inspectors on entry to premises
 ### Division 4.4 Miscellaneous
 ## Part 5 Miscellaneous
-## Dictionary
