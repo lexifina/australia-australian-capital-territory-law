@@ -1,8 +1,8 @@
-## Part I—Preliminary
-## Part II—Staff of Office-Holders
-## Part III—Staff of Members
-## Part iiia—officers and employees of the government service employed by assembly members
-## part IIIB—Consultants and contractors
-### Division 1—Office-holders
-### Division 2—Members
-## Part IV—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Staff of office-holders
+## Part 3 Staff of members
+## Part 4 Public servants employed by members
+## Part 5 Consultants and contractors
+### Division 5.1 Office-holders
+### Division 5.2 Members
+## Part 6 Miscellaneous
