@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -11,6 +11,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · statutory declaration
 · the Territory.
 accident, for part 10 (Compulsory vehicle insurance)—see motor accident.
+accredited operator, of a public vehicle, for division 10.12 (Additional insurance for public vehicles)—see section 216A.
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
@@ -43,7 +44,7 @@ Note An external driver licence is a foreign driver licence or an external Terri
 home address, of a person, means the address of the place where the person usually lives.
 hospital treatment—see section 158 (Definitions for pt 10).
 illegal user declaration means a statutory declaration mentioned in section 38.
-infringement notice means a notice under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible persons for vehicles).
+infringement notice means a notice under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible people for vehicles).
 infringement notice declaration means an illegal user declaration, known user declaration, sold vehicle declaration or unknown user declaration.
 infringement notice offence means an offence prescribed under the regulations as an infringement notice offence.
 infringement notice penalty, for a person for an infringement notice offence, means—
@@ -65,12 +66,7 @@ offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
 owner, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
-private hire car—see section 100 (Definitions for pt 9).
-private hire car operator’s licence—see subsection 120 (1).
-public bus—see the Road Transport (Public Passenger Services) Act 2001, dictionary.
-public vehicle—
-  (a) for part 9 (Public vehicles)—see section 100; and
-  (b) for part 10 (Compulsory vehicle insurance)—see section 158.
+public vehicle, for part 10 (Compulsory insurance)—see section 158.
 public vehicle policy—see section 218.
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
@@ -78,8 +74,6 @@ registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, di
 registration, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
 reminder notice, for part 3 (Infringement notices for certain offences), means a notice under section 33.
 responsible person, for a vehicle—see sections 10 and 11.
-restricted hire vehicle—see section 100 (Definitions for pt 9).
-restricted hire vehicle operator’s licence—see section 126 (1).
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 reviewable decision—see section 90 (1) (Application of pt 7 etc).
 revocation notice—see section 86 (1) (Revocation of suspension of driver licence, registration etc).
@@ -96,9 +90,7 @@ road related area means—
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
-sightseeing vehicle operator’s licence—see section 135 (1).
 sold vehicle declaration means a statutory declaration mentioned in section 40.
-taxi—see the Road Transport (Public Passenger Services) Act 2001, section 45 (Meaning of taxi).
 third-party policy—see section 158 (Definitions for pt 10).
 total loss, in relation to a vehicle for division 5.3 (Written-off vehicles register)—see section 83C.
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
