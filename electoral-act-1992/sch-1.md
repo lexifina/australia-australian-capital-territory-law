@@ -1,5 +1,5 @@
-# SCHEDULE 1 Section 114
-form of ballot paper
+# Schedule 1 Form of ballot paper
+(see s 114)
 Legislative Assembly for the Australian Capital Territory
 Ballot paper Election of [1] Member(s)
 Electorate of [2]
@@ -14,4 +14,4 @@ Then you may show as many further preferences as you wish by writing numbers fro
  |  |  |  |  |  |  |  |  |  |  | [7]
 Remember, number at least [1] boxes from 1 to [1] in the order of your choice.
 \1. Insert number of vacancies 5. Insert ‘UNGROUPED’ if there are 2. Insert name of electorate ungrouped candidates
-\3. Insert the number that is 1 more than the number 6. Insert name of candidate of vacancies 7. Insert name, or abbreviation of 4. Insert name, or abbreviation of name, of registered name, of registered political party, or political party, as required ‘INDEPENDENT’, as required
+\3. Insert the number that is 1 more than the number 6. Insert name of candidate of vacancies 7. Insert name, or abbreviation of 4. Insert name, or abbreviation of name, of registered name, of registered party or registered party or registered ballot group, as required ballot group, or ‘INDEPENDENT’, as required
