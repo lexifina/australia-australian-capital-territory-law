@@ -1,4 +1,4 @@
-# Schedule 2 Disqualifying offences—this Act
+# U Schedule 2 Disqualifying offences—this Act
 (see s 6 (1), def disqualifying offence, par (a) (ii))
 column 1 | column 2 | column 3
 item | section | description
