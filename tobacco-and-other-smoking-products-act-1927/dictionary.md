@@ -12,7 +12,7 @@ cigar—
   (b) includes any other smoking product prescribed as a cigar under the regulations.
 deputy registrar means a deputy Registrar of Tobacco under section 30.
 display, of a smoking product at a point of sale display at a retail or wholesale outlet, means display to customers of the retail or wholesale outlet.
-drug means a substance that is specified in the Drugs of Dependence Regulations 1993, schedule 1 or 2.
+drug means a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences).
 herbal product means a product prepared for smoking that contains a herb or other plant matter but does not contain tobacco or a drug.
 identity card means—
   (a) in relation to a public health officer under the Public Health Act 1997—the identity card issued to him or her under that Act;
