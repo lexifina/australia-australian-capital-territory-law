@@ -1,0 +1,4 @@
+Australian Capital Territory
+Road Transport (General) Act 1999
+An Act to provide for the administration and enforcement of road transport legislation, to provide for the review of decisions made under road transport legislation, to make further provision about the use of vehicles on roads and road related areas, and for other purposes
+Note This Act and the regulations made under it form part of the road transport legislation. Other road transport legislation includes the Road Transport (Alcohol and Drugs) Act 1977, the Road Transport (Dimensions and Mass) Act 1990, the Road Transport (Driver Licensing) Act 1999, the Road Transport (Safety and Traffic Management) Act 1999, the Road Transport (Vehicle Registration) Act 1999 and the regulations made under those Acts.
