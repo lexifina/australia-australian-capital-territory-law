@@ -1,4 +1,4 @@
-# SCHEDULE 2 Sections 15 and 16
+# SCHEDULE 2 (See s 15 and s 16)
 Australian Capital Territory
 Coroners Act 1997
 Coroner’s Certificate

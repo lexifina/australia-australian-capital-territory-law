@@ -7,14 +7,14 @@
 ### Division 2—Inquiries into fires
 ### Division 3—Inquiries into disasters
 ## part 4—post-mortem examinations and exhumations
-## part V—inquests and inquiries
+## part 5—inquests and inquiries
 ### Division 1—Hearings
 ### Division 2—Witnesses
 ### Division 3—Evidence
 ### Division 4—Findings and reports
 ### Division 5—Indictable offences
 ### Division 6—General powers of coroners
-## part 6—deaths in custody: Additional provisions
+## part 6—deaths in custody—Additional provisions
 ## Part 7—offences
 ## Part 8—Powers of Supreme Court
 ## part 9—witnesses expenses and other amounts
