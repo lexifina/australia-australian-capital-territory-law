@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 accessory, in relation to a motor vehicle, means—
   (a) a car radio, sound reproducing equipment or an airconditioning unit fitted to the vehicle; or
@@ -104,7 +104,6 @@ register of interests, for part 4A (Registration of interests in motor vehicles)
 registrar means the Registrar of Motor Vehicle Dealers under section 5.
 registrable interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 relevant amount, for part 10 (Enforcement)—see section 66.
-relevant chief executive, for part 2 (Licences to carry on business as a dealer, wholesaler or car market operator)—see section 6B.
 relevant period for payment, for part 10 (Enforcement)—see section 66.
 schedule 3 offence, for part 10 (Enforcement)—see section 66.
 security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
