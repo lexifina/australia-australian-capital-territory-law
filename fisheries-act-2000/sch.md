@@ -1,0 +1,60 @@
+# DICTIONARY (See s 4)
+aquaculture means—
+    (a) cultivating fish or marine vegetation for harvesting the fish or vegetation or their progeny for sale; or
+    (b) keeping fish or marine vegetation in a confined area for a commercial purpose;
+  but does not include—
+    (c) keeping anything in a pet shop for sale or in an aquarium for exhibition (including an aquarium operated commercially); or
+    (d) anything done in maintaining a collection of fish or marine vegetation that is not used for a commercial purpose; or
+    (e) an activity prescribed by the regulations.
+boat means any kind of vessel, however navigated.
+conservation officer means a conservation officer under the Nature Conservation Act 1980.
+conservator means the conservator of flora and fauna under the Nature Conservation Act 1980.
+corresponding law means a law of a State that regulates fisheries.
+determined fee means a fee determined under section 113.
+environment—see the Environment Protection Act 1997, section 4.
+executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
+fin fish means a marine, estuarine or freshwater fish of the class pisces.
+fish means marine, estuarine or freshwater fish or other aquatic animal life, or any of their parts, at any stage of their history (whether alive or dead), and includes—
+    (a) abalone, oysters and other aquatic molluscs; and
+    (b) crustaceans; and
+    (c) echinoderms; and
+    (d) beachworms and other aquatic polychaetes;
+  but does not include—
+    (e) reptiles; and
+    (f) birds; and
+    (g) amphibians.
+fish dealer means a person who receives fish, for resale or other commercial use, from a person whom he or she knows or suspects or ought to know or suspect to be a commercial fisher, but does not include a person who receives fish only for the purpose of transporting them on behalf of the owner of the fish.
+fishing closure—see section 13.
+fishing gear means equipment, other than a vehicle or boat, used for taking fish.
+licence means—
+    (a) a commercial fishing licence; or
+    (b) a scientific licence; or
+    (c) an import and export licence;
+  issued under section 25.
+licensee means the holder of a licence.
+net includes anything attached to a net.
+newspaper means a newspaper published and circulating daily in the Territory.
+noxious fish means a species of fish declared to be noxious under section 14.
+possession includes having a thing in the custody of someone else.
+private waters means—
+    (a) waters of a dam, water storage or other water control structure that is not situated on a waterway; and
+    (b) waters used for aquaculture.
+processing means break up, can, chill, cook, cut up, freeze, pack, preserve, purge, shell, shuck, skin or otherwise treat or process fish.
+public waters means all waters other than private waters.
+receive fish, means receive fish from someone else, whether by purchase or otherwise, for any purpose other than—
+    (a) personal or domestic consumption; or
+    (b) transportation.
+register means the register kept under section 35.
+registered means registered under this Act.
+sell includes—
+    (a) sell by wholesale, retail, auction or tender; and
+    (b) barter or exchange; and
+    (c) supply for profit; and
+    (d) offer for sale, receive for sale or expose for sale; and
+    (e) consign or deliver for sale; and
+    (f) have in possession for sale; and
+    (g) cause or allow anything mentioned in paragraphs (a) to (f) to be done.
+species, of fish, includes a sub-species, domesticated forms or hybrids of a species.
+take means to gather, catch, kill or remove fish from an aquatic habitat.
+vehicle—see the Road Transport (General) Act 1999, dictionary.
+waters means public waters and private waters.
