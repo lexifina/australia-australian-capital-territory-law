@@ -1,4 +1,4 @@
-# Schedule 1 Prescribed terms
+# U Schedule 1 Prescribed terms
 (see s 3 (1))
 Lessor and tenant must comply with terms of tenancy agreement
   1 (1) This tenancy agreement is made under the Residential Tenancies Act 1997 (the Residential Tenancies Act).
