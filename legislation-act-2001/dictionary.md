@@ -106,12 +106,14 @@ Note The Consumer Credit (Administration) Act 1996 deals with the establishment,
 credit union means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the expression ‘credit union’; or
   (b) any other expression (whether or not in English) similar in meaning to the expression mentioned in paragraph (a).
+custodial escort means a person appointed as an escort under the Custodial Escorts Act 1998, section 4.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130 (What is a definition?).
 dentist means a registered dentist under the Dentists Act 1931.
 dental prosthetist means a registered dental prosthetist under the Dental Technicians and Dental Prosthestists Registration Act 1988.
 dental technician means a registered dental technician under the Dental Technicians and Dental Prosthestists Registration Act 1988.
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
+director of corrective services means the Director of Corrective Services under the Periodic Detention Act 1995.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
 disallowable instrument—see section 9 (Meaning of disallowable instrument).
 discrimination commissioner means the Discrimination Commissioner under the Discrimination Act 1991.
@@ -261,6 +263,7 @@ public servant means a person employed in the public service.
 public service means the Australian Capital Territory Public Service.
 Note The Public Sector Management Act 1994, s 12 deals with the constitution of the public service.
 public trustee means the Public Trustee for the Australian Capital Territory under the Public Trustee Act 1985.
+quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
 registered surveyor means a surveyor under the Surveyors Act 2001.
 registrable instrument—see section 12 (Meaning of registrable instrument).
 registrar means—
@@ -271,6 +274,8 @@ registrar-general means the Registrar-General under the Registrar-General Act 19
 registrar of firearms means the Registrar of Firearms under the Firearms Act 1996.
 registrar of liquor licences means the Registrar of Liquor Licences under the Liquor Act 1975.
 regulations, in relation to an Act, means regulations made or in force under the Act.
+remand centre means an area declared under the Remand Centres Act 1976 to be a remand centre or a temporary remand centre.
+remand centre administrator means the Administrator under the Remand Centres Act 1976, section 6.
 remuneration tribunal means the Remuneration Tribunal established by the Remuneration Tribunal Act 1995.
 repeal includes—
   (a) for an Act or statutory instrument—omit a provision of the Act or instrument; and
@@ -290,6 +295,7 @@ see, in a definition—see section 131 (Signpost definitions).
 Self-Government Act means the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
 self-government day means 11 May 1989.
 Note This is the day when the remaining provisions of the Self-Government Act commenced and, in particular, the Australian Capital Territory was established as a body politic, the Legislative Assembly was empowered to make laws for the ACT and the Executive was established.
+sentence administration board means the Sentence Administration Board under the Rehabilitation of Offenders (Interim) Act 2001.
 sign includes attach a seal and make a mark.
 sitting day, of the Legislative Assembly, means a day when the Assembly meets.
 Small Claims Court means the Magistrates Court when exercising jurisdiction as the Small Claims Court.
@@ -324,11 +330,14 @@ transitional includes saving.
 Treasurer means the Minister designated Treasurer by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Treasurer.
 tribunal includes any entity that is authorised to hear, receive and examine evidence.
 UK Act means an Act of the United Kingdom Parliament.
-under, in relation to an Act or statutory instrument or a provision of an Act or statutory instrument, includes all of the following:
+under, in relation to an Act or statutory instrument or a provision of an Act or statutory instrument, includes the following:
   (a) by;
-  (b) for or for the purposes of;
-  (c) in accordance with;
-  (d) within the meaning of.
+  (b) by virtue of;
+  (c) for or for the purposes of;
+  (d) in accordance with;
+  (e) in pursuance of;
+  (f) pursuant to;
+  (g) within the meaning of.
 United Kingdom means the United Kingdom of Great Britain and Northern Ireland.
 United Kingdom Parliament means—
   (a) the Parliament of England; or
