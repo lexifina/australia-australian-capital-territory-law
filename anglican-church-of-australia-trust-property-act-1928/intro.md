@@ -1,3 +1,2 @@
-Australian Capital Territory
-anglican church of australia trust property act 1928
-An Act relating to Church of England Trust Property
+# Anglican Church of Australia Trust Property Act 1928
+An Act relating to Church of England trust property
