@@ -13,9 +13,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Legislative Assembly
 · Minister (see s 162)
 · the Territory.
+arrangement, for payment of an assessment amount, for division 7.2 (Recovery of tax from directors of corporations)—see section 56A.
 assessment means—
   (a) an assessment, reassessment or compromise assessment of the tax liability of a person under a tax law, made by the commissioner under part 3; or
   (b) an assessment substituted by the tribunal on an appeal under part 10.
+assessment amount, for a corporation, for division 7.2 (Recovery of tax from directors of corporations)—see section 56A.
 authorised officer means an authorised officer under section 79.
 business means—
   (a) a profession or trade; or

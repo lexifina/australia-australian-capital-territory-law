@@ -9,6 +9,8 @@
 ### Division 6.1 General
 ### Division 6.2 Special arrangements for making returns and paying tax
 ## Part 7 Collection of tax
+### Division 7.1 General
+### Division 7.2 Recovery of tax from directors of corporations
 ## Part 8 Record keeping and general offences
 ### Division 8.1 Record keeping
 ### Division 8.2 General offences
