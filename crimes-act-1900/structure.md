@@ -18,7 +18,6 @@
 ### Division 1 Preliminary
 ### Division 1A Preventative action
 ### Division 2 Search warrants
-### Division 3 Stopping and searching conveyances
 ### Division 4 Arrest and related matters
 ### Division 5 General
 ## Part 10A Investigation of extraterritorial offences
