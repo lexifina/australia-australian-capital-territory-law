@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
 approved rehabilitation provider, for chapter 7 (Vocational rehabilitation)—see section 139 (Meaning of approved rehabilitation provider etc).
@@ -13,9 +13,10 @@ AWE means—
   (b) if the Australian Statistician issues a publication (however described) containing average weekly earnings in substitution for, or instead of, the average weekly earnings mentioned in paragraph (a)—the substituted average weekly earnings.
 awe indexed—see section 20.
 boilermakers deafness includes deafness of a similar origin.
-child, in relation to a worker, means an unmarried child of the worker who is—
-  (a) younger than 16; or
-  (b) a full-time student.
+child, of a worker, means a child of the worker who is—
+  (a) not in a domestic partnership; and
+  (b) under16 years old or a full-time student.
+Note For the meaning of domestic partnership, see the Legislation Act, s 169.
 chiropractor means a person entitled to practise as a chiropractor under the Chiropractors and Osteopaths Act 1983 or a corresponding law of a State or another Territory.
 committee, for a matter arising under the Act between an employer and the employer’s workers, means a committee that represents the employer and workers that has the power to decide the matter.
 compensable injury means an injury in relation to which compensation is payable under this Act.
@@ -31,6 +32,8 @@ dependant, of a dead worker, means an individual—
     (ii) a person to whom the worker acted in place of a parent or who acted in place of a parent for the worker.
 determined categories, of Territory workers, means the categories of workers determined by the Minister under section 8 (3) (Who is a worker?).
 disease includes any physical or mental ailment, disorder, defect or morbid condition, whether of sudden or gradual development, and also includes the aggravation, acceleration or recurrence of a pre-existing disease.
+domestic partner, of a worker who has died, means the person who was the worker’s domestic partner when the worker died.
+Note This definition qualifies the meaning of domestic partner given by the Legislation Act, s 169.
 employer—
   (a) see section 5 (Meaning of employer); and
   (b) for chapter 5 (Injury management process)–see section 87 (Meaning of employer and insurer if more than 1).
@@ -73,7 +76,8 @@ medical treatment means—
   (j) a consultation, examination, therapeutic treatment or other service reasonably rendered in relation to a treatment mentioned in paragraph (c), (d), (f), (g), (h) or (i); or
   (k) treatment and maintenance as a patient at a hospital; or
   (l) the provision of nursing attendance, medicines, medical and surgical supplies and curative apparatus in a hospital or otherwise.
-member of the family, in relation to a worker or an employer, means the grandchild, child, stepchild, adopted child, sister, brother, half-sister, half-brother, spouse, parent, step-parent, mother-in-law, father-in-law or grandparent of the worker or employer.
+member of the family, in relation to a worker or an employer, means the grandchild, child, stepchild, adopted child, sister, brother, half-sister, half-brother, domestic partner, parent, step-parent, mother-in-law, father-in-law or grandparent of the worker or employer.
+Note For the meaning of domestic partner, see the Legislation Act, s 169. If a worker has died, the definition of domestic partner elsewhere in the dictionary provides that the term refers to the person who was the worker’s domestic partner when the worker died.
 nominal insurer means the nominal insurer appointed under section 164 (1).
 nominated treating doctor, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
 non-business employer means an employer who employs the worker other than for work that is for (or incidental to) the employer’s trade or business.
@@ -105,7 +109,6 @@ single loss amount, for part 4.4 (Compensation for permanent injuries)—see sec
 speech therapist means—
   (a) a person entitled to practise as a speech therapist under a law of the Territory, a State or another Territory; or
   (b) a person who is a member of the Australian Association for Speech and Hearing.
-spouse, in relation to an injured or deceased worker, includes a person of the opposite sex to the worker who lives, or, in relation to a deceased worker, lived immediately before the worker’s death, with the worker as the worker’s spouse on a genuine domestic basis although not legally married to the worker.
 statutory floor means the federal minimum wage decided from time to time by the Australian Industrial Relations Commission under the Workplace Relations Act 1996 (Cwlth).
 substantial means real, actual or material.
 Territory worker means a worker of the Territory under section 33 (Compensation limited to Territory workers).
