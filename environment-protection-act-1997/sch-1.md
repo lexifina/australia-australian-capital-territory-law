@@ -12,6 +12,7 @@ bore means a bore, hole, well, excavation or other opening in the ground or an u
     (d) that extends into an aquifer.
 concert means a public performance of music the primary purpose of which is to entertain.
 concert venue means a place or location where a concert is being, or is proposed to be, conducted.
+environmental standards means the ACT’s Environmental Standards: Assessment and Classification of Liquid and Non-liquid Wastes published by Environment ACT, as in force for the time being.
 groundwater means water occurring or obtained from below the surface of the ground, including water occurring in or obtained from a bore or an aquifer, but not including water occurring in or obtained from any other system for the distribution, reticulation, transportation, storage or treatment of water or waste.
 live animal weight, for animals, means the weight of the animals calculated on the basis that—
     (a) for birds—555 layer chickens, 1,100 broiler chickens, 310 ducks, 165 geese, 110 turkeys or 17 emus represent 1t; or
@@ -25,6 +26,7 @@ motor racing event means—
 ozone-depleting substance means a substance listed in Schedule 1 to the Ozone Protection Act 1989 (Cwlth), whether existing alone or in a mixture.
 primary production has the same meaning as in the Income Tax Assessment Act 1936 (Cwlth).
 receiving waters means groundwater or water in a waterway.
+regulated waste—see clause 1A.
 road transport legislation—see Road Transport (General) Act 1999, section 6.
 stock has the same meaning as in the Stock Act 1991.
 stormwater means water run-off from an urban area that is normally collected by the stormwater system.
@@ -40,6 +42,16 @@ waterway means—
     (c) a lake, pond, lagoon or marsh (whether formed by geomorphic processes or by works) in which water collects (whether continuously or intermittently);
   and includes the bed that the water in the waterway normally flows over or is covered by and the banks that the water in the waterway normally flows between or is contained by, but does not include land normally not part of the waterway that may be covered from time to time by floodwaters from the waterway.
 year means any 12 month period.
+1A Meaning of regulated waste
+(1) Regulated waste means waste that is, or contains, 1 or more of the following kinds of waste:
+  (a) hazardous waste;
+  (b) group A waste;
+  (c) industrial waste;
+  (d) solid waste, other than—
+    (i) municipal waste; or
+    (ii) food waste; or
+    (iii) vegetable matter produced by agriculture or horticulture.
+(2) An expression used in subclause (1) and defined in the environmental standards has the same meaning as in the standards.
 2 Class A activities
 For the purposes of section 42, the following activities are class A activities:
   (a) the manufacture, sale, storage, supply, transport, use, servicing or disposal of, or other dealing with—
@@ -58,6 +70,8 @@ For the purposes of section 42, the following activities are class A activities:
     Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland;
   of more than 100m3 of soil for placement on that land;
   (f) transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies;
+  (fa) the provision of regulated waste for transportation from 1 place in the Territory to another place in the Territory;
+  (fb) the transportation of regulated waste from 1 place in the Territory to another place in the Territory.
   (g) sewage treatment, being an activity involving the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 persons per day, other than an activity involving the recycling of wastewater where there is no discharge to receiving waters;
   (ga) the treatment (other than by incineration), storage or handling of more than 1 000m3 of contaminated soil from land outside the parcel of land where the contaminated soil is treated, stored or handled;
   (gb) the treatment (other than by incineration), storage or handling of more than 10 000m3 of contaminated soil from land;
