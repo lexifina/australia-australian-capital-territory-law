@@ -1,7 +1,5 @@
-## Part I—Preliminary
-## Part II—Unclaimed Assets in Hands of Liquidators
-## Part III—Unclaimed Moneys
-## Part iv—unclaimed superannuation benefits
-## Part V—unclaimed RSA money
-## The Schedules
-## First Schedule Section 7
+## Part 1 Preliminary
+## Part 2 Unclaimed assets in hands of liquidators
+## Part 3 Unclaimed moneys
+## Part 4 Unclaimed superannuation benefits
+## Part 5 Unclaimed RSA money
