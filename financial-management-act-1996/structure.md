@@ -1,6 +1,6 @@
 ## Part 1 Preliminary
 ## Part 2 Territory budget and appropriations
-## Part 3 Financial Reports
+## Part 3 Financial reports
 ### Division 3.1 Financial reports of the Territory
 ### Division 3.2 Financial reports of departments
 ## Part 4 Financial management responsibilities of chief executives of departments
