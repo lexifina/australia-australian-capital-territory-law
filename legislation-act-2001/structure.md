@@ -53,4 +53,3 @@
 ## Part 19.6 Functions of Executive and Ministers
 ## Part 19.7 Other matters
 # Chapter 20 Miscellaneous
-# Chapter 21 Transitional
