@@ -66,4 +66,3 @@ trust money means—
   (c) money that belongs to or is due to any person and is collected by the Territory as a result of an agreement between the Territory and that person; or
   (d) unclaimed money that is due to or belongs to any person and is deposited with the Territory; or
   (e) money that is paid to the Territory in trust for any other lawful purpose including interest on trust money.
-warrant means an instrument by which the Treasurer authorises payments from the Territory banking account.
