@@ -15,6 +15,7 @@ Note 2 The Legislation Act 2001, dict, pt 1, defines the following terms that ar
   nurse
   police officer
   State
+  summary offence
   under.
 another participating jurisdiction—see section 100.
 another Territory means a Territory other than this Territory or the Northern Territory.
@@ -73,7 +74,6 @@ serious offence—see section 9 (Meaning of serious offence and serious offender
 serious offender—see section 9 (Meaning of serious offence and serious offender).
 serious offenders index—see section 94.
 statistical index—see section 94.
-summary offence means an offence that is punishable on summary conviction under the Legislation Act 2001, section 136.
 suspect—see section 8 (Meaning of suspect).
 suspects index—see section 94.
 telephone includes any telecommunications device.
