@@ -9,3 +9,4 @@
   (b) a question shall be decided by a majority of the votes of the members present and voting; and
   (c) the chairperson has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
 6 The commission shall keep minutes of its proceedings.
+7 To remove any doubt, a member of the commission who has taken part in a decision to reprimand a person under a gaming law is not prevented from taking part in a decision about whether further disciplinary action should be taken under that law for contravention of a direction included in the reprimand, only because the member took part in the decision to give the reprimand.
