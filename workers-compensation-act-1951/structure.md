@@ -1,11 +1,1 @@
-## PART I—PRELIMINARY
-## PART II—ENTITLEMENT TO COMPENSATION
-## part iia—occupational rehabilitation
-## PART III—INSURANCE
-## PART IV—COMPENSATION AND COMMON LAW REMEDIES
-## PART V—iNSPECTION
-## PART VI—PROCEDURE FOR PAYMENT OF COMPENSATION
-## part Via—weekly compensation payments
-## part viB—on-the-spot fines
-## PART VII—MISCELLANEOUS
-## part 8—transitional
+## Part 7 Miscellaneous
