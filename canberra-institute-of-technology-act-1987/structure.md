@@ -1,5 +1,5 @@
 ## Part I—Preliminary
-## Part II—A.C.T. Institute of Technical and Further Education
-## Part III—Director, Committee and Staff of Institute
+## PART II—CANBERRA INSTITUTE OF TECHNOLOGY
+## PART III—DIRECTOR, COUNCIL AND STAFF OF INSTITUTE
 ## Part IV—Finance
 ## Part V—Miscellaneous
