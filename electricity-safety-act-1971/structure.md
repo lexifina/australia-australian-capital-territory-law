@@ -1,5 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 The electrical licensing board
+## Part 2 The Electrical Licensing Board
 ## Part 3 The register of electrical contractors and electricians
 ## Part 4 Electrical wiring work
 ## Part 5 Licences and permits
