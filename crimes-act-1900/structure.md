@@ -1,46 +1,24 @@
 ## Part 1 Preliminary
-## Part 2 Offences against the person
-## Part 2A Industrial manslaughter
-## Part 3 Sexual offences
-## Part 4 Female genital mutilation
-## Part 5 Sexual servitude
-## Part 6 Offences relating to property
-### Division 6.2A Money laundering and organised fraud
-### Division 6.3 Criminal damage to property
-### Division 6.6 Contamination of goods and related offences
-### Division 6.7 Offences relating to causing public alarm
-### Division 6.8 Miscellaneous
-## Part 7 Escape provisions
-## Part 8 Perjury and like offences
-## Part 9 Accessories
-## Part 10 Criminal investigation
-### Division 10.1 Preliminary
-### Division 10.2 Preventative action
-### Division 10.3 Search warrants
-### Division 10.4 Powers to stop and search
-### Division 10.5 Arrest and related matters
-### Division 10.6 General
-## Part 11 Investigation of extraterritorial offences
-## Part 12 Procedure, evidence, verdict etc
-## Part 13 Unfitness to plead, mental illness and mental dysfunction
-### Division 13.1 Preliminary
-### Division 13.2 Unfitness to plead
-### Division 13.3 Acquittal on grounds of mental impairment
-### Division 13.4 Dismissal by Magistrates Court on grounds of mental impairment
-### Division 13.5 Referral of mentally dysfunctional or mentally ill persons to tribunal following conviction
-### Division 13.6 Summary proceedings against mentally dysfunctional or mentally ill persons
-## Part 15 Sentences
-### Division 15.1 General principles and procedures
-### Division 15.2 Pre-sentence reports
-## Part 16 Proceedings after sentence
-## Part 17 Offences punishable summarily and summary procedure generally
-## Part 18 Conditional release of offenders
-## Part 19 Community service orders
-## Part 20 Inquiries into convictions
-### Division 20.1 Preliminary
-### Division 20.2 How to start inquiry
-### Division 20.3 Inquiry procedure
-### Division 20.4 Supreme Court orders following inquiry report
-### Division 20.5 Application to earlier convictions
-## Part 21 Grant of pardon and remission of penalties
-## Part 22 Miscellaneous
+## Part 2 Nature conservation strategies, declarations and action plans
+### Division 2.1 The conservator and the service
+### Division 2.2 Flora and Fauna Committee
+#### Subdivision 2.2.1 Establishment, functions and powers
+#### Subdivision 2.2.2 Constitution and meetings
+## Part 3 Nature conservation and declarations
+### Division 3.1 Nature conservation strategy
+### Division 3.2 Declarations about special protection status and protected and exempt flora and fauna
+### Division 3.3 Declaration of species, community or process
+#### Subdivision 3.3.1 Criteria and guidelines for declarations
+#### Subdivision 3.3.2 Making of declarations
+### Division 3.4 Action plans
+## Part 4 Protection of animals and fish
+## Part 5 Protection of plants
+## Part 6 Prohibited and controlled organisms
+## Part 7 Conservation directions
+## Part 8 Reserved areas
+### Division 8.1 Restriction on activities within reserved areas and wilderness zones
+## Part 9 Management agreements
+## Part 10 Licences
+## Part 11 Review by the administrative appeals tribunal
+## Part 12 On-the-spot fines
+## Part 13 Miscellaneous
