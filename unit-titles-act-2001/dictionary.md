@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -38,12 +38,12 @@ development, of a parcel, a unit or common property—
   (a) means the erection, alteration or addition of a building on the parcel, unit or common property; and
   (b) for a unit title application—includes a proposal for the erection, alteration or addition of a building on the parcel, unit or common property.
 development covenant means a covenant of a lease requiring the lessee to carry out works on the leased land or on adjacent unleased land.
-development statement means a statement about a staged development, accompanying a unit title application (as amended under section 22 (Unit title applications—Ministerial amendment of development statement), or amended under section 29 (Amendment of development statements before registration) or section 30 (Amendment of development statements after registration)).
+development statement means a statement about a staged development, accompanying a unit title application (as amended under section 22 (Unit title applications—amendment of development statement by authority), or amended under section 29 (Amendment of development statements before registration) or section 30 (Amendment of development statements after registration)).
 eligible person, for a unit or common property in relation to which access to information is required, means—
   (a) the owner, or another person with an interest in the unit, or in an easement over the common property; or
   (b) for a unit that is owned, or part-owned, by a company—the representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
-  (d) if access to the information is necessary or desirable for the administration of this Act—the Minister.
+  (d) if access to the information is necessary or desirable for the administration of this Act—the planning and land authority.
 entitled to vote—see section 110.
 estate, in relation to a unit title easement right given by this Act, means the unit or common property benefited or burdened by the right.
 Note See div 4.2 (Easements) (which defines unit title easement rights in s 34 and benefited estate and burdened estate in s 35 and s 36).
