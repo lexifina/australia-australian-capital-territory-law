@@ -372,7 +372,7 @@ Examples
 printing, photocopying, photography, typewriting
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
-Part 2 Words and expressions for Legislation Act 2001 only
+U Part 2 Words and expressions for Legislation Act 2001 only
 Note Words and expressions that apply to all Acts and statutory instruments are set out in pt 1.
 administrator, for part 19.5 (Service of documents)—see section 246.
 agency, for part 19.5 (Service of documents)—see section 246.
