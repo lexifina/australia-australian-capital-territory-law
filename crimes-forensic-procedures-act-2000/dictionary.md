@@ -10,6 +10,7 @@ Note 2 The Legislation Act 2001, dict, pt 1, defines the following terms that ar
   director of public prosecutions
   doctor
   function
+  intersex person (see s 169B)
   law, of the Territory
   lawyer
   magistrate
@@ -17,6 +18,7 @@ Note 2 The Legislation Act 2001, dict, pt 1, defines the following terms that ar
   police officer
   State
   summary offence
+  transgender person (see s 169A)
   under.
 another participating jurisdiction—see section 100.
 another Territory means a Territory other than this Territory or the Northern Territory.
@@ -54,7 +56,6 @@ jurisdiction—see section 100.
 missing persons index—see section 94.
 non-intimate forensic procedure—see section 7 (What is a non-intimate forensic procedure?).
 offence means an offence against a law in force in the Territory.
-opposite sex, for a transgender person—see section 17 (4).
 parent—see section 14 (Meaning of child and parent of a child).
 participating jurisdiction—see section 100.
 police station includes—
@@ -64,11 +65,9 @@ prison includes a place where a person may be detained under the Removal of Pris
 prison medical officer means—
   (a) for a prison or another place of detention (other than a remand centre)—a medical officer for the prison or other place of detention; or
   (b) for a remand centre— the medical officer for remand centre under the Remand Centres Act 1976.
-recognised transgender person—see section 17.
 remand centre means a remand centre under the Remand Centres Act 1976.
 responsible Minister—see section 100.
 responsible person, for the DNA database system, means the person responsible for the care, control and management of the system
-same sex, for a transgender person—see section 17 (4).
 sample, taken from a person, includes a sample taken from the person that consists of matter from someone else’s body.
 serious offence—see section 9 (Meaning of serious offence and serious offender).
 serious offender—see section 9 (Meaning of serious offence and serious offender).
@@ -77,7 +76,6 @@ statistical index—see section 94.
 suspect—see section 8 (Meaning of suspect).
 suspects index—see section 94.
 telephone includes any telecommunications device.
-transgender person—see section 17.
 unknown deceased persons index—see section 94.
 volunteer—see section 10 (Meaning of volunteer).
 volunteers (limited purposes) index—see section 94.
