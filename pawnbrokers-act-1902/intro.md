@@ -1,3 +1,2 @@
-AUSTRALIAN CAPITAL TERRITORY
-pawnbrokers act 1902 (new south wales)
+# Pawnbrokers Act 1902
 An Act to consolidate the enactment regulating the trade or business of pawnbrokers
