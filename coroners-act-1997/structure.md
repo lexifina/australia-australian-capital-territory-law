@@ -17,6 +17,6 @@
 ## part 6—deaths in custody: Additional provisions
 ## Part 7—offences
 ## Part 8—Powers of Supreme Court
-## Part 9—fees and expenses
+## part 9—witnesses expenses and other amounts
 ## PaRT 10—MISCELLANEOUS
 ## part 11—Savings and transitionals
