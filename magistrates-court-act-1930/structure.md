@@ -29,10 +29,10 @@
 ## Part VIIA—Service and pleading by post with respect to certain offences
 ## part ix—enforcement of decisions
 ### Division 1—General
-### Division 2—Warrants of Execution and Commitment
+### Division 2—Warrants of Execution and Commitment3
 ### Division 2A—Reciprocal Enforcement of Fines against Bodies Corporate
-### Division 4—Attachment of Debts
-### Division 5—Imprisonment of Fraudulent Debtors
+### Division 4—Attachment of Debts3
+### Division 5—Imprisonment of Fraudulent Debtors3
 ### Division 6—Miscellaneous
 ## part x—restraining orders
 ## Part XI—Appeals To The Supreme Court
@@ -46,5 +46,5 @@
 ## Part XIV—Securities
 ## Part XV—Miscellaneous
 ## The ScheduleS
-## The First Schedule
+## The First Schedule3
 ## Notice of Proceedings
