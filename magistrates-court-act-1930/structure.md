@@ -43,5 +43,4 @@
 ## part 13A—fees and charges
 ## Part 14—Securities
 ## Part 15—Miscellaneous
-## Schedule 1
-## Notice of Proceedings
+## part 16—TRANSITIONAL
