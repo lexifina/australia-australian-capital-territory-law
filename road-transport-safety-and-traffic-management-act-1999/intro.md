@@ -1,0 +1,4 @@
+Australian Capital Territory
+  Road Transport (Safety and Traffic Management) Act 1999
+An Act to facilitate the adoption of nationally consistent road rules in the Territory, to make provision about other matters concerning safety and traffic management on roads and road related areas, and for other purposes
+Note This Act and the regulations made under it form part of the road transport legislation. Other road transport legislation includes the Road Transport (Alcohol and Drugs) Act 1977, the Road Transport (Dimensions and Mass) Act 1990, the Road Transport (Driver Licensing) Act 1999, the Road Transport (General) Act 1999, the Road Transport (Vehicle Registration) Act 1999 and the regulations made under those Acts. As part of the road transport legislation, this Act is subject to various provisions of the Road Transport (General) Act 1999 about the administration and enforcement of the road transport legislation generally.
