@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -14,6 +14,7 @@ accident, for part 10 (Compulsory vehicle insurance)—see motor accident.
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
+Australian Design Rule—see the Road Transport (Vehicle Registration) Regulations 2000, schedule 1, clauses 11 and 13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Australian Transport Council means the Australian Transport Council mentioned in the National Road Transport Commission Act 1991 (Cwlth), section 3 or its successor.
 authorised insurer—see section 158 (Definitions for pt 10).
@@ -99,6 +100,7 @@ sightseeing vehicle operator’s licence—see section 135 (1).
 sold vehicle declaration means a statutory declaration mentioned in section 40.
 taxi—see the Road Transport (Public Passenger Services) Act 2001, section 45 (Meaning of taxi).
 third-party policy—see section 158 (Definitions for pt 10).
+total loss, in relation to a vehicle for division 5.3 (Written-off vehicles register)—see section 83C.
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
@@ -110,3 +112,6 @@ vehicle means—
   (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or
   (b) any other vehicle prescribed under the regulations;
 and includes anything else that, under the regulations, is to be treated as a vehicle.
+vehicle identifier, for division 5.3 (Written-off vehicles register)—see section 83B.
+written-off vehicle, for division 5.3 (Written-off vehicles register)—see section 83B.
+written-off vehicles register, for division 5.3 (Written-off vehicles register)—see section 83B.

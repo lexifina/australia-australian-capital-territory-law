@@ -21,6 +21,7 @@
 ## Part 5 Further provisions about vehicles, roads and road related areas
 ### Division 5.1 Police powers
 ### Division 5.2 Unauthorised use of vehicles
+### Division 5.3 Written-off vehicles register
 ## Part 6 Fine defaulters
 ## Part 7 Review of decisions under road transport legislation
 ## Part 8 Fees, charges and other amounts payable under road transport legislation
