@@ -25,7 +25,7 @@
 ### Division 6—Failure to vote
 ## Part XI—Polling in Antarctica
 ## PART XII—THE SCRUTINY
-## part xiii—casual vacancies2
+## part xiii—casual vacancies
 ## PART xiv—ELECTION FUNDING AND FINANCIAL DISCLOSURE
 ### Division 1—Preliminary
 ### Division 2—Reporting agents
