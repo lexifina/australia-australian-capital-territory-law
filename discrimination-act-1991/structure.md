@@ -9,6 +9,7 @@
 ### Division 3—Exceptions relating to race
 ### Division 4—Exceptions relating to religious or political convictions
 ### Division 5—Exceptions relating to impairment
+### Division 6—Exceptions relating to age
 ## PART V—SEXUAL HARASSMENT
 ## Part VI—Racial Vilification
 ## PART VII—OTHER UNLAWFUL ACTS
