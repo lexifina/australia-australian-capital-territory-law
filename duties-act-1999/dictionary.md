@@ -125,6 +125,8 @@ marketable securities means—
   (b) units mentioned in section 10 (1) (e); or
   (c) an interest in shares, or units, mentioned in section (a) or (b).
 market value, in relation to a motor vehicle, means the amount for which the motor vehicle might reasonably be sold, free of encumbrances, on the open market.
+marriage includes a void marriage.
+matrimonial property, of a marriage, means property of the parties to the marriage or of either of them.
 mortgage means any charge on land created merely for securing a debt.
 motor vehicle means—
   (a) a motor vehicle or trailer within the meaning of the Vehicle Registration Act; or
@@ -136,6 +138,7 @@ non-commercial Commonwealth authority means a body corporate (not being an incor
   (a) is incorporated for a public purpose by or under a law of the Territory or the Commonwealth; and
   (b) does not have as its sole or principal function the carrying on of an activity in the nature of a business, whether or not for profit.
 partnership interest—see section 10 (1) (i).
+party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 pooled superannuation trust means an entity that is a pooled superannuation trust in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 44.
 private company means a company that is not limited by shares, or whose shares are not quoted on a stock exchange.
 private corporation—see section 78.
@@ -164,6 +167,7 @@ related person means a person who is related to another person in accordance wit
   (c) an individual and a private company are related persons if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
   (d) an individual and a trustee are related persons if the individual is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee;
   (e) a private company and a trustee are related persons if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee.
+relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
 replica—see section 228.
 responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.

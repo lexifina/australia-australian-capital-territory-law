@@ -20,6 +20,7 @@
 ## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
 ## Part 3.5 Allotment of shares by direction
 ## Part 3.6 Voluntary transfers under the Financial Sector (Transfers of Business) Act 1999 (Cwlth)
+## Part 3.7 Exemptions—chapter 3 transactions
 # Chapter 5 Lease instruments
 ## Part 5.1 Preliminary
 ## Part 5.2 Liability for duty
