@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used terms
+U Part 1 Meaning of commonly-used terms
 (see s 144)
 Note Terms that are defined only for this Act are set out in pt 2.
 AAT—see definition of administrative appeals tribunal.
@@ -261,6 +261,11 @@ OH&S commissioner means the Occupational Health and Safety Commissioner under th
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
 ordinance means an ordinance made under the Seat of Government (Administration) Act 1910 (Cwlth), section 12.
+parent, of a child, means—
+  (a) the child’s mother; or
+  (b) the child’s father; or
+  (c) someone else who is presumed under the Parentage Act 2004, part 2 to be a parent of the child.
+Note A child cannot have more than 2 parents at any one time (see Parentage Act 2004, s 14).
 parliamentary counsel means the person performing the duties of Parliamentary Counsel in the public service.
 passing, of an Act—see section 29 (References to enactment or passing of Acts).
 penalty unit—see section 133.

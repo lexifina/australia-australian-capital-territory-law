@@ -33,7 +33,7 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 29 | Free Education Act 1906 | No 12 (NSW)
 30 | Gaming and Betting Act 1906 | No 13 (NSW)
 31 | Second-hand Dealers Act 1906 | No 30 (NSW)
-## Part 1.2 Former NSW Acts applied after establishment of Territory
+## U Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
 column 1 item | column 2 name of NSW Act | column 3 applying Territory Act
