@@ -3,7 +3,7 @@
 ## PART III—OFFENCES AGAINST THE PERSON
 ## PART IIIA
 ## SEXUAL OFFENCES
-## PART IiiB—female genital mutilation2
+## PART IiiB—female genital mutilation3
 ## PART IV—OFFENCES RELATING TO PROPERTY
 ### Division 1—Interpretation
 ### Division 2—Theft and related offences

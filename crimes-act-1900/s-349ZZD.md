@@ -1,5 +1,5 @@
 # Retention of things which are seized
-349ZZD. (1) Subject to any contrary order of a court, if a police officer seizes a thing under Division 2, 3 or 4 of this Part, the police officer shall return it if—
+349ZZD. (1) Subject to any contrary order of a court, if a police officer seizes a thing under Division 2, 3 or 4, the police officer shall return it if—
 (a) the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
 (b) if the thing was seized under section 349T—
 (i) the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
