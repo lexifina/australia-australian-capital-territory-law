@@ -100,11 +100,11 @@ in relation to—to remove any doubt, in relation to includes—
   (e) with respect to.
 Example
 The phrase ‘property used, or intended to be used by an offender, in relation to the commission of an offence’ (in s 3 (d) and elsewhere) refers to all or any of the following:
-  (a) property used in or in relation to the commission of the offence;
-  (b) property used for or for the purposes of the commission of the offence;
-  (c) property used in connection with the commission of the offence;
-  (d) property used in respect of the commission of the offence;
-  (e) property used with respect to the commission of the offence.
+(a) property used in or in relation to the commission of the offence;
+(b) property used for or for the purposes of the commission of the offence;
+(c) property used in connection with the commission of the offence;
+(d) property used in respect of the commission of the offence;
+(e) property used with respect to the commission of the offence.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 interested person, for part 8 (Forfeited property)—see section 107.
 interstate automatic forfeiture decision means a corresponding law order prescribed under the regulations for this definition.
