@@ -1,5 +1,11 @@
 # Dictionary
 (see s 3)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· exercise
+· law (of the Territory)
+· property
+· Territory land.
 authorised person, for a carrier, means an authorised person appointed for the carrier under section 18 (Authorised people).
 carrier—see the Telecommunications Act 1997 (Cwlth), section 7 (Definitions).
 defined land—see section 5 (Land to which Act applies).
