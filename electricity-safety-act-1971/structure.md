@@ -1,9 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 The Electrical Licensing Board
-## Part 3 The register of electrical contractors and electricians
 ## Part 4 Electrical wiring work
-## Part 5 Licences and permits
-## Part 6 Cancellation and suspension of licences or permits
 ## Part 7 Prescribed articles of electrical equipment
 ### Division 7.1 Preliminary
 ### Division 7.2 Regulation of dealings
