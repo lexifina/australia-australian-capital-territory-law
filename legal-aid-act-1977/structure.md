@@ -1,15 +1,15 @@
-## Part I—Preliminary
-## Part II—Establishment and Functions of Legal Aid Commission
-## Part III—Establishment And Functions Of The Legal Aid Committees
-## Part IV—Officers of Commission
-## Part V—Provision Of Legal Assistance By Commission
-## Part VI—Reconsideration And Review Of Decisions
-## Part VII—Finances of Commission
-## Part VIII—Administrative Provisions Relating To Commission
-### Division 1—Commissioners
-### Division 2—Officers of Commission
-## Part IX—Administrative Provisions Relating to Legal Aid Committees
-## Part X—Administrative Provisions Relating to Review Committees
-## Part XI—Consultative Committees
-## Part XIA—Inquiry Relating to Affairs of Commission
-## Part XIII—Miscellaneous
+## Part 1 Preliminary
+## Part 2 Establishment and functions of legal aid commission
+## Part 3 Establishment and functions of legal aid committees
+## Part 4 Officers of commission
+## Part 5 Provision of legal assistance by commission
+## Part 6 Reconsideration and review of decisions
+## Part 7 Finances of commission
+## Part 8 Administrative provisions relating to commission
+### Division 8.1 Commissioners
+### Division 8.2 Officers of commission
+## Part 9 Administrative provisions relating to legal aid committees
+## Part 10 Administrative provisions relating to review committees
+## Part 11 Consultative committees
+## Part 11A Inquiry relating to affairs of commission
+## Part 13 Miscellaneous
