@@ -69,9 +69,9 @@ substitute
 (3) The reference in subsection (1) to a gift made by a person includes a reference to a gift made on behalf of the members of an unincorporated association.
 (4) For the purposes of this section, 2 or more gifts made by the same person for the purposes of a referendum shall be deemed to be a single gift.
 (5) Where a person receives a gift in contravention of subsection (1), an amount equal to the amount of the gift is payable by that person to the Territory and may be recovered by the Territory as a debt due to the Territory by that person.
-[1.17] Section 223 (2)
+## [1.16] Section 223, definition of participant
 substitute
-(2) A reference in this division to a participant in a referendum shall be read as a reference to a person by whom, or with the authority of whom, referendum expenditure in relation to a referendum is incurred.
+participant, in a referendum, means a person by whom, or with the authority of whom, referendum expenditure in relation to a referendum is incurred.
 [1.18] Section 224 (1), (2) and (3)
 omit
 [1.19] Section 224 (4)
@@ -84,9 +84,6 @@ omit
 omit
 [1.22] Section 236 (3)
 omit
-[1.23] Section 237 (1), definition of prescribed person
-omit
-, 221 (1)
 [1.24] Section 239 (2)
 omit
 [1.25] Section 239 (3)
@@ -100,16 +97,6 @@ omit
 substitute
 (3) A request may be made by the person who gave the return.
 ## Part 1.4 Modifications of part 16—disputed elections, eligibility and vacancies
-[1.28] Section 263 (3) (a)
-omit
-electorate to which the relevant election application relates
-substitute
-Territory
-[1.29] Section 263 (9) (d) (i)
-omit
-electorate to which the election application relates
-substitute
-Territory
 [1.30] Section 265 (b) and (c)
 substitute
   (b) declare whether a particular vote was cast in favour of, or against, a particular referendum option; or
