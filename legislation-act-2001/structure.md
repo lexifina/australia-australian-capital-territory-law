@@ -3,6 +3,7 @@
 ## Part 1.2 Basic concepts
 ## Part 1.3 Sources of law in the ACT
 # Chapter 2 ACT legislation register and web site
+# Chapter 3 Authorised versions and evidence of laws and legislative material
 # Chapter 4 Numbering and notification of Acts
 # Chapter 5 Regulatory impact statements for subordinate laws and disallowable instruments
 ## Part 5.1 Preliminary
@@ -45,6 +46,7 @@
 ## Part 19.3 Appointments
 ### Division 19.3.1 Appointments—other than acting appointments
 ### Division 19.3.2 Acting appointments
+### Division 19.3.2A Standing acting arrangements
 ### Division 19.3.3 Appointments—Assembly consultation
 ## Part 19.4 Delegations
 ## Part 19.5 Service of documents
