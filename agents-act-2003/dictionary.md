@@ -62,6 +62,7 @@ employee—
     (i) any person employed, regardless of how remunerated; and
     (ii) a person engaged on a contract of service; and
   (b) for a corporation, includes a director or other member of its governing body.
+employee condition—see section 26 (2) (Additional eligibility grounds for travel agents).
 employment agent service—see section 12 (2).
 estimate, for division 5.6 (Land—further provisions)—see section 80.
 executive officer—see the Corporations Act, section 9.
