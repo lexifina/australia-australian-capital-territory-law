@@ -1,7 +1,7 @@
 # Schedule 1 Drugs
 (see dict, def of drug)
 1 Amitriptyline and other tricyclic antidepressants
-2 Antihistamines, and all tertiary nitrogenous organic bases which possess pharmacological properties characteristic of antihistamine substances
+2 Antihistamines, and all tertiary nitrogenous organic bases that possess pharmacological properties characteristic of antihistamine substances
 3 Barbituric acid and its derivatives
 4 Carbromal
 5 Chloral hydrate and its derivatives
