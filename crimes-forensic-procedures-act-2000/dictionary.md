@@ -2,24 +2,24 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and provisions that are relevant to this Act.
 Note 2 The Legislation Act, dict, pt 1, defines the following terms that are particularly relevant to this Act:
-  adult
-  chief police officer
-  contravene
-  dental technician
-  dentist
-  director of public prosecutions
-  doctor
-  function
-  intersex person (see s 169B)
-  law, of the Territory
-  lawyer
-  magistrate
-  nurse
-  police officer
-  State
-  summary offence
-  transgender person (see s 169A)
-  under.
+adult
+chief police officer
+contravene
+dental technician
+dentist
+director of public prosecutions
+doctor
+function
+intersex person (see s 169B)
+law, of the Territory
+lawyer
+magistrate
+nurse
+police officer
+State
+summary offence
+transgender person (see s 169A)
+under.
 another participating jurisdiction—see section 100.
 another Territory means a Territory other than this Territory or the Northern Territory.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
