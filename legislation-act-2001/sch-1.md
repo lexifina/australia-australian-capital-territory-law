@@ -1,6 +1,6 @@
 # Schedule 1 Acts included in sources of law of the Territory
 (see s 17)
-## U Part 1.1 Former NSW and UK Acts in force before establishment of Territory
+## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 citation (if provided by the Act) or subject matter | column 3 year (if not provided in the citation), number or date of royal assent and original jurisdiction
 1 | Magna Carta | (1297) 25 Edw 1 c 29 (UK)
 2 | Due process of law | (1351) 25 Edw 3 St 5 c 4 (UK)
@@ -38,7 +38,6 @@ column 1 item | column 2 citation (if provided by the Act) or subject matter | c
 34 | Crimes Act 1900 | 1900 No 40 (NSW)
 35 | Truck Act 1900 | 1900 No 55 (NSW)
 36 | Judgment Creditors Remedies Act 1901 | 1901 No 8 (NSW)
-37 | Defamation Act 1901 | 1901 No 22 (NSW)
 38 | Games, Wagers and Betting Houses Act 1901 | 1902 No 18 (NSW)
 39 | Demise of the Crown Act 1901 | 1 Edw 7 c 5 (UK)
 40 | Arrest on Mesne Process Act 1902 | 1902 No 24 (NSW)
@@ -53,7 +52,6 @@ column 1 item | column 2 citation (if provided by the Act) or subject matter | c
 49 | Free Education Act 1906 | 1906 No 12 (NSW)
 50 | Gaming and Betting Act 1906 | 1906 No 13 (NSW)
 51 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
-52 | Defamation (Amendment) Act 1909 | 1909 No 22 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
