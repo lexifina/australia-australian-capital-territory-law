@@ -28,6 +28,7 @@
 ### Division 3A—Dismissal by Magistrates Court on grounds of mental impairment
 ### Division 4—Referral of mentally dysfunctional or mentally ill persons to tribunal following conviction
 ### Division 5—Summary proceedings against mentally dysfunctional or mentally ill persons
+## Part xib—intoxication
 ## PART 12—SENTENCES
 ### Division 1—General principles and procedures
 ### Division 2—Pre-sentence reports
@@ -37,3 +38,4 @@
 ## PART 15A—COMMUNITY SERVICE ORDERS
 ## part 15B—grant of pardon and remission of penalties
 ## PART 16—MISCELLANEOUS ENACTMENTS
+## part 17—transitional
