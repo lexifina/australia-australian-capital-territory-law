@@ -14,7 +14,7 @@ administrative appeals tribunal (or AAT) means the Administrative Appeals Tribun
 administrative unit means an administrative unit for the time being established under the Public Sector Management Act 1994, section 13 (1).
 adult means an individual who is at least 18 years old.
 affidavit, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
-ambulance service means the ACT Ambulance Service under the Emergency Management Act 1999.
+ambulance service means the ACT Ambulance Service under the Emergencies Act 2004.
 amend includes—
   (a) for an Act or statutory instrument—omit, insert, substitute, renumber or relocate a provision of the Act or instrument; and
   (b) for an Act or statutory instrument (or a provision of it)—amend by implication; and
@@ -61,12 +61,15 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 calendar year means a period of 12 months beginning on 1 January.
 change includes change by omission, substitution or addition.
 chief executive—see section 163.
-chief fire control officer means the Chief Fire Control Officer under the Bushfire Act 1936.
 chief health officer means the Chief Health Officer under the Public Health Act 1997.
 Chief Justice means the Chief Justice of the Supreme Court.
 Chief Magistrate means the Chief Magistrate of the Magistrates Court.
 Chief Minister means the Chief Minister for the Territory.
 Note The Chief Minister is elected under the Self-Government Act, s 40.
+chief officer (ambulance service) means the chief officer (ambulance service) under the Emergencies Act 2004.
+chief officer (fire brigade) means the chief officer (fire brigade) under the Emergencies Act 2004.
+chief officer (rural fire service) means the chief officer (rural fire service) under the Emergencies Act 2004.
+chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004.
 chief planning executive—see the Planning and Land Act 2002, dictionary.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
@@ -134,6 +137,9 @@ driver licence means a driver licence under the Road Transport (Driver Licensing
 Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established by the Electoral Act 1992.
 electoral commissioner means the Electoral Commissioner under the Electoral Act 1992.
+emergency service means the ambulance service, the fire brigade, the rural fire service or the SES.
+emergency services authority means the ACT Emergency Services Authority under the Emergencies Act 2004.
+emergency services commissioner means the ACT Emergency Services Commissioner under the Emergencies Act 2004.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
 entity includes an unincorporated body and a person (including a person occupying a position).
 environment protection authority means the Environment Protection Authority under the Environment Protection Act 1997.
@@ -148,8 +154,7 @@ fail includes refuse.
 Federal Court means the Federal Court of Australia.
 file includes lodge.
 financial year means a period of 12 months beginning on 1 July.
-fire brigade means the Australian Capital Territory Fire Brigade established by the Fire Brigade (Administration) Act 1974.
-fire commissioner means the Fire Commissioner under the Fire Brigade (Administration) Act 1974.
+fire brigade means the ACT Fire Brigade under the Emergencies Act 2004.
 for, in relation to an Act or statutory instrument, includes for the purposes of the Act or statutory instrument.
 Note Under s 7 (3) and s 13 (3) a reference to an Act or statutory instrument includes a reference to a provision of an Act or statutory instrument.
 foreign country means a country (whether or not an independent sovereign state) outside Australia and the external Territories.
@@ -322,12 +327,13 @@ Note The chief executive of the department responsible for the Road Transport (G
 rules means—
   (a) of a court or tribunal—rules made by the person or body having power to make rules (however described) regulating the practice and procedure of the court or tribunal; and
   (b) in relation to an Act—rules made or in force under the Act.
-rural firefighting service means the Rural Firefighting Service established by the Bushfire Act 1936.
+rural fire service means the ACT Rural Fire Service under the Emergencies Act 2004.
 see, in a definition—see section 131 (Signpost definitions).
 Self-Government Act means the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
 self-government day means 11 May 1989.
 Note This is the day when the remaining provisions of the Self-Government Act commenced and, in particular, the Australian Capital Territory was established as a body politic, the Legislative Assembly was empowered to make laws for the ACT and the Executive was established.
 sentence administration board means the Sentence Administration Board under the Rehabilitation of Offenders (Interim) Act 2001.
+SES means the ACT State Emergency Service under the Emergencies Act 2004.
 sign includes attach a seal and make a mark.
 sitting day, of the Legislative Assembly, means a day when the Assembly meets.
 Small Claims Court means the Magistrates Court when exercising jurisdiction as the Small Claims Court.
