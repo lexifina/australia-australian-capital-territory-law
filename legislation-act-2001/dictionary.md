@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used words and expressions
+Part 1 Meaning of commonly-used words and expressions
 (see s 144)
 Note Words and expressions that are defined only for this Act are set out in pt 2.
 Act—see the following sections:
@@ -75,7 +75,6 @@ clerk, in relation to the Legislative Assembly, means the Clerk of the Legislati
 Note The office of Clerk is established under the Public Sector Management Act 1994.
 commencement, of an Act or statutory instrument—see section 80 (References to commencement of law).
 commencement notice—see section 11 (Meaning of commencement notice).
-commissioner for the environment means the Commissioner for the Environment under the Commissioner for the Environment Act 1993.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory.
 Note The Fair Trading (Consumer Affairs) Act 1973 provides for the office of the commissioner.
 commissioner for health complaints means the Community and Health Services Complaints Commissioner under the Community and Health Services Complaints Act 1993.
@@ -84,6 +83,7 @@ commissioner for land and planning means the Commissioner for Land and Planning 
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
 commissioner for surveys means the Commissioner for Surveys under the Surveyors Act 2001.
+commissioner for the environment means the Commissioner for the Environment under the Commissioner for the Environment Act 1993.
 commissioner of police means the Commissioner of Police of the Australian Federal Police.
 committed for trial, in relation to a person, means committed to prison or to a remand centre with a view to being tried before a judge and jury, or admitted to bail on an undertaking to appear and be tried before a judge and a jury.
 Commonwealth means the Commonwealth of Australia and, when used in a geographical sense, does not include an external Territory.
@@ -165,6 +165,7 @@ Governor means—
   (a) for a State (other than the Northern Territory)—the Governor of the State, and includes a person administering the Government of the State; or
   (b) for the Northern Territory—the Administrator of the Northern Territory, and includes a person administering the Government of the Northern Territory.
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
+GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 guardianship tribunal means the Guardianship and Management of Property Tribunal established under the Guardianship and Management of Property Act 1991.
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
