@@ -56,5 +56,4 @@
 ## Part 14 Vicarious liability
 ## Part 15 Miscellaneous
 ## Part 16 Transitional
-### Division 16.2 Electricity Supply Acts, repeals and savings
 ### Division 16.3 Gas Supply Act, repeal and savings
