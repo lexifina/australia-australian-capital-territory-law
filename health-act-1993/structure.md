@@ -10,4 +10,3 @@
 ## Part 6 Administrative review
 ## Part 6A VMO service contracts
 ## Part 7 Miscellaneous
-## Part 8 Transitional provisions for repeal of Health and Community Care Services Act 1996
