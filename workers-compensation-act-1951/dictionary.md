@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
 approved rehabilitation provider—see section 139 (1).
