@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -8,8 +8,10 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · chief police officer
 · commissioner of police
 · director of public prosecutions
+· domestic partner (see s 169)
 · fail
 · indictable offence (see also s 190)
+· intersex person (see s 169B)
 · judge
 · lawyer
 · magistrate
@@ -17,7 +19,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · penalty unit (see also s 133)
 · police officer
 · summary offence (see also s 190)
-· the Territory.
+· the Territory
+· transgender person (see s169A).
 aggravated offence, for part 5 (Sexual servitude)—see section 81.
 bail undertaking means an undertaking given by a person charged with an offence to obtain bail in relation to the offence.
 child—
@@ -25,11 +28,11 @@ child—
   (b) in relation to a person, includes a child—
     (i) who normally or regularly resides with the person; or
     (ii) of whom the person is a guardian.
-de facto spouse, in relation to a person, means a person of the opposite sex to the firstmentioned person who is living with the firstmentioned person as that person’s husband or wife although not legally married to the firstmentioned person.
 director of public prosecutions means—
   (a) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1990; or
   (b) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1983 (Cwlth);
 as the case requires.
+domestic partner includes former domestic partner.
 domestic violence offence means behaviour directed at a relevant person that is or was an offence against—
   (a) the Protection Orders Act 2001, section 34 (which is about contravening protection orders) in relation to a domestic violence order; or
   (b) a provision of this Act mentioned in schedule 1 (which deals with domestic violence crimes); or
@@ -60,19 +63,18 @@ relative, of a person (the original person)—
     (iii) brother, sister, half-brother, half-sister, stepbrother, stepsister, brother-in-law or sister-in-law; or
     (iv) uncle, aunt, uncle-in-law or aunt-in-law; or
     (v) nephew, niece or cousin; and
-  (b) includes someone who would have been a relative of a kind mentioned in paragraph (a) if the original person had been legally married to the original person’s de facto spouse (if any); and
+  (b) if the original person has or had a domestic partner (other than a spouse)—includes someone who would have been a relative of a kind mentioned in paragraph (a) if the original person had been legally married to the domestic partner; and
   (c) includes someone who has been a relative of a kind mentioned in paragraph (a) or (b) of the original person.
 relevant person, in relation to a person (the original person), means—
-  (a) a spouse of the original person; or
+  (a) a domestic partner of the original person; or
   (b) a relative of the original person; or
-  (c) a child of a spouse of the original person; or
+  (c) a child of a domestic partner of the original person; or
   (d) someone who normally lives, or normally lived, in the same household as the original person (other than as a tenant or boarder).
 school means—
   (a) a school or college established or maintained by or on behalf of the Territory; or
   (b) a school or college registered or provisionally registered under the Education Act 1937.
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
-spouse includes former spouse, de facto spouse and former de facto spouse.
 trustee means a trustee on some express trust howsoever created, and includes the heir or personal representative of such trustee, and every other person on whom the duty of such trust shall have devolved, and also any official manager, assignee, liquidator, or other like officer, acting under any Act relating to joint-stock companies or to bankruptcy or insolvency.
 trust fund means the confiscated assets trust fund established by the Proceeds of Crime Act 1991, section 33.
 vessel means any ship or vessel used in or intended for navigation, other than an undecked boat.
