@@ -1,4 +1,5 @@
 # SCHEDULE 1 Section 7
+Scale and conditions of compensation
 1AA. In this Schedule—
 “child”, in relation to a worker, means an unmarried child of the worker who is—
 (a) under the age of 16 years; or
@@ -32,7 +33,10 @@ whichever is the greater.
 (b) a reference to a sick leave payment is a reference to a payment by way of salary, wages or pay in respect of a period during which the worker concerned is absent from employment by reason of illness; and
 (c) a reference to earnings, in relation to a worker—
 (i) includes a reference to the earnings that would be, or would have been, payable to the worker but for his or her incapacity; and
-(ii) does not include a reference to a payment in respect of overtime or a reference to an allowance that is intermittent or is payable in respect of special expenses incurred or likely to be incurred by the worker in respect of his or her employment.
+(ii) does not include a reference to—
+    (A) a payment in respect of overtime;
+    (B) an allowance that is intermittent or is payable in respect of special expenses incurred or likely to be incurred by the worker in respect of his or her employment; or
+    (C) income received in respect of engaging in a professional sporting activity.
 \2. Notwithstanding anything contained in clause 1—
 (a) where death results from the injury—
 (i) any amount paid or payable before the death of the worker by way of weekly payments in respect of his or her total or partial incapacity for work shall not be deducted from the sum payable under subparagraph 1 (a) (i), or shall be disregarded in determining the sum payable under subparagraph 1 (a) (ii), as the case may be; but
@@ -68,8 +72,8 @@ Provided that, if so agreed, the payment in case of death shall, if the worker l
 there is payable an additional amount of compensation equal to the difference between the aggregate amount and $700.
 \10. Any worker receiving weekly payments under this Act shall, if so required by the employer, from time to time submit himself or herself for examination by a medical practitioner provided and paid by the employer and if the worker refuses to submit himself or herself to the examination or in any way obstructs the examination, the worker’s right to such weekly payments shall be suspended until the examination has taken place.
 \11. (1) A worker shall not be required to submit himself or herself for examination by a medical practitioner under clause 5 or 10 otherwise than in accordance with the regulations.
-(2) Where a worker has so submitted himself or herself for examination by a medical practitioner, or has been examined by a medical practitioner selected by himself or herself, and the employer or the worker, as the case may be, has within 6 days after such examination furnished the other with a copy of the report of that practitioner as to the worker’s condition, then, in the absence of agreement between the employer and the worker as to the worker’s condition or fitness for employment, the Registrar of the Court may, on an application being made by either of the parties with the consent of the other and on payment of such fee not exceeding $2.00, as may be prescribed, refer the matter to a medical referee.
-(3) The medical referee to whom the matter is so referred shall, in accordance with the regulations, give a certificate as to the condition of the worker and his or her fitness for employment, specifying, where necessary, the kind of employment for which the worker is fit and that certificate shall be conclusive evidence as to the matters so certified.
+(2) Where a worker has so submitted himself or herself for examination by a medical practitioner, or has been examined by a medical practitioner selected by himself or herself, and the employer or the worker, as the case may be, has within 6 days after such examination furnished the other with a copy of the report of that practitioner as to the worker’s condition, then, in the absence of agreement between the employer and the worker as to the worker’s condition or fitness for employment, the Registrar of the Court may, on an application being made by either of the parties and on payment of such fee not exceeding $2.00, as may be prescribed, refer the matter to a medical referee.
+(3) The medical referee to whom the matter is so referred shall, in accordance with the regulations, give a certificate as to the condition of the worker and his or her fitness for employment, specifying, where necessary, the kind of employment for which the worker is fit and that certificate shall be conclusive evidence as to the matters so certified until such time as the worker’s claim is the subject of arbitration in accordance with Schedule 4.
 (4) Where no agreement can be come to between the employer and the worker as to whether or to what extent the incapacity of the worker is due to the injury, this paragraph shall, subject to the regulations, apply as if the question were a question as to the condition of the worker.
 (5) If a worker, on being required so to do, refuses to submit himself or herself for examination by a medical referee to whom the matter has been so referred, or in any way obstructs the medical referee, his or her right to compensation and to take or prosecute any proceeding under this Act in relation to compensation, or, in the case of a worker in receipt of a weekly payment, his or her right to that weekly payment shall be suspended until the examination has taken place.
 (6) Rules of Court may be made for prescribing the manner in which documents are to be furnished or served and applications made under this clause, the forms to be used for these purposes and the fees to be paid under this clause.
