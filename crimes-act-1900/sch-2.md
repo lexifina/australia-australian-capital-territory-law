@@ -1,6 +1,6 @@
-# SCHEDULE 2 (See s 4)
-DOMESTIC VIOLENCE OFFENCES UNDER THE CRIMES ACT 1900
-column 1 provision | column 2 description of offence
+# Schedule 2 Domestic violence offences under the Crimes Act 1900
+(see s 4)
+Column 1 Provision | column 2 description of offence
 12 | murder
 15 | manslaughter
 19 | intentionally inflicting grievous bodily harm

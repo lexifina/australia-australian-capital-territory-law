@@ -6,4 +6,4 @@ A person shall not—
     (i) has not been approved by an issuing officer under that section; or
     (ii) to depart in a material particular from the terms authorised by an issuing officer under that section; or
   (d) give to an issuing officer a form of warrant under that section that is not the form of warrant that the person purported to execute.
-Penalty: Imprisonment for 2 years.
+Maximum penalty: imprisonment for 2 years.
