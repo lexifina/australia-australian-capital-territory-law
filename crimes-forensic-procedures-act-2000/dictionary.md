@@ -9,6 +9,7 @@ Note 2 The Legislation Act 2001, dict, pt 1, defines the following terms that ar
   dentist
   director of public prosecutions
   doctor
+  function
   law, of the Territory
   lawyer
   magistrate
@@ -36,7 +37,6 @@ forensic order means—
   (c) an order of a court under section 77 (Court order for carrying out of forensic procedure on serious offender) or section 78 (Carrying out of forensic procedure following conviction); or
   (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material by order of magistrate after parent or guardian of child or incapable person withdraws consent).
 forensic procedure—see section 5 (Forensic material and forensic procedures).
-function includes power.
 incapable person—see section 15 (Meaning of incapable person).
 in custody—a person is in custody if the person is in the lawful custody of a police officer.
 inform a person of a matter means inform the person of the matter, through an interpreter if necessary, in language (including sign language or braille) in which the person can communicate with reasonable fluency.
@@ -51,11 +51,10 @@ interview friend—see section 16.
 intimate forensic procedure—see section 6 (What is an intimate forensic procedure?)
 investigating police officer—see section 11 (Meaning of investigating police officer).
 jurisdiction—see section 100.
-member of the opposite sex, for a transgender person—see section 17 (4) (a).
-member of the same sex, for a transgender person—see section 17 (4) (b).
 missing persons index—see section 94.
 non-intimate forensic procedure—see section 7 (What is a non-intimate forensic procedure?).
 offence means an offence against a law in force in the Territory.
+opposite sex, for a transgender person—see section 17 (4).
 parent—see section 14 (Meaning of child and parent of a child).
 participating jurisdiction—see section 100.
 police station includes—
@@ -69,6 +68,7 @@ recognised transgender person—see section 17.
 remand centre means a remand centre under the Remand Centres Act 1976.
 responsible Minister—see section 100.
 responsible person, for the DNA database system, means the person responsible for the care, control and management of the system
+same sex, for a transgender person—see section 17 (4).
 sample, taken from a person, includes a sample taken from the person that consists of matter from someone else’s body.
 serious offence—see section 9 (Meaning of serious offence and serious offender).
 serious offender—see section 9 (Meaning of serious offence and serious offender).
