@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -75,6 +75,7 @@ school means—
   (b) a school or college registered or provisionally registered under the Education Act 1937.
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
+tainted property, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 10.
+target material, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 195.
 trustee means a trustee on some express trust howsoever created, and includes the heir or personal representative of such trustee, and every other person on whom the duty of such trust shall have devolved, and also any official manager, assignee, liquidator, or other like officer, acting under any Act relating to joint-stock companies or to bankruptcy or insolvency.
-trust fund means the confiscated assets trust fund established by the Proceeds of Crime Act 1991, section 33.
 vessel means any ship or vessel used in or intended for navigation, other than an undecked boat.
