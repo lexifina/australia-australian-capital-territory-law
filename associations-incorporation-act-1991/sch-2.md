@@ -19,8 +19,8 @@ Section 583—
       (v) a reference to the directors of a company shall be read as a reference to the members of the committee of an incorporated association;
       (vi) a reference to the secretary of a company shall be read as a reference to the public officer of an incorporated association;
       (vii) a reference to the registered office or to the principal place of business of a corporation shall be read as a reference—
-(A) if an incorporated association has a registered office, to the current address of that office as notified to the Registrar-General under the Act; or
-(B) if an incorporated association does not have a registered office, to the current address of the public officer of the association as notified to the Registrar-General under the Act;
+(A) if an incorporated association has a registered office—to the current address of that office as notified to the Registrar-General under the Act; or
+(B) if an incorporated association does not have a registered office—to the current address of the public officer of the association as notified to the Registrar-General under the Act;
       (viii) a reference to a special resolution shall be read as a reference to a special resolution within the meaning of the Act; and
       (ix) a reference to the Commission shall be read as a reference to the Registrar-General within the meaning of the Act.”.
 Sections 586 and 587—
