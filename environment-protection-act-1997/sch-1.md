@@ -1,10 +1,10 @@
-# Schedule 1 Activities requiring an environmental authorisation
+# Schedule 1 Activities requiring environmental authorisation
 (see s 42)
 ## 1 Definitions for sch 1
 In this schedule:
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
-authorised concert venue means a concert venue at which the holder of an environmental authorisation for the conduct of outdoor concert activities is authorised to conduct such an activity.
-authorised motor racing venue means a motor racing venue at which the holder of an environmental authorisation for the conduct of motor racing events is authorised to conduct such an activity.
+authorised concert venue means a concert venue where the holder of an environmental authorisation for the conduct of outdoor concert activities is authorised to conduct such an activity.
+authorised motor racing venue means a motor racing venue where the holder of an environmental authorisation for the conduct of motor racing events is authorised to conduct such an activity.
 bore means a bore, hole, well, excavation or other opening in the ground or an underground cavity (whether occurring naturally or having been artificially constructed or modified)—
   (a) that is used, or is capable of being used, to intercept or collect ground water; or
   (b) from which ground water is, or is capable of being, obtained or used; or
@@ -22,24 +22,24 @@ live animal weight, for animals, means the weight of the animals calculated on t
 logging includes the cutting and removal of pulpwood.
 mobile plant, for the processing of agricultural crops, means plant operated on a temporary basis at a place for not more than 6 months in a year.
 motor racing event means—
-  (a) a motor vehicle race or practice for such a race; or
+  (a) a motor vehicle race or practice for a motor vehicle race; or
   (b) a motor vehicle reliability trial or speed test, including a trial or test for which the vehicles have been exempted under the road transport legislation from the provisions of that legislation about attaching silencers to the exhaust pipes of motor vehicles, rules of the road and speed limits during the trial or test.
 ozone-depleting substance means a substance listed in the Ozone Protection Act 1989 (Cwlth), schedule 1, whether existing alone or in a mixture.
-primary production has the same meaning as in the Income Tax Assessment Act 1936 (Cwlth).
+primary production—see the Income Tax Assessment Act 1936 (Cwlth).
 receiving waters means ground water or water in a waterway.
 regulated waste—see clause 1A.
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
 stock—see the Stock Act 1991.
 stormwater means water run-off from an urban area that is normally collected by the stormwater system.
 stormwater system means a system of pipes, gutters, drains, floodways and channels, being public works constructed to collect or transport stormwater in or through an urban area.
-waste means any solid, liquid or gas, or any combination thereof, that is a surplus product or unwanted by-product of an activity, whether the product or by-product is of value or not.
+waste means any solid, liquid or gas, or any combination of them, that is a surplus product or unwanted by-product of an activity, whether the product or by-product is of value or not.
 wastewater means water that is the by-product of an activity, being water that—
   (a) contains other matter (whether in a solid, liquid or gaseous state); or
   (b) if added to receiving waters—has the potential to pollute those waters.
 water includes water that contains impurities.
 waterway means—
   (a) a river, creek, stream or other natural channel in which water flows (whether permanently or intermittently); or
-  (b) a channel formed (whether in whole or in part) by altering or relocating a waterway described in paragraph (a), and includes the stormwater system; or
+  (b) a channel formed (whether in whole or part) by altering or relocating a waterway described in paragraph (a), and includes the stormwater system; or
   (c) a lake, pond, lagoon or marsh (whether formed by geomorphic processes or by works) in which water collects (whether continuously or intermittently);
 and includes the bed that the water in the waterway normally flows over or is covered by and the banks that the water in the waterway normally flows between or is contained by, but does not include land normally not part of the waterway that may be covered from time to time by floodwaters from the waterway.
 year means any 12 month period.
@@ -54,9 +54,9 @@ year means any 12 month period.
     (iii) vegetable matter produced by agriculture or horticulture.
 (2) An expression used in subclause (1) and defined in the environmental standards has the same meaning as in the standards.
 ## 2 Class A activities
-For the purposes of section 42, the following activities are class A activities:
+For section 42, the following activities are class A activities:
 column 1 item | column 2 activity
-1 | the manufacture, sale, storage, supply, transport, use, servicing or disposal of, or other dealing with— (a) an ozone-depleting or other substance; or (b) a thing containing an ozone-depleting or other substance; where that activity is a prescribed activity in relation to that substance or thing
+1 | the manufacture, sale, storage, supply, transport, use, servicing or disposal of, or other dealing with— (a) an ozone-depleting or other substance; or (b) a thing containing an ozone-depleting or other substance; if that activity is a prescribed activity in relation to that substance or thing
 2 | the extraction of material (other than water) from a waterway
 3 | the operation of equipment designed to extract more than 30 000t per year of material (other than ground water) from land outside a waterway
 4 | the operation of an incineration facility for the destruction of waste by thermal oxidation (including biological, veterinary, medical, dental, quarantine and municipal wastes)
@@ -67,9 +67,9 @@ column 1 item | column 2 activity
  | (a) the Territory plan as 1 of the following: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or
  | (b) the national capital plan as 1 of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland; of more than 100m3 of soil for placement on that land
 9 | transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies
-10 | the provision of regulated waste for transportation from 1 place in the Territory to another place in the Territory
-11 | the transportation of regulated waste from 1 place in the Territory to another place in the Territory
-12 | sewage treatment, being an activity involving the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 persons per day, other than an activity involving the recycling of wastewater where there is no discharge to receiving waters
+10 | the provision of regulated waste for transportation from 1 place in the ACT to another place in the ACT
+11 | the transportation of regulated waste from 1 place in the ACT to another place in the ACT
+12 | sewage treatment, being an activity involving the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 people per day, other than an activity involving the recycling of wastewater if there is no discharge to receiving waters
 13 | the treatment (other than by incineration), storage or handling of more than 1 000m3 of contaminated soil from land outside the parcel of land where the contaminated soil is treated, stored or handled
 14 | the treatment (other than by incineration), storage or handling of more than 10 000m3 of contaminated soil from land
 15 | the operation of a facility at which more than 800 animals per day may be milked
@@ -82,11 +82,11 @@ column 1 item | column 2 activity
 22 | the operation of an abattoir or another facility for the processing of the products of slaughtered animals (other than for the tanning of animal skins or fellmongery) designed to process more than 3 000kg of live animals per day
 23 | the commercial cleaning or carbonising of wool at a facility designed to process more than 200t of wool per year
 24 | the processing of animal skins or other animal products (including fellmongery) to produce leather or other similar products
-25 | outdoor concert activities using amplifying equipment where the venue has the capacity to hold more than 2 000 persons and is not an authorised concert venue
-26 | the management of a concert venue that has the capacity to hold more than 2 000 persons at which outdoor concert activities using amplifying equipment are held
+25 | outdoor concert activities using amplifying equipment if the venue has the capacity to hold more than 2 000 people and is not an authorised concert venue
+26 | the management of a concert venue that has the capacity to hold more than 2 000 people where outdoor concert activities using amplifying equipment are held
 27 | the generation of electricity by a generator classified as a scheduled generating unit under the National Electricity Code, clause 2.2.2
 28 | motor racing events, other than such events held at an authorised racing venue
-29 | the management of a motor racing venue at which motor racing events are held
+29 | the management of a motor racing venue where motor racing events are held
 30 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity
 31 | the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 (Cwlth) for pest control or turf management
 32 | the operation of a facility designed to store more than 500m3 of petroleum products
@@ -103,11 +103,11 @@ column 1 item | column 2 activity
 43 | the production of concrete or concrete products at a facility designed to produce more than 7 000m3 of concrete per year
 44 | the production of road building materials by the mixing of ground rock aggregate and bituminous materials at a production facility that— (a) is, or is intended to be, located at the one site for more than 1 year; and (b) is designed to produce more than 30 000t of road building materials per year
 45 | the operation of a facility for the crushing, grinding or separating of materials (including sand, gravel, rock, minerals, slag, road base, concrete, bricks, tiles, asphaltic material, metal or timber) into different sizes, if the processing facility is designed to produce more than 10 000t of processed materials per year
-46 | the sale or supply in the Territory of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
-47 | the sale or supply in the Territory of firewood to a person other than one mentioned in item 46
-48 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the Territory
+46 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
+47 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 46
+48 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
 ## 3 Class B activities
-For the purposes of section 42, the following activities are class B activities:
+For section 42, the following activities are class B activities:
 column 1 item | column 2 activity
 1 | the manufacture of things in furnaces or kilns (including bricks, glass, pipes, pottery goods and tiles) at a facility designed to produce between 100t and 10 000t of things per year
 2 | the preservation of wood for commercial purposes using chemicals (including copper, chromium, arsenic and creosote) at a facility designed to process less than 10 000m3 of wood per year
