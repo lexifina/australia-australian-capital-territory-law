@@ -9,7 +9,7 @@
 ## Part 4 Electorates
 ## Part 5 Electoral rolls
 ## Part 6 Enrolment
-## Part 7 Registration of political parties and ballot groups
+## Part 7 Registration of political parties
 ## Part 8 Timing of elections
 ## Part 9 Arrangements for elections
 ### Division 9.1 Nominations

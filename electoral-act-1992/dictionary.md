@@ -10,7 +10,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · Self-government Act
 · Speaker.
 AAT means the administrative appeals tribunal.
-abbreviation, of the name of a political party or ballot group, includes an alternative name of the party or group.
+abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
   (a) except in division 17.3 (Campaigning offences)—means, in relation to a person, the address of the person’s principal place of residence (including a place of residence from which a person who is an elector is temporarily absent and to which the person intends to return to live in); and
   (b) in division 17.3—see section 291 (Definitions for div 17.3).
@@ -23,11 +23,10 @@ Assembly means the Legislative Assembly.
 assistant returning officer, for part 11 (Polling in Antarctica)—see section 167 (Definitions for pt 11).
 associated entity, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 augmented commission in relation to a redistribution, means the augmented electoral commission established by section 47 for the purposes of the redistribution.
+authorised delivery service, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 authorised officer means an officer authorised by the commissioner for the purpose of the provision in which the expression occurs.
 authorised witness, for part 10 (Voting)—see section 127 (Meaning of authorised witness).
 available for public inspection—see section 4A (Meaning of available for public inspection).
-ballot group, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
-ballot group candidate means a candidate at an election nominated by the registered officer of a registered ballot group.
 ballot paper—
   (a) includes an electronic ballot paper; and
   (b) if regulations are in force under section 114 (7) (Ballot papers)—means a ballot paper in the form prescribed under the regulations.
@@ -48,9 +47,9 @@ contravention, for part 16 (Disputed elections, eligibility and vacancies)—see
 Court of Disputed Elections—see section 252 (2).
 declaration vote means a vote cast in accordance with any of the following provisions:
   (a) section 135 (Declaration voting at polling places);
-  (b) section 136A (Postal voting before polling day);
-  (c) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
-  (d) section 136C (Declaration voting outside ACT on or before polling day).
+  (b) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
+  (c) section 136C (Declaration voting outside ACT on or before polling day);
+  (d) section 144A (Requirements for casting postal votes).
 declaration voting papers, in relation to an election, means—
   (a) a declaration, in the form approved under section 340A (Approved forms) for this paragraph, to be completed by an elector; and
   (b) a ballot paper suitable for declaration voting at the election; and
@@ -77,7 +76,7 @@ electoral paper means a document, form or notice provided for or required under 
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
 electronic form, of a roll or an extract from a roll, means a disk, tape or other device from which the information in the extract or roll may be reproduced by mechanical, electronic or other means.
 electronic voting—see section 120 (2).
-eligible elector, for division 10.4 (Voting otherwise than at a polling place)—see section 136 (Meaning of eligible elector for div 10.4).
+eligible elector, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 entity, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
@@ -126,26 +125,21 @@ polling day—
 polling place means a place appointed as a polling place under section 119 (Polling places and scrutiny centres), and, for division 17.3 (Campaigning offences), includes—
   (a) a place where a vote may be made before an officer under section 136B (Ordinary or declaration voting in ACT before polling day) or section 136C (Declaration voting outside ACT on or before polling day); and
   (b) a place where mobile polling is taking place under division 10.5 (Mobile polling).
-postal vote means a declaration vote in respect of which the declaration voting papers are given to the elector concerned by virtue of—
-  (a) an application under section 136A (2); or
-  (b) section 141.
+post, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
+postal vote means a declaration vote to which section 144A (Requirements for casting postal votes) applies.
 pre-election period means the period of 37 days ending on the end of polling day for an election.
 proceeding, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 property, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 publish, for division 17.3 (Campaigning offences)—see section 291 (Definitions for div 17.3).
 redistribution includes distribution.
 register, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
-registered, for an abbreviation of the name of a registered party or registered ballot group, means an abbreviation included in the particulars for the party or group in the register of political parties or register of ballot groups.
-registered ballot group means a ballot group registered under part 7 (Registration of political parties and ballot groups).
+registered, for an abbreviation of the name of a registered party, means an abbreviation included in the particulars for the party in the register of political parties.
 registered industrial organisation, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
-registered officer means—
-  (a) for a registered party—the person whose name is entered in the register of political parties as the registered officer of the party; and
-  (b) for a registered ballot group—the person whose name is entered in the register of ballot groups as the registered officer of the group.
-registered party means a political party registered under part 7 (Registration of political parties and ballot groups).
-register of ballot groups means the register of ballot groups kept under section 88 (Register).
+registered officer, for a registered party, means the person whose name is entered in the register of political parties as the registered officer of the party.
+registered party means a political party registered under part 7 (Registration of political parties).
 register of political parties means the register of political parties kept under section 88 (Register).
 registrar, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
-related political parties, for part 7 (Registration of political parties and ballot groups)—see section 87 (Meaning of related political parties).
+related political parties, for part 7 (Registration of political parties)—see section 87 (Meaning of related political parties).
 relates, for division 14.5 (Disclosure of electoral expenditure)—see section 223 (Definitions for div 14.5).
 remand centre, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291 (Definitions for div 17.3).
@@ -163,7 +157,6 @@ Speaker—
   (b) for part 16 (Disputed elections, eligibility and vacancies)—see section 251.
 Note Speaker is defined in the Legislation Act 2001, dict. pt 1.
 special hospital, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).
-sponsoring MLA, in relation to a registered ballot group, means the MLA who applied to register the group.
 staff, in relation to the electoral commission, means—
   (a) the staff assisting the commissioner referred to in section 31; and
   (b) persons employed or engaged under section 32.
