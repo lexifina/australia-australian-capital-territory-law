@@ -1,31 +1,43 @@
-# FURTHER PROVISIONS TO BE INCLUDED IN THE CONSTITUTION OF A TERRITORY OWNED CORPORATION OR A SUBSIDIARY
-Part 1
-Provisions to the effect of the following provisions are to be included in the constitution of a company that is a Territory owned corporation or a subsidiary:
-\1. A shareholder who is a Minister ceases to be eligible to hold shares in the company on ceasing to be a Minister, and may thereafter exercise no right as a shareholder (except to transfer his or her shares as directed by the Chief Minister).
-\3. All decisions relating to the operation of a company are to be made by or under the authority of the directors in accordance with the statement of corporate intent of the company or, if the company is a subsidiary, of the Territory owned corporation that is the ultimate holding company.
-\4. The company, its directors and its voting shareholders shall comply with the Territory Owned Corporations Act 1990.
-4A. Where—
-  (a) an appointment referred to in subsection 12 (3) of the Territory Owned Corporations Act 1990 is made; and
-  (b) the voting shareholders have not complied with subsection 12 (2) of that Act;
-the director appointed holds office—
-  (c) until the expiry of a period of 90 days from the day of appointment; or
-  (d) until he or she ceases to hold office for any other reason;
-whichever first occurs.
-\5. The directors shall declare such dividend as is agreed to between them and the voting shareholders or, failing agreement, as the voting shareholders direct in writing.
-\6. The company shall ensure that the constitutions of its subsidiaries at all times contain provisions to the effect of those required by this Schedule.
-\7. The company shall, to the maximum extent practicable, ensure that every subsidiary complies with the constitution of the subsidiary and with the requirements of the Territory Owned Corporations Act 1990.
-Part 2
-Provisions to the effect of the following provisions are to be included in the constitution of a company that is a Territory owned corporation:
-\1. The issued capital of a company shall consist of 2 shares that entitle the holders to vote at a general meeting and such other shares as the company may issue.
-1A. The company may issue a non-voting share or a right relating to a non-voting share only if the Treasurer has agreed in writing to the issue.
-\2. Only a Minister may hold a voting share in the capital of the company.
-\3. The directors of the company are to be appointed by the voting shareholders.
-\4. Only the voting shareholders may vote at a general meeting of the company.
-\5. The quorum at a general meeting shall consist of 2 voting shareholders present in person or by proxy.
-\6. The company must register a transfer of a voting share or a right relating to a voting share that is signed by the Chief Minister on behalf of the transferor and is accompanied by a declaration by the Chief Minister that the signature of the holder of the share or right cannot readily be obtained.
-\7. The company must register a transfer of a non-voting share or a right relating to a non-voting share that is signed by the Treasurer on behalf of the transferor and is accompanied by a declaration by the Treasurer that the signature of the holder of the share or right cannot readily be obtained.
-\8. The company may only register a transfer of a share or a right if the transfer has been made under a direction under section 13 of the Territory Owned Corporations Act 1990 or under a provision required to be included in the constitution of the company by clause 6 or 7.
-Part 3
-Provisions to the effect of the following provisions are to be included in the constitution of a company that is a subsidiary:
-\1. A person shall not be appointed as director unless the voting shareholders consent to the appointment.
-\2. Shares in the company may not be issued or transferred unless the voting shareholders have consented in writing.
+# Schedule 4 Modifications in relation to ACTEW Corporation Limited
+(see s 4)
+## 1 Definitions for sch 4
+In this schedule:
+authority means the former Australian Capital Territory Electricity and Water Authority established by the Electricity and Water Act 1988.
+company means ACTEW Corporation Limited.
+## 2 Substitution of s 7 Section 7
+substitute
+## 7 Principal objectives of company
+(1) The principal objectives of the company are to—
+  (a) operate at least as efficiently as any comparable business; and
+  (b) maximise the sustainable return to the Territory on its investment in the company in accordance with the performance targets contained in the latest statement of corporate intent of the company; and
+  (c) exhibit a sense of social responsibility by having regard to the interests of the community in which it operates; and
+  (d) where its activities affect the environment—conduct its operations in compliance with the principles of ecologically sustainable development.
+(2) For subsection (1) (d), ecologically sustainable development is to be taken to require the effective integration of economic and environmental considerations in decision-making processes and to be achievable through implementation of the following principles:
+  (a) the precautionary principle, namely, that if there is a threat of serious or irreversible environmental damage, a lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation;
+  (b) the inter-generational equity principle, namely, that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
+  (c) conservation of biological diversity and ecological integrity;
+  (d) improved valuation and pricing of environmental resources.
+(3) The principal objectives of the company are of equal importance.
+## 3 Operation of s 14 Section 14 (1)
+substitute
+(1) Subject to subsection (1A), a Territory owned corporation or a subsidiary shall not enter into a specified transaction if, as a result of the transaction, a company would or could become a partially owned subsidiary of the Territory owned corporation or subsidiary.
+(1A) Subsection (1) does not apply to the company.
+## 4 Operation of s 16 Section 16
+insert
+(5) In this section:
+subsidiary, in relation to a Territory owned corporation, means a body corporate that under the Corporations Act is a subsidiary of the corporation.
+## 5 Operation of s 30
+(1) In this section:
+acquired, in relation to an asset, means an acquisition of the asset for the Commonwealth Act, part 3A.
+asset - see the Commonwealth Act, part 3A.
+Commonwealth Act means the Income Tax Assessment Act 1936 (Cwlth).
+cost base - see the Commonwealth Act, section 160ZH.
+disposed of, in relation to an asset, means a disposal of the asset for the Commonwealth Act, part 3A.
+indexed cost base - see the Commonwealth Act, section 160ZH.
+reduced cost base - see the Commonwealth Act, section 160ZH.
+vested means vested under the Electricity and Water (Corporatisation) (Consequential Provisions) Act 1995, section 4.
+(2) For section 30, an asset vested in the company which was acquired by the authority before 20 September 1985 shall be taken to have been acquired by the company before that date.
+(3) For section 30, where an asset vested in the company—
+  (a) was acquired by the authority on or after 20 September 1985; and
+  (b) is disposed of by the company;
+the asset shall be taken to have been acquired by the company at a cost base to the company equal to the cost base that would have been the cost base, the indexed cost base or the reduced cost base, as the case may be, to the authority of that asset if the asset had been disposed of by the authority at the time it was disposed of by the company.
