@@ -44,6 +44,7 @@ Examples
 6 a corporation sole
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 breach includes contravene.
+building code means the building code under the Building Act 2004, section 136.
 building society means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the term ‘building society’; or
   (b) any other term (whether or not in English) similar in meaning.
@@ -98,6 +99,7 @@ Note The Australian Government Gazette was published from 1 July 1973 to 30 June
 community advocate means the Community Advocate under the Community Advocate Act 1991.
 confer, in relation to a function, includes impose.
 conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 1980.
+construction occupations registrar means the registrar under the Construction Occupations (Licensing) Act 2004.
 consumer and trader tribunal means the Consumer and Trader Tribunal under the Consumer and Trader Tribunal Act 2003.
 Consumer Credit (Australian Capital Territory) Code means the provisions applying because of the Consumer Credit Act 1995, section 4.
 Consumer Credit (Australian Capital Territory) Regulations means the provisions applying because of the Consumer Credit Act 1995, section 5.
