@@ -1,9 +1,9 @@
 # SCHEDULE 4 Section 185
 ## Ascertaining result of poll
-## Part I—Preliminary
+## Part 1—Preliminary
 Interpretation
 \1. (1) In this Schedule, unless the contrary intention appears—
-“ballot paper” means a ballot paper that is formal by virtue of Part XII;
+“ballot paper” means a ballot paper that is formal by virtue of Part 12;
 “continuing candidate” means a candidate, other than a successful candidate, an excluded candidate or a candidate who died before polling day;
 “count” means an allotment of votes under subclause 3 (1) or 6 (3), paragraph 9 (2) (c) or subclause 14 (2);
 “count votes”, in relation to a candidate, is the number of votes calculated as follows:
@@ -31,12 +31,12 @@ CP is the number of ballot papers counted for the candidate at the count at whic
 (b) in relation to the allotment of votes under paragraph 9 (2) (c)—
 (i) in the case of ballot papers in respect of which votes were allotted to the excluded candidate under clause 3—1; or
 (ii) in the case of ballot papers in respect of which count votes were allotted to the excluded candidate under subclause 6 (3) or paragraph 9 (2) (c)—the transfer value of the ballot papers when counted for the purpose of that allotment.
-(2) Where, but for this subclause, the transfer value of a ballot paper calculated in accordance with paragraph (a) of the definition of “transfer value” would be greater than the transfer value of the ballot paper when counted for the successful candidate, the transfer value of that ballot paper is the last-mentioned transfer value.
+(2) Where, but for this subclause, the transfer value of a ballot paper calculated in accordance with paragraph (a) of the definition of “transfer value” would be greater than the transfer value of the ballot paper when counted for the successful candidate, the transfer value of that ballot paper is the lastmentioned transfer value.
 Disregarding preferences
 \2. (1) This clause applies where effect is to be given to preferences indicated in candidate squares on a ballot paper by virtue of section 180.
 (2) Where the same number is marked in 2 or more candidate squares on a ballot paper, those numbers and any greater number shall be disregarded in determining the elector’s preferences.
 (3) Where a number is missing from the series of consecutive whole numbers marked in the candidate squares on a ballot paper, the missing number and any greater number shall be disregarded in determining the elector’s preferences.
-## Part II—general
+## Part 2—general
 First preferences
 \3. (1) For each ballot paper recording a first preference for a continuing candidate, 1 vote shall be allotted to the candidate.
 (2) For the purposes of subclause (1), a ballot paper on which a first preference for a candidate who died before polling day is recorded shall be taken to record a first preference for the candidate for whom the next available preference is recorded.
@@ -68,7 +68,7 @@ More than 1 surplus
 (b) if 2 or more successful candidates obtained a quota at the earliest count—the candidate who, of those candidates, has the largest surplus is the relevant candidate; or
 (c) if 2 or more successful candidates (in this paragraph called “contemporary candidates”) who obtained a quota at the earliest count have the same surplus, being a surplus larger than that of any other candidate who obtained a quota at that count and—
 (i) 1 of the contemporary candidates had more total votes than any other contemporary candidate at the last count at which all the contemporary candidates had unequal total votes—that candidate; or
-(ii) there is no count at which all the contemporary candidates had unequal total votes—the contemporary candidate who is determined by the Commissioner by lot to be the relevant candidate;
+(ii) there is no count at which all the contemporary candidates had unequal total votes—the contemporary candidate who is determined by the commissioner by lot to be the relevant candidate;
 is the relevant candidate.
 (4) Where—
 (a) a person becomes the relevant candidate by virtue of subparagraph (3) (c) (ii);
@@ -79,7 +79,7 @@ Exclusion of candidates
 \8. (1) Where clause 5 or 15 requires a candidate to be excluded, the candidate with the least total votes shall be excluded.
 (2) Where 2 or more candidates each have the same total votes, being fewer total votes than any other candidate and—
 (a) 1 of those candidates had fewer total votes than any other of those candidates at the last count at which all those candidates had unequal votes—that candidate; or
-(b) there is no count at which all those candidates had unequal total votes—the candidate who, of those candidates, is determined by the Commissioner by lot to be the candidate to be excluded;
+(b) there is no count at which all those candidates had unequal total votes—the candidate who, of those candidates, is determined by the commissioner by lot to be the candidate to be excluded;
 shall be excluded.
 (3) Where—
 (a) a person is excluded by virtue of paragraph (2) (b);
@@ -96,11 +96,11 @@ Votes of excluded candidates
 (3) The groups referred to in subclause (1) shall be dealt with under subclause (2) starting with the group with the highest transfer value and, subject to subclause 4 (1) or 15 (2), continuing in descending order until all the groups have been dealt with.
 Setting aside ballot papers
 \10. Where, after a calculation under subclause 3 (3) or 6 (4) or paragraph 9 (2) (d), the total votes of a candidate who became successful on that calculation equal the quota, the ballot papers counted for that candidate shall be set aside for the purposes of this Part.
-## Part III—casual vacancies
+## Part 3—casual vacancies
 Application
 \11. (1) This Part applies in relation to the vacancy in the seat of a former MLA that is to be filled by recount under section 194.
 (2) For the purposes of this Part—
-(a) “continuing candidate” means a candidate within the meaning of Part XIII of this Act, but does not include a candidate who died before the recount for the purposes of this Part commenced;
+(a) “continuing candidate” means a candidate within the meaning of Part 13 of this Act, but does not include a candidate who died before the recount for the purposes of this Part commenced;
 (b) the quota is calculated under clause 12; and
 (c) the transfer value is determined under clause 13.
 Quota
@@ -142,17 +142,17 @@ Successful candidate is dead
 (2) For the purposes of subclause (1), a ballot paper on which a preference for that candidate is recorded shall be taken to record a preference for the candidate for whom the next available preference is recorded.
 Multiple vacancies
 \17. (1) If there are 2 or more vacancies in the seats of former MLAs that are required to be filled by recount under section 194, the recounts shall be conducted in the order in which the vacancies occurred.
-(2) If 2 or more of those vacancies occurred at the same time, the Commissioner shall determine by lot the order in which the recounts are to be conducted.
+(2) If 2 or more of those vacancies occurred at the same time, the commissioner shall determine by lot the order in which the recounts are to be conducted.
 (3) Where—
 (a) a person is a candidate in relation to more than 1 casual vacancy;
-(b) the person becomes a candidate in relation to those casual vacancies before the Commissioner declares elected the successful candidate in relation to any of those casual vacancies; and
+(b) the person becomes a candidate in relation to those casual vacancies before the commissioner declares elected the successful candidate in relation to any of those casual vacancies; and
 (c) the person is successful in relation to 1 of those casual vacancies;
 for the purpose of conducting the recount in relation to the casual vacancies other than the one in relation to which the person was successful, the person shall be taken not to be a continuing candidate.
-## Part iV—deceased successful candidates
-Application of Part III
-\18. (1) Where a successful candidate dies on or after polling day but before the declaration of the result of the election, the ballot papers counted for the deceased candidate shall be dealt with in accordance with Part III of this Schedule as if they had been counted for a former MLA.
+## Part 4—deceased successful candidates
+Application of Part 3
+\18. (1) Where a successful candidate dies on or after polling day but before the declaration of the result of the election, the ballot papers counted for the deceased candidate shall be dealt with in accordance with Part 3 of this Schedule as if they had been counted for a former MLA.
 (2) For the purposes of this Part—
 “continuing candidate” means a candidate other than a successful candidate, a candidate who died before the recount for the purposes of this Part commenced or a candidate who is excluded for the purposes of clause 15.
 Multiple deaths
 \19. (1) If 2 or more successful candidates die on or after polling day but before the declaration of the result of the election, the ballot papers counted for each deceased candidate shall be dealt in the order in which the candidates died.
-(2) If 2 or more of those successful candidates died at the same time, the Commissioner shall determine by lot the order in which the ballot papers for the deceased candidates are to be dealt with.
+(2) If 2 or more of those successful candidates died at the same time, the commissioner shall determine by lot the order in which the ballot papers for the deceased candidates are to be dealt with.

@@ -20,10 +20,10 @@ that has not been dealt with at an earlier preliminary scrutiny.
 (2) This clause applies to a set of declaration voting papers if the officer is satisfied that—
 (a) the signature on the declaration is that of the elector;
 (b) the certificate by the witness is in accordance with the relevant provision;
-(c) in the case of a postal vote where the papers were posted to the Commissioner—the papers were so posted before the close of the poll; and
+(c) in the case of a postal vote where the papers were posted to the commissioner—the papers were so posted before the close of the poll; and
 (d) in the case of the vote of an Antarctic elector—the envelope referred to in paragraph 176 (1) (c) is endorsed and signed by an authorised officer in accordance with that paragraph.
 (3) For the purposes of paragraph (2) (b), where an officer referred to in subsection 135 (4) omits to sign the certificate, the certificate shall nevertheless be taken to be in accordance with the relevant provision, if—
-(a) the issue of the relevant declaration voting papers was recorded under Division 3 or 3A of Part X; and
+(a) the issue of the relevant declaration voting papers was recorded under Division 3 or 3A of Part 10; and
 (b) the OIC is satisfied the papers were properly issued to the elector.
 \7. An officer shall sort the declaration voting papers to which clause 6 applies into the following groups:
 (a) 1 group containing envelopes on which appear declarations by electors enrolled for the electorate indicated in the declaration;
@@ -42,4 +42,4 @@ that has not been dealt with at an earlier preliminary scrutiny.
 \11. The OIC shall, in accordance with clauses 4 to 10 (inclusive), conduct a further scrutiny of the groups of remaining declaration voting papers to which paragraph 5 (b) or 8 (b) apply and, if there are any papers to which either paragraph applies after the further scrutiny, the OIC shall—
 (a) reject them from further scrutiny; and
 (b) seal them, together with any papers to which paragraph 10 (2) (b) applies, in a parcel endorsed with a description of the contents, the name of the electorate and the date.
-\12. The Commissioner shall give to each elector whose declaration voting papers are rejected under this Schedule written notice of the rejection setting out the reasons for the rejection.
+\12. The commissioner shall give to each elector whose declaration voting papers are rejected under this Schedule written notice of the rejection setting out the reasons for the rejection.

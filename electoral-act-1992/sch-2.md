@@ -4,14 +4,14 @@
 “column”, in relation to a ballot paper, means a column of candidates’ names printed on the ballot paper in accordance with section 116.
 \2. (1) The ballot papers for an election shall be printed so that, for each column—
 (a) separate batches are printed equal in number to the number of names in the column;
-(b) in the first batch, the names in the column are printed in an order determined by the Commissioner by lot;
+(b) in the first batch, the names in the column are printed in an order determined by the commissioner by lot;
 (c) in each batch after the first, the names in the column are printed in the order specified in the table at the end of this Schedule; and
 (d) so far as practicable, the number of ballot papers in each batch for the column is equal to the number of ballot papers in each other batch for the column.
 (2) In the table at the end of this Schedule—
-(a) the number “1” appearing in a column shall be taken to represent the name determined in accordance with paragraph 1 (b) to be in the first position in the corresponding column on the ballot paper; and
-(b) the number “2” appearing in a column shall be taken to represent the name determined in accordance with paragraph 1 (b) to be in the second position in the corresponding column on the ballot paper;
+(a) the number ‘1’ appearing in a column shall be taken to represent the name determined in accordance with paragraph 1 (b) to be in the first position in the corresponding column on the ballot paper; and
+(b) the number ‘2’ appearing in a column shall be taken to represent the name determined in accordance with paragraph 1 (b) to be in the second position in the corresponding column on the ballot paper;
 and so on.
-\3. The Commissioner shall ensure that ballot papers distributed to a polling place for the purposes of an election are so collated that the ballot paper immediately following another ballot paper in the issue is in a form different from that of the other ballot paper.
+\3. The commissioner shall ensure that ballot papers distributed to a polling place for the purposes of an election are so collated that the ballot paper immediately following another ballot paper in the issue is in a form different from that of the other ballot paper.
 \4. The OIC of a polling place shall ensure, so far as practicable, that the form of a ballot paper issued by an officer to a person claiming to vote at that place is different from that of the previous ballot paper so issued by the officer.
 ## Table
 Where there are 2 names in the column—

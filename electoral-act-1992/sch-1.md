@@ -12,5 +12,5 @@ Number [1] boxes from 1 to [1] in the order of your choice Then you may show as 
  |  | [6] |  |  | [6] |  |  | [6] |  |  | [6]
  |  |  |  |  |  |  |  |  |  |  | [7]
 Remember, number at least [1] boxes from 1 to [1] in the order of your choice.
-\1. Insert number of vacancies 5. Insert “UNGROUPED” if there are 2. Insert name of electorate ungrouped candidates
-\3. Insert the number that is 1 more than the number 6. Insert name of candidate of vacancies 7. Insert name, or abbreviation of 4. Insert name, or abbreviation of name, of registered name, of registered political party, or political party, as required “INDEPENDENT”, as required
+\1. Insert number of vacancies 5. Insert ‘UNGROUPED’ if there are 2. Insert name of electorate ungrouped candidates
+\3. Insert the number that is 1 more than the number 6. Insert name of candidate of vacancies 7. Insert name, or abbreviation of 4. Insert name, or abbreviation of name, of registered name, of registered political party, or political party, as required ‘INDEPENDENT’, as required
