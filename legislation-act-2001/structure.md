@@ -30,6 +30,8 @@
 ## Part 13.1 General
 ## Part 13.2 Particular kinds of provisions
 # Chapter 14 Interpretation of Acts and statutory instruments
+## Part 14.1 Purpose and scope
+## Part 14.2 Key principles of interpretation
 # Chapter 15 Aids to interpretation
 ## Part 15.1 General
 ## Part 15.2 Definitions
