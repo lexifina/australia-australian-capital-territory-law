@@ -37,7 +37,7 @@
 ### Division 15.1 Environmental offences
 #### Subdivision 15.1.1 General environmental offences
 #### Subdivision 15.1.2 Specific offences
-### Division 15.2 Liability etc of corporate officers
+### Division 15.2 Extensions of liability for offences
 ### Division 15.3 Other offences
 ### Division 15.4 Defences
 ### Division 15.5 General
