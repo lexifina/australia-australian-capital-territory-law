@@ -1,18 +1,18 @@
-## part 1—preliminary
-## Part 2—Administration
-## part 3—licences and permits
-### Division 1—Requirement for licence or permit
-### Division 2—Licensing scheme
-### Division 3—Permits
-## Part 4—registration of firearms
-### Division 1—Registration scheme
-### Division 2—Offences relating to registration
-### Division 3—Endorsement of licences
-## part 5—safe keeping of firearms
-## part 6—firearms dealers
-## Part 7—Powers of Entry, Search And Seizure
-## part 8—miscellaneous offences
-## part 9—firearms prohibition orders
-## part 10—review of decisions
-## part 11—miscellaneous provisions
-## part 12—Savings, transitional and consequential provisions
+## Part 1 Preliminary
+## Part 2 Administration
+## Part 3 Licences and permits
+### Division 3.1 Requirement for licence or permit
+### Division 3.2 Licensing scheme
+### Division 3.3 Permits
+## Part 4 Registration of firearms
+### Division 4.1 Registration scheme
+### Division 4.2 Offences relating to registration
+### Division 4.3 Endorsement of licences
+## Part 5 Safe keeping of firearms
+## Part 6 Firearms dealers
+## Part 7 Powers of entry, search and seizure
+## Part 8 Miscellaneous offences
+## Part 9 Firearms prohibition orders
+## Part 10 Review of decisions
+## Part 11 Miscellaneous provisions
+## Part 12 Savings, transitional and consequential provisions

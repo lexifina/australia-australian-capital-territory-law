@@ -1,10 +1,10 @@
-# SCHEDULE 1 (See s 4)
-PROHIBITED FIREARMS
+# Schedule 1 Prohibited firearms
+(see s 4)
 column 1 item | column 2 description
 1 | a machine gun, submachine gun or other firearm capable of propelling projectiles in rapid succession during 1 pressure of the trigger
-2 | a self-loading rim-fire rifle (including such a firearm described elsewhere in this Schedule)
-3 | a self-loading centre-fire rifle (including such a firearm described elsewhere in this Schedule)
-4 | a self-loading or repeating action, eg pump action shotgun (including such a firearm described elsewhere in this Schedule)
+2 | a self-loading rim-fire rifle (including such a firearm described elsewhere in this schedule)
+3 | a self-loading centre-fire rifle (including such a firearm described elsewhere in this schedule)
+4 | a self-loading or repeating action, eg pump action shotgun (including such a firearm described elsewhere in this schedule)
 5 | a self-loading centre-fire rifle of a kind that is designed or adapted for military purposes
 6 | a self-loading shotgun of a kind that is designed or adapted for military purposes
 7 | a firearm that substantially duplicates in appearance (regardless of calibre or manner of operation) a firearm referred to in item 1, 5 or 6
@@ -13,7 +13,6 @@ column 1 item | column 2 description
 10 | a firearm to which there is attached any article or device capable of muffling, reducing or stopping the noise created by firing the firearm
 11 | a firearm, not being a pistol, fitted with a stock that is specially designed so as to be readily detachable, or to operate on a swivel, folding or telescopic basis
 12 | a firearm made up in the form of a stylographic or propelling pen or pencil, capable of being used for the discharge of gas, bullets, shot, dye or pyrotechnic flares
-column 1 item | column 2 description
 13 | a firearm capable of discharging by any means— (a) any irritant matter in liquid, powder, gas or chemical form; or (b) any pyrotechnic flare or dye; or (c) any article known as a ‘paintball’
 14 | a firearm which substantially duplicates in appearance a walking-stick or walking-cane
 15 | a cannon or other firearm by whatever name known of a type which— (a) will expel a projectile by the action of an explosive or other propellant; and (b) has a barrel with a bore in excess of 10 gauge; not being a firearm of the Very or rocket type designed and intended for use for lifesaving or distress signalling purposes, an antique muzzle-loading firearm, or a rifle or shotgun manufactured before 1920
