@@ -49,4 +49,13 @@
 ### Division 4.1.3 Defences
 ## Part 4.2 Computer offences
 ## Part 4.3 Sabotage
-# Chapter 5 Miscellaneous
+# Chapter 6 Serious drug offences
+## Part 6.1 Interpretation for ch 6
+## Part 6.2 Trafficking in controlled drugs
+## Part 6.3 Manufacturing controlled drugs and precursors
+## Part 6.4 Cultivating controlled plants
+## Part 6.5 Drug offences involving children
+## Part 6.6 General provisions for drug offences
+## Part 6.7 Offences relating to property derived from drug offences
+## Part 6.8 Application of ch 6
+# Chapter 8 Miscellaneous

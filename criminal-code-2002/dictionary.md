@@ -19,13 +19,22 @@ aggravated robbery—see section 310.
 belongs, in relation to property, for chapter 3 (Theft, fraud, bribery and related offences)—see section 301.
 benefit, for part 3.7 (Bribery and related offences)—see section 352.
 burglary—see section 311.
+cannabis—see section 600.
+cannabis plant—see section 600.
 cause, a loss, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 causes—
   (a) for part 4.1 (Property damage offences)—see section 400; and
   (b) for part 4.2 (Computer offences)—see section 412; and
   (c) for part 4.3 (Sabotage)—see section 422.
+commercial quantity, for chapter 6 (Serious drug offences)—see section 601.
+conceal a thing, for chapter 6 (Serious drug offences)—see section 600.
 conduct—see section 13.
+controlled drug—see section 600.
+controlled plant—see section 600.
+controlled precursor—see section 600.
 creates—a law creates an offence if it directly or indirectly creates the offence or affects its scope or operation.
+cultivates, for chapter 6 (Serious drug offences)—see section 615.
+cultivation, for chapter 6 (Serious drug offences)—see section 615.
 damage—
   (a) for part 4.1 (Property damage offences)—see section 400; and
   (b) for part 4.3 (Sabotage)—see section 422.
@@ -37,8 +46,10 @@ death means—
   (b) the irreversible cessation of circulation of blood in a person’s body.
 deception for part 3.3 (Fraudulent conduct)—see section 325.
 default application date—see section 10.
+directly derived, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 dishonest, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 document, for part 3.6 (Forgery and related offences)—see section 343.
+drug offence, for part 6.7 (Offences relating to property derived from drug offences)—see section 637.
 duty, of a person who is a public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 electronic communication, for part 4.2 (Computer offences)—see section 412.
 employee includes a servant.
@@ -61,6 +72,7 @@ harm means—
 whether temporary or permanent, but does not include being subjected to any force or impact that is within the limits of what is acceptable as incidental to social interaction or to life in the community.
 immediately applied provisions—see section 10.
 impairment, for part 4.2 (Computer offences)—see section 412.
+indirectly derived, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 intention—see section 18.
 intoxication—see section 30.
 irreversible means irreversible by natural or artificial means.
@@ -69,9 +81,12 @@ knife includes—
   (b) a razor blade; and
   (c) any other blade.
 knowledge—see section 19.
+large commercial quantity, for chapter 6 (Serious drug offences)—see section 601.
 law means an Act or subordinate law, and includes a provision of an Act or subordinate law.
 legal burden—see section 56.
 loss, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
+manufacture, for chapter 6 (Serious drug offences)—see section 606.
+manufactures, for chapter 6 (Serious drug offences)—see section 606.
 menace, for part 3.5 (Blackmail)—see section 340.
 mental impairment—see section 27.
 modification, for part 4.2 (Computer offences)—see section 412.
@@ -86,7 +101,11 @@ offensive weapon includes the following:
   (d) a knife, or anything that may reasonably be taken in the circumstances to be a knife;
   (e) an explosive, or anything that may reasonably be taken in the circumstances to be or contain an explosive.
 physical element—see section 14.
+possession of a thing, for chapter 6 (Serious drug offences)—see section 600.
+prepare a drug for supply, for chapter 6 (Serious drug offences)—see section 600.
 principal, for part 3.7 (Bribery and related offences)—see section 353.
+proceeds of a drug offence for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
+product, of a plant, for chapter 6 (Serious drug offences)—see section 615.
 property includes the following:
   (a) electricity;
   (b) gas;
@@ -103,6 +122,7 @@ reckless—see section 20.
 required geographical nexus, for part 2.7 (Geographical application)—see section 63.
 robbery—see section 309.
 self-induced, intoxication—see section 30.
+sell, for chapter 6 (Serious drug offences)—see section 600.
 serious computer offence, for part 4.2 (Computer offences)—see section 412.
 serious harm means any harm (including the cumulative effect of more than 1 harm) that—
   (a) endangers, or is likely to endanger, human life; or
@@ -113,7 +133,11 @@ special liability provision means—
   (b) a provision providing that, in a prosecution for an offence, it is not necessary to prove that the defendant knew something; or
   (c) a provision providing that, in a prosecution for an offence, it is not necessary to prove that the defendant knew or believed something.
 supply, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
+supply, for chapter 6 (Serious drug offences)—see section 600.
 Territory public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 theft—see section 308 (Theft) and section 321 (Minor theft).
+traffic in a controlled drug—see section 602.
+trafficable quantity, for chapter 6 (Serious drug offences)—see section 601.
+transport, for chapter 6 (Serious drug offences)—see section 600.
 unauthorised computer function, for part 4.3 (Sabotage)—see section 422.
 unwarranted demand with a menace, for part 3.5 (Blackmail)—see section 341.
