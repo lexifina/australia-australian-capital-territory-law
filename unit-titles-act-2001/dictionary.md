@@ -13,8 +13,8 @@ building includes—
   (b) any other improvement (including fixtures, fittings and site improvements); and
   (c) as shown in a unit title application—a building, structure or improvement (including fixtures, fittings and site improvements) proposed to be erected, or as proposed to be altered or added to.
 Examples of site improvements
-1 A paved path.
-2 A paved barbecue area.
+1 a paved path
+2 a paved barbecue area
 building damage scheme—see section 152.
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 cancellation authority—see section 160.
@@ -109,10 +109,10 @@ part owner, of a unit, means ownership of the unit as a tenant in common or as a
 proportional share, of a contribution payable for a unit, is the proportion of the total contributions payable for all units worked out as follows:
 proprietor, of an interest in land, includes anyone who is entitled to exercise the rights of the proprietor in relation to the land.
 Examples
-1 Someone to whom the proprietor has assigned those rights.
-2 The heir, executor or administrator of the proprietor.
-3 The trustee in relation to the proprietor’s interest under the Bankruptcy Act 1966 (Cwlth).
-4 For a company that is a proprietor, the company’s liquidators.
+1 someone to whom the proprietor has assigned those rights
+2 the heir, executor or administrator of the proprietor
+3 the trustee in relation to the proprietor’s interest under the Bankruptcy Act 1966 (Cwlth)
+4 for a company that is a proprietor, the company’s liquidators
 provisional building damage order—see section 154.
 provisions, of a lease, means the provisions, covenants and conditions subject to which the lease is held.
 reduced quorum—see section 99 (Quorum at a general meeting—owners corporations with 3 or more members).

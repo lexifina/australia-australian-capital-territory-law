@@ -9,7 +9,7 @@
 ## Part 4 Registration of units plans
 ### Division 4.1 Subdivision, unit leases and common property lease
 ### Division 4.2 Easements
-## Part 5 Owners corporations (generally)
+## Part 5 Owners corporations generally
 ### Division 5.1 Establishment and legal status of owners corporation
 ### Division 5.2 Membership and representatives
 ### Division 5.3 General functions
