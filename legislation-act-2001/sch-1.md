@@ -1,4 +1,4 @@
-# Schedule 1 Acts included in sources of law of the Territory
+# U Schedule 1 Acts included in sources of law of the Territory
 (see s 17)
 ## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 name of Act | column 3 number or date of assent and original jurisdiction

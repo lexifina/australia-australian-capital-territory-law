@@ -252,6 +252,7 @@ number means—
   (a) a number expressed in figures or words; or
   (b) a combination of a number so expressed and a letter of the alphabet.
 nurse means a registered nurse under the Nurses Act 1988.
+nurse practitioner means a person who is registered as a nurse practitioner under the Nurses Act 1988.
 oath, in relation to a person allowed by law to affirm, declare or promise includes affirmation, declaration and promise.
 occupy a position includes hold the position or exercise functions of the position.
 office includes position.
