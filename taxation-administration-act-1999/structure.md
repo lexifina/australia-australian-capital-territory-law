@@ -29,4 +29,3 @@
 ### Division 11.4 Notices and service of documents
 ### Division 11.5 Proceedings and evidence
 ### Division 11.6 Miscellaneous
-## Part 12 Transitional
