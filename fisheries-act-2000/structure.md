@@ -19,10 +19,5 @@
 ### Division 8.2 General offences
 ### Division 8.3 Offences in relation to fishing gear
 ### Division 8.4 Protection of aquatic habitats
-## Part 9 Infringement notices for certain offences
-### Division 9.1 Interpretation
-### Division 9.2 Infringement and reminder notices
-### Division 9.3 Disputing liability
-### Division 9.4 Miscellaneous
 ## Part 10 Review of decisions
 ## Part 11 Miscellaneous

@@ -1,5 +1,17 @@
 # Dictionary
 (see s 4)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· administrative appeals tribunal
+· conservator of flora and fauna
+· contravene
+· disallowable instrument
+· document
+· function
+· magistrate
+· Magistrates Court
+· penalty unit (see s 133)
+· power.
 aquaculture means—
   (a) cultivating fish or marine vegetation for harvesting the fish or vegetation or their progeny for sale; or
   (b) keeping fish or marine vegetation in a confined area for a commercial purpose;
@@ -8,8 +20,9 @@ but does not include—
   (d) anything done in maintaining a collection of fish or marine vegetation that is not used for a commercial purpose; or
   (e) an activity prescribed by the regulations.
 boat means any kind of vessel, however navigated.
+commercial fishing licence means a licence mentioned in section 20.
 conservation officer means a conservation officer under the Nature Conservation Act 1980.
-conservator means the conservator of flora and fauna under the Nature Conservation Act 1980.
+conservator means the conservator of flora and fauna.
 corresponding law means a law of a State that regulates fisheries.
 environment—see the Environment Protection Act 1997, section 4.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
@@ -26,15 +39,16 @@ but does not include—
 fish dealer means a person who receives fish, for resale or other commercial use, from a person whom he or she knows or suspects or ought to know or suspect to be a commercial fisher, but does not include a person who receives fish only for the purpose of transporting them on behalf of the owner of the fish.
 fishing closure—see section 13.
 fishing gear means equipment, other than a vehicle or boat, used for taking fish.
-licence means—
-  (a) a commercial fishing licence; or
-  (b) a scientific licence; or
-  (c) an import and export licence;
-  issued under section 25.
+import and export licence means a licence mentioned in section 22.
+licence means any of the following licences issued under section 25:
+  (a) a commercial fishing licence;
+  (b) a scientific licence;
+  (c) an import and export licence.
 licensee means the holder of a licence.
 net includes anything attached to a net.
 newspaper means a newspaper published and circulating daily in the ACT.
 noxious fish means a species of fish declared to be noxious under section 14.
+occupier, of a place, for division 7.1 (Powers for places)—see section 53.
 possession includes having a thing in the custody of someone else.
 private waters means—
   (a) waters of a dam, water storage or other water control structure that is not situated on a waterway; and
@@ -46,6 +60,7 @@ receive fish, means receive fish from someone else, whether by purchase or other
   (b) transportation.
 register means the register kept under section 35.
 registered means registered under this Act.
+scientific licence means a licence mentioned in section 21.
 sell includes—
   (a) sell by wholesale, retail, auction or tender; and
   (b) barter or exchange; and
