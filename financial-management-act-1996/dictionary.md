@@ -38,10 +38,11 @@ outputs means goods produced or services provided by a department or Territory a
 prescribed means prescribed by the financial management guidelines.
 public money means all money received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
   (a) money held by the Territory as trust money; or
-  (b) money received by a Territory owned corporation; or
-  (c) money received by a Territory authority; or
-  (d) money received by the Territory from a Territory authority for investment for the authority; or
-  (e) money received by the Territory—
+  (b) money received by a Territory owned corporation or subsidiary of a Territory owned corporation; or
+  (c) money received by the Territory from a Territory owned corporation or subsidiary of a Territory owned corporation for investment for the corporation or subsidiary; or
+  (d) money received by a Territory authority; or
+  (e) money received by the Territory from a Territory authority for investment for the authority; or
+  (f) money received by the Territory—
     (i) in repayment of an investment made by the Territory for a Territory authority; or
     (ii) as interest on such an investment.
 public trading enterprise means an organisation whose primary function is to provide goods and services that are mainly market orientated, non-regulatory and non-financial in nature and who may recover a significant part of their costs from individual consumers.
@@ -55,6 +56,7 @@ responsible Minister means—
   (c) in relation to a Territory authority—the Minister administering the Act by which the authority was established.
 securities includes stocks, debentures, notes, bonds, promissory notes, bills of exchange, and any other securities approved in writing by the Treasurer.
 statement of intent means a statement of a Territory authority under section 58.
+subsidiary—see the Territory Owned Corporations Act 1990, dictionary.
 superannuation appropriation—see the Territory Superannuation Provision Protection Act 2000, dictionary.
 superannuation banking account—see the Territory Superannuation Provision Protection Act 2000, section 7.
 taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
