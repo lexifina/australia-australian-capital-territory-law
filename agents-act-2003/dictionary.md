@@ -31,10 +31,10 @@ agent means a person who carries on business as—
 agent, for division 3.4 (Disciplinary action against agents)—see section 40.
 agents licence means—
   (a) a business agents licence; or
-  (b) an employment agents licence.
+  (b) an employment agents licence; or
   (c) a real estate agents licence; or
   (d) a stock and station agents licence; or
-  (e) a travel agents licence; or
+  (e) a travel agents licence.
 audit period, for a licensed agent means the period fixed under section 113 (Audit period) for the agent.
 beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
 benefit, for division 5.6 (Land—further provisions)—see section 80.
@@ -42,15 +42,15 @@ business agent service—see section 10 (2).
 buyer includes a prospective buyer.
 carries on business as—
   (a) a business agent—see section 10; or
-  (b) an employment agent—see section 12.
+  (b) an employment agent—see section 12; or
   (c) a real estate agent—see section 8; or
   (d) a stock and station agent—see section 9; or
-  (e) a travel agent—see section 11 ; or
+  (e) a travel agent—see section 11.
 child, of a person, means the son, daughter, grandson, granddaughter, stepson or stepdaughter of the person, or someone in relation to whom the person is acting in place of a parent.
 claimant, for division 10.2 (Claims against the compensation fund)see section 147.
+compensation fund means the consumer compensation fund kept under section 144 (Consumer compensation fund).
 compensation scheme, for division 5.7 (Travel agents—further provisions)—see section 90.
 compensation scheme participant, for a travel agent—see section 91 (Participation in compensation scheme).
-compensation fund means the consumer compensation fund kept under section 144 (Consumer compensation fund).
 corresponding law—see section 174.
 daily ACT newspaper means a daily newspaper printed and published in the ACT.
 details, of a trust account, for part 7 (Trust accounts)—see section 103 (Trust account details).
@@ -131,7 +131,7 @@ salesperson means a person who, as an employee, provides—
 seller includes prospective seller.
 selling price, for division 5.6 (Land—further provisions)—see section 80.
 stock and station agent service—see section 9.
-stop direction, for division 8.2 (Freezing of accounts)––see section 131
+stop direction, for division 8.2 (Freezing accounts)––see section 131.
 travel agents board of trustees means the board of trustees established under the travel agents trust deed.
 travel agent service—see section 11 (2).
 travel agents trust deed means—

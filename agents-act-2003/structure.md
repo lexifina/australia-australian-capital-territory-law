@@ -22,7 +22,7 @@
 ### Division 5.9 Other offences
 ## Part 6 Agency agreements
 ## Part 7 Trust accounts
-### Division 7.1 Definitions for part 7
+### Division 7.1 Definitions for pt 7
 ### Division 7.2 Trust money and trust accounts
 ### Division 7.3 Periodic returns and quarterly statements
 ### Division 7.4 Audit of trust accounts
