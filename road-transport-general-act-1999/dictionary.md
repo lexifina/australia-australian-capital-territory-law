@@ -102,9 +102,7 @@ sold vehicle declaration means a statutory declaration mentioned in section 40.
 taxi—see section 100 (Definitions for pt 9).
 taxi operator’s licence—see section 106 (1).
 taxi zone—see section 100 (Definitions for pt 9).
-the regulations made under this Act includes any publication applied, adopted or incorporated under the regulations, whether entirely or in part and with or without changes.
 third-party policy—see section 158 (Definitions for pt 10).
-this Act (or the Act) includes the regulations made under this Act.
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
