@@ -1,13 +1,13 @@
 # Dictionary
 (see s 3)
-Note 1 The following terms that are relevant to this Act are defined in the Interpretation Act 1967, dictionary:
+Note 1 The following terms that are relevant to this Act are defined in the Legislation Act 2001, dictionary:
   • doctor
   • exercise
   • function
   • Self-government Act
   • Speaker
   • State.
-Note 2 The Interpretation Act 1967 contains other definitions and provisions that are relevant to this Act.
+Note 2 The Legislation Act 2001 contains other definitions and provisions that are relevant to this Act.
 AAT means the administrative appeals tribunal.
 abbreviation, of the name of a political party or ballot group, includes an alternative name of the party or group.
 address—
@@ -154,7 +154,7 @@ secretary, in relation to a political party, means the secretary or chief admini
 Speaker—
   (a) for part 13 (Casual vacancies)—see section 190 (Definitions for pt 13); and
   (b) for part 16 (Disputed elections, eligibility and vacancies)—see section 251 (References in pt 16 to Speaker).
-Note Speaker is defined in the Interpretation Act 1967, dict.
+Note Speaker is defined in the Legislation Act 2001, dict.
 special hospital, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).
 sponsoring MLA, in relation to a registered ballot group, means the MLA who applied to register the group.
 staff, in relation to the electoral commission, means—
