@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -28,7 +28,7 @@ first home owner grant scheme means the scheme for payment of first home owner g
 guardian, of a person under a legal disability, includes a trustee who holds property on trust for the person under an instrument of trust or by order or direction of a court or tribunal.
 home—see section 4.
 home owner—see section 5 (1).
-identity card—see the Taxation Administration Act 1999, section 3.
+identity card—see the Taxation Administration Act 1999, dictionary.
 owner means—
   (a) of land—a person who has a relevant interest in the land; or
   (b) of a home—see section 5 (1).
