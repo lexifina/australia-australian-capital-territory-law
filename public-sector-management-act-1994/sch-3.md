@@ -164,7 +164,7 @@ and the employer shall comply with the request.
 (1) If the council has reason to believe that a person is capable of giving information or producing documents relevant to a matter dealt with in a report under section 60C (1), the council may, at any time after receiving the report and before commencing an inquiry under section 60E, by written notice served on that person, require that person at the place, and within the period or on the date and at the time, specified in the notice, to give to the council any such information or to produce to the council any such documents.
 (2) A person shall not refuse or fail, without reasonable excuse, to give information or produce a document, when so required under subsection (1).
 Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
-(3) The fact that giving information or producing documents under a requirement under subsection (1) may tend to incriminate the person who is subject to such a requirement shall be taken to be a reasonable excuse on the part of that person for the purpose of subsection (2).
+Note The Legislation Act 2001, s 170 and s 171 deal with the application of the privilege against selfincrimination and client legal privilege.
 ## 60E Council may conduct public inquiry
 (1) The council may, at any time after receiving a report under section 60C (1) and before preparing a report under section 60Q, conduct an inquiry into any matter arising out of the firstmentioned report.
 (2) The council may hold the whole or any part of an inquiry in private if, in the opinion of the council, it is necessary or desirable in the public interest to do so.
