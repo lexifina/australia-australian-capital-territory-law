@@ -44,10 +44,13 @@ licensing authority, for another jurisdiction, means the entity that has functio
 motor vehicle means a vehicle that is built to be propelled by a motor that forms part of the vehicle.
 National Road Transport Commission means the National Road Transport Commission established by the National Road Transport Commission Act 1991 (Cwlth) or its successor.
 national schedule of demerit points means the offences, and the number of demerit points incurred for each offence, prescribed under the regulations under the Road Transport (General) Act 1999 as the national schedule of demerit points.
-photograph includes a digitised, electronic or computer generated image in a form approved by the road transport authority.
+photograph—
+  (a) includes a digitised, electronic or computer generated image in a form approved by the road transport authority; and
+  (b) for part 3A (Protection of photographs and signatures)—see section 33B.
 probationary licence means—
   (a) a driver licence, other than a learner licence, issued under this Act to a person who applies for a driver licence after a period of disqualification (whether or not by court order) from holding or obtaining an Australian driver licence; or
   (b) an equivalent Australian driver licence issued under a corresponding law.
+proof of age card means a card issued under the Liquor Act 1975, section 175 (1).
 provisional licence means an Australian driver licence issued as a provisional licence, but does not include an Australian driver licence that includes an additional provisional class merely because it includes the additional provisional class.
 public vehicle—see the Road Transport (General) Act 1999, section 158.
 public vehicle licence means a driver licence that authorises the person to drive a public vehicle for hire or reward.
@@ -64,6 +67,7 @@ but does not include an area that would otherwise be a road related area so far 
 road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
+signature, for part 3A (Protection of photographs and signatures)—see section 33B.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
