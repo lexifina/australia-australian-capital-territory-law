@@ -4,7 +4,7 @@
 2 Services should contribute to ensuring that the conditions of everyday life of people with disabilities are the same as, or as close as possible to, the conditions of everyday life enjoyed in the general community.
 3 Services should be provided as part of local coordinated service systems and be integrated with services generally available to members of the community where possible.
 4 Services should be tailored to meet the individual needs and goals of people with disabilities.
-5 Programs and services should be designed and administered so as to meet the needs of people with disabilities who may experience additional disadvantage as a result of their sex, ethnic origin, physical isolation or Aboriginality.
+5 Programs and services should be designed and administered to meet the needs of people with disabilities who may experience additional disadvantage because of their sex, sexuality, ethnic origin, physical isolation or Aboriginality.
 6 Programs and services should be designed and administered so as to promote recognition of the competence of, and enhance the image of, people with disabilities.
 7 Programs and services should be designed and administered so as to promote the participation of people with disabilities in the life of the local community through maximum physical and social integration in that community.
 8 Programs and services should be designed and administered so as to ensure that no single organisation providing services exercises control over all or most aspects of the life of a person with disabilities.
