@@ -1,5 +1,7 @@
 ## Part 1 Preliminary
-## Part 2 Territory budget and appropriations
+## Part 2 Budget management
+### Division 2.1 Appropriations and budgets
+### Division 2.2 Budget reviews and pre-election updates
 ## Part 3 Financial reports
 ### Division 3.1 Financial reports of the Territory
 ### Division 3.2 Financial reports of departments
