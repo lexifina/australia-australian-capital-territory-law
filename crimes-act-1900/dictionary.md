@@ -15,7 +15,7 @@ as the case requires.
 document of title to land includes every deed, certificate of title, map, paper, or parchment, written or printed, or partly written and partly printed, being or containing evidence of the title, or part of the title, to any real estate or to any interest in or out of real estate.
 domestic violence offence means—
   (a) an offence against a provision of this Act specified in schedule 2, column 1 or an attempt to commit such an offence; or
-  (b) an offence against the Domestic Violence Act 1986, section 27; or
+  (b) an offence against the Domestic Violence Act 1986, section 19D; or
   (c) any of the following provisions of the Road Transport (Safety and Traffic Management) Act 1999:
     (i) section 6 (1) (which is about negligent driving);
     (ii) section 7 (1) (which is about furious, reckless or dangerous driving);
