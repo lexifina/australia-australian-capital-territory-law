@@ -7,10 +7,10 @@ Loss of both feet
 Second
 First Column Column
 Nature of Injury Percentage
-Loss of one eye, with serious diminution of the sight of the other 75
-Loss of one eye 40
+Loss of 1 eye, with serious diminution of the sight of the other 75
+Loss of 1 eye 40
 Loss of hearing 70
-Complete deafness of one ear 20
+Complete deafness of 1 ear 20
 Loss of right arm or greater part of right arm 80
 Loss of left arm or greater part of left arm 72
 Loss of lower part of right arm, right hand or five fingers of right hand 70
