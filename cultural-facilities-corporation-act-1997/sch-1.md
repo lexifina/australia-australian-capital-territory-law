@@ -1,7 +1,8 @@
-# SCHEDULE 1 (See s 3)
-DESIGNATED LOCATIONS
-Canberra Theatre Centre
-Canberra Museum & Gallery
-Lanyon Historic Property
-Calthorpe’s House
-Nolan Gallery
+# Schedule 1 Designated locations
+(see s 3)
+column 1 item | column 2 designated locations
+1 | Canberra Theatre Centre
+2 | Canberra Museum & Gallery
+3 | Lanyon Historic Property
+4 | Calthorpe’s House
+5 | Nolan Gallery

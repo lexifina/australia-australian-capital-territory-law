@@ -1,10 +1,10 @@
-## part 1—preliminary
-## part 2—corporatE STATUS
-### Division 1—Establishment, functions and powers
-### Division 2—Membership
-### Division 3—Meetings
-## PART 3—CHIEF EXECUTIVE OFFICER, STAFF AND CONSULTANTS
-### Division 1—Chief executive officer
-### Division 2—Staff and consultants
-## part 4—management
-## part 5—miscellaneous
+## Part 1 Preliminary
+## Part 2 Corporate status
+### Division 2.1 Establishment, functions and powers
+### Division 2.2 Membership
+### Division 2.3 Meetings
+## Part 3 Chief executive officer, staff and consultants
+### Division 3.1 Chief executive officer
+### Division 3.2 Staff and consultants
+## Part 4 Management
+## Part 5 Miscellaneous
