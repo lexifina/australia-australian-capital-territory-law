@@ -1,5 +1,5 @@
-## part I—preliminary
-## part II—offences
-## Part Iii—evidence
-## part iv—enforcement
-## part v—miscellaneous
+## Part 1 Preliminary
+## Part 2 Offences
+## Part 3 Evidence
+## Part 4 Enforcement
+## Part 5 Miscellaneous
