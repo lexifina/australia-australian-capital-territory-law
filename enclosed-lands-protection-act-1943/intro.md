@@ -1,1 +1,2 @@
-An Act relating to Protection of Enclosed Lands from Intrusion and Trespass
+# Enclosed Lands Protection Act 1943
+An Act relating to protection of enclosed lands from intrusion and trespass
