@@ -1,2 +1,2 @@
-# Second-hand Dealers and Collectors Act 1906
-U An Act to provide for the licensing and regulation of second-hand dealers in and collectors of certain old wares, to regulate the sale of second-hand articles and old wares, and for other purposes
+# Second-hand Dealers Act 1906
+An Act to provide for the licensing and regulation of dealers in certain second-hand goods, to regulate the sale of certain second-hand goods, and for other purposes
