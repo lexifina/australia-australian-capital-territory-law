@@ -1,6 +1,6 @@
-## part 1—preliminary
-## part 2—the board of senior secondary studies
-## part 3—adminIstration
-### Division 1—Accreditation and registration of courses
-### Division 2—Certificates of attainment
-## part 4—miscellaneous
+## Part 1 Preliminary
+## Part 2 Board of Senior Secondary Studies
+## Part 3 Administration
+### Division 3.1 Accreditation and registration of courses
+### Division 3.2 Certificates of attainment
+## Part 4 Miscellaneous
