@@ -12,12 +12,12 @@ Column 1 Provision | Column 2 Description of offence
 25 | Unlawfully or negligently causing grievous bodily harm
 26 | Common assault
 27 | Acts endangering human life
-28 | Acts endangering the health, safety or physical well-being of another person
+28 | Acts endangering the health, safety or physical wellbeing of another person
 29 | Culpable driving of a motor vehicle
 30 | Threatening to kill
 31 | Threatening to inflict grievous bodily harm
 32 (1) (a) | Making a demand with a threat to kill or inflict grievous bodily harm
-32 (2) (a) | Making a demand with a threat to endanger health, safety or physical well-being
+32 (2) (a) | Making a demand with a threat to endanger health, safety or physical wellbeing
 33 | Possession of an object with intent to use it to kill or cause grievous bodily harm
 34 | Forcible confinement or imprisonment
 34A | Stalking

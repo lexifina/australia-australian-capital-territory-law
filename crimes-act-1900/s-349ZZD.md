@@ -1,4 +1,7 @@
-# 349ZZD. Retention of things which are seized
+# 349ZZD. Return of knife or thing which is seized
+(1A) If a knife is seized under section 349DB, the person from whom it was seized or, if that person is under 16 years of age, his or her parent or guardian is entitled to have the knife returned if—
+  (a) a prosecution for an offence under section 495 in respect of that knife has not been commenced before the end of 60 days after the seizure; or
+  (b) a prosecution for an offence under section 495 in respect of that knife has been commenced before the end of 60 days after the seizure and the prosecution (and any appeal to a court in relation to that prosecution) has been completed without the knife having been forfeited under section 349ZZH.
 (1) Subject to any contrary order of a court, if a police officer seizes a thing under Division 2, 3 or 4, the police officer shall return it if—
   (a) the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
   (b) if the thing was seized under section 349T—
