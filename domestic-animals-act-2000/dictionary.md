@@ -58,8 +58,7 @@ excluded offence means—
     (ii) section 82 (Offence—cats in declared areas);
     (iii) section 105 (Exclusion of assistance animal from public place);
     (iv) section 106 (Imposition of excess charges for assistance animal);
-    (v) section 142 (Dishonoured cheques and credit transactions);
-    (vi) section 143 (Obstruction etc of authorised officers).
+    (v) section 142 (Dishonoured cheques and credit transactions).
 harass—
     (a) of a person—see section 49 (1) (Harassment of persons and animals by dogs); and
     (b) of an animal—see section 49 (2).
@@ -75,7 +74,7 @@ muzzle means a device that, if worn by a dog, prevents the dog from biting a per
 nuisance notice, for part 6 (Animal nuisance)—see section 107 (Meaning of animal nuisance and nuisance notice for pt 6).
 occupier, of premises, includes a person who is, or is reasonably believed to be, in charge of the premises.
 offence, for division 9.2 (Powers of authorised officers)—see section 126.
-permit, for part 3 (Dogs and Cats)—see section 73 (Meaning of desex and permit for pt 3).
+permit, for part 3 (Dogs and Cats)—see section 73 (Meaning of de-sex and permit for pt 3).
 premises includes land (whether vacant or occupied), an aircraft, a vessel and a vehicle.
 prohibited area means an area declared by the Minister under section 41 (1) (Prohibited areas).
 public place—
