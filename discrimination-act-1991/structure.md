@@ -13,11 +13,15 @@
 ## PART V—SEXUAL HARASSMENT
 ## Part VI—Racial Vilification
 ## PART VII—OTHER UNLAWFUL ACTS
-## PART VIII—RESOLUTION OF COMPLAINTS
-### Division 1—Complaints
-### Division 2—Investigations
-### Division 3—Decisions of the Commissioner
-### Division 4—Miscellaneous
+## PART VIII—COMPLAINTS
+### Division 1—Preliminary
+### Division 2—Making, investigation, conciliation and referral of complaints
+### Division 3—Hearings before Discrimination Tribunal
+### Division 4—Granting of relief by Discrimination Tribunal
+### Division 5—Enforcement of orders and decisions of Discrimination Tribunal
+### Division 6—Other powers of Commissioner and Tribunal
+### Division 7—Miscellaneous
 ## PART IX—EXEMPTIONS
+## Part ixA—discrimination tribunal
 ## PART X—DISCRIMINATION COMMISSIONER
 ## PART XI—MISCELLANEOUS
