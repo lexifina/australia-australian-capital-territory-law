@@ -1,5 +1,11 @@
 # Dictionary
 (see s 3)
+Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· appoint
+· contravene
+· exercise
+· function.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if that law so provides).
 administration order—see section 140 (Who may apply for an administration order?).
 administrative fund—see section 59 (1).
