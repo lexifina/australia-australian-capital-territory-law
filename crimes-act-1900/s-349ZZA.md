@@ -1,4 +1,4 @@
-# 349ZZA. Announcement before entry
+# 349ZZA Announcement before entry
 (1) Subject to subsection (3), a police officer shall, before any person enters premises under a warrant, for the purpose of executing an order mentioned in subsection 349DA (1) or to arrest a person—
   (a) announce that he or she is authorised to enter the premises; and
   (b) give any person at the premises an opportunity to allow entry to the premises.

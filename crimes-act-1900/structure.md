@@ -24,9 +24,10 @@
 ## part 11a—unfitness to plead, mental illness and mental dysfunction
 ### Division 1—Preliminary
 ### Division 2—Unfitness to plead
-### Division 3—Acquittal on grounds of mental illness
-### Division 4—Referral of mentally dysfunctional persons to Tribunal following conviction
-### Division 5—Summary proceedings against mentally dysfunctional persons
+### Division 3—Acquittal on grounds of mental impairment
+### Division 3A—Dismissal by Magistrates Court on grounds of mental impairment
+### Division 4—Referral of mentally dysfunctional or mentally ill persons to tribunal following conviction
+### Division 5—Summary proceedings against mentally dysfunctional or mentally ill persons
 ## PART 12—SENTENCES
 ### Division 1—General principles and procedures
 ### Division 2—Pre-sentence reports

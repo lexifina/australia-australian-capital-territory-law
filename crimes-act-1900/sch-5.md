@@ -1,5 +1,5 @@
 # SCHEDULE 5
-FORM 1 Section 556G
+FORM 1 (See s 556G)
 Australian Capital Territory
 Crimes Act 1900
 In the (court) at Canberra.
@@ -13,4 +13,4 @@ It is this day ordered that the defendant shall for his or her offence—
 \* And it is further ordered that the defendant be released from custody forthwith.
 \* Judge of the Supreme Court.
 \* Magistrate.
-\* Delete if inapplicable.
+\* delete if inapplicable.

@@ -1,4 +1,4 @@
-# SCHEDULE 3 Section 358
+# SCHEDULE 3 (See s 358)
 FORM 1
 Discharge of persons committed for trial
 Certificate of Attorney-General
@@ -9,7 +9,7 @@ the Supreme Court Attorney-General.
 FORM 2
 Warrant
 Supreme Court of the Australian Capital Territory
-Whereas A.B. is detained in your custody under the warrant of R.W., justice of the peace, upon a charge of [as in certificate], and it has been certified to the judges of this Court by Her Majesty’s Attorney-General that he or she declines to file any information against A.B. for the offence, you are therefore required forthwith to discharge A.B. from your custody under the warrant.
+Whereas A.B. is detained in your custody under the warrant of R.W., justice of the peace, upon a charge of [as in certificate], and it has been certified to the judges of this court by Her Majesty’s Attorney-General that he or she declines to file any information against A.B. for the offence, you are therefore required forthwith to discharge A.B. from your custody under the warrant.
 Given under my hand this day of , 18 .
 To the Sheriff and to the keeper of S. M.,
 H. M.’s Gaol at A Judge of the Supreme Court.
@@ -23,7 +23,7 @@ the Supreme Court. Attorney-General.
 FORM 4
 Warrant
 Supreme Court of the Australian Capital Territory
-Whereas A.B. is detained in your custody under the order of His or Her Honor , a Judge of the Supreme Court, upon a charge of [as in certificate], and it has been certified to the judges of this Court by Her Majesty’s Attorney-General that he or she declines to proceed further upon an indictment filed against A.B. for the offence, you are therefore required forthwith to discharge A.B. from your custody under the order.
+Whereas A.B. is detained in your custody under the order of His or Her Honor , a Judge of the Supreme Court, upon a charge of [as in certificate], and it has been certified to the judges of this court by Her Majesty’s Attorney-General that he or she declines to proceed further upon an indictment filed against A.B. for the offence, you are therefore required forthwith to discharge A.B. from your custody under the order.
 Given under my hand this day of , 18 .
 To the Sheriff and to the keeper of S. M.,
 H. M.’s Gaol at A Judge of the Supreme Court.

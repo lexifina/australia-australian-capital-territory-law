@@ -1,5 +1,5 @@
-# SCHEDULE 1 Subsection 2 (1)
-## Repeal of Acts
+# SCHEDULE 1 (See s 2 (1))
+Repeal of Acts
 Reference to Act | Subject or short title | Extent of repeal
 4 Vic. No. 22 | Administration of Justice | So much of s. 10 as relates to appointment of Crown Prosecutor at Quarter Sessions, s. 12, and so much of s. 15 as relates to criminal proceedings.
 7 Vic. No. 16 | Deeds Registration | Section 28.

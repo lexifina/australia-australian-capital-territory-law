@@ -1,4 +1,4 @@
-# 349ZZE. Magistrates Court may permit a thing to be retained
+# 349ZZE Magistrates Court may permit a thing to be retained
 (1) If a thing is seized under section 349T, and—
   (a) before the end of 60 days after the seizure; or
   (b) before the end of a period previously specified in an order of a court under this section;
