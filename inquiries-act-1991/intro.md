@@ -1,3 +1,2 @@
-Australian Capital Territory
-inquiries act 1991
+# Inquiries Act 1991
 An Act relating to inquiries
