@@ -22,7 +22,3 @@
 ### Division 9.4 Miscellaneous
 ## Part 10 Procedural and evidentiary provisions
 ## Part 11 Miscellaneous
-## Part 12 Transitional provisions
-### Division 12.1 General
-### Division 12.3 Other transitional matters
-### Division 12.4 Expiry
