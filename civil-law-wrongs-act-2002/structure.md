@@ -33,6 +33,7 @@
 ## Part 8.2 Liability for damage caused by animals
 ## Part 8.3 Liability for fires accidentally begun
 # Chapter 9 Misrepresentation
+# Chapter 10 Limitations on legal costs
 # Chapter 11 Miscellaneous
 ## Part 11.2 General reporting requirements of insurers
 ## Part 11.3 Attachment of insurance money
