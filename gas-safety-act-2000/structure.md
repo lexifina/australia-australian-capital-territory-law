@@ -13,4 +13,3 @@
 ### Division 6.2 Inspectors’ powers
 ### Division 6.3 Miscellaneous
 ## Part 7 Miscellaneous
-## Dictionary
