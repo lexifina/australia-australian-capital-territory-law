@@ -16,7 +16,7 @@ bet back, in relation to a race bookmaker or sports bookmaker (the bookmaker), m
 chief executive means the chief executive of the commission.
 code of practice means a code of practice prescribed under the regulations under the Gambling and Racing Control Act 1999.
 commission means the gambling and racing commission.
-controlling body—see the Racing Act 1999, section 3.
+controlling body—see the Racing Act 1999, dictionary.
 corporation includes an entity that is, in relation to the corporation, a related body corporate (as defined in the Corporations Act, section 9).
 corresponding law means a State law regulating bookmaking or any similar activity.
 designated sports bookmaking venue means a sports bookmaking venue designated by the commission under section 47 (Designation of sports bookmaking venues etc).
