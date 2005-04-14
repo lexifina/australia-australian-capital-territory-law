@@ -27,6 +27,7 @@
 # Chapter 8 Insurance
 # Chapter 9 Common law damages
 ## Part 9.1 Interpretation and application
+## Part 9.2 Choice of law
 ## Part 9.3 Compensation and common law damages
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
