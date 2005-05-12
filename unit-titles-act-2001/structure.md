@@ -32,7 +32,8 @@
 ### Division 10.3 Building damage schemes
 ## Part 11 Cancellation of units plans
 ### Division 11.1 Cancellation authority
-### Division 11.2 Effects of cancellation
+### Division 11.2 Cancellation orders
+### Division 11.3 Effects of cancellation
 ## Part 12 Variation of unit leases
 ## Part 13 Expiry and termination of unit leases
 ## Part 14 Administrative review

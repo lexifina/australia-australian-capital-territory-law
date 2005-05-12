@@ -1,11 +1,12 @@
-# Dictionary
+# U Dictionary
 (see s 3)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · appoint
 · contravene
 · exercise
-· function.
+· function
+· GST.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if that law so provides).
 administration order—see section 140 (Who may apply for an administration order?).
 administrative fund—see section 59 (1).
@@ -21,10 +22,12 @@ building includes—
 Examples of site improvements
 1 a paved path
 2 a paved barbecue area
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 building damage scheme—see section 152.
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 cancellation authority—see section 160.
-cancellation dissolution order—see section 165 (Dissolution of owners corporations—variation of effects by Magistrates Court order).
+cancellation dissolution order—see section 165 (Dissolution of owners corporation—Supreme Court powers).
+cancellation order—see section 161A (Cancellation orders—Supreme Court powers).
 class A unit—see section 10.
 class B unit—see section 11.
 common property—see section 13.
@@ -49,7 +52,7 @@ estate, in relation to a unit title easement right given by this Act, means the 
 Note See div 4.2 (Easements) (which defines unit title easement rights in s 34 and benefited estate and burdened estate in s 35 and s 36).
 executive committee, of an owners corporation, means the executive committee of the corporation established under section 81.
 executive member means a member of an executive committee.
-expiry dissolution order—see section 169 (Dissolution of owners corporation on lease expiry—variation of effects by Magistrates Court order).
+expiry dissolution order—see section 169 (Dissolution of owners corporation on lease expiry—Supreme Court powers).
 final building damage order—see section 157.
 financial year, for an owners corporation, means—
   (a) a period of 12 months beginning on 1 July; or
@@ -81,7 +84,7 @@ Examples of interested nonvoters
 2 For paragraph (b) (i)—A part-owner of a unit that is owned by 2 or more people, if the part-owner was not the representative for the unit when the application was authorised at a general meeting. The part-owner would not have been ‘entitled to vote’ under section 110.
 3 For paragraph (b) (i)—An owner of a unit for which a mortgagee has issued a mortgagee voting notice under section 112. The owner would not have been ‘entitled to vote’ under section 110.
 4 For paragraph (b) (ii)—The mortgagee of a unit who was not entitled to vote on the motion authorising the application because the mortgagee did not (or was not entitled to) issue a mortgagee voting notice under section 112.
-interested party, in an administration order—see section 140 (Who may apply for an administration order?).
+interested party, for an administration order—see section 140 (Who may apply for an administration order?).
 Land Act means the Land (Planning and Environment) Act 1991.
 lease means—
   (a) for a unit—the lease of the unit under section 33 (2) (Leases of units and common property) or section 171 (2) (New unit lease); or
@@ -107,7 +110,7 @@ mortgagee voting notice—see section 112 (Voting by mortgagees).
 ordinary resolution means a resolution of a general meeting passed as required by section 105.
 owner means—
   (a) for a unit—the registered proprietor of the lease of the unit; or
-  Note The term unit owner is also defined in the dictionary with the same meaning.
+Note The term unit owner is also defined in the dictionary with the same meaning.
   (b) for common property—the owners corporation.
 owners corporation means a corporation established under section 38.
 parcel—see section 5.
@@ -119,6 +122,7 @@ Examples
 2 the heir, executor or administrator of the proprietor
 3 the trustee in relation to the proprietor’s interest under the Bankruptcy Act 1966 (Cwlth)
 4 for a company that is a proprietor, the company’s liquidators
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 provisional building damage order—see section 154.
 provisions, of a lease, means the provisions, covenants and conditions subject to which the lease is held.
 reduced quorum—see section 99 (Quorum at a general meeting—owners corporations with 3 or more members).
@@ -145,7 +149,7 @@ unit owner means the registered proprietor of the lease of the unit.
 unit owners’ representative, for a unit owned by 2 or more people—see section 41 (Multiply-owned units—authorisation of representatives);
 units plan—see section 7.
 unit subsidiary—see section 12.
-unit title application—see section 17.
+unit title application—see section 6.
 unit title certificate—see section 75.
 unit title easement rights—see section 34.
 unopposed resolution means a resolution of a general meeting passed as required by section 107.
