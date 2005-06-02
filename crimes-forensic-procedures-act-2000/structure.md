@@ -8,7 +8,7 @@
 ### Division 2.5.1 General
 ### Division 2.5.2 Final orders
 ### Division 2.5.3 Interim orders
-### Division 2.5.4 Reports of proceedings under part 2.5
+### Division 2.5.4 Reports of proceedings under pt 2.5
 ## Part 2.6 Carrying out forensic procedures
 ### Division 2.6.1 General provisions
 ### Division 2.6.2 People involved in forensic procedures

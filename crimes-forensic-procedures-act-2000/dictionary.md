@@ -1,7 +1,7 @@
 # Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and provisions that are relevant to this Act.
-Note 2 The Legislation Act, dict, pt 1, defines the following terms that are particularly relevant to this Act:
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 adult
 chief police officer
 contravene
@@ -48,14 +48,14 @@ informed consent—
   (c) for a volunteer or parent or guardian of a volunteer—see section 80 (Informed consent of volunteer or parent or guardian of volunteer).
 infringement notice means—
   (a) an infringement notice under the Road Transport (General) Act 1999; or
-  (b) any other notice (however described) served on a person under a Territory law that states to the effect that, if the person pays an amount in relation to an offence, no further action will be taken in relation to the offence.
+  (b) any other notice (however described) served on a person under a territory law that states to the effect that, if the person pays an amount in relation to an offence, no further action will be taken in relation to the offence.
 interview friend—see section 16.
 intimate forensic procedure—see section 6.
 investigating police officer—see section 11.
 jurisdiction—see section 100.
 missing persons index—see section 94.
 non-intimate forensic procedure—see section 7.
-offence means an offence against a law in force in the Territory.
+offence means an offence against a law in force in the ACT.
 parent—see section 14.
 participating jurisdiction—see section 100.
 police station includes—
@@ -80,4 +80,4 @@ unknown deceased persons index—see section 94.
 volunteer—see section 10.
 volunteers (limited purposes) index—see section 94.
 volunteers (unlimited purposes) index—see section 94.
-warrant, for the apprehension of a person, includes a warrant issued under the Magistrates Court Act 1930, division 3.3.4 (Warrants of arrest) for the arrest or apprehension of the person.
+warrant, for the apprehension of a person, includes a warrant issued under the Magistrates Court Act 1930, division 3.3.4 (Warrants) for the arrest or apprehension of the person.
