@@ -1,7 +1,7 @@
 # Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · Act
 · adult
 · authorised deposit-taking institution
@@ -35,7 +35,7 @@ agents licence means—
   (c) a real estate agents licence; or
   (d) a stock and station agents licence; or
   (e) a travel agents licence.
-audit period, for a licensed agent means the period fixed under section 113 (Audit period) for the agent.
+audit period, for a licensed agent, means the period fixed under section 113 for the agent.
 beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
 benefit, for division 5.6 (Land—further provisions)—see section 80.
 business agent service—see section 10 (2).
@@ -47,13 +47,13 @@ carries on business as—
   (d) a stock and station agent—see section 9; or
   (e) a travel agent—see section 11.
 child, of a person, means the son, daughter, grandson, granddaughter, stepson or stepdaughter of the person, or someone in relation to whom the person is acting in place of a parent.
-claimant, for division 10.2 (Claims against the compensation fund)see section 147.
-compensation fund means the consumer compensation fund kept under section 144 (Consumer compensation fund).
+claimant, for division 10.2 (Claims against the compensation fund)—see section 147.
+compensation fund means the consumer compensation fund kept under section 144.
 compensation scheme, for division 5.7 (Travel agents—further provisions)—see section 90.
 compensation scheme participant, for a travel agent—see section 91 (Participation in compensation scheme).
 corresponding law—see section 174.
 daily ACT newspaper means a daily newspaper printed and published in the ACT.
-details, of a trust account, for part 7 (Trust accounts)—see section 103 (Trust account details).
+details, of a trust account, for part 7 (Trust accounts)—see section 103.
 employ includes––
   (a) engaging a person on a contract of service; and
   (b) for a corporation, having a person as director or other member of its governing body.
@@ -121,10 +121,10 @@ registered salesperson, for division 4.4––see section 64.
 registered stock and station salesperson means a person registered under section 57 as a stock and station salesperson.
 registration means registration under this Act.
 reviewable decision, for part 12 (Notification and review of decisions)––see section 166.
-rules of conduct—means rules of conduct prescribed under section 171.
+rules of conduct means rules of conduct prescribed under section 171.
 rural land means land used mainly for––
   (a) agricultural or pastoral purposes; or
-  (b) a purpose prescribed by the regulations.
+  (b) a purpose prescribed by regulation.
 salesperson means a person who, as an employee, provides—
   (a) a business agent service; or
   (b) a real estate agent service; or
