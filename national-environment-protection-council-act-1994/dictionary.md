@@ -1,13 +1,13 @@
 # Dictionary
 (see s 5)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · appoint
 · asset
 · Australia
 · Commonwealth
 · exercise
-· external Territory
+· external territory
 · function
 · Jervis Bay Territory
 · land

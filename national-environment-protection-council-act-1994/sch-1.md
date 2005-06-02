@@ -14,11 +14,11 @@ THE NORTHERN TERRITORY OF AUSTRALIA of the ninth part,
 THE AUSTRALIAN LOCAL GOVERNMENT ASSOCIATION of the tenth part.
 WHEREAS
 On 31 October 1990, Heads of Government of the Commonwealth, States and Territories of Australia, and representatives of Local Government in Australia, meeting at a Special Premiers’ Conference held in Brisbane, agreed to develop and conclude an Intergovernmental Agreement on the Environment to provide a mechanism by which to facilitate:
-D a cooperative national approach to the environment;
-D a better definition of the roles of the respective governments;
-D a reduction in the number of disputes between the Commonwealth and the States and Territories on environment issues;
-D greater certainty of Government and business decision making; and
-D better environment protection;
+\* a cooperative national approach to the environment;
+\* a better definition of the roles of the respective governments;
+\* a reduction in the number of disputes between the Commonwealth and the States and Territories on environment issues;
+\* greater certainty of Government and business decision making; and
+\* better environment protection;
 AND WHEREAS the Parties to this Agreement
 ACKNOWLEDGE the important role of the Commonwealth and the States in relation to the environment and the contribution the States can make in the development of national and international policies for which the Commonwealth has responsibilities;
 RECOGNISE that environmental concerns and impacts respect neither physical nor political boundaries and are increasingly taking on interjurisdictional, international and global significance in a way that was not contemplated by those who framed the Australian Constitution;
@@ -121,10 +121,10 @@ the present generation should ensure that the health, diversity and productivity
 3.5.3 conservation of biological diversity and ecological integrity-
 conservation of biological diversity and ecological integrity should be a fundamental consideration.
 3.5.4 improved valuation, pricing and incentive mechanisms-
-D environmental factors should be included in the valuation of assets and services
-D polluter pays i.e. those who generate pollution and waste should bear the cost of containment, avoidance, or abatement
-D the users of goods and services should pay prices based on the full life cycle costs of providing goods and services, including the use of natural resources and assets and the ultimate disposal of any wastes
-D environment goals, having been established, should be pursued in the most cost effective way, by establishing incentive structures, including market mechanisms, which enable those best placed to maximise benefits and/or minimise costs to develop their own solutions and responses to environmental problems.
+\* environmental factors should be included in the valuation of assets and services
+\* polluter pays i.e. those who generate pollution and waste should bear the cost of containment, avoidance, or abatement
+\* the users of goods and services should pay prices based on the full life cycle costs of providing goods and services, including the use of natural resources and assets and the ultimate disposal of any wastes
+\* environment goals, having been established, should be pursued in the most cost effective way, by establishing incentive structures, including market mechanisms, which enable those best placed to maximise benefits and/or minimise costs to develop their own solutions and responses to environmental problems.
 SECTION 4 — IMPLEMENTATION AND APPLICATION OF PRINCIPLES
 4.1 The Schedules to this Agreement deal with specific areas of environmental policy and management and form part of this Agreement. The schedules have been prepared and are to be interpreted in accordance with Sections 1, 2 and 3 of this Agreement.
 4.2 Nothing in this Agreement will affect any existing intergovernmental agreement between the Commonwealth and a State or States, or between the States, unless alterations or amendments to those agreements are proposed in accordance with any existing review process and/or any review process arising as a result of this Agreement.
@@ -249,10 +249,10 @@ Schedule 5 Climate change
 1 The parties acknowledge the potentially significant impact of greenhouse enhanced climate change on Australia’s natural, social and working environment, as well as on the global community and global environments. The parties accept and support the need for Australia to participate in the development of an effective international response to meet the challenge of greenhouse enhanced climate change and note Australia’s participation in the development of an international convention on climate change.
 2 The parties note their endorsement of the decision to adopt an interim planning target to stabilise greenhouse gas emissions (not controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer) based on 1988 levels, by the year 2000 and reducing these emissions by 20% by the year 2005. The parties reiterate their support, as agreed in October 1990, for the interim planning target to form the basis of development of the National Greenhouse Response Strategy, subject to Australia not implementing response measures that would have net adverse economic impacts nationally or on Australia’s trade competitiveness, in the absence of similar action by major greenhouse gas producing countries. The parties agree that assessment of the implementation of the National Greenhouse Response Strategy against this agreed objective will be reviewed at Special Premiers’ Conferences.
 3 The parties reiterate that a National Greenhouse Response Strategy based on the interim planning target must include positive measures for:
-D limiting emissions of all greenhouse gases, not controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer; and
-D conducting further research; and
-D adapting to the impacts of climate change; and
-D ensuring that the community understands the need for early action on measures to reduce greenhouse gas emissions.
+\* limiting emissions of all greenhouse gases, not controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer; and
+\* conducting further research; and
+\* adapting to the impacts of climate change; and
+\* ensuring that the community understands the need for early action on measures to reduce greenhouse gas emissions.
 The parties also agree that such a strategy should include measures for auditing and reporting on national greenhouse gas emissions.
 4 Taking into account regional differences, the parties recognise that development and implementation of the National Greenhouse Response Strategy will require coordinated and effective action by all levels of government and the community to achieve equitable and ecologically sustainable solutions.
 5 The parties agree that First Ministers have ultimate responsibility for intergovernmental considerations of and final decisions on the National Greenhouse Response Strategy.
