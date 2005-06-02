@@ -73,7 +73,7 @@ unimproved value—see section 6.
 unit means a unit under the Unit Titles Act, section 9.
 unit entitlement—see the Unit Titles Act, section 8.
 unit owner—see the Unit Titles Act, dictionary.
-units plan means a units plan under the Unit Titles Act, section 7.
+units plan means a units plan under the Unit Titles Act 2001, section 7.
 unit subdivision means a parcel of land subdivided by registration of a units plan.
 Unit Titles Act means the Unit Titles Act 2001.
 variation, of a lease—for division 5.2 (Certain proposed unit subdivisions) see section 30.
