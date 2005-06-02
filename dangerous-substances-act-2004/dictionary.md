@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -50,9 +50,7 @@ corresponding law means—
   (b) a law of the Commonwealth, a State, another Territory or New Zealand that is declared by regulation to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act; or
   (c) the Dangerous Goods Act 1975.
 dangerous occurrence—see section 38.
-dangerous substance—
-  (a) for part 6.4 (Prohibition notices)—see section 108; and
-  (b) for the Act—see section 10.
+dangerous substance—see section 10.
 data, for chapter 7 (Enforcement powers)—see section 141.
 data storage device, for chapter 7 (Enforcement powers)—see section 141.
 decision-maker, for chapter 9 (Administrative review of decisions)—see section 187.
@@ -110,9 +108,7 @@ plant includes—
   (c) a vehicle used for handling a dangerous substance; and
   (d) a component, fitting or accessory for the plant; and
   (e) a building or other structure.
-premises—
-  (a) includes land or a structure or vehicle and any part of an area of land or a structure or vehicle; and
-  (b) to which a prohibition notice relates—see section 108.
+premises includes land or a structure or vehicle and any part of an area of land or a structure or vehicle.
 prohibited dangerous substance—see section 73.
 prohibition notice—see section 109.
 reasonable steps, in relation to a risk—see section 16.
