@@ -8,7 +8,7 @@
 ## Part 4 Change of sex
 ## Part 5 Registration of marriages
 ## Part 6 Registration of deaths
-### Division 6.1 Cases where registration of deaths is required or authorised
+### Division 6.1 When registration of deaths is required or authorised
 ### Division 6.2 Notification and registration of deaths
 ## Part 7 The register and other records
 ### Division 7.1 Keeping the register
@@ -23,4 +23,5 @@
 ### Division 9.3 Changes of name
 ### Division 9.4 Deaths
 ### Division 9.5 Offences
+### Division 9.6 Expiry of part
 ## Part 10 Miscellaneous
