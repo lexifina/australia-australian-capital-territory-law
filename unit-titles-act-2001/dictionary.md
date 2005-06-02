@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -11,8 +11,8 @@ address for correspondence, of a company, means the address of the company’s o
 administration order—see section 140 (Who may apply for an administration order?).
 administrative fund—see section 59 (1).
 administrator, of an owners corporation, means a person who is appointed as the administrator of the corporation under part 9 (Administrators).
-annexed—a unit subsidiary or an easement that is stated under this Act to be annexed to a unit, common property or an estate in leasehold is taken to be appurtenant to the unit, common property or estate.
-Note Property in a unit subsidiary or easement that is, at law, ‘appurtenant’ to a unit, common property or a leasehold estate is transferred with that estate when the unit, common property or lease is transferred.
+annexed—see section 12A.
+article, for an owner corporation, means an article of the corporation under section 126.
 benefited estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 boundary authority—see section 149.
 building includes—
@@ -32,7 +32,6 @@ class A unit—see section 10.
 class B unit—see section 11.
 common property—see section 13.
 company includes any body corporate.
-company representative, for a company that is the owner or a part-owner of a unit—see section 43 (Company-owned units—authorisation of representatives).
 contribution means a contribution to a general fund or the sinking fund of an owners corporation.
 corporate register—see section 70.
 deadlock order—see section 123.
@@ -47,7 +46,7 @@ eligible person, for a unit or common property in relation to which access to in
   (b) for a unit that is owned, or part-owned, by a company—the representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
   (d) if access to the information is necessary or desirable for the administration of this Act—the planning and land authority.
-entitled to vote—see section 110.
+entitled to vote, in relation to a motion at a general meeting of an owners corporation, means a person who is entitled to vote on the motion under section 110.
 estate, in relation to a unit title easement right given by this Act, means the unit or common property benefited or burdened by the right.
 Note See div 4.2 (Easements) (which defines unit title easement rights in s 34 and benefited estate and burdened estate in s 35 and s 36).
 executive committee, of an owners corporation, means the executive committee of the corporation established under section 81.
@@ -63,7 +62,6 @@ general fund, of an owners corporation, means—
   (a) the administrative fund of the corporation (see section 59 (1)); or
   (b) a special purpose fund of the corporation (see section 59 (2)).
 general funds budget—see section 59 (5).
-GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 improved value, for calculating the unit entitlement of a unit (whether before or after the registration of the units plan) means—
   (a) for a class A unit—the total of the following values:
     (i) the value of the unit itself;
@@ -104,7 +102,6 @@ mortgage means a registered mortgage, or a registered encumbrance, within the me
 mortgagee means—
   (a) for a unit—the registered proprietor of a mortgage of the lease of the unit; or
   (b) in any other case—the registered proprietor of a mortgage.
-mortgagee’s representative, for a mortgagee that has issued a mortgagee voting notice—see section 112 (Voting by mortgagees).
 mortgage insurance policy—see section 134 (Mortgage insurance of unit).
 mortgagee voting notice—see section 112 (Voting by mortgagees).
 ordinary resolution means a resolution of a general meeting passed as required by section 105.
@@ -133,7 +130,7 @@ representative—
   (b) for a company that is the owner or a part-owner of a unit—see section 43 (Company-owned units—authorisation of representatives); or
   (c) for a mortgagee that has given a mortgagee voting notice to an owners corporation—see section 112 (Voting by mortgagees).
 reviewable decision—see section 173 (Decisions subject to review).
-schedule of unit entitlement—see section 8 (Unit entitlement).
+schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
 sinking fund—see section 61.
 special purpose fund—see section 59 (2).
 special resolution means a resolution of a general meeting passed as required by section 106.
@@ -146,8 +143,7 @@ unit—see section 9.
 unit entitlement—see section 8.
 unit entitlement authority—see section 146.
 unit owner means the registered proprietor of the lease of the unit.
-unit owners’ representative, for a unit owned by 2 or more people—see section 41 (Multiply-owned units—authorisation of representatives);
-units plan—see section 7.
+units plan means the units plan under section 7.
 unit subsidiary—see section 12.
 unit title application—see section 6.
 unit title certificate—see section 75.
