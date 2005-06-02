@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · chief executive (see s 163)
 · consumer and trader tribunal
 · credit tribunal
-· custodial escort
 · discrimination tribunal
 · government solicitor
 · Magistrates Court
