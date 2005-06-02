@@ -1,50 +1,61 @@
 # Dictionary
 (see s 2A)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACT
+· Australia
+· commissioner for revenue
+· doctor
+· domestic relationship (see s 169 (2))
+· external territory
+· GST
+· in relation to
+· land.
 Act imposing duty means—
   (a) a corresponding Act; or
   (b) an Act to which the Taxation Administration Act applies.
-ADR means a negotiable certificated receipt issued by a depositary resident outside Australia acknowledging the interest of the registered holder of the receipt in shares in a Territory company held by the depositary, or deposited with a depositary to hold, as trustee for the holder.
+ADR means a negotiable certificated receipt issued by a depositary resident outside Australia acknowledging the interest of the registered holder of the receipt in shares in a territory company held by the depositary, or deposited with a depositary to hold, as trustee for the holder.
 application to register a motor vehicle means—
   (a) an application under the Vehicle Registration Act to register a motor vehicle; or
   (b) an application under the Vehicle Registration Act to transfer the registration of a motor vehicle.
 approved means approved by the commissioner.
 associated person means a person who is associated with another person in accordance with any of the following provisions:
-  (a) persons are associated persons if they are related persons;
-  (b) individuals are associated persons if they are partners in a partnership to which the Partnership Act 1963 applies;
-  (c) private companies are associated persons if common shareholders have a majority interest in each private company;
-  (d) trustees are associated persons if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
-  (e) a private company and a trustee are associated persons if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee;
-and, for part 3.2, a public company and a subsidiary of a public company are taken to be associated persons.
+  (a) people are associated people if they are related people;
+  (b) individuals are associated people if they are partners in a partnership to which the Partnership Act 1963 applies;
+  (c) private companies are associated people if common shareholders have a majority interest in each private company;
+  (d) trustees are associated people if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
+  (e) a private company and a trustee are associated people if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee;
+and, for part 3.2, a public company and a subsidiary of a public company are taken to be associated people.
 Australian register—see the Corporations Act, section 9.
 bankrupt includes applying to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounding with creditors or making an assignment of remuneration for their benefit.
 charge includes impose.
 charitable organisation means an association, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for the purpose of securing pecuniary benefits to its members.
 commercial hire business—section 163.
 commissioner means the commissioner for revenue.
-company title dwelling means a separate dwelling in a building containing more than 1 separate dwelling situated on land in the ACT owned or leased by a company in which shares issued by the company are owned by persons who, because of the ownership of their shares, have an exclusive right to occupy a part of the building.
+company title dwelling means a separate dwelling in a building containing more than 1 separate dwelling situated on land in the ACT owned or leased by a company in which shares issued by the company are owned by people who, because of the ownership of their shares, have an exclusive right to occupy a part of the building.
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
 complying superannuation fund means an entity that is—
   (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or 42A; or
   (b) an exempt public sector superannuation scheme within the meaning of that Act.
 corporation means a body corporate, whether incorporated in this jurisdiction or elsewhere.
 Corporations Act means the Corporations Act 2001 (Cwlth).
-Note A reference to a Cwlth Act includes a reference to the Act as originally made and as amended (see Legislation Act 2001, s 102).
+Note A reference to a Cwlth Act includes a reference to the Act as originally made and as amended (see Legislation Act, s 102).
 corresponding Act means an Act of another Australian jurisdiction that corresponds to this Act.
-corresponding law, in relation to a Territory law, means a law of a State or another Territory that is similar, or has a similar effect, to that Territory law.
+corresponding law, in relation to a territory law, means a law of a State or another Territory that is similar, or has a similar effect, to that territory law.
 cost, in relation to a lease—see section 136.
 Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission appointed under the Seat of Government (Administration) Act 1924 (Cwlth).
 determined amount, in relation to duty, means an amount—
   (a) determined by the Minister; or
-  (b) calculated in a manner determined by the Minister;
+  (b) calculated in a way determined by the Minister;
 under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 disabled person means a person who is 16 years of age or older and who is—
   (a) permanently blind; or
   (b) permanently incapacitated for work.
 discretionary trust means a trust under which the vesting of the whole or any part of the capital of the trust estate, or the whole or any part of the income from that capital, or both—
-  (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest to be taken, or both; or
+  (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
-  (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or persons in whom it is vested if a discretion conferred under the trust is exercised.
+  (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or people in whom it is vested if a discretion conferred under the trust is exercised.
 domestic relationship—see the Domestic Relationships Act 1994.
 duly stamped, in relation to an instrument, means duly stamped as mentioned in section 235.
 dutiable property—see section 10.
@@ -55,16 +66,16 @@ eligible rollover fund means an entity that is an eligible rollover fund in acco
 error transaction means a sale or purchase of shares made to reverse a sale or purchase of shares made mistakenly not more than 7 days earlier, and the sale or purchase so reversed.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
 foreign resident means a person who at the relevant time—
-  (a) for a person, other than a person referred to in paragraph (b) or (c)—is not resident or domiciled in Australia; or
+  (a) for a person, other than a person mentioned in paragraph (b) or (c)—is not resident or domiciled in Australia; or
   (b) for a body corporate—is not incorporated under a law of an Australian jurisdiction and—
     (i) does not have its central management and control in Australia; and
     (ii) does not have its voting power controlled by shareholders who are residents of Australia; or
-  (c) for a partnership or other unincorporated association or body of persons—does not have a member who is resident in Australia; or
+  (c) for a partnership or other unincorporated association or body of people—does not have a member who is resident in Australia; or
   (d) for a trust estate—
     (i) does not have a trustee who is resident in Australia; and
     (ii) does not have its central management and control in Australia.
 franchise means the package of rights held by a franchisee under a franchise arrangement.
-franchise arrangement means an agreement or other arrangement between 2 or more persons by which 1 of them (the franchisor) authorises or permits another (the franchisee)—
+franchise arrangement means an agreement or other arrangement between 2 or more people by which 1 of them (the franchisor) authorises or permits another (the franchisee)—
   (a) to engage in the business of offering, selling or distributing goods and services within or partly within the ACT, and the franchisee is required to do so—
     (i) in accordance with a specified marketing, business or technical plan or system; and
     (ii) under a common format or procedure (or format and procedure); and
@@ -91,7 +102,7 @@ intellectual property means—
     (i) a business name, trading name, trade mark or industrial design; or
     (ii) a thing, system or process that is the subject of a patent, registered design or copyright (or an adaptation or modification of such a thing, system or process).
 interest includes an estate, an interest under a lease or a sublease, a proprietary right and a beneficial interest.
-interest, in relati6on to a land-rich corporation—see section 83 (1).
+interest, in relation to a land-rich corporation—see section 83 (1).
 international trade insurance means—
   (a) insurance of freight against loss or damage in the course of, or incidental to, international transport of the freight; or
   (b) insurance of an aircraft or ship against loss or damage during a particular period when the aircraft or ship is under construction or undergoing refitting, maintenance or repairs if, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used wholly or principally for the international transport of freight for an indefinitely continuing period commencing immediately after the completion of the construction, refitting, maintenance or repairs, as the case may be; or
@@ -131,9 +142,9 @@ motor vehicle means—
   (a) a motor vehicle or trailer within the meaning of the Vehicle Registration Act; or
   (b) a caravan.
 new motor vehicle means a motor vehicle that has not previously been registered under—
-  (a) the Vehicle Registration Act or another Territory law; or
+  (a) the Vehicle Registration Act or another territory law; or
   (b) a law of the Commonwealth, a State or another Territory.
-non-commercial Commonwealth authority means a body corporate (not being an incorporated company, society or association) that—
+non-commercial Commonwealth authority means a body corporate (other than an incorporated company, society or association) that—
   (a) is incorporated for a public purpose by or under a law of the Territory or the Commonwealth; and
   (b) does not have as its sole or principal function the carrying on of an activity in the nature of a business, whether or not for profit.
 partner—a person’s partner is either of the following:
@@ -152,7 +163,7 @@ public unit trust scheme means a unit trust scheme—
     (ii) no fewer than 50 people hold units in it; or
   (c) that is a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C and in respect of which—
     (i) some or all of the units have been offered to the public; and
-    (ii) not less than 50 persons hold units in it; or
+    (ii) not less than 50 people hold units in it; or
   (d) that was, immediately before 13 March 2000, exempted from the requirements of the Corporations Law, part 7.12, but only if—
     (i) some or all of its units have been offered to the public; and
     (ii) no fewer than 50 people hold units in it; or
@@ -162,13 +173,13 @@ registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
 related body corporate—see the Corporations Act, section 9.
 related person means a person who is related to another person in accordance with any of the following provisions:
-  (a) individuals are related persons if—
+  (a) individuals are related people if—
     (i) they are partners, or they have been partners and the partnership has ended (whether the partnership ended in Australia or elsewhere); or
     (ii) the relationship between them is that of parent and child, brothers, sisters, or brother and sister;
-  (b) private companies are related persons if they are related bodies corporate;
-  (c) an individual and a private company are related persons if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
-  (d) an individual and a trustee are related persons if the individual is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee;
-  (e) a private company and a trustee are related persons if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee.
+  (b) private companies are related people if they are related bodies corporate;
+  (c) an individual and a private company are related people if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
+  (d) an individual and a trustee are related people if the individual is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee;
+  (e) a private company and a trustee are related people if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee.
 relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
 replica—see section 228.
 responsible entity—see the Corporations Act, section 9.
@@ -192,15 +203,15 @@ stock exchange means—
   (c) a stock exchange declared under section 252A (Declaration of recognised stock exchange) to be a recognised stock exchange for this Act.
 subsidiary, of a private corporation—see section 81 (3) and (4).
 Taxation Administration Act means the Taxation Administration Act 1999.
-tax avoidance scheme means a scheme if the person who has, or 1 or more of the persons who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
+tax avoidance scheme means a scheme if the person who has, or 1 or more of the people who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
   (a) that an amount of duty would not be payable by a person, being an amount that would have been, or might reasonably be expected to have been, payable by the person; or
   (b) that an amount of duty payable by a person would be less than the amount that would have been, or might reasonably be expected to have been, payable by the person; or
   (c) that a refund of duty would be payable to a person, being a refund that would not have been or might reasonably be expected not to have been, payable to the person;
 if the scheme had not been entered into or carried out, or for purposes of which that purpose was the dominant purpose.
 tenement includes an office, room or apartment in a tenement.
-Territory company means—
+territory company means—
   (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the ACT; or
-  (b) a corporation that is incorporated under a Territory Act.
+  (b) a corporation that is incorporated under a territory Act.
 trading stock, in relation to a vehicle dealer licensed under the Sale of Motor Vehicles Act 1977 or a corresponding law, means a vehicle offered or exposed for sale by the dealer in the course of the dealer’s business, except a vehicle used—
   (a) personally by the dealer or a member of the dealer’s staff; or
   (b) for the general purposes of the dealer’s business.
@@ -220,8 +231,8 @@ unencumbered value—see section 22.
 unit, in relation to a unit trust scheme, means—
   (a) a right or interest (whether described as a unit or a sub-unit or otherwise) of a beneficiary under the scheme; or
   (b) a right to any such right or interest.
-unit trust scheme means any arrangements made for the purpose, or having the effect, of providing, for persons having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in any profits, income or distribution of assets arising from the acquisition, holding, management or disposal of any property whatever under the trust.
+unit trust scheme means any arrangements made for the purpose, or having the effect, of providing, for people having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in any profits, income or distribution of assets arising from the acquisition, holding, management or disposal of any property whatever under the trust.
 value of the lease—see section 140 (1) (b) (General rate—short-term leases).
 variation, in relation to a lease, means a variation made for any reason or on any basis and includes a further variation.
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act 2001, s 104).
+Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).

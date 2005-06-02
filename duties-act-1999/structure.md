@@ -19,8 +19,8 @@
 ## Part 3.3 Entitlements arising from capital reductions or alterations of rights
 ## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
 ## Part 3.5 Allotment of shares by direction
-## Part 3.6 Voluntary transfers under the Financial Sector (Transfers of Business) Act 1999 (Cwlth)
-## Part 3.7 Exemptions—chapter 3 transactions
+## Part 3.6 Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth)
+## Part 3.7 Exemptions—ch 3 transactions
 # Chapter 5 Lease instruments
 ## Part 5.1 Preliminary
 ## Part 5.2 Liability for duty
@@ -30,8 +30,8 @@
 # Chapter 6 Hire of goods
 ## Part 6.1 Preliminary
 ## Part 6.2 Imposition and rates of duty
-## Part 6.3 Arrangements applicable to persons engaged in the business of hiring out goods
-## Part 6.4 Arrangements applicable to persons other than those engaged in the business of hiring out goods
+## Part 6.3 Arrangements applying to people engaged in business of hiring out goods
+## Part 6.4 Arrangements applying to people other than those engaged in business of hiring out goods
 # Chapter 7 Mortgages
 # Chapter 8 Insurance
 ## Part 8.1 Preliminary
@@ -40,7 +40,7 @@
 ## Part 8.4 Payment of duty by insurers
 ## Part 8.5 Apportionment
 ### Division 8.5.1 Apportionment of premiums and other amounts between Australian jurisdictions
-### Division 8.5.2 Apportionment of premiums and other amounts as between different types of insurance
+### Division 8.5.2 Apportionment of premiums and other amounts between different types of insurance
 ## Part 8.6 Exempt insurance
 ## Part 8.7 Miscellaneous
 # Chapter 9 Motor vehicle registration
