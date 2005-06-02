@@ -13,17 +13,16 @@ accredited taxi service operator means accredited under the regulations to opera
 affiliated, in relation to an accredited taxi service operator, means affiliated with an accredited taxi network provider.
 another jurisdiction means a jurisdiction other than the ACT.
 authority—see road transport authority.
-bus means a motor vehicle built mainly to carry people that seats over 9 adults (including the driver).
+bus—see section 10A.
 bus service—see section 11 (Meaning of bus service).
 fare means the amount payable by passengers for transport, or for the transport of passengers’ luggage or other goods, on public passenger vehicles.
 hire car—see section 67.
 hire car licence—see section 61.
 hire car service—see section 69.
-holder, of a service contract, for part 2 (Bus services), means the person who (apart from the road transport authority) is a party to the contract.
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
 long-distance service—see section 14 (What is a long-distance service?).
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
-public bus means a bus used to provide a bus service.
+public bus—see section 10A.
 public passenger service—see section 10 (What is a public passenger service?).
 public passenger vehicle means a public bus, taxi or hire car.
 public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
