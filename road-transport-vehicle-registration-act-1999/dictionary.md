@@ -7,7 +7,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · function
 · instrument.
 another jurisdiction means a jurisdiction other than the ACT.
-Australian Transport Council means the Australian Transport Council mentioned in the National Road Transport Commission Act 1991 (Cwlth), section 3 or its successor.
+Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
 authorised person, for a provision of this Act, means—
   (a) a person who is appointed as an authorised person under the Road Transport (General) Act 1999, section 19 for the provision; or
   (b) a person who is, under the regulations made under this Act or the Road Transport (General) Act 1999, an authorised person for the provision.
@@ -23,10 +23,10 @@ driver, of a vehicle, means the person who is driving the vehicle.
 garage address, of a vehicle, means—
   (a) if the vehicle is normally kept at a depot or base of operations when not in use—the main depot or base of operations of the vehicle; or
   (b) if the vehicle is normally kept on a road or road related area when not in use and—
-    (i) the vehicle has only 1 operator—the home address of the registered operator; or
+    (i) the vehicle has only 1 registered operator—the home address of the registered operator; or
     (ii) the vehicle has more than 1 registered operator and 1 or more of the operators lives in the ACT—the home address of the registered operator living in the ACT whose home address is nearest the road or road related area; or
     (iii) the vehicle has more than 1 registered operator and none of the registered operators live in the ACT—the suburb and road or road related area in the ACT where the vehicle is normally kept; or
-    (c) if the vehicle is normally kept at a place (other than a depot, base of operations or road or road related area) when not in use—the place where the vehicle is normally kept.
+  (c) if the vehicle is normally kept at a place (other than a depot, base of operations or road or road related area) when not in use—the place where the vehicle is normally kept.
 GCM (or gross combination mass), of a motor vehicle, means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at the same time—
   (a) specified by the manufacturer on an identification plate on the motor vehicle; or
   (b) if there is no specification by the manufacturer on an identification plate on the motor vehicle or if the specification is not appropriate because the motor vehicle has been modified—certified by the road transport authority.
@@ -40,13 +40,14 @@ home address means—
 inspect, in relation to a registrable vehicle, includes observe the vehicle’s performance, with or without the use of instrumentation.
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
-National Road Transport Commission means the National Road Transport Commission established by the National Road Transport Commission Act 1991 (Cwlth) or its successor.
+National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 (Cwlth) or its successor.
 premises means any place.
 register—see registrable vehicles register.
 registered, for a vehicle, means registered under this Act.
 registered operator means—
   (a) for a vehicle registered under this Act—a person recorded in the registrable vehicles register as a registered operator of the vehicle; or
   (b) for a vehicle registered under the law of another jurisdiction—a person recorded in the register of the other jurisdiction corresponding to the registrable vehicles register as a registered operator of the vehicle.
+Note A reference to the registered operator includes each registered operator (see s 29).
 registrable vehicle means—
   (a) any motor vehicle; or
   (b) any trailer; or
