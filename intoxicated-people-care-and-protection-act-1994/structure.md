@@ -1,5 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 Intoxicated persons
+## Part 2 Intoxicated people
 ## Part 3 Licences
 ### Division 3.1 Approval
 ### Division 3.2 Conditions
