@@ -8,12 +8,7 @@
 ### Division 2.6 Attacking or harassing dogs
 ### Division 2.7 Seizing dogs and dealing with them
 ### Division 2.8 Miscellaneous
-## Part 3 Dogs and Cats
-## Part 4 Infringement notices for certain offences
-### Division 4.1 Interpretation
-### Division 4.3 Infringement and reminder notices
-### Division 4.4 Disputing liability
-### Division 4.5 Miscellaneous
+## Part 3 Dogs and cats
 ## Part 5 Assistance animals
 ## Part 6 Animal nuisance
 ## Part 7 Destruction of animals
