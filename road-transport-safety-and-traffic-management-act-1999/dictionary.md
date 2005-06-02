@@ -10,7 +10,7 @@ another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device means a camera detection device approved under the regulations.
 approved speed measuring device means a speed measuring device approved under the regulations.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-Australian Transport Council means the Australian Transport Council mentioned in the National Road Transport Commission Act 1991 (Cwlth), section 3 or its successor.
+Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
 authorised person, for a provision of this Act, means—
   (a) a person who is appointed as an authorised person under the Road Transport (General) Act 1999, section 19 for the provision; or
   (b) a person who is, under the regulations made under this Act or the Road Transport (General) Act 1999, an authorised person for the provision.
@@ -30,7 +30,7 @@ installation, of a prescribed traffic control device, includes the painting or f
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
 loaded unsafely, in part 3 (Unsafe loads)—see section 11.
 motor vehicle means a vehicle that is built to be propelled by a motor that forms part of the vehicle.
-National Road Transport Commission means the National Road Transport Commission established by the National Road Transport Commission Act 1991 (Cwlth) or its successor.
+National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 (Cwlth) or its successor.
 prescribed traffic control device means a device, line, marking, sign, signal or anything else that is prescribed under the regulations for this definition, and includes any board, device, plate, screen, word, and anything else, with a prescribed traffic control device that provides information about the application of the device.
 red traffic arrow includes a flashing red traffic arrow.
 red traffic light includes a flashing red traffic light.
