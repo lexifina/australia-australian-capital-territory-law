@@ -9,5 +9,5 @@
 ## Part 5 Banking and investment
 ## Part 6 Borrowing and guarantees
 ## Part 7 Trust money
-## Part 8 Financial provisions relating to Territory authorities
+## Part 8 Financial provisions relating to territory authorities
 ## Part 9 Miscellaneous
