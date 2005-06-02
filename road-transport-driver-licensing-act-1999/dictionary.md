@@ -12,7 +12,7 @@ another jurisdiction means a jurisdiction other than the ACT.
 Australian driver licence means—
   (a) a driver licence; or
   (b) a licence (including a conditional licence, learner licence, probationary licence, provisional licence or restricted licence or a driver licence receipt) issued under the law of another jurisdiction authorising the holder to drive a motor vehicle on a road or road related area.
-Australian Transport Council means the Australian Transport Council mentioned in the National Road Transport Commission Act 1991 (Cwlth), section 3 or its successor.
+Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
 authority—see road transport authority.
 class, of a driver licence, means a class of driver licence prescribed by regulation.
 conditional licence means an Australian driver licence that is subject to a condition imposed by the road transport authority or the licensing authority of another jurisdiction.
@@ -46,8 +46,8 @@ jurisdiction means a State, the Commonwealth or an internal territory, including
 learner licence means an Australian driver licence issued to a person under the law of any jurisdiction that authorises the person to drive a motor vehicle on a road or road related area for the purpose of learning to drive.
 licensing authority, for another jurisdiction, means the entity that has functions under the law of the other jurisdiction corresponding to the functions of the road transport authority under this Act.
 motor vehicle means a vehicle that is built to be propelled by a motor that forms part of the vehicle.
-National Road Transport Commission means the National Road Transport Commission established by the National Road Transport Commission Act 1991 (Cwlth) or its successor.
 national schedule of demerit points means the offences, and the number of demerit points incurred for each offence, prescribed by regulation under the Road Transport (General) Act 1999 as the national schedule of demerit points.
+National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 (Cwlth) or its successor.
 photograph—
   (a) includes a digitised, electronic or computer generated image in a form approved by the road transport authority; and
   (b) for part 4 (Protection of photographs and signatures)—see section 35.
