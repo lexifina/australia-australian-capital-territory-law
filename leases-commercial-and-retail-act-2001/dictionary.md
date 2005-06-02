@@ -18,6 +18,7 @@ Examples of acts and omissions in relation to leases or negotiations
 2 taking action to enforce the terms of the lease
 3 an action or omission that causes a breach of the lease
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+continuous occupation lease—see section 10.
 core trading hours, for a shopping centre, means the hours when retail premises in the shopping centre are generally required to be open for business, whether the requirement is imposed by or under the lease or by or under another agreement or arrangement between the lessor and tenant or is imposed in another way.
 demolition, in relation to premises, includes any repair, renovation or reconstruction of a building containing the premises that cannot be carried out practicably without vacant possession of the premises.
 disclosure statement means a disclosure statement under section 30.
@@ -27,7 +28,7 @@ discretionary rent review clause means a provision in a lease that—
   (c) has the effect of reserving to a party to the lease complete discretion as to the rate of rent to apply; or
   (d) has the effect of preventing, or giving a person the power to prevent, a decrease if the provision for determining initial rent or rent variations otherwise operates in a way that rent might decrease.
 dispute means a dispute to which this Act applies under section 17.
-enter into, a lease—see section 5 (When is a lease entered into to work out timing for obligations under this Act?).
+entered into, for a lease—see section 5.
 excluded area—see section 11 (What is an excluded area?).
 extend, under an option, includes renew under the option.
 initial rent means the rent set at the beginning of a lease or renewal of a lease.
@@ -58,6 +59,7 @@ renewal, of a lease—see section 6 (When is a lease taken to be renewed for thi
 rent includes a component of rent.
 rent review includes a change to rent payable on the exercise of an option under a lease, but does not include a predetermined rent change.
 retail area means the area of a shopping centre other than an excluded area.
+retail premises—see section 7 (2).
 shopping centre—see section 8.
 small commercial premises means commercial premises with a lettable area of no more than 300m2.
 taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
@@ -65,7 +67,7 @@ tenant, of premises, means a person who has the right to occupy the premises und
   (a) a subtenant; and
   (b) a person who receives the right to occupy the premises by assignment from the tenant or by operation of law; and
   (c) in relation to negotiations for a lease—a prospective tenant.
-termination notice means a notice under section 117 (Right to terminate—no disclosure statement etc) or 118 (Failure to notify material change in disclosure statement).
+termination notice means a notice under section 117 (Right to terminate—no disclosure statement etc) or section 118 (Failure to notify material change in disclosure statement).
 territory lease means—
   (a) a lease granted under the Land (Planning and Environment) Act 1991; or
   (b) a lease under the Unit Titles Act 2001;
