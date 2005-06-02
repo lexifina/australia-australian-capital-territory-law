@@ -1,6 +1,6 @@
 ## Part 1 Preliminary
-## Part 2 Corporate status
-### Division 2.1 Establishment, functions and powers
+## Part 2 Cultural Facilities Corporation
+### Division 2.1 Establishment and functions of corporation
 ### Division 2.2 Membership
 ### Division 2.3 Meetings
 ## Part 3 Chief executive officer, staff and consultants
