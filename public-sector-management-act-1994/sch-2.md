@@ -27,24 +27,24 @@ Legislative Assembly means the Legislative Assembly for the Australian Capital T
 management standards means management standards made under the Public Sector Management Act, section 251.
 principal relevant staff organisation, in relation to the promotion of an officer to a position, means—
   (a) if there is only 1 relevant staff organisation in relation to that position—that organisation; or
-  (b) in any other case—the relevant staff organisation the membership of which includes the largest number of persons occupying positions similar to the firstmentioned position.
+  (b) in any other case—the relevant staff organisation the membership of which includes the largest number of people occupying positions similar to the firstmentioned position.
 Public Sector Management Act means the Public Sector Management Act 1994 of the Australian Capital Territory.
 relevant chief executive has the same meaning as in the Public Sector Management Act.
 relevant staff organisation, in relation to a position, means an organisation—
-  (a) that is registered under the Industrial Relations Act 1988; and
+  (a) that is registered under the Workplace Relations Act 1996; and
   (b) for membership of which a person occupying the position would be eligible; and
-  (c) that is a party to an industrial award that applies in relation to the salary payable in respect of the position.
+  (c) that is a party to an industrial award that applies in relation to the salary payable in relation to the position.
 service has the same meaning as in the Public Sector Management Act.
-Territory instrumentality has the same meaning as in the Public Sector Management Act.
+territory instrumentality has the same meaning as in the Public Sector Management Act.
 [2.5] Object Section 4
 substitute
 ## 4 Object
-(1) In relation to officers and employees of the Australian Capital Territory, the object of the Act is to ensure that actions taken and decisions made in relation to an officer or employee in connection with his or her employment are fair and equitable and are taken or made in accordance with sound personnel management practices and with due regard being had to—
+(1) In relation to officers and employees of the Australian Capital Territory, the object of the Act is to ensure that actions taken and decisions made in relation to an officer or employee in relation to his or her employment are fair and equitable and are taken or made in accordance with sound personnel management practices and with due regard being had to—
   (a) the efficiency of the relevant authority; and
   (b) the need to ensure good relations between the relevant authority and its officers and employees.
 (2) In subsection (1):
 relevant authority, in relation to an officer or employee, means—
-  (a) in the case of an officer or employee who is performing duty with a Territory instrumentality—the Territory instrumentality; or
+  (a) in the case of an officer or employee who is performing duty with a territory instrumentality—the territory instrumentality; or
   (b) in any other case—the Australian Capital Territory.
 [2.6] Promotion Appeal Committees Section 9 (a)
 omit

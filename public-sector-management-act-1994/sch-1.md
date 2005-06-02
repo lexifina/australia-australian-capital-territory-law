@@ -75,7 +75,7 @@ his or her employment
 omit
 reappointed to the service
 substitute
-re-employed or re-engaged by the Territory or a Territory instrumentality
+re-employed or re-engaged by the Territory or a territory instrumentality
 [1.17] Section 192 (6) (a)
 omit
 reappointed to the service, or transferred or promoted
