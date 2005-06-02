@@ -1,4 +1,4 @@
-# Schedule 3 On-the-spot fines
+# U Schedule 3 On-the-spot fines
 (see s 66)
 column 1 item | column 2 offence provision | column 3 on-the-spot fine
 1 | section 7 | $500

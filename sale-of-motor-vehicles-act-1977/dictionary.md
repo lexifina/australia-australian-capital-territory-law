@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -74,7 +74,6 @@ or for 2 or more of those purposes, but does not include—
   (g) a person who, otherwise than by an agent who is a licensed dealer, offers or displays motor vehicles for sale to the public, other than for the purpose referred to in paragraph (f); or
   (h) a person who holds himself or herself out as ready to purchase motor vehicles from the public; or
   (i) a person or a person included in a class of persons declared by the regulations to be excluded from this definition.
-function includes power.
 hire-purchase agreement, in relation to a motor vehicle, means—
   (a) a letting of the vehicle with an option to purchase the vehicle; or
   (b) an agreement for the purchase of the vehicle by instalments (whether described as rent or hire or otherwise), other than an agreement under which the property in the vehicle passes at the time of the agreement or on, or at any time before, delivery of the vehicle.
@@ -95,6 +94,7 @@ new motor vehicle means a motor vehicle other than a second-hand motor vehicle.
 non-dealer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 notice, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 notified person, for part 10 (Enforcement)—see section 66.
+NSW Act, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 odometer means an instrument or device that measures and records the distance travelled by a motor vehicle, but does not include an instrument or device that is designed so as to permit, as part of its normal functioning, manual alteration of the distance so recorded.
 on-the-spot-fine, for part 10 (Enforcement)—see section 66.
 owner, in relation to a motor vehicle—
@@ -125,7 +125,6 @@ schedule 3 offence, for part 10 (Enforcement)—see section 66.
 security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 sell, in relation to a motor vehicle, means to sell as principal or agent.
 suitable person—see section 71.
-the NSW Act, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 trade owner means—
   (a) a dealer; or
   (b) a financier.
