@@ -59,17 +59,19 @@ known offender declaration, for part 3.8 (Infringement notices for certain offen
 law in force in the ACT, for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
 magistrate—
   (a) means the Chief Magistrate, a magistrate, or a special magistrate and, if a function of a magistrate is exercisable by a registrar, includes a registrar exercising the function; and
-  (b) for division 2.2.1 (Appointment of Chief Magistrate and magistrates)—see section 6A.
+  (b) for division 2.2.1 (Magistrates other than special magistrates)—see section 6.
+notice of intention to defend form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
+notice to defendant form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 nuisance application, for part 4.6 (Small Claims Court)—see section 278.
 outstanding fine, for division 3.9.2 (Enforcement of fines)—see section 146.
 penalty notice, for division 3.9.2 (Enforcement of fines)—see section 146.
+plea of guilty form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 prescribed offence, for part 3.7 (Service and pleading by post for certain offences)—see section 116AA.
 proceeding, for part 4.6 (Small Claims Court)—see section 278.
 reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 referee, for part 4.6 (Small Claims Court)—see section 278.
 reference appeal, for division 3.10.2A (Reference appeals in criminal matters)—see section 219AB (2).
 registered, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
-registered operator, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 registrar means the registrar of the Magistrates Court, and includes a deputy registrar of the court.
 relevant officer, in relation to a reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reminder notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
@@ -85,7 +87,7 @@ summary conviction means conviction by a magistrate for an offence.
 superintendent, for a remand centre, for chapter 3 (Criminal proceedings)—see section 18A.
 territory entity, for division 3.9.2 (Enforcement of fines)—see the Auditor-General Act 1996, dictionary.
 territory fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
-trader’s plate, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 trespass application, for part 4.6 (Small Claims Court)—see section 278.
 unknown offender declaration, for part 3.8 (Infringement notices for certain offences)—see section 131G.
 vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
+vehicle-related offence, for part 3.8 (Infringement notices for certain offences)—see section 117.

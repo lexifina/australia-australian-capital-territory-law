@@ -2,7 +2,7 @@
 # Chapter 2 Magistrates Court and magistrates
 ## Part 2.1 The court
 ## Part 2.2 Appointment and jurisdiction of magistrates
-### Division 2.2.1 Appointment of magistrates
+### Division 2.2.1 Magistrates other than special magistrates
 ### Division 2.2.2 Special magistrates
 ### Division 2.2.3 Registrar and other court officers
 ### Division 2.2.4 Jurisdiction of magistrates
@@ -14,10 +14,10 @@
 ### Division 3.3.1 Beginning criminal proceedings—general
 ### Division 3.3.2 Informations
 ### Division 3.3.3 Summonses
-### Division 3.3.4 Warrants of arrest
+### Division 3.3.4 Warrants
 ## Part 3.4 Hearing of criminal proceedings
 ### Division 3.4.1 Hearing of criminal proceedings—general
-### Division 3.4.2 Evidence in criminal proceedings
+### Division 3.4.2 Warrants for witnesses
 ### Division 3.4.3 Remand
 ### Division 3.4.4 Committal and recognisance
 ### Division 3.4.5 Adjournment of criminal proceedings
