@@ -17,11 +17,4 @@
 ### Division 7.4 Additional information and services
 ### Division 7.5 Offences
 ## Part 8 Administrative review
-## Part 9 Transitional provisions
-### Division 9.1 Preliminary
-### Division 9.2 Births
-### Division 9.3 Changes of name
-### Division 9.4 Deaths
-### Division 9.5 Offences
-### Division 9.6 Expiry of part
 ## Part 10 Miscellaneous
