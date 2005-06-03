@@ -16,4 +16,3 @@
 ## Part 8 Investigation of association’s affairs
 ## Part 9 Offences and related matters
 ## Part 10 Miscellaneous
-## Part 11 Transitional and savings provisions
