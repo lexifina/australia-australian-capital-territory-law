@@ -6,9 +6,9 @@
 ## Part 3 Publications
 ## Part 4 Computer games
 ## Part 5 Advertisements
-## Part 6 X films
+## Part 6 X 18+ films
 ### Division 6.1 Preliminary
-### Division 6.2 X film licences
+### Division 6.2 X 18+ film licences
 ### Division 6.3 Review of decisions
 ### Division 6.4 Enforcement
 ### Division 6.5 Seized films
