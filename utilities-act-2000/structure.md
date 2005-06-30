@@ -37,6 +37,7 @@
 ## Part 9 Controller’s power to take over operations
 ### Division 9.1 General
 ### Division 9.2 Compensation
+## Part 9A Shortage of essential services
 ## Part 10 Enforcement
 ### Division 10.1 General
 ### Division 10.2 ICRC inspectors
@@ -53,5 +54,3 @@
 ### Division 12.3 Determination of complaint
 ### Division 12.4 Miscellaneous
 ## Part 13 Community service obligations
-## Part 14 Vicarious liability
-## Part 15 Miscellaneous

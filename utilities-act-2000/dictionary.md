@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -42,6 +42,8 @@ electricity distributor—
   (b) in relation to an electricity connection service for premises—means a utility licensed to provide the service for the premises.
 electricity network—see section 7 (Electricity network).
 electricity supplier, in relation to the supply of electricity to premises, means a utility licensed to supply electricity to the premises.
+essential service—see section 149A.
+essential service restriction—see section 149A.
 franchise customer—see section 17 (Customers).
 gas—see section 8.
 gas connection service—see section 81 (Gas connection service).
