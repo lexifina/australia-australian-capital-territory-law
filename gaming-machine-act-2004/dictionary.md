@@ -54,7 +54,7 @@ class C gaming machine means a gaming machine that consists of a game other than
   (i) draw poker.
 club means a corporation established for the benefit of members to achieve eligible objects.
 CMS—see definition of centralised monitoring system.
-commission means the gaming and racing commission.
+commission means the gambling and racing commission.
 community contribution means a contribution made by a licensee that is approved as a community contribution under section 164.
 community contribution shortfall tax—see section 172 (1).
 computer cabinet means the sealable part of a gaming machine that contains the game storage medium and the random access memory.
@@ -127,7 +127,7 @@ member, of a club, means—
 multi-user permit—see section 135.
 net revenue, of a licensee that is a club, means gross revenue derived by the licensee, less—
   (a) any amount of gaming machine tax payable on that revenue; and
-  (b) 15% of the gross revenue.
+  (b) 24% of the gross revenue.
 officer of a club—
   (a) means—
     (i) any office-holder of the club (however described), including the secretary, treasurer, executive officer or public officer; or
