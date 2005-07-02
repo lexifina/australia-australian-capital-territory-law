@@ -5,7 +5,6 @@
 ### Division 3.2 Licensable public health risk activities
 ### Division 3.3 Licensable public health risk procedures
 ### Division 3.4 Registration of public health risk activities
-### Division 3.5 Registration of specialised systems
 ### Division 3.6 Improvement notices
 ### Division 3.7 Prohibition notices
 ## Part 4 Insanitary conditions
