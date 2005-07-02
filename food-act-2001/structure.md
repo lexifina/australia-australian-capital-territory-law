@@ -15,10 +15,5 @@
 ## Part 6 Taking and analysis of food samples
 ## Part 7 Improvement notices and prohibition orders
 ## Part 8 Notification and registration of food businesses
-## Part 9 Infringement notices for certain offences
-### Division 9.1 Preliminary
-### Division 9.2 Infringement and reminder notices
-### Division 9.3 Disputing liability
-### Division 9.4 Miscellaneous
 ## Part 10 Procedural and evidentiary provisions
 ## Part 11 Miscellaneous
