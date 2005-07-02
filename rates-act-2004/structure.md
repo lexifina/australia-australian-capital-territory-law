@@ -11,4 +11,3 @@
 ### Division 7.2 Deferral of rates
 ### Division 7.3 Rebate of rates
 ## Part 8 Miscellaneous
-## Part 9 Transitional
