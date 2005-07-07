@@ -15,15 +15,19 @@ clinical privileges means—
   (b) the extent to which a health service provider may use the equipment or other facilities of a health facility.
 core conditions, for part 6A (VMO service contracts)—see section 33A.
 health facility means an institution at which health services are provided by the Territory.
-health service provider means a person who provides health services at a health facility or uses the equipment or other facilities of a health facility for the purpose of providing health services elsewhere and includes the following persons:
-  (a) a person registered under the Chiropractors and Osteopaths Act 1983;
-  (b) a person registered under the Dental Technicians and Dental Prosthetists Registration Act 1988;
-  (c) a person registered under the Dentists Act 1931;
-  (d) a person registered under the Medical Practitioners Registration Act 1930;
-  (e) a person registered under the Nurses Act 1988;
-  (f) a person registered under the Optometrists Act 1956;
-  (g) a person registered under the Pharmacy Act 1931;
-  (h) a person registered under the Physiotherapists Act 1977.
+health service provider means a person who provides health services at a health facility or uses the equipment or other facilities of a health facility to provide health services elsewhere.
+Examples of people who may be health service providers
+1 a chiropractor
+2 a dentist
+3 a dental technician
+4 a dental prosthetist
+5 a doctor
+6 a nurse
+7 an osteopath
+8 an optometrist
+9 a pharmacist
+10 a physiotherapist
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 negotiating agent, for part 6A (VMO service contracts)—see section 33A.
 negotiating period, for part 6A (VMO service contracts)—see section 33D (2).
 practice corporation, for part 6A (VMO service contracts)—see section 33A.
