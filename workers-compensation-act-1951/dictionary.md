@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
 approved rehabilitation provider—see section 139 (1).
@@ -17,7 +17,7 @@ child, of a worker, means a child of the worker who is—
   (a) not in a domestic partnership; and
   (b) under16 years old or a full-time student.
 Note For the meaning of domestic partnership, see the Legislation Act, s 169.
-chiropractor means a person entitled to practise as a chiropractor under the Chiropractors and Osteopaths Act 1983 or a corresponding law of a State or another Territory.
+chiropractor means a person entitled to practise as a chiropractor under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
 committee, for a matter arising under the Act between an employer and the employer’s workers, means a committee that represents the employer and workers that has the power to decide the matter.
 compensable injury means an injury in relation to which compensation is payable under this Act.
 compensation means an amount payable under this Act in relation to an injury to, or the death of, a person.
@@ -88,12 +88,12 @@ Note For the meaning of domestic partner, see the Legislation Act, s 169. If a w
 nominal insurer means the nominal insurer appointed under section 164 (1).
 nominated treating doctor, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
 non-business employer means an employer who employs the worker other than for work that is for (or incidental to) the employer’s trade or business.
-osteopath means a person entitled to practise osteopathy under the Chiropractors and Osteopaths Act 1983 or a corresponding law of a State or another Territory.
+osteopath means a person entitled to practise osteopathy under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
 partially incapacitated—see section 7 (Meaning of partially incapacitated).
 payment includes a non-monetary payment.
 pension age, for a worker—see the Social Security Act 1991 (Cwlth), section 23 (5A), (5B), (5C) and (5D).
 personal injury plan, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
-physiotherapist means a person entitled to practise as a physiotherapist under the Physiotherapists Act 1977 or a corresponding law of a State or another Territory.
+physiotherapist means a person entitled to practise as a physiotherapist under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
 professional sporting activity means—
   (a) participation for fee or reward as a contestant in a sporting or athletic activity; or
   (b) training or preparation for such participation; or
