@@ -132,7 +132,9 @@ director of public prosecutions (or DPP) means the Director of Public Prosecutio
 disallowable instrument—see section 9.
 discrimination commissioner means the Discrimination Commissioner under the Discrimination Act 1991.
 discrimination tribunal means the Discrimination Tribunal established under the Discrimination Act 1991.
-doctor means a registered medical practitioner under the Medical Practitioners Act 1930.
+doctor—
+  (a) means a person unconditionally registered as a medical practitioner under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally registered as a medical practitioner under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 document means any record of information, and includes—
   (a) anything on which there is writing; or
   (b) anything on which there are figures, marks, numbers, perforations, symbols or anything else having a meaning for people qualified to interpret them; or
