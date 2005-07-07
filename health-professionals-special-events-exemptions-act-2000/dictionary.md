@@ -21,17 +21,7 @@ exemption period—see section 5 (2).
 health care services means—
   (a) services ordinarily provided by doctors, nurses, dentists, dental technicians, dental prosthetists, pharmacists, podiatrists, chiropractors, osteopaths, optometrists, physiotherapists or psychologists; or
   (b) any other service prescribed by the regulations.
-Health Registration Act means any of the following Acts:
-  (a) Chiropractors and Osteopaths Act 1983;
-  (b) Dental Technicians and Dental Prosthetists Registration Act 1988;
-  (c) Dentists Act 1931;
-  (d) Medical Practitioners Act 1930;
-  (e) Nurses Act 1988;
-  (f) Optometrists Act 1956;
-  (g) Pharmacy Act 1931;
-  (h) Physiotherapists Act 1977;
-  (i) Podiatrists Act 1994;
-  (j) Psychologists Act 1994.
+Health Professionals Act means the Health Professionals Act 2004.
 notification procedure, for a special event—see section 5 (4).
 registered includes licensed and enrolled.
 restricted substance means—
