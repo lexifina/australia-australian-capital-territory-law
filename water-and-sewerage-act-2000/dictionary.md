@@ -11,7 +11,10 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · magistrate
 · penalty unit (see s 133)
 · the Territory.
-Australian Standard 3500 means Australian Standard 3500 as in force from time to time.
+Australian Standard 3500 means the following standards, as in force from time to time:
+  (a) AS 3500.1.1;
+  (b) AS 3500.2.1;
+  (c) AS/NZS 3500.
 backflow prevention device means a device to prevent the reverse flow from a potentially polluted source into a water supply system for water suitable for human consumption.
 certifier means a registered construction practitioner who is registered in the category of plumbing plan certifier in accordance with the Construction Practitioners Registration Regulations 1998.
 connected, with an offence, for part 4 (Enforcement)—see section 18.
