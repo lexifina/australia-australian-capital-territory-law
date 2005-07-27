@@ -1,4 +1,4 @@
-# M Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -6,9 +6,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Legislation Act
 · under
 · working day.
-AS 3500—
-  (a) means Australian Standard 3500 (National Plumbing and Draining Code), as in force from time to time; and
-  (b) includes AS/NZS 3500.1.2:1998 and AS/NZS 3500.4.2:1997.
+AS 3500 means the following standards, as in force from time to time:
+  (a) AS 3500.1.1;
+  (b) AS 3500.2.1;
+  (c) AS/NZS 3500.
 authorised action, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
