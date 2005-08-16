@@ -27,7 +27,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 abscond—see section 16.
 account means any facility or arrangement through which a financial institution accepts deposits or allows withdrawals, and includes—
   (a) a facility or arrangement for a fixed term deposit or a safe-deposit box; and
-  (b) a facility or arrangement prescribed under the regulations for this definition.
+  (b) a facility or arrangement prescribed by regulation for this definition.
 agent, for an agent that is a corporation, includes an officer, employee or agent of the corporation.
 artistic profits—see section 81.
 artistic profits restraining order—see section 20.
@@ -50,7 +50,7 @@ commission—
 confiscation proceeding—see section 236.
 convicted—see section 15 (1).
 conviction forfeiture order—see section 52.
-corresponding law means a law of the Commonwealth, a State or another Territory that is declared under the regulations to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act.
+corresponding law means a law of the Commonwealth, a State or another Territory that is declared by regulation to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act.
 corresponding law order means an order, notice or decision (however described) made under a corresponding law, whether or not the order, notice or decision—
   (a) is made by a court; or
   (b) corresponds, or substantially corresponds, to an order, notice or decision under this Act.
@@ -81,7 +81,7 @@ financial institution means—
   (d) a person who carries on State banking within the meaning of the Commonwealth Constitution, section 51 (13); or
   (e) a corporation that is, or that, if it had been incorporated in Australia, would be, a financial corporation within the meaning of the Commonwealth Constitution, section 51 (20); or
   (f) a person who permits someone else to deposit money with the person for use by the other person in relation to gaming or betting; or
-  (g) an entity prescribed under the regulations for this definition.
+  (g) an entity prescribed by regulation for this definition.
 forfeited property, means property forfeited under part 5 (Forfeiture of property).
 forfeiture order means a civil forfeiture order or a conviction forfeiture order.
 Note A registered interstate forfeiture order is taken to be a forfeiture order under this Act (see s 139).
@@ -108,26 +108,26 @@ The phrase ‘property used, or intended to be used by an offender, in relation 
 (e) property used with respect to the commission of the offence.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 interested person, for part 8 (Forfeited property)—see section 107.
-interstate automatic forfeiture decision means a corresponding law order prescribed under the regulations for this definition.
-interstate civil forfeiture order means a corresponding law order prescribed under the regulations for this definition.
-interstate conviction forfeiture order means a corresponding law order prescribed under the regulations for this definition.
+interstate automatic forfeiture decision means a corresponding law order prescribed by regulation for this definition.
+interstate civil forfeiture order means a corresponding law order prescribed by regulation for this definition.
+interstate conviction forfeiture order means a corresponding law order prescribed by regulation for this definition.
 interstate forfeiture order means an interstate civil forfeiture order or interstate conviction forfeiture order.
 interstate penalty charge—see section 142 (2) (Interstate penalty charges).
-interstate penalty order means a corresponding law order prescribed under the regulations for this definition.
-interstate restraining order means a corresponding law order prescribed under the regulations for this definition.
+interstate penalty order means a corresponding law order prescribed by regulation for this definition.
+interstate restraining order means a corresponding law order prescribed by regulation for this definition.
 investigation, for division 12.5 (Examination orders and notices)—see section 164.
 issuing officer, for a search warrant, for part 13 (Search warrants)—see section 195.
 joint ownership—property is jointly owned if the owners own the property as joint tenants or tenants in common.
 money laundering offence means—
   (a) an offence against the Crimes Act 1900, division 6.2A (Money laundering and organised fraud); or
-  (b) an offence against a law of the Commonwealth, a State or another Territory that is declared under the regulations to be a corresponding offence, whether or not the offence corresponds, or substantially corresponds, to an offence mentioned in paragraph (a).
+  (b) an offence against a law of the Commonwealth, a State or another Territory that is declared by regulation to be a corresponding offence, whether or not the offence corresponds, or substantially corresponds, to an offence mentioned in paragraph (a).
 monitoring order—see section 148.
 narcotic substance, for division 7.3 (Value of benefits)—see section 90.
 non-disclosable information order—see section 191.
 occupier, of premises, for part 13 (Search warrants)—see section 195.
 offence—see section 13 (1).
 offender, in relation to an offence, means a person (including a corporation) who committed, or is alleged to have committed, the offence.
-Note A reference to a person generally includes a reference to a corporation as well as an individual, see Legislation Act, s 160. (See also the Legislation Act, dict, pt 1, def person.)
+Note A reference to a person generally includes a reference to a corporation as well as an individual, see the Legislation Act, s 160. (See also the Legislation Act, dict, pt 1, def person.)
 ordinary indictable offence—see section 13 (2).
 ordinary search, for part 13 (Search warrants)—see section 195.
 party, to an offence, means a person who—
@@ -157,7 +157,7 @@ Note A registered interstate restraining order is taken to be a restraining orde
 return or compensation order—see section 121.
 search warrant, for part 13 (Search warrants)—see section 195.
 serious offence—see section 13 (2).
-statutory property register means a register kept under a Territory law, or a law of the Commonwealth, a State or another Territory, for recording ownership of property (including interests in property) if—
+statutory property register means a register kept under a territory law, or a law of the Commonwealth, a State or another Territory, for recording ownership of property (including interests in property) if—
   (a) title to the property is passed by registration in the register of ownership of the property; or
   (b) the owner of an interest in the property may lose the interest if the interest is not registered in the register.
 Examples
