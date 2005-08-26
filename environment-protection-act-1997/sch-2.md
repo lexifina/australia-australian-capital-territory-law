@@ -72,7 +72,7 @@ Maximum penalty: 50 penalty units.
   (c) the petrol to which the charge relates had not ceased to be unleaded petrol because it had been contaminated while in the defendant’s possession;
 and that evidence is not rebutted by the prosecution.
 (4) An offence against this section is punishable on indictment.
-## 8 Prohibition of sale of leaded petrol unless low lead
+## 2.8 Prohibition of sale of leaded petrol unless low lead
 (1) Subsections (3) and (4) do not apply during any period when a declaration is in force under section 2.8A (Declaration about application of certain provisions).
 (2) A notice may be expressed to come into effect immediately on the end of a previous notice.
 (3) Subject to subsection (5) and unless exempted by the authority under section 2.9, a person must not, in the course of the distribution or wholesaling of petrol—

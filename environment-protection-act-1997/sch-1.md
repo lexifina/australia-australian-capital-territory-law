@@ -24,12 +24,12 @@ mobile plant, for the processing of agricultural crops, means plant operated on 
 motor racing event means—
   (a) a motor vehicle race or practice for a motor vehicle race; or
   (b) a motor vehicle reliability trial or speed test, including a trial or test for which the vehicles have been exempted under the road transport legislation from the provisions of that legislation about attaching silencers to the exhaust pipes of motor vehicles, rules of the road and speed limits during the trial or test.
-ozone-depleting substance means a substance listed in the Ozone Protection Act 1989 (Cwlth), schedule 1, whether existing alone or in a mixture.
+ozone-depleting substance means a substance listed in the Ozone Protection and Synthetic Greenhouse Gas Management Act 1989 (Cwlth), schedule 1, whether existing alone or in a mixture.
 primary production—see the Income Tax Assessment Act 1936 (Cwlth).
 receiving waters means ground water or water in a waterway.
 regulated waste—see section 1.1A.
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
-stock—see the Stock Act 1991.
+stock—see the Stock Act 2005, dictionary.
 stormwater means water run-off from an urban area that is normally collected by the stormwater system.
 stormwater system means a system of pipes, gutters, drains, floodways and channels, being public works constructed to collect or transport stormwater in or through an urban area.
 waste means any solid, liquid or gas, or any combination of them, that is a surplus product or unwanted by-product of an activity, whether the product or by-product is of value or not.

@@ -28,7 +28,6 @@
 ### Division 11.5 Other powers
 ## Part 12 Analysts’ powers
 ## Part 13 Enforcement
-### Division 13.1 On-the-spot fines
 ### Division 13.2 Environment protection orders
 ### Division 13.3 Injunctive orders
 ### Division 13.4 Power to require information
