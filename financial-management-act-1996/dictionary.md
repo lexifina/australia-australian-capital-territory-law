@@ -45,7 +45,7 @@ GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictio
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
-Legislative Assembly secretariat means the clerk of the Legislative Assembly and the officers and employees of the public service who assist the clerk in the exercise of the clerk’s functions.
+Legislative Assembly secretariat—see the Public Sector Management Act 1994, section 3.
 outcomes means the consequences for the community of outputs.
 outputs means goods produced or services provided by a department or territory authority or a person producing goods or providing services on behalf of a department or territory authority.
 prescribed means prescribed by the financial management guidelines.
