@@ -411,9 +411,7 @@ If the office of a member becomes vacant, a person may be appointed to fill the 
 (2) Any liability that, apart from subsection (1), would attach to a person attaches instead to the council.
 ## Division 4.6.3 Procedure of council
 ## 4.46 General procedure for council
-(1) The procedure for the calling of meetings of the council and for the conduct of business at those meetings is, subject to this schedule and the regulations, to be as decided by the council.
-(2) However, the chairperson of the council is to call the first meeting of the council in the way the chairperson considers appropriate.
-(3) Subsection (2) and this subsection expire 6 months after the day this section commences.
+The procedure for the calling of meetings of the council and for the conduct of business at those meetings is, subject to this schedule and the regulations, to be as decided by the council.
 ## 4.47 Quorum at council meetings
 The quorum for a meeting of the council is a majority of its members for the time being.
 ## 4.48 Presiding member at council meetings
