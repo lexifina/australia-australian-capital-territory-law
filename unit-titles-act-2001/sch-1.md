@@ -9,7 +9,7 @@ column 1 item | column 2 Act provision | column 3 reviewable decision | column 4
 6 | 29 (5) | amendment of a schedule of unit entitlement in amending a development statement before registration of the units plan | each person with an interest in the parcel
 7 | 30 | amendment of a development statement after registration of the units plan. | (a) lessee of the parcel immediately before registration (b) owners corporation (c) each interested nonvoter
 8 | 30 | refusal to amend a development statement after registration of the units plan | (a) lessee of the parcel immediately before registration (b) owners corporation (c) each interested nonvoter
-9 | 30 (5) (a) | authorisation of amendment of a schedule of unit entitlement in amending a development statement after registration of the units plan | (a) lessee of the parcel immediately before registration (b) owners corporation (c) each interested nonvoter
+9 | 30 (7) (a) | authorisation of amendment of a schedule of unit entitlement in amending a development statement after registration of the units plan | (a) lessee of the parcel immediately before registration (b) owners corporation (c) each interested nonvoter
 10 | 146 | refusal to grant unit entitlement authority | owners corporation
 11 | 146 | grant of unit entitlement authority otherwise than as applied for | owners corporation
 12 | 146 (4) (b) | grant of shorter extended period than applied for, for which a unit entitlement authority is to remain in force | owners corporation
