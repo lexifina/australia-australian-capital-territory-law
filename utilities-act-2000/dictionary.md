@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -58,8 +58,12 @@ ICRC means the Independent Competition and Regulatory Commission.
 ICRC Act means the Independent Competition and Regulatory Commission Act 1997.
 ICRC inspector means a person appointed as an ICRC inspector under section 152.
 industry code, for a utility service, means an industry code approved or determined under part 4 (Industry codes) that applies to the service.
-installation, of a network facility, for part 7 (Network operations)—see section 103.
-interference, with a network or network facility, for part 8 (Protection of networks)—see section 123.
+installation—
+  (a) of a network facility, for part 7 (Network operations)—see section 103; and
+  (b) of a territory network facility, for part 14 (Streetlighting and stormwater)—see section 226.
+interference—
+  (a) with a network or network facility, for part 8 (Protection of networks)—see section 123; and
+  (b) with a territory network or territory network facility, for part 14 (Streetlighting and stormwater)—see section 226.
 land-holder—
   (a) in relation to private land, means—
     (i) an owner of the land; or
@@ -94,7 +98,7 @@ party, to a complaint, for part 12 (Complaints)—see section 184.
 personal information—see the Privacy Act 1988 (Cwlth), section 6 (Interpretation), but does not include information available to a section of the public.
 premises includes land and place.
 private land means land other than public land.
-proceeding under this Act, for part 14 (Vicarious liability)—see section 226.
+proceeding under this Act, for part 15 (Vicarious liability)—see section 251.
 public land means national land or unleased Territory land.
 registrar, for part 12 (Complaints)—see section 184.
 related law means the ICRC Act.
@@ -107,8 +111,21 @@ sewerage network—see section 14.
 sewerage service means the conveyance, collection, treatment and disposal of sewage by a person from the premises of another person.
 sewerage utility, in relation to the provision of a sewerage connection service or sewerage service for premises, means a utility licensed to provide the relevant service for the premises.
 standard customer contract—see section 92 (Creation of standard customer contracts).
+stormwater drainage, for part 14 (Streetlighting and stormwater)—see section 226.
+stormwater network—see section 227.
+stormwater network boundary, for part 14 (Streetlighting and stormwater)—see section 228.
+stormwater network code, for part 14 (Streetlighting and stormwater)—see section 228.
+streetlighting, for part 14 (Streetlighting and stormwater)—see section 226.
+streetlight network—see section 229.
+streetlight network code, for part 14 (Streetlighting and stormwater)—see section 230.
 technical code, for a utility service, means a technical code approved or determined under part 5 (Technical regulation) that applies to the service.
 technical inspector means a person appointed as a technical inspector under section 67 (Technical inspectors).
+territory network—see section 226.
+territory network facility—see section 226.
+territory network operations, for part 14 (Streetlighting and stormwater)—see section 226.
+territory network protection notice, for part 14 (Streetlighting and stormwater)—see section 226.
+territory service—see section 226.
+territory service authorised person, for part 14 (Streetlighting and stormwater)—see section 226.
 utility—
   (a) for this Act—means a person licensed to provide a utility service; or
   (b) for part 9 (Controller’s power to take over operations)—see section 134.
