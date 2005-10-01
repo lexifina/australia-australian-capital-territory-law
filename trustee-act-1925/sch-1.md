@@ -70,6 +70,6 @@ trust—see section 4 (Meaning of trust).
 trustee—
   (a) includes a legal representative, the public trustee and a trustee company; and
   (b) for part 4 (Payment into court)—see section 94F.
-trustee company—see the Trustee Companies Act 1947, section 3.
+trustee company, means a trustee company under the Trustee Companies Act 1947.
 trust instrument means the instrument (if any) creating the trust.
 vesting order means an order under section 71.
