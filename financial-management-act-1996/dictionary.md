@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -38,7 +38,7 @@ financial management guidelines means the financial management guidelines under 
 general government sector means—
   (a) those organisations whose primary function is to provide services that are mainly not market orientated, are mainly for the consumption of the community generally, involve the transfer or redistribution of income, and are financed mainly through appropriation; and
   (b) those organisations that are controlled by the Territory and provide investment or other financial services.
-generally accepted accounting practice means accounting practices and procedures that are—
+generally accepted accounting principles means accounting principles and procedures that are—
   (a) recognised by the accounting profession as appropriate for reporting financial information relating to government, a department or a territory authority; and
   (b) consistent with this Act and any relevant Appropriation Act.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.

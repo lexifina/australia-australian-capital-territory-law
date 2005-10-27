@@ -4,10 +4,10 @@
 ### Division 2.2 Budget reviews and pre-election updates
 ## Part 3 Financial reports
 ### Division 3.1 Financial reports of the Territory
-### Division 3.2 Financial reports of departments
+### Division 3.2 Financial reports and performance statements of departments
 ## Part 4 Financial management responsibilities of chief executives of departments
 ## Part 5 Banking and investment
 ## Part 6 Borrowing and guarantees
 ## Part 7 Trust money
-## Part 8 Financial provisions relating to territory authorities
-## Part 9 Miscellaneous
+## Part 10 Miscellaneous
+## Part 11 Transitional
