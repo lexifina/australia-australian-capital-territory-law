@@ -19,7 +19,7 @@
 ## Part 3A.4 Special duties of care for asbestos
 # Chapter 4 Licences for dangerous substances
 ## Part 4.1 General—licences
-## Part 4.2 Issue amendment, replacement and surrender of licences
+## Part 4.2 Issue, amendment, replacement and surrender of licences
 ## Part 4.3 Offences relating to licences
 ## Part 4.4 Disciplinary action
 # Chapter 5 Other serious offences
