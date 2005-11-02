@@ -38,10 +38,3 @@
 ## Part 12 Notification and review of decisions
 ## Part 13 Miscellaneous
 ## Part 14 Transitional provisions
-### Division 14.1 Definitions
-### Division 14.2 Licensed agents under repealed Act
-### Division 14.3 Registered agents under repealed Act and employees
-### Division 14.4 Other provisions about the repealed Act
-### Division 14.5 Auctioneers
-### Division 14.6 Modification and expiry of pt 14
-### Division 14.7 Agents’ records
