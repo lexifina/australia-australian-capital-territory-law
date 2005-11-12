@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -62,7 +62,6 @@ executive officer, of a corporation, means a person, by whatever named called an
 Examples
 1 A director of the corporation
 2 An employee of, or a person associated with, the corporation who is involved in activities that involve policy and decision making, related to the business affairs of the corporation, to the extent that the consequences of the formation of the policies, or the making of the decisions, may have some significant bearing on the financial standing of the corporation or the conduct of its affairs.
-final infringement notice, for part 10 (Enforcement)—see section 66.
 financier means a person who carries on the business of buying, selling or exchanging motor vehicles only—
   (a) for the purpose of hiring motor vehicles under hire-purchase agreements; or
   (b) for the purpose of selling motor vehicles on instalment terms; or
@@ -79,7 +78,6 @@ hire-purchase agreement, in relation to a motor vehicle, means—
   (b) an agreement for the purchase of the vehicle by instalments (whether described as rent or hire or otherwise), other than an agreement under which the property in the vehicle passes at the time of the agreement or on, or at any time before, delivery of the vehicle.
 hirer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 individual licensee means an individual who holds a licence.
-infringement notice, for part 10 (Enforcement)—see section 66.
 inspector means an inspector under section 5B but, for part 10 (Enforcement), does not include a police officer.
 lease, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 licence means a vehicle sale licence or a car market operator licence and, if the licence is varied under section 14E, includes the licence as so varied.
@@ -93,10 +91,8 @@ motor vehicle means any motor car, motorcycle, or other vehicle used on land tha
 new motor vehicle means a motor vehicle other than a second-hand motor vehicle.
 non-dealer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 notice, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-notified person, for part 10 (Enforcement)—see section 66.
 NSW Act, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 odometer means an instrument or device that measures and records the distance travelled by a motor vehicle, but does not include an instrument or device that is designed so as to permit, as part of its normal functioning, manual alteration of the distance so recorded.
-on-the-spot-fine, for part 10 (Enforcement)—see section 66.
 owner, in relation to a motor vehicle—
   (a) for part 4A (Registration of interests in motor vehicles)—see section 32A; and
   (b) in any other case—
@@ -119,9 +115,6 @@ registered, for part 4A (Registration of interests in motor vehicles)—see sect
 register of interests, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 registrar means the Registrar of Motor Vehicle Dealers under section 5.
 registrable interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-relevant amount, for part 10 (Enforcement)—see section 66.
-relevant period for payment, for part 10 (Enforcement)—see section 66.
-schedule 3 offence, for part 10 (Enforcement)—see section 66.
 security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 sell, in relation to a motor vehicle, means to sell as principal or agent.
 suitable person—see section 71.
