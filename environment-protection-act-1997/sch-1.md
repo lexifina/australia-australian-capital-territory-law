@@ -55,6 +55,7 @@ year means any 12 month period.
 (2) An expression used in subsection (1) and defined in the environmental standards has the same meaning as in the standards.
 ## 1.2 Class A activities
 For section 42, the following activities are class A activities:
+Table 1.2
 column 1 item | column 2 activity
 1 | the manufacture, sale, storage, supply, transport, use, servicing or disposal of, or other dealing with— (a) an ozone-depleting or other substance; or (b) a thing containing an ozone-depleting or other substance; if that activity is a prescribed activity in relation to that substance or thing
 2 | the extraction of material (other than water) from a waterway
@@ -108,6 +109,7 @@ column 1 item | column 2 activity
 48 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
 ## 1.3 Class B activities
 For section 42, the following activities are class B activities:
+Table 1.3
 column 1 item | column 2 activity
 1 | the manufacture of things in furnaces or kilns (including bricks, glass, pipes, pottery goods and tiles) at a facility designed to produce between 100t and 10 000t of things per year
 2 | the preservation of wood for commercial purposes using chemicals (including copper, chromium, arsenic and creosote) at a facility designed to process less than 10 000m3 of wood per year
