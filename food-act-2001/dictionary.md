@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -19,7 +19,6 @@ certificate of registration, for a food business, means a certificate of registr
 clearance certificate means a clearance certificate issued under section 86 (2).
 Commonwealth Act means the Australia New Zealand Food Authority Act 1991 (Cwlth).
 connected, with an offence, for part 5 (Inspection and seizure powers)—see section 45.
-date of service, for part 9 (Infringement notices for certain offences)—see section 107.
 disciplinary notice—see section 101 (1) (Procedure for taking action in relation to registration).
 displayed for sale—see section 9 (2) (Meaning of sell etc).
 dispose, of food, for part 4 (Emergency powers)—see section 37.
@@ -41,9 +40,6 @@ food transport vehicle means a vehicle used for the transport of food intended f
 handling, of food, includes the making, manufacturing, producing, collecting, extracting, processing, storing, transporting, delivering, preparing, treating, preserving, packing, cooking, thawing, serving or displaying of food.
 identity card means an identity card issued under the Public Health Act 1997, section 16.
 improvement notice means an improvement notice served under section 79 (Service of improvement notices).
-infringement notice—see section 107 (Definitions for pt 9).
-infringement notice offence—see section 107 (Definitions for pt 9).
-infringement notice penalty, for part 9 (Infringement notices for certain offences)—see section 107.
 label includes any tag, brand, mark or statement in writing or any representation or design or other descriptive matter on or attached to or used or displayed in relation to or accompanying any food or package.
 occupier, for part 5 (Inspection and seizure powers)—see section 45.
 offence, for part 5 (Inspection and seizure powers)—see section 45.
@@ -61,8 +57,7 @@ proprietor, of a food business, means—
   (b) if that person cannot be identified—the person in charge of the food business.
 recall order, for part 4 (Emergency orders)—see section 37.
 registered, in relation to a food business, means registered under section 92.
-reminder notice, for part 9 (Infringement notices for certain offences)—see section 107 (Definitions for pt 9).
 sell—see section 9 (1).
-unsafe—see section 12 (Meaning of unsafe food).
-unsuitable—see section 13 (Meaning of unsuitable food).
+unsafe, in relation to food—see section 12.
+unsuitable, in relation to food—see section 13.
 vehicle means any means of transport, whether or not self-propelled, and whether used on land or water or in the air.
