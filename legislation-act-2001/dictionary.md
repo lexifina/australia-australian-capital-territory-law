@@ -14,7 +14,6 @@ ADI—see definition of authorised deposit-taking institution.
 administrative appeals tribunal (or AAT) means the Administrative Appeals Tribunal established under the Administrative Appeals Tribunal Act 1989.
 administrative unit means an administrative unit for the time being established under the Public Sector Management Act 1994, section 13 (1).
 adult means an individual who is at least 18 years old.
-affidavit, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
 ambulance service means the ACT Ambulance Service established under the Emergencies Act 2004.
 amend includes—
   (a) for an Act or statutory instrument—omit, insert, substitute, renumber or relocate a provision of the Act or instrument; and
@@ -268,7 +267,8 @@ number means—
   (b) a combination of a number expressed in figures or words and of a letter of the alphabet.
 nurse means a registered nurse under the Nurses Act 1988.
 nurse practitioner means a person who is registered as a nurse practitioner under the Nurses Act 1988.
-oath, in relation to a person allowed by law to affirm, declare or promise includes affirmation, declaration and promise.
+oath includes affirmation.
+Note The Evidence Act 1995 (Cwlth), ch 2, pt 2.1, div 2 and the Oaths and Affirmations Act 1984 make provision in relation to oaths and affirmations.
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
 office includes position.
 office of fair trading means the Office of Fair Trading of the Australian Capital Territory established under the Fair Trading (Consumer Affairs) Act 1973.
@@ -363,7 +363,8 @@ subordinate law—see section 8.
 summary offence—see section 190.
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
-swear, in relation to a person allowed by law to affirm, declare or promise, includes affirmation, declaration and promise.
+swear an oath includes make an affirmation.
+take an oath includes make an affirmation.
 territory authority means a body established under an Act, but does not include a body declared by regulation not to be a territory authority.
 territory instrumentality means a corporation that—
   (a) is established under an Act or statutory instrument, or under the Corporations Act; and
