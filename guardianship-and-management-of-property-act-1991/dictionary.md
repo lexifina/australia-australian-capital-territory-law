@@ -6,7 +6,8 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · domestic partner (see s 169)
 · exercise
 · function
-· Magistrates Court.
+· Magistrates Court
+· oath.
 decision-making principles—see section 5 (Principles to be followed by decision-makers).
 deputy president means a deputy president of the tribunal.
 electroconvulsive therapy—see the Mental Health (Treatment and Care) Act 1994, section 55.
