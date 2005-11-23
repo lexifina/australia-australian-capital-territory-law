@@ -11,8 +11,6 @@
 ### Division 6.7 Offences relating to causing public alarm
 ### Division 6.8 Miscellaneous
 ## Part 7 Escape provisions
-## Part 8 Perjury and like offences
-## Part 9 Accessories
 ## Part 10 Criminal investigation
 ### Division 10.1 Preliminary
 ### Division 10.2 Preventative action
