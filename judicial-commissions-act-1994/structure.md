@@ -7,5 +7,4 @@
 ### Division 5.2 Evidence
 ### Division 5.3 Powers
 ### Division 5.4 Hearings
-## Part 6 Offences
-## Part 7 Miscellaneous
+## Part 6 Miscellaneous
