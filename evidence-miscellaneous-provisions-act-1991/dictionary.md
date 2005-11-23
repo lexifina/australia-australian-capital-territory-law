@@ -13,7 +13,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · may (see s 146)
 · Minister (see s 162)
 · must (see s 146)
-· proceeding (for this Act, pt 3).
+· oath
+· proceeding (for this Act, pt 3)
+· take (an oath).
 audio link, for part 3 (Use of audiovisual links and audio links)––see section 16.
 audiovisual link means a system of 2-way communication linking different places so that a person at any of them can be seen and heard at the other places.
 complainant—
@@ -42,5 +44,5 @@ sexual offence proceeding—
   (c) for division 4.4 (Evidence of complainant’s sexual reputation and activities)––see section 48; and
   (d) for division 4.6 (Sexual offence proceedings—directions and warnings to juries)––see section 68.
 State, for part 3 (Use of audiovisual links and audio links)––see section 16.
-Territory court, for part 3 (Use of audiovisual links and audio links)––see section 16.
+territory court, for part 3 (Use of audiovisual links and audio links)—see section 16.
 tribunal, in relation to a State, for part 3 (Use of audiovisual links and audio links)––see section 16.
