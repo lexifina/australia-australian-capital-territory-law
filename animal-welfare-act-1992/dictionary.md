@@ -28,6 +28,9 @@ defined offence means—
   (b) an offence in relation to animal welfare under another Territory law or a Commonwealth or State law.
 director, of a corporation incorporated for a public purpose under a Territory, Commonwealth or State law, includes a member of the corporation.
 domestic, in relation to an animal, includes captive.
+engage in conduct means—
+  (a) do an act; or
+  (b) omit to do an act.
 ethics committee means an animal experimentation ethics committee established in accordance with the regulations—
   (a) in relation to a licence—which exercises the functions of such a committee for the purposes of the licence; or
   (b) in relation to an application for an authorisation—to which the application is made; or
@@ -66,9 +69,7 @@ private trapping permit means a permit granted under section 65 for domestic or 
 prohibited circus animal means—
   (a) a bear, cheetah, elephant, giraffe, leopard, lion, puma or tiger; or
   (b) an animal prescribed under section 52.
-prohibited trap means an animal trap prescribed under section 63 (a).
 research authorisation means an authorisation granted under section 40 to conduct a program of research, as in force under this Act.
-restricted trap means an animal trap prescribed under section 63 (b).
 steel-jawed trap means an animal trap fitted with metal jaws, a pressure plate and a spring-operated mechanism, designed so that the metal jaws close against each other when the trap is activated by the application of weight to the pressure plate.
 teaching authorisation means an authorisation granted under section 40 to conduct a program of teaching, as in force under this Act.
 trapping permit means a commercial trapping permit or a private trapping permit.
