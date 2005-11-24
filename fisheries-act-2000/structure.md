@@ -15,7 +15,7 @@
 ### Division 7.2 Other powers
 ### Division 7.3 Other enforcement matters
 ## Part 8 Offences
-### Division 8.1 Offences, licences and approvals
+### Division 8.1 Unauthorised activities
 ### Division 8.2 General offences
 ### Division 8.3 Offences in relation to fishing gear
 ### Division 8.4 Protection of aquatic habitats
