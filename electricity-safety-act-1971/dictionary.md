@@ -33,6 +33,9 @@ electrical wiring work—
     (iii) fitting, removing or replacing a fuse or fuse wire if the fuse or wire cannot sustainedly conduct more than 30A.
 electricity distributor—see the Utilities Act 2000, dictionary.
 electricity network—see the Utilities Act 2000, section 7 (Electricity network).
+engage in conduct means—
+  (a) do an act; or
+  (b) omit to do an act.
 inspector—see section 41 (Appointment of inspectors).
 occupier, of premises, includes—
   (a) a person believed on reasonable grounds to be an occupier of the premises; and
