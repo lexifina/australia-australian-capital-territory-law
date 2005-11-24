@@ -34,9 +34,7 @@ building code—see the Building Act 2004, section 136 (1).
 bushfire abatement zone means a bushfire abatement zone declared under section 71.
 bushfire council means the ACT Bushfire Council established under section 127.
 bushfire management requirement means a requirement mentioned in section 74 (3) (a) (Content of strategic bushfire management plan).
-bushfire operational plan means—
-  (a) for territory land or land occupied by the Territory—a bushfire operational plan approved by the Minister under section 78; or
-  (b) for land in a bushfire abatement zone—a bushfire operational plan approved by the authority under section 79.
+bushfire operational plan means a bushfire operational plan approved under section 78.
 bushfire season, for division 5.6.2 (Controlled activities and offences relating to fire)—see section 119.
 casual volunteer—see section 26 (2).
 chief officer means—
@@ -50,7 +48,7 @@ chief officer (rural fire service)—see section 30.
 chief officer (SES)—see section 31.
 city area—see section 66.
 closure notice means a closure notice issued under section 86 (2) (Notices for premises).
-commissioner means the ACT Emergency Service Commissioner.
+commissioner means the ACT Emergency Services Commissioner.
 community communication and information plan means the community communication and information plan mentioned in section 149.
 conservator means the conservator of flora and fauna.
 contributor, to a health fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
@@ -59,11 +57,11 @@ declared state of alert means a state of alert declared under section 151 (Decla
 declared state of emergency means a state of emergency declared under section 156 (Declaration of state of emergency).
 eligible person, for chapter 9 (Administrative review of decisions)—see section 183.
 emergency means an actual or imminent event that requires a significant and coordinated response.
-Examples
+Examples of events
 1 fire, flood, storm or earthquake
-2 accident, explosion
+2 accident or explosion
 3 epidemic or animal disease
-4 shortage of electricity, gas or water
+4 shortage of electricity, gas, fuel or water
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 emergency management means the establishment of plans, structures and arrangements to coordinate the resources of agencies and other entities in a comprehensive approach to—
   (a) emergency risks; and
