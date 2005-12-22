@@ -9,5 +9,4 @@
 ## Part 5 Unclaimed property
 ## Part 6 Financial
 ### Division 6.1 Investment board
-### Division 6.2 Common funds
 ## Part 7 Miscellaneous
