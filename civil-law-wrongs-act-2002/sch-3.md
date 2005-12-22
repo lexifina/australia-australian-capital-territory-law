@@ -150,7 +150,7 @@ Note A disallowable instrument must be notified, and presented to the Legislativ
 ## 4.11 Commencement of schemes
 (1) A scheme approved by the Minister commences—
   (a) on the date or time (after its notification day) provided for in the approval; or
-  (b) if a date or time is not provided for in the approval— 2 months after its notification day.
+  (b) if a date or time is not provided for in the approval—2 months after its notification day.
 (2) This section is subject to any order of the Supreme Court under section 4.12 (2).
 ## 4.12 Challenges to scheme
 (1) A person who is, or is reasonably likely to be, affected by a scheme approved by the Minister, may, at any time before the scheme commences, apply to the Supreme Court for an order that the scheme is void for noncompliance with this schedule.
