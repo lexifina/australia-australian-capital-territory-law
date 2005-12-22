@@ -7,11 +7,12 @@
 · master of the Supreme Court
 · Chief Magistrate
 · magistrate
-## Part 1.2 Other positions
+## U Part 1.2 Other positions
 · assistant executive officer of the legal aid commission
 · auditor-general
 · chief executive
 · chief executive officer of the legal aid commission
+· children and young people commissioner
 · clerk of the Legislative Assembly
 · community advocate
 · director of public prosecutions
