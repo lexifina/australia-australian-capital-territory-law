@@ -1,5 +1,5 @@
-# U Schedule 1 Prescribed terms
-(see s 3 (1))
+# Schedule 1 Standard residential tenancy terms
+(see s 8)
 Lessor and tenant must comply with terms of tenancy agreement
   1 (1) This tenancy agreement is made under the Residential Tenancies Act 1997 (the Residential Tenancies Act).
   (2) The lessor and the tenant may agree to add additional clauses to the tenancy agreement but they must not be inconsistent with, or modify, existing clauses (except if permitted by the Act).
@@ -38,14 +38,14 @@ If the lessor and tenant agree that the tenant is to lodge the bond
   20 If the lessor is to lodge the bond, the following applies:
     (a) on receiving the bond, the lessor must give the tenant a receipt for the bond;
     (b) the lessor must complete and sign the bond lodgment form and the tenant must do the same;
-    (c) the lessor must lodge the bond and bond lodgment form with the Office of Rental Bonds within 10 days of receiving the bond, or the commencement of the tenancy, whichever date is the later. If the lessor has a real estate agent, the agent has 30 days to lodge the bond;
+    (c) the lessor must lodge the bond and bond lodgment form with the Office of Rental Bonds within 2 weeks of receiving the bond, or the commencement of the tenancy, whichever date is the later. If the lessor has a real estate agent, the agent has 4 weeks to lodge the bond;
     (d) the lessor must lodge the bond whether or not the tenant completes the bond lodgment form.
 ## Condition Report
-  21 (1) Within 1 day of the tenant taking possession of the premises, the lessor must give 3 copies of a condition report completed by the lessor to the tenant.
+  21 (1) Within 1 day of the tenant taking possession of the premises, the lessor must give 2 copies of a condition report completed by the lessor to the tenant.
   (2) The condition report must be on, or to the effect of, the condition report form published by the Territory.
   22 (1) The tenant must examine the report and indicate on the report the tenant’s agreement or disagreement with the items.
-  (2) The tenant must return to the lessor 2 copies of the report as completed by the tenant within 7 days of receiving it.
-  23 The lessor must keep a record of receipt and lodgment of the condition report.
+  (2) Within 2 weeks after the day the tenant receives the report, the tenant must return 1 copy of the report to the lessor, signed by the tenant and indicating the tenant’s agreement or disagreement with the report or parts of the report.
+  23 The lessor must keep the condition report for a period of not less than 1 year after the end of the tenancy.
 Rent and other charges
 ## Rent and bond only as payment for the tenancy
   24 The lessor must not require any payment other than rent or bond for the following:
@@ -59,19 +59,20 @@ Rent and other charges
   26 (1) The tenant must pay the rent on time.
   (2) The tenant must not use the bond money to pay the rent for the last week’s of the tenancy.
   (3) The tenant and the lessor may agree to change the way rent is paid (including, for example, where the rent is paid or whether it is to be paid into a nominated bank account or whether it is to be paid in person).
+  (4) The tenant and lessor may agree that rent is to be paid electronically.
   27 The lessor must not require the tenant to pay rent by postdated cheque.
 ## Maximum rent in advance
   28 The lessor must not require an amount of rent paid in advance greater than 1 calendar month.
 ## Rent receipts
   29 If rent is paid in person to the lessor or a real estate agent, a receipt must be given at that time.
-  30 In other circumstances where rent is paid to the lessor, a receipt must be provided or sent by post within 7 days of its receipt.
+  30 In other circumstances where rent is paid to the lessor, a receipt must be provided or sent by post within 1 week of its receipt.
   31 (1) A receipt for payment of rent must specify the amount paid.
   (2) A receipt should specify the following:
     (a) the date of payment;
     (b) the period in relation to which the payment is made;
     (c) the premises in relation to which the payment is made;
     (d) whether the payment is for bond or rent.
-  (3) If these particulars are not included in the receipt, the lessor must provide this information to the tenant within 28 days of a request by the tenant.
+  (3) If these particulars are not included in the receipt, the lessor must provide this information to the tenant within 4 weeks of a request by the tenant.
   32 A receipt is not required if the rent is paid by the tenant directly into an account nominated by the lessor or real estate agent.
 ## Rent records
   33 (1) The lessor must keep, or cause to be kept, records of the payment of rent.
@@ -99,7 +100,7 @@ Rent and other charges
     (c) services for which there is not a separate metering device so that amounts consumed during the period of the tenancy cannot be accurately decided;
     (d) all services up to the time of measurement or reading at the beginning of the tenancy;
     (e) all services after reading or measurement at the end of the tenancy providing the tenant has not made any use of the service after the reading.
-  43 (1) The lessor must pay for any physical installation of services (eg water, electricity, gas).
+  43 (1) The lessor must pay for any physical installation of services (eg water, electricity, gas, telephone line).
   (2) The tenant is responsible for the connection of all services that will be supplied in the tenant’s name.
   44 The lessor must pay the annual supply charge associated with the supply of water or sewerage.
   45 If the premises are a unit under the Unit Titles Act 2001, the lessor is responsible for all owners corporation charges.
@@ -118,17 +119,19 @@ Rent and other charges
   53 Unless otherwise agreed in writing, the tenant has exclusive possession of the premises, as described in the agreement, from the date of commencement of the tenancy agreement provided for in the agreement.
 Lessor to make repairs
 Lessor to provide premises in a reasonable state at the start of the tenancy
-  54 (1) The lessor must provide the premises, including furniture, fittings and appliances (unless excluded in writing in the tenancy agreement):
+  54 (1) At the start of the tenancy, the lessor must ensure that the premises, including furniture, fittings and appliances (unless excluded from the tenancy agreement), are—
     (a) fit for habitation; and
-    (b) in a reasonable state of repair; and
-    (c) in a reasonable state of cleanliness; and
-    (d) in a reasonably secure condition.
-  (2) The lessor or the tenant may change locks (at his or her own cost unless otherwise agreed) with the agreement of the other party (which will not be unreasonably withheld).
-  (3) The lessor or the tenant may change locks (at his or her own cost) in an emergency without the agreement of the other party.
-  (4) If a lock is changed, a copy of the key to the changed lock must be provided to the other party as soon as possible.
+    (b) reasonably clean; and
+    (c) in a reasonable state of repair; and
+    (d) reasonably secure.
+  (2) An exclusion must be in writing and may, but need not, be included in the tenancy agreement (if in writing).
+  (3) The lessor or the tenant may change locks (at his or her own cost unless otherwise agreed) with the agreement of the other party (which will not be unreasonably withheld).
+  (4) The lessor or the tenant may change locks (at his or her own cost) in an emergency without the agreement of the other party.
+  (5) If a lock is changed, a copy of the key to the changed lock must be provided to the other party as soon as possible.
 ## Lessor to make repairs
   55 (1) The lessor must maintain the premises in a reasonable state of repair having regard to their condition at the commencement of the tenancy agreement.
   (2) The tenant must notify the lessor of any need for repairs.
+  (3) This section does not require the tenant to notify the lessor about anything that an ordinary tenant would reasonably be expected to do, for example, changing a light globe or a fuse.
   56 The lessor is not obliged to repair damage caused by the negligence or wilful act of the tenant.
   57 Subject to clause 55, the lessor must make repairs, other than urgent repairs, within 4 weeks of being notified of the need for the repairs (unless otherwise agreed).
 ## Repairs in unit title premises
@@ -167,7 +170,7 @@ The tenant must take reasonable care of the premises and keep the premises reaso
     (b) in substantially the same condition as the premises were in at the commencement of the tenancy agreement, fair wear and tear excepted.
   65 The lessor must not require the tenant to make alterations, improvements or renovations to the premises.
 ## Tenant of unit to observe articles
-  66 If the premises are a unit under the Unit Titles Act 2001, the tenant must comply with the articles of the owners corporation, and with any notice served in accordance with the articles, to the extent that they are not inconsistent with the prescribed terms in this agreement.
+  66 If the premises are a unit under the Unit Titles Act 2001, the tenant must comply with the articles of the owners corporation, and with any notice served in accordance with the articles, to the extent that they are not inconsistent with the standard residential tenancy terms in this agreement.
 Tenant must make no alterations and must not add any fixtures or fittings without the consent of lessor
   67 The tenant must not make any additions or alterations to the premises without the written consent of the lessor.
   68 (1) The tenant must not add any fixtures or fittings to the premises without the consent of the lessor.
@@ -180,7 +183,7 @@ Tenant must not use the premises for illegal purposes and must not disturb the n
     (a) use the premises, or permit them to be used, for an illegal purpose to the detriment of the lessor’s interest in the premises; or
     (b) cause or permit nuisance; or
     (c) interfere, or permit interference, with the quiet enjoyment of the occupiers of nearby premises.
-  71 The tenant must not leave the premises vacant for more than 21 days without notifying the lessor.
+  71 The tenant must not leave the premises vacant for more than 3 weeks without notifying the lessor.
 Tenant must not sell, dispose of, or sublet tenancy without consent of lessor
   72 (1) The tenant must not assign or sublet the premises or any part of them without the written consent of the lessor.
   (2) Consent may be given at any time.
@@ -211,16 +214,16 @@ Access in accordance with tenancy agreement
   78 In addition to the inspections provided for in the previous clause, the lessor may make an inspection of the premises—
     (a) within 1 month of the commencement of the tenancy; and
     (b) in the last month of the tenancy.
-  79 (1) The lessor must give the tenant 7 days written notice of an inspection.
+  79 (1) The lessor must give the tenant 1 week written notice of an inspection.
   (2) The inspection must take place at a time agreed between the parties with reasonable regard to the work and other commitments both of the tenant and of the lessor (or their agents).
   (3) If the parties are unable to agree on an appropriate time, the lessor or the tenant may apply to the tribunal for an order permitting access at a specified time.
 ## Access for purchasers and new tenants
-  80 The tenant must permit reasonable access to the premises during the period of 21 days before the end of the tenancy, on the lessor giving 24 hours notice, to allow inspection of the premises by prospective tenants.
+  80 The tenant must permit reasonable access to the premises during the period of 3 weeks before the end of the tenancy, on the lessor giving 24 hours notice, to allow inspection of the premises by prospective tenants.
   81 The tenant must permit reasonable access to the premises, on the lessor giving 24 hours notice, to allow inspection of the premises by prospective purchasers of the premises provided:
     (a) the lessor intends to sell the premises; and
     (b) the lessor has previously notified the tenant in writing of the lessor’s intention to sell.
 ## Access for making or inspecting repairs
-  82 (1) On giving the tenant 7 days notice (or such other agreed period), the lessor may enter the premises at a reasonable time, having regard to the interests of the tenant and the lessor, for the purpose of making or inspecting repairs.
+  82 (1) On giving the tenant 1 week notice (or such other agreed period), the lessor may enter the premises at a reasonable time, having regard to the interests of the tenant and the lessor, for the purpose of making or inspecting repairs.
   (2) For urgent repairs, the lessor must, give reasonable notice and enter the premises at a reasonable time having regard to the interests of the tenant and the lessor.
 ## Notice to vacate by lessor
   83 The notice to vacate must be in writing, in the form required by the Residential Tenancies Act, and must include the following information:
@@ -251,29 +254,29 @@ Termination of tenancy by tenant
     (a) apply to the tribunal for an order terminating the tenancy; or
     (b) give the lessor written notice of intention to terminate the tenancy, in accordance with clause 91.
   91 If the tenant decides to proceed by way of notice to the lessor, the following procedures apply:
-    (a) the tenant must give the lessor a written notice that the lessor has 14 days to remedy the breach if the breach is capable of remedy;
+    (a) the tenant must give the lessor a written notice that the lessor has 2 weeks to remedy the breach if the breach is capable of remedy;
     (b) if the lessor remedies the breach within that 14-day period—the tenancy continues;
-    (c) if the lessor does not remedy the breach within the time specified in the notice, or if the breach is not capable of remedy—the tenant must give 14 days notice of intention to vacate;
+    (c) if the lessor does not remedy the breach within the time specified in the notice, or if the breach is not capable of remedy—the tenant must give 2 weeks notice of intention to vacate;
     (d) the tenancy agreement terminates on the date specified by the tenant;
     (e) rent is payable to the date specified in the notice or to the date that the tenant vacates the premises, whichever is the later;
     (f) if the lessor remedies the breach during the period of the notice of intention to vacate—the tenant, at the tenant’s option, may withdraw the notice or may terminate the tenancy agreement on the date specified in the notice by vacating the premises on that date.
 Termination of tenancy by lessor
 ## Termination for failure to pay rent
   92 The tribunal may order the termination of the tenancy and eviction of the tenant on the ground of nonpayment of rent in the following circumstances:
-    (a) rent has been unpaid for 7 days. The first day of this period concludes at midnight on the day when the unpaid rent was due;
+    (a) rent has been unpaid for 1 week. The first day of this period concludes at midnight on the day when the unpaid rent was due;
     (b) the lessor has served a notice to remedy on the tenant for the failure to pay the rent, being a notice—
-      (i) served not earlier than 8 days after the day when the rent was due; and
+      (i) served not earlier than 1 week after the day when the rent was due; and
       (ii) containing a statement that if the tenant pays the rent outstanding to the date of payment within 7 days of the date of service of the notice to remedy, no further action must be taken and the tenancy continues;
-    (c) if all rent is not paid within 7 days of the date of service of the notice to remedy—the lessor may then serve a notice to vacate on the tenant requiring the tenant to vacate the premises within 14 days of service of the notice to vacate;
+    (c) if all rent is not paid within 1 week of the date of service of the notice to remedy—the lessor may then serve a notice to vacate on the tenant requiring the tenant to vacate the premises within 2 weeks of service of the notice to vacate;
     (d) no earlier than the date when the notice to vacate is served, the lessor may apply to the tribunal for an order terminating the tenancy and evicting the tenant;
     (e) the tribunal hearing of the application to terminate and evict must not be earlier than the end of the period specified in the notice to vacate;
-    (f) during any tenancy in which the lessor has previously issued 2 notices to remedy, the lessor may serve a notice to vacate 8 days after the day when the rent has fallen due without serving a notice to remedy.
+    (f) during any tenancy in which the lessor has previously issued 2 notices to remedy, the lessor may serve a notice to vacate 1 week after the day when the rent has fallen due without serving a notice to remedy.
 Termination of tenancy for breach other than nonpayment of rent
   93 The tribunal may order the termination of the tenancy and eviction of the tenant on the ground of breach of the tenancy agreement in the following circumstances:
-    (a) the lessor must serve a written notice requiring the tenant within 14 days after the day of service to remedy the breach if it is capable of remedy;
-    (b) if the breach is not remedied within 14 days after the day of service or if the breach is not capable of remedy—the lessor must give a notice to vacate the premises within 14 days after the date of service of the notice to vacate;
-    (c) if the tenant does not vacate the premises within the period of 14 days after the date of service of a notice to vacate—the lessor may apply to the tribunal for an order terminating the tenancy and for the eviction of the tenant;
-    (d) if the tenant breaches the terms of the tenancy on 3 occasions on any ground—on the 3rd occasion the lessor may serve a notice to vacate and need not give the tenant 14 days to remedy the breach.
+    (a) the lessor must serve a written notice requiring the tenant within 2 weeks after the day of service to remedy the breach if it is capable of remedy;
+    (b) if the breach is not remedied within 2 weeks after the day of service or if the breach is not capable of remedy—the lessor must give a notice to vacate the premises within 2 weeks after the date of service of the notice to vacate;
+    (c) if the tenant does not vacate the premises within the period of 2 weeks after the date of service of a notice to vacate—the lessor may apply to the tribunal for an order terminating the tenancy and for the eviction of the tenant;
+    (d) if the tenant breaches the terms of the tenancy on 3 occasions on any ground—on the 3rd occasion the lessor may serve a notice to vacate and need not give the tenant 2 weeks to remedy the breach.
 ## Termination of tenancy without cause
   94 The lessor may serve a notice to vacate during the term of a tenancy requiring the tenant to vacate the premises at the end of the notice provided that—
     (a) the notice is for 26 weeks; and
@@ -282,16 +285,18 @@ Termination of tenancy for breach other than nonpayment of rent
   (2) In this case, the tenancy terminates on the date that the tenant vacates the premises.
 ## Termination of periodic tenancy
   96 (1) If there is a periodic tenancy, the lessor may serve on the tenant a notice to vacate for the following periods on the following grounds:
-    (a) notice of 4 weeks if a lessor or a lessor’s immediate relative intends to reside in the premises;
-    (b) notice of 4 weeks if a person other than an immediate relative who has a close family or personal relationship with the lessor and who has a reasonable expectation arising out of that relationship that the lessor would provide accommodation for that person intends to reside in the premises;
-    (c) notice of 8 weeks if the lessor has a genuine intention to sell the premises;
-    (d) notice of 12 weeks if lessor has a genuine intention to reconstruct, renovate or make major repairs to the premises which activities cannot reasonably be carried out with the tenant in residence.
+    (a) 4 weeks notice if the lessor genuinely intends to live in the premises;
+    (b) 4 weeks notice if the lessor genuinely believes the lessor’s immediate relative intends to live in the premises;
+    (c) 4 weeks notice if the lessor genuinely believes an interested person intends to live in the premises;
+    (d) 8 weeks notice if the lessor genuinely intends to sell the premises;
+    (e) 12 weeks notice if the lessor genuinely intends to reconstruct, renovate or make major repairs to the premises and the reconstruction, renovation or repairs cannot reasonably be carried out with the tenant living in the premises.
   (2) In this clause:
   immediate relative means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
+  interested person, for a lessor, means a person who is not an immediate relative of the lessor but who has a close family or personal relationship with the lessor and who has a reasonable expectation arising from that relationship that the lessor would provide accommodation for that person.
   97 (1) If a tenant is required to vacate the premises in accordance with clause 96, the tenant may vacate the premises at any time during the 2 weeks before the date specified in the notice to vacate provided the tenant gives the lessor 4 days notice of intention to vacate.
   (2) In this case, the tenancy terminates on the date that the tenant vacates the premises.
 ## Notices of address for service
   98 (1) At the commencement of the tenancy, the lessor and the tenant must each give an address for service of notices.
-  (2) If the address changes during the tenancy, the lessor or tenant must advise the other party of the new address for service within 14 days of the change.
+  (2) If the address changes during the tenancy, the lessor or tenant must advise the other party of the new address for service within 2 weeks of the change.
   99 On vacating the premises, the tenant must advise the lessor of a forwarding address.
   100 If 2 or more people share a tenancy, except where this agreement otherwise provides, they do so as joint tenants.
