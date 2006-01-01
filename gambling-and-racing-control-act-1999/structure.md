@@ -1,7 +1,7 @@
 ## Part 1 Preliminary
 ## Part 2 The commission
-### Division 2.1 Establishment, functions and powers of commission
-### Division 2.2 Constitution of commission
+### Division 2.1 Establishment and functions of commission
+### Division 2.2 Governing board
 ## Part 3 Role of commission in dealing with social effects of gambling
 ### Division 3.1 Monitoring and research
 ### Division 3.2 Dealing with social effects of gambling
