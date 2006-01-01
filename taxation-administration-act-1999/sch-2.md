@@ -1,9 +1,9 @@
 # Schedule 2 Decisions reviewable by commissioner only
 (see s 100)
-## 1 Objections
-A person dissatisfied with a decision listed in clause 2 may lodge an objection under section 100.
-## 2 Kinds of decision subject to objection
-Clause 1 applies to a decision—
+## 2.1 Objections
+A person dissatisfied with a decision listed in section 2.2 may lodge an objection under section 100.
+## 2.2 Kinds of decision subject to objection
+Section 2.1 applies to a decision—
   (a) under section 29 refusing to remit interest in accordance with the taxpayer’s application; or
   (b) under section 40 (3), refusing to vary the time for lodging a return in accordance with the taxpayer’s application; or
   (c) under section 40 (3), refusing to vary the period to which a return relates in accordance with the taxpayer’s application; or

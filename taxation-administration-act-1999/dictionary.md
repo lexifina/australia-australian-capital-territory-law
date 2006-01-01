@@ -22,13 +22,13 @@ authorised officer means an authorised officer under section 79.
 business means—
   (a) a profession or trade; or
   (b) any other activity carried on for fee or reward; or
-  (c) the activity of employing persons to perform duties in connection with another business; or
+  (c) the activity of employing people to perform duties in connection with another business; or
   (d) the carrying on of a trust;
-whether carried on by 1 person or 2 or more persons together.
-commissioner means the Commissioner for Australian Capital Territory Revenue referred to in section 73.
+whether carried on by 1 person or 2 or more people together.
+commissioner means the Commissioner for Australian Capital Territory Revenue mentioned in section 73.
 corporation—see the Corporations Act, section 57A.
 director, in relation to a body corporate, includes a person occupying or acting in a position with responsibility for the direction of the body, by whatever name called and whether or not validly appointed to occupy, or duly authorised to act in, the position.
-Note Document is defined in the Legislation Act 2001, dict, pt 1, and includes information in electronic form.
+Note Document is defined in the Legislation Act, dict, pt 1, and includes information in electronic form.
 group—see section 112.
 identity card means—
   (a) an identity card issued under section 80 (1); or

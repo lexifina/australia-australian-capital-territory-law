@@ -1,11 +1,11 @@
 # Schedule 1 Decisions reviewable by commissioner and tribunal
-(see ss 100, 107 and 126)
-## 1 Objections and appeals
-A person dissatisfied with a decision listed in clause 2 may—
+(see s 100, s 107 and s 126)
+## 1.1 Objections and appeals
+A person dissatisfied with a decision listed in section 1.2 may—
   (a) lodge an objection under section 100; and
   (b) if dissatisfied with the determination of the objection—apply to the tribunal under section 107.
-## 2 Kinds of decision subject to objection or appeal
-Clause 1 applies to a decision—
+## 1.2 Kinds of decision subject to objection or appeal
+Section 1.1 applies to a decision—
   (a) under section 8 determining the existence and effect of a tax avoidance scheme; or
   (b) under section 31 (6) to impose penalty tax; or
   (c) under section 31 (5) to impose increased penalty tax; or
