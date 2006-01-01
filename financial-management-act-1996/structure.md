@@ -9,5 +9,12 @@
 ## Part 5 Banking and investment
 ## Part 6 Borrowing and guarantees
 ## Part 7 Trust money
+## Part 8 Financial provisions for territory authorities
+## Part 9 Governance of territory authorities
+### Division 9.1 Definitions and important concepts
+### Division 9.2 Governing board member appointments
+### Division 9.3 Functions of governing board members
+### Division 9.4 Governing board meetings
+### Division 9.5 Requirements and obligations for territory authorities
 ## Part 10 Miscellaneous
 ## Part 11 Transitional
