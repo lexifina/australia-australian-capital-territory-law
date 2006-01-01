@@ -155,54 +155,38 @@ Note The Legislation Act, s 170 and s 171 deal with the application of the privi
 (2) The council may hold the whole or any part of an inquiry in private if, in the opinion of the council, it is necessary or desirable in the public interest to do so.
 (3) If proceedings are held in private, the council may inform itself on any matter in the way it thinks fit.
 (4) If proceedings are held in public—
-  (a) evidence in the proceedings must, subject to this subsection, be taken on oath or affirmation; and
-  (b) the council may, if it thinks fit, permit a person appearing as a witness to give evidence by tendering, and verifying by oath or affirmation, a written statement; and
+  (a) evidence in the proceedings must, subject to this subsection, be taken on oath; and
+  (b) the council may, if it thinks fit, permit a person appearing as a witness to give evidence by tendering, and verifying by oath, a written statement; and
   (c) if the council considers that the attendance of a person as a witness would cause serious hardship to the person, the council may permit the person to give evidence by sending to the council a written statement, verified in the way the council directs; and
   (d) if evidence is given by a written statement in accordance with paragraph (b) or (c), the council shall make available to the public in the way the council thinks fit the contents of the statement, other than any matter as to which the council is satisfied that its publication would be contrary to the public interest because of its confidential nature or any other reason.
 (5) Subject to this section—
   (a) the procedure to be followed at an inquiry is within the discretion of the council; and
   (b) the council is not bound by the rules of evidence.
-## 88F Power to summon witnesses
-The council may, in writing, summon a person to appear before the council at a time and place specified in the summons to give evidence and produce the documents (if any) referred to in the summons.
-## 88G Failure of witness to attend
-A person served with a summons under section 88F shall not, without reasonable excuse—
-  (a) fail to attend as required by the summons; or
-  (b) fail to appear and report from day to day unless excused, or released from further attendance, by the council.
-Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
-## 88H Power to administer oath or affirmation
-The council may cause an oath or affirmation to be administered to a person appearing as a witness.
-## 88J Refusal to be sworn or to answer questions
-(1) A person appearing as a witness shall not, without reasonable excuse—
-  (a) refuse or fail to comply with a requirement by the council to be sworn or to make an affirmation; or
-  (b) refuse or fail to answer a question that he or she is required to answer by the council; or
-  (c) refuse or fail to produce a document that he or she was required to produce by a summons served on him or her.
-Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
-(2) The fact that answering a question or producing a document under a requirement under subsection (1) (b) or (c), as the case may be, may tend to incriminate the person who is subject to such a requirement shall be taken to be a reasonable excuse on the part of that person for subsection (1).
+## 88F Powers in relation to witnesses etc
+(1) The council, or a person authorised in writing by the council, may, by written notice given to a person, require the person to appear before the council at an inquiry, at a stated time and place, to do either or both of the following:
+  (a) to give evidence;
+  (b) to produce a stated document or other thing relevant to the inquiry.
+(2) The council may require a witness appearing before the council to give evidence for an inquiry to do 1 or more of the following:
+  (a) to take an oath;
+  (b) to answer a question relevant to the inquiry;
+  (c) to produce a stated document or other thing relevant to the inquiry.
+Note 1 Oath includes affirmation and take an oath includes make an affirmation (see Legislation Act, dict, pt 1).
+Note 2 The Legislation Act, s 170 and s 171 deal with the application of the privilege against selfincrimination and client legal privilege.
+(3) The council may administer, or authorise a person to administer, an oath to a witness appearing before the council.
 ## 88K Protection of members and witnesses
 (1) A member of the council has, in the exercise of functions as a member in relation to an inquiry, the same protection and immunity as a judge of the Supreme Court.
 (2) Subject to this Act, a person appearing as a witness has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, as a witness in proceedings in the Supreme Court.
-## 88L Contempt
-A person shall not—
-  (a) insult or disturb a member of the council in the exercise of his or her functions as a member of the council; or
-  (b) interrupt an inquiry; or
-  (c) use insulting language towards a member of the council; or
-  (d) create a disturbance, or take part in creating or continuing a disturbance, in a place where the council is holding an inquiry; or
-  (e) do any other act or thing that would, if the council were a court of record, constitute a contempt of that court.
-Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
+## 88L Contempt of council
+A person commits an offence if the person does something in the face, or within the hearing, of the council that would be contempt of court if the council were a court of record.
+Maximum penalty: 100 penalty units, imprisonment for 1 year or both.
+## 88LA Application of Criminal Code, ch 7
+An inquiry by the council is a legal proceeding for the Criminal Code, chapter 7 (Administration of justice offences).
+Note That chapter includes offences (eg perjury, falsifying evidence, failing to attend and refusing to be sworn) applying in relation to inquiries by the council.
 ## 88M Powers in relation to documents produced
 (1) A member of the council may inspect any books or documents given to the council for the purposes of the exercise of its functions under this Act or produced at an inquiry and may make copies of, or take extracts from, those books or documents.
 (2) A book or document so given may be retained by the council for the reasonable period necessary for the purposes of the council, but during that period the council shall permit a person otherwise entitled to possession of the book or document to inspect, make copies of, and take extracts from, the book or document at the places and times the council thinks appropriate.
 ## 88N Allowances to witnesses
-A person served with a summons under section 88F is entitled to be paid by the Territory the allowances for travelling and other expenses that are prescribed.
-## 88P Witness not to be prejudiced in employment
-An employer shall not—
-  (a) dismiss, or threaten to dismiss, an employee from his or her employment; or
-  (b) injure, or threaten to injure, an employee in his or her employment; or
-  (c) prejudice, or threaten to prejudice, an employee in his or her employment;
-because the employee—
-  (d) has appeared, or proposes to appear, as a witness at an inquiry; or
-  (e) has given, or proposes to give, any evidence at an inquiry.
-Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
+A person served with a notice under section 88F is entitled to be paid by the Territory the allowances for travelling and other expenses that are prescribed.
 ## 88Q Report to be given to Minister in certain circumstances
 (1) If, under section 88C (4), the council has made a request to an employer for particulars of any action proposed to be taken as a result of conclusions or recommendations contained in a report under section 88C or taken or proposed to be taken in relation to an improvement or prohibition notice and—
   (a) the employer fails, without reasonable excuse, to provide the particulars within the period specified in the request; or
