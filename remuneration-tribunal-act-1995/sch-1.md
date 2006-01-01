@@ -8,6 +8,8 @@
 · Chief Magistrate
 · magistrate
 ## U Part 1.2 Other positions
+· a member (including the chief executive officer) of the governing board of a territory authority, other than a member employed under the Public Sector Management Act 1994
+Note For territory authorities with governing boards, see the Financial Management Act 1996, pt 9, note 1.
 · assistant executive officer of the legal aid commission
 · auditor-general
 · chief executive
