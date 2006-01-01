@@ -1,74 +1,47 @@
-# Schedule 1 Commission appointments and working arrangements
-(see s 6 (2))
-## 1 Standing commissioners
-(1) The Executive must (by instrument) appoint 3 commissioners (standing commissioners), 1 of whom is nominated in the instrument as the senior commissioner, and 2 of whom are nominated in the instrument as assistant commissioners.
-(2) A standing commissioner holds office (subject to this Act) for a term of up to 5 years, specified in the instrument of appointment, and is eligible for reappointment.
-(3) If the senior commissioner ceases to hold office or is suspended from office (under clause 4 or 5), the Minister must (by instrument) nominate another standing commissioner as senior commissioner.
-(4) If a suspended senior commissioner resumes office as a commissioner, he or she also resumes office in the capacity of senior commissioner (and the nominated replacement ceases to hold office in that capacity).
-## 1A Associate commissioners
-(1) The Executive may appoint 1 or more commissioners (associate commissioners) for a particular investigation, in consideration of advice received from the commission about the need for such an appointment (or appointments).
-(2) An associate commissioner holds office (subject to this Act) until the conclusion of the investigation for which he or she is appointed.
-## 1B Qualifications
-The Executive may only appoint as commissioner a person who has knowledge or experience in 1 or more of the following fields:
-  (a) commerce;
-  (b) economics;
-  (c) industry;
-  (d) law;
-  (e) public administration.
-## 1C Terms of office
-(1) A commissioner is appointed on terms (not inconsistent with this Act) decided by the Executive.
-(2) A commissioner may be appointed on a full-time or part-time basis.
-(3) A full-time commissioner may engage in paid employment outside the functions of the office only with the earlier written approval of the Minister.
-## 1D Appointment defects and vacancies
-An act or decision of the commission is not invalid merely because of a defect or irregularity in (or in connection with) the appointment of the commissioner, or a vacancy in an office of commissioner.
-## 1E Arrangement of business
-(1) The senior commissioner—
-  (a) is responsible for ensuring the orderly and expeditious discharge of the functions of the commission; and
-  (b) presides over those investigations that he or she sits on.
-(2) The senior commissioner may give directions for any of the following:
-  (a) the arrangement of business;
-  (b) the commissioner or commissioners who will constitute the commission for particular purposes;
-  (c) the procedure of the commission generally.
-(3) If the senior commissioner does not sit on an investigation, or ceases to sit on an investigation, the senior commissioner must—
-  (a) nominate a commissioner to preside over the investigation; and
-  (b) if a nominated presiding commissioner later ceases to sit on the investigation—nominate another commissioner to preside over the investigation.
-(4) If a commissioner sitting on an investigation is directed to cease doing so (under clause 2), ceases to hold office (under clause 4 or 5), or is suspended from office (under clause 5), the senior commissioner may—
-  (a) direct that the investigation continue under the remaining commissioners constituting the commission for the investigation; or
-  (b) direct that the investigation continue with another commissioner replacing the commissioner who has ceased to hold office, or been suspended from office; or
-  (c) dissolve the commission (as constituted for the investigation), reconstitute the commission for the investigation under the same or different commissioners, and direct that the investigation be started again under the reconstituted commission; or
-  (d) if a commissioner sitting on the investigation is suspended from office—direct that the investigation is suspended, or issue another direction under this subclause.
-## 1F Exercise of powers
-The commission’s powers may be exercised for particular purposes by—
-  (a) the senior commissioner, or a person authorised by the senior commissioner for those purposes; or
-  (b) if a direction has been given under clause 1E (2) (b)—by the commissioner or commissioners who constitute the commission for those purposes.
-## 1G Decision-making
-When the commission is constituted by more than 1 person, a decision of the commission must be made—
-  (a) in accordance with the unanimous or majority opinion of the commissioners constituting the commission; or
-  (b) if the commissioners are equally divided in opinion—in accordance with the opinion of the presiding commissioner (see clause 1E (1) and (3)).
-## 2 Disclosure of interests
-(1) Before a commissioner performs a function, he or she must give written notice to the Minister of any direct or indirect pecuniary interests that he or she has in relation to the performance of that function.
-(2) On receiving notice of a commissioner’s interests, the Minister may, by written notice—
-  (a) direct the senior commissioner to give notice of the interests to any person whose interests are significantly affected by the performance of the function; or
-  (b) direct the commissioner to cease performing the function.
-(3) A commissioner must comply with a direction of the Minister under subsection (2).
-## 3 Remuneration and allowances
-A commissioner is entitled to such remuneration, allowances and other entitlements—
-  (a) as are determined by the remuneration tribunal in respect of the commissioner; or
-  (b) if there is no such determination—as are determined by the Chief Minister in respect of the commissioner by an interim determination under the Remuneration Tribunal Act 1995.
-## 4 Resignation
-A commissioner may resign by giving a signed notice of resignation to the Minister.
-## 5 Removal from office
-(1) The Executive may, by written notice to a commissioner, suspend the commissioner from office for mental or physical incapacity or incompetence.
-(2) A notice of suspension shall include a full statement of the grounds for suspension.
-(3) A notice of suspension shall be tabled in the Legislative Assembly within 7 sitting days after it is given to the commissioner.
-(4) The Executive shall remove the commissioner from office if, within 15 sitting days after the notice of suspension was tabled in the Legislative Assembly, the Assembly by resolution declares that the commissioner ought to be removed from office.
-(5) The commissioner shall resume office if, after 15 sitting days have elapsed since the notice of suspension was tabled in the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the commissioner ought to be removed from office.
-(6) A commissioner ceases to hold office if he or she becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of creditors.
-## 6 Acting commissioner
-(1) The Executive may, in writing, appoint a person to act as a commissioner—
-  (a) during a vacancy in the commissioner’s office, whether or not an appointment has previously been made to the office; or
-  (b) during any period, or during all periods, when the person appointed as that commissioner is for any reason unable to perform the functions of the office.
-(2) A person appointed to act as a commissioner during a vacancy in a commissioner’s office shall not so act continuously for more than 12 months.
-(3) Anything done by or in relation to a person purporting to act pursuant to an appointment under subclause (1) is not invalid on the ground that—
-  (a) the appointment was ineffective or had ceased to have effect; or
-  (b) the occasion to act had not arisen or had ceased.
+# Schedule 1 Competition principles agreement extracts
+(see s 19C, s 19D and s 19J)
+Competition policy considerations
+Interpretation
+[competition principles agreement cl 1 (3) (d)-(j)]
+1
+...
+(3)
+...
+(d) government legislation and policies relating to ecologically sustainable development;
+(e) social welfare and equity considerations, including community service obligations;
+(f) government legislation and policies relating to matters such as occupational health and safety, industrial relations and access and equity;
+(g) economic and regional development, including employment and investment growth;
+(h) the interests of consumers generally or of a class of consumers;
+(i) the competitiveness of Australian businesses;
+(j) the efficient allocation of resources.
+Competitive neutrality principles
+Competitive neutrality policy and principles
+[competition principles agreement cl 3 (1) & (4)-(7)]
+3 (1) The objective of competitive neutrality policy is the elimination of resource allocation distortions arising out of the public ownership of entities engaged in significant business activities: Government businesses should not enjoy any net competitive advantage simply as a result of their public sector ownership. These principles only apply to the business activities of publicly owned entities, not to the non-business, non-profit activities of these entities.
+(4) Subject to subclause (6), for significant Government business enterprises which are classified as “Public Trading Enterprises” and “Public Financial Enterprises” under the Government Financial Statistics Classification:
+(a) the Parties† will, where appropriate, adopt a corporatisation model for these Government business enterprises (noting that a possible approach to corporatisation is the model developed by the intergovernmental committee responsible for GTE National Performance Monitoring); and
+(b) the Parties† will impose on the Government business enterprise:
+(i) full Commonwealth, State and Territory taxes or tax equivalent systems;
+(ii) debt guarantee fees directed towards offsetting the competitive advantages provided by government guarantees; and
+(iii) those regulations to which private sector businesses are normally subject, such as those relating to the protection of the environment, and planning and approval processes, on an equivalent basis to private sector competitors.
+(5) Subject to subclause (6), where an agency (other than an agency covered by subclause (4)) undertakes significant business activities as part of a broader range of functions, the Parties† will, in respect of the business activities:
+(a) where appropriate, implement the principles outlined in subclause (4); or
+(b) ensure that the prices charged for goods and services will take account, where appropriate, of the items listed in subclause (4) (b), and reflect full cost attribution for these activities.
+(6) Subclauses (4) and (5) only require the Parties† to implement the principles specified in those subclauses to the extent that the benefits to be realised from implementation outweigh the costs.
+(7) Subclause (4) (b) (iii) shall not be interpreted to require the removal of regulation which applies to a Government business enterprise or agency (but which does not apply to the private sector) where the Party† responsible for the regulation considers the regulation to be appropriate.
+...
+Note [not included in the agreement]:
+† Party is defined in the agreement (cl 1 (1)) to mean the Commonwealth, a State, the Australian Capital Territory or the Northern Territory of Australia, if the jurisdiction concerned has signed the agreement and has not withdrawn. The Australian Capital Territory has signed the agreement and has not withdrawn from it; thus it is a party.
+Legislation review principles
+Legislation review
+[competition principles agreement cl 5 (1) & (9)]
+5 (1) The guiding principle is that legislation (including Acts, enactments, ordinances or regulations) should not restrict competition unless it can be demonstrated that:
+(a) the benefits of the restriction to the community as a whole outweigh the costs; and
+(b) the objectives of the legislation can only be achieved by restricting competition.
+...
+(9) Without limiting the terms of reference of a review, a review should:
+(a) clarify the objectives of the legislation;
+(b) identify the nature of the restriction on competition;
+(c) analyse the likely effect of the restriction on competition and on the economy generally;
+(d) assess and balance the costs and benefits of the restriction; and
+(e) consider alternative means for achieving the same result including non-legislative approaches.

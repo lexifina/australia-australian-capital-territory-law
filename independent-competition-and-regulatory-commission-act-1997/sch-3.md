@@ -1,36 +1,36 @@
-# Schedule 2A Industry panels constitution and procedure
+# Schedule 3 Industry panels constitution and procedure
 (see s 24M)
-## 1 Appointment of members of industry panels
+## 3.1 Appointment of members of industry panels
 (1) The referring authority must appoint an industry panel of 3 members (1 of whom is declared in the appointment as the president) to hear an application for the review of a price direction.
 (2) The following are not eligible to be members of an industry panel established for the review of a price direction:
   (a) a commissioner;
   (b) a member of the staff of the commission;
   (c) a party to the review.
-(3) A member holds office (subject to this Act) until the conclusion of the review for which he or she is appointed.
+(3) A member holds office (subject to this Act) until the conclusion of the review for which the member is appointed.
 (4) A member is otherwise appointed on terms, not inconsistent with this Act, determined by the referring authority.
-## 2 Qualifications
+## 3.2 Qualifications
 A member of an industry panel must have knowledge or experience in 1 of the following fields:
   (a) commerce;
   (b) economics;
   (c) industry;
   (d) law;
   (e) public administration.
-## 3 Appointment defects and vacancies
-An act or decision of an industry panel is not invalid merely because of a defect or irregularity in the appointment of a member of the panel, or a vacancy in the office of a member.
-## 4 Remuneration and allowances
-A member of a panel is entitled to such remuneration, allowances and other entitlements—
-  (a) as are determined by the remuneration tribunal in respect of the member; or
-  (b) if there is no such determination—as are determined by the Chief Minister in respect of the member by an interim determination under the Remuneration Tribunal Act 1995.
-## 5 Presiding member
+## 3.3 Appointment defects and vacancies
+An act or decision of an industry panel is not invalid only because of a defect or irregularity in the appointment of a member of the panel, or a vacancy in the office of a member.
+## 3.4 Remuneration and allowances
+A member of a panel is entitled to the remuneration, allowances and other entitlements—
+  (a) that are determined by the remuneration tribunal in relation to the member; or
+  (b) if there is no such determination—that are determined by the Chief Minister in relation to the member by an interim determination under the Remuneration Tribunal Act 1995.
+## 3.5 Presiding member
 (1) The president presides over the hearing of an application.
 (2) If the president resigns or is removed from office, the referring authority must declare another member to be the presiding member.
 (3) A declaration must be in writing.
 (4) A copy of a declaration must be given to the other members of the panel and the parties to the review.
-## 6 Decision-making
+## 3.6 Decision-making
 The panel’s decision on a review must be reached as follows:
   (a) if all, or a majority, of the panel are of a particular opinion—the decision is to be made according to that opinion;
   (b) if no 2 members agree—in accordance with the opinion of the president or, if the president has resigned or been removed from office, the presiding member.
-## 7 Disclosure of interests
+## 3.7 Disclosure of interests
 (1) Before a panel begins to hear an application for review, the members of the panel must give written notice to the referring authority of any direct or indirect pecuniary interests that they have in relation to the review.
 (2) On receiving notice of the interests of a member of a panel, the referring authority may—
   (a) give written notice of the interests to the other members and to the parties to the review; or
@@ -39,17 +39,17 @@ The panel’s decision on a review must be reached as follows:
 (4) If a member of a panel is removed from office—
   (a) the review may proceed under the remaining members, if the parties agree; or
   (b) failing agreement—the referring authority must dissolve the panel and constitute a new panel (under this schedule) with the remaining members and a new member.
-## 8 Resignation
+## 3.8 Resignation
 (1) A member of a panel may resign from office by written notice to the referring authority.
-(2) A member of a panel must give written notice of absence to the referring authority if he or she becomes unavailable to consider the application at any stage of the review.
+(2) A member of a panel must give written notice of absence to the referring authority if the member becomes unavailable to consider the application at any stage of the review.
 (3) After a notice of absence is given, the member must resign from the panel if so directed in writing by the referring authority.
 (4) If a member of the panel resigns—
   (a) the review may proceed under the remaining members, if the parties agree; or
   (b) failing agreement, the referring authority must dissolve the panel and constitute a new panel (under this schedule) with the remaining members and a new member.
-## 9 Removal from office
+## 3.9 Removal from office
 (1) The Executive may, by written notice to a member of a panel, suspend the member from office for mental or physical incapacity or incompetence.
 (2) A notice of suspension must include a full statement of the grounds for suspension.
-(3) The notice of suspension must be tabled in the Legislative Assembly within 7 sitting days after it is given to the member.
-(4) The Executive must remove the member from office if, within 15 sitting days after the notice of suspension was tabled in the Legislative Assembly, the Assembly by resolution declares that the member ought to be removed from office.
-(5) The member resumes office if, after 15 sitting days have elapsed since the notice of suspension was tabled in the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the member ought to be removed from office.
-(6) A member of a panel ceases to hold office if he or she becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of creditors.
+(3) The notice of suspension must be presented to the Legislative Assembly within 7 sitting days after it is given to the member.
+(4) The Executive must remove the member from office if, within 15 sitting days after the notice of suspension was presented to the Legislative Assembly, the Assembly by resolution declares that the member ought to be removed from office.
+(5) The member resumes office if, after 15 sitting days have elapsed since the notice of suspension was presented to the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the member ought to be removed from office.
+(6) A member of a panel ceases to hold office if the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of creditors.
