@@ -1,5 +1,5 @@
 # Schedule 1 Designated locations
-(see s 3A)
+(see s 4)
 column 1 item | column 2 designated locations
 1 | Canberra Theatre Centre
 2 | Canberra Museum and Gallery

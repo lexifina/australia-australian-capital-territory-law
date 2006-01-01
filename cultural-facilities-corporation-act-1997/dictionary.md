@@ -10,5 +10,5 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 Civic Square precinct means the land making up blocks 18, 20 and 22, section 19, division of City, Canberra Central district.
 corporation means the Cultural Facilities Corporation.
 cultural activities includes artistic, historical or other cultural entertainments, displays and exhibitions.
-designated location—see section 3A.
-member means a member of the corporation.
+designated location—see section 4.
+governing board means the governing board of the corporation.
