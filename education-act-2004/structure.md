@@ -35,10 +35,3 @@
 # Chapter 6 Miscellaneous
 ## Part 6.1 Review of decisions
 ## Part 6.2 Other provisions
-# Chapter 7 Transitional provisions
-## Part 7.1 Assets and liabilities of former authority
-## Part 7.2 General savings
-### Division 7.2.1 Interpretation
-### Division 7.2.2 Former authority Act
-### Division 7.2.3 Former education Act
-## Part 7.3 Miscellaneous
