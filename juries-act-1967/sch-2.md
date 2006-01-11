@@ -2,7 +2,7 @@
 (see s 11)
 ## Part 2.1 Exempt people
 column 1 item | column 2 exempt people
-1 | a person exempt from serving as a juror under— · the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or · the Navigation Act 1912 (Cwlth), section 147; or · the Air Navigation Regulations 1947 (Cwlth), regulation 150
+1 | a person exempt from serving as a juror under— the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or the Navigation Act 1912 (Cwlth), section 147; or the Air Navigation Regulations 1947 (Cwlth), regulation 150
 2 | a magistrate or coroner
 3 | an employee of the government of a foreign country or of an international organisation
 4 | the official secretary to the Governor-General
