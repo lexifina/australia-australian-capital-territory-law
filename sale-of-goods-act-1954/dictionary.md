@@ -1,6 +1,10 @@
-# 5 Interpretation for Act
-(1) In this Act:
-Note A definition applies except so far as the contrary intention appears (see Legislation Act 2001, s 155).
+# Dictionary
+(see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+• document
+• under
+• writing.
 action includes counterclaim and set-off.
 buyer means a person who buys or agrees to buy goods.
 contract of sale includes an agreement to sell as well as a sale.
@@ -20,8 +24,3 @@ seller means a person who sells or agrees to sell goods.
 sheriff includes any officer charged with the enforcement of a writ of execution.
 specific goods means goods identified and agreed on at the time a contract of sale is made.
 warranty means an agreement with reference to goods that are the subject of a contract of sale, but collateral to the main purpose of the contract, breach of which gives rise to a claim for damages but not to a right to reject the goods and treat the contract as repudiated.
-(2) For this Act—
-  (a) a thing is done in good faith when it is in fact done honestly, whether it is done negligently or not; and
-  (b) what is a reasonable time, a reasonable hour or a reasonable price is a question of fact; and
-  (c) a person is insolvent who has ceased to pay his debts in the ordinary course of business, or cannot pay his debts as they become due, whether he has committed an act of bankruptcy or not and whether he has become a bankrupt or not; and
-  (d) goods are in a deliverable state when they are in such a state that the buyer would, under the contract, be bound to take delivery of them.
