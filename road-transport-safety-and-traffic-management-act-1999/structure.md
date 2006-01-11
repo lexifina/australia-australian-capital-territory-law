@@ -4,7 +4,7 @@
 ### Division 2.2 Traffic offence evasion articles
 ### Division 2.3 Seizure, impounding and forfeiture of vehicles for certain offences
 ## Part 3 Unsafe loads
-## Part 4 Traffic Accidents
+## Part 4 Traffic accidents
 ## Part 5 Traffic control devices
 ## Part 6 Traffic offence detection devices
 ## Part 7 Traffic management
