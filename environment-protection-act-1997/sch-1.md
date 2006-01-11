@@ -24,6 +24,7 @@ mobile plant, for the processing of agricultural crops, means plant operated on 
 motor racing event means—
   (a) a motor vehicle race or practice for a motor vehicle race; or
   (b) a motor vehicle reliability trial or speed test, including a trial or test for which the vehicles have been exempted under the road transport legislation from the provisions of that legislation about attaching silencers to the exhaust pipes of motor vehicles, rules of the road and speed limits during the trial or test.
+National Electricity (ACT) Law—see the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
 ozone-depleting substance means a substance listed in the Ozone Protection and Synthetic Greenhouse Gas Management Act 1989 (Cwlth), schedule 1, whether existing alone or in a mixture.
 primary production—see the Income Tax Assessment Act 1936 (Cwlth).
 receiving waters means ground water or water in a waterway.
@@ -85,7 +86,7 @@ column 1 item | column 2 activity
 24 | the processing of animal skins or other animal products (including fellmongery) to produce leather or other similar products
 25 | outdoor concert activities using amplifying equipment if the venue has the capacity to hold more than 2 000 people and is not an authorised concert venue
 26 | the management of a concert venue that has the capacity to hold more than 2 000 people where outdoor concert activities using amplifying equipment are held
-27 | the generation of electricity by a generator classified as a scheduled generating unit under the National Electricity Code, clause 2.2.2
+27 | the generation of electricity by a generator classified as a scheduled generating unit under the national electricity rules, clause 2.2.2, under the National Electricity (ACT) Law
 28 | motor racing events, other than motor racing events held at an authorised racing venue
 29 | the management of a motor racing venue where motor racing events are held
 30 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity
