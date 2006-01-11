@@ -372,6 +372,7 @@ territory instrumentality means a corporation that—
 Note Territory instrumentality is defined in the Public Sector Management Act 1994, s 3.
 territory land means Territory Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land it is territory land.
+territory law—see law, of the Territory.
 territory-owned corporation means a Territory owned corporation under the Territory-owned Corporations Act 1990.
 territory plan means the territory plan under the Land (Planning and Environment) Act 1991.
 the Territory means—
