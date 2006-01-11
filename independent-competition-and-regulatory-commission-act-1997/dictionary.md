@@ -47,14 +47,14 @@ investigation means an investigation under part 3.
 law of the Territory includes—
   (a) the National Electricity (ACT) Law; and
   (b) the National Electricity (ACT) Regulations; and
-  (c) the national electricity code; and
+  (c) the national electricity rules; and
   (d) the Gas Pipelines Access (A.C.T.) Law; and
   (e) the Gas Pipelines Access (A.C.T.) Regulations; and
   (f) the national gas code.
 legislation review principles means the principles under the competition principles agreement, clause 5 (1) and (9), as set out in schedule 1.
 National Electricity (ACT) Law—see the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
 National Electricity (ACT) Regulations—see the Electricity (National Scheme) Act 1997, section 6 (Application of regulations under National Electricity Law).
-national electricity code means the National Electricity Code approved under the National Electricity (ACT) Law, section 6 (National Electricity Code).
+national electricity rules means the national electricity rules under the National Electricity (ACT) Law.
 national gas code—means the National Third Party Access Code for Natural Gas Pipeline Systems, within the meaning of the Gas Pipelines Access (A.C.T.) Law.
 Note The Gas Pipelines Access Act 1998, s 8 defines the code for the Gas Pipelines Access (A.C.T.) Law.
 price includes any rate, fee, levy and charge and any other valuable consideration (however described), but does not include a territory tax.
