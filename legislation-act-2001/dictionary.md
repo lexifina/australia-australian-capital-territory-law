@@ -265,8 +265,13 @@ NSW Act means an Act of the New South Wales Parliament.
 number means—
   (a) a number expressed in figures or words; or
   (b) a combination of a number expressed in figures or words and of a letter of the alphabet.
-nurse means a registered nurse under the Nurses Act 1988.
-nurse practitioner means a person who is registered as a nurse practitioner under the Nurses Act 1988.
+nurse—
+  (a) means a person unconditionally registered as a nurse under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally registered as a nurse under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration; but
+  (c) does not include an enrolled nurse.
+Note Under the Mutual Recognition Act 1992 (Cwlth), s 25 people registered as nurses in a State may be deemed to be registered in the ACT.
+nurse practitioner means a person registered as a nurse under the Health Professionals Act 2004 in the specialist area of nurse practitioner.
+Note Under the Mutual Recognition Act 1992 (Cwlth), s 25 people registered as nurses in a specialty in a State may be deemed to be registered in the specialty in the ACT.
 oath includes affirmation.
 Note The Evidence Act 1995 (Cwlth), ch 2, pt 2.1, div 2 and the Oaths and Affirmations Act 1984 make provision in relation to oaths and affirmations.
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
