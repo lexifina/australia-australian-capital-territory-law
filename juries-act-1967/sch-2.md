@@ -32,12 +32,12 @@ column 1 item | column 2 exempt people
 28 | a public servant holding a position of a superintendent under the Remand Centres Act 1976
 29 | a public servant holding a position of a custodial officer under the Remand Centres Act 1976 or the Periodic Detention Act 1995
 30 | an employee at a place declared to be an attendance centre, institution or shelter under the Children and Young People Act 1999, section 412
-## U Part 2.2 People who may claim exemption
+## Part 2.2 People who may claim exemption
 column 1 item | column 2 people who may claim exemption
 1 | a minister of religion
 2 | a practising member of a religious society or order the beliefs or principles of which are incompatible with jury service
 3 | a professor, lecturer, schoolmaster or schoolteacher engaged in full-time teaching of organised classes at a university, college or school
 4 | an editor of a newspaper
-5 | a practising nurse, including a nurse enrolled under the Nurses Act 1988
+5 | a practising nurse, including a nurse enrolled under the Health Professionals Act 2004
 6 | a household officer or member of staff of the Governor-General
 7 | a person who is 60 years old or older
