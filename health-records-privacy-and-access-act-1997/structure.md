@@ -3,3 +3,4 @@
 ## Part 3 Access to personal health information
 ## Part 5 Offences
 ## Part 6 Miscellaneous
+## Part 10 Transitional—Human Rights Commission Legislation Amendment Act 2006
