@@ -13,12 +13,12 @@
 ## Part 3.2 Mental harm
 ## Part 3.3 Temporary exclusion of liability for terrorism-associated risks
 # Chapter 4 Negligence
-## Part 4.1 Preliminary
+## Part 4.1 Preliminary—negligence
 ## Part 4.2 Duty of care
 ## Part 4.3 Causation
 ## Part 4.4 Other provisions—negligence
 # Chapter 5 Personal injuries claims—pre-court procedures
-## Part 5.1 Preliminary
+## Part 5.1 Preliminary—ch 5
 ## Part 5.2 Claims procedures
 ## Part 5.3 Obligations of parties to give documents and information
 ## Part 5.4 Other provisions—pre-court procedures
@@ -32,13 +32,23 @@
 # Chapter 8 Liability of public and other authorities
 # Chapter 9 Defamation
 ## Part 9.1 Preliminary—defamation
-## Part 9.2 Resolution of disputes without litigation—defamation
-## Part 9.3 Rules governing litigation of civil claims—defamation
-## Part 9.4 Other provisions—defamation
+## Part 9.2 General principles
+### Division 9.2.1 Defamation and the general law
+### Division 9.2.2 Causes of action for defamation
+### Division 9.2.3 Choice of law
+## Part 9.3 Resolution of civil disputes without litigation
+### Division 9.3.1 Offers to make amends
+### Division 9.3.2 Apologies
+## Part 9.4 Litigation of civil disputes
+### Division 9.4.1 General
+### Division 9.4.2 Defences
+### Division 9.4.3 Remedies
+### Division 9.4.4 Costs
+## Part 9.5 Miscellaneous—ch 9
 # Chapter 10 Trespass
 # Chapter 11 Mitigation of strict liability
 ## Part 11.1 Traveller accommodation providers liability
-### Division 11.1.1 Preliminary
+### Division 11.1.1 Preliminary—pt 11.1
 ### Division 11.1.2 Liability of accommodation providers
 ## Part 11.2 Common carriers
 ### Division 11.2.1 Preliminary—common carriers

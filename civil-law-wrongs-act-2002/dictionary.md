@@ -15,15 +15,16 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 accident means an incident out of which personal injury arises, and includes a motor accident.
 accommodation provider—see section 146.
 accommodation unit—see section 144.
-action, for chapter 9 (Defamation)—see section 115.
 agent, of an accommodation provider—see section 144.
-aggrieved person, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 116.
+aggrieved person, for division 9.3.1 (Offers to make amends)—see section 124.
 agreed expert, for chapter 6 (Expert medical evidence)—see section 84.
-amends agreement, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 119 (1).
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 apology, for part 2.3 (Apologies)—see section 13.
 appointed expert, for chapter 6 (Expert medical evidence)—see section 84.
 apportionable claim, for chapter 7A (Proportionate liability)—see section 107B.
+Australian court, for chapter 9 (Defamation)—see section 116.
+Australian jurisdiction, for chapter 9 (Defamation)—see section 116.
+Australian tribunal, for chapter 9 (Defamation)—see section 116.
 business assets, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 child—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
@@ -48,25 +49,25 @@ costs, for chapter 14 (Limitations on legal costs)—see section 180.
 council—
   (a) for schedule 4 (Professional standards)—see schedule 4, section 4.36; and
   (b) for schedule 5 (Occupational associations—model code)—see schedule 5, section 5.2.
-country, for chapter 9 (Defamation)—see section 115.
+country, for chapter 9 (Defamation)—see section 116.
 court—
   (a) for part 2.5 (Proceedings against and contributions between wrongdoers)—see section 19; and
   (b) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
   (c) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92; and
   (d) for part 7.3 (Contributory negligence)—see section 101; and
-  (e) for chapter 9 (Defamation)—see section 115; and
-  (f) for chapter 13 (Misrepresentation)—see section 172; and
-  (g) for part 14.1 (Maximum costs for certain personal injury damages claims)—see section 180; and
-  (h) for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186; and
-  (i) for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+  (e) for chapter 13 (Misrepresentation)—see section 172; and
+  (f) for part 14.1 (Maximum costs for certain personal injury damages claims)—see section 180; and
+  (g) for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186; and
+  (h) for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 damage—
   (a) for part 2.5 (Proceedings against and contributions between wrongdoers)—see section 19; and
   (b) for part 7.3 (Contributory negligence)—see section 101.
 damages, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
-defamation—see section 115.
 default value, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 defendant, for chapter 7A (Proportionate liability)—see section 107A.
+document, for chapter 9 (Defamation)—see section 116.
 duty of care, for chapter 8 (Liability of public and other authorities)—see section 109.
+electronic communication, for chapter 9 (Defamation)—see section 116.
 equine, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine activity, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
@@ -85,6 +86,7 @@ funeral expenses includes costs related to any of the following:
   (e) a service at the burial or cremation site;
   (f) burial or cremation;
   (g) a headstone, plaque, tablet or other memorial.
+general law, for chapter 9 (Defamation)—see section 116.
 guest—see section 148.
 harm, for chapter 4 (Negligence)—see section 40.
 inherent risks of equine activities, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
@@ -98,7 +100,8 @@ judgment, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 legal services means legal services provided by a lawyer or the lawyer’s agent or employee.
 limitation amount, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 loss, of property, for part 11.1 (Traveller accommodation providers liability)—see section 144.
-matter in question, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 116.
+matter, for chapter 9 (Defamation)—see section 116.
+matter in question, for division 9.3.1 (Offers to make amends)—see section 124.
 mediation—see section 192.
 mediation session—see section 192.
 medical issue, for chapter 6 (Expert medical evidence)—see section 82.
@@ -118,11 +121,11 @@ non-fraudulent misrepresentation, for chapter 13 (Misrepresentation)—see secti
 occupational association, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 occupational group, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
-offer to make amends, for chapter 9 (Defamation)—see section 115.
+offer to make amends, for chapter 9 (Defamation)—see section 116.
 parent—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
-parliamentary body—see section 115.
+parliamentary body, for chapter 9 (Defamation)—see section 116.
 participant, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 participate, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 party, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
@@ -136,19 +139,18 @@ property, of a guest—see section 149.
 provable facts, in relation to a lawyer, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
 provide traveller accommodation—see section 144.
 public or other authority, for chapter 8 (Liability of public and other authorities)—see section 109.
-published matter, for part 9.3 (Rules governing litigation of civil claims—defamation)—see section 124.
-publisher, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 116.
+publisher, for division 9.3.1 (Offers to make amends)—see section 124.
 pure mental harm, for part 3.2 (Mental harm)—see section 32.
-qualified offer, for part 9.2 (Resolution of disputes without litigation—defamation)—see section 117 (2).
 reasonable prospects of success, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
 recreational drug means a drug consumed voluntarily for non-medicinal purposes, and includes alcohol.
 respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1) (Liability of carriers for certain goods worth more than $20).
 scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+substantially true, for chapter 9 (Defamation)—see section 116.
+this jurisdiction, for chapter 9 (Defamation)—see section 116.
 transport, for part 11.2 (Common carriers)—see section 156.
 traveller accommodation—see section 145.
-tribunal, for chapter 9 (Defamation)—see section 115.
 voluntary basis—see section 6.
 volunteer—see section 6.
 wrong—

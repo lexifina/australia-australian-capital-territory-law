@@ -1,5 +1,5 @@
 # Schedule 3 Equine activities
-## 3.1 Definitions for sch 3
+## 3.1 Definitions—sch 3
 In this schedule:
 equine means a horse, donkey, mule or hinny.
 equine activity means any of the following:
@@ -50,7 +50,7 @@ participate in an equine activity—
     (iii) assist in medical treatment of an equine, whether mounted or unmounted; or
     (iv) assist a participant or show management; but
   (b) does not include be a spectator at an equine activity (unless the spectator is in an unauthorised area and in immediate proximity to the equine activity).
-## 3.2 Application of sch 3
+## 3.2 Application—sch 3
 This schedule does not prevent or limit the liability of an equine activity sponsor, an equine professional or anyone else in relation to—
   (a) activities engaged in as part of the horseracing industry; or
   (b) any action for breach of the Trade Practices Act 1974 (Cwlth) or the Fair Trading Act 1992; or
@@ -81,14 +81,14 @@ Under the Civil Law (Wrongs) Act 2002, an equine professional is not liable for 
 (3) The warning notice must be in black letters with each letter at least 2cm high.
 (4) The warning notice must also be included in clearly visible print in each written contract the equine professional enters into for the provision of professional services, instruction or rental of equipment or tack to a participant.
 ## Schedule 4 Professional standards
-## Part 4.1 Preliminary
-## 4.1 Objects of sch 4
+## Part 4.1 Preliminary—professional standards
+## 4.1 Objects—sch 4
 The objects of this schedule are—
   (a) to enable the creation of schemes to limit the civil liability of professionals and others; and
   (b) to facilitate the improvement of occupational standards of professionals and others; and
   (c) to protect consumers of the services provided by professionals and others; and
   (d) to establish a council to supervise the preparation and application of schemes and to assist in the improvement of occupational standards and protection of consumers.
-## 4.2 Definitions for sch 4
+## 4.2 Definitions—sch 4
 In this schedule:
 business assets, of a person, means the property of the person that is used to perform the person’s occupation and that can be taken in proceedings to enforce a judgment of a court.
 council—see section 4.36.
@@ -106,7 +106,7 @@ occupational association means a corporation—
 occupational group includes a professional group and a trade group.
 occupational liability means civil liability arising (in tort, contract or otherwise) directly or vicariously from anything done or omitted to be done by a member of an occupational association acting in the performance of the member’s occupation.
 scheme means a scheme for limiting the occupational liability of members of an occupational association.
-## 4.3 Application of sch 4
+## 4.3 Application—sch 4
 (1) This schedule does not apply to liability for damages arising from any of the following:
   (a) personal injury to a person;
   (b) anything done or omitted to be done by a lawyer in acting for a client in a personal injury claim;
@@ -220,7 +220,7 @@ A person to whom a scheme applies, and against whom a proceeding relating to occ
   (b) different maximum amounts of liability for different cases or classes of case to which the scheme applies; or
   (c) different maximum amounts of liability for the same class of case to which the scheme applies for different purposes.
 (2) A scheme may give an occupational association a discretionary authority, on application by a person to whom the scheme applies, to state in relation to the person a higher maximum amount of liability than would otherwise apply under the scheme in relation to the person, either in all cases, in any stated case or class of case, or for different purposes.
-## 4.21 Combination of provisions under s 14.7, s 4.18 and s 4.19
+## 4.21 Combination of provisions under s 4.17, s 4.18 and s 4.19
 (1) This section applies if, in a scheme, provisions of the kind mentioned in section 4.19, and provisions (the additional provisions) of the kind mentioned in section 4.17 or section 4.18 (or both), apply to a person at the same time in relation to the same occupation.
 (2) The scheme must provide that the damages awarded against the person are to be decided under section 4.19 but must not exceed the monetary ceiling provided in relation to the person under the additional provisions.
 ## 4.22 Amount below which liability may not be limited
@@ -419,7 +419,7 @@ The quorum for a meeting of the council is a majority of its members for the tim
 (2) The person presiding at any meeting of the council has a deliberative vote and, if the votes are equal, has a second or casting vote.
 ## 4.49 Voting at council meetings
 A decision supported by a majority of the votes cast at a meeting of the council at which a quorum is present is the decision of the council.
-## Division 4.6.4 Miscellaneous
+## Division 4.6.4 Miscellaneous—council
 ## 4.50 Requirement to provide information
 (1) The council may, by written notice, require an occupational association—
   (a) whose members are subject to a scheme in force under this schedule; or
@@ -453,7 +453,7 @@ The council, or a committee established under section 4.52, may engage consultan
 (1) The council must prepare a report on the council’s work and activities during each financial year.
 (2) The council must give the report for a financial year to the Minister before 1 October in the next financial year.
 (3) The Minister must present a copy of the annual report to the Legislative Assembly within 6 sitting days after the day the Minister receives it.
-## Part 4.7 Miscellaneous
+## Part 4.7 Miscellaneous—sch 4
 ## 4.57 Characterisation of sch 4
 The provisions of this schedule are to be regarded as part of the substantive law of the ACT.
 ## 4.58 No contracting out of sch 4

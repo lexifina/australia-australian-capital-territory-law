@@ -22,7 +22,7 @@ Any person may make a complaint (including the occupational association and the 
   (c) attempt to resolve the complaint by conciliation;
   (d) decline to consider the complaint (because, for example, the complaint is frivolous, vexatious, misconceived or lacking in substance);
   (e) conduct a hearing into the complaint.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+Note An example is part of the code, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) The occupational association is bound by the rules of natural justice in conducting a hearing into the complaint.
 ## 5.7 What action may be taken after a hearing into a complaint?
 (1) After an occupational association has conducted a hearing into a complaint against a person, it may, if it finds the complaint substantiated, do any 1 or more of the following:
