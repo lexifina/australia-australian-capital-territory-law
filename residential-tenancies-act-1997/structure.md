@@ -27,6 +27,8 @@
 ### Division 6.3 Preliminary conferences
 ### Division 6.4 Tribunal hearings
 ### Division 6.5 Procedural powers and orders of tribunal
+## Part 6A Tenancy databases
+## Part 6B Enforcement
 ## Part 7 Residential Tenancies Tribunal
 ### Division 7.1 Jurisdiction
 ### Division 7.2 Referees
