@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -47,7 +47,7 @@ fingerprints includes fingerscan.
 fingerscan means fingerprints taken using a device to obtain a record of the fingerprints.
 finding of guilt—see section 7.
 foreign jurisdiction means a jurisdiction other than the ACT (including a jurisdiction outside Australia).
-forensic patient—see the Community Advocate Act 1991, section 3.
+forensic patient—see the Public Advocate Act 2005, dictionary.
 government custody means custody, whether in the ACT or elsewhere—
   (a) under a sentence of imprisonment; or
   (b) as a detainee; or
