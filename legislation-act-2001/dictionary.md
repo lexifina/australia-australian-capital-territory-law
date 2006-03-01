@@ -98,7 +98,6 @@ Commonwealth country means a country that forms part of the Commonwealth of Nati
 Commonwealth DPP means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1983 (Cwlth).
 Commonwealth gazette means the Commonwealth of Australia Gazette or the Australian Government Gazette.
 Note The Australian Government Gazette was published from 1 July 1973 to 30 June 1976.
-community advocate means the Community Advocate under the Community Advocate Act 1991.
 confer, in relation to a function, includes impose.
 conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 1980.
 construction occupations registrar means the Australian Capital Territory Construction Occupations Registrar under the Construction Occupations (Licensing) Act 2004.
@@ -306,6 +305,7 @@ proceeding means a legal or other action or proceeding.
 property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
 Note A thing in action is an intangible personal property right recognised and protected by the law. Examples include debts, money held in a bank, shares, rights under a trust, copyright and right to sue for breach of contract.
 provision, of an Act or instrument—see section 16.
+public advocate means the Public Advocate under the Public Advocate Act 2005.
 public employee means—
   (a) a public servant; or
   (b) a person employed by a territory instrumentality; or
