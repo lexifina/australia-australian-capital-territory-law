@@ -7,4 +7,3 @@
 ## Part 3 Offences
 ## Part 4 Protection of photographs and signatures
 ## Part 5 Miscellaneous
-## Part 6 Transitional
