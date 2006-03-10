@@ -27,4 +27,3 @@
 ### Division 7.3 Entitlement to operate hire car services
 ### Division 7.4 Regulation of hire car services
 ## Part 8 Miscellaneous
-## Part 9 Transitional provisions
