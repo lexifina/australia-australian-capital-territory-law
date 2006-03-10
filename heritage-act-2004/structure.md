@@ -24,4 +24,3 @@
 ## Part 16 Heritage and public authorities
 ## Part 17 AAT review of decisions
 ## Part 18 Miscellaneous
-## Part 19 Transitional
