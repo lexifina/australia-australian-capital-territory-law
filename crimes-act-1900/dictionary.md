@@ -25,6 +25,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · summary offence (see also s 190)
 · the Territory
 · transgender person (see s169A).
+actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
 agent, for part 2A (Industrial manslaughter)—see section 49A.
 aggravated offence, for part 5 (Sexual servitude)—see section 81.
 causes death, for part 2A (Industrial manslaughter)—see section 49A.
@@ -45,7 +46,10 @@ employee, for part 2A (Industrial manslaughter)—see section 49A.
 employer, for part 2A (Industrial manslaughter)—see section 49A.
 government, for part 2A (Industrial manslaughter)—see the Legislation Act, section 121 (6).
 government entity, for part 2A (Industrial manslaughter)—see section 49A.
-grievous bodily harm includes any permanent or serious disfiguring of the person.
+grievous bodily harm to a person includes—
+  (a) any permanent or serious disfiguring of the person; and
+  (b) for a pregnant woman—loss of or serious harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
+harm to a pregnancy—see section 48A (6).
 independent contractor, for part 2A (Industrial manslaughter)—see section 49A.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
 knife includes—
@@ -78,7 +82,9 @@ school means—
   (b) an educational institution conducted by the Canberra Institute of Technology;
 and includes any land or premises that belong to, are occupied by, or are used in relation to, a school.
 senior officer, for part 2A (Industrial manslaughter)—see section 49A.
-serious harm, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
+serious harm—
+  (a) to a pregnancy—see section 48A (6); and
+  (b) for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
 tainted property, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 10.
