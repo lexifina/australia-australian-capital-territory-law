@@ -11,4 +11,3 @@
 ## Part 11 Consultative committees
 ## Part 11A Inquiry relating to affairs of commission
 ## Part 13 Miscellaneous
-## Part 14 Transitional
