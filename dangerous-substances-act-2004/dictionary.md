@@ -20,10 +20,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
 analysis, of a dangerous substance or anything else, includes examining or testing the substance or thing.
 approved code of practice means a code of practice approved under section 219 (1).
+at premises includes in or on the premises.
 Australian Dangerous Goods Code—see section 10 (3).
 Australian Explosives Code—see section 10 (3).
 Australian Standard 1940—see section 10 (3).
-at premises includes in or on the premises.
 authorised analyst means a person appointed as an authorised analyst under section 210.
 authorised person, for part 5.2 (Preservation of site of dangerous occurrence)—see section 85.
 basis, for giving a prohibition notice—see section 108.
