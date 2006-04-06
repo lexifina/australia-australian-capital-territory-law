@@ -1,6 +1,6 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · doctor
 · exercise
@@ -12,6 +12,7 @@ accident means an accident on a public street or in a public place, whether with
 another jurisdiction means a jurisdiction other than the ACT.
 approved analyst means a person who is appointed by the Minister under section 6 (2).
 approved breath analysis instrument means an instrument of a type that is approved by the Minister under section 5 (1).
+approved laboratory means a laboratory or other entity (however described) approved by the Minister under section 6 (3) as an approved laboratory.
 approved operator means a police officer who is authorised by the chief police officer under section 6 (1).
 approved screening device means a device of a type that is approved by the Minister under section 5 (2).
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -26,7 +27,7 @@ disqualifying offence means an offence against—
   (b) section 22 (Refusing to provide breath sample); or
   (c) section 23 (Refusing blood test etc); or
   (d) section 24 (Driving under the influence of intoxicating liquor or a drug); or
-  (e) another provision of this Act prescribed under the regulations.
+  (e) another provision of this Act prescribed by regulation.
 drive a motor vehicle includes—
   (a) start or attempt to start the engine of the vehicle; and
   (b) put or attempt to put the vehicle in motion; and
@@ -43,11 +44,11 @@ drug means—
   (b) a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences); or
   (c) any other substance that, on its own or in combination with alcohol, may influence the driving of the person who has taken the drug.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-Note An external driver licence is a foreign driver licence or an external Territory driver licence.
+Note An external driver licence is a foreign driver licence or an external territory driver licence.
 first offender—see section 4D.
 GCM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 GVM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
-jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
+jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 level, for a concentration of alcohol in blood—see section 4C.
 medical examination means an examination by a doctor or authorised nurse practitioner.
 motor vehicle means a vehicle built to be propelled by a motor that forms a part of the vehicle.
