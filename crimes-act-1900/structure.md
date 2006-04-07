@@ -20,13 +20,13 @@
 ### Division 10.6 General
 ## Part 11 Investigation of extraterritorial offences
 ## Part 12 Procedure, evidence, verdict etc
-## Part 13 Unfitness to plead, mental illness and mental dysfunction
+## Part 13 Unfitness to plead and mental impairment
 ### Division 13.1 Preliminary
 ### Division 13.2 Unfitness to plead
-### Division 13.3 Acquittal on grounds of mental impairment
-### Division 13.4 Dismissal by Magistrates Court on grounds of mental impairment
-### Division 13.5 Referral of mentally dysfunctional or mentally ill persons to tribunal following conviction
-### Division 13.6 Summary proceedings against mentally dysfunctional or mentally ill persons
+### Division 13.3 Supreme Court—special verdict of not guilty because of mental impairment
+### Division 13.4 Magistrates Court—finding of not guilty because of mental impairment
+### Division 13.5 Referral of mentally impaired people to tribunal after conviction
+### Division 13.6 Summary proceedings against mentally impaired people
 ## Part 15 Sentences
 ### Division 15.1 General principles and procedures
 ### Division 15.2 Pre-sentence reports

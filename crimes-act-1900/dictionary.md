@@ -58,6 +58,7 @@ knife includes—
   (c) any other blade;
 but does not include a knife of a class or description excluded from this definition by the regulations.
 loaded arms means any firearm, airgun or air pistol that is loaded with any projectile or missile, whether or not the firearm, airgun or air pistol is capable of being discharged.
+mental impairment—see the Criminal Code, section 27.
 motor vehicle—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 offensive weapon means—
   (a) anything made or adapted for use, or capable of being used, for causing injury to or incapacitating a person; or
