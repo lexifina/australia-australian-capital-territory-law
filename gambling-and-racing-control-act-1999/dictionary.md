@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · under.
 annual report means the report that the commission is required to prepare under the Annual Reports (Government Agencies) Act 2004.
 authorised officer means a person who is an authorised officer under section 20.
-casino means the casino under the Casino Control Act 1988.
+casino means the casino under the Casino Control Act 2006.
 chief executive officer means the chief executive officer of the commission.
 code of practice—see section 18.
 commission means the Gambling and Racing Commission.

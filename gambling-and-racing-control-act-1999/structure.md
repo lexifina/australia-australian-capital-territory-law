@@ -12,7 +12,4 @@
 ### Division 4.4 Secrecy
 ## Part 5 Inquiries
 ## Part 6 Tax administration
-## Part 7 Casino control
-## Part 8 Racing
-## Part 8A Service of documents
-## Part 9 Miscellaneous
+## Part 7 Miscellaneous
