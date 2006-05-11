@@ -11,21 +11,22 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory.
 animal boarding facility means a kennel, cattery, stable or other premises where animals are kept temporarily by a person other than a keeper of the animal.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
-animal welfare offence means an offence against a provision of any of the following sections of the Animal Welfare Act 1992:
+animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
   (a) section 7 (Cruelty);
-  (b) section 8 (Pain);
-  (c) section 9 (Confined animals);
-  (d) section 10 (Alleviation of pain);
-  (e) section 11 (Release);
-  (f) section 12 (Administering poison);
-  (g) section 12A (Laying poison);
-  (h) section 13 (Electrical devices);
-  (i) section 14 (Spurs);
-  (j) section 15 (Conveyance and containment);
-  (k) section 15A (Carriage of dogs);
-  (l) section 16 (Working, riding and driving unfit animals);
-  (m) section 17 (Matches, competitions and baiting);
-  (n) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
+  (b) section 7A (Aggravated cruelty);
+  (c) section 8 (Pain);
+  (d) section 9 (Confined animals);
+  (e) section 10 (Alleviation of pain);
+  (f) section 11 (Release);
+  (g) section 12 (Administering poison);
+  (h) section 12A (Laying poison);
+  (i) section 13 (Electrical devices);
+  (j) section 14 (Spurs);
+  (k) section 15 (Transport and containment);
+  (l) section 15A (Transport of dogs);
+  (m) section 16 (Working etc unfit animals);
+  (n) section 17 (Matches, competitions and baiting);
+  (o) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
 authorised officer means an authorised officer under section 123, and includes the registrar and a deputy registrar.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
