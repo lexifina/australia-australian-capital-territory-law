@@ -1,10 +1,11 @@
-# Dictionary
+# U Dictionary
 (see s 2A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · Australia
 · commissioner for revenue
+· Corporations Act
 · doctor
 · domestic relationship (see s 169 (2))
 · external territory
@@ -38,8 +39,6 @@ complying superannuation fund means an entity that is—
   (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or 42A; or
   (b) an exempt public sector superannuation scheme within the meaning of that Act.
 corporation means a body corporate, whether incorporated in this jurisdiction or elsewhere.
-Corporations Act means the Corporations Act 2001 (Cwlth).
-Note A reference to a Cwlth Act includes a reference to the Act as originally made and as amended (see Legislation Act, s 102).
 corresponding Act means an Act of another Australian jurisdiction that corresponds to this Act.
 corresponding law, in relation to a territory law, means a law of a State or another Territory that is similar, or has a similar effect, to that territory law.
 cost, in relation to a lease—see section 136.
@@ -49,9 +48,6 @@ determined amount, in relation to duty, means an amount—
   (b) calculated in a way determined by the Minister;
 under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
-disabled person means a person who is 16 years of age or older and who is—
-  (a) permanently blind; or
-  (b) permanently incapacitated for work.
 discretionary trust means a trust under which the vesting of the whole or any part of the capital of the trust estate, or the whole or any part of the income from that capital, or both—
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
@@ -60,8 +56,9 @@ domestic relationship—see the Domestic Relationships Act 1994.
 duly stamped, in relation to an instrument, means duly stamped as mentioned in section 235.
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
-dutiable value, in relation to a motor vehicle—see section 203.
-dutiable value, in relation to dutiable property other than a motor vehicle—see section 20.
+dutiable value—
+  (a) of a motor vehicle for part 9.1—see section 203; and
+  (b) of other dutiable property—see section 20.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 error transaction means a sale or purchase of shares made to reverse a sale or purchase of shares made mistakenly not more than 7 days earlier, and the sale or purchase so reversed.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
@@ -82,7 +79,8 @@ franchise arrangement means an agreement or other arrangement between 2 or more 
   (b) to use a mark or common trade name, in such a way that the business carried on by the franchisee is, or is capable of being, identified by the public as being substantially associated with the mark or name identifying, commonly connected with or controlled by the franchisor or a related person.
 franchisee—see the definition of franchise arrangement.
 franchisor—see the definition of franchise arrangement.
-general insurance—see section 175.
+general insurance, for chapter 8 (Insurance)—see section 175.
+general insurer, for chapter 8 (Insurance)—see section 175.
 hire of goods—see section 152.
 hire-purchase agreement means a letting of goods with an option to purchase and an agreement for the purchase of goods by instalments (whether the agreement describes the instalments as rent or hire or otherwise), but does not include any agreement—
   (a) by which the property in the goods the subject of the agreement passes at the time of the agreement or on or at any time before the delivery of the goods; or
@@ -95,7 +93,9 @@ impressed stamp means a stamp impressed by means of a die or other device made u
 instrument includes a written document and a written statement.
 insurance includes assurance.
 insurance intermediary—see the Insurance (Agents and Brokers) Act 1984 (Cwlth).
-insurer—see section 175.
+insurer—
+  (a) for chapter 8 (Insurance), other than part 8.4—see section 175; and
+  (b) for part 8.4 (Payment of duty by insurers)—see section 188A.
 intellectual property means—
   (a) a business name, trading name, trade mark, industrial design, patent, registered design or copyright; or
   (b) a right, whether or not under a franchise arrangement, to use or exploit—
@@ -125,7 +125,8 @@ land used for primary production means land used primarily for—
 land use entitlement means an entitlement to occupy land within the ACT conferred through an ownership of shares in a company or an ownership of units in a unit trust scheme, or a combination of a shareholding or ownership of units together with a lease or licence.
 lease—see section 133.
 life company—see the Life Insurance Act 1995 (Cwlth).
-life insurance—see section 175.
+life insurance, for chapter 8 (Insurance)—see section 175.
+life insurance rider, for chapter 8 (Insurance)—see section 175.
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
@@ -152,7 +153,12 @@ partner—a person’s partner is either of the following:
   (b) someone with whom the person has a domestic relationship.
 partnership interest—see section 10 (1) (i).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
+person with a disability means a person who has a disability that—
+  (a) is attributable to an intellectual, psychiatric, sensory, physical or neurological impairment, or acquired brain injury; and
+  (b) is likely to be permanent; and
+  (c) results in substantially reduced capacity in self-care, self-management, mobility or communication requiring significant ongoing, or long-term episodic, support.
 pooled superannuation trust means an entity that is a pooled superannuation trust in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 44.
+premium, in relation to general insurance for chapter 8 (Insurance)—see section 175.
 private company means a company that is not limited by shares, or whose shares are not quoted on a stock exchange.
 private corporation—see section 78.
 private unit trust scheme means a unit trust scheme that is not a public unit trust scheme.
@@ -212,6 +218,7 @@ tenement includes an office, room or apartment in a tenement.
 territory company means—
   (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the ACT; or
   (b) a corporation that is incorporated under a territory Act.
+third-party insurance, for chapter 8 (Insurance)—see section 175.
 trading stock, in relation to a vehicle dealer licensed under the Sale of Motor Vehicles Act 1977 or a corresponding law, means a vehicle offered or exposed for sale by the dealer in the course of the dealer’s business, except a vehicle used—
   (a) personally by the dealer or a member of the dealer’s staff; or
   (b) for the general purposes of the dealer’s business.
