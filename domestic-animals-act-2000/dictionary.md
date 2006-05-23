@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -27,6 +27,7 @@ animal welfare offence means an offence against any of the following provisions 
   (m) section 16 (Working etc unfit animals);
   (n) section 17 (Matches, competitions and baiting);
   (o) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
+approved provider, for part 4 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
 authorised officer means an authorised officer under section 123, and includes the registrar and a deputy registrar.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
@@ -53,7 +54,7 @@ excluded offence means—
   (a) a minor offence; or
   (b) an offence against any of the following sections:
     (i) section 37 (Return of special licences);
-    (ii) section 82 (Offence—cats in declared areas);
+    (ii) section 82 (Cats in breach of cat curfew);
     (iii) section 105 (Exclusion of assistance animal from public place);
     (iv) section 106 (Imposition of excess charges for assistance animal);
     (v) section 142 (Dishonoured cheques and credit transactions).
