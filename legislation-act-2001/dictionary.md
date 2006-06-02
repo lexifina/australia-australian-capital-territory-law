@@ -92,7 +92,9 @@ commissioner for revenue means the Commissioner for Australian Capital Territory
 commissioner for surveys means the Commissioner for Surveys under the Surveyors Act 2001.
 commissioner for the environment means the Commissioner for the Environment under the Commissioner for the Environment Act 1993.
 commissioner of police means the Commissioner of Police of the Australian Federal Police.
-committed for trial, in relation to a person, means committed to prison or to a remand centre with a view to being tried before a judge and jury, or admitted to bail on an undertaking to appear and be tried before a judge and a jury.
+commit, a person for trial, means—
+  (a) to order that the person be remanded in custody until tried by the Supreme Court; or
+  (b) to grant bail to the person to appear and be tried by the Supreme Court.
 Commonwealth means the Commonwealth of Australia and, when used in a geographical sense, does not include an external territory.
 Commonwealth country means a country that forms part of the Commonwealth of Nations, and includes a territory for the international relations of which a Commonwealth country is responsible.
 Commonwealth DPP means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1983 (Cwlth).
@@ -109,6 +111,8 @@ converted ordinance means an enactment that was an ordinance immediately before 
 Coroner’s Court means the Coroner’s Court under the Coroners Act 1997.
 corporation includes a body politic or corporate.
 Corporations Act means the Corporations Act 2001 (Cwlth).
+correctional centre means a correctional centre under the Corrections Management Act 2006.
+corrections officer means a corrections officer under the Corrections Management Act 2006.
 Court of Appeal means the Court of Appeal constituted under the Supreme Court Act 1933.
 court of summary jurisdiction means the Magistrates Court.
 credit tribunal means the Australian Capital Territory Credit Tribunal established under the Consumer Credit (Administration) Act 1996.
@@ -116,7 +120,6 @@ credit union means an authorised deposit-taking institution that is permitted un
   (a) the term ‘credit union’; or
   (b) any other term (whether or not in English) similar in meaning.
 Criminal Code means the Criminal Code 2002.
-custodial escort means an escort under the Custodial Escorts Act 1998.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130.
 dental prosthetist means a registered dental prosthetist under the Dental Technicians and Dental Prosthestists Registration Act 1988.
@@ -125,7 +128,6 @@ dentist means a registered dentist under the Dentists Act 1931.
 Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
-director of corrective services means the Director of Corrective Services under the Periodic Detention Act 1995.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
 disallowable instrument—see section 9.
 discrimination commissioner means the Discrimination Commissioner under the Discrimination Act 1991.
@@ -172,8 +174,9 @@ Note 2 The other former NSW Acts are taken to have been enacted by the Legislati
 former UK Act means an Act corresponding to a UK Act mentioned in schedule 1.
 Note Former UK Acts are also taken to have been enacted by the Legislative Assembly because of the Interpretation Act 1967, s 65. Section 65 has expired, but its previous operation was saved (see s 65 (3)).
 found guilty, of an offence, includes—
-  (a) having the offence taken into account under the Crimes Act 1900, section 357 (which is about taking outstanding charges into account when passing sentence); and
-  (b) having an order made in relation to the offence under the Crimes Act 1900, section 402 (Conditional release of offenders without proceeding to conviction) or the Children and Young People Act 1999, section 98 (Disposition without proceeding to conviction).
+  (a) having an order made for the offence under the Crimes (Sentencing) Act 2005, section 17 (Non-conviction orders—general); and
+  (b) having the offence taken into account under the Crimes (Sentencing) Act 2005, section 57 (Outstanding additional offences taken into account in sentencing); and
+  (c) having an order made for the offence under the Children and Young People Act 1999, section 98 (Disposition without proceeding to conviction).
 function includes authority, duty and power.
 gambling and racing commission means the Gambling and Racing Commission established under the Gambling and Racing Control Act 1999.
 gazette means the Australian Capital Territory Gazette.
@@ -261,6 +264,7 @@ notification—
   (b) of a registrable instrument—see section 63.
 notification day, for an Act or statutory instrument, means the day the Act or instrument is notified.
 NSW Act means an Act of the New South Wales Parliament.
+NSW correctional centre means a correctional centre (however described) under the Crimes (Administration of Sentences) Act 1999 (NSW).
 number means—
   (a) a number expressed in figures or words; or
   (b) a combination of a number expressed in figures or words and of a letter of the alphabet.
@@ -328,8 +332,6 @@ registrar-general means the Registrar-General under the Registrar-General Act 19
 registrar of firearms means the Registrar of Firearms under the Firearms Act 1996.
 registrar of liquor licences means the Registrar of Liquor Licences under the Liquor Act 1975.
 regulation, in relation to an Act, means a regulation made or in force under the Act.
-remand centre means an area declared under the Remand Centres Act 1976 to be a remand centre or a temporary remand centre.
-remand centre administrator means the Administrator under the Remand Centres Act 1976, section 6.
 remuneration tribunal means the Remuneration Tribunal established under the Remuneration Tribunal Act 1995.
 repeal includes—
   (a) for an Act or statutory instrument—omit a provision of the Act or instrument; and
@@ -351,7 +353,7 @@ see, in a definition—see section 131 (Signpost definitions).
 Self-Government Act means the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
 self-government day means 11 May 1989.
 Note This is the day when the remaining provisions of the Self-Government Act commenced and, in particular, the Australian Capital Territory was established as a body politic, the Legislative Assembly was empowered to make laws for the ACT and the Executive was established.
-sentence administration board means the Sentence Administration Board established under the Rehabilitation of Offenders (Interim) Act 2001.
+sentence administration board means the Sentence Administration Board under the Crimes (Sentence Administration) Act 2005.
 SES means the ACT State Emergency Service established under the Emergencies Act 2004.
 sign includes attach a seal and make a mark.
 sitting day, of the Legislative Assembly, means a day when the Assembly meets.
