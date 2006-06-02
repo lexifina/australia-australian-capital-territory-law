@@ -27,6 +27,8 @@ appropriate authority—see section 100.
 appropriately qualified person—see section 13.
 authorised applicant—see section 12.
 child—see section 14.
+correctional centre includes a NSW correctional centre.
+Note Correctional centre and NSW correctional centre are defined in the Legislation Act, dict, pt 1.
 corresponding law—see section 100.
 crime scene index—see section 94.
 destroy—a person destroys forensic material taken from someone else by a forensic procedure, the results of the analysis of the material, or other information obtained from it, if the person destroys any means of identifying the forensic material or information with the person from whom it was taken or to whom it relates.
@@ -53,6 +55,7 @@ interview friend—see section 16.
 intimate forensic procedure—see section 6.
 investigating police officer—see section 11.
 jurisdiction—see section 100.
+medical officer, for a correctional centre, means a medical officer appointed for the centre.
 missing persons index—see section 94.
 non-intimate forensic procedure—see section 7.
 offence means an offence against a law in force in the ACT.
@@ -61,11 +64,6 @@ participating jurisdiction—see section 100.
 police station includes—
   (a) an ACT police station; and
   (b) any other building (or part of a building) occupied by the Australian Federal Police.
-prison includes a place where a person may be detained under the Removal of Prisoners Act 1968.
-prison medical officer means—
-  (a) for a prison or another place of detention (other than a remand centre)—a medical officer for the prison or other place of detention; or
-  (b) for a remand centre— the medical officer for remand centre under the Remand Centres Act 1976.
-remand centre means a remand centre under the Remand Centres Act 1976.
 responsible Minister—see section 100.
 responsible person, for the DNA database system, means the person responsible for the care, control and management of the system
 sample, taken from a person, includes a sample taken from the person that consists of matter from someone else’s body.
