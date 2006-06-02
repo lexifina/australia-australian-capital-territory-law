@@ -3,9 +3,12 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Act
+· corrections officer
 · director of public prosecutions
+· judge
 · lawyer
-· police officer.
+· police officer
+· registrar.
 ballot box means a box approved by a judge for use in the random selection of a jury.
 criminal trial includes the trial of an issue whether a prisoner is or is not capable of pleading to an indictment presented against him or her.
 disqualified person means a person referred to in section 10.
