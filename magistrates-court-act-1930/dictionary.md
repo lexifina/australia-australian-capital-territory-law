@@ -2,14 +2,11 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· custodial escort
+· corrections officer
 · function
 · judge
-· lawyer
-· remand centre
-· remand centre administrator.
+· lawyer.
 administering authority, for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
-administrator, for chapter 3 (Criminal proceedings)—see section 18A.
 another jurisdiction, for part 3.8 (Infringement notices for certain offences)—see section 117.
 appeal, for part 4.5 (Civil appeals)—see section 272.
 appearance—see section 311 (4).
@@ -19,6 +16,7 @@ authorised person, for part 3.8 (Infringement notices for certain offences)—se
 bailiff means a bailiff under this Act.
 certified copies, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
 claim means a claim under the rules.
+committal order—see the Crimes (Sentence Administration) Act 2005, section 10.
 common boundaries determination, for part 4.6 (Small Claims Court)—see section 278.
 contract application, for part 4.6 (Small Claims Court)—see section 278.
 conviction—
@@ -36,7 +34,6 @@ defendant—
   (a) for chapter 3 (Criminal proceedings)—see section 18A; and
   (b) for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
 driver, of a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
-escort, for chapter 3 (Criminal proceedings)—see section 18A.
 fine—
   (a) for division 3.9.2 (Enforcement of fines)—see section 146; and
   (b) for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
@@ -84,7 +81,6 @@ Small Claims Court means the Magistrates Court when it is exercising jurisdictio
 sold vehicle declaration, for part 3.8 (Infringement notices for certain offences)—see section 131F.
 State, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 summary conviction means conviction by a magistrate for an offence.
-superintendent, for a remand centre, for chapter 3 (Criminal proceedings)—see section 18A.
 territory entity, for division 3.9.2 (Enforcement of fines)—see the Auditor-General Act 1996, dictionary.
 territory fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 trespass application, for part 4.6 (Small Claims Court)—see section 278.
