@@ -23,15 +23,10 @@ column 1 item | column 2 exempt people
 19 | a public servant exercising the functions of a social worker responsible to the chief executive responsible for administering the Children and Young People Act 1999, chapter 2 (General objects, principles and parental responsibility)
 20 | a public servant holding a delegation under the Children and Young People Act 1999, section 34 whose principal function is to direct and control the provision of youth justice services in the ACT
 21 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
-22 | an appointee under the Remand Centres Act 1976, section 6 or 6A
-23 | a community corrections officer under the Supervision of Offenders (Community Service Orders) Act 1985
+22 | a corrections officer
+23 | an employee at a place declared to be an attendance centre, institution or shelter under the Children and Young People Act 1999, section 412
 24 | a person appointed as 1 of the following: (a) a royal commission under the Royal Commissions Act 1991, section 5; (b) a board of inquiry under the Inquiries Act 1991, section 5; (c) a member of a judicial commission under the Judicial Commissions Act 1994, section 6
 25 | a public servant during the period the public servant is made available to a royal commission, board of inquiry or judicial commission
-26 | the public servant holding the position of director of corrective services
-27 | a public servant holding a position of manager of a detention centre under the Periodic Detention Act 1995
-28 | a public servant holding a position of a superintendent under the Remand Centres Act 1976
-29 | a public servant holding a position of a custodial officer under the Remand Centres Act 1976 or the Periodic Detention Act 1995
-30 | an employee at a place declared to be an attendance centre, institution or shelter under the Children and Young People Act 1999, section 412
 ## Part 2.2 People who may claim exemption
 column 1 item | column 2 people who may claim exemption
 1 | a minister of religion
