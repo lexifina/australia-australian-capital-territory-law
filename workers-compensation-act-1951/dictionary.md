@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 approved insurer means an insurer approved by the Minister under section 145 (Approved insurers).
 approved rehabilitation provider—see section 139 (1).
@@ -22,7 +22,7 @@ committee, for a matter arising under the Act between an employer and the employ
 compensable injury means an injury in relation to which compensation is payable under this Act.
 compensation means an amount payable under this Act in relation to an injury to, or the death of, a person.
 compensation for costs, for a worker, means compensation to which the worker is entitled under part 4.5 (Compensation for medical treatment, damage and other costs).
-compulsory insurance policy—see section 144 (Meaning of compulsory insurance policy).
+compulsory insurance policy—see section 144.
 cpi indexed—see section 20.
 damages, for chapter 9 (Common law damages)—see section 180.
 damages claim, for part 9.2 (Choice of law)—see section 182C.
@@ -32,7 +32,7 @@ dependant, of a dead worker, means an individual—
   (b) who was—
     (i) a member of the worker’s family; or
     (ii) a person to whom the worker acted in place of a parent or who acted in place of a parent for the worker.
-determined categories, of Territory workers, means the categories of workers determined by the Minister under section 8 (3) (Who is a worker?).
+determined categories, of territory workers, means the categories of workers determined by the Minister under section 8 (3) (Who is a worker?).
 disease includes any physical or mental ailment, disorder, defect or morbid condition, whether of sudden or gradual development, and also includes the aggravation, acceleration or recurrence of a pre-existing disease.
 domestic partner, of a worker who has died, means the person who was the worker’s domestic partner when the worker died.
 Note This definition qualifies the meaning of domestic partner given by the Legislation Act, s 169.
@@ -52,11 +52,11 @@ incapacity date, for a worker, means—
   (b) if the worker has been incapacitated for work because of the same injury for a number of separate periods—the date of beginning of the last period of incapacity; or
   (c) if the worker is dead and the death was not immediately preceded by a period of incapacity for work in relation to which the worker received compensation under this Act—the date of the worker’s death.
 initial loss, for part 4.4 (Compensation for permanent injuries)—see section 61 (1) (Deduction for previous injury or pre-existing condition).
-injured worker—see section 86 (Definitions for ch 5).
-injury—see section 4 (Meaning of injury).
+injured worker—see section 86.
+injury—see section 4.
 Note For an extended meaning of injury for ch 9 (Common law damages), see s 180.
-injury management, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
-injury management program, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
+injury management, for chapter 5 (Injury management process)—see section 86.
+injury management program, for chapter 5 (Injury management process)—see section 86.
 injury notice—
   (a) for chapter 5 (Injury management process)—see section 93 (2) (Early notification of workplace injury); and
   (b) for chapter 6 (Claims)—see section 120 (Time for taking proceedings generally).
@@ -86,13 +86,13 @@ medical treatment means—
 member of the family, in relation to a worker or an employer, means the grandchild, child, stepchild, adopted child, sister, brother, half-sister, half-brother, domestic partner, parent, step-parent, mother-in-law, father-in-law or grandparent of the worker or employer.
 Note For the meaning of domestic partner, see the Legislation Act, s 169. If a worker has died, the definition of domestic partner elsewhere in the dictionary provides that the term refers to the person who was the worker’s domestic partner when the worker died.
 nominal insurer means the nominal insurer appointed under section 164 (1).
-nominated treating doctor, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
+nominated treating doctor, for chapter 5 (Injury management process)—see section 86.
 non-business employer means an employer who employs the worker other than for work that is for (or incidental to) the employer’s trade or business.
 osteopath means a person entitled to practise osteopathy under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
 partially incapacitated—see section 7 (Meaning of partially incapacitated).
 payment includes a non-monetary payment.
 pension age, for a worker—see the Social Security Act 1991 (Cwlth), section 23 (5A), (5B), (5C) and (5D).
-personal injury plan, for chapter 5 (Injury management process)—see section 86 (Definitions for ch 5).
+personal injury plan, for chapter 5 (Injury management process)—see section 86.
 physiotherapist means a person entitled to practise as a physiotherapist under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
 professional sporting activity means—
   (a) participation for fee or reward as a contestant in a sporting or athletic activity; or
@@ -120,10 +120,10 @@ statutory floor means the federal minimum wage decided from time to time by the 
 substantial means real, actual or material.
 substantive law, for part 9.2 (Choice of law)—see section 182B.
 Territory or State of connection—see section 36A.
-Territory worker means a worker for whom the ACT is the Territory or State of connection.
+territory worker means a worker for whom the ACT is the Territory or State of connection.
 therapeutic treatment includes an examination, test or analysis done for the purpose of diagnosing, or treatment given for the purpose of alleviating, an injury.
-totally incapacitated—see section 6 (Meaning of totally incapacitated).
-vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140 (Meaning of vocational rehabilitation).
+totally incapacitated—see section 6.
+vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140.
 weekly compensation, for a worker, means compensation to which the worker is entitled under section 39 (Totally incapacitated workers), section 40 (Partially incapacitated workers up to 26 weeks after incapacity date) or section 41 (Partially incapacitated workers after 26 weeks after incapacity date).
 worker—
   (a) see chapter 3 (Meaning of worker); and
