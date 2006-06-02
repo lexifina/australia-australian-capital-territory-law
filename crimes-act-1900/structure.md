@@ -27,18 +27,12 @@
 ### Division 13.4 Magistrates Court—finding of not guilty because of mental impairment
 ### Division 13.5 Referral of mentally impaired people to tribunal after conviction
 ### Division 13.6 Summary proceedings against mentally impaired people
-## Part 15 Sentences
-### Division 15.1 General principles and procedures
-### Division 15.2 Pre-sentence reports
 ## Part 16 Proceedings after sentence
 ## Part 17 Offences punishable summarily and summary procedure generally
-## Part 18 Conditional release of offenders
-## Part 19 Community service orders
 ## Part 20 Inquiries into convictions
 ### Division 20.1 Preliminary
 ### Division 20.2 How to start inquiry
 ### Division 20.3 Inquiry procedure
 ### Division 20.4 Supreme Court orders following inquiry report
 ### Division 20.5 Application to earlier convictions
-## Part 21 Grant of pardon and remission of penalties
 ## Part 22 Miscellaneous
