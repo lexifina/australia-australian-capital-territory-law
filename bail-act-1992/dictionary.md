@@ -5,10 +5,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act (see s 7)
 · adult
 · child
+· chief executive
 · Chief Magistrate
 · chief police officer
-· director of corrective services
+· correctional centre
 · domestic partner (see s 169 (1))
+· found guilty
 · indictable offence (see s 190 (1))
 · judge
 · magistrate
@@ -24,7 +26,7 @@ accused person includes—
   (a) a person charged with, convicted of, or found guilty of, an offence; and
   (b) a person mentioned in section 8 (1) (c), (d) or (e); and
   (c) a person whose conviction for an offence is stayed; and
-  (d) a person discharged under the Crimes Act 1900, section 402 (Conditional release of offenders without proceeding to conviction) on giving security under that section; and
+  (d) a person subject to an order under the Crimes (Sentencing) Act 2005, section 17 (Non-conviction orders—general); and
   (e) a person in relation to whom an appeal relating to an offence is pending; and
   (f) a person in relation to whom a new trial has been ordered to be held for an offence.
 appeal includes an application for leave to appeal and an appeal proceeding.
@@ -49,8 +51,9 @@ offence includes—
   (a) an alleged offence; and
   (b) except for section 8 (1) (a) and section 9 (1)—
     (i) a breach of the peace or an apprehended breach of the peace; and
-    (ii) breach of a recognisance or an order mentioned in section 8A (1).
-parental responsibility—see the Children and Young People Act 1999, section 17.
+    (ii) a breach of an obligation mentioned in section 8A (Entitlement to bail—breach of sentence obligations).
+parental responsibility—a person has parental responsibility for a child or young person if the person has parental responsibility for the child or young person under the Children and Young People Act 1999, section 18.
+Note For the meaning of parental responsibility, see the Children and Young People Act 1999, s 17.
 surety, in relation to an accused person, means a person other than the accused person who is subject to a liability under a bail condition mentioned in section 25 (1).
 undertaking to appear means an undertaking given under section 28 (1).
 victim in relation to an accused person, means—
