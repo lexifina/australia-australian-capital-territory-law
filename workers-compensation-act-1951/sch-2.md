@@ -1,12 +1,12 @@
 # Schedule 2 Adjacent areas
 (see s 36B (8), def Territory or State)
-## 1 Definitions for sch 2
+## 2.1 Definitions—sch 2
 In this schedule:
 continental shelf—see the Seas and Submerged Lands Act, section 3 (1).
 Petroleum (Submerged Lands) Act means the Petroleum (Submerged Lands) Act 1967 (Cwlth).
 Seas and Submerged Lands Act means the Seas and Submerged Lands Act 1973 (Cwlth).
 territorial sea—see the Seas and Submerged Lands Act, section 3 (1).
-## 2 Adjacent areas for States and the Northern Territory
+## 2.2 Adjacent areas for States and the Northern Territory
 (1) The adjacent area for New South Wales, Victoria, South Australia or Tasmania is—
   (a) the part of the area described in the Petroleum (Submerged Lands) Act, schedule 2 for the State that is within the outer limits of the continental shelf; and
   (b) the space above and below that area.
