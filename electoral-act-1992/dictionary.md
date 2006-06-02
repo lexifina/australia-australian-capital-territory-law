@@ -3,10 +3,12 @@
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · adult
+· correctional centre
 · doctor
 · exercise
 · fail
 · function
+· indictable offence
 · Self-government Act
 · Speaker.
 AAT means the administrative appeals tribunal.
@@ -141,7 +143,6 @@ register of political parties means the register of political parties kept under
 registrar, for part 16 (Disputed elections, eligibility and vacancies)—see section 250 (Definitions for pt 16).
 related political parties, for part 7 (Registration of political parties)—see section 87 (Meaning of related political parties).
 relates, for division 14.5 (Disclosure of electoral expenditure)—see section 223 (Definitions for div 14.5).
-remand centre, for division 10.5 (Mobile polling)—see section 149 (Definitions for div 10.5).
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291 (Definitions for div 17.3).
 research personnel, for part 11 (Polling in Antarctica)—see section 167 (Definitions for pt 11).
 return, for division 14.7 (Compliance)—see section 235 (Definitions for div 14.7).
