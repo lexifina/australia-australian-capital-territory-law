@@ -31,5 +31,4 @@
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
 # Chapter 15 Temporary provisions for acts of terrorism
-# Chapter 17 Transitional—Workers Compensation Amendment Act 2003 (No 2)
 # Chapter 18 Modification of Act
