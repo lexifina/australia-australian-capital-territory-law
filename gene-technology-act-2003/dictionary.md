@@ -40,7 +40,7 @@ evidential material means any of the following:
   (a) a thing in relation to which an offence against this Act has been committed or is suspected, on reasonable grounds, to have been committed;
   (b) a thing that there are reasonable grounds for suspecting will provide evidence about the commission of an offence mentioned in paragraph (a);
   (c) a thing that there are reasonable grounds for suspecting is intended to be used for committing an offence against this Act.
-exempt dealing means a dealing prescribed under the regulations as an exempt dealing.
+exempt dealing means a dealing prescribed by regulation as an exempt dealing.
 facility includes, but is not limited to, the following:
   (a) a building or part of a building;
   (b) a laboratory;
@@ -52,7 +52,7 @@ facility includes, but is not limited to, the following:
 gene technology means any technique for modifying genes or other genetic material, but does not include—
   (a) sexual reproduction; or
   (b) homologous recombination; or
-  (c) any other technique prescribed under the regulations for this paragraph.
+  (c) any other technique prescribed by regulation for this paragraph.
 gene technology account means the Gene Technology Account established under the Commonwealth Act, section 129.
 gene technology agreement means the Gene Technology Agreement made for this Act between the Commonwealth and at least 4 States, as in force from time to time.
 gene technology community consultative committee means the Gene Technology Community Consultative Committee established under the Commonwealth Act, section 106.
@@ -62,10 +62,10 @@ gene technology technical advisory committee means the Gene Technology Technical
 genetically modified organism means—
   (a) an organism that has been modified by gene technology; or
   (b) an organism that has inherited particular traits from an organism (the initial organism), if the traits occurred in the initial organism because of gene technology; or
-  (c) anything declared under the regulations to be a genetically modified organism;
+  (c) anything declared by regulation to be a genetically modified organism;
 but does not include—
   (d) a human being, if the human being is an organism mentioned in paragraph (a) only because the human being has undergone somatic cell gene therapy; or
-  (e) an organism declared under the regulations not to be a genetically modified organism.
+  (e) an organism declared by regulation not to be a genetically modified organism.
 GMO means a genetically modified organism.
 GMO licence means a licence issued under section 55.
 GMO register means the GMO Register established under the Commonwealth Act, section 76.
@@ -74,7 +74,7 @@ GM record means the Record of GMO and GM Product Dealings mentioned in the Commo
 institutional biosafety committee means a committee established by an accredited organisation as an institutional biosafety committee.
 intentional release of a GMO into the environment—see section 11.
 licence holder means the holder of a GMO licence.
-Ministerial council means the Ministerial Council within the meaning of the gene technology agreement.
+ministerial council means the Ministerial Council within the meaning of the gene technology agreement.
 notifiable low risk dealing means a dealing declared to be a notifiable low risk dealing under section 74.
 officer, of the Commonwealth, includes the following:
   (a) a Commonwealth Minister;
@@ -101,11 +101,11 @@ regulator means the gene technology regulator.
 reviewable decision—see section 179.
 State includes the Territory.
 Note State also includes the Northern Territory (see Legislation Act, dict, pt 1).
-Territory agency means—
+territory agency means—
   (a) the Territory; or
   (b) a Minister; or
   (c) an administrative unit; or
-  (d) a Territory instrumentality, and any other corporation established for a public purpose under a Territory law; or
+  (d) a territory instrumentality, and any other corporation established for a public purpose under a territory law; or
   (e) a company in which a controlling interest is held by any 1 of the following, or by 2 or more of the following together:
     (i) the Territory;
     (ii) a Minister;

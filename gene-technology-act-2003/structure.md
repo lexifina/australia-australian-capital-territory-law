@@ -58,5 +58,4 @@
 ### Division 12.2 Review of decisions
 ### Division 12.3 Confidential commercial information
 ### Division 12.4 Acts and omissions of representatives
-### Division 12.5 Transitional provisions
 ### Division 12.6 Other provisions
