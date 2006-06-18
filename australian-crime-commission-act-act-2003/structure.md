@@ -7,6 +7,3 @@
 ## Part 4 Search warrants
 ## Part 5 Exercising functions
 ## Part 6 General
-## Part 7 Transitional provisions
-### Division 7.1 Transitional
-### Division 7.3 Miscellaneous
