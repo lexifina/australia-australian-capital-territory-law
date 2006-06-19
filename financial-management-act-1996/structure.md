@@ -16,5 +16,6 @@
 ### Division 9.3 Functions of governing board members
 ### Division 9.4 Governing board meetings
 ### Division 9.5 Requirements and obligations for territory authorities
+### Division 9.6 Restructuring of territory authorities
+### Division 9.7 Additional provisions for restructuring of certain territory authorities
 ## Part 10 Miscellaneous
-## Part 11 Transitional

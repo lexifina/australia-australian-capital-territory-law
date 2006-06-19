@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -85,7 +85,11 @@ subsidiary—see the Territory-owned Corporations Act 1990, dictionary.
 superannuation appropriation—see the Territory Superannuation Provision Protection Act 2000, dictionary.
 superannuation banking account—see the Territory Superannuation Provision Protection Act 2000, section 7.
 taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
-territory authority means a body corporate established by an Act, but does not include a body declared under section 3B not to be a territory authority.
+territory authority—
+  (a) means a body corporate established by an Act; and
+  (b) to remove any doubt, includes an entity to which part 8 applies; and
+  (c) for division 9.7 (Additional provisions for restructuring of certain territory authorities)—includes a territory authority that has ceased to exist; but
+  (d) does not include a body declared under section 3B not to be a territory authority.
 territory banking account means the banking account mentioned in section 33.
 trust money means—
   (a) money deposited with the Territory pending the completion of a transaction or the determination of a dispute and that may become repayable to the depositor or payable to the Territory or anyone else; or
