@@ -1,5 +1,6 @@
 # Chapter 1 Preliminary
 # Chapter 2 Interpretation generally
+# Chapter 3 Meaning of worker
 # Chapter 4 Entitlement to compensation
 ## Part 4.1 Important concepts
 ## Part 4.2 Compensation for personal injury
@@ -24,11 +25,24 @@
 ## Part 6.4 Settlement of claims
 # Chapter 7 Vocational rehabilitation
 # Chapter 8 Insurance
+## Part 8.1 Insurance—general
+## Part 8.2 Default insurance fund
+### Division 8.2.1 Definitions for pt 8.2
+### Division 8.2.2 Establishment, staff and consultants of DI fund
+### Division 8.2.3 Administration of DI fund
+### Division 8.2.4 Contributions to DI fund
+### Division 8.2.5 DI fund’s relationship with liquidators of approved insurers
+### Division 8.2.6 Making claims for payment
+### Division 8.2.7 Payment of claims
+### Division 8.2.8 Default insurance fund—miscellaneous
 # Chapter 9 Common law damages
 ## Part 9.1 Interpretation and application—ch 9
 ## Part 9.2 Choice of law
 ## Part 9.3 Compensation and common law damages
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
+# Chapter 12 Review of decisions by administrative appeals tribunal
+# Chapter 13 Miscellaneous
 # Chapter 15 Temporary provisions for acts of terrorism
 # Chapter 18 Modification of Act
+# Chapter 19 Transitional—Workers Compensation Amendment Act 2006
