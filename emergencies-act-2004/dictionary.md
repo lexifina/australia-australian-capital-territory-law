@@ -23,11 +23,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 agency, for part 5.3 (Bushfire prevention)—see section 70.
 ambulance levy, for schedule 1 (Ambulance levy)—see schedule 1, section 1.4.
 ambulance service means the ACT Ambulance Service established under section 40.
-ambulance services, for part 4.5 (Other approved providers)—see section 60.
+ambulance services, for part 4.6 (Other approved providers)—see section 60.
 annual report, of an agency, for part 5.3 (Bushfire prevention)—see section 70.
 at premises includes in or on the premises.
-authority means the ACT Emergency Services Authority established under section 7.
-authority guidelines—see section 12.
 basic health benefits, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 built-up area means an area declared to be a built-up area under section 65.
 building code—see the Building Act 2004, section 136 (1).
@@ -36,7 +34,7 @@ bushfire council means the ACT Bushfire Council established under section 127.
 bushfire management requirement means a requirement mentioned in section 74 (3) (a) (Content of strategic bushfire management plan).
 bushfire operational plan means a bushfire operational plan approved under section 78.
 bushfire season, for division 5.6.2 (Controlled activities and offences relating to fire)—see section 119.
-casual volunteer—see section 26 (2).
+casual volunteer—see section 59D (2).
 chief officer means—
   (a) for the ambulance service—the chief officer (ambulance service); and
   (b) for the fire brigade—the chief officer (fire brigade); and
@@ -73,7 +71,7 @@ emergency risk includes the risk of an emergency arising from—
 emergency management committee means the ACT Emergency Management Committee established under section 141.
 emergency plan means the emergency plan made under section 147.
 emergency service means the ambulance service, the fire brigade, the rural fire service or the SES.
-emergency services, for part 4.5 (Other approved providers)—see section 60.
+emergency services, for part 4.6 (Other approved providers)—see section 60.
 exempt contribution, for schedule 1 (Ambulance levy)—see schedule 1, section 1.2.
 family rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 fire alarm includes any signalling apparatus for giving notice of a fire.
@@ -82,7 +80,7 @@ fire appliance includes—
   (b) any fire alarm; and
   (c) any apparatus for alerting the occupants of a building to a fire or facilitating the evacuation of the building; and
   (d) equipment used for the control or evacuation of smoke from a building.
-firefighting services, for part 4.5 (Other approved providers)—see section 60.
+firefighting services, for part 4.6 (Other approved providers)—see section 60.
 firework means a firework within the meaning of the Dangerous Substances (Explosives) Regulation 2004, dictionary other than a general use firework within the meaning of that regulation, section 259.
 hazard means a thing (including an intrinsic property of a thing), or a situation, with potential to—
   (a) cause the death of or harm to a person; and
@@ -116,7 +114,7 @@ medical treatment standards—see section 38 (2) (Standards and protocols for th
 member, of an emergency service—
   (a) means a member of the service; and
   (b) includes the chief officer and deputy chief officer of the service; and
-  (d) other than for section 22 (Authority staff), includes a volunteer or a casual volunteer in relation to the service.
+  (c) includes a volunteer or casual volunteer in relation to the service.
 occupier, of land or premises, for part 5.5 (Inspectors and investigators—see section 98.
 occupancy notice means an occupancy notice issued under section 86 (2) (Notices for premises).
 operational unit means a unit of 1 or more people (however described) forming part of an emergency service.
@@ -125,8 +123,8 @@ person in charge, of land or premises, for part 5.5 (Inspectors and investigator
 premises includes any land, structure or vehicle and any part of an area of land, a structure or vehicle.
 reference month, for schedule 1 (Ambulance levy)—see schedule 1, section 1.3.
 rescue includes the release or removal to a safe place of any person, animal or property trapped or endangered because of fire, accident, hazardous material incident, explosion, natural disaster or similar event.
-rescue services, for part 4.5 (Other approved providers)—see section 60.
-response operation, for part 4.5 (Other approved providers)—see section 60.
+rescue services, for part 4.6 (Other approved providers)—see section 60.
+response operation, for part 4.6 (Other approved providers)—see section 60.
 reviewable decision, for chapter 9 (Administrative review of decisions)—see section 183.
 rural area—see section 65 (4).
 SES—see section 56.
@@ -138,4 +136,4 @@ structure includes industrial plant and equipment.
 support unit, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
 territory controller means the person appointed to be the territory controller for a declared state of emergency under section 159.
 vehicle includes an aircraft, boat and train.
-volunteer member means a person appointed as a volunteer member of an emergency service under section 24.
+volunteer member means a person appointed as a volunteer member of an emergency service under section 59B.

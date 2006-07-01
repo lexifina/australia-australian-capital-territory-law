@@ -1,10 +1,5 @@
 # Chapter 1 Preliminary
-# Chapter 2 The authority and commissioner
-## Part 2.1 Emergency services authority
-## Part 2.2 Functions of authority
-## Part 2.3 Operations of authority
-## Part 2.4 Emergency services commissioner
-## Part 2.5 Authority staff, volunteers and consultants
+# Chapter 2 Emergency services commissioner
 # Chapter 3 Chief officers
 ## Part 3.1 Chief officers—appointments and responsibilities
 ## Part 3.2 Chief officers—functions and powers
@@ -15,8 +10,9 @@
 ### Division 4.2.2 Community fire units
 ## Part 4.3 The rural fire service
 ## Part 4.4 The state emergency service (SES)
-## Part 4.5 Other approved providers
-## Part 4.6 Services from outside ACT
+## Part 4.5 Volunteers
+## Part 4.6 Other approved providers
+## Part 4.7 Services from outside ACT
 # Chapter 5 Fire management
 ## Part 5.1 Interpretation for ch 5
 ## Part 5.2 Fire response and control
