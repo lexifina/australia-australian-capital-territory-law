@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -22,8 +22,14 @@ approved plans—
   (a) means plans that relate to building work for which a building approval is in effect; and
   (b) includes amended plans.
 approved scheme, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+asbestos advice—see the Dangerous Substances Act 2004, section 47J.
+asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
+asbestos code means the codes of practice that are approved under section 139B.
+asbestos removal control plan, in relation to building work, means a plan, complying with the asbestos code, that provides for the management of any asbestos disturbance resulting from the building work.
 authorised insurer means a body corporate authorised to carry on insurance business under the Insurance Act 1973 (Cwlth), section 12.
 basic building work—see section 10.
+bonded asbestos means asbestos in a form where the asbestos fibres are held within another material (for example, cement) but does not include friable asbestos.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 builder, in relation to residential building work or a residential building, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
 builders licence means a licence issued under the Construction Occupation (Licensing) Act 2004 in the construction occupation of builder.
 building—
@@ -45,18 +51,29 @@ class, of building, means that class of building under the building code.
 complying residential building work insurance, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
 completion day, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
 cost, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 86.
+disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
 easement, for part 4 (Stop and demolition notices)—see section 52.
 eligible person, for division 3.2 (Certifiers and government certifiers)—see section 17.
 exempt building—see section 12.
 fidelity certificate, for building work, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
 fidelity fund scheme, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+friable asbestos means asbestos, whether or not contained in other material, that—
+  (a) is crumbly, dusty or powdery; or
+  (b) when dry, can be crumbled, pulverised or reduced to powder by hand pressure.
+Examples of friable asbestos
+1 sprayed asbestos coating or insulation
+2 asbestos lagging
+3 loose asbestos, asbestos in its raw form
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 government certifier, for division 3.2 (Certifiers and government certifiers)—see section 17.
+handling asbestos—to remove any doubt, handling asbestos (including friable asbestos) includes disturbing the asbestos.
 Land Act means the Land (Planning and Environment) Act 1991.
 lease—see the Land Act, section 159.
 licensed construction practitioner means an entity licensed under the Construction Occupations (Licensing) Act 2004.
 licence number—see the Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 load includes superimposed load.
+minor maintenance work—see section 10A.
 occupation class—see the Construction Occupations (Licensing) Act 2004, dictionary.
 owner, of land, means—
   (a) if the land is held under a lease from the Commonwealth for a term of years—the lessee; or
@@ -68,6 +85,7 @@ owner, of land, means—
   (d) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
   (e) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth.
 owner-builder means an entity licensed under the Construction Occupations (Licensing) Act 2004 in the occupation class of owner-builder.
+premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
 removal, of a building—

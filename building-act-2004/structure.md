@@ -19,7 +19,8 @@
 ### Division 6.5 Auditors and actuaries of approved schemes
 ## Part 7 Administration
 ### Division 7.1 Building inspectors
-## Part 8 Building code
+### Division 8.1 Building code and recognised standards
+### Division 8.2 Asbestos code
 ## Part 9 Limitation of liability
 ## Part 10 Miscellaneous
 ## Part 11 Transitional
