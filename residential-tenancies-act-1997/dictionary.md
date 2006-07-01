@@ -9,6 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State
 · under.
 approved mediator means a mediator who is registered under the Mediation Act 1997.
+asbestos advice—see the Dangerous Substances Act 2004, section 47J.
+asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
 commissioner means the commissioner for fair trading.
 crisis accommodation—see section 126.
