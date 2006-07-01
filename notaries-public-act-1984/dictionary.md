@@ -6,6 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Attorney-General
 · business day
 · Supreme Court.
-Legal Practitioners Act means the Legal Practitioners Act 1970.
+Legal Profession Act means the Legal Profession Act 2006.
 registrar means the registrar of the Supreme Court.
 roll means the roll of notaries public for the Australian Capital Territory kept under section 8.
