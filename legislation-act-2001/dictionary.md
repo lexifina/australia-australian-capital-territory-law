@@ -228,7 +228,7 @@ law, of the Territory, means—
   (d) the common law.
 lawyer means a legal practitioner.
 legal aid commission means the Legal Aid Commission (A.C.T.) established under the Legal Aid Act 1977.
-legal practitioner means a barrister, solicitor, barrister and solicitor or legal practitioner entered onto the High Court Register of Practitioners or on the roll, however described, of the Supreme Court of a State or Territory.
+legal practitioner means a person who is admitted to the legal profession under the Legal Profession Act 2006 or a law that is a corresponding law for that Act.
 Legislation Act means the Legislation Act 2001.
 Legislative Assembly means the Legislative Assembly for the Australian Capital Territory.
 Note The Assembly is established by the Self-Government Act, s 8 (1).
@@ -298,7 +298,6 @@ person includes an individual and a corporation.
 Note Section 160 deals with references to a person generally.
 pharmacist means a registered pharmacist under the Pharmacy Act 1931.
 planning and land authority means the Planning and Land Authority established under the Planning and Land Act 2002.
-planning and land council means the Planning and Land Council established under the Planning and Land Act 2002.
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
 power includes authority.
