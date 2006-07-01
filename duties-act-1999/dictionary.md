@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -151,7 +151,7 @@ non-commercial Commonwealth authority means a body corporate (other than an inco
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
-partnership interest—see section 10 (1) (i).
+partnership interest—see section 10 (1) (f).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 person with a disability means a person who has a disability that—
   (a) is attributable to an intellectual, psychiatric, sensory, physical or neurological impairment, or acquired brain injury; and
