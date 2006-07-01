@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -35,11 +35,14 @@ but does not include an amount provided from an appropriation for a purpose ment
 CEO—see chief executive officer.
 chief executive officer (or CEO), of a territory authority, means the person (however described) who is responsible for managing the affairs of the authority.
 class of outputs means a group of outputs identified as a class by an Appropriation Act.
+contract includes an agreement or arrangement.
 department means—
   (a) an administrative unit (excluding any part of an administrative unit prescribed for paragraph (b) and any administrative unit forming part of a group of administrative units prescribed for paragraph (c)); or
   (b) a part of an administrative unit prescribed for this paragraph; or
   (c) a group of 2 or more administrative units prescribed for this paragraph.
 departmental banking account means a banking account mentioned in section 34 (1).
+division 9.6 authority means a territory authority to which division 9.6 applies (see s 105).
+division 9.7 authority means a territory authority to which division 9.7 applies (see s 120).
 establishing Act, for a territory authority, governing board or governing board member, for part 9 (Governance of territory authorities)—see section 72.
 expenses, in relation to an output, means the expenses incurred in providing the output quantified on an accrual accounting basis and includes the overhead expenses properly attributable to the output.
 financial management guidelines means the financial management guidelines under this Act.
@@ -52,6 +55,7 @@ generally accepted accounting principles means accounting principles and procedu
   (b) consistent with this Act and any relevant Appropriation Act.
 governing board, for a territory authority, means the governing board for the authority mentioned in section 76.
 governing board member, for a territory authority with a governing board for part 9 (Governance of territory authorities)—see section 72.
+handover day, for division 9.7 (Additional provisions for restructuring of certain territory authorities)—see section 121.
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
