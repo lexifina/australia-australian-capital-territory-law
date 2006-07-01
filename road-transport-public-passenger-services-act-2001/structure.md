@@ -26,4 +26,10 @@
 ### Division 7.2 Accreditation of hire car service operators
 ### Division 7.3 Entitlement to operate hire car services
 ### Division 7.4 Regulation of hire car services
-## Part 8 Miscellaneous
+## Part 8 Demand responsive services
+### Division 8.1 Basic concepts
+### Division 8.2 Authorisations to operate demand responsive services
+### Division 8.3 Accreditation of demand responsive service operators
+### Division 8.4 Service contracts for demand responsive services
+### Division 8.5 Entitlement to operate demand responsive services
+### Division 8.6 Regulation of demand responsive services

@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -7,14 +7,19 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · function
 · the Territory.
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
+accredited demand responsive service operator means accredited under a regulation to operate a demand responsive service.
 accredited hire car service operator means accredited under the regulations to operate a hire car service.
 accredited taxi network provider means accredited under the regulations to operate a taxi network.
 accredited taxi service operator means accredited under the regulations to operate a taxi service.
 affiliated, in relation to an accredited taxi service operator, means affiliated with an accredited taxi network provider.
 another jurisdiction means a jurisdiction other than the ACT.
+authorisation, in relation to a demand responsive service, means an authorisation under this Act to operate a demand responsive service.
+authorised demand responsive service operator means a person who is authorised under this Act to operate a demand responsive service.
 authority—see road transport authority.
 bus—see section 10A.
 bus service—see section 11.
+demand responsive service—see section 80.
+demand responsive service vehicle—see section 81.
 fare means the amount payable by passengers for transport, or for the transport of passengers’ luggage or other goods, on public passenger vehicles.
 hire car—see section 67.
 hire car licence—see section 61.
@@ -24,7 +29,7 @@ long-distance service—see section 14.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
 public bus—see section 10A.
 public passenger service—see section 10.
-public passenger vehicle means a public bus, taxi or hire car.
+public passenger vehicle means a public bus, taxi, hire car or demand responsive service vehicle.
 public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 regular route service—see section 12.
 restricted hire car—see section 68.
@@ -44,7 +49,9 @@ road related area means—
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
-service contract—see section 17.
+service contract—
+  (a) for part 2 (Bus services)—see section 17; and
+  (b) for part 8 (Demand responsive services)—see section 89.
 taxi—see section 45.
 taxi booking service—see section 29.
 taxi driver means the person driving a taxi if the person holds a public vehicle licence authorising the person to drive the taxi for hire or reward.
