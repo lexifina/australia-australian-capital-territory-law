@@ -41,5 +41,4 @@
 ### Division 11.3 Investigation of grievances by merit protection agency
 ### Division 11.4 Merit protection
 ## Part 13 Miscellaneous
-## Part 15 Fire and emergency services
 ## Part 16 Transitional
