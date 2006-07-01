@@ -20,4 +20,3 @@
 ## Part 13 Retail areas of shopping centres
 ## Part 14 Dispute resolution
 ## Part 15 Miscellaneous
-## Part 16 Transitional
