@@ -21,12 +21,15 @@ bus service—see section 11.
 demand responsive service—see section 80.
 demand responsive service vehicle—see section 81.
 fare means the amount payable by passengers for transport, or for the transport of passengers’ luggage or other goods, on public passenger vehicles.
+fittings, of a vehicle, includes the seats, seat covers and floor coverings of the vehicle.
 hire car—see section 67.
 hire car licence—see section 61.
 hire car service—see section 69.
+inspect a vehicle includes observe the performance of the vehicle or any of its equipment, with or without the use of instruments.
 jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 long-distance service—see section 14.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
+noncompliance notice—see section 120 (1).
 public bus—see section 10A.
 public passenger service—see section 10.
 public passenger vehicle means a public bus, taxi, hire car or demand responsive service vehicle.
@@ -59,6 +62,7 @@ taxi licence—see section 37.
 taxi network—see section 28.
 taxi service—see section 47.
 taxi zone—see the Australian Road Rules, rule 182.
+time of effect, for a noncompliance notice—see section 120 (2) (b).
 tour and charter service—see section 13.
 vehicle means—
   (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or
