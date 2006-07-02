@@ -1,11 +1,12 @@
 # Dictionary
-(see s 4)
+(see s 3)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · ACT
 · exercise
 · function
 · instrument.
+approved premises—see section 15 (3) (b).
 another jurisdiction means a jurisdiction other than the ACT.
 Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
 authorised person, for a provision of this Act, means—
