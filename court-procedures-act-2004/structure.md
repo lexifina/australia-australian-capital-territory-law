@@ -11,13 +11,4 @@
 ## Part 7 Examination of witnesses outside the ACT but in Australia
 ## Part 8 Taking evidence for foreign and Australian courts
 ## Part 9 Miscellaneous
-## Part 10 Temporary provisions
-### Division 10.1 General
-### Division 10.2 Arrest on mesne process
-### Division 10.3 Attachment of earnings
-### Division 10.4 Stay of proceedings
-### Division 10.5 Set-off of debts
-### Division 10.6 Judgment creditors remedies
-### Division 10.7 Supreme Court
-### Division 10.8 Business names—starting legal proceedings
 ## Part 11 Transitional
