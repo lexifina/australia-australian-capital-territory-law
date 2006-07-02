@@ -1,4 +1,4 @@
-## Chapter 1 Preliminary
+# Chapter 1 Preliminary
 # Chapter 2 Magistrates Court and magistrates
 ## Part 2.1 The court
 ## Part 2.2 Appointment and jurisdiction of magistrates
