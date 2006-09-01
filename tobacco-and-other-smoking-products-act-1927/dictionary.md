@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -25,7 +25,7 @@ immediate package, of a smoking product, means a package containing the product�
     (ii) not including any other package containing a further package or packages of cigars (whether wrapped or unwrapped).
 occupier, of premises, means a person having the management or control, or otherwise being in charge, of the premises.
 package does not include a transparent wrapping, unless the wrapping has a smoking advertisement printed on it.
-point of sale means a place, identified in accordance with the regulations (if any), where smoking products are sold within a retail outlet or wholesale outlet, and includes a vending machine from which smoking products are sold.
+point of sale means a place, identified in accordance with the regulations (if any), where smoking products are sold within a retail outlet or wholesale outlet.
 point of sale display means a display of, or about, a smoking product (or products) that complies with part 2.
 premises includes a vehicle, vessel or aircraft, and a permanent or temporary structure.
 price ticket—see section 3.
@@ -44,5 +44,5 @@ smoking advertisement—see section 6.
 smoking product means a tobacco product or a herbal product.
 theatre means a place where any live entertainment or film is presented, performed or exhibited to which admission is or may be procured by payment or by ticket or by any other means, token or consideration.
 tobacco product means tobacco, or something containing tobacco, prepared for human consumption (including a cigarette or cigar).
-vending machine means a machine, or device, operated by a token, money or electronic funds transfer.
+vending machine means a machine or mechanical device used or able to be used for the purpose of selling smoking products without the personal manipulation or attention of the seller, or the seller’s employee or agent, at the time of the sale.
 wholesale outlet means premises where smoking products are available for sale exclusively by wholesale.
