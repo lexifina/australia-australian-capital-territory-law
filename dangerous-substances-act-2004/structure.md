@@ -14,7 +14,6 @@
 ## Part 3.2 Failure to comply with safety duties
 # Chapter 3A Asbestos
 ## Part 3A.1 Important concepts
-## Part 3A.2 The task force
 ## Part 3A.3 Public education
 ## Part 3A.4 Asbestos advice and assessment reports
 # Chapter 4 Licences for dangerous substances
