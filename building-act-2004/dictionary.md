@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -88,6 +88,7 @@ owner-builder means an entity licensed under the Construction Occupations (Licen
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+recognised standard means a document declared to be a recognised standard under section 139A (1).
 removal, of a building—
   (a) means the removal of the building from a place for re-erection, with or without further alteration, at another place; and
   (b) includes the demolition of part of the building removed or proposed to be removed.
