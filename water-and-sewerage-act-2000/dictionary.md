@@ -38,11 +38,11 @@ irrigation system—
 licence of a stated kind, means a licence of that kind under the Construction Occupations (Licensing) Act 2004.
 licence number—see Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 licensee, in relation to a service, means a person licensed under the Construction Occupations (Licensing) Act 2004 to provide the service.
-MP52 means the Manual of Authorisation Procedures for Plumbing and Drainage Products, published by Standards Australia on behalf of the Agriculture and Resources Management Council of Australia and New Zealand Committee for Plumbing Product Authorisations, entitled ‘SAA MP52’, as in force from time to time.
 occupier, of premises, for part 4 (Enforcement)—see section 18.
 offence, for part 4 (Enforcement)—see section 18.
 owner, for land, includes the occupier, lessee, tenant or holder of any land on which any sewerage or water service has been, or is to be, installed.
 plan approval means a plan approval issued under section 8 (Issue of plan approvals).
+plumbing code means a document declared under section 46.
 premises includes land and place.
 reasonably believes, for part 4 (Enforcement)—see section 18.
 responsible utility means—
@@ -54,7 +54,7 @@ sanitary drain—
     (ii) is, or is to be, indirectly or directly connected to a sewerage network, a septic tank, on-site sewerage treatment unit or other receptacle for sewage; but
   (b) does not include—
     (i) a grey-water irrigation hose used, or for use, in relation to the carrying of grey water directly to a grey-water irrigation area; or
-    (ii) part of a sewerage network.
+    (ii) is, or is intended to become, part of a sewerage network.
 sanitary drainage work—
   (a) means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part, of a sanitary drain; but
   (b) does not include—
@@ -89,7 +89,9 @@ water network—see the Utilities Act 2000, section 12.
 water service—
   (a) means the part of the water supply pipework used, or for use, for water supply from a primary water source up to and including outlet valves at fixtures and water appliances; and
   (b) includes an irrigation system; but
-  (c) does not include a fire sprinkler system or part of a water network.
+  (c) does not include—
+    (i) a fire sprinkler system; or
+    (ii) part of a water network, or water supply pipework that is intended to become part of a water network.
 water supply plumbing work—
   (a) means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part, of a water service or a hot-water system; and
   (b) includes fire sprinkler work; but
