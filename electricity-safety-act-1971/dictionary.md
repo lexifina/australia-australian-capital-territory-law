@@ -2,8 +2,9 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· under
-· function.
+· function
+· State
+· under.
 article of electrical equipment means—
   (a) a wire, cable, fitting, meter, insulator, switchboard, or apparatus designed or intended for use in an electrical installation; and
   (b) an appliance, fitting or apparatus operated by electricity and the cable and other things required for its connection to an electrical installation.
@@ -41,9 +42,7 @@ occupier, of premises, includes—
   (a) a person believed on reasonable grounds to be an occupier of the premises; and
   (b) a person apparently in charge of the premises.
 premises means a building, structure or place (whether built on or not and whether enclosed or not), and includes an aircraft, a vessel and a vehicle.
-prescribed article of electrical equipment means—
-  (a) an article of electrical equipment to which a declaration under section 11 (1) applies; or
-  (b) an article of electrical equipment to which an order under the Electricity Safety Act 1945 (NSW), section 21 applies, other than an article to which a declaration under section 11 (4) applies.
+prescribed article of electrical equipment—see section 11.
 prohibited, in relation to an article of electrical equipment—see section 28 (Prohibited articles).
 regulatory authority, for a State or another Territory, means—
   (a) for New South Wales—the Department of Fair Trading; or
