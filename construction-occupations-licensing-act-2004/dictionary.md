@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -22,6 +22,7 @@ building surveyor—see section 9.
 building work—see the Building Act 2004, section 6.
 class, of a construction occupation, means a class into which the occupation is divided under the regulations (see section 15).
 compliance auditor, for part 6 (Enforcement)—see section 76.
+conduct means an act or an omission to do an act.
 construction occupation—see section 7.
 construction practitioner—see section 6.
 daily ACT newspaper means a daily newspaper published and circulating in the ACT.
@@ -35,7 +36,10 @@ drainer—see section 10.
 electrician—see section 11.
 emergency rectification order—see section 39.
 endorsement means an endorsement under section 22.
-former licensee means a person who has been a licensee.
+engage in conduct means—
+  (a) do an act; or
+  (b) omit to do an act.
+former licensee means an entity that has been a licensee.
 gasfitter—see section 12.
 infringement notice—see Magistrates Court Act 1930, section 117.
 inquiry means an inquiry under division 5.3 (Disciplinary inquiries).
