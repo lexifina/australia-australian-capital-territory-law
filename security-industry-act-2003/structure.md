@@ -13,4 +13,3 @@
 ### Division 3.10 Review of decisions
 ## Part 4 Other offences
 ## Part 5 Miscellaneous provisions
-## Part 6 Transitional provisions
