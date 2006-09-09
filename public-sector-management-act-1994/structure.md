@@ -24,7 +24,7 @@
 ### Division 5.6 Temporary performance of duties—offices other than offices of chief executive and executive offices
 ### Division 5.7 Temporary employment
 ### Division 5.8 Miscellaneous
-## Part 6 Retirement and redeployment of offices other than chief executives and executives
+## Part 6 Retirement and redeployment of officers other than chief executives and executives
 ## Part 7 Long service leave
 ## Part 8 Maternity leave
 ## Part 9 Discipline
@@ -41,4 +41,3 @@
 ### Division 11.3 Investigation of grievances by merit protection agency
 ### Division 11.4 Merit protection
 ## Part 13 Miscellaneous
-## Part 16 Transitional
