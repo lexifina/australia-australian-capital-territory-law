@@ -53,7 +53,6 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (b) will occur if a discretion conferred under the trust is not exercised; or
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or people in whom it is vested if a discretion conferred under the trust is exercised.
 domestic relationship—see the Domestic Relationships Act 1994.
-duly stamped, in relation to an instrument, means duly stamped as mentioned in section 235.
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
 dutiable value—
@@ -89,7 +88,6 @@ hire-purchase agreement means a letting of goods with an option to purchase and 
     (ii) a business or an interest in a business.
 hiring charges—see section 155.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
-impressed stamp means a stamp impressed by means of a die or other device made under section 233.
 instrument includes a written document and a written statement.
 insurance includes assurance.
 insurance intermediary—see the Insurance (Agents and Brokers) Act 1984 (Cwlth).
@@ -203,6 +201,7 @@ special hiring agreement means a written agreement for the hire of goods—
       (B) fail or malfunction in the normal course of operation or use; or
       (C) are temporarily replaced during the servicing, maintenance or repair of the goods; or
     (ii) provisions under which other goods, whether of the same or a different type, may be additionally provided.
+stamped—see section 233.
 stock exchange means—
   (a) the Australian Stock Exchange Limited; or
   (b) a stock exchange that is a member of the Fédération Internationale des Bourses de Valeurs; or
