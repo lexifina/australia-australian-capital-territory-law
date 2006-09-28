@@ -1,16 +1,23 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· administrative unit
 · adult
-· correctional centre
+· chief executive (see s 163)
+· Commonwealth
 · doctor
+· Executive
 · exercise
 · fail
 · function
-· indictable offence
-· Self-government Act
-· Speaker.
+· judge
+· lawyer
+· Self-Government Act
+· Speaker
+· State
+· statutory office-holder
+· territory instrumentality.
 AAT means the administrative appeals tribunal.
 abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
