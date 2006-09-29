@@ -282,7 +282,7 @@ trust money means money entrusted to a law practice in the course of or in conne
   (d) money controlled by a law practice (or by an associate of the practice, whether alone or with another associate) under a power to deal with money for or on behalf of someone else that is—
     (i) exercisable by the practice (or by an associate of the practice, whether alone or with another associate); or
     (ii) exercisable jointly and severally with the person or a nominee or nominees of the person;
-but does not include money to which section 211 (Money involved in financial services or investments) applies.
+but does not include money to which section 212 (Money involved in financial services or investments) applies.
 trust property means property entrusted to a law practice in the course of or in connection with the provision of legal services by the practice, but does not include trust money.
 trust records, for part 3.1 (Trust money and trust accounts)—see section 210 (2) and (3).
 uplift fee, for part 3.2 (Costs disclosure and review)—see section 261.
