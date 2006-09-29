@@ -9,7 +9,6 @@
 ## Part 3.1 Wrongful act or omission causing death
 ### Division 3.1.1 Preliminary—liability for death
 ### Division 3.1.2 Liability and damages for death
-### Division 3.1.3 Procedural matters—action for death
 ## Part 3.2 Mental harm
 ## Part 3.3 Temporary exclusion of liability for terrorism-associated risks
 # Chapter 4 Negligence
@@ -27,7 +26,6 @@
 ## Part 7.1 Damages for personal injuries—exclusions and limitations
 ## Part 7.2 Loss of capacity to perform domestic services
 ## Part 7.3 Contributory negligence
-## Part 7.4 Other provisions—damages
 # Chapter 7A Proportionate liability
 # Chapter 8 Liability of public and other authorities
 # Chapter 9 Defamation
