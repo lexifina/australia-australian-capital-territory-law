@@ -37,8 +37,9 @@ the following matters:
   (e) exhibits and other things held by an ACT court or prescribed tribunal for a proceeding, including, for example, disposal or destruction of unclaimed things;
   (f) rules relating to lawyers acting for parties in proceedings;
   (g) rules about the reckoning of time and anything else about time;
-  (h) the conduct of business in chambers;
-  (i) transitional arrangements
+  (h) confidentiality for mediators, neutral evaluators and expert witnesses;
+  (i) protection from liability for mediators, neutral evaluators and expert witnesses;
+  (j) transitional arrangements
 ## Part 1.2 Civil proceedings
 ## 7 Beginning proceedings
 beginning proceedings, including, for example, the following:
@@ -53,11 +54,10 @@ parties and proceedings, including, for example, the following:
   (b) multiple civil proceedings;
   (c) interpleader proceedings;
   (d) proceedings by or against businesses or people with a legal disability;
-  (e) third-party procedure
-## 10 Appearance
-appearances, including, for example, the following:
-  (a) entering appearances;
-  (b) conditional appearances
+  (e) set-off and contribution, including, for example, rights to set-off and contribution;
+  (f) third-party procedure
+## 10 Steps in proceedings
+steps in proceedings, including, for example, the first step for a defendant in a proceeding
 ## 11 Pleadings
 pleadings, including, for example, the following:
   (a) matters in pleadings and particulars;
@@ -69,13 +69,13 @@ disclosure, including, for example, the following:
   (a) disclosure by parties, including discovery and inspection of documents and interrogatories;
   (b) non-party disclosure;
   (c) admissions;
-  (d) disclosure of experts reports and hospital reports;
+  (d) disclosure of experts reports;
   (e) disclosure of other material to which legal professional privilege may attach, including by direction or order of the court or tribunal
 ## 13 Preservation of rights and property
 preservation of rights and property, including, for example, the following:
   (a) inspection, detention and preservation of property;
-  (b) injunctions, including, for the Supreme Court, Mareva injunctions and Anton Piller orders;
-  (c) for the Supreme Court—receivers and sales by court order
+  (b) injunctions;
+  (c) for the Supreme Court—receivers and sales of land by court order
 ## 14 Ending proceedings early
 ending proceedings early, including, for example, the following:
   (a) ending proceedings because of default;
@@ -107,8 +107,11 @@ trials and other hearings, including, for example, the following:
   (d) decisions without pleadings or without hearings;
   (e) separate decisions on questions;
   (f) assessors and special referees;
-  (g) assessment of damages;
-  (h) simplified procedures for minor debt claims and other claims
+  (g) making findings of liability independently of awarding damages;
+  (h) assessment and awarding of damages, including, for example—
+    (i) structured settlements, that is, payment of awards of damages otherwise than in lump sum form; and
+    (ii) awarding damages independently of making findings of liability;
+  (i) simplifies procedures for certain claims
 ## 18 Judgments
 judgments, including, for example, the following:
   (a) effect of judgments;
@@ -119,7 +122,8 @@ particular proceedings, including, for example, the following:
   (b) proceedings for damages for personal injury or death;
   (c) the payment of amounts into court;
   (d) for the Supreme Court—judicial review proceedings;
-  (e) for the Supreme Court—prerogative remedy proceedings
+  (e) for the Supreme Court—prerogative orders, including prerogative injunctions and declarations, and the form in which prerogative relief or remedy may be granted;
+  (f) for the Supreme Court—habeas corpus orders, including the form in which relief by way of habeas corpus may be granted
 ## 20 Interest
 interest, including, for example, the following:
   (a) interest up to judgment;
@@ -135,9 +139,11 @@ for the Supreme Court, adoption, including, for example, applications for adopti
 ## 23 Arbitration
 for the Supreme Court, arbitration, including, for example, the use of court-appointed referees
 ## 24 Contempt of court
-for the Supreme Court, contempt of court, including, for example, the following:
+(1) for the Supreme Court, contempt of court, including, for example, the following:
   (a) contempt of the court as constituted other than by a judge;
-  (b) proceedings for failure to comply with orders, other than orders to pay an amount
+  (b) proceedings for failure to comply with orders, other than orders to pay an amount;
+  (c) contempt of the Magistrates Court
+(2) for the Magistrates Court, the power to refer contempt of court to the Supreme Court
 ## 25 Trusts
 for the Supreme Court, trusts
 ## 26 Costs
@@ -145,8 +151,7 @@ costs, including, for example, the following:
   (a) security for costs;
   (b) entitlement to recover costs;
   (c) costs of parties in proceedings;
-  (d) assessment of costs;
-  (e) taxation of costs
+  (d) assessment of costs
 ## 27 Appeals
 appeals, including, for example, the following:
   (a) for the Magistrates Court and prescribed tribunals—appeals to the Supreme Court;
