@@ -15,4 +15,6 @@
 ### Division 4.5 Protection of counselling communications
 ### Division 4.6 Sexual offence proceedings—directions and warnings to juries
 ### Division 4.7 Family objections
-## Part 5 Miscellaneous
+## Part 5 Certain evidence under court rules not admissible
+## Part 6 Publication of evidence
+## Part 7 Miscellaneous
