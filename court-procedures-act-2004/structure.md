@@ -9,6 +9,9 @@
 ## Part 5 Court security
 ## Part 6 Procedural provisions—all proceedings
 ## Part 7 Procedural provisions—civil proceedings
+## Part 8 Supreme Court—criminal proceedings
+### Division 8.1 Supreme Court criminal proceedings—preliminary
+### Division 8.2 Trial on indictment
 ## Part 9 Miscellaneous
 ## Part 11 Transitional
 ## Part 12 Transitional—rules of court
