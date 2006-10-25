@@ -4,6 +4,7 @@
 ## Part 4 Advertising, promotion and sponsorship
 ## Part 5 Registrar and deputy registrars
 ## Part 6 Enforcement
+## Part 6A Tobacco compliance testing
 ## Part 7 Licences
 ### Division 7.1 Interpretation
 ### Division 7.2 Licences

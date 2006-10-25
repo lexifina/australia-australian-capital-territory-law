@@ -5,14 +5,21 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · contravene
 · exercise
 · function.
-authorised officer means an authorised officer under section 32.
+approved procedures, for part 6A (Tobacco compliance testing)—see section 42A.
+approved program, for part 6A (Tobacco compliance testing)—see section 42A.
+authorised officer—
+  (a) means an authorised officer under section 32; but
+  (b) for part 6A (Tobacco compliance testing)—see section 42A.
 carton means a package containing packages of a smoking product, or a package designed to contain packages of a smoking product, but does not include a package containing individually-wrapped cigars (unless the package contains a further package or packages of the cigars).
 cigar—
   (a) means a roll of cut tobacco for smoking that is enclosed in tobacco leaf or the leaf of another plant; and
   (b) includes any other smoking product prescribed as a cigar under the regulations.
+compliance test, for part 6A (Tobacco compliance testing)—see section 42B.
+conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, section 13.
 deputy registrar means a deputy Registrar of Tobacco under section 30.
 display, of a smoking product at a point of sale display at a retail or wholesale outlet, means display to customers of the retail or wholesale outlet.
 drug means a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences).
+engage in conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, section 13.
 herbal product means a product prepared for smoking that contains a herb or other plant matter but does not contain tobacco or a drug.
 identity card means—
   (a) in relation to a public health officer under the Public Health Act 1997—the identity card issued to him or her under that Act;
@@ -37,6 +44,7 @@ product line means a kind of smoking product distinguishable from other kinds by
   (d) the number of items in the immediate package in which it is sold;
   (e) for cigars—by the fact that the cigars of the type in question are sold individually (whether or not cigars of the same type are also sold, packaged in multiples, in a different product line).
 public place means a place to which the public ordinarily has access, whether by payment or not.
+purchase assistant, for part 6A (Tobacco compliance testing)—see section 42B (1) (a).
 registrar means the Registrar of Tobacco under section 29, and includes a deputy registrar.
 retail outlet means premises where smoking products are available for sale by retail.
 sell—see section 5.
@@ -46,3 +54,4 @@ theatre means a place where any live entertainment or film is presented, perform
 tobacco product means tobacco, or something containing tobacco, prepared for human consumption (including a cigarette or cigar).
 vending machine means a machine or mechanical device used or able to be used for the purpose of selling smoking products without the personal manipulation or attention of the seller, or the seller’s employee or agent, at the time of the sale.
 wholesale outlet means premises where smoking products are available for sale exclusively by wholesale.
+young person, for part 6A (Tobacco compliance testing)—see section 42A.
