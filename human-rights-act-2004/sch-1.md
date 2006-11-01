@@ -19,8 +19,8 @@ column 1 item | column 2 section | column 3 description | column 4 ICCPR article
 16 | 17 | taking part in public life | 25
 17 | 18 (1)-(7) | right to liberty and security of person | 9
 18 | 18 (8) | no imprisonment for contractual obligations | 11
-19 | 19 | humane treatment when deprived of liberty | 10 (1),(2) (a)
-20 | 20 | children in the criminal process | 10 (2) (b),(3)
+19 | 19 | humane treatment when deprived of liberty | 10 (1), (2) (a)
+20 | 20 | children in the criminal process | 10 (2) (b), (3)
 21 | 21 | fair trial | 14 (1)
 22 | 22 (1) | rights in criminal proceedings | 14 (2)
 23 | 22 (2) | minimum guarantees for those charged | 14 (3)
