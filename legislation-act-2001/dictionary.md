@@ -77,6 +77,7 @@ chief planning executive means the Chief Planning Executive under the Planning a
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 chief solicitor means the chief solicitor under the Government Solicitor Act 1989.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
+children and young people commissioner means the Children and Young People Commissioner under the Human Rights Commission Act 2005.
 Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
 city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
 Note See s 103 for the meaning of references to repealed laws.
@@ -85,7 +86,6 @@ Note The office of Clerk is established under the Public Sector Management Act 1
 commencement, of an Act or statutory instrument—see section 80.
 commencement notice—see section 11.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Consumer Affairs) Act 1973.
-commissioner for health complaints means the Community and Health Services Complaints Commissioner under the Community and Health Services Complaints Act 1993.
 commissioner for housing means the Commissioner for Housing under the Housing Assistance Act 1987.
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
@@ -129,8 +129,9 @@ Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
+disability and community services commissioner means the Disability and Community Services Commissioner under the Human Rights Commission Act 2005.
 disallowable instrument—see section 9.
-discrimination commissioner means the Discrimination Commissioner under the Discrimination Act 1991.
+discrimination commissioner means the Discrimination Commissioner under the Human Rights Commission Act 2005.
 discrimination tribunal means the Discrimination Tribunal established under the Discrimination Act 1991.
 doctor—
   (a) means a person unconditionally registered as a medical practitioner under the Health Professionals Act 2004; and
@@ -189,10 +190,13 @@ Governor means—
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 guardianship tribunal means the Guardianship and Management of Property Tribunal established under the Guardianship and Management of Property Act 1991.
+health services commissioner means the Health Services Commissioner under the Human Rights Commission Act 2005.
 heritage council means the Australian Capital Territory Heritage Council under the Heritage Act 2004.
 heritage register means the heritage register under the Heritage Act 2004.
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
+human rights commission means the Human Rights Commission established under the Human Rights Commission Act 2005.
+human rights commissioner means the Human Rights Commissioner under the Human Rights Commission Act 2005.
 Imperial Act means an Act of the United Kingdom Parliament.
 independent competition and regulatory commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory established under the Independent Competition and Regulatory Commission Act 1997.
 indictable offence—see section 190.
