@@ -1,6 +1,6 @@
 # Schedule 1 Acts included in sources of law in the ACT
 (see s 17)
-## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
+## U Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 name of Act | column 3 number or date of assent and original jurisdiction
 1 | Magna Carta | (1297) 25 Edw 1 c 29 (UK)
 2 | Criminal and Civil Justice Act 1351 | 25 Edw 3 St 5 c 4 (UK)
@@ -24,7 +24,7 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 20 | Forfeiture and Validation of Leases Act 1905 | 1905 No 8 (NSW)
 21 | Gaming and Betting Act 1906 | 1906 No 13 (NSW)
 22 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
-## Part 1.2 Former NSW Acts applied after establishment of Territory
+## U Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
 column 1 item | column 2 name of NSW Act | column 3 applying Territory Act
