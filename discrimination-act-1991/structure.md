@@ -14,3 +14,18 @@
 ## Part 5 Sexual harassment
 ## Part 6 Racial, sexuality and HIV/AIDS vilification
 ## Part 7 Other unlawful acts
+## Part 8 General principles about unlawful acts
+## Part 9 Hearing of complaints
+### Division 9.1 Preliminary
+### Division 9.2 Hearings by tribunal
+### Division 9.3 Tribunal procedure
+### Division 9.4 Granting of relief by tribunal
+### Division 9.5 Enforcement of orders and decisions of tribunal
+### Division 9.6 Miscellaneous
+## Part 10 Exemptions
+## Part 11 Discrimination tribunal
+### Division 11.1 Establishment, functions and powers
+### Division 11.2 Tribunal members
+### Division 11.3 Registrar and deputy registrars
+### Division 11.4 Other provisions
+## Part 12 Miscellaneous

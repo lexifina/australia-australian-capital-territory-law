@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -20,11 +20,10 @@ accommodation includes residential and business accommodation.
 carer means a person on whom another person is wholly or substantially dependent for ongoing care and attention.
 club means a club that holds a club licence under the Liquor Act 1975.
 commission agent means a person who does work for another person as the agent of that other person and who is remunerated (whether wholly or partially) by commission.
-commissioner means the Discrimination Commissioner.
 committee of management, in relation to a club or organisation, means the group or body of people (however described) that manages the affairs of the club or organisation.
-Commonwealth commission means the Human Rights and Equal Opportunity Commission established by the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
-complainant—see section 5.
-complaint means a complaint made in accordance with section 72.
+complainant, in relation to a complaint, means the person who made the complaint.
+complaint means a complaint about unlawful discrimination that may be made under the HRC Act.
+complaint about unlawful discrimination—see section 76.
 compulsory conference means a conference called under section 82.
 contract worker means a person (the worker) who does work for someone else (the third person) under a contract between the worker’s employer and the third person.
 deputy president means a deputy president of the tribunal.
@@ -40,10 +39,11 @@ employment includes—
   (c) work as an unpaid worker.
 employment agency means any person who or body that (whether for payment or not) assists people to find employment or other work or assists employers to find employees or workers.
 HIV/AIDS status, for part 6 (Racial, sexuality and HIV/AIDS vilification)—see section 65.
-investigation means an investigation under division 8.2.
+HRC means the human rights commission.
+HRC Act means the Human Rights Commission Act 2005.
 man means a member of the male sex irrespective of age.
 member, of the tribunal, means the president or a deputy president.
-party, for part 8 (Complaints)—see section 70.
+party, for part 9 (Hearing of complaints)—see section 74.
 potential pregnancy—see section 5A.
 pregnancy includes potential pregnancy.
 premises includes—
@@ -70,8 +70,7 @@ relative, of a person, means—
   (a) a person who is related to the person by blood, marriage, affinity or adoption; or
   (b) a domestic partner of the person or of a person mentioned in paragraph (a).
 relevant class of people means a class of people whose members are identified by reference to an attribute mentioned in section 7.
-representative complaint means a complaint that is dealt with by the commissioner, in accordance with section 78, as a representative complaint.
-respondent—see section 5.
+respondent, in relation to a complaint, means the person against whom the complaint is made.
 services includes—
   (a) services relating to banking, insurance or the provision of grants, loans, credit or finance; and
   (b) services relating to entertainment, recreation or refreshment; and
@@ -81,14 +80,13 @@ services includes—
   (f) the provision of scholarships, prizes or awards.
 sexual harassment, for part 5 (Sexual harassment)—see section 58.
 sexuality means heterosexuality, homosexuality (including lesbianism) or bisexuality.
-staff, in relation to the commissioner, means the staff referred to in section 118.
 Territory employee means a person who is—
   (a) a public servant; or
   (b) employed by a Territory authority;
 transsexual means a person of one sex who—
   (a) assumes the bodily characteristics of the other sex, whether by means of medical intervention or otherwise; or
   (b) identifies himself or herself as a member of the other sex or lives, or seeks to live, as a member of that other sex.
-tribunal means the Discrimination Tribunal established by section 110A.
+tribunal means the Discrimination Tribunal established by section 111.
 unpaid worker means a person who performs work for an employer for no remuneration.
 voluntary body means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include—
   (a) a club; or
