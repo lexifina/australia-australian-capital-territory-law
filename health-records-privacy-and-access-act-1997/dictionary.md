@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -10,7 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · individual.
 child, in relation to a person, includes an adopted child or stepchild of the person.
 collector means a person who, in the course of his or her profession, employment or official duty, collects personal health information.
-commissioner means the commissioner for health complaints.
+commission means the human rights commission.
 consent includes implied consent.
 consumer means an individual who uses, or has used, a health service, or in relation to whom a health record has been created, and includes—
   (a) if the consumer is a young person or legally incompetent person—a guardian of the consumer; and
@@ -19,7 +19,7 @@ consumer means an individual who uses, or has used, a health service, or in rela
 Note Under s 13A an entity is taken to be the consumer for the purpose of accessing certain information if the consumer has consented to disclosure of the information to the entity.
 deceased consumer means a deceased person who, before his or her death, was a consumer.
 destroy a record includes delete the record.
-disability—see the Community and Health Services Complaints Act 1993.
+disability—see the Human Rights Commission Act 2005, section 8 (2).
 factual matter, in relation to a consumer, means—
   (a) a history of the health, an illness or a disability of the consumer; or
   (b) any findings on an examination of the consumer in relation to the health, an illness or a disability of the consumer; or
