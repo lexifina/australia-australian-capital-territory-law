@@ -13,6 +13,7 @@
 ## Part 6.1 General
 ## Part 6.2 Making of statutory instruments generally
 ## Part 6.3 Making of certain statutory instruments about fees
+## Part 6.4 Numbering and notification of legislative instruments
 # Chapter 7 Presentation, amendment and disallowance of subordinate laws and disallowable instruments
 # Chapter 8 Commencement and exercise of powers before commencement
 # Chapter 9 Repeal and amendment of laws

@@ -62,7 +62,7 @@ Examples
 2 The period beginning at the start of 30 January 2001 and ending at midnight on 28 February 2001 is a calendar month. The calendar month ends on the last day of February because in that year February does not have a day corresponding to 29 January (because 2001 is not a leap year). If the period began at the start of 30 January 2004 (ie a leap year), the calendar month would end at midnight on 29 February 2004.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 calendar year means a period of 12 months beginning on 1 January.
-change includes change by omission, substitution or addition.
+change includes change by alteration, omission, substitution or addition.
 chief executive—see section 163.
 chief health officer means the Chief Health Officer under the Public Health Act 1997.
 Chief Justice means the Chief Justice of the Supreme Court.
@@ -168,7 +168,7 @@ financial year means a period of 12 months beginning on 1 July.
 fire brigade means the ACT Fire Brigade established under the Emergencies Act 2004.
 for, in relation to an Act or statutory instrument, includes for the purposes of the Act or statutory instrument.
 Note Under s 7 (3) and s 13 (3) a reference to an Act or statutory instrument includes a reference to a provision of an Act or statutory instrument.
-foreign country means a country (whether or not an independent sovereign state) outside Australia and the external territories.
+foreign country means a country (whether or not an independent sovereign country) outside Australia and the external territories, and includes a state, province or other part of such a country.
 former NSW Act means an Act corresponding to a NSW Act mentioned in schedule 1.
 Note 1 The Crimes Act 1900 is taken to have been enacted by the Legislative Assembly because of the Crimes Legislation (Status and Citation) Act 1992. The 1992 Act was repealed by the Law Reform (Miscellaneous Provisions) Act 1999, but its previous operation was saved (see s 5 (2)).
 Note 2 The other former NSW Acts are taken to have been enacted by the Legislative Assembly because of the Interpretation Act 1967, s 65. Section 65 has expired, but its previous operation was saved (see s 65 (3)).
@@ -236,6 +236,7 @@ legal practitioner means a person who is admitted to the legal profession under 
 Legislation Act means the Legislation Act 2001.
 Legislative Assembly means the Legislative Assembly for the Australian Capital Territory.
 Note The Assembly is established by the Self-Government Act, s 8 (1).
+legislative instrument—see section 12.
 liability means any liability or obligation (whether liquidated or unliquidated, certain or contingent, or accrued or accruing).
 magistrate means a Magistrate under the Magistrates Court Act 1930.
 Magistrates Court means the Magistrates Court established under the Magistrates Court Act 1930.
@@ -247,6 +248,7 @@ may—see section 146.
 medical practitioner means a doctor.
 mental health tribunal means the Mental Health Tribunal established under the Mental Health (Treatment and Care) Act 1994.
 midnight, in relation to a particular day, means the time when the day ends.
+modification includes modification by alteration, omission, substitution and addition.
 Minister—see section 162.
 modification includes modification by addition, omission and substitution.
 month means calendar month.
@@ -265,7 +267,7 @@ Northern Territory means the Northern Territory of Australia.
 notifiable instrument—see section 10.
 notification—
   (a) of an Act—see section 30; and
-  (b) of a registrable instrument—see section 63.
+  (b) of a legislative instrument—see section 63.
 notification day, for an Act or statutory instrument, means the day the Act or instrument is notified.
 NSW Act means an Act of the New South Wales Parliament.
 NSW correctional centre means a correctional centre (however described) under the Crimes (Administration of Sentences) Act 1999 (NSW).
@@ -326,7 +328,6 @@ public trustee means the Public Trustee for the Australian Capital Territory und
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
 recognised transgender person—see section 169A (3).
 registered surveyor means a surveyor under the Surveyors Act 2001.
-registrable instrument—see section 12.
 registrar means—
   (a) in relation to the Supreme Court—the Registrar of the Supreme Court; or
   (b) in relation to the Magistrates Court—the Registrar of the Magistrates Court; or
