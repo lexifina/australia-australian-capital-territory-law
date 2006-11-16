@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · correctional centre
 · corrections officer
 · director of public prosecutions
+· doctor
 · domestic partner (see s 169 (1))
 · establish
 · Executive
@@ -46,11 +47,11 @@ court means the Coroner’s Court continued in existence under section 4 (1).
 custodial officer—see section 3D.
 death includes a suspected death.
 death in custody—see section 3C.
-disaster means an occurrence in the Territory due to natural or other causes that—
+disaster means an occurrence in the ACT due to natural or other causes that—
   (a) caused or threatened to cause substantial—
     (i) loss of life or property; or
     (ii) injury or distress to persons or damage to property or the environment; or
-    (b) in any way substantially endangered the safety of the public in any part of the Territory.
+  (b) in any way substantially endangered the safety of the public in any part of the ACT.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.

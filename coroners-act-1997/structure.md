@@ -19,4 +19,3 @@
 ## Part 8 Powers of Supreme Court
 ## Part 9 Witnesses expenses and other amounts
 ## Part 10 Miscellaneous
-## Part 11 Savings and transitionals
