@@ -2,9 +2,11 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· entity
 · Legislative Assembly
 · Minister (see s 162)
-· penalty unit (see s 133).
+· penalty unit (see s 133)
+· sitting day.
 approved rules means—
   (a) in relation to the racing club—the rules of thoroughbred racing; and
   (b) in relation to the harness club—the rules of harness racing; and
@@ -33,7 +35,7 @@ race means—
   (a) a thoroughbred race; or
   (b) a harness race; or
   (c) a greyhound race; or
-  (d) a race of a kind prescribed in the regulations.
+  (d) a race of a kind prescribed by regulation.
 race meeting means an event at which races are conducted.
 racing club means the Australian Capital Territory racing club Inc. referred to in section 15.
 registrar means the registrar of the tribunal appointed under section 46.
