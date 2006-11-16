@@ -6,7 +6,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · contravene
 · exercise
 · function
-· GST.
+· GST
+· heritage register.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if that law so provides).
 administration order—see section 140 (Who may apply for an administration order?).
 administrative fund—see section 59 (1).
