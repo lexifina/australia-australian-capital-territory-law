@@ -7,6 +7,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · construction occupations registrar
 · disallowable instrument
 · document
+· exercise
 · function
 · magistrate
 · penalty unit (see s 133)
@@ -16,7 +17,7 @@ Australian Standard 3500 means the following standards, as in force from time to
   (b) AS 3500.2.1;
   (c) AS/NZS 3500.
 backflow prevention device means a device to prevent the reverse flow from a potentially polluted source into a water supply system for water suitable for human consumption.
-certifier means a registered construction practitioner who is registered in the category of plumbing plan certifier in accordance with the Construction Practitioners Registration Regulations 1998.
+certifier means a person who holds a licence as a plumbing plan certifier.
 connected, with an offence, for part 4 (Enforcement)—see section 18.
 credit card includes a debit card.
 fire sprinkler service means the part of water supply pipework from fire sprinklers to the place where a backflow prevention device must be installed to comply with Australian Standard 3500 to prevent backflow from the pipework directly serving the fire sprinklers.
