@@ -34,7 +34,6 @@ identity card means—
   (a) an identity card issued under section 80 (1); or
   (b) an identity card approved under section 80 (2), together with a notice issued under section 79 (3) (b).
 interest rate means the interest rate set under section 26.
-lodge—see section 127.
 market rate component, in relation to interest for a day—see section 26 (2).
 objection means an objection made under section 100.
 premises includes land, a vehicle, a vessel and an aircraft.
