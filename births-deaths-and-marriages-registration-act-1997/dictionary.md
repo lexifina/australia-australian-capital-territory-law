@@ -20,7 +20,6 @@ birth registration statement, for division 2.2 (Registration of births)—see se
 child—see section 4.
 corresponding law means a law of a State or another Territory that provides for the registration of births, deaths and marriages.
 death does not include a stillbirth.
-doctor, for part 4 (Change of sex)—see section 23.
 parents, of a child, means the parents jointly.
 prohibited name means a name that—
   (a) is obscene or offensive; or
