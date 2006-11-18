@@ -171,12 +171,16 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 4 Subject to the restriction stated in clause 3 of this principle, a person shall comply with the requirements of this principle as soon as practicable.
 5 Despite any other provision of these principles, a person who transfers a health record in accordance with this principle does not, by so doing, contravene these principles.
 ## Principle 12: Transfer of consumer to another health service provider or of health service provider to another practice
-1 Where—
-  (a) a consumer transfers from one health service provider to another; or
-  (b) a health service provider transfers from one practice to another and a consumer continues to see the provider;
-the record keeper shall, on request, provide the consumer’s health record, or a copy or written summary of it—
-  (c) if paragraph (a) applies—to the health service provider to whom the consumer has transferred; or
-  (d) if paragraph (b) applies—to the relevant health service provider.
-2 The amount of a fee that is chargeable for providing, in accordance with clause 1 of this principle, a copy of a health record, or a written summary of a health record, is—
-  (a) if the Minister determines, under section 34, a fee for the purposes of this principle—an amount not exceeding the amount of the fee so determined; or
+1 If a consumer transfers from 1 health service provider (the first provider) to another health service provider (the second provider)—
+  (a) the consumer may ask the first provider to give the second provider the consumer’s health record; and
+  (b) the first provider—
+    (i) must give the second provider the consumer’s record or a copy of the record; and
+    (ii) may also give the second provider a written summary of the consumer’s health record.
+2 If a health service provider transfers from 1 practice (the first practice) to another practice and a consumer continues to see the provider—
+  (a) the consumer may ask the first practice to give the provider the consumer’s health record; and
+  (b) the first practice—
+    (i) must give the provider the consumer’s record or a copy of the record; and
+    (ii) may also give the provider a written summary of the consumer’s health record.
+3 The fee chargeable for giving a health record, or a copy or written summary of a health record, under this principle is—
+  (a) if a fee has been determined under section 34 for this principle—the determined fee; or
   (b) in any other case—nil.
