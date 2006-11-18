@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -35,13 +35,14 @@ public place means any street, road, public park, reserve, or any building, prem
 registrar means the Registrar of Brothels and Escort Agencies under section 9.
 registration notice, for part 2 (Registration)—see section 7.
 required police report, for part 2 (Registration)—see section 5.
+scope of practice—see the Health Act 1993, section 37B (2).
+sexually transmitted disease means—
+  (a) chancroid, chlamydial disease, donovanosis, gonorrhoea, HIV/AIDS, lymphogranuloma venereum or syphilis; or
+  (b) a disease prescribed by regulation.
 sexual services means—
   (a) an act of sexual intercourse as defined in the Crimes Act 1900, section 50; or
   (b) the masturbation of one person by another; or
   (c) any activity that involves the use of one person by another for his or her sexual gratification.
-sexually transmitted disease—see the Sexually Transmitted Diseases Act 1956, section 4 (Interpretation).
-Note Under the Sexually Transmitted Diseases Act 1956, s 4 a sexually transmitted disease is chancroid, chlamydial disease, donovanosis, gonorrhoea, HIV/AIDS, lymphogranuloma venereum, syphilis or a disease prescribed by regulations under that Act.
-scope of practice—see the Health Act 1993, section 37B (2).
 sole operator, for part 2 (Registration)—see section 5.
 sole operator brothel, for part 2 (Registration)—see section 5.
 sole operator escort agency, for part 2 (Registration)—see section 5.
