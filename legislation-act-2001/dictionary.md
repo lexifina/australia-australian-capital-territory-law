@@ -152,6 +152,9 @@ emergency service means the ambulance service, the fire brigade, the rural fire 
 emergency services authority means the ACT Emergency Services Authority established under the Emergencies Act 2004.
 emergency services commissioner means the ACT Emergency Services Commissioner under the Emergencies Act 2004.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
+enrolled nurse—
+  (a) means a person unconditionally enrolled as a nurse under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally enrolled as a nurse under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 entity includes an unincorporated body and a person (including a person occupying a position).
 environment protection authority means the Environment Protection Authority established under the Environment Protection Act 1997.
 establish includes constitute and continue in existence.
@@ -248,9 +251,11 @@ may—see section 146.
 medical practitioner means a doctor.
 mental health tribunal means the Mental Health Tribunal established under the Mental Health (Treatment and Care) Act 1994.
 midnight, in relation to a particular day, means the time when the day ends.
-modification includes modification by alteration, omission, substitution and addition.
+midwife—
+  (a) means a person unconditionally registered as a midwife under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally registered as a midwife under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 Minister—see section 162.
-modification includes modification by addition, omission and substitution.
+modification includes modification by alteration, omission, substitution and addition.
 month means calendar month.
 must—see section 146.
 name includes—
