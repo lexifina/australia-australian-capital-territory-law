@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -10,6 +10,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · contravene
 · correctional centre
 · director of public prosecutions
+· doctor
 · domestic partner (see s 169)
 · fail
 · fire brigade
@@ -19,6 +20,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · lawyer
 · magistrate
 · medical practitioner
+· midwife
 · penalty unit (see also s 133)
 · police officer
 · rural fire service
