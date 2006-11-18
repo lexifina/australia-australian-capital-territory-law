@@ -33,6 +33,6 @@ column 1 item | column 2 people who may claim exemption
 2 | a practising member of a religious society or order the beliefs or principles of which are incompatible with jury service
 3 | a professor, lecturer, schoolmaster or schoolteacher engaged in full-time teaching of organised classes at a university, college or school
 4 | an editor of a newspaper
-5 | a practising nurse, including a nurse enrolled under the Health Professionals Act 2004
+5 | a practising nurse, practising enrolled nurse or practising midwife
 6 | a household officer or member of staff of the Governor-General
 7 | a person who is 60 years old or older
