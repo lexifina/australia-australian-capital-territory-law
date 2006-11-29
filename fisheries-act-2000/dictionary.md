@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Magistrates Court
 · penalty unit (see s 133)
 · power.
+abalone means blacklip and greenlip abalone and includes all other species of abalone.
 aquaculture means—
   (a) cultivating fish or marine vegetation for harvesting the fish or vegetation or their progeny for sale; or
   (b) keeping fish or marine vegetation in a confined area for a commercial purpose;
@@ -21,6 +22,7 @@ but does not include—
   (e) an activity prescribed by the regulations.
 boat means any kind of vessel, however navigated.
 commercial fishing licence means a licence mentioned in section 20.
+commercial quantity of fish of a priority species means the quantity prescribed by regulation as a commercial quantity of the fish.
 conservation officer means a conservation officer under the Nature Conservation Act 1980.
 conservator means the conservator of flora and fauna.
 corresponding law means a law of a State that regulates fisheries.
@@ -39,17 +41,23 @@ but does not include—
 fish dealer means a person who receives fish, for resale or other commercial use, from a person whom he or she knows or suspects or ought to know or suspect to be a commercial fisher, but does not include a person who receives fish only for the purpose of transporting them on behalf of the owner of the fish.
 fishing closure—see section 13.
 fishing gear means equipment, other than a vehicle or boat, used for taking fish.
+fish of a priority species means—
+  (a) abalone; and
+  (b) rock lobster; and
+  (c) fish of any other species prescribed by regulation as a priority species.
 import and export licence means a licence mentioned in section 22.
 licence means any of the following licences issued under section 25:
   (a) a commercial fishing licence;
   (b) a scientific licence;
-  (c) an import and export licence.
+  (c) an import and export licence;
+  (d) a priority species licence.
 licensee means the holder of a licence.
 net includes anything attached to a net.
 newspaper means a newspaper published and circulating daily in the ACT.
 noxious fish means a species of fish declared to be noxious under section 14.
 occupier, of a place, for division 7.1 (Powers for places)—see section 53.
 possession includes having a thing in the custody of someone else.
+priority species licence means a licence mentioned in section 22A.
 private waters means—
   (a) waters of a dam, water storage or other water control structure that is not situated on a waterway; and
   (b) waters used for aquaculture.
@@ -60,6 +68,7 @@ receive fish, means receive fish from someone else, whether by purchase or other
   (b) transportation.
 register means the register kept under section 35.
 registered means registered under this Act.
+rock lobster means an animal of the genus Jasus.
 scientific licence means a licence mentioned in section 21.
 sell includes—
   (a) sell by wholesale, retail, auction or tender; and
