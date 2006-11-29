@@ -9,6 +9,7 @@
 ### Division 2.5.2 Superannuation
 ### Division 2.5.3 Miscellaneous
 ## Part 2.6 Exemptions
+## Part 2.7 Expiry—provisions relating to unquoted marketable securities
 # Chapter 3 Certain transactions treated as transfers
 ## Part 3.1 Preliminary
 ## Part 3.2 Acquisition of interests in certain landholders
@@ -27,11 +28,13 @@
 ## Part 5.3 Rates of duty
 ## Part 5.4 Unascertainable lease costs
 ## Part 5.5 Miscellaneous
+## Part 5.6 Expiry—ch 5
 # Chapter 6 Hire of goods
 ## Part 6.1 Preliminary
 ## Part 6.2 Imposition and rates of duty
 ## Part 6.3 Arrangements applying to people engaged in business of hiring out goods
 ## Part 6.4 Arrangements applying to people other than those engaged in business of hiring out goods
+## Part 6.5 Expiry—ch 6
 # Chapter 7 Mortgages
 # Chapter 8 Insurance
 ## Part 8.1 Preliminary
@@ -54,3 +57,7 @@
 ## Part 12.2 Enforcement
 ## Part 12.3 Miscellaneous
 # Chapter 14 Transitional—Duties Amendment Act 2006
+# Chapter 15 Transitional—Duties Amendment Act 2006 (No 2)
+## Part 15.1 Transitional—hire of goods
+## Part 15.2 Transitional—lease instruments
+## Part 15.3 Transitional—unquoted marketable securities

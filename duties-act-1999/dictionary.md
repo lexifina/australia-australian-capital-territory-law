@@ -40,7 +40,6 @@ charitable organisation means an association, society, institution or body carri
 commercial hire business—section 163.
 commissioner means the commissioner for revenue.
 company, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
-company title dwelling means a separate dwelling in a building containing more than 1 separate dwelling situated on land in the ACT owned or leased by a company in which shares issued by the company are owned by people who, because of the ownership of their shares, have an exclusive right to occupy a part of the building.
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
 complying superannuation fund means an entity that is—
   (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or 42A; or
@@ -71,7 +70,6 @@ dutiable value—
   (b) of other dutiable property—see section 20.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 equipment financing arrangement, for chapter 6 (Hire of goods)—see section 151.
-error transaction means a sale or purchase of shares made to reverse a sale or purchase of shares made mistakenly not more than 7 days earlier, and the sale or purchase so reversed.
 first executed, for an instrument (including a contract)—see section 243.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
 foreign resident means a person who at the relevant time—
@@ -139,22 +137,28 @@ land used for primary production means land used primarily for—
   (e) the propagation for sale of mushrooms, orchids or flowers; or
   (f) aquaculture.
 land use entitlement means an entitlement to occupy land within the ACT conferred through an ownership of shares in a company or an ownership of units in a unit trust scheme, or a combination of a shareholding or ownership of units together with a lease or licence.
-lease—see section 133.
+lease means—
+  (a) a lease of land in the ACT or an agreement for a lease of land in the ACT; or
+  (b) an agreement (for example, a licence) by which a right to use land in the ACT at any time and for any purpose is given to or acquired by a person.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 lease instrument, for chapter 5 (Lease instruments)—see section 133.
-lessee, for chapter 5 (Lease instruments)—see section 133.
-lessor, for chapter 5 (Lease instruments)—see section 133.
+lessee includes—
+  (a) any assignee for the time being of the rights of the lessee under a lease; and
+  (b) a person who has a right of the kind mentioned in the definition of lease, paragraph (b).
+lessor includes a person who grants a right of the kind mentioned in the definition of lease, paragraph (b).
 licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles Act 1977.
 life company—see the Life Insurance Act 1995 (Cwlth), schedule.
 life insurance, for chapter 8 (Insurance)—see section 175.
 life insurance rider, for chapter 8 (Insurance)—see section 175.
+long-term lease—see section 10 (1) (d).
 majority interest, in a private corporation—see section 83 (2).
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
 managed investment scheme means a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C, and includes a public unit trust scheme.
 marketable securities means—
-  (a) shares mentioned in section 10 (1) (d); or
-  (b) units mentioned in section 10 (1) (e); or
+  (a) shares mentioned in section 10 (1) (f); or
+  (b) units mentioned in section 10 (1) (g); or
   (c) an interest in shares, or units, mentioned in section (a) or (b).
 market value, in relation to a motor vehicle, means the amount for which the motor vehicle might reasonably be sold, free of encumbrances, on the open market.
 marriage includes a void marriage.
@@ -173,7 +177,7 @@ paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—s
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
-partnership interest—see section 10 (1) (f).
+partnership interest—see section 10 (1) (h).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 person, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 person with a disability means a person who has a disability that—
@@ -241,7 +245,6 @@ tax avoidance scheme means a scheme if the person who has, or 1 or more of the p
   (b) that an amount of duty payable by a person would be less than the amount that would have been, or might reasonably be expected to have been, payable by the person; or
   (c) that a refund of duty would be payable to a person, being a refund that would not have been or might reasonably be expected not to have been, payable to the person;
 if the scheme had not been entered into or carried out, or for purposes of which that purpose was the dominant purpose.
-tenement includes an office, room or apartment in a tenement.
 territory company means—
   (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the ACT; or
   (b) a corporation that is incorporated under a territory Act.
@@ -252,8 +255,9 @@ transfer—
   (a) includes—
     (i) assignment; and
     (ii) exchange; and
-    (iii) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested; and
-    (iv) vesting of an interest in property under a court order, unless the interest did not exist before it is vested; and
+    (iii) a buyback of shares in accordance with the Corporations Act, part 2J.1, division 2; and
+    (iv) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested; and
+    (v) vesting of an interest in property under a court order, unless the interest did not exist before it is vested; and
   (b) for chapter 2 (Transactions concerning dutiable property)—see section 6.
 transferee, of dutiable property—see section 8 (2).
 trustee includes—
