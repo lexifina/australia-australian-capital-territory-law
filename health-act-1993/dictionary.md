@@ -1,38 +1,62 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-function
-exercise
-the Territory
-ACT
-in relation to.
-approved private sector committee means a committee declared to be an approved private sector quality assurance committee under section 19.
-approved public sector committee means a committee established as an approved public sector quality assurance committee under section 8 (Approval of public sector committees) or section 12 (Approval of Calvary Health Care ACT committees).
-authorised representative, for part 6A (VMO service contracts)—see section 33A.
-clinical privileges means—
-  (a) the extent to which a health service provider has the right to perform treatment or carry out other procedures at a health facility; or
-  (b) the extent to which a health service provider may use the equipment or other facilities of a health facility.
-core conditions, for part 6A (VMO service contracts)—see section 33A.
-health facility means an institution at which health services are provided by the Territory.
-health service provider means a person who provides health services at a health facility or uses the equipment or other facilities of a health facility to provide health services elsewhere.
-Examples of people who may be health service providers
-1 a chiropractor
-2 a dentist
-3 a dental technician
-4 a dental prosthetist
-5 a doctor
-6 a nurse
-7 an osteopath
-8 an optometrist
-9 a pharmacist
-10 a physiotherapist
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-negotiating agent, for part 6A (VMO service contracts)—see section 33A.
-negotiating period, for part 6A (VMO service contracts)—see section 33D (2).
-practice corporation, for part 6A (VMO service contracts)—see section 33A.
-prescribed body, for part 4 (Private sector quality assurance committees)—see section 18.
-private day hospital facility, for part 4 (Private sector quality assurance committees)—see section 18.
-quality assurance activity means a process declared by the Minister under section 4 to be a quality assurance activity for section 8 (2) (a).
-service contract, for part 6A (VMO service contracts)—see section 33A.
-VMO (visiting medical officer), for part 6A (VMO service contracts)—see section 33A.
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· AAT
+· Act
+· ACT
+· appoint
+· chief executive (see s 163)
+· Commonwealth
+· Coroner’s Court
+· entity
+· exercise
+· function
+· in relation to
+· interest
+· make
+· proceeding
+· territory authority
+· territory law
+· the Territory
+· tribunal.
+authorised representative, for part 7 (VMO service contracts)—see section 100.
+CEO—
+  (a) of a health facility, for part 4 (Quality assurance)—see section 22; and
+  (b) of a health professional organisation, for part 4 (Quality assurance)—see section 23; and
+  (c) of a health facility, for part 5 (Reviewing clinical privileges)—see section 53.
+clinical privileges, of a doctor or dentist, for a health facility, for part 5 (Reviewing clinical privileges)—see section 54.
+clinical privileges committee—see section 51.
+clinical privileges report, for part 5 (Reviewing clinical privileges)—see section 67.
+clinical privileges review notice, for part 5 (Reviewing clinical privileges)—see section 70.
+core conditions, for part 7 (VMO service contracts)—see section 100.
+day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
+dentist, for a health facility, for part 5 (Reviewing clinical privileges)—see section 52.
+divulge, for part 8 (Secrecy)—see section 121.
+doctor, for a health facility, for part 5 (Reviewing clinical privileges)—see section 52.
+engage in conduct means—
+  (a) do an act; or
+  (b) omit to do an act.
+entity, for part 7 (VMO service contracts)—see section 100.
+health facility—see section 6.
+health facility QAC, for a health facility, for part 4 (Quality assurance)—see section 20.
+health profession board—see the Health Professionals Act 2004, dictionary.
+health professional—see the Health Professionals Act 2004, section 14.
+health professional organisation, for part 4 (Quality assurance)—see section 21.
+health professional organisation QAC, for a health professional organisation, for part 4 (Quality assurance)—see section 20.
+health service—see section 5.
+health service provider—see section 7.
+health service report, for part 4 (Quality assurance)—see section 38.
+hospital, for part 5 (Reviewing clinical privileges)—see section 50.
+information holder, for part 8 (Secrecy)—see section 122.
+ministerial report, for part 4 (Quality assurance)—section 41.
+negotiating agent, for part 7 (VMO service contracts)—see section 100.
+negotiating period, for part 7 (VMO service contracts)—see section 103 (2).
+practice corporation, for part 7 (VMO service contracts)—see section 100.
+protected information—see section 123.
+quality assurance committee—see section 24.
+review clinical privileges, for part 5 (Reviewing clinical privileges)—see section 55.
+sensitive information—see section 124.
+service contract, for part 7 (VMO service contracts)—see section 100.
+special purpose QAC, for part 4 (Quality assurance), for a purpose stated in the approval—see section 20.
+VMO, or visiting medical officer, for part 7 (VMO service contracts)—see section 100.
