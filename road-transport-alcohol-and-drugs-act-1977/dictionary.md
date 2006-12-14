@@ -52,7 +52,7 @@ jurisdiction means a State, the Commonwealth or an internal territory, including
 level, for a concentration of alcohol in blood—see section 4C.
 medical examination means an examination by a doctor or authorised nurse practitioner.
 motor vehicle means a vehicle built to be propelled by a motor that forms a part of the vehicle.
-nurse practitioner position—see the Health Act 1993, section 37B (2).
+nurse practitioner position—see the Health Act 1993, section 195 (2).
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
@@ -69,6 +69,6 @@ restricted licence—see the Road Transport (Driver Licensing) Act 1999, diction
 road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
-scope of practice—see the Health Act 1993, section 37B (2).
+scope of practice—see the Health Act 1993, section 195 (2).
 screening test in relation to a person, means a test of sample of the breath of the person carried out for this Act by means of an approved screening device.
 special driver—see section 4B.
