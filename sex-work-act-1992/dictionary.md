@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
@@ -20,7 +20,7 @@ drug of dependence—see the Drugs of Dependence Act 1989, section 3 (1).
 employed—a prostitute is employed at a brothel or from an escort agency if the prostitute provides commercial sexual services at the brothel, or from the escort agency, under a contract of service or a contract for services.
 escort agency means a business of arranging prostitution, being a business carried on at premises other than a brothel.
 interested person, for part 2 (Registration)—see section 5.
-nurse practitioner position—see the Health Act 1993, section 37B (2).
+nurse practitioner position—see the Health Act 1993, section 195 (2).
 operator, of a brothel or escort agency, includes a person in day-to-day control of the brothel or escort agency.
 police report, for part 2 (Registration)—see section 5.
 premises includes a part of premises.
@@ -35,7 +35,7 @@ public place means any street, road, public park, reserve, or any building, prem
 registrar means the Registrar of Brothels and Escort Agencies under section 9.
 registration notice, for part 2 (Registration)—see section 7.
 required police report, for part 2 (Registration)—see section 5.
-scope of practice—see the Health Act 1993, section 37B (2).
+scope of practice—see the Health Act 1993, section 195 (2).
 sexually transmitted disease means—
   (a) chancroid, chlamydial disease, donovanosis, gonorrhoea, HIV/AIDS, lymphogranuloma venereum or syphilis; or
   (b) a disease prescribed by regulation.
