@@ -139,11 +139,9 @@ for the Supreme Court, adoption, including, for example, applications for adopti
 ## 23 Arbitration
 for the Supreme Court, arbitration, including, for example, the use of court-appointed referees
 ## 24 Contempt of court
-(1) for the Supreme Court, contempt of court, including, for example, the following:
-  (a) contempt of the court as constituted other than by a judge;
-  (b) proceedings for failure to comply with orders, other than orders to pay an amount;
-  (c) contempt of the Magistrates Court
-(2) for the Magistrates Court, the power to refer contempt of court to the Supreme Court
+contempt of court, including, for example, the following:
+## (a) contempt of the court as constituted other than by a judge or magistrate;
+## (b) proceedings for failure to comply with orders, other than orders to pay an amount
 ## 25 Trusts
 for the Supreme Court, trusts
 ## 26 Costs
