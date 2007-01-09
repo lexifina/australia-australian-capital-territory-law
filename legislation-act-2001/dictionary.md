@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used terms
+Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -122,9 +122,11 @@ credit union means an authorised deposit-taking institution that is permitted un
 Criminal Code means the Criminal Code 2002.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130.
-dental prosthetist means a registered dental prosthetist under the Dental Technicians and Dental Prosthestists Registration Act 1988.
-dental technician means a registered dental technician under the Dental Technicians and Dental Prosthestists Registration Act 1988.
-dentist means a registered dentist under the Dentists Act 1931.
+dental prosthetist means a person registered as a dental prosthetist under the Health Professionals Act 2004.
+dental technician means a person registered as a dental technician under the Health Professionals Act 2004.
+dentist—
+  (a) means a person unconditionally registered as a dentist under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally registered as a dentist under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
@@ -307,7 +309,9 @@ passing, of an Act—see section 29.
 penalty unit—see section 133.
 person includes an individual and a corporation.
 Note Section 160 deals with references to a person generally.
-pharmacist means a registered pharmacist under the Pharmacy Act 1931.
+pharmacist—
+  (a) means a person unconditionally registered as a pharmacist under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally registered as a pharmacist under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 planning and land authority means the Planning and Land Authority established under the Planning and Land Act 2002.
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
@@ -414,7 +418,9 @@ United Kingdom Parliament means—
   (b) the Parliament of Great Britain; or
   (c) the Parliament of the United Kingdom of Great Britain and Ireland; or
   (d) the Parliament of the United Kingdom of Great Britain and Northern Ireland.
-veterinary surgeon means a registered veterinary surgeon under the Veterinary Surgeons Act 1965.
+veterinary surgeon—
+  (a) means a person unconditionally registered as a veterinary surgeon under the Health Professionals Act 2004; and
+  (b) for an activity, includes a person conditionally registered as a veterinary surgeon under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
 working day means a day that is not—
