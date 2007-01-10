@@ -297,7 +297,6 @@ OH&S commissioner means the Occupational Health and Safety Commissioner under th
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
 optometrist means a person registered as an optometrist under the Health Professionals Act 2004.
-Note See also s 303.
 ordinance means an ordinance made under the Seat of Government (Administration) Act 1910 (Cwlth), section 12.
 parent, of a child, means—
   (a) the child’s mother; or
