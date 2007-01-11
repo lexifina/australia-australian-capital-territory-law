@@ -13,5 +13,4 @@
 ### Division 8.1 Supreme Court criminal proceedings—preliminary
 ### Division 8.2 Trial on indictment
 ## Part 9 Miscellaneous
-## Part 11 Transitional
 ## Part 12 Transitional—rules of court
