@@ -25,7 +25,7 @@ animal welfare offence means an offence against any of the following provisions 
   (k) section 15 (Transport and containment);
   (l) section 15A (Transport of dogs);
   (m) section 16 (Working etc unfit animals);
-  (n) section 17 (Matches, competitions and baiting);
+  (n) section 17 (Matches, competitions etc);
   (o) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
 approved provider, for part 4 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
@@ -77,7 +77,7 @@ prohibited area means an area declared by the Minister under section 41 (1).
 public place—
   (a) see the Roads and Public Places Act 1937, dictionary; and
   (b) includes a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
-Note A public passenger vehicle is a public bus, taxi or hire car.
+Note A public passenger vehicle is a public bus, taxi, hire car or demand responsive service vehicle.
 reasonably believes means has reasonable grounds for believing.
 register means the register kept by the registrar under section 5.
 registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
