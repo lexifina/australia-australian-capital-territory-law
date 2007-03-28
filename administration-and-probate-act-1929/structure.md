@@ -2,7 +2,7 @@
 ## Part 3 Grant of representation
 ### Division 3.1 Jurisdiction of the Supreme Court
 ### Division 3.3 Effect of grant of representation
-### Division 4 Position of executor of an executor
+### Division 3.4 Position of executor of an executor
 ## Part 3A Intestacy
 ### Division 3A.1 Preliminary
 ### Division 3A.2 Distribution on intestacy

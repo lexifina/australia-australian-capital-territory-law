@@ -9,5 +9,5 @@
 6 Assets specifically disposed of by will, rateably according to value.
 ## Part 4.2 Rules about payment of debts and liabilities if estate insolvent
 1 The funeral, testamentary and administration expenses have priority.
-2 Subject to rule 1, the same rules shall prevail and be observed as to the respective rights of secured and unsecured creditors and as to the valuation of annuities and future and contingent liabilities, respectively, and as to the priorities of debts and liabilities as are in force at the death of the deceased person under the law of bankruptcy in relation to the assets of persons adjudged bankrupt.
-3 In the application of those rules, the date of the death of the deceased person shall be substituted for the date of the sequestration order.
+2 Subject to rule 1, the same rules must prevail and must be observed about the respective rights of secured and unsecured creditors and as to the valuation of annuities and future and contingent liabilities, respectively, and about the priorities of debts and liabilities that are in force at the death of the deceased person under the law of bankruptcy in relation to the assets of persons adjudged bankrupt.
+3 In the application of those rules, the date of the death of the deceased person must be substituted for the date of the sequestration order.
