@@ -14,4 +14,3 @@
 ## Part 5 Recognition of foreign grants
 ## Part 6 Public trustee
 ## Part 9 Miscellaneous
-## Part 10 Transitional
