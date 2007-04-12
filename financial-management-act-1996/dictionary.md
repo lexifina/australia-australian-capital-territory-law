@@ -59,7 +59,7 @@ handover day, for division 9.7 (Additional provisions for restructuring of certa
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
-Legislative Assembly secretariat—see the Public Sector Management Act 1994, section 3.
+Legislative Assembly secretariat—see the Public Sector Management Act 1994, dictionary.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
 outcomes means the consequences for the community of outputs.
 outputs means goods produced or services provided by a department or territory authority or a person producing goods or providing services on behalf of a department or territory authority.
