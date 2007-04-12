@@ -10,7 +10,7 @@ bore means a bore, hole, well, excavation or other opening in the ground or an u
   (b) from which ground water is, or is capable of being, obtained or used; or
   (c) that is used, or is capable of being used, for the disposal of water or waste below the surface of the ground; or
   (d) that extends into an aquifer.
-clinical waste—see the Clinical Waste Act 1990, section 3 (1).
+clinical waste—see the Clinical Waste Act 1990, dictionary.
 concert means a public performance of music the primary purpose of which is to entertain.
 concert venue means a place or location where a concert is being, or is proposed to be, conducted.
 environmental standards means the ACT’s Environmental Standards: Assessment and Classification of Liquid and Non-liquid Wastes published by Environment ACT, as in force for the time being.

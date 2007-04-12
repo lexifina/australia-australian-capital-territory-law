@@ -20,13 +20,13 @@
 ### Division 9.5 Assessment and remediation
 ### Division 9.6 Costs of assessment and remediation
 ## Part 10 Functions of the Minister
-## Part 11 Authorised officers’ powers
+## Part 11 Powers of authorised officers
 ### Division 11.1 Preliminary
 ### Division 11.2 Entry and inspection generally
 ### Division 11.3 Emergency powers
 ### Division 11.4 Seizure, retention and disposal of things
 ### Division 11.5 Other powers
-## Part 12 Analysts’ powers
+## Part 12 Powers of analysts
 ## Part 13 Enforcement
 ### Division 13.2 Environment protection orders
 ### Division 13.3 Injunctive orders
