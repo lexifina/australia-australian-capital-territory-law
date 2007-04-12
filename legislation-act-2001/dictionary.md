@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used terms
+Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -151,7 +151,6 @@ Note Driver licence is defined in that Act, dictionary to mean a driver licence 
 electoral commission means the Australian Capital Territory Electoral Commission established under the Electoral Act 1992.
 electoral commissioner means the Electoral Commissioner under the Electoral Act 1992.
 emergency service means the ambulance service, the fire brigade, the rural fire service or the SES.
-emergency services authority means the ACT Emergency Services Authority established under the Emergencies Act 2004.
 emergency services commissioner means the ACT Emergency Services Commissioner under the Emergencies Act 2004.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
 enrolled nurse—
@@ -216,6 +215,7 @@ in relation to includes the following:
   (e) with reference to;
   (f) relating to;
   (g) for or with respect to.
+institute of technology means the Canberra Institute of Technology under the Canberra Institute of Technology Act 1987.
 instrument—see section 14.
 interest, in relation to land or other property, means—
   (a) a legal or equitable estate in the land or other property; or
@@ -388,7 +388,7 @@ territory authority means a body established under an Act, but does not include 
 territory instrumentality means a corporation that—
   (a) is established under an Act or statutory instrument, or under the Corporations Act; and
   (b) is a territory instrumentality under the Public Sector Management Act 1994.
-Note Territory instrumentality is defined in the Public Sector Management Act 1994, s 3.
+Note Territory instrumentality is defined in the Public Sector Management Act 1994, dict.
 territory land means Territory Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land it is territory land.
 territory law—see law, of the Territory.
