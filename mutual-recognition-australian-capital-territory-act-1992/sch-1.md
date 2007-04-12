@@ -303,7 +303,7 @@ Schedule 2 Permanent exemptions: laws relating to goods
 13 Environmental Protection Regulations 1987 under the Environmental Protection Act 1986 of Western Australia.
 14 Business Franchise ("X" Videos) Act 1990 of the Australian Capital Territory.
 15 Classification of Publications Ordinance 1983 of the Australian Capital Territory.
-16 Crimes Act 1900 of the Australian Capital Territory, section 92NB.
+16 Crimes Act 1900 of the Australian Capital Territory, section 65.
 17 Film Classification Act 1971 of the Australian Capital Territory.
 18 Publications Control Act 1989 of the Australian Capital Territory.
 19 Film and Video Tape Classification Act 1984 of New South Wales.
