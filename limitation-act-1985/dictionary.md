@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · interest
 · under.
 action includes any proceeding in a court.
-administrator—see the Administration and Probate Act 1929, section 5.
+administrator—see the Administration and Probate Act 1929, dictionary.
 cause of action means the fact or combination of facts that gives rise to a right to bring a civil proceeding.
 deed includes—
   (a) an instrument having the effect of a deed under a law in force in the ACT; or
