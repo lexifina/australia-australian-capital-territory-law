@@ -1,16 +1,19 @@
-# 4 Definitions for Act
-In this Act:
-Note A definition applies except so far as the contrary intention appears (see Legislation Act 2001, s 155).
+# Dictionary
+(see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACT
+· Commonwealth
+· State
+· the Territory.
 authorised officer means an authorised officer under section 16.
 carriageway, in relation to a public street, includes the gutter (if any) of the public street.
 goods means moveable personal property, including animals and food.
 goods of low value means uncollected goods having a net value of more than $20 but less than $500.
 goods of no value means uncollected goods having a net value of $20 or less.
 goods of significant value means uncollected goods having a net value of $500 or more.
-leased public baths means public baths of which a lease has been granted by the Minister administering the Public Baths and Public Bathing Act 1956.
-manager means—
-  (a) in relation to any public baths which are not leased public baths—the person for the time being occupying, or performing the duties of, the office of manager of the baths or, if there is no such office, the person who, for the time being, is the senior attendant at the baths; and
-  (b) in relation to leased public baths—the lessee of the baths.
+leased public baths—see the Public Baths and Public Bathing Act 1956, dictionary.
+manager—see the Public Baths and Public Bathing Act 1956, dictionary.
 net value, in relation to goods, means the market value of the goods less the reasonable costs of selling the goods including removal, storage, preservation, transportation and advertising costs.
 off-street parking area means an area of land available for use by the public, whether with or without the payment of money, for the parking of motor vehicles, and includes—
   (a) the entrances to, the exits from and the passageways in such an area; and
@@ -22,7 +25,7 @@ perishable goods means—
   (c) articles that are, or could become, noxious or a danger to public health.
 personal effects includes private and personal papers, official records, bankbooks, certificates and photographs.
 possessor means a person in possession of goods belonging to another person.
-public baths means any baths or swimming pool declared under the Public Baths and Public Bathing Act 1956, section 6 (2) to be public baths, and includes all land, buildings and other improvements within the boundary fences and boundary walls enclosing the baths or swimming pool.
+public baths—see the Public Baths and Public Bathing Act 1956, dictionary.
 public place means—
   (a) an off-street parking area; or
   (b) a loading area; or
