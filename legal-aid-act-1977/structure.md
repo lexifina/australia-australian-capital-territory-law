@@ -9,5 +9,5 @@
 ### Division 8.2 Officers of commission
 ## Part 10 Administrative provisions relating to review committees
 ## Part 11 Consultative committees
-## Part 11A Inquiry relating to affairs of commission
+## Part 12 Inquiry relating to affairs of commission
 ## Part 13 Miscellaneous
