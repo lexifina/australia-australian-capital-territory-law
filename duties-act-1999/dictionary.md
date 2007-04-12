@@ -61,7 +61,7 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or people in whom it is vested if a discretion conferred under the trust is exercised.
-domestic relationship—see the Domestic Relationships Act 1994.
+domestic relationship—see the Domestic Relationships Act 1994, section 3.
 dutiable entitlement, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
