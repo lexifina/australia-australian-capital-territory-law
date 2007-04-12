@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -33,13 +33,13 @@ instrument includes a deed, a will, an agreement for settlement and a law of the
 joint tenant includes joint owner.
 legal representative includes executor and administrator.
 mortgage—
-  (a) for land under the Land Titles Act 1925—see that Act, section 6 (1); and
+  (a) for land under the Land Titles Act 1925—see that Act, dictionary; and
   (b) for other property—includes any estate or interest regarded in equity as only a security for money.
 mortgagee—
-  (a) for land under the Land Titles Act 1925—see that Act, section 6 (1); and
+  (a) for land under the Land Titles Act 1925—see that Act, dictionary; and
   (b) for other property—includes a person taking title to the mortgage under the original mortgagee.
 mortgagor—
-  (a) for land under the Land Titles Act 1925—see that Act, section 6 (1); and
+  (a) for land under the Land Titles Act 1925—see that Act, dictionary; and
   (b) for other property—includes any of the following:
     (i) a person taking title to the equity of redemption under the original mortgagor;
     (ii) a person entitled to redeem a mortgage, according to his or her interest in the mortgaged property.
