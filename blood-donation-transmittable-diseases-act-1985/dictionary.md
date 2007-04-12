@@ -1,0 +1,24 @@
+# Dictionary
+(see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· doctor
+· person
+· prescribed.
+approved, in relation to an instrument or method, means approved by the chief health officer in writing for this Act.
+donor means a person who gives blood at premises or a vehicle of the society.
+prescribed action means an action brought by or on behalf of—
+  (a) a person who claims to have contracted a transmittable disease—
+    (i) because of having been administered blood supplied from the society or a blood product derived from blood supplied by the society; or
+    (ii) because of having been involved in the taking, testing, handling, producing, supplying or administering to a patient of blood supplied by the society or a blood product derived from blood supplied by the society; or
+    (iii) from a person who contracted that disease in a circumstance specified in subparagraph (i) or (ii); or
+  (b) a dependant of a person who dies as a result of having contracted a transmittable disease in a circumstance specified in paragraph (a);
+other than an action brought under the Safety, Rehabilitation and Compensation Act 1988 (Cwlth) or the Workers Compensation Act 1951.
+society means the society incorporated by royal charter under the name of the Australian Red Cross Society.
+transmittable disease means any of the following diseases:
+  (a) the disease known as acquired immune deficiency syndrome in any of its forms or stages;
+  (b) hepatitis B;
+  (c) hepatitis C;
+  (d) any disease resulting from infection by the human T cell lymphoma virus 1 or 2;
+  (e) syphilis;
+  (f) any other prescribed disease.
