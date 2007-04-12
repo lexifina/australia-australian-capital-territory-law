@@ -78,7 +78,7 @@ former registered salesperson means a person who was, but is no longer a registe
 ground for disciplinary action—
   (a) for a licensed agent—see section 41;
   (b) for a registered salesperson—see section 65.
-investigator—see the Fair Trading (Consumer Affairs) Act 1973, section 2.
+investigator—see the Fair Trading (Consumer Affairs) Act 1973, dictionary.
 kind of licence means—
   (a) a business agents licence; or
   (b) an employment agents licence; or
