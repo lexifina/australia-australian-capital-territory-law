@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -39,7 +39,7 @@ registered interest, in relation to a motor vehicle, means an interest in the ve
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-retention area—see the Uncollected Goods Act 1996, section 4.
+retention area—see the Uncollected Goods Act 1996, dictionary.
 ride, for the rider of a motorbike or an animal-drawn vehicle, includes be in control of the vehicle.
 rider, of a vehicle that can be ridden, means the person who is riding the vehicle.
 road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
