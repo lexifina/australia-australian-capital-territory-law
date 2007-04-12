@@ -11,8 +11,9 @@ FC (or fixed charge) means the fixed charge determined under the Taxation Admini
 P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
 TA (or threshold amount) means the threshold amount determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).
+## U 1.2 City centre marketing and improvements levy
 ## Part 1.2 Application of Act etc
-## 2.1 Application of certain provisions
+## U 2.1 Application of certain provisions
 (1) This section applies to the following provisions (the applied provisions):
   (a) section 15 (Rates for part of year);
   (b) section 16 (Owner to pay rates);
@@ -33,10 +34,11 @@ Note Different fixed charges, amounts, or percentage rates, may be determined fo
   (b) any other necessary changes were made; and
   (c) any changes prescribed by regulation were made.
 (3) Sections 15 to 19, as applied by this section, are subject to part 5 (Unit subdivisions).
+## U 2.1A Application of further provisions—fire and emergency services levy
 ## 2.2 References in other instruments
 A reference to rates in an instrument, other than a statutory instrument under this Act or the Taxation Administration Act, includes a reference to a levy imposed under this schedule.
 ## Part 1.3 Other provisions about levies
-## 3.1 Certain proposed subdivisions—imposition of levy
+## U 3.1 Certain proposed subdivisions—imposition of levy
 (1) This section applies to a parcel of land if section 34 (Imposition of rates—qualifying parcels of land) applies to the parcel.
 (2) In its application to the imposition of levy to the parcel of land, section 1.1 has effect as if subsections (3) and (4) of this section were substituted for section 1.1 (2) and (3).
 (3) The levy imposed for a parcel of land to which schedule 1, section 3.1 applies is worked out as follows:
@@ -49,6 +51,7 @@ P means the percentage rate determined under the Taxation Administration Act, se
 RP means the percentage, as determined under section 32, of the intended development that is to be used for residential purposes.
 TA (or threshold amount) means the threshold amount determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).
+## U 3.1A Certain proposed subdivisions—imposition of city centre marketing and improvements levy
 ## 3.2 Rebate of levy
 (1) This section applies to an eligible person.
 (2) The person is entitled, on application to the commissioner under section 61, to a rebate of the person’s liability for levy for a parcel of land for a year if—
