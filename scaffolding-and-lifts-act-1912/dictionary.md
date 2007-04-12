@@ -1,5 +1,9 @@
 # Dictionary
 (see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+• Minister (see s 162)
+• person.
 area, of a building, means—
   (a) for a 1 storey building—the area measured between the outer surfaces of the walls at the floor level of the building; or
   (b) for a multistorey building—the total of the areas measured between the outer surfaces of the walls, at the floor level of each storey;
@@ -11,7 +15,6 @@ compressed air work includes any work done by any person in air the atmospheric 
 contractor means a person, firm, partnership, company, or corporation employing any person to perform any building work excavation work or compressed air work.
 crane means derrick crane, jib crane, cantilever crane, overhead travelling crane, bridge or gantry crane, locomotive crane, mobile crane, power shovel, excavator, charging crane, flying fox, or any other apparatus or contrivance used or capable of being used for raising, lowering, handling or transporting loads in like way, and includes the supporting structure and the gear used in connection with the crane, but does not include a lift or hoist.
 crane chaser means a person employed to attend and sling loads, and to control the movements of loads, handled by a crane if the loads are usually at all times in full view of the crane driver.
-credit card includes debit card.
 dogger means a person directly responsible for slinging and controlling the movement of loads by a crane if the loads are not usually at all times in full view of the crane driver.
 excavation work includes any work in relation to—
   (a) excavating for or preparing foundations for a building or structure; or
