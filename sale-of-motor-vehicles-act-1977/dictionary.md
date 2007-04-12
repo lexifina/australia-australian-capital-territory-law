@@ -78,7 +78,7 @@ hire-purchase agreement, in relation to a motor vehicle, means—
   (b) an agreement for the purchase of the vehicle by instalments (whether described as rent or hire or otherwise), other than an agreement under which the property in the vehicle passes at the time of the agreement or on, or at any time before, delivery of the vehicle.
 hirer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 individual licensee means an individual who holds a licence.
-inspector means an inspector under section 5B but, for part 10 (Enforcement), does not include a police officer.
+inspector means an inspector under section 5B.
 lease, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 licence means a vehicle sale licence or a car market operator licence and, if the licence is varied under section 14E, includes the licence as so varied.
 licensed car market operator means a person who holds a car market operator licence.
