@@ -1,10 +1,16 @@
 # Dictionary
 (see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+function
+Minister
+notifiable instrument.
 application law means—
   (a) a law of a participating jurisdiction that applies the Competition Code, either with or without modifications, as a law of the participating jurisdiction; or
   (b) the Competition Code, applying as a law of the participating jurisdiction, either with or without modifications.
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act 2001, s 104).
+Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act, s 104).
 commission means the Australian Competition and Consumer Commission established by the Trade Practices Act, section 6A, and includes a member of the commission or a division of the commission performing functions of the commission.
+Commonwealth administrative laws, for division 5.5 (Administrative law)—see section 29.
 Competition Code means (according to the context)—
   (a) the Competition Code text; or
   (b) the Competition Code text, applying as a law of a participating jurisdiction, either with or without modifications.
