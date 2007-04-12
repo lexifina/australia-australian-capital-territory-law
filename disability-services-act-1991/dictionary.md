@@ -1,6 +1,10 @@
-# 4 Definitions for Act
-In this Act:
-Note A definition applies except so far as the contrary intention appears (see Legislation Act 2001, s 155).
+# Dictionary
+(see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· disallowable instrument
+· Minister
+· person.
 disability, in respect of a person, means a disability—
   (a) that is attributable to an intellectual, psychiatric, sensory or physical impairment or a combination of those impairments; and
   (b) that is permanent or likely to be permanent; and
