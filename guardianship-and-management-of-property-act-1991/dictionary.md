@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -9,7 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · Magistrates Court
 · oath.
-decision-making principles—see section 5 (Principles to be followed by decision-makers).
+carer—see section 6.
+decision-making principles—see section 4.
 deputy president means a deputy president of the tribunal.
 electroconvulsive therapy—see the Mental Health (Treatment and Care) Act 1994, section 55.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
@@ -18,8 +19,9 @@ section 7 (Appointment and powers of guardians)
 · section 7A (Appointment of guardians under direction)
 · section 12 (Recognition of interstate etc guardians and managers)
 · section 32 (Surviving or substitute guardians etc).
-impaired decision-making ability, for a person—see section 6.
+impaired decision-making ability, for a person—see section 5.
 inquiry means an inquiry under part 3.
+interests, of a person—see section 5A.
 judicial officer means a judge of the Supreme Court or a magistrate.
 manager means a person who is a manager under any of the following sections:
 · section 8 (Appointment and powers of managers)
@@ -40,8 +42,6 @@ prescribed medical procedure means—
   (g) any other medical or surgical procedure prescribed for this definition.
 president means the president of the tribunal.
 presidential member means the president or a deputy president of the tribunal.
-primary carer includes a family member or friend who is primarily responsible for providing support or care to a person other than completely or substantially on a commercial basis.
-Note Property is defined in the Legislation Act, dict, pt 1.
 psychiatric surgery—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 tribunal means the Guardianship and Management of Property Tribunal established by section 57.
 trustee company—see the Trustee Companies Act 1947, dictionary.
