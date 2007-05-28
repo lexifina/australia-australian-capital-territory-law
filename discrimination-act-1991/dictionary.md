@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -17,7 +17,14 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · the Territory
 · under.
 accommodation includes residential and business accommodation.
-carer means a person on whom another person is wholly or substantially dependent for ongoing care and attention.
+carer—a person is a carer of someone else (the dependant) if—
+  (a) the dependant is dependent on the person for ongoing care and assistance; and
+  (b) the person cares for the dependant otherwise than because of—
+    (i) a commercial arrangement; or
+    (ii) an arrangement that is substantially commercial.
+Example of a carer
+Ms W suffers from multiple sclerosis and requires constant care. Her spouse and 3 children aged 21, 16 and 11 share her care and would each be a ‘carer’.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 club means a club that holds a club licence under the Liquor Act 1975.
 commission agent means a person who does work for another person as the agent of that other person and who is remunerated (whether wholly or partially) by commission.
 committee of management, in relation to a club or organisation, means the group or body of people (however described) that manages the affairs of the club or organisation.
