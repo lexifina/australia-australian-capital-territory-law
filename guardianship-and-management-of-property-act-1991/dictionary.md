@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -13,6 +13,7 @@ carer—see section 6.
 decision-making principles—see section 4.
 deputy president means a deputy president of the tribunal.
 electroconvulsive therapy—see the Mental Health (Treatment and Care) Act 1994, section 55.
+enduring power of attorney—see the Powers of Attorney Act 2006, section 8.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 guardian means someone who is a guardian under any of the following sections:
 section 7 (Appointment and powers of guardians)
@@ -31,7 +32,7 @@ member, of the tribunal, means the president, a deputy president or a non-presid
 mental illness—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 neurosurgery means surgery on the brain of a person for the purpose of treating a pathological condition of the physical structure of the brain.
 non-presidential member means a member of the tribunal who is not a presidential member.
-non-regenerative tissue—see the Transplantation and Anatomy Act 1978, section 4 (1) (Interpretation for Act).
+non-regenerative tissue—see the Transplantation and Anatomy Act 1978, dictionary.
 prescribed medical procedure means—
   (a) an abortion; or
   (b) reproductive sterilisation; or
