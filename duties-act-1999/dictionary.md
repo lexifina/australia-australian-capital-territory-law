@@ -146,7 +146,7 @@ lessee includes—
   (a) any assignee for the time being of the rights of the lessee under a lease; and
   (b) a person who has a right of the kind mentioned in the definition of lease, paragraph (b).
 lessor includes a person who grants a right of the kind mentioned in the definition of lease, paragraph (b).
-licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles Act 1977.
+licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles Act 1977, or the holder of a similar licence under a corresponding law.
 life company—see the Life Insurance Act 1995 (Cwlth), schedule.
 life insurance, for chapter 8 (Insurance)—see section 175.
 life insurance rider, for chapter 8 (Insurance)—see section 175.
