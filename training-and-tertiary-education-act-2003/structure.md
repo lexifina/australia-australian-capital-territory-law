@@ -11,6 +11,7 @@
 ## Part 3.4 National scheme—compliance and information
 ## Part 3.5 Accredited courses—vocational education
 ## Part 3.6 Disagreements under chapter 3
+# Chapter 3A Work-related training and training contracts
 # Chapter 4 Higher education—non-universities
 ## Part 4.1 Preliminary
 ## Part 4.2 ACT register
@@ -26,3 +27,4 @@
 ## Part 6.1 Visits to premises
 ## Part 6.2 Review of decisions
 ## Part 6.3 Other provisions
+# Chapter 10 Transitional
