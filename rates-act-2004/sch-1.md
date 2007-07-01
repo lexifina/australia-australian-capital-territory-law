@@ -11,37 +11,53 @@ FC (or fixed charge) means the fixed charge determined under the Taxation Admini
 P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
 TA (or threshold amount) means the threshold amount determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).
-## U 1.2 City centre marketing and improvements levy
+## 1.2 City centre marketing and improvements levy
+(1) City centre marketing and improvements levy is imposed for a parcel of rateable land that is commercial land in a collection area, worked out as follows:
+AUV × P
+(2) The Minister may determine an area as a collection area for this section.
+(3) A determination is a disallowable instrument.
+Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+(4) In this section:
+AUV means the average unimproved value of the parcel.
+P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
+Note Different percentage rates may be determined for different collection areas or part of a collection area (see Legislation Act, s 48).
 ## Part 1.2 Application of Act etc
-## U 2.1 Application of certain provisions
+## 2.1 Application of certain provisions—levies generally
 (1) This section applies to the following provisions (the applied provisions):
   (a) section 15 (Rates for part of year);
   (b) section 16 (Owner to pay rates);
   (c) section 17 (When are rates payable?);
-  (d) section 18 (How may rates be paid?);
-  (e) section 19 (Payment of rates by instalments);
-  (f) part 4 (Enforcement);
-  (g) section 28 (Unit subdivisions);
-  (h) section 29 (Unit subdivisions—rates);
-  (i) section 39 (Reassessment—completion of development);
-  (j) section 40 (Reassessment—noncompletion of development);
-  (k) part 6 (Exemptions, remissions and certain interest payments);
-  (l) part 7 (Deferral and rebates) (other than section 63 and section 64);
-  (m) section 76 (Certificate of rates and other charges);
-  (n) any other provision prescribed by regulation.
+  (d) part 4 (Enforcement);
+  (f) section 28 (Unit subdivisions);
+  (g) section 29 (Unit subdivisions—rates);
+  (h) section 39 (Reassessment—completion of development);
+  (i) section 40 (Reassessment—noncompletion of development);
+  (e) part 6 (Exemptions, remissions and certain interest payments);
+  (j) section 76 (Certificate of rates and other charges);
+  (k) any other provision prescribed by regulation.
 (2) The applied provisions have effect as if—
   (a) a reference to rates included a reference to a levy imposed under this schedule; and
   (b) any other necessary changes were made; and
   (c) any changes prescribed by regulation were made.
-(3) Sections 15 to 19, as applied by this section, are subject to part 5 (Unit subdivisions).
-## U 2.1A Application of further provisions—fire and emergency services levy
+(3) Sections 15, 16 and 17, as applied by this section, are subject to part 5 (Unit subdivisions).
+## 2.1A Application of further provisions—fire and emergency services levy
+(1) This section applies to the following provisions (the applied provisions):
+  (a) section 18 (How may rates be paid?);
+  (b) section 19 (Payment of rates by instalments);
+  (c) part 7 (Deferral and rebates) (other than section 63 (Rebate of rates—uncapped) and section 64 (Rebate of rates—capped));
+  (d) any other provision prescribed by regulation.
+(2) The applied provisions have effect as if—
+  (a) a reference to rates included a reference to the fire and emergency services levy imposed under section 1.1; and
+  (b) any other necessary changes were made; and
+  (c) any changes prescribed by regulation were made.
+(3) Sections 18 and 19, as applied by this section, are subject to part 5 (Unit subdivisions).
 ## 2.2 References in other instruments
 A reference to rates in an instrument, other than a statutory instrument under this Act or the Taxation Administration Act, includes a reference to a levy imposed under this schedule.
 ## Part 1.3 Other provisions about levies
-## U 3.1 Certain proposed subdivisions—imposition of levy
-(1) This section applies to a parcel of land if section 34 (Imposition of rates—qualifying parcels of land) applies to the parcel.
-(2) In its application to the imposition of levy to the parcel of land, section 1.1 has effect as if subsections (3) and (4) of this section were substituted for section 1.1 (2) and (3).
-(3) The levy imposed for a parcel of land to which schedule 1, section 3.1 applies is worked out as follows:
+## 3.1 Certain proposed subdivisions—imposition of fire and emergency services levy
+(1) This section applies to a parcel of land that is a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions).
+(2) In its application to the imposition of fire and emergency services levy to the parcel of land, section 1.1 has effect as if subsections (3) and (4) of this section were substituted for section 1.1 (1), (2) and (3).
+(3) Fire and emergency services levy is imposed for a parcel of land to which schedule 1, section 3.1 applies, worked out as follows:
 \+
 (4) In this section:
 AUV means the average unimproved value of the parcel.
@@ -51,7 +67,16 @@ P means the percentage rate determined under the Taxation Administration Act, se
 RP means the percentage, as determined under section 32, of the intended development that is to be used for residential purposes.
 TA (or threshold amount) means the threshold amount determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).
-## U 3.1A Certain proposed subdivisions—imposition of city centre marketing and improvements levy
+## 3.1A Certain proposed subdivisions—imposition of city centre marketing and improvements levy
+(1) This section applies to a parcel of land that is a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions).
+(2) In its application to the imposition of city centre marketing and improvements levy to the parcel of land, section 1.2 has effect as if subsections (3) and (4) of this section were substituted for section 1.2 (1) and (4).
+(3) City centre marketing and improvements levy is imposed for a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions), worked out as follows:
+(AUV CP) P
+(4) In this section:
+AUV means the average unimproved value of the parcel.
+CP means the percentage, as determined under section 32, of the intended development that is to be used for commercial purposes.
+P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
+Note Different percentage rates may be determined for different collection areas or part of a collection area (see Legislation Act, s 48).
 ## 3.2 Rebate of levy
 (1) This section applies to an eligible person.
 (2) The person is entitled, on application to the commissioner under section 61, to a rebate of the person’s liability for levy for a parcel of land for a year if—
