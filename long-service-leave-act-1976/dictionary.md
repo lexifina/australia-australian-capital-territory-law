@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · notifiable instrument (see s 10)
 · public servant.
 agreement means an industrial agreement made under the Workplace Relations Act 1996 (Cwlth).
-approved training contract—see the Vocational Education and Training Act 2003, dictionary.
+approved training contract—see the Training and Tertiary Education Act 2003, dictionary.
 associated company means a company that is a subsidiary, holding company or related body corporate under the Corporations Act, section 9.
 authorised officer means a person who is an authorised officer under section 13A.
 award means an award or determination under the Workplace Relations Act 1996 (Cwlth).
