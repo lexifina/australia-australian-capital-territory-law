@@ -37,7 +37,6 @@ capital reduction, for part 3.3 (Entitlements arising from capital reductions or
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
 charitable organisation means an association, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for the purpose of securing pecuniary benefits to its members.
-commercial hire business—section 163.
 commissioner means the commissioner for revenue.
 company, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
@@ -69,7 +68,6 @@ dutiable value—
   (a) of a motor vehicle for part 9.1—see section 203; and
   (b) of other dutiable property—see section 20.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
-equipment financing arrangement, for chapter 6 (Hire of goods)—see section 151.
 first executed, for an instrument (including a contract)—see section 243.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
 foreign resident means a person who at the relevant time—
@@ -92,14 +90,6 @@ franchisor—see the definition of franchise arrangement.
 FS (TB) Act, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
 general insurance, for chapter 8 (Insurance)—see section 175.
 general insurer, for chapter 8 (Insurance)—see section 175.
-goods, for chapter 6 (Hire of goods)—see section 151.
-hire of goods—see section 152 and section 153.
-hire-purchase agreement means a letting of goods with an option to purchase and an agreement for the purchase of goods by instalments (whether the agreement describes the instalments as rent or hire or otherwise), but does not include any agreement—
-  (a) by which the property in the goods the subject of the agreement passes at the time of the agreement or on or at any time before the delivery of the goods; or
-  (b) for the letting of goods, or for the purchase of goods, together with a letting or purchase of—
-    (i) real property or an estate or interest in real property; or
-    (ii) a business or an interest in a business.
-hiring charges—see section 155 and section 156.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
 instrument includes a written document and a written statement.
 insurance includes assurance.
@@ -225,14 +215,6 @@ scheme includes—
   (a) an agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; or
   (b) a plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
 shares includes rights to shares.
-special hiring agreement means a written agreement for the hire of goods—
-  (a) that describes the goods in such a way as to enable the nature or character of the goods to be clearly and readily identified, including the number of items; and
-  (b) that does not include—
-    (i) provisions under which the goods may, at any time, be replaced in whole or in part by other goods, except to the extent that the agreement allows replacement if the goods—
-      (A) are lost, destroyed or stolen; or
-      (B) fail or malfunction in the normal course of operation or use; or
-      (C) are temporarily replaced during the servicing, maintenance or repair of the goods; or
-    (ii) provisions under which other goods, whether of the same or a different type, may be additionally provided.
 stamped—see section 233.
 stock exchange means—
   (a) the Australian Stock Exchange Limited; or

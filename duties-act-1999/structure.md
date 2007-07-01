@@ -29,12 +29,6 @@
 ## Part 5.4 Unascertainable lease costs
 ## Part 5.5 Miscellaneous
 ## Part 5.6 Expiry—ch 5
-# Chapter 6 Hire of goods
-## Part 6.1 Preliminary
-## Part 6.2 Imposition and rates of duty
-## Part 6.3 Arrangements applying to people engaged in business of hiring out goods
-## Part 6.4 Arrangements applying to people other than those engaged in business of hiring out goods
-## Part 6.5 Expiry—ch 6
 # Chapter 7 Mortgages
 # Chapter 8 Insurance
 ## Part 8.1 Preliminary
