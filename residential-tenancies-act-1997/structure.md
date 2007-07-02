@@ -36,4 +36,3 @@
 ### Division 7.4 Other matters about tribunal
 ## Part 8 Referrals and appeals to Supreme Court
 ## Part 9 Miscellaneous
-## Part 11 Transitional—Asbestos Legislation Amendment Act 2006
