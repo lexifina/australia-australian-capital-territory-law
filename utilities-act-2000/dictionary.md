@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · administrative appeals tribunal
+· commissioner for revenue
 · corporation
 · disallowable instrument (see s 9)
 · exercise
@@ -16,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State
 · Supreme Court
 · the Territory.
+administrator, for part 3A (Energy industry levy)—see section 54N.
 annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant financial year.
 approved meter, for division 6.4 (Passing on supply costs)—see section 97.
 authorised person means a person appointed as an authorised person under section 114.
@@ -36,14 +38,19 @@ customer debt, for part 12 (Complaints)—see section 184.
 daily newspaper means a daily newspaper that circulates generally in the Territory.
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+determined, for part 3A (Energy industry levy)—see section 54A.
 electricity connection service—see section 79 (Electricity connection service).
 electricity distributor—
   (a) means a utility licensed for the distribution of electricity through an electricity network; and
   (b) in relation to an electricity connection service for premises—means a utility licensed to provide the service for the premises.
 electricity network—see section 7 (Electricity network).
 electricity supplier, in relation to the supply of electricity to premises, means a utility licensed to supply electricity to the premises.
+energy industry sector, for part 3A (Energy industry levy)—see section 54D (1).
+energy utility, for part 3A (Energy industry levy)—see section 54D (2).
+energy utility service, for part 3A (Energy industry levy)—see section 54D (3).
 essential service—see section 149A.
 essential service restriction—see section 149A.
+fixed net regulatory cost, for part 3A (Energy industry levy)—see section 54G (3).
 franchise customer—see section 17 (Customers).
 gas—see section 8.
 gas connection service—see section 81 (Gas connection service).
@@ -70,8 +77,14 @@ land-holder—
     (ii) if the land is occupied by a person other than the owner—an occupier of the land; and
   (b) in relation to unleased Territory land—means the Territory; and
   (c) in relation to national land—means the Commonwealth, and includes a lessee of the land.
+levy, for part 3A (Energy industry levy)—see section 54A.
+levy year, for part 3A (Energy industry levy)—see section 54C (1).
 licence means a licence under this Act.
+local regulatory cost, for part 3A (Energy industry levy)—see section 54F (1).
+national regulatory cost, for part 3A (Energy industry levy)—see section 54E (2).
+national regulatory obligations, for part 3A (Energy industry levy)—see section 54E (1).
 negotiated customer contract means a contract to which section 95 (Negotiated customer contracts) applies.
+net regulatory cost, for part 3A (Energy industry levy)—see section 54G (2).
 network—
   (a) for this Act—means any of the following:
     (i) an electricity network;
@@ -101,6 +114,7 @@ private land means land other than public land.
 proceeding under this Act, for part 15 (Vicarious liability)—see section 251.
 public land means national land or unleased Territory land.
 registrar, for part 12 (Complaints)—see section 184.
+regulatory cost, for part 3A (Energy industry levy)—see section 54G (1).
 related law means the ICRC Act.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act, s 104).
 respondent, to a complaint, for part 12 (Complaints)—see section 184.
@@ -143,3 +157,4 @@ water distributor means—
 water network—see section 12 (Water network).
 water supplier, in relation to the supply of water to premises, means a utility licensed to supply water to the premises.
 withdrawal, of a utility service, for part 12 (Complaints)—see section 184.
+year, for part 3A (Energy industry levy)—see section 54A.

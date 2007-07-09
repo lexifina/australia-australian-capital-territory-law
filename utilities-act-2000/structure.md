@@ -12,6 +12,7 @@
 ### Division 3.4 Annual licence fee
 ### Division 3.5 Review and enforcement
 ### Division 3.6 Miscellaneous
+## Part 3A Energy industry levy
 ## Part 4 Industry codes
 ## Part 5 Technical regulation
 ### Division 5.1 Technical codes
@@ -64,3 +65,4 @@
 ### Division 14.3 Protection of territory networks
 ## Part 15 Vicarious liability
 ## Part 16 Miscellaneous
+## Part 17 Transitional
