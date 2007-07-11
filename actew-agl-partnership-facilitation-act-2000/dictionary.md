@@ -22,12 +22,12 @@ asset includes—
   (d) an asset arising under a law of a place other than the Territory or a contract governed by such a law.
 joint venture means the arrangement described in section 5.
 joint venture entity—
-  (a) for this Act generally, means—
-    (i) ACTEW; or
-    (ii) AGL; or
+  (a) for this Act generally—means any of the following:
+    (i) ACTEW;
+    (ii) AGL;
     (iii) a company that is—
       (A) a participant in a partnership; and
-      (B) is, under the Corporations Act, a related body corporate to ACTEW or AGL; and
+      (B) under the Corporations Act, a related body corporate to ACTEW or AGL; and
   (b) for part 4 (Secondment of ACTEW employees)—see section 22.
 liability includes—
   (a) a duty or obligation; and
