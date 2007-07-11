@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -12,7 +12,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State.
 activity means a current or proposed activity including a process, operation, project, venture or business.
 analyst means an analyst under section 15.
-an offence, for part 11 (Powers of authorised officers)—see section 95.
 appropriate person means the appropriate person under section 91I.
 approved use, for division 9.5 (Assessment and remediation)—see section 91A.
 area of high conservation value means—
@@ -65,10 +64,8 @@ environment improvement initiative means—
   (c) a prescribed standard of the International Organization for Standardization; or
   (d) a prescribed initiative.
 environment protection order means an environment protection order under section 125.
-environment protection policy means an environment protection policy under part 4.
-Note A reference to an instrument (including a policy) includes a reference to the instrument as originally made and as amended (see Legislation Act, s 102).
 environment protection policy—
-  (a) for this Act generally, means an environment protection policy under part 4 (Environment protection policies); and
+  (a) for this Act generally—means an environment protection policy under part 4 (Environment protection policies); and
   (b) for part 4—see section 23B.
 Note A reference to an instrument (including a policy) includes a reference to the instrument as originally made and as amended (see Legislation Act, s 102).
 financial assurance means a financial assurance under section 85.
@@ -108,6 +105,7 @@ so that the person is able to benefit from the value of the lease, or a substant
   (f) a person who would otherwise be a notional lessee if—
     (i) the person has some security of the lease; and
     (ii) the person, or a financial controller appointed by the person, has entered into a contract to sell the land for the purpose of realising all or part of the value of the land to discharge an obligation so secured.
+offence, for part 11 (Powers of authorised officers)—see section 95.
 pollutant means—
   (a) a gas, liquid or solid; or
   (b) dust, fumes, odour or smoke; or
