@@ -14,9 +14,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · territory land
 · the Territory.
 acquiring authority—
-  (a) for this Act generally, means—
-    (i) the Executive; or
-    (ii) a territory authority; or
+  (a) for this Act generally—means any of the following:
+    (i) the Executive;
+    (ii) a territory authority;
     (iii) a utility; and
   (b) for part 9 (Dealings in land vested in acquiring authorities—see section 97A.
 affected, in relation to a person who is affected by a pre-acquisition declaration—see section 21 (8).
