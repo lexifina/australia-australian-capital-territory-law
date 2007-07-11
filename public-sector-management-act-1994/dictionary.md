@@ -35,8 +35,8 @@ autonomous instrumentality means—
   (b) the Office of the Director of Public Prosecutions.
 category A officer, for part 7 (Long service leave)—see section 148.
 category B officer, for part 7 (Long service leave)—see section 148.
-chief executive—
-  (a) for this Act generally, means a person employed under section 28 (Chief executives—engagement) or section 30 (Chief executives—temporary contracts) to perform the duties of an office of chief executive; and
+chief executive means—
+  (a) for this Act generally—a person employed under section 28 (Chief executives—engagement) or section 30 (Chief executives—temporary contracts) to perform the duties of an office of chief executive; and
   (b) for division 9.6 (Disciplinary appeal committees)—see section 203.
 chief executive officer means—
   (a) in relation to a territory instrumentality—the person who has responsibility for managing the affairs of the instrumentality; and
@@ -66,8 +66,8 @@ disability, for division 3.7 (Whole-of-government management responsibilities)�
 disciplinary appeal committee, for part 9 (Discipline)—see section 178.
 discrimination, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 eligible public employment, for part 9 (Discipline)—see section 178.
-employee—
-  (a) for this Act generally, means—
+employee means—
+  (a) for this Act generally—
     (i) a chief executive; or
     (ii) an executive; or
     (iii) a person engaged under division 5.7 (Temporary employment); or
