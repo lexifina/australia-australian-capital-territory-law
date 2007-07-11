@@ -17,7 +17,7 @@ authorised analyst means an analyst mentioned in the Public Health Act 1997, sec
 authorised officer means a public health officer who is authorised under the Public Health Act 1997, section 12A (2) (Functions of public health officers) to exercise a function under this Act.
 certificate of registration, for a food business, means a certificate of registration issued under section 96 (1) for the business.
 clearance certificate means a clearance certificate issued under section 86 (2).
-Commonwealth Act means the Australia New Zealand Food Authority Act 1991 (Cwlth).
+Commonwealth Act means the Food Standards Australia New Zealand Act 1991 (Cwlth).
 connected, with an offence, for part 5 (Inspection and seizure powers)—see section 45.
 disciplinary notice—see section 101 (1) (Procedure for taking action in relation to registration).
 displayed for sale—see section 9 (2) (Meaning of sell etc).
@@ -31,7 +31,7 @@ executive officer, of a corporation, means a person, by whatever name called and
 falsely described, for part 3 (Offences relating to food)—see section 15 (False descriptions of food).
 food—see section 8.
 food authority—see the Commonwealth Act, section 3 (1), definition of authority.
-Note Authority is defined as the Australia New Zealand Food Authority but legislation has been introduced into the Commonwealth Parliament to change its name to Food Standards Australia New Zealand.
+Note Authority is defined to mean Food Standards Australia New Zealand.
 food business—see section 10.
 food business register—see section 105.
 food safety standard—see the Commonwealth Act, section 3 (1), definition of standard.
