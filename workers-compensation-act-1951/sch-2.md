@@ -1,4 +1,4 @@
-# Schedule 2 Adjacent areas
+# Schedule 2 Adjacent areas for States and Territories
 (see s 36B (8), def Territory or State)
 ## 2.1 Definitions—sch 2
 In this schedule:
