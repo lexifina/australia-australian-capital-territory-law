@@ -10,6 +10,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 personal property includes leasehold property, and a share or interest in personal property.
 real property includes an estate, right or interest in real property.
 registrar means the registrar of the Supreme Court.
-will—
-  (a) for this Act generally, includes a codicil; and
+will includes—
+  (a) for this Act generally—a codicil; and
   (b) for part 4 (Miscellaneous)—see section 17.
