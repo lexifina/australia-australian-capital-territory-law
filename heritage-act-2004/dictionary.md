@@ -8,9 +8,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · entity
 · exercise
 · function
-· planning and land authority
 · Minister
 · national capital authority
+· planning and land authority
 · working day.
 Aboriginal object—see section 9.
 Aboriginal place—see section 9.
@@ -18,6 +18,7 @@ Aboriginal tradition means Aboriginal tradition, observance, custom or belief, i
 appeal, in relation to a reviewable decision, means an application to the administrative appeals tribunal to review the decision.
 at premises includes on the premises.
 authorised person means a person appointed as an authorised person under section 78.
+cancellation, for part 7 (Cancellation of registration)—see section 50.
 cancellation proposal, for part 7 (Cancellation of registration)—see section 43.
 connected, for part 14 (Enforcement)—see section 77.
 conservation includes preservation, protection, maintenance, restoration and reconstruction.
@@ -40,7 +41,9 @@ heritage register—see section 20.
 heritage significance—see section 10.
 heritage significance criteria—see section 10.
 information discovery order—see section 95.
-interested person—see section 13.
+interested person means—
+  (a) for this Act generally—see section 13; and
+  (b) for part 17 (AAT review of decisions)—see section 111.
 Land Act means the Land (Planning and Environment) Act 1991.
 nomination means nomination of a place or object under section 28 for provisional registration.
 nomination details, for a place or object—see section 28 (3).
