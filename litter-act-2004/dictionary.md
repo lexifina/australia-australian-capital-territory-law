@@ -19,7 +19,7 @@ lake—see the Lakes Act 1976, dictionary.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 occupier, of premises, includes the person in charge of the premises.
 public place means—
-  (a) a road, road related area or any other unleased Territory land; and
+  (a) a road, road related area or any other unleased Territory land; or
   (b) a place to which the public, or a section of the public, has access, whether by payment or not.
 rider—see the Road Transport (General) Act 1999, dictionary.
 road—see the Road Transport (General) Act 1999, dictionary.
