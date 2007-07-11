@@ -5,5 +5,5 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · affidavit
 · instrument (see s 14)
 · oath.
-court—see the Evidence Act 1971, section 6.
-proceeding—see the Evidence Act 1971, section 6.
+court—see the Evidence Act 1971, dictionary.
+proceeding—see the Evidence Act 1971, dictionary.
