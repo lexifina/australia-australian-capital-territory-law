@@ -20,7 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory authority
 · working day.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
-assessor, for part 4.2 (Pre-sentence reports)—see section 41 (5).
+assessor, for part 4.2 (Pre-sentence reports)—see section 41 (6).
 at, in relation to a correctional centre, includes in the correctional centre.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
@@ -31,7 +31,7 @@ controlled drug means a controlled drug under the Criminal Code, chapter 6 (Seri
 correctional centre means—
   (a) a correctional centre under the Crimes (Sentence Administration) Act 2005; or
   (b) a NSW correctional centre.
-corrections officer—see the Corrections Management Act 2006, section 20.
+corrections officer—see the Corrections Management Act 2007, section 20.
 court—if a court has sentenced an offender, made an order or given a direction, means the same court, however constituted.
 deferred sentence obligations, for an offender, see section 120.
 deferred sentence order—see section 27 (2).
@@ -54,7 +54,7 @@ periodic detention, for an offender—see the Crimes (Sentence Administration) A
 periodic detention period—see section 11 (2), and includes the period as extended under the Crimes (Sentence Administration) Act 2005.
 place restriction order—see section 21.
 pre-sentence report—see section 41 (1).
-pre-sentence report order—see section 41 (1).
+pre-sentence report matter, for part 4.2 (Pre-sentence reports)—see section 40A.
 primary sentence, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 70 (1).
 primary victim, for part 4.3 (Victim impact statements)—see section 47, definition of victim, paragraph (a).
 principal offence, for part 4.4 (Taking additional offences into account)—see section 55.
