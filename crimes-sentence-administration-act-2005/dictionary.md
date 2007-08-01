@@ -51,8 +51,8 @@ core condition means—
   (b) of an offender’s good behaviour order—see section 84; or
   (c) of an offender’s parole order—see section 117; or
   (d) of an offender’s licence—see section 289.
-correctional centre means a correctional centre under the Corrections Management Act 2005.
-corrections officer means a corrections officer under the Corrections Management Act 2005.
+correctional centre—see the Corrections Management Act 2007, dictionary.
+corrections officer—see the Corrections Management Act 2007, dictionary.
 corresponding ACT court, in relation to a court of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 corresponding community-based sentence law, for chapter 12 (Transfer of community-based sentences)—see section 267.
 corresponding Minister, of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
@@ -61,15 +61,11 @@ default imprisonment, for chapter 11 (Interstate transfer of prisoners)—see se
 deputy chair means a deputy chair of the board.
 designated authority, for a State or another Territory, for part 7.6 (Interstate transfer of parole orders)—see section 162.
 detention period, for an offender’s periodic detention—see section 41.
-drug means—
-  (a) a controlled drug under the Criminal Code, section 600; or
-  (b) a substance prescribed by regulation for this definition.
+drug—see the Corrections Management Act 2007, section 132.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
-escort officer means—
-  (a) a police officer; or
-  (b) an escort officer under the Corrections Management Act 2005.
+escort officer—see the Corrections Management Act 2007, dictionary.
 finishing time, for an offender’s detention period—see section 52.
 frisk search—see the Corrections Management Act 2005, dictionary.
 full-time detainee—see section 22 (1).
@@ -164,7 +160,7 @@ subject to a sentence of imprisonment, for part 11.1 (Interstate transfer of pri
 supervisory functions, of the board—see section 180.
 surety, for a good behaviour order—see the Crimes (Sentencing) Act 2005, dictionary.
 term, of a sentence, includes the term as amended under a law of the ACT (including this Act), the Commonwealth, a State or another Territory.
-test sample—see the Corrections Management Act 2006, dictionary.
+test sample—see the Corrections Management Act 2007, dictionary.
 this jurisdiction, for chapter 12 (Transfer of community-based sentences)—see section 265.
 translated sentence, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 victim, of an offender, means—
