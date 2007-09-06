@@ -31,7 +31,6 @@ committee of management, in relation to a club or organisation, means the group 
 complainant, in relation to a complaint, means the person who made the complaint.
 complaint means a complaint about unlawful discrimination that may be made under the HRC Act.
 complaint about unlawful discrimination—see section 76.
-compulsory conference means a conference called under section 82.
 contract worker means a person (the worker) who does work for someone else (the third person) under a contract between the worker’s employer and the third person.
 deputy president means a deputy president of the tribunal.
 disability—see section 5AA.
