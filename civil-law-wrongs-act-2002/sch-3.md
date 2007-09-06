@@ -90,12 +90,15 @@ The objects of this schedule are—
   (d) to establish a council to supervise the preparation and application of schemes and to assist in the improvement of occupational standards and protection of consumers.
 ## 4.2 Definitions—sch 4
 In this schedule:
+amount payable, under an insurance policy in relation to an occupational liability—see section 4.2A.
 business assets, of a person, means the property of the person that is used to perform the person’s occupation and that can be taken in proceedings to enforce a judgment of a court.
+costs includes fees, charges, disbursements and expenses.
 council—see section 4.36.
 court includes a tribunal and an arbitrator.
-damages means damages awarded in relation to a claim or counterclaim or by way of set-off, and includes—
-  (a) interest payable on an amount awarded as damages; and
-  (b) legal costs and expenses ordered to be paid in relation to an award of damages (other than legal costs and expenses incurred in enforcing a judgment or incurred on an appeal made by a defendant).
+damages means—
+  (a) damages awarded in relation to a claim or counter-claim or claim by way of set-off; or
+  (b) costs in relation to the proceedings ordered to be paid in relation to such an award (other than costs incurred in enforcing a judgment or incurred on an appeal made by a defendant); or
+  (c) any interest payable on the amount of the damages or costs.
 judgment includes—
   (a) a judgment given by consent; and
   (b) a decision of a tribunal; and
@@ -106,6 +109,11 @@ occupational association means a corporation—
 occupational group includes a professional group and a trade group.
 occupational liability means civil liability arising (in tort, contract or otherwise) directly or vicariously from anything done or omitted to be done by a member of an occupational association acting in the performance of the member’s occupation.
 scheme means a scheme for limiting the occupational liability of members of an occupational association.
+## 4.2A Amount payable under an insurance policy—sch 4
+In this schedule:
+amount payable, under an insurance policy in relation to an occupational liability, includes—
+  (a) defence costs payable in relation to a claim, or notification that may lead to a claim (other than reimbursement of the defendant for time spent in relation to the claim), but only if the costs are payable out of the one sum insured under the policy in relation to the occupational liability; and
+  (b) the amount payable under or in relation to the policy by way of excess.
 ## 4.3 Application—sch 4
 (1) This schedule does not apply to liability for damages arising from any of the following:
   (a) personal injury to a person;
@@ -191,24 +199,24 @@ officer—
   (a) in relation to a corporation within the meaning of the Corporations Act—see the Corporations Act, section 82A (Officers of bodies corporate and other entities); and
   (b) in relation to any other corporation—means anyone (by whatever name called) who is concerned in or takes part in the management of the corporation.
 ## 4.17 Limitation of liability by insurance arrangements
-A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages in relation to the cause of action above the monetary ceiling if the person can satisfy the court that the person has the benefit of an insurance policy—
-  (a) insuring the person against the occupational liability; and
-  (b) under which the amount payable in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy) is at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened.
+A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages in relation to the cause of action above the monetary ceiling if the person can satisfy the court that—
+  (a) the person has the benefit of an insurance policy insuring the person against the occupational liability to which the cause of action relates; and
+  (b) the amount payable under the policy for the occupational liability is at least the amount of the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates.
 ## 4.18 Limitation of liability by reference to amount of business assets
 A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages for the cause of action above the monetary ceiling if the person can satisfy the court—
-  (a) that the person has business assets with a net current market value of at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened; or
+  (a) that the person has business assets with a net current market value of at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates; or
   (b) that—
     (i) the person has business assets and the benefit of an insurance policy insuring the person against the occupational liability; and
-    (ii) the net current market value of the assets and the amount payable under the insurance policy in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy), if combined, would total an amount that is at least the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened.
+    (ii) the net current market value of the business assets and the amount payable under the policy for the occupational liability, if combined, would total an amount that is at least the amount of the monetary ceiling stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates.
 ## 4.19 Limitation of liability by multiple of charges
 (1) A person to whom a scheme applies, and against whom a proceeding relating to occupational liability is brought, is not liable in damages in relation to the cause of action above the limitation amount if the person can satisfy the court—
   (a) that the person has the benefit of an insurance policy—
     (i) insuring the person against that occupational liability; and
-    (ii) under which the amount payable in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy) is at least an amount (the limitation amount), that is a reasonable charge for the services provided by the person, or that the person failed to provide, and to which the cause of action relates, multiplied by the multiple stated in the scheme in relation to the cause of action and the kind of work to which the cause of action relates when the act or omission giving rise to the cause of action happened; or
+    (ii) under which the amount payable for the occupational liability is at least an amount (the limitation amount) that is a reasonable charge for the services provided by the person or which the person failed to provide and to which the cause of action relates, multiplied by the multiple stated in the scheme in relation to the class of person and the kind of work to which the cause of action relates; or
   (b) that the person has business assets with a net current market value of at least the limitation amount; or
   (c) that—
     (i) the person has business assets and the benefit of an insurance policy insuring the person against the occupational liability; and
-    (ii) the net current market value of the assets and the amount payable under the insurance policy in relation to the occupational liability relating to the cause of action (including any amount payable by the person as an excess under or in relation to the policy), if combined, would total an amount that is at least the limitation amount.
+    (ii) the net current market value of the assets and the amount payable under the policy for the occupational liability, if combined, would total an amount that is at least the limitation amount.
 (2) In deciding what is a reasonable charge for a provision mentioned in subsection (1), the court must consider—
   (a) the amount charged; and
   (b) the amount that would ordinarily be charged in accordance with a scale of charges (a relevant scale) accepted by the occupational association of which the person is a member; or
@@ -231,12 +239,15 @@ A person to whom a scheme applies, and against whom a proceeding relating to occ
 (3) A council decision—
   (a) takes effect when an amendment of the scheme giving effect to the decision takes effect; and
   (b) applies only to a cause of action that arises after the decision takes effect.
+## 4.22A Liability in damages not reduced to below relevant limit
+The liability in damages of a person to whom a scheme applies is not reduced below the relevant limitation imposed by a scheme in force under this schedule because the amount available to be paid to the claimant under the insurance policy required for this schedule for the liability is less than the relevant limitation.
+Note Section 4.2A allows a defence costs inclusive policy for this schedule, which may reduce the amount available to be paid to a client for occupational liability covered by the policy. Section 4.22A makes it clear that this does not reduce the cap on the liability of the scheme participant to the client, and accordingly the scheme participant will continue to be liable to the client for any difference between the amount payable to the client under the policy and the amount of the cap.
 ## 4.23 Insurance to be of required standard
 For a scheme, an insurance policy must comply with standards decided by the occupational association whose members may be insured under the policy.
 ## Division 4.2.3 Effect of schemes
 ## 4.24 Limit of occupational liability by schemes
 (1) To the extent provided under this schedule and the provisions of the scheme, a scheme limits the occupational liability of a person in relation to a cause of action based on an act or omission if the scheme applied to the person when the act or omission happened.
-(2) The limitation of liability applying to the cause of action is the limitation provided under the scheme when the act or omission happened.
+(2) The limitation of liability applying to the cause of action is the limitation provided under the scheme when the act or omission giving rise to the cause of action concerned happened.
 (3) A limitation of liability that, under this section, applies in relation to an act or omission applies to every cause of action based on the act or omission, irrespective of when the cause of action arises or proceedings are begun in relation to it, even if the scheme has been amended or, under section 4.28 (Duration of scheme), has ceased to be in force.
 (4) A person to whom a scheme applies cannot choose not to be subject to the scheme unless exempt under provisions included in the scheme under section 4.15 (2) (People to whom scheme applies).
 ## 4.25 Limitation of amount of damages
@@ -460,6 +471,11 @@ The provisions of this schedule are to be regarded as part of the substantive la
 This schedule applies to a person to whom a scheme in force under this schedule applies despite any contract to the contrary, whether the contract was made before, on or after the day the person became a person to whom the scheme applies.
 ## 4.59 No limitation on other insurance
 This schedule does not limit the insurance arrangements a person may make apart from those made for this schedule.
+## 4.59A Validation of schemes etc
+(1) A scheme approved under this schedule before the commencement of the Justice and Community Safety Legislation Amendment Act 2007 (the amending Act) is taken to be, and always to have been, a valid scheme if it would have been valid had the amendments made by the amending Act been in force when the scheme was approved.
+(2) Anything done or omitted to be done in relation to such a scheme is taken to be, and always to have been, validly done or omitted.
+(3) In particular, an insurance policy required by this schedule before a limitation on liability in damages of a person to whom such a scheme applies is reduced is taken to comply, and always to have complied, with this schedule if it would have complied had the amendments made by the amending Act been in force when the policy was issued.
+(4) This section extends to proceedings pending in a court on the commencement of this section.
 ## 4.60 Review of sch 4
 (1) The Minister must review this schedule as soon as possible after the end of its 5th year of operation.
 (2) The review must examine whether the policy objectives of this schedule remain valid and whether the terms of the schedule remain appropriate for securing those objectives.

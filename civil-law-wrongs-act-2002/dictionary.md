@@ -18,6 +18,7 @@ accommodation unit—see section 144.
 agent, of an accommodation provider—see section 144.
 aggrieved person, for division 9.3.1 (Offers to make amends)—see section 124.
 agreed expert, for chapter 6 (Expert medical evidence)—see section 84.
+amount payable, under an insurance policy in relation to an occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2A.
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 apology, for part 2.3 (Apologies)—see section 13.
 appointed expert, for chapter 6 (Expert medical evidence)—see section 84.
@@ -45,7 +46,9 @@ consequential mental harm, for part 3.2 (Mental harm)—see section 32.
 consumer claim, for chapter 7A (Proportionate liability)—see section 107C.
 contribution notice, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 57 (Respondent may add someone else as contributor).
 contributor, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
-costs, for chapter 14 (Limitations on legal costs)—see section 180.
+costs—
+  (a) for chapter 14 (Limitations on legal costs)—see section 180; and
+  (b) for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 council—
   (a) for schedule 4 (Professional standards)—see schedule 4, section 4.36; and
   (b) for schedule 5 (Occupational associations—model code)—see schedule 5, section 5.2.
