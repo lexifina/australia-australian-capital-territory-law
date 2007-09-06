@@ -24,8 +24,9 @@ impaired decision-making ability, for a person—see section 5.
 inquiry means an inquiry under part 3.
 interests, of a person—see section 5A.
 judicial officer means a judge of the Supreme Court or a magistrate.
-manager means a person who is a manager under any of the following sections:
+manager means a manager under any of the following sections:
 · section 8 (Appointment and powers of managers)
+· section 8AA (Manager for missing person’s property)
 · section 12 (Recognition of interstate etc guardians and managers)
 · section 32 (Surviving or substitute guardians etc).
 member, of the tribunal, means the president, a deputy president or a non-presidential member.
