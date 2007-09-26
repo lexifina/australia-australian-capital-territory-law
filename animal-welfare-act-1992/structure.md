@@ -12,6 +12,7 @@
 ### Division 5.3 Circus and travelling zoo permits
 ## Part 6 Animal trapping
 ### Division 6.1 Trapping offences
+### Division 6.2 Trapping permits
 ## Part 6A Regulatory action
 ## Part 7 Enforcement
 ### Division 7.1 Preliminary
