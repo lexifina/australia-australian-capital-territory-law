@@ -59,6 +59,7 @@ ASIC exemption, for part 3.5 (Mortgage practices and managed investment schemes)
 associate—
   (a) of a law practice, for the Act—see section 9; and
   (b) of a solicitor, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
+associated third party payer, for part 3.2—see section 261A (Terms relating to third party payers).
 Australia, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 Australian law, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 Australian lawyer—see section 7.
@@ -77,15 +78,14 @@ capping and sufficiency provisions, for part 3.4 (Fidelity cover)—see section 
 claim, for part 3.4 (Fidelity cover)—see section 316.
 claimant, for part 3.4 (Fidelity cover)—see section 316.
 client—
-  (a) for part 3.2 (Costs disclosure and review)—see section 261; and
+  (a) for this Act generally—includes a person to whom or for whom legal services are provided; and
   (b) for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
-commercial legal presence, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 compensation order, for part 4.8 (Compensation)—see section 441.
 complaint, for chapter 4 (Complaints and discipline)—see section 383.
 compliance certificate—see section 29 (Compliance certificates).
 complying community legal centre—see section 208.
 concerted interstate default, for part 3.4 (Fidelity cover)—see section 316.
-conditional costs agreement, for part 3.2 (Costs disclosure and review)—see section 261.
+conditional costs agreement, for part 3.2 (Costs disclosure and assessment)—see section 261.
 conditions means conditions, limitations or restrictions.
 conduct, for chapter 4 (Complaints and discipline)—see section 383.
 connected, for part 6.3 (Entry and search of premises)—see section 529.
@@ -111,19 +111,26 @@ corresponding foreign law means the following:
 corresponding law means the following:
   (a) a law of another jurisdiction that corresponds to the relevant provisions of this Act or, if a regulation is made declaring a law of the other jurisdiction to be a law that corresponds to this Act, the law declared under that regulation for the other jurisdiction;
   (b) if the term is used in relation to a matter that happened before the commencement of the law of another jurisdiction that, under paragraph (a), is the corresponding law for the other jurisdiction—a previous law applying to legal practice in the other jurisdiction.
-costs agreement, for part 3.2 (Costs disclosure and review)—see section 261.
-costs review, for part 3.2 (Costs disclosure and review)—see section 261.
+costs agreement, for part 3.2 (Costs disclosure and assessment)—see section 261.
+costs assessment, for part 3.2 (Costs disclosure and assessment)—see section 261.
 council means the bar council or law society council.
 data, for part 6.3 (Entry and search of premises)—see section 529.
 data storage device, for part 6.3 (Entry and search of premises)—see section 529.
 default, in relation to a law practice, for part 3.4 (Fidelity cover)—see section 316.
 director, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
-disbursements, for part 3.2 (Costs disclosure and review)—see section 261.
+disbursements, for part 3.2 (Costs disclosure and assessment)—see section 261.
 disciplinary action, for part 4.9 (Publicising disciplinary action)—see section 447.
 disciplinary tribunal means the Legal Practitioners Disciplinary Tribunal established under section 563.
 disciplinary tribunal trust account—see section 574 (2).
 dishonesty, for part 3.4 (Fidelity cover)—see section 316.
-disqualified person, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
+disqualified person means any of the following people:
+  (a) a person whose name has been removed from an Australian roll (whether or not at the request of the person) and who has not later been admitted to the legal profession under this Act or a corresponding law;
+  (b) a person who is not an Australian legal practitioner because the person’s Australian practising certificate has been cancelled under this Act or a corresponding law;
+  (c) a person whose Australian practising certificate has been suspended under this Act or a corresponding law and in relation to whom the suspension is in force;
+  (d) a person who has been refused a renewal of an Australian practising certificate under this Act or a corresponding law and who has not later been granted an Australian practising certificate;
+  (e) a person who is the subject of an order under this Act or a corresponding law prohibiting a law practice from employing or paying the person in relation to the practice;
+  (f) a person who is the subject of an order under this Act or a corresponding law prohibiting an Australian legal practitioner from being a partner of the person in a business that includes the practitioner’s practice;
+  (g) a person who is the subject of an order under section 123 (Disqualification from managing incorporated legal practice) or section 148 (Prohibition on multidisciplinary partnerships with certain partners who are not Australian legal practitioners) or under a provision of a corresponding law that corresponds to section 123 or section 148.
 engage in legal practice includes practise law.
 external examination, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
 external examiner, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
@@ -136,6 +143,10 @@ foreign law practice, for part 2.7 (Legal practice—foreign lawyers)—see sect
 foreign licensing body, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 foreign roll means an official roll of lawyers (whether admitted, practising or otherwise) kept in a foreign country, but does not include a roll prescribed by regulation.
 general trust account, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
+government lawyer means an Australian lawyer, or a person eligible to be admitted as an Australian lawyer, employed by—
+  (a) the Territory, a State, another Territory or the Commonwealth; or
+  (b) a government department (however described) of the Territory, a State, another Territory or the Commonwealth; or
+  (c) an entity prescribed by regulation as a government agency.
 grant an interstate practising certificate includes issue an interstate practising certificate.
 home jurisdiction—see section 10.
 incorporated legal practice—see section 101.
@@ -178,7 +189,7 @@ legal profession rules means rules made under part 7.4.
 legal services means work done, or business transacted, in the ordinary course of legal practice.
 lender, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 licensing body means the law society council.
-litigious matter, for part 3.2 (Costs disclosure and review)—see section 261.
+litigious matter, for part 3.2 (Costs disclosure and assessment)—see section 261.
 local lawyer—see section 7.
 local legal practitioner—see section 8.
 local practising certificate means a current practising certificate granted under this Act.
@@ -186,7 +197,7 @@ local registration certificate, for part 2.7 (Legal practice—foreign lawyers)�
 local roll means the roll of lawyers kept under this Act.
 local trust account means a trust account kept under this Act.
 locally-registered foreign lawyer means a person who is registered as a foreign lawyer under this Act.
-lump sum bill, for part 3.2 (Costs disclosure and review)—see section 261.
+lump sum bill, for part 3.2 (Costs disclosure and assessment)—see section 261.
 managed investment scheme—see the Corporations Act, section 9.
 member, of a managed investment scheme, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 mortgage means an instrument under which an interest in real property is charged, encumbered or transferred as security for the payment or repayment of money, and includes—
@@ -198,6 +209,7 @@ mortgage financing means facilitating a loan secured or intended to be secured b
   (c) receiving or dealing with payments for the purposes of, or under, the loan;
 but does not include providing legal advice or preparing an instrument for the loan.
 multidisciplinary partnership—see section 134.
+non-associated third party payer, for part 3.2—see section 261A.
 non-judicial member, of the disciplinary tribunal—see section 572 (2).
 occupier, for part 6.3 (Entry and search of premises)—see section 529.
 offence, for part 6.3 (Entry and search of premises)—see section 529.
@@ -242,7 +254,7 @@ relevant jurisdiction, for part 3.4 (Fidelity cover)—see section 327.
 responsible entity, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 restricted practising certificate means a local practising certificate or interstate practising certificate that is not an unrestricted practising certificate or barrister practising certificate.
 run-out mortgage, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
-scale of costs, for part 3.2 (Costs disclosure and review)—see section 261.
+scale of costs, for part 3.2 (Costs disclosure and assessment)—see section 261.
 search warrant, for part 6.3 (Entry and search of premises)—see section 529.
 serious offence means an offence whether committed in or outside the ACT that is—
   (a) an indictable offence against a law of the Commonwealth or any jurisdiction (whether or not the offence is or may be dealt with summarily); or
@@ -258,6 +270,7 @@ sole practitioner means an Australian legal practitioner who engages in legal pr
 solicitor means—
   (a) a local legal practitioner who holds a current unrestricted practising certificate or restricted practising certificate; or
   (b) an interstate legal practitioner who holds an interstate practising certificate that does not restrict the practitioner to engage in legal practice only as or in the manner of a barrister.
+sophisticated client, for part 3.2 (Costs disclosure and assessment)—see section 261.
 statutory interest account—see section 253.
 suitability matter, for an individual—see section 11.
 supervised legal practice means legal practice by a person who is an Australian legal practitioner—
@@ -267,25 +280,24 @@ supervised legal practice means legal practice by a person who is an Australian 
   (b) as a partner in a law firm, if—
     (i) at least 1 other partner is an Australian legal practitioner who holds an unrestricted practising certificate; and
     (ii) the person engages in legal practice under the supervision of an Australian legal practitioner mentioned in subparagraph (i); or
-  (c) in a capacity approved under the legal profession rules.
+  (c) as a government lawyer, if the person engages in legal practice under the supervision of an Australian lawyer who holds, or otherwise meets the criteria for the grant or renewal of, an unrestricted practising certificate; or
+  (d) in a capacity approved under the legal profession rules.
 tax offence means any offence against the Taxation Administration Act 1953 (Cwlth), whether committed in or outside the ACT.
 territory regulated mortgage, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 territory regulated mortgage practice, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
+third party payer, for part 3.2—see section 261A.
 this Act includes the admission rules and any other rules made under the Court Procedures Act 2004 for this Act.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation or legal profession rule (see Legislation Act, s 104).
 transit money—see section 210 (1).
 trust account, for part 3.1 (Trust money and trust accounts)—see section 210 (2) and (3).
-trust money means money entrusted to a law practice in the course of or in connection with the provision of legal services by the law practice for or on behalf of another person, and includes—
-  (a) money received on account of legal costs in advance of providing the services; and
-  (b) controlled money; and
-  (c) transit money; and
-  (d) money controlled by a law practice (or by an associate of the practice, whether alone or with another associate) under a power to deal with money for or on behalf of someone else that is—
-    (i) exercisable by the practice (or by an associate of the practice, whether alone or with another associate); or
-    (ii) exercisable jointly and severally with the person or a nominee or nominees of the person;
-but does not include money to which section 212 (Money involved in financial services or investments) applies.
+trust money means money entrusted to a law practice in the course of or in connection with the provision of legal services by the practice, and includes—
+  (a) money received by the practice on account of legal costs in advance of providing the services; and
+  (b) controlled money received by the practice; and
+  (c) transit money received by the practice; and
+  (d) money received by the practice that is the subject of a power, exercisable by the practice or an associate of the practice, to deal with the money for or on behalf of another person.
 trust property means property entrusted to a law practice in the course of or in connection with the provision of legal services by the practice, but does not include trust money.
 trust records, for part 3.1 (Trust money and trust accounts)—see section 210 (2) and (3).
-uplift fee, for part 3.2 (Costs disclosure and review)—see section 261.
+uplift fee, for part 3.2 (Costs disclosure and assessment)—see section 261.
 unrestricted practising certificate means a local practising certificate that is an unrestricted practising certificate or an interstate practising certificate that—
   (a) is not subject to a condition under a corresponding law similar to the condition under section 49 (Statutory condition about practice as solicitor) or a similar condition under a corresponding law; and
   (b) is not subject to a condition that restricts the holder of the certificate to practise only as or in the manner of a barrister; and

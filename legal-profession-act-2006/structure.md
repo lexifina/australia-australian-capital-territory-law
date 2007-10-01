@@ -53,17 +53,16 @@
 #### Subdivision 3.1.3.2 External examinations
 ### Division 3.1.4 Provisions relating to ADIs and statutory deposits
 ### Division 3.1.5 Miscellaneous—pt 3.1
-## Part 3.2 Costs disclosure and review
+## Part 3.2 Costs disclosure and assessment
 ### Division 3.2.1 Preliminary—pt 3.2
 ### Division 3.2.2 Application—pt 3.2
 ### Division 3.2.3 Costs disclosure
 ### Division 3.2.4 Legal costs generally
 ### Division 3.2.5 Costs agreements
 ### Division 3.2.6 Billing
-### Division 3.2.7 Costs review
+### Division 3.2.7 Costs assessment
 ### Division 3.2.8 Miscellaneous—pt 3.2
 ## Part 3.3 Professional indemnity insurance
-### Division 3.3.1 Preliminary—pt 3.3
 ## Part 3.4 Fidelity cover
 ### Division 3.4.1 Preliminary—pt 3.4
 ### Division 3.4.2 Fidelity fund
@@ -98,7 +97,7 @@
 # Chapter 5 External intervention
 ## Part 5.1 Preliminary—ch 5
 ## Part 5.2 Initiation of external intervention
-## Part 5.3 Supervisors
+## Part 5.3 Supervisors of trust money
 ## Part 5.4 Managers
 ## Part 5.5 Receivers
 ## Part 5.6 General—ch 5
@@ -121,7 +120,7 @@
 ## Part 8.2 Law society and law society council
 ## Part 8.3 Legal profession rules
 ### Division 8.3.1 Preliminary
-### Division 8.3.2 Rules for Australian legal practitioners and locally-registered foreign lawyers
+### Division 8.3.2 Rules for Australian legal practitioners and Australian-registered foreign lawyers
 ### Division 8.3.3 Rules for incorporated legal practices and multidisciplinary partnerships
 ### Division 8.3.4 General
 # Chapter 9 General provisions
