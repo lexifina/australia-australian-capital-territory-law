@@ -29,7 +29,7 @@ legally assisted person means a person to whom legal assistance is provided unde
 member of a review committee includes a deputy of a member of a review committee.
 member of the staff of the commission means a person employed under section 20.
 officer of the commission means a statutory officer of the commission or a member of the staff of the commission.
-practising certificate means an unrestricted practising certificate or a restricted practising certificate under the Legal Profession Act 2006.
+practising certificate means an unrestricted practising certificate, a restricted practising certificate or a barrister practising certificate under the Legal Profession Act 2006.
 prescribed matter, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 prescribed person, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 private legal practitioner means a person who is practising as a barrister, as a solicitor, or as a barrister and solicitor, on his or her own account or in partnership.
