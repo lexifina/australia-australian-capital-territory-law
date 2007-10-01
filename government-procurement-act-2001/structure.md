@@ -5,6 +5,7 @@
 ### Division 2.3 Proceedings of board
 ### Division 2.4 Staff
 ### Division 2.5 Other matters
+## Part 2A Procurement activities
 ## Part 3 Notifiable contracts
 ### Division 3.1 Preliminary
 ### Division 3.2 Notifiable contracts register
@@ -13,3 +14,4 @@
 ### Division 3.5 Other matters
 ## Part 4 Interest on commercial accounts
 ## Part 5 Miscellaneous
+## Part 10 Transitional provisions
