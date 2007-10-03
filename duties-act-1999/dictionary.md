@@ -50,6 +50,7 @@ corresponding law, in relation to a territory law, means a law of a State or ano
 cost, in relation to a lease—see section 136.
 Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission appointed under the Seat of Government (Administration) Act 1924 (Cwlth).
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
+deferral arrangement, for part 2.6A—see section 75AC (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
 determined amount, in relation to duty, means an amount—
   (a) determined by the Minister; or
@@ -67,6 +68,8 @@ dutiable transaction—see section 7 (2).
 dutiable value—
   (a) of a motor vehicle for part 9.1—see section 203; and
   (b) of other dutiable property—see section 20.
+eligible person, for part 2.6A—see section 75AA.
+eligible property, for part 2.6A—see section 75AA.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 first executed, for an instrument (including a contract)—see section 243.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
@@ -90,6 +93,7 @@ franchisor—see the definition of franchise arrangement.
 FS (TB) Act, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
 general insurance, for chapter 8 (Insurance)—see section 175.
 general insurer, for chapter 8 (Insurance)—see section 175.
+home buyer concession scheme, for part 2.6A—see section 75AA.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
 instrument includes a written document and a written statement.
 insurance includes assurance.
@@ -208,6 +212,7 @@ related person means a person who is related to another person in accordance wit
 relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
 relevant acquisition, for division 3.2.3 (Charging of duty)—see section 86.
 replica—see section 228.
+residential lease, for part 2.6A—see section 75AA.
 responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
 rights alteration, in relation to voting shares, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).

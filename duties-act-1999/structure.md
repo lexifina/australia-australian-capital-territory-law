@@ -9,6 +9,7 @@
 ### Division 2.5.2 Superannuation
 ### Division 2.5.3 Miscellaneous
 ## Part 2.6 Exemptions
+## Part 2.6A Deferred payments—home buyers
 ## Part 2.7 Expiry—provisions relating to unquoted marketable securities
 # Chapter 3 Certain transactions treated as transfers
 ## Part 3.1 Preliminary
