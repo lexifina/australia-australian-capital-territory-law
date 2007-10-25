@@ -128,81 +128,76 @@ Part 5A Inquiries and reports in relation to matters affecting public employees
 ## 88A Application of pt 5A
 This part does not apply to a territory-owned corporation.
 ## 88B Direction by the Minister
-The Minister may, by writing, give a direction to the council about the exercise of its functions under this part and the council shall comply with any direction so given.
+The Minister may, by writing, give a direction to the chief executive about the exercise of its functions under this part and the chief executive shall comply with any direction so given.
 ## 88C Report of certain investigations
-(1) If an inspector has conducted an investigation in relation to a matter affecting 1 or more public employees, the inspector shall, as soon as practicable, prepare a written report relating to the investigation and submit the report to the council.
+(1) If an inspector has conducted an investigation in relation to a matter affecting 1 or more public employees, the inspector shall, as soon as practicable, prepare a written report relating to the investigation and submit the report to the chief executive.
 (2) The report shall include—
   (a) the inspector’s conclusions from conducting the investigation and the reasons for those conclusions; and
   (b) any recommendations that the inspector wishes to make arising from the investigation or those conclusions; and
   (c) the other matters (if any) that are prescribed.
-(3) As soon as practicable after receiving the report, the council shall—
+(3) As soon as practicable after receiving the report, the chief executive shall—
   (a) give a copy of the report, together with any written comments that it wishes to make to the employer; and
   (b) if it considers it appropriate, give a copy of the report, together with those comments (if any), to the responsible Minister in relation to the employer.
-(4) The council may, in writing, request the employer to provide the council, within a reasonable period specified in the request, with particulars of—
+(4) The chief executive may, in writing, request the employer to provide the chief executive, within a reasonable period specified in the request, with particulars of—
   (a) any action that is proposed to be taken as a result of the conclusions or recommendations contained in the report; and
   (b) if an improvement or prohibition notice has been given by an inspector in relation to work being performed for the employer—any action taken, or proposed to be taken, in relation to the notice;
 and the employer shall comply with the request.
-(5) As soon as practicable after the receipt of a report, the employer shall give a copy of the report together with any written comment made by the council relating to the report—
+(5) As soon as practicable after the receipt of a report, the employer shall give a copy of the report together with any written comment made by the chief executive relating to the report—
   (a) if there is at least 1 health and safety committee established in relation to some or all of the employer’s employees to whose work the report relates—to each such committee; and
   (b) if there is no such committee established in relation to some or all of the employer’s employees to whose work the report relates, but some or all of those employees (in relation to which there is no such committee) are included in at least 1 designated work group for which there is a health and safety representative—to each such health and safety representative.
 ## 88D Power to obtain information and documents
-(1) If the council has reason to believe that a person is capable of giving information or producing documents relevant to a matter dealt with in a report under section 88C (1), the council may, at any time after receiving the report and before commencing an inquiry under section 88E, by written notice served on that person, require that person at the place, and within the period or on the date and at the time, specified in the notice, to give to the council any such information or to produce to the council any such documents.
+(1) If the chief executive has reason to believe that a person is capable of giving information or producing documents relevant to a matter dealt with in a report under section 88C (1), the chief executive may, at any time after receiving the report and before commencing an inquiry under section 88E, by written notice served on that person, require that person at the place, and within the period or on the date and at the time, specified in the notice, to give to the chief executive any such information or to produce to the chief executive any such documents.
 (2) A person shall not refuse or fail, without reasonable excuse, to give information or produce a document, when so required under subsection (1).
 Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
 Note The Legislation Act, s 170 and s 171 deal with the application of the privilege against selfincrimination and client legal privilege.
-## 88E Council may conduct public inquiry
-(1) The council may, at any time after receiving a report under section 88C (1) and before preparing a report under section 88Q, conduct an inquiry into any matter arising out of the firstmentioned report.
-(2) The council may hold the whole or any part of an inquiry in private if, in the opinion of the council, it is necessary or desirable in the public interest to do so.
-(3) If proceedings are held in private, the council may inform itself on any matter in the way it thinks fit.
+## 88E Chief executive may conduct public inquiry
+(1) The chief executive may, at any time after receiving a report under section 88C (1) and before preparing a report under section 88Q, conduct an inquiry into any matter arising out of the firstmentioned report.
+(2) The chief executive may hold the whole or any part of an inquiry in private if, in the opinion of the chief executive, it is necessary or desirable in the public interest to do so.
+(3) If proceedings are held in private, the chief executive may inform itself on any matter in the way it thinks fit.
 (4) If proceedings are held in public—
   (a) evidence in the proceedings must, subject to this subsection, be taken on oath; and
-  (b) the council may, if it thinks fit, permit a person appearing as a witness to give evidence by tendering, and verifying by oath, a written statement; and
-  (c) if the council considers that the attendance of a person as a witness would cause serious hardship to the person, the council may permit the person to give evidence by sending to the council a written statement, verified in the way the council directs; and
-  (d) if evidence is given by a written statement in accordance with paragraph (b) or (c), the council shall make available to the public in the way the council thinks fit the contents of the statement, other than any matter as to which the council is satisfied that its publication would be contrary to the public interest because of its confidential nature or any other reason.
+  (b) the chief executive may, if it thinks fit, permit a person appearing as a witness to give evidence by tendering, and verifying by oath, a written statement; and
+  (c) if the chief executive considers that the attendance of a person as a witness would cause serious hardship to the person, the chief executive may permit the person to give evidence by sending to the chief executive a written statement, verified in the way the chief executive directs; and
+  (d) if evidence is given by a written statement in accordance with paragraph (b) or (c), the chief executive shall make available to the public in the way the chief executive thinks fit the contents of the statement, other than any matter as to which the chief executive is satisfied that its publication would be contrary to the public interest because of its confidential nature or any other reason.
 (5) Subject to this section—
-  (a) the procedure to be followed at an inquiry is within the discretion of the council; and
-  (b) the council is not bound by the rules of evidence.
+  (a) the procedure to be followed at an inquiry is within the discretion of the chief executive; and
+  (b) the chief executive is not bound by the rules of evidence.
 ## 88F Powers in relation to witnesses etc
-(1) The council, or a person authorised in writing by the council, may, by written notice given to a person, require the person to appear before the council at an inquiry, at a stated time and place, to do either or both of the following:
+(1) The chief executive, or a person authorised in writing by the chief executive, may, by written notice given to a person, require the person to appear before the chief executive at an inquiry, at a stated time and place, to do either or both of the following:
   (a) to give evidence;
   (b) to produce a stated document or other thing relevant to the inquiry.
-(2) The council may require a witness appearing before the council to give evidence for an inquiry to do 1 or more of the following:
+(2) The chief executive may require a witness appearing before the chief executive to give evidence for an inquiry to do 1 or more of the following:
   (a) to take an oath;
   (b) to answer a question relevant to the inquiry;
   (c) to produce a stated document or other thing relevant to the inquiry.
 Note 1 Oath includes affirmation and take an oath includes make an affirmation (see Legislation Act, dict, pt 1).
 Note 2 The Legislation Act, s 170 and s 171 deal with the application of the privilege against selfincrimination and client legal privilege.
-(3) The council may administer, or authorise a person to administer, an oath to a witness appearing before the council.
+(3) The chief executive may administer, or authorise a person to administer, an oath to a witness appearing before the chief executive.
 ## 88K Protection of members and witnesses
-(1) A member of the council has, in the exercise of functions as a member in relation to an inquiry, the same protection and immunity as a judge of the Supreme Court.
+(1) A member of the chief executive has, in the exercise of functions as a member in relation to an inquiry, the same protection and immunity as a judge of the Supreme Court.
 (2) Subject to this Act, a person appearing as a witness has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, as a witness in proceedings in the Supreme Court.
-## 88L Contempt of council
-A person commits an offence if the person does something in the face, or within the hearing, of the council that would be contempt of court if the council were a court of record.
-Maximum penalty: 100 penalty units, imprisonment for 1 year or both.
 ## 88LA Application of Criminal Code, ch 7
-An inquiry by the council is a legal proceeding for the Criminal Code, chapter 7 (Administration of justice offences).
-Note That chapter includes offences (eg perjury, falsifying evidence, failing to attend and refusing to be sworn) applying in relation to inquiries by the council.
+An inquiry by the chief executive is a legal proceeding for the Criminal Code, chapter 7 (Administration of justice offences).
+Note That chapter includes offences (eg perjury, falsifying evidence, failing to attend and refusing to be sworn) applying in relation to inquiries by the chief executive.
 ## 88M Powers in relation to documents produced
-(1) A member of the council may inspect any books or documents given to the council for the purposes of the exercise of its functions under this Act or produced at an inquiry and may make copies of, or take extracts from, those books or documents.
-(2) A book or document so given may be retained by the council for the reasonable period necessary for the purposes of the council, but during that period the council shall permit a person otherwise entitled to possession of the book or document to inspect, make copies of, and take extracts from, the book or document at the places and times the council thinks appropriate.
+(1) The chief executive may inspect any books or documents given to the chief executive for the purposes of the exercise of its functions under this Act or produced at an inquiry and may make copies of, or take extracts from, those books or documents.
+(2) A book or document so given may be retained by the chief executive for the reasonable period necessary for the purposes of the chief executive, but during that period the chief executive shall permit a person otherwise entitled to possession of the book or document to inspect, make copies of, and take extracts from, the book or document at the places and times the chief executive thinks appropriate.
 ## 88N Allowances to witnesses
 A person served with a notice under section 88F is entitled to be paid by the Territory the allowances for travelling and other expenses that are prescribed.
 ## 88Q Report to be given to Minister in certain circumstances
-(1) If, under section 88C (4), the council has made a request to an employer for particulars of any action proposed to be taken as a result of conclusions or recommendations contained in a report under section 88C or taken or proposed to be taken in relation to an improvement or prohibition notice and—
+(1) If, under section 88C (4), the chief executive has made a request to an employer for particulars of any action proposed to be taken as a result of conclusions or recommendations contained in a report under section 88C or taken or proposed to be taken in relation to an improvement or prohibition notice and—
   (a) the employer fails, without reasonable excuse, to provide the particulars within the period specified in the request; or
-  (b) the action taken or proposed to be taken is not, in the council’s opinion, adequate having regard to the duties imposed by the Act; or
-  (c) so far as action not yet taken is concerned, the council forms the opinion that the action proposed to be taken as a result of the conclusions or recommendations contained in the report, or proposed to be taken in relation to a notice issued under section 145 or section 154, has not been taken within a reasonable time;
-the council may prepare and give to the Minister a report to this effect, being a report that includes—
+  (b) the action taken or proposed to be taken is not, in the chief executive’s opinion, adequate having regard to the duties imposed by the Act; or
+  (c) so far as action not yet taken is concerned, the chief executive forms the opinion that the action proposed to be taken as a result of the conclusions or recommendations contained in the report, or proposed to be taken in relation to a notice issued under section 145 or section 154, has not been taken within a reasonable time;
+the chief executive may prepare and give to the Minister a report to this effect, being a report that includes—
   (d) a copy of the report under section 88C; and
   (e) a copy of any response by the employer to that request; and
-  (f) if the council has conducted an inquiry under section 88E—the findings of that inquiry.
+  (f) if the chief executive has conducted an inquiry under section 88E—the findings of that inquiry.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act, s 104).
 (2) The Minister shall present a copy of the report to the Legislative Assembly within 15 sitting days after the report is given to the Minister.
 ## 88R Report to be given to Minister of failures to comply with certain notices
-(1) If the council forms the opinion that an employer has failed to comply with an improvement or prohibition notice, the council may give the Minister a report about the failure.
+(1) If the chief executive forms the opinion that an employer has failed to comply with an improvement or prohibition notice, the chief executive may give the Minister a report about the failure.
 (2) The Minister must present a copy of the report to the Legislative Assembly within 5 sitting days after the day the report is given to the Minister.
-## 88S Delegation by council
-The council may, in writing, delegate to any person all or any of its powers under this part.
 [3.18] General powers of inspectors for premises New section 93 (2) and (3)
 insert
 (2) An inspector is entitled, in the exercise of his or her powers, to be assisted by a consultant and the consultant may accompany an inspector during any inspection of a workplace by the inspector.
