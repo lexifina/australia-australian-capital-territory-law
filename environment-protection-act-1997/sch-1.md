@@ -1,4 +1,4 @@
-# Schedule 1 Activities requiring environmental authorisation
+# U Schedule 1 Activities requiring environmental authorisation
 (see s 42)
 ## 1.1 Definitions for sch 1
 In this schedule:
@@ -54,7 +54,7 @@ year means any 12 month period.
     (ii) food waste; or
     (iii) vegetable matter produced by agriculture or horticulture.
 (2) An expression used in subsection (1) and defined in the environmental standards has the same meaning as in the standards.
-## 1.2 Class A activities
+## U 1.2 Class A activities
 For section 42, the following activities are class A activities:
 Table 1.2
 column 1 item | column 2 activity
@@ -91,7 +91,7 @@ column 1 item | column 2 activity
 29 | the management of a motor racing venue where motor racing events are held
 30 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity
 31 | the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 (Cwlth) for pest control or turf management
-32 | the operation of a facility designed to store more than 500m3 of petroleum products
+32 | the operation of a facility designed to store more than 50m3 of petroleum products
 33 | the production of petroleum products (other than the recovery, processing or disposal of petroleum product waste) at a facility designed to produce more than 100t of petroleum products per year
 34 | the operation of a facility that recovers, processes or disposes, or is intended by the operator to recover, process or dispose, of more than 20t of waste petroleum products per year
 35 | the operation of an aerodrome for helicopters (other than a facility used only for the emergency medical evacuation, retrieval or rescue of people by helicopter) if— (a) the aerodrome is operated for more than 2 weeks; and (b) the number of take-offs and landings by helicopters is, or is intended by the operator to be, more than 30 per week; and (c) the aerodrome is located less than 1km from a dwelling not associated with the aerodrome
