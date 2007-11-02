@@ -20,4 +20,3 @@
 ### Division 5.1 Health code of health rights and responsibilities
 ### Division 5.2 Relationship between commission and health profession boards
 ## Part 6 Miscellaneous
-## Part 7 Transitional
