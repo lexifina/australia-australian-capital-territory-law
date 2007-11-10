@@ -1,4 +1,4 @@
-# U Schedule 1 Standard residential tenancy terms
+# Schedule 1 Standard residential tenancy terms
 (see s 8)
 Lessor and tenant must comply with terms of tenancy agreement
   1 (1) This tenancy agreement is made under the Residential Tenancies Act 1997 (the Residential Tenancies Act).
@@ -80,12 +80,11 @@ Rent and other charges
 ## Increase in rent
   34 The amount of rent must not vary from period to period except as provided by this tenancy agreement and the Residential Tenancies Act.
   35 The rent may not be increased at intervals of less than 12 months from either the beginning of the tenancy agreement for the first increase, or after that, from the date of the last increase.
-  36 Despite clause 35, if the commissioner for housing is the lessor under this tenancy agreement and the commissioner—
-    (a) undertakes a review of rent in accordance with the Housing Assistance Act 1987, section 15 (3); and
-    (b) as a result of the review, decides to increase the rent;
-  then—
-    (c) if a previous review of rent has been undertaken—the increase must not take effect less than 1 year after the date of the last increase of rent in relation to the premises; or
-    (d) if no previous review of rent has been undertaken—the commissioner may increase the rent.
+  36 (1) This clause applies if—
+    (a) the housing commissioner is the lessor under this tenancy agreement; and
+    (b) the commissioner has decided to increase the rent after a review of rent under the Housing Assistance Act 2007, section 23.
+  (2) Despite clause 35, the housing commissioner may increase the rent.
+  (3) However, if a previous review of rent has been undertaken, the increase under subclause (2) must not take effect earlier than 1 year after the date the last rent increase for the premises took effect.
   37 The restriction on increase in rent applies provided the identity of at least 1 of the tenants who occupy the premises remains the same as at the time of the last increase.
 ## Review of excessive rent increases
   38 The lessor must give the tenant 8 weeks written notice of intention to increase the rent and include in the notice the amount of the increase, and the date when it is proposed to increase the rent.
