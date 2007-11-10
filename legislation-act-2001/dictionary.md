@@ -1,6 +1,6 @@
-# U Dictionary
+# Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used terms
+U Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -86,7 +86,6 @@ Note The office of Clerk is established under the Public Sector Management Act 1
 commencement, of an Act or statutory instrument—see section 80.
 commencement notice—see section 11.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Consumer Affairs) Act 1973.
-commissioner for housing means the Commissioner for Housing under the Housing Assistance Act 1987.
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
 commissioner for surveys means the Commissioner for Surveys under the Surveyors Act 2001.
@@ -111,8 +110,8 @@ converted ordinance means an enactment that was an ordinance immediately before 
 Coroner’s Court means the Coroner’s Court under the Coroners Act 1997.
 corporation includes a body politic or corporate.
 Corporations Act means the Corporations Act 2001 (Cwlth).
-correctional centre means a correctional centre under the Corrections Management Act 2006.
-corrections officer means a corrections officer under the Corrections Management Act 2006.
+correctional centre means a correctional centre under the Corrections Management Act 2007.
+corrections officer means a corrections officer under the Corrections Management Act 2007.
 Court of Appeal means the Court of Appeal constituted under the Supreme Court Act 1933.
 court of summary jurisdiction means the Magistrates Court.
 credit tribunal means the Australian Capital Territory Credit Tribunal established under the Consumer Credit (Administration) Act 1996.
@@ -199,6 +198,7 @@ heritage council means the Australian Capital Territory Heritage Council under t
 heritage register means the heritage register under the Heritage Act 2004.
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
+housing commissioner means the Commissioner for Social Housing under the Housing Assistance Act 2007.
 human rights commission means the Human Rights Commission established under the Human Rights Commission Act 2005.
 human rights commissioner means the Human Rights Commissioner under the Human Rights Commission Act 2005.
 Imperial Act means an Act of the United Kingdom Parliament.
