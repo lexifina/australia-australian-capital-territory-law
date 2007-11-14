@@ -2,7 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the following terms that are defined in the Legislation Act 2001, dict, pt 1, are particularly relevant to this Act:
-· commissioner for surveys
+· chief surveyor
 · function
 · registered surveyor
 · registrar-general.
