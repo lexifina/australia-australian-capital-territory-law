@@ -76,6 +76,7 @@ chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004
 chief planning executive means the Chief Planning Executive under the Planning and Land Act 2002.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 chief solicitor means the chief solicitor under the Government Solicitor Act 1989.
+chief surveyor means the Chief Surveyor under the Surveyors Act 2007.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 children and young people commissioner means the Children and Young People Commissioner under the Human Rights Commission Act 2005.
 Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
@@ -88,7 +89,6 @@ commencement notice—see section 11.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Consumer Affairs) Act 1973.
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
-commissioner for surveys means the Commissioner for Surveys under the Surveyors Act 2001.
 commissioner for the environment means the Commissioner for the Environment under the Commissioner for the Environment Act 1993.
 commissioner of police means the Commissioner of Police of the Australian Federal Police.
 commit, a person for trial, means—
@@ -335,7 +335,7 @@ Note The Public Sector Management Act 1994, s 12 deals with the constitution of 
 public trustee means the Public Trustee for the Australian Capital Territory under the Public Trustee Act 1985.
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
 recognised transgender person—see section 169A (3).
-registered surveyor means a surveyor under the Surveyors Act 2001.
+registered surveyor means a surveyor under the Surveyors Act 2007.
 registrar means—
   (a) in relation to the Supreme Court—the Registrar of the Supreme Court; or
   (b) in relation to the Magistrates Court—the Registrar of the Magistrates Court; or
