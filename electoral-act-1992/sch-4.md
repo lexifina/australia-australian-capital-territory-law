@@ -108,10 +108,10 @@ TVA means the sum of the total votes allotted to the continuing candidates at th
   (a) for a ballot paper dealt with at the count at which the former MLA became successful—is the value ascertained in accordance with subclause (2) or (3), as the case requires;
   (b) for a ballot paper dealt with at the count under clause 3—is 1; and
   (c) for a ballot paper dealt with at any other count—is the transfer value of the ballot paper when counted for the purpose of allotting count votes to the former MLA.
-(2) If, at the count at which the former MLA became successful, NCP x TV was greater than or equal to Q—N—
+(2) If, at the count at which the former MLA became successful, NCP TV was greater than or equal to Q – N—
   (a) for a ballot paper that did not specify a next available preference—the value is calculated as follows:
   (b) for a ballot paper that specified a next available preference—the value is zero.
-(3) If, at the count at which the former MLA became successful, NCP x TV was less than Q—N—
+(3) If, at the count at which the former MLA became successful, NCP TV was less than Q – N—
   (a) for a ballot paper that did not specify a next available preference—the value is the transfer value of the ballot paper when counted for the purpose of allotting count votes to the former MLA; and
   (b) for a ballot paper that specified a next available preference—the value is calculated as follows:
 (4) In subclauses (2) and (3):
@@ -144,7 +144,7 @@ CP means the number of ballot papers counted for the former MLA at that count th
 for the purpose of conducting the recount in relation to the casual vacancies other than the one in relation to which the person was successful, the person shall be taken not to be a continuing candidate.
 ## Part 4.4 Deceased successful candidates
 ## 18 Application of pt 4.3
-(1) If a successful candidate dies on or after polling day but before the declaration of the result of the election, the ballot papers counted for the deceased candidate shall be dealt with in accordance with part 4.3 as if they had been counted for a former MLA.
+(1) If a successful candidate dies on or after polling day but before the declaration of the result of the election, the ballot papers counted for the deceased candidate shall be dealt with in accordance with part 4.3 (Casual vacancies) as if they had been counted for a former MLA.
 (2) In this part:
 continuing candidate means a candidate other than a successful candidate, a candidate who died before the recount for this part commenced or a candidate who is excluded for clause 15.
 ## 19 Multiple deaths
