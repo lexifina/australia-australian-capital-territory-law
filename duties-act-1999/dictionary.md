@@ -144,15 +144,15 @@ licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles
 life company—see the Life Insurance Act 1995 (Cwlth), schedule.
 life insurance, for chapter 8 (Insurance)—see section 175.
 life insurance rider, for chapter 8 (Insurance)—see section 175.
-long-term lease—see section 10 (1) (d).
+long-term lease—see section 10 (1) (d), (e) and (f).
 majority interest, in a private corporation—see section 83 (2).
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
 managed investment scheme means a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C, and includes a public unit trust scheme.
 marketable securities means—
-  (a) shares mentioned in section 10 (1) (f); or
-  (b) units mentioned in section 10 (1) (g); or
+  (a) shares mentioned in section 10 (1) (h); or
+  (b) units mentioned in section 10 (1) (i); or
   (c) an interest in shares, or units, mentioned in section (a) or (b).
 market value, in relation to a motor vehicle, means the amount for which the motor vehicle might reasonably be sold, free of encumbrances, on the open market.
 marriage includes a void marriage.
@@ -171,7 +171,7 @@ paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—s
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
-partnership interest—see section 10 (1) (h).
+partnership interest—see section 10 (1) (j).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 person, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 person with a disability means a person who has a disability that—
