@@ -14,4 +14,3 @@
 ## Part 9 Review of decisions
 ## Part 15 Miscellaneous
 ## Part 20 Transitional—Health Professionals Act 2004
-## Part 21 Transitional—Health Legislation Amendment Act 2006
