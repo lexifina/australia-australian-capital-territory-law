@@ -20,6 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory law
 · the Territory
 · tribunal.
+abortion, for part 6 (Abortions)—see section 80.
 authorised representative, for part 7 (VMO service contracts)—see section 100.
 CEO—
   (a) of a health facility, for part 4 (Quality assurance)—see section 22; and
