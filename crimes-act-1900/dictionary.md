@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -39,7 +39,6 @@ child—
     (ii) of whom the person is a guardian.
 commissioner for OH&S, for part 2A (Industrial manslaughter)—see section 49A.
 conduct, for part 2A (Industrial manslaughter)—see the Criminal Code, section 13.
-corrections officer—see the Corrections Management Act 2006, section 20.
 death, for part 2A (Industrial manslaughter)—see the Criminal Code, section 13.
 director of public prosecutions means—
   (a) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1990; or
