@@ -1,6 +1,6 @@
-# U Schedule 1 Activities requiring environmental authorisation
+# Schedule 1 Activities requiring environmental authorisation
 (see s 42)
-## 1.1 Definitions for sch 1
+## U 1.1 Definitions for sch 1
 In this schedule:
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised concert venue means a concert venue where the holder of an environmental authorisation for the conduct of outdoor concert activities is authorised to conduct such an activity.
@@ -45,14 +45,13 @@ waterway means—
 and includes the bed that the water in the waterway normally flows over or is covered by and the banks that the water in the waterway normally flows between or is contained by, but does not include land normally not part of the waterway that may be covered from time to time by floodwaters from the waterway.
 year means any 12 month period.
 ## 1.1A Meaning of regulated waste
-(1) Regulated waste means waste that is, or contains, 1 or more of the following kinds of waste:
+(1) In this schedule:
+regulated waste means waste that is, or contains, 1 or more of the following kinds of waste:
   (a) hazardous waste;
   (b) group A waste;
-  (c) industrial waste;
-  (d) solid waste, other than—
-    (i) municipal waste; or
-    (ii) food waste; or
-    (iii) vegetable matter produced by agriculture or horticulture.
+  (c) group B waste;
+  (d) group C waste;
+  (e) industrial waste.
 (2) An expression used in subsection (1) and defined in the environmental standards has the same meaning as in the standards.
 ## U 1.2 Class A activities
 For section 42, the following activities are class A activities:
@@ -69,45 +68,44 @@ column 1 item | column 2 activity
  | (a) the territory plan as 1 of the following: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; Plantation Forestry; or
  | (b) the national capital plan as 1 of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland; of more than 100m3 of soil for placement on that land
 9 | transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies
-10 | the provision of regulated waste for transportation from 1 place in the ACT to another place in the ACT
-11 | the transportation of regulated waste from 1 place in the ACT to another place in the ACT
-12 | sewage treatment if the activity involves the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 people per day, other than an activity involving the recycling of wastewater if there is no discharge to receiving waters
-13 | the treatment (other than by incineration), storage or handling of more than 1 000m3 of contaminated soil from land outside the parcel of land where the contaminated soil is treated, stored or handled
-14 | the treatment (other than by incineration), storage or handling of more than 10 000m3 of contaminated soil from land
-15 | the operation of a facility at which more than 800 animals per day may be milked
-16 | the operation of a facility designed to process more than 30 000kL of milk or milk products per year
-17 | the operation of a facility designed to process more than 30 000t of agricultural crops per year, other than— (a) the processing of grapes or grape products, milk or milk products or forestry products; or (b) the processing of agricultural crops by a mobile plant on a farm
-18 | commercial aquaculture, being the propagation or rearing of fish or other aquatic organisms in the course of which supplementary feeding is used
-19 | the operation of a stock feedlot— (a) for the rearing or fattening of stock fed entirely or largely on prepared or manufactured feed; and (b) that is designed to accommodate at any one time more than 200t live animal weight of stock in a confinement area; other than a feedlot operated for drought or similar emergency relief or for the holding of stock at an abattoir or saleyard
-20 | the keeping of poultry, game birds or emus if the premises where the birds are kept is designed to accommodate at any one time more than 180t live animal weight of birds
-21 | the operation of commercial stock saleyards (including associated transport loading facilities) that sells or exchanges, or is intended by the operator to sell or exchange, more than 10 000t live animal weight of animals per year
-22 | the operation of an abattoir or another facility for the processing of the products of slaughtered animals (other than for the tanning of animal skins or fellmongery) designed to process more than 3 000kg of live animals per day
-23 | the commercial cleaning or carbonising of wool at a facility designed to process more than 200t of wool per year
-24 | the processing of animal skins or other animal products (including fellmongery) to produce leather or other similar products
-25 | outdoor concert activities using amplifying equipment if the venue has the capacity to hold more than 2 000 people and is not an authorised concert venue
-26 | the management of a concert venue that has the capacity to hold more than 2 000 people where outdoor concert activities using amplifying equipment are held
-27 | the generation of electricity by a generator classified as a scheduled generating unit under the national electricity rules, clause 2.2.2, under the National Electricity (ACT) Law
-28 | motor racing events, other than motor racing events held at an authorised racing venue
-29 | the management of a motor racing venue where motor racing events are held
-30 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity
-31 | the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 (Cwlth) for pest control or turf management
-32 | the operation of a facility designed to store more than 50m3 of petroleum products
-33 | the production of petroleum products (other than the recovery, processing or disposal of petroleum product waste) at a facility designed to produce more than 100t of petroleum products per year
-34 | the operation of a facility that recovers, processes or disposes, or is intended by the operator to recover, process or dispose, of more than 20t of waste petroleum products per year
-35 | the operation of an aerodrome for helicopters (other than a facility used only for the emergency medical evacuation, retrieval or rescue of people by helicopter) if— (a) the aerodrome is operated for more than 2 weeks; and (b) the number of take-offs and landings by helicopters is, or is intended by the operator to be, more than 30 per week; and (c) the aerodrome is located less than 1km from a dwelling not associated with the aerodrome
-36 | the conduct of a logging operation that logs, or is intended by the operator to log, more than 5 000t of timber per year
-37 | the commercial production of alcoholic beverages or distilled alcohol at a facility designed to produce more than 100kL of alcoholic beverages or distilled alcohol per year
-38 | the conduct of an operation that applies to land, or is intended by the operator to apply to land, more than 500t per year of organic products produced by the treatment of sewerage for the improvement of soil
-39 | the operation of a facility that composts, or is intended by the operator to compost, more than 200t of animal waste, or 5 000t of plant waste, per year
-40 | timber chipping, pulping or milling at a facility (other than at a joinery or retail timber yard) designed to process or produce more than 30 000m3 of timber or wood products per year
-41 | the manufacture of things in furnaces or kilns (including bricks, glass, pipes, pottery goods and tiles) at a facility designed to produce 10 000t or more of things per year
-42 | the preservation of wood for commercial purposes using chemicals (including copper, chromium, arsenic and creosote) at a facility designed to process 10 000m3 or more of wood per year
-43 | the production of concrete or concrete products at a facility designed to produce more than 7 000m3 of concrete per year
-44 | the production of road building materials by the mixing of ground rock aggregate and bituminous materials at a production facility that— (a) is, or is intended to be, located at the one site for more than 1 year; and (b) is designed to produce more than 30 000t of road building materials per year
-45 | the operation of a facility for the crushing, grinding or separating of materials (including sand, gravel, rock, minerals, slag, road base, concrete, bricks, tiles, asphaltic material, metal or timber) into different sizes, if the processing facility is designed to produce more than 10 000t of processed materials per year
-46 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
-47 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 46
-48 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
+10 | the transportation, from 1 place in the ACT to another place in the ACT, for fee or reward of— (a) 200kg or more of regulated waste, other than waste consisting only of stabilised asbestos waste in bonded matrix; or (b) 2t or more of used, rejected or unwanted tyres (including shredded tyres and tyre pieces)
+11 | sewage treatment if the activity involves the discharge of treated or untreated sewage or septic tank effluent to land or water and having a peak loading capacity designed for more than 100 people per day, other than an activity involving the recycling of wastewater if there is no discharge to receiving waters
+12 | the treatment (other than by incineration), storage or handling of more than 1 000m3 of contaminated soil from land outside the parcel of land where the contaminated soil is treated, stored or handled
+13 | the treatment (other than by incineration), storage or handling of more than 10 000m3 of contaminated soil from land
+14 | the operation of a facility at which more than 800 animals per day may be milked
+15 | the operation of a facility designed to process more than 30 000kL of milk or milk products per year
+16 | the operation of a facility designed to process more than 30 000t of agricultural crops per year, other than— (a) the processing of grapes or grape products, milk or milk products or forestry products; or (b) the processing of agricultural crops by a mobile plant on a farm
+17 | commercial aquaculture, being the propagation or rearing of fish or other aquatic organisms in the course of which supplementary feeding is used
+18 | the operation of a stock feedlot— (a) for the rearing or fattening of stock fed entirely or largely on prepared or manufactured feed; and (b) that is designed to accommodate at any one time more than 200t live animal weight of stock in a confinement area; other than a feedlot operated for drought or similar emergency relief or for the holding of stock at an abattoir or saleyard
+19 | the keeping of poultry, game birds or emus if the premises where the birds are kept is designed to accommodate at any one time more than 180t live animal weight of birds
+20 | the operation of commercial stock saleyards (including associated transport loading facilities) that sells or exchanges, or is intended by the operator to sell or exchange, more than 10 000t live animal weight of animals per year
+21 | the operation of an abattoir or another facility for the processing of the products of slaughtered animals (other than for the tanning of animal skins or fellmongery) designed to process more than 3 000kg of live animals per day
+22 | the commercial cleaning or carbonising of wool at a facility designed to process more than 200t of wool per year
+23 | the processing of animal skins or other animal products (including fellmongery) to produce leather or other similar products
+24 | outdoor concert activities using amplifying equipment if the venue has the capacity to hold more than 2 000 people and is not an authorised concert venue
+25 | the management of a concert venue that has the capacity to hold more than 2 000 people where outdoor concert activities using amplifying equipment are held
+26 | the generation of electricity by a generator classified as a scheduled generating unit under the national electricity rules, clause 2.2.2, under the National Electricity (ACT) Law
+27 | motor racing events, other than motor racing events held at an authorised racing venue
+28 | the management of a motor racing venue where motor racing events are held
+29 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity
+30 | the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 (Cwlth) for pest control or turf management
+31 | the operation of a facility designed to store more than 50m3 of petroleum products
+32 | the production of petroleum products (other than the recovery, processing or disposal of petroleum product waste) at a facility designed to produce more than 100t of petroleum products per year
+33 | the operation of a facility that recovers, processes or disposes, or is intended by the operator to recover, process or dispose, of more than 20t of waste petroleum products per year
+34 | the operation of an aerodrome for helicopters (other than a facility used only for the emergency medical evacuation, retrieval or rescue of people by helicopter) if— (a) the aerodrome is operated for more than 2 weeks; and (b) the number of take-offs and landings by helicopters is, or is intended by the operator to be, more than 30 per week; and (c) the aerodrome is located less than 1km from a dwelling not associated with the aerodrome
+35 | the conduct of a logging operation that logs, or is intended by the operator to log, more than 5 000t of timber per year
+36 | the commercial production of alcoholic beverages or distilled alcohol at a facility designed to produce more than 100kL of alcoholic beverages or distilled alcohol per year
+37 | the conduct of an operation that applies to land, or is intended by the operator to apply to land, more than 500t per year of organic products produced by the treatment of sewerage for the improvement of soil
+38 | the operation of a facility that composts, or is intended by the operator to compost, more than 200t of animal waste, or 5 000t of plant waste, per year
+39 | timber chipping, pulping or milling at a facility (other than at a joinery or retail timber yard) designed to process or produce more than 30 000m3 of timber or wood products per year
+40 | the manufacture of things in furnaces or kilns (including bricks, glass, pipes, pottery goods and tiles) at a facility designed to produce 10 000t or more of things per year
+41 | the preservation of wood for commercial purposes using chemicals (including copper, chromium, arsenic and creosote) at a facility designed to process 10 000m3 or more of wood per year
+42 | the production of concrete or concrete products at a facility designed to produce more than 7 000m3 of concrete per year
+43 | the production of road building materials by the mixing of ground rock aggregate and bituminous materials at a production facility that— (a) is, or is intended to be, located at the one site for more than 1 year; and (b) is designed to produce more than 30 000t of road building materials per year
+44 | the operation of a facility for the crushing, grinding or separating of materials (including sand, gravel, rock, minerals, slag, road base, concrete, bricks, tiles, asphaltic material, metal or timber) into different sizes, if the processing facility is designed to produce more than 10 000t of processed materials per year
+45 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
+46 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 46
+47 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
 ## 1.3 Class B activities
 For section 42, the following activities are class B activities:
 Table 1.3
