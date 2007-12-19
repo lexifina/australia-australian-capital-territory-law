@@ -67,7 +67,7 @@ engage in conduct means—
   (b) omit to do an act.
 escort officer—see the Corrections Management Act 2007, dictionary.
 finishing time, for an offender’s detention period—see section 52.
-frisk search—see the Corrections Management Act 2005, dictionary.
+frisk search—see the Corrections Management Act 2007, dictionary.
 full-time detainee—see section 22 (1).
 good behaviour obligations, for chapter 6 (Good behaviour orders)—see section 84.
 good behaviour order—see the Crimes (Sentencing) Act 2005, section 13.
@@ -120,7 +120,7 @@ person involved, in community service work, for chapter 14 (Community service wo
 place restriction order—see the Crimes (Sentencing) Act 2005, section 21.
 police officer includes a member of a police force or service of a State.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1)
-positive, for a test sample—see the Corrections Management Act 2005, dictionary.
+positive, for a test sample—see the Corrections Management Act 2007, dictionary.
 prison, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 prisoner, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 prison officer, for part 11.1 (Interstate transfer of prisoners)—see section 217.
