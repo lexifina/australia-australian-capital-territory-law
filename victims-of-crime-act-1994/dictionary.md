@@ -4,9 +4,11 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · law, of the Territory
+· Magistrates Court
 · Minister
 · penalty unit (see s 133)
 · police officer
+· Supreme Court
 · the Territory.
 administration of justice includes the provision of police services.
 coordinator means the Victims of Crime Coordinator.
@@ -16,7 +18,9 @@ harm includes—
   (c) pregnancy; and
   (d) economic loss; and
   (e) substantial impairment of rights accorded by law.
-offence means an offence against a law in force in the ACT.
+offence––
+  (a) for this Act generally—means an offence against a law in force in the ACT; and
+  (b) for part 5 (Victims services levy)—see section 23.
 victim means—
   (a) a person (the primary victim) who suffers harm—
     (i) in the course of, or as the result of, the commission of an offence; or
@@ -24,4 +28,5 @@ victim means—
   (b) where a primary victim dies as a result of the commission of an offence—any person who was financially or psychologically dependent on the primary victim immediately before his or her death; or
   (c) a person who witnesses the commission of an offence in circumstances in which it is probable that he or she would suffer harm; or
   (d) a primary victim, a related victim or an eligible property owner within the meaning of the Victims of Crime (Financial Assistance) Act 1983.
+victims services levy—see section 24.
 victims services scheme means the scheme established under part 4.
