@@ -72,13 +72,10 @@ financial assurance means a financial assurance under section 85.
 financial controller means a receiver, manager or other person who has possession or control of land for the purpose of realising part or all of the value of the land to discharge an obligation secured over the land.
 fuel-burning equipment, for schedule 2 (Specific offences)—see section 2.1.
 general environmental duty means the duty of care described in section 22 (1).
-high-octane unleaded petrol, for schedule 2 (Specific offences)—see section 2.1.
 information discovery order means an information discovery order under section 133.
 inquiry means an inquiry conducted under the Land Act, division 4.4.
 land includes water on or below the surface of land and the bed of such water.
 Land Act means the Land (Planning and Environment) Act 1991.
-leaded petrol, for schedule 2 (Specific offences)—see section 2.1.
-low-octane unleaded petrol, for schedule 2 (Specific offences)—see section 2.1.
 material environmental harm means environmental harm—
   (a) that is significant, including environmental harm that becomes significant—
     (i) over time; or
@@ -87,7 +84,6 @@ material environmental harm means environmental harm—
   (b) that is to an area of high conservation value, other than harm that is trivial or negligible; or
   (c) that results in loss or damage to property to the value of more than $5 000; or
   (d) that results in necessary remedial action costing more than $5 000.
-maximum lead concentration, for schedule 2 (Specific offences)—see section 2.1.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 national capital plan means the national capital plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), part 3.
 national environment protection measure, for division 9.5 (Assessment and remediation)—see section 91A.
@@ -145,5 +141,4 @@ serious environmental harm means environmental harm—
 site audit statement means a written statement of the findings of an environmental audit conducted by an auditor for division 9.5 for assessment for, or remediation of, contaminated land.
 solid fuel-burning equipment, for schedule 2 (Specific offences)—see section 2.1.
 substance, for division 9.5 (Assessment and remediation)—see section 91A.
-unleaded petrol, for schedule 2 (Specific offences)—see section 2.1.
 working day means a day other than a Saturday, a Sunday, a public holiday or a day that is a holiday for public servants.
