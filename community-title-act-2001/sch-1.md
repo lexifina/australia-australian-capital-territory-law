@@ -4,7 +4,7 @@
 (1) The owner of a lot must keep buildings and structural improvements on the lot in a state of good repair and to a standard in keeping with other buildings and structural improvements on the site.
 (2) The owner must carry out any work in relation to the owner’s lot that the owner is required to carry out by—
   (a) the Territory; or
-  (b) a Territory authority; or
+  (b) a territory authority; or
   (c) the body corporate.
 (3) The owner of a lot must not, without the body corporate’s written permission, make or allow a change to the exterior character, design or finish of buildings or structural improvements on the lot.
 ## 1.2 Duty to prevent nuisance
@@ -16,9 +16,9 @@ The occupier of a lot must not use the lot, or allow its use, in a way that caus
   (b) in an emergency, without notice.
 ## 1.4 Duty to pay rates and taxes
 The owner of a lot must pay all rates, taxes and charges payable in relation to the owner’s lot.
-## 1.5 Use of common property
-(1) The occupier of a lot must not behave in a way likely to interfere with the reasonable use and enjoyment of another lot or the common property by the owner or occupier of another lot or the invitees of the owner or occupier of another lot.
-(2) An owner or occupier of a lot must take reasonable steps to ensure that invitees do not behave in a way likely to interfere with the reasonable use or enjoyment of another lot or the common property by the owner or occupier of another lot or the invitees of the owner or occupier of another lot.
+## 1.5 Use of lots
+(1) The occupier of a lot must not behave in a way likely to interfere with the reasonable use and enjoyment of another lot by the owner or occupier of another lot or the invitees of the owner or occupier of another lot.
+(2) An owner or occupier of a lot must take reasonable steps to ensure that invitees do not behave in a way likely to interfere with the reasonable use or enjoyment of another lot by the owner or occupier of another lot or the invitees of the owner or occupier of another lot.
 ## 1.6 Duty to give information
 The owner of a lot must give the body corporate written notice of any change in the ownership of the lot.
 ## 1.7 Animals and birds

@@ -1,22 +1,22 @@
-# Dictionary
+# U Dictionary
 (see s 3)
-Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · administrative appeals tribunal
 · function
+· planning and land authority
 · Supreme Court
-· Territory owned corporation
 · the Territory.
 administrative fund means a fund established by a body corporate to meet recurrent and capital expenditure of the body corporate.
 basic scheme, for part 12 (Termination of community title schemes)—see section 87.
 body corporate means a body corporate created under this Act for a community title scheme.
 body corporate assets, for a community title scheme, means items of real or personal property acquired by the body corporate, other than property that is incorporated into and becomes part of the common property.
-common property, of a community title scheme—see section 18 (Common property).
-community title certificate—see section 56 (Community title certificate and access to body corporate records).
+common property, of a community title scheme—see section 18.
+community title certificate—see section 56.
 community title scheme means a scheme created on the registration of a plan under part 3 (Establishment of community title schemes).
 developer, of a community title scheme, means the person by or on whose behalf the scheme is, or is proposed to be, lodged for registration.
-eligible person, for a lot or common property in relation to which a community title certificate, or access to books, records or documents, is required, means—
-  (a) the owner, or someone else with an interest in the lot, or in an easement over the common property; or
+eligible person, for a lot in relation to which a community title certificate, or access to books, records or documents, is required, means—
+  (a) the owner, or someone else with an interest in the lot, or in an easement over the lot; or
   (b) for a lot that is owned, or partly owned, by a company—a representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
   (d) if access to the information or the books, records or documents is necessary for the administration of this Act—the chief executive.
@@ -24,7 +24,7 @@ exclusive use by-law means a by-law giving the owner of a lot exclusive rights t
 Land Act means the Land (Planning and Environment) Act 1991.
 lot means a parcel of land for which a certificate of title has been issued under the Land Titles Act 1925.
 lot entitlement schedule—see section 7 (h) (Form and content of management statements).
-manager, of a community title scheme, means a person appointed by the body corporate of the scheme under section 44 (Appointment of manager).
+manager, of a community title scheme, means a person appointed by the body corporate of the scheme under section 44.
 mortgage includes a charge on a lot, or an interest in a lot, for securing money or money’s worth.
 mortgagee in possession, of a lot in a community title scheme, means a mortgagee who has taken steps to enforce a mortgage of the lot and has told the body corporate of the mortgagee’s intention to enforce the mortgage (whether or not the mortgagee has actually gone into possession of the lot), but does not include a mortgagee who has told the body corporate of a decision not to continue with the enforcement of the mortgage.
 occupier, of a lot included in a community title scheme, means—
@@ -39,15 +39,15 @@ schedule lot entitlement, for a lot in a community title scheme, means the numbe
 scheme—
   (a) except in division 12.2 (Termination process)—means a community title scheme; and
   (b) in division 12.2—see section 88 (Application of div 12.2).
-scheme A, for division 11.2 (Amalgamation process)—see section 80 (Purpose of div 11.2).
-scheme B, for division 11.2 (Amalgamation process)—see section 80 (Purpose of div 11.2).
-scheme C, for division 11.2 (Amalgamation process)—see section 80 (Purpose of div 11.2).
+scheme A, for division 11.2 (Amalgamation process)—see section 80.
+scheme B, for division 11.2 (Amalgamation process)—see section 80.
+scheme C, for division 11.2 (Amalgamation process)—see section 80.
 scheme land, of a community title scheme, means the land the subject of the scheme.
 statutory easement means an easement under part 10.
 subsidiary scheme, for part 11 (Amalgamation of community title schemes)—see section 77.
 termination issues, for part 12 (Termination of community title schemes)—see section 87.
 unanimous resolution, of a body corporate, means a resolution passed at a properly called meeting of the members of the body corporate against which no member of the body corporate casts a dissenting vote.
-units plan—see the Units Title Act 2001, dictionary.
+units plan—see the Unit Titles Act 2001, dictionary.
 utility infrastructure means cables, wires, pipes, sewers, drains, ducts, plant and equipment by which lots are supplied with utility services.
 utility service means—
   (a) water reticulation or supply; or
