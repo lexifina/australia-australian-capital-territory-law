@@ -16,6 +16,7 @@ acquire includes—
   (a) in relation to goods—acquire by way of purchase, exchange or taking on lease, on hire or on hire-purchase; and
   (b) in relation to services—accept; and
   (c) in relation to land—acquire by way of purchase, exchange or taking on lease or in any other way in which an interest in land is acquired for valuable consideration.
+Note See s 7 for a more detailed definition of acquisition.
 approved code, for part 3 (Codes of practice)—see section 32.
 arrive at, in relation to an understanding, includes reach or enter into.
 business includes—
@@ -24,7 +25,8 @@ business includes—
 commissioner means the commissioner for fair trading.
 conduct—see section 5 (b).
 consumer—see section 6.
-covenant means a covenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land), and proposed covenant has a corresponding meaning.
+covenant means a covenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land).
+disposal—see section 7.
 engaging in conduct—see section 5 (a).
 goods includes—
   (a) ships, aircraft and other vehicles; and
@@ -45,7 +47,7 @@ published, in relation to a statement, includes—
   (a) inserted in a newspaper or other publication; and
   (b) publicly exhibited—
     (i) in, on, over or under a building, vehicle, aircraft or ship, or in any other place (whether or not a public place and whether on land or water); or
-    (ii) in the air in view of persons who are in or on a street or public place; and
+    (ii) in the air in view of people who are in or on a street or public place; and
   (c) contained in a document sent or given to a person or thrown or left on, or at, premises occupied by a person; and
   (d) broadcast by radio or television; and
   (e) reproduced electronically; and
@@ -53,9 +55,10 @@ published, in relation to a statement, includes—
 pyramid selling scheme, for division 2.2—see section 25C.
 recruitment payment, for division 2.2—see section 25C (1), definition of pyramid selling scheme, paragraph (b).
 refusing to do an act—see section 5 (c).
-require, in relation to the giving of a covenant, means require or demand the giving of a covenant, whether by way of making a contract containing the covenant or otherwise, and whether or not a covenant is given under the requirement or demand.
+require, in relation to the giving of a covenant, means require or demand the giving of the covenant, whether by way of making a contract containing the covenant or otherwise, and whether or not the covenant is given under the requirement or demand.
+resupply—see section 7.
 send includes deliver.
-services includes any rights (including rights in relation to, and interests in, real or personal property), benefits, privileges or facilities that are, or are to be, provided, granted or given in trade or commerce, and without limiting the generality of the foregoing, includes the rights, benefits, privileges or facilities that are, or are to be, provided, granted or given under—
+services includes any rights (including rights in relation to, and interests in, real or personal property), benefits, privileges or facilities that are, or are to be, provided, granted or given in trade or commerce, including the rights, benefits, privileges or facilities that are, or are to be, provided, granted or given under—
   (a) a contract for or in relation to—
     (i) the performance of work (including work of a professional nature), whether with or without the supply of goods; or
     (ii) the provision of, or the use or enjoyment of facilities for, amusement, entertainment, recreation or instruction; or
@@ -66,7 +69,7 @@ services includes any rights (including rights in relation to, and interests in,
   (b) a contract of insurance; or
   (c) a contract between a banker and a customer of the banker entered into in the course of the carrying on by the banker of the business of banking; or
   (d) any contract for or in relation to the lending of money;
-but does not include rights or benefits being the supply of goods or the performance of work under a contract of service.
+but does not include rights or benefits comprising the supply of goods or the performance of work under a contract of service.
 share includes stock.
 statement includes representations of any kind, whether made by means of words, maps, plans or drawings, pictorial representations or designs or any combination of these.
 supply, when used as a verb, includes—
@@ -75,6 +78,7 @@ supply, when used as a verb, includes—
     (ii) exhibit, expose or have in possession for the purpose of sale, exchange, lease, hire or hire-purchase or for any purpose of manufacture or trade in relation to the supply of goods; and
     (iii) donate for promotional purposes; and
   (b) in relation to services—provide, grant, give or donate for promotional purposes.
+Note See s 7 for a more detailed definition of supply.
 trade or commerce includes any business or professional activity.
 undertaking, for part 3 (Codes of practice)—see section 32.
 unsolicited goods means goods supplied to a person without any request made by him or her or on his or her behalf.
