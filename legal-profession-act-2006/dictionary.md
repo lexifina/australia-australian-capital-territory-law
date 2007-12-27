@@ -299,9 +299,9 @@ trust property means property entrusted to a law practice in the course of or in
 trust records, for part 3.1 (Trust money and trust accounts)—see section 210 (2) and (3).
 uplift fee, for part 3.2 (Costs disclosure and assessment)—see section 261.
 unrestricted practising certificate means a local practising certificate that is an unrestricted practising certificate or an interstate practising certificate that—
-  (a) is not subject to a condition under a corresponding law similar to the condition under section 49 (Statutory condition about practice as solicitor) or a similar condition under a corresponding law; and
+  (a) is not subject to a condition under a corresponding law similar to the condition under section 50 (Statutory condition about practice as solicitor) or a similar condition under a corresponding law; and
   (b) is not subject to a condition that restricts the holder of the certificate to practise only as or in the manner of a barrister; and
   (c) is not subject to any other condition (other than a condition requiring the holder of the certificate to undertake and complete 1 or more courses of continuing legal education or a condition prescribed by regulation); and
-  (d) is not subject to a condition similar to a condition under section 49 and whose holder would not be subject to a condition under that section if the holder were to apply for and be granted a local practising certificate.
+  (d) is not subject to a condition similar to a condition under section 50 and whose holder would not be subject to a condition under that section if the holder were to apply for and be granted a local practising certificate.
 unsatisfactory employment conduct—see section 388.
 unsatisfactory professional conduct—see section 386.
