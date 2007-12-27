@@ -1,10 +1,16 @@
 # Schedule 2 Commission appointments and working arrangements
 (see s 6 (2))
 ## 2.1 Standing commissioners
-(1) The Executive must (by instrument) appoint 3 commissioners (standing commissioners), 1 of whom is nominated in the instrument as the senior commissioner, and 2 of whom are nominated in the instrument as assistant commissioners.
-(2) A standing commissioner holds office (subject to this Act) for a term of up to 5 years, specified in the instrument of appointment, and is eligible for reappointment.
-(3) If the senior commissioner ceases to hold office or is suspended from office (under section 2.4 or section 2.5), the Minister must (by instrument) nominate another standing commissioner as senior commissioner.
-(4) If a suspended senior commissioner resumes office as a commissioner, he or she also resumes office in the capacity of senior commissioner (and the nominated replacement ceases to hold office in that capacity).
+(1) The Executive must appoint the following commissioners (standing commissioners):
+  (a) 1 senior commissioner;
+  (b) 2 assistant commissioners.
+Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
+Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act s 207).
+(2) The instrument making or evidencing the appointment must state whether a standing commissioner is appointed as a senior commissioner or assistant commissioner.
+(3) A standing commissioner holds office (subject to this Act) for a term not longer than 5 years.
+Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def of appoint).
+(4) If the senior commissioner ceases to hold office or is suspended from office (under section 2.4 or section 2.5), the Minister must (by instrument) nominate another standing commissioner as senior commissioner.
+(5) If a suspended senior commissioner resumes office as a commissioner, he or she also resumes office in the capacity of senior commissioner (and the nominated replacement ceases to hold office in that capacity).
 ## 2.1A Associate commissioners
 (1) The Executive may appoint 1 or more commissioners (associate commissioners) for a particular investigation, in consideration of advice received from the commission about the need for such an appointment (or appointments).
 (2) An associate commissioner holds office (subject to this Act) until the conclusion of the investigation for which the associate commissioner is appointed.
@@ -19,8 +25,6 @@ The Executive may only appoint as commissioner a person who has knowledge or exp
 (1) A commissioner is appointed on terms (not inconsistent with this Act) decided by the Executive.
 (2) A commissioner may be appointed on a full-time or part-time basis.
 (3) A full-time commissioner may engage in paid employment outside the functions of the office only with the earlier written approval of the Minister.
-## 2.1D Appointment defects and vacancies
-An act or decision of the commission is not invalid only because of a defect or irregularity in (or in relation to) the appointment of the commissioner, or a vacancy in an office of commissioner.
 ## 2.1E Arrangement of business
 (1) The senior commissioner—
   (a) is responsible for ensuring the orderly and expeditious discharge of the functions of the commission; and
@@ -63,12 +67,4 @@ A commissioner may resign by giving a signed notice of resignation to the Minist
 (3) A notice of suspension must be presented to the Legislative Assembly within 7 sitting days after it is given to the commissioner.
 (4) The Executive must remove the commissioner from office if, within 15 sitting days after the notice of suspension was presented to the Legislative Assembly, the Assembly by resolution declares that the commissioner ought to be removed from office.
 (5) The commissioner must resume office if, after 15 sitting days have elapsed since the notice of suspension was presented to the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the commissioner ought to be removed from office.
-(6) A commissioner ceases to hold office if the commissioner becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of creditors.
-## 2.6 Acting commissioner
-(1) The Executive may, in writing, appoint a person to act as a commissioner—
-  (a) during a vacancy in the commissioner’s office, whether or not an appointment has previously been made to the office; or
-  (b) during any period, or during all periods, when the person appointed as that commissioner is for any reason unable to exercise the functions of the office.
-(2) A person appointed to act as a commissioner during a vacancy in a commissioner’s office must not act continuously for longer than 12 months.
-(3) Anything done by or in relation to a person purporting to act under an appointment under subclause (1) is not invalid on the ground that—
-  (a) the appointment was ineffective or had ceased to have effect; or
-  (b) the occasion to act had not arisen or had ceased.
+(6) A commissioner ceases to hold office if the commissioner becomes bankrupt or executes a personal insolvency agreement.

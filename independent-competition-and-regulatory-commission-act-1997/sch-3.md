@@ -2,6 +2,9 @@
 (see s 24M)
 ## 3.1 Appointment of members of industry panels
 (1) The referring authority must appoint an industry panel of 3 members (1 of whom is declared in the appointment as the president) to hear an application for the review of a price direction.
+Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
+Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act s 207).
+Note 3 A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def of appoint).
 (2) The following are not eligible to be members of an industry panel established for the review of a price direction:
   (a) a commissioner;
   (b) a member of the staff of the commission;
@@ -15,8 +18,6 @@ A member of an industry panel must have knowledge or experience in 1 of the foll
   (c) industry;
   (d) law;
   (e) public administration.
-## 3.3 Appointment defects and vacancies
-An act or decision of an industry panel is not invalid only because of a defect or irregularity in the appointment of a member of the panel, or a vacancy in the office of a member.
 ## 3.4 Remuneration and allowances
 A member of a panel is entitled to the remuneration, allowances and other entitlements—
   (a) that are determined by the remuneration tribunal in relation to the member; or
@@ -52,4 +53,4 @@ The panel’s decision on a review must be reached as follows:
 (3) The notice of suspension must be presented to the Legislative Assembly within 7 sitting days after it is given to the member.
 (4) The Executive must remove the member from office if, within 15 sitting days after the notice of suspension was presented to the Legislative Assembly, the Assembly by resolution declares that the member ought to be removed from office.
 (5) The member resumes office if, after 15 sitting days have elapsed since the notice of suspension was presented to the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the member ought to be removed from office.
-(6) A member of a panel ceases to hold office if the member becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of creditors.
+(6) A member of a panel ceases to hold office if the member becomes bankrupt or executes a personal insolvency agreement.

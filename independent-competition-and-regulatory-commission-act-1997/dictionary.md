@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · subordinate law (see s 8)
 · territory law
 access agreement means an agreement under an access regime for the granting of access to services provided by means of the infrastructure facilities to which the access regime relates.
+access provider, for part 6 (Arbitration of access regime disputes)—see section 30.
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
   (a) including the use of an infrastructure facility (such as a road or railway), the handling or transporting of things (such as goods or people) or a communications service or similar service; and
   (b) not including the supply of goods, the use of intellectual property or the use of a production process, except to the extent that that supply or use is an integral but subsidiary part of the service.
@@ -58,7 +59,9 @@ national electricity rules means the national electricity rules under the Nation
 national gas code—means the National Third Party Access Code for Natural Gas Pipeline Systems, within the meaning of the Gas Pipelines Access (A.C.T.) Law.
 Note The Gas Pipelines Access Act 1998, s 8 defines the code for the Gas Pipelines Access (A.C.T.) Law.
 price includes any rate, fee, levy and charge and any other valuable consideration (however described), but does not include a territory tax.
-price direction means a direction under section 20 (Directions about prices) about prices for the provision of regulated services, as varied (if at all) under part 4B (Variation of price directions).
+price direction—
+  (a) for this Act generally, means a direction under section 20 about prices for the provision of regulated services, as varied (if at all) under part 4B (Variation of price directions); and
+  (b) for part 4C (Review of price directions)—see section 24J.
 price regulation means the regulation of prices in relation to the provision of goods and services within a regulated industry, and includes the variation of a price direction for those prices.
 price variation trigger—see section 20A (3) (c)).
 protected confidential information means confidential information the commission does not have the power to disclose under section 46 or under any law of the Territory other than this Act.
@@ -78,6 +81,7 @@ sealed section, of a final report or a special report of an investigation—see 
 self-funding referring authority, for a regulatory reference—see section 3A (3).
 senior commissioner means the commissioner nominated as senior commission under schedule 2, section 2.1.
 standing commissioner means the senior commissioner or an assistant commissioner.
+third party, for part 6 (Arbitration of access regime disputes)—see section 30.
 unsealed section, of a final report or a special report of an investigation—see section 23 (1) (b).
 utility—see the Utilities Act 2000, dictionary.
 utility service—see the Utilities Act 2000, dictionary.
