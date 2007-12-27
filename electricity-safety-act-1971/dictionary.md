@@ -3,14 +3,20 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · function
+· planning and land authority
 · State
 · under.
+approved first seller, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 article of electrical equipment means—
-  (a) a wire, cable, fitting, meter, insulator, switchboard, or apparatus designed or intended for use in an electrical installation; and
+  (a) a wire, cable, fitting, meter, insulator, switchboard, or apparatus designed or intended for use in an electrical installation; or
   (b) an appliance, fitting or apparatus operated by electricity and the cable and other things required for its connection to an electrical installation.
 AS/NZS 3000 means Australian/New Zealand Standard 3000 (Wiring Rules) as in force from time to time.
 AS/NZS 3017 means Australian/New Zealand Standard 3017 (Electrical installations—testing and inspection guidelines) as in force from time to time.
 AS/NZS 3820 means Australian/New Zealand Standards 3820 (Essential safety requirements for low voltage electrical equipment) as in force from time to time.
+business premises, for part 7 (Enforcement)—see section 37.
+connected with, for part 7 (Enforcement)—see section 38 (1).
+corresponding law, for part 3 (Prescribed articles of electrical equipment)—see section 9.
+declaration of compliance, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 electrical installation—
   (a) means electrical wiring or cable used or for use in carrying or controlling electricity (other than electricity with a voltage of not more than 50V a.c. or 120V ripple-free d.c.); and
   (b) includes—
@@ -37,13 +43,14 @@ electricity network—see the Utilities Act 2000, section 7 (Electricity network
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
-inspector—see section 41 (Appointment of inspectors).
+inspector means a person appointed as an inspector under section 41.
 occupier, of premises, includes—
   (a) a person believed on reasonable grounds to be an occupier of the premises; and
   (b) a person apparently in charge of the premises.
+offence, for part 7 (Enforcement)—see section 38 (2).
 premises means a building, structure or place (whether built on or not and whether enclosed or not), and includes an aircraft, a vessel and a vehicle.
 prescribed article of electrical equipment—see section 11.
-prohibited, in relation to an article of electrical equipment—see section 28 (Prohibited articles).
+prohibited, in relation to an article of electrical equipment, means an article that is prohibited under section 28 (1).
 regulatory authority, for a State or another Territory, means—
   (a) for New South Wales—the Department of Fair Trading; or
   (b) for Victoria—the Office of the Chief Electrical Inspector; or
@@ -53,6 +60,8 @@ regulatory authority, for a State or another Territory, means—
   (f) for Tasmania—the Office of Energy Planning and Conservation; or
   (g) for the Northern Territory—the Department of Industries and Business; or
   (h) any other office or body declared by the regulations to be a regulatory authority.
+relevant distributor, for part 6 (Serious electrical accidents)—see section 32.
+relevant safety standard, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 relevant standard—
   (a) for a prescribed article of electrical equipment—means a relevant safety standard under part 3 (see s 9); and
   (b) for an article of electrical equipment to which part 4 (Non-prescribed articles of electrical equipment) applies—see section 26 (Minimum safety standards).
@@ -60,4 +69,4 @@ sell includes—
   (a) barter or exchange; and
   (b) let on hire; and
   (c) offer, expose or advertise for sale, barter, exchange or letting on hire.
-serious electrical accident—see section 32 (Definitions for pt 6).
+serious electrical accident, for part 6 (Serious electrical accidents)—see section 32.
