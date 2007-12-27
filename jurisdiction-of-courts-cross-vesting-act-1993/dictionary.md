@@ -1,10 +1,16 @@
 # Dictionary
 (see s 2)
+Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
+Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· Commonwealth
+· Executive
+· Federal Court
+· notifiable instrument (see s 10)
+· Supreme Court.
 ACT matter means a matter—
   (a) in which the Supreme Court has jurisdiction otherwise than by reason of a law of the Commonwealth or of another State; or
   (b) removed to the Supreme Court under section 8.
 Family Court means the Family Court of Australia.
-Federal Court means the Federal Court of Australia.
 Full Court, in relation to a Supreme Court of a State, includes a court of the State to which appeals lie from a single judge of that Supreme Court.
 judgment means a judgment, decree or order, whether final or interlocutory.
 party, in relation to a proceeding, includes a person who intervenes in the proceeding.
