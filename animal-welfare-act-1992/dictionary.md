@@ -53,9 +53,9 @@ engage in conduct means—
 executive officer, of a corporation, means a person (however described) who is concerned with, or takes part in, the corporation’s management, whether or not the person is a director of the corporation.
 feral animal means an animal (other than a native animal) that does not live in a domestic state.
 identity card means—
-  (a) in relation to the authority or a delegate of the authority—the identity card issued to him or her under section 6A; or
-  (b) in relation to an inspector or an authorised officer—the identity card issued to him or her under section 78; or
-  (c) in relation to a police officer—proof of identification of a type approved for general purposes by the chief police officer.
+  (a) in relation to an inspector (other than a police officer), an authorised officer or a delegate of the authority—an identity card issued to the person under section 78; or
+Note The authority is an inspector (see s 76 (2) (a)).
+  (b) in relation to a police officer—proof of identification of a type approved for general purposes by the chief police officer.
 injury, in relation to an animal, includes—
   (a) the aggravation, acceleration or recurrence of any physical injury; and
   (b) the contraction, aggravation, acceleration or recurrence of a disease.
