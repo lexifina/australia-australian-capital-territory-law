@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used terms
+Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -73,7 +73,7 @@ chief officer (ambulance service) means the chief officer (ambulance service) un
 chief officer (fire brigade) means the chief officer (fire brigade) under the Emergencies Act 2004.
 chief officer (rural fire service) means the chief officer (rural fire service) under the Emergencies Act 2004.
 chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004.
-chief planning executive means the Chief Planning Executive under the Planning and Land Act 2002.
+chief planning executive means the Chief Planning Executive under the Planning and Development Act 2007.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 chief solicitor means the chief solicitor under the Government Solicitor Act 1989.
 chief surveyor means the Chief Surveyor under the Surveyors Act 2007.
@@ -229,7 +229,7 @@ Lake Burley Griffin means Lake Burley Griffin as defined in the Lakes Act 1976.
 Lake Ginninderra means Lake Ginninderra as defined in the Lakes Act 1976.
 land includes messuages, tenements and hereditaments, corporeal or incorporeal, of any tenure or description, whatever the interest in the land.
 Note A number of the terms mentioned in the definition of land have a technical meaning at law. A messuage is a house together with its gardens, orchards and outbuildings. The term tenement signifies land capable of being held in freehold. Hereditament refers to real property that can be inherited. Hereditaments may be corporeal, that is, tangible things such as lands and buildings, or incorporeal, that is, intangible rights attaching to land such as rents, easements, tithes and profits a prendre. (Profits a prendre are the right to take some product of, or part of the soil from, the land of someone else.)
-land development agency means the Land Development Agency established under the Planning and Land Act 2002.
+land development agency means the Land Development Agency established under the Planning and Development Act 2007.
 law, of the Territory, means—
   (a) an Act; or
   (b) a subordinate law; or
@@ -311,7 +311,7 @@ Note Section 160 deals with references to a person generally.
 pharmacist—
   (a) means a person unconditionally registered as a pharmacist under the Health Professionals Act 2004; and
   (b) for an activity, includes a person conditionally registered as a pharmacist under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
-planning and land authority means the Planning and Land Authority established under the Planning and Land Act 2002.
+planning and land authority means the Planning and Land Authority established under the Planning and Development Act 2007.
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
 power includes authority.
@@ -392,8 +392,13 @@ Note Territory instrumentality is defined in the Public Sector Management Act 19
 territory land means Territory Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land it is territory land.
 territory law—see law, of the Territory.
+territory lease—
+  (a) means—
+    (i) a lease granted under the Planning and Development Act 2007; or
+    (ii) a lease under the Unit Titles Act 2001; but
+  (b) does not include a sublease.
 territory-owned corporation means a Territory owned corporation under the Territory-owned Corporations Act 1990.
-territory plan means the territory plan under the Land (Planning and Environment) Act 1991.
+territory plan means the territory plan under the Planning and Development Act 2007.
 the Territory means—
   (a) when used in a geographical sense—the Australian Capital Territory; or
   (b) in any other case—the body politic established by the Self-Government Act, section 7.
