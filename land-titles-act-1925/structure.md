@@ -9,6 +9,7 @@
 ## Part 6 Issue of certificates of title and grants
 ## Part 7 Land registered under Real Property Act 1900 (NSW)
 ## Part 8 Register book and registration
+## Part 8A Record of administrative interests
 ## Part 9 Crown leases
 ## Part 10 Dealings
 ### Division 10.1 Transfers
