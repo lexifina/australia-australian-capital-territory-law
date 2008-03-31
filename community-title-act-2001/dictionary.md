@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -21,7 +21,6 @@ eligible person, for a lot in relation to which a community title certificate, o
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
   (d) if access to the information or the books, records or documents is necessary for the administration of this Act—the chief executive.
 exclusive use by-law means a by-law giving the owner of a lot exclusive rights to the use and enjoyment of, or other special rights over, the common property of a community title scheme or part of the common property.
-Land Act means the Land (Planning and Environment) Act 1991.
 lot means a parcel of land for which a certificate of title has been issued under the Land Titles Act 1925.
 lot entitlement schedule—see section 7 (h) (Form and content of management statements).
 manager, of a community title scheme, means a person appointed by the body corporate of the scheme under section 44.
