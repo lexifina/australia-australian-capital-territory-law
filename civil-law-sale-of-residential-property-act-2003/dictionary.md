@@ -5,7 +5,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Australian driver licence
 · corporation
 · domestic partner (see s 169 (1))
-· lawyer.
+· lawyer
+· territory lease.
 agent means—
   (a) a person who holds a licence under the Agents Act 2003 as a real estate agent; or
   (b) a person registered under that Act as a real estate salesperson.
@@ -18,13 +19,13 @@ class B unit, for part 2 (Sale of residential property)—see section 7.
 developer’s holding lease—see section 8 (2) (d).
 encumbrance, for part 2 (Sale of residential property)—see section 7.
 energy efficiency rating, for part 3 (Energy efficiency ratings)—see section 20.
+energy efficiency rating guidelines, for part 3 (Energy efficiency ratings)—see section 20.
 energy efficiency rating statement, for part 3 (Energy efficiency ratings)—see section 20.
 family member, of a person, means—
   (a) the person’s domestic partner; or
   (b) the person’s parent or child; or
   (c) the person’s brother, sister, half-brother or half-sister; or
   (d) the parent or child of the person’s domestic partner.
-lease, for part 2 (Sale of residential property)—see the Land (Planning and Environment) Act 1991, section 159.
 lease conveyancing inquiry documents, for part 2 (Sale of residential property)—see section 7.
 mobile home, for part 3 (Energy efficiency ratings)—see section 20.
 pest inspection report, for part 2 (Sale of residential property)—see section 7.
@@ -48,7 +49,7 @@ retirement village, for part 3 (Energy efficiency ratings)—see section 20.
 seller, of residential property, for—
   (a) part 2 (Sale of residential property)—see section 7; and
   (b) part 4 (Public auctions of residential property)—see section 7.
-sublease, for part 2 (Sale of residential property)—see the Land (Planning and Environment) Act 1991, section 159.
+sublease, for part 2 (Sale of residential property)—see the Planning and Development Act 2007, section 234.
 unapproved structure, for part 2 (Sale of residential property)—see section 7.
 unit, for part 2 (Sale of residential property)—see section 7.
 unit title certificate, for a unit, means a certificate given under the Unit Titles Act 2001, section 75 (1).
