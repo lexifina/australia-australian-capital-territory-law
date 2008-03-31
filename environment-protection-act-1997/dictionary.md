@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -21,7 +21,7 @@ area of high conservation value means—
     (iii) a nature reserve; or
     (iv) a cemetery or burial ground; or
   (b) a place, other than a structure or group of structures, registered under the Heritage Act 2004; or
-  (c) the area identified in the territory plan as the area to which the river corridor land use policy for the Murrumbidgee River applies; or
+  (c) the area identified in the territory plan as the river corridor zone for the Murrumbidgee River; or
   (d) any other prescribed area.
 AS 4013, for schedule 2 (Specific offences)—see section 2.1.
 assessment means an assessment made under the Land Act, division 4.3.
@@ -35,8 +35,9 @@ conduct includes acts and omissions.
 connected, for part 11 (Powers of authorised officers)—see section 95.
 consultation period, for part 4 (Environment protection policies)—see section 23B.
 contaminated, in relation to land—see section 4.
-development—see the Land Act, section 222.
+development—see the Planning and Development Act 2007, section 7.
 draft environment protection policy, for part 4 (Environment protection policies)—see section 23B.
+EIS, for part 10—see the definition of environmental impact statement.
 emergency plan means an emergency plan described in section 81.
 enter, for part 11 (Powers of authorised officers)—see section 95.
 environment means each of the following:
@@ -53,6 +54,7 @@ environmental authorisation—
   (b) for part 8—see section 41A.
 environmental emergency, for division 9.3 (Emergency plans)—see section 80.
 environmental harm means any impact on the environment as a result of human activity that has the effect of degrading the environment (whether temporarily or permanently).
+environmental impact statement, for part 10—see the Planning and Development Act 2007, section 206 (Definitions—ch 8).
 environmental nuisance means an unreasonable interference with the enjoyment by the public, a section of the public or a person of a place or area, if the interference caused or likely to be caused by—
   (a) dust, fumes, light, noise, odour or smoke; or
   (b) an unhealthy, unsightly or otherwise offensive condition because of pollution.
@@ -73,9 +75,8 @@ financial controller means a receiver, manager or other person who has possessio
 fuel-burning equipment, for schedule 2 (Specific offences)—see section 2.1.
 general environmental duty means the duty of care described in section 22 (1).
 information discovery order means an information discovery order under section 133.
-inquiry means an inquiry conducted under the Land Act, division 4.4.
+inquiry means an inquiry conducted under the Planning and Development Act 2007, part 8.3 (Inquiry panels).
 land includes water on or below the surface of land and the bed of such water.
-Land Act means the Land (Planning and Environment) Act 1991.
 material environmental harm means environmental harm—
   (a) that is significant, including environmental harm that becomes significant—
     (i) over time; or
