@@ -24,6 +24,7 @@ Examples of site improvements
 1 a paved path
 2 a paved barbecue area
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
 building damage scheme—see section 152.
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 cancellation authority—see section 160.
@@ -40,7 +41,6 @@ default articles—see section 126 (1) (a).
 development, of a parcel, a unit or common property—
   (a) means the erection, alteration or addition of a building on the parcel, unit or common property; and
   (b) for a unit title application—includes a proposal for the erection, alteration or addition of a building on the parcel, unit or common property.
-development covenant means a covenant of a lease requiring the lessee to carry out works on the leased land or on adjacent unleased land.
 development statement means a statement about a staged development, accompanying a unit title application (as amended under section 22 (Unit title applications—amendment of development statement by authority), or amended under section 29 (Amendment of development statements before registration) or section 30 (Amendment of development statements after registration)).
 eligible person, for a unit or common property in relation to which access to information is required, means—
   (a) the owner, or another person with an interest in the unit, or in an easement over the common property; or
@@ -83,12 +83,12 @@ Examples of interested nonvoters
 2 For paragraph (b) (i)—A part-owner of a unit that is owned by 2 or more people, if the part-owner was not the representative for the unit when the application was authorised at a general meeting. The part-owner would not have been ‘entitled to vote’ under section 110.
 3 For paragraph (b) (i)—An owner of a unit for which a mortgagee has issued a mortgagee voting notice under section 112. The owner would not have been ‘entitled to vote’ under section 110.
 4 For paragraph (b) (ii)—The mortgagee of a unit who was not entitled to vote on the motion authorising the application because the mortgagee did not (or was not entitled to) issue a mortgagee voting notice under section 112.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 interested party, for an administration order—see section 140 (Who may apply for an administration order?).
-Land Act means the Land (Planning and Environment) Act 1991.
 lease means—
   (a) for a unit—the lease of the unit under section 33 (2) (Leases of units and common property) or section 171 (2) (New unit lease); or
   (b) for common property—the lease of the common property under section 33 (3) (Leases of units or common property); or
-  (c) for a parcel—the lease of the parcel granted under, or continued in force by, the Land Act, or the lease arising under section 162 (Cancellation of units plan—effects) of this Act.
+  (c) for a parcel—the lease of the parcel granted under the Planning and Development Act 2007, or the lease arising under section 162 (Cancellation of units plan—effects) of this Act.
 lessee means—
   (a) for a unit—the owner of the unit; or
   (b) for the common property—the owners corporation; or
@@ -137,7 +137,7 @@ special purpose fund—see section 59 (2).
 special resolution means a resolution of a general meeting passed as required by section 106.
 staged development, in relation to a unit title application—see section 17 (3) (Unit title applications—general requirements).
 standard quorum—see section 99 (Quorum at a general meeting—owners corporations with 3 or more members).
-termination, of a lease of a unit, does not include the termination of the lease on surrender under the Land Act, section 172A.
+termination, of a lease of a unit, does not include the termination of the lease on surrender under the Planning and Development Act 2007, section 254 (Grant of further leases).
 total sinking fund amount—see section 63 (1) (Sinking funds—annual payments).
 unanimous resolution means a resolution of a general meeting passed as required by section 108.
 unit—see section 9.
