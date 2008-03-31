@@ -4,7 +4,8 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · exercise
 · function
-· GST.
+· GST
+· territory lease.
 accounting period, for a lessor, means a financial year or other period included in a disclosure notice under section 31 (Form of disclosure statements) or otherwise agreed between the parties.
 bond means an amount paid or payable by a tenant as security for the performance of his or her obligations under a lease.
 certificate of occupancy—see the Building Act 2004, dictionary.
@@ -68,10 +69,6 @@ tenant, of premises, means a person who has the right to occupy the premises und
   (b) a person who receives the right to occupy the premises by assignment from the tenant or by operation of law; and
   (c) in relation to negotiations for a lease—a prospective tenant.
 termination notice means a notice under section 117 (Right to terminate—no disclosure statement etc) or section 118 (Failure to notify material change in disclosure statement).
-territory lease means—
-  (a) a lease granted under the Land (Planning and Environment) Act 1991; or
-  (b) a lease under the Unit Titles Act 2001;
-but does not include a sublease.
 turnover includes gross takings, gross receipts and gross income.
 turnover rent means rent, or the part of rent, based on the tenant’s turnover.
 valuer means a person who is competent in retail and commercial market rental valuations.
