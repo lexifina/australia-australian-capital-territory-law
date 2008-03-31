@@ -50,8 +50,10 @@ defined influential person, in relation to a person proposing to carry on, or ca
     (ii) if any partner is a body corporate—a director, secretary, officer or manager of the body.
 director, in relation to a body corporate, includes a member of a body corporate incorporated for a public purpose by a law of the Territory, the Commonwealth, a State or another Territory.
 education means pre-primary, primary or secondary education.
+EIS—see the Planning and Development Act 2007, dictionary, definition of environmental impact statement.
 emergency declaration means a declaration under section 119.
 emergency direction means a direction under section 120.
+environmental impact statement—see the Planning and Development Act 2007, dictionary, definition of environmental impact statement.
 improvement notice means a notice under section 58.
 insanitary condition means a condition, state or activity in relation to any of the following that a reasonable person would consider to be, or to be liable to become, a public health risk, damaging to public health or offensive to community health standards:
   (a) a building or structure;
