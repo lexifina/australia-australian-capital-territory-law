@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -17,7 +17,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Speaker
 · State
 · statutory office-holder
-· territory instrumentality.
+· territory instrumentality
+· territory lease.
 AAT means the administrative appeals tribunal.
 abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
