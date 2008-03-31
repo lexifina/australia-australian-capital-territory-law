@@ -20,6 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · registrar-general
 · sign
 · statutory declaration
+· territory lease
 · will
 · year.
 administrator includes anyone to whom administration of the estate of a dead person is granted, and includes the public trustee acting under the Administration and Probate Act 1929, part 6.
