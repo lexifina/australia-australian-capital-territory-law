@@ -102,7 +102,7 @@ improvement notice means an improvement notice issued under section 86 (2) (Noti
 inspector means a person appointed as an inspector under section 99.
 interstate or overseas emergency service means an entity (however described) established under the law of the Commonwealth, a State, another Territory or a foreign country as an ambulance service, fire brigade, rural fire service or emergency service.
 investigator means a person appointed as an investigator under section 100.
-land management agreement—see the Land (Planning and Environment) Act 1991, dictionary.
+land management agreement—see the Planning and Development Act 2007, dictionary.
 manager, for territory land or land occupied by the Territory, means the chief executive (however described) of the agency (as defined by section 70) whose responsibilities include managing the use of the land.
 medical treatment means—
   (a) undertaking a medical examination and assessment; or
