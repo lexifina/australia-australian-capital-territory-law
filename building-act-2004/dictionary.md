@@ -12,16 +12,16 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · planning and land authority
 · Territory land
 · under.
-actuary, for an approved scheme, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 alteration, of a building, includes—
   (a) demolition of part of the building; and
   (b) an addition to the building.
-approval criteria, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+approval criteria, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 approval requirement, for plans—see section 29.
 approved plans—
   (a) means plans that relate to building work for which a building approval is in effect; and
   (b) includes amended plans.
-approved scheme, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 asbestos advice—see the Dangerous Substances Act 2004, section 47J.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 asbestos code means the codes of practice that are approved under section 139B.
@@ -30,34 +30,36 @@ authorised insurer means a body corporate authorised to carry on insurance busin
 basic building work—see section 10.
 bonded asbestos means asbestos in a form where the asbestos fibres are held within another material (for example, cement) but does not include friable asbestos.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-builder, in relation to residential building work or a residential building, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 builders licence means a licence issued under the Construction Occupation (Licensing) Act 2004 in the construction occupation of builder.
 building—
   (a) for Act—see section 7; but
-  (b) for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+  (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 building action, for part 9 (Limitation of liability)—see section 140.
 building approval means a building approval under part 3.
 building code—see section 136 (1).
 building inspector means a person appointed under section 128.
 building work—
   (a) for Act—see section 6; but
-  (b) for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+  (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 certificate of occupancy means a certificate under section 69.
 certificate of regularisation—see section 75 (1).
 certifier—
-  (a) for building work—means a person who is appointed to act as certifier under section 19 (Appointment of certifiers), or as government certifier under section 20 (Appointment of government certifiers), for the work; but
+  (a) for building work—means an entity appointed to act as certifier under section 19 (Appointment of certifiers—work not begun), section 19A (Appointment of certifiers—work begun) or government certifier under section 20 (Appointment of government certifiers) for the work; but
   (b) for division 3.2 (Certifiers and government certifiers)—see section 17.
 class, of building, means that class of building under the building code.
-complying residential building work insurance, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
-completion day, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
-cost, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 86.
+complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+completion day, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+cost, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 86.
+development—see the Planning and Development Act 2007, section 7.
+development approval means development approval under the Planning and Development Act 2007, chapter 7.
 disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
 easement, for part 4 (Stop and demolition notices)—see section 52.
-eligible person, for division 3.2 (Certifiers and government certifiers)—see section 17.
+eligible entity, for division 3.2 (Certifiers and government certifiers)—see section 17.
 exempt building—see section 12.
-fidelity certificate, for building work, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
-fidelity fund scheme, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 friable asbestos means asbestos, whether or not contained in other material, that—
   (a) is crumbly, dusty or powdery; or
   (b) when dry, can be crumbled, pulverised or reduced to powder by hand pressure.
@@ -68,12 +70,15 @@ Examples of friable asbestos
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 government certifier, for division 3.2 (Certifiers and government certifiers)—see section 17.
 handling asbestos—to remove any doubt, handling asbestos (including friable asbestos) includes disturbing the asbestos.
-Land Act means the Land (Planning and Environment) Act 1991.
-lease—see the Land Act, section 159.
+information includes documents.
+land includes—
+  (a) a place under, on or above the ground; and
+  (b) a place in relation to which a permit has been granted under the Roads and Public Places Act 1937; and
+  (c) land, a building or a structure, the use of which is authorised by a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land).
+lease—see the Planning and Development Act 2007, section 235.
 licensed construction practitioner means an entity licensed under the Construction Occupations (Licensing) Act 2004.
 licence number—see the Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 load includes superimposed load.
-minor maintenance work—see section 10A.
 occupation class—see the Construction Occupations (Licensing) Act 2004, dictionary.
 owner, of land, means—
   (a) if the land is held under a lease from the Commonwealth for a term of years—the lessee; or
@@ -82,21 +87,24 @@ owner, of land, means—
     (ii) if building work has been, is being or is to be carried out on the land for the proprietor of a unit—the proprietor; or
     (iii) in any other case—the owners corporation; or
   (c) if the land is occupied under a tenancy from the Territory or the Commonwealth—the occupier; or
-  (d) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
-  (e) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth.
+  (d) if the land is subject to a permit under the Roads and Public Places Act 1937—the permit-holder; or
+  (e) if the land is subject to a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land)—the licensee; or
+  (f) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
+  (g) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth.
 owner-builder means an entity licensed under the Construction Occupations (Licensing) Act 2004 in the occupation class of owner-builder.
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
-prudential standards, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+prudential standards, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 recognised standard means a document declared to be a recognised standard under section 139A (1).
 removal, of a building—
   (a) means the removal of the building from a place for re-erection, with or without further alteration, at another place; and
   (b) includes the demolition of part of the building removed or proposed to be removed.
-residential building, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
-residential building work, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
-special actuary, for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—see section 84.
+residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+residential building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+site work—see section 7A.
+special actuary, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 specialist building work—see section 9.
-stage, in relation to building work, for part 3 (Building work)—see section 16.
+stage, of building work, means a stage prescribed under section 43 (1) (a).
 stop notice—see section 53 (2).
 storey—
   (a) means a floor level within a building that—
@@ -106,7 +114,7 @@ storey—
     (i) a lift shaft, stairway, meter room;
     (ii) a bathroom, shower room, laundry, toilet or other sanitary compartment;
     (iii) accommodation intended for up to 3 vehicles; and
-  (c) for part 6 (Residential building—statutory warranties, insurance and fidelity certificates)—does not include a storey below the ground storey (see section 84).
+  (c) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—does not include a storey below the ground storey (see section 84).
 structure—see section 8.
 waste management plan, in relation to building work that involves the demolition or alteration of a building, means information that includes—
   (a) the extent of work to be undertaken; and
