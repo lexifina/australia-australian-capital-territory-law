@@ -9,6 +9,7 @@
 ## Part 4 Registration of units plans
 ### Division 4.1 Subdivision, unit leases and common property lease
 ### Division 4.2 Easements
+### Division 4.3 Encroachments on public places
 ## Part 5 Owners corporations generally
 ### Division 5.1 Establishment and legal status of owners corporation
 ### Division 5.2 Membership and representatives

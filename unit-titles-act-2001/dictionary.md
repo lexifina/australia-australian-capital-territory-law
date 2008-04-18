@@ -14,6 +14,10 @@ administrative fund—see section 59 (1).
 administrator, of an owners corporation, means a person who is appointed as the administrator of the corporation under part 9 (Administrators).
 annexed—see section 12A.
 article, for an owner corporation, means an article of the corporation under section 126.
+attachment, in relation to a building, means—
+  (a) an eave, gutter or downpipe; or
+  (b) an awning; or
+  (c) anything attached to the building prescribed by regulation.
 benefited estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 boundary authority—see section 149.
 building includes—
@@ -47,6 +51,7 @@ eligible person, for a unit or common property in relation to which access to in
   (b) for a unit that is owned, or part-owned, by a company—the representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
   (d) if access to the information is necessary or desirable for the administration of this Act—the planning and land authority.
+encroachment includes a projection at, above or below ground level.
 entitled to vote, in relation to a motion at a general meeting of an owners corporation, means a person who is entitled to vote on the motion under section 110.
 estate, in relation to a unit title easement right given by this Act, means the unit or common property benefited or burdened by the right.
 Note See div 4.2 (Easements) (which defines unit title easement rights in s 34 and benefited estate and burdened estate in s 35 and s 36).
@@ -123,6 +128,7 @@ Examples
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 provisional building damage order—see section 154.
 provisions, of a lease, means the provisions, covenants and conditions subject to which the lease is held.
+public place—see the Roads and Public Places Act 1937, dictionary.
 reduced quorum—see section 99 (Quorum at a general meeting—owners corporations with 3 or more members).
 reduced quorum decision—see section 100 (Notice of reduced quorum decisions and adjournments).
 registered means registered with the registrar-general under the Land Titles Act 1925 or the Land Titles (Unit Titles) Act 1970.
