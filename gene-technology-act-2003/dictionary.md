@@ -19,7 +19,6 @@ Commonwealth administrative appeals tribunal means the Administrative Appeals Tr
 Commonwealth Administrative Appeals Tribunal Act means the Administrative Appeals Tribunal Act 1975 (Cwlth).
 Commonwealth Environment Minister means the Commonwealth Minister responsible for environment and conservation.
 confidential commercial information means information declared under section 185 to be confidential commercial information.
-consultative committee means the gene technology community consultative committee.
 containment level, for a facility, means the degree of physical confinement of GMOs provided by the facility, having regard to the design of the facility, the equipment located or installed in the facility and the procedures generally used within the facility.
 deal with a GMO means any of the following:
   (a) conduct experiments with the GMO;
@@ -29,13 +28,15 @@ deal with a GMO means any of the following:
   (e) use the GMO in the course of manufacturing a thing that is not the GMO;
   (f) grow, raise or culture the GMO;
   (g) import the GMO;
-and includes the possession, supply, use, transport or disposal of the GMO for, or in the course of, a dealing mentioned in any of paragraphs (a) to (g).
+  (h) transport the GMO;
+  (i) dispose of the GMO;
+and includes the possession, supply or use of the GMO for the purposes of, or in the course of, a dealing mentioned in any of paragraphs (a) to (i).
 eligible person, for a reviewable decision—see section 179.
 environment includes—
   (a) ecosystems and their constituent parts; and
   (b) natural and physical resources; and
   (c) the qualities and characteristics of locations, places and areas.
-ethics committee means the gene technology ethics committee.
+ethics and community committee means the gene technology ethics and community consultative committee established by the Commonwealth Act, section 106.
 evidential material means any of the following:
   (a) a thing in relation to which an offence against this Act has been committed or is suspected, on reasonable grounds, to have been committed;
   (b) a thing that there are reasonable grounds for suspecting will provide evidence about the commission of an offence mentioned in paragraph (a);
@@ -71,7 +72,8 @@ GMO licence means a licence issued under section 55.
 GMO register means the GMO Register established under the Commonwealth Act, section 76.
 GM product means a thing (other than a GMO) derived or produced from a GMO.
 GM record means the Record of GMO and GM Product Dealings mentioned in the Commonwealth Act, section 138.
-institutional biosafety committee means a committee established by an accredited organisation as an institutional biosafety committee.
+inadvertent dealings application means an application for a GMO licence to which division 5.3 or division 5.4 does not apply because of the operation of section 46A or section 49.
+institutional biosafety committee means a committee established as an institutional biosafety committee in accordance with the guidelines issued by the regulator under section 98.
 intentional release of a GMO into the environment—see section 11.
 licence holder means the holder of a GMO licence.
 ministerial council means the Ministerial Council within the meaning of the gene technology agreement.
