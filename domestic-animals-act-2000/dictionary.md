@@ -27,7 +27,7 @@ animal welfare offence means an offence against any of the following provisions 
   (m) section 16 (Working etc unfit animals);
   (n) section 17 (Matches, competitions etc);
   (o) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
-approved provider, for part 4 (Seizing cats and dealing with them)—see section 85.
+approved provider, for division 4.2 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
 authorised officer means an authorised officer under section 123, and includes the registrar and a deputy registrar.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
@@ -61,11 +61,13 @@ excluded offence means—
 harass—
     (a) a person—see section 49 (1) (Harassment of people and animals by dogs); and
     (b) an animal—see section 49 (2).
+incorporated document means an instrument applied, adopted or incorporated by a code of practice or another statutory instrument made or approved under this Act.
 infringement notice penalty, for an infringement notice offence under the Magistrates Court (Domestic Animals Infringement Notices) Regulation 2005—see the Magistrates Court Act 1930, section 117.
 keeper means—
     (a) for a registered dog—the registered keeper of the dog; or
     (b) for another animal—the owner of the animal.
 minor offence means an offence against this Act punishable by a maximum penalty of 5 penalty units or less.
+multiple cat licence means a licence under section 84C (1) (Multiple cat licences—approval or refusal).
 multiple dog licence means a licence under section 20 (1) (Multiple dog licences—approval or refusal).
 muzzle means a device that, if worn by a dog, prevents the dog from biting a person or animal.
 nuisance notice, for part 6 (Animal nuisance)—see section 107.
@@ -85,5 +87,5 @@ registrar means the registrar under section 121.
 registration certificate means a registration certificate issued under section 11 (1) or (4).
 registration tag means a registration tag issued under section 11 (1) or (4).
 release a dog to a person includes permit the dog to be collected by the person.
-residential premises, for division 9.2 (Powers of authorised officers)—see section 126.
+residential premises means premises used exclusively or mainly for residential purposes, and includes a private room in, but not any other part of, a motel, hotel, hostel or guesthouse.
 special licence, for division 2.4 (General provisions about multiple dog and dangerous dog licences)—see section 29.
