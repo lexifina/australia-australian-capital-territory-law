@@ -28,7 +28,9 @@ discretionary rent review clause means a provision in a lease that—
   (b) has the effect of reserving to a party to the lease a discretion as to which of 2 or more methods of calculating initial rent or a change to rent is to apply; or
   (c) has the effect of reserving to a party to the lease complete discretion as to the rate of rent to apply; or
   (d) has the effect of preventing, or giving a person the power to prevent, a decrease if the provision for determining initial rent or rent variations otherwise operates in a way that rent might decrease.
-dispute means a dispute to which this Act applies under section 17.
+dispute—
+  (a) for this Act generally—means a dispute to which this Act applies under section 17; and
+  (b) in relation to an application, for part 14 (Dispute resolution)—see section 143.
 entered into, for a lease—see section 5.
 excluded area—see section 11 (What is an excluded area?).
 extend, under an option, includes renew under the option.
@@ -54,6 +56,7 @@ normal purpose, of leased premises that have been damaged, means the way the pre
 option, for a lease, means a right given under the lease for—
   (a) the extension of the term of the lease; or
   (b) the renewal of the lease for a further term.
+party, to an application, for part 14 (Dispute resolution)—see section 143.
 premises, for a lease, are the premises covered by the lease.
 recoverable outgoings means outgoings recoverable under section 70.
 renewal, of a lease—see section 6 (When is a lease taken to be renewed for this Act?).
