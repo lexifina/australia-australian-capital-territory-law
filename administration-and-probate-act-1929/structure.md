@@ -10,7 +10,6 @@
 ## Part 3B Simultaneous deaths
 ## Part 3C Functions of executors and administrators
 ## Part 3D Liability of certain persons in relation to deceased estates
-## Part 4 Small estates
 ## Part 5 Recognition of foreign grants
 ## Part 6 Public trustee
 ## Part 9 Miscellaneous
