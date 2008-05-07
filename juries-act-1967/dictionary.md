@@ -23,6 +23,6 @@ proper officer, in relation to the exercise of a function under this Act, means 
 registrar means the registrar of the Supreme Court.
 roll of electors of the ACT means a copy of the roll of the electors of the ACT given to the sheriff under the Electoral Act 1992, section 65 (3).
 sheriff—
-  (a) means the sheriff of the Territory; and
+  (a) for this Act generally—means the sheriff of the Territory; and
   (b) for part 5 (Jury precepts and summonses)—see section 21.
 verdict includes a finding.

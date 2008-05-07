@@ -31,8 +31,10 @@ column 1 item | column 2 exempt people
 column 1 item | column 2 people who may claim exemption
 1 | a minister of religion
 2 | a practising member of a religious society or order the beliefs or principles of which are incompatible with jury service
-3 | a professor, lecturer, schoolmaster or schoolteacher engaged in full-time teaching of organised classes at a university, college or school
+3 | a professor, lecturer, or school principal or teacher, engaged in full-time teaching of organised classes at a university, college or school
 4 | an editor of a newspaper
 5 | a practising nurse, practising enrolled nurse or practising midwife
 6 | a household officer or member of staff of the Governor-General
 7 | a person who is 60 years old or older
+8 | a person who is totally or partially blind
+9 | a person who is totally or partially deaf
