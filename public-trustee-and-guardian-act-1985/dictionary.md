@@ -15,7 +15,7 @@ Administration Act means the Administration and Probate Act 1929.
 board means the Public Trustee Investment Board.
 common fund means a common fund established under section 55.
 court means the Supreme Court.
-deputy public trustee means the Deputy Public Trustee under section 6.
+deputy public trustee means a Deputy Public Trustee under section 6.
 domestic partner, for part 5 (Unclaimed property)—see section 33A.
 member means a member of the board.
 person under disability means a person who has not attained full age or a person who is of unsound mind or incapable.
