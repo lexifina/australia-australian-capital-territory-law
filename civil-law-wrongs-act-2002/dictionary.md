@@ -20,9 +20,11 @@ aggrieved person, for division 9.3.1 (Offers to make amends)—see section 124.
 agreed expert, for chapter 6 (Expert medical evidence)—see section 84.
 amount payable, under an insurance policy in relation to an occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2A.
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
+another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 apology, for part 2.3 (Apologies)—see section 13.
 appointed expert, for chapter 6 (Expert medical evidence)—see section 84.
 apportionable claim, for chapter 7A (Proportionate liability)—see section 107B.
+appropriate council, in relation to another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 Australian court, for chapter 9 (Defamation)—see section 116.
 Australian jurisdiction, for chapter 9 (Defamation)—see section 116.
 Australian tribunal, for chapter 9 (Defamation)—see section 116.
@@ -46,6 +48,7 @@ consequential mental harm, for part 3.2 (Mental harm)—see section 32.
 consumer claim, for chapter 7A (Proportionate liability)—see section 107C.
 contribution notice, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 57 (Respondent may add someone else as contributor).
 contributor, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
+corresponding law, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 costs—
   (a) for chapter 14 (Limitations on legal costs)—see section 180; and
   (b) for schedule 4 (Professional standards)—see schedule 4, section 4.2.
@@ -98,6 +101,7 @@ insured, for part 15.3 (Attachment of insurance money)—see section 206 (1).
 insurer—
   (a) of a person in relation to a claim, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
   (b) for part 15.2 (General reporting requirements of insurers)—see section 202.
+interstate scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 intoxicated—see section 92.
 judgment, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 legal services means legal services provided by a lawyer or the lawyer’s agent or employee.
@@ -151,7 +155,9 @@ safe custody facilities, for part 11.1 (Traveller accommodation providers liabil
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1) (Liability of carriers for certain goods worth more than $20).
 scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 substantially true, for chapter 9 (Defamation)—see section 116.
-this jurisdiction, for chapter 9 (Defamation)—see section 116.
+this jurisdiction—
+  (a) for chapter 9 (Defamation)—see section 116; and
+  (b) for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 transport, for part 11.2 (Common carriers)—see section 156.
 traveller accommodation—see section 145.
 voluntary basis—see section 6.
