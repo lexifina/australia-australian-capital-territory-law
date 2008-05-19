@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · change
+· civil partnership
 · Commonwealth
 · estate
 · exercise
@@ -43,4 +44,4 @@ proprietor means a person seized or possessed of, or entitled to, land, at law o
 register means the register kept under section 43.
 registrable form, for an instrument—see section 4.
 transfer means the passing of any interest in land under this Act whether for valuable consideration or otherwise.
-transmission means the acquirement of title to or interest in land consequent on the death, will, intestacy, bankruptcy, insolvency or marriage of a proprietor.
+transmission means the acquirement of title to or interest in land consequent on the death, will, intestacy, bankruptcy, insolvency, marriage or civil partnership of a proprietor.
