@@ -4,10 +4,10 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · Australia
+· civil partnership
 · commissioner for revenue
 · Corporations Act
 · doctor
-· domestic relationship (see s 169 (2))
 · external territory
 · GST
 · in relation to
