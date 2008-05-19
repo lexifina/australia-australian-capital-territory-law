@@ -4,6 +4,8 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · body
 · chief executive
+· civil partner
+· civil partnership
 · corporation
 · domestic partner (see s 169)
 · domestic partnership (see s 169)
@@ -68,9 +70,11 @@ relationship status means the status or condition of being—
   (a) single; or
   (b) married; or
   (c) married but living separately and apart from one’s spouse; or
-  (d) divorced; or
-  (e) widowed; or
-  (f) the domestic partner (other than the spouse) of someone else.
+  (d) in a civil partnership; or
+  (e) in a civil partnership but living separately and apart from one’s civil partner; or
+  (f) divorced; or
+  (g) widowed; or
+  (h) the domestic partner (other than the spouse or civil partner) of someone else.
   Note For the meaning of domestic partner, see Legislation Act, s 169.
 relative, of a person, means—
   (a) a person who is related to the person by blood, marriage, affinity or adoption; or
