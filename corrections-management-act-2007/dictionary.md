@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · chief executive (see s 163)
 · chief police officer
+· civil partnership
 · doctor
 · domestic partner (see s 169 (1))
 · Governor
