@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · change
+· civil partnership
 · Commonwealth
 · doctor
 · exercise
@@ -33,7 +34,7 @@ prohibited name means a name that—
   (f) is prohibited by regulation.
 register means a register maintained under section 39.
 registering authority means an authority responsible under a corresponding law for the registration of births, deaths and marriages.
-registrable event means a birth, death, marriage, change of name or change of sex.
+registrable event means a birth, death, marriage, civil partnership, change of name or change of sex.
 registrable information means information that is to be or may be included in the register.
 repealed Act means the Registration of Births, Deaths and Marriages Act 1963.
 sexual reassignment surgery, for part 4 (Change of sex)—see section 23.
