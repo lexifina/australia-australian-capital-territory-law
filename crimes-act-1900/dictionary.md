@@ -6,6 +6,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · adult
 · ambulance service
 · chief police officer
+· civil partnership
 · commissioner of police
 · contravene
 · correctional centre
@@ -72,15 +73,6 @@ officer—
   (b) in relation to a body corporate or public company, for the Act—includes a person who has been appointed or who acts as an auditor of the body corporate or public company.
 outworker, for part 2A (Industrial manslaughter)—see section 49A.
 provide services, for part 2A (Industrial manslaughter)—see section 49A.
-relative, of a person (the original person)—
-  (a) means the original person’s—
-    (i) father, mother, grandfather, grandmother, stepfather, stepmother, father-in-law or mother-in-law; or
-    (ii) son, daughter, grandson, granddaughter, stepson, stepdaughter, son-in-law or daughter-in-law; or
-    (iii) brother, sister, half-brother, half-sister, stepbrother, stepsister, brother-in-law or sister-in-law; or
-    (iv) uncle, aunt, uncle-in-law or aunt-in-law; or
-    (v) nephew, niece or cousin; and
-  (b) if the original person has or had a domestic partner (other than a spouse)—includes someone who would have been a relative of a kind mentioned in paragraph (a) if the original person had been legally married to the domestic partner; and
-  (c) includes someone who has been a relative of a kind mentioned in paragraph (a) or (b) of the original person.
 school means—
   (a) a government or non-government school under the Education Act 2004; or
   (b) an educational institution conducted by the Canberra Institute of Technology;
