@@ -3,6 +3,8 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · administrative unit
+· civil partner
+· civil partnership
 · commissioner for revenue
 · contravene
 · corporation
