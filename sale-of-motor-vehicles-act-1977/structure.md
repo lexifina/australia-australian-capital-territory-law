@@ -9,5 +9,4 @@
 ## Part 7 Inquiries by registrar
 ## Part 8 Review by the administrative appeals tribunal
 ## Part 9 Motor vehicle dealers compensation fund
-## Part 10 Enforcement
 ## Part 11 Miscellaneous
