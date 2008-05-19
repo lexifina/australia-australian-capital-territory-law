@@ -3,6 +3,9 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
+· civil partner
+· civil partnership
+· domestic partner (see s 169 (1))
 · estate
 · interest
 · land
