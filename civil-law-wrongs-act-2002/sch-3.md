@@ -307,7 +307,7 @@ A scheme does not limit the liability of a person who is a party to a proceeding
 A scheme in force under this schedule applies to proceedings relating to acts or omissions that happened after the commencement of the scheme.
 ## 4.28 Duration of scheme
 (1) A scheme must state a period of not longer than 5 years that it is to remain in force after its commencement.
-(2) Subject to subsection (2), a scheme (other than an interstate scheme) remains in force until—
+(2) Subject to subsection (4), a scheme (other than an interstate scheme) remains in force until—
   (a) the period stated under subsection (1) ends; or
   (b) the scheme is revoked; or
   (c) the scheme ceases to operate because of the operation of this schedule or another Territory law; or
@@ -315,15 +315,15 @@ A scheme in force under this schedule applies to proceedings relating to acts or
     (i) the Supreme Court under section 4.12; or
     (ii) the Supreme Court of another jurisdiction under the corresponding law of that jurisdiction; or
   (e) the scheme is disallowed under the Legislation Act, section 65 (Disallowance by resolution of Assembly).
-(3) Subject to subsection (2), an interstate scheme remains in force in this jurisdiction until—
+(3) Subject to subsection (4), an interstate scheme remains in force in this jurisdiction until—
   (a) the period stated under subsection (1) ends; or
   (b) the scheme’s operation in relation to this jurisdiction is ended under section 4.14B (Ending of operation of interstate schemes); or
   (c) the scheme ceases to have effect in the jurisdiction in which it was prepared; or
   (d) the scheme is disallowed under the Legislation Act, section 65 (Disallowance by resolution of Assembly).
 (4) The Minister may, in writing, extend the period for which the scheme is in force.
-(5) An instrument under subsection (2) is a notifiable instrument.
+(5) An instrument under subsection (4) is a notifiable instrument.
 Note A notifiable instrument must be notified under the Legislation Act.
-(6) An instrument under subsection (2) is effective to extend the period for which a scheme is in force only if it is notified under the Legislation Act before the day the period ends.
+(6) An instrument under subsection (4) is effective to extend the period for which a scheme is in force only if it is notified under the Legislation Act before the day the period ends.
 (7) The period for which a scheme is in force may be extended only once, and for not longer than 12 months.
 ## 4.29 Notification of limitation of liability
 (1) A person commits an offence if—
