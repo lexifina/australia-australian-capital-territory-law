@@ -82,6 +82,8 @@ children and young people commissioner means the Children and Young People Commi
 Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
 city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
 Note See s 103 for the meaning of references to repealed laws.
+civil partner—a person who is in a civil partnership with someone else is the civil partner of the other person.
+civil partnership means a civil partnership under the Civil Partnerships Act 2008.
 clerk, in relation to the Legislative Assembly, means the Clerk of the Legislative Assembly.
 Note The office of Clerk is established under the Public Sector Management Act 1994.
 commencement, of an Act or statutory instrument—see section 80.
