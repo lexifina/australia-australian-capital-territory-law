@@ -32,10 +32,6 @@ omit
 omit
 [1.10] Section 217
 omit
-[1.11] Section 218
-omit
-[1.12] Section 219
-omit
 [1.13] Section 220
 substitute
 ## 220 Disclosure of gifts by person incurring certain expenditure
@@ -81,8 +77,6 @@ Note If a form is approved under s 340A (Approved forms) for a return, the form 
 [1.20] Section 225
 omit
 [1.21] Section 227
-omit
-[1.22] Section 236 (3)
 omit
 [1.23] Section 239 (2)
 omit
