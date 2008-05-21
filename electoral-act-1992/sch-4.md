@@ -2,32 +2,46 @@
 (see s 185)
 ## Part 4.1 Preliminary
 ## 1 Interpretation for sch 4
-(1) In this schedule:
+In this schedule:
 ballot paper means a ballot paper that is formal under part 12.
 continuing candidate means a candidate, other than a successful candidate, an excluded candidate or a candidate who died before polling day.
 count means an allotment of votes under clause 3 (1), 6 (3), 9 (2) (c) or 14 (2).
-count votes, in relation to a candidate, is the number of votes calculated as follows (any fraction being disregarded):
-  where:
-    BP means the number of ballot papers to be dealt with at a count that record the next available preference for the candidate.
-    TV means the transfer value of those ballot papers.
+count votes—see clause 1A.
 excluded candidate means a candidate excluded under clause 8.
 next available preference means the next highest preference recorded for a continuing candidate on a ballot paper.
-quota means the quota of an electorate for an election and is calculated as follows (any fraction being disregarded):
-  where:
-    BP means the number of ballot papers for the election.
-    N means the number of positions to be filled at the election.
+quota—
+  (a) for this schedule generally—see clause 1B; and
+  (b) for part 4.3 (Casual vacancies)—see clause 12.
 successful candidate means a candidate who is successful under clause 3, 4, 6, 9 or 14.
 surplus, in relation to a successful candidate, means the candidate’s total votes less the quota, if the resulting number of votes is 1 or greater.
 total votes, in relation to a candidate, means the sum of all votes allotted to the candidate.
-transfer value, in relation to a ballot paper, is—
-  (a) in relation to the allotment of votes from the surplus of a successful candidate—for ballot papers that specify a next available preference, subject to subclause (2), the value calculated as follows:
-  where:
-    S means the surplus.
-    CP means the number of ballot papers counted for the candidate at the count at which he or she became successful and that specify a next available preference; or
-  (b) in relation to the allotment of votes under clause 9 (2) (c)—
-    (i) for ballot papers in relation to which votes were allotted to the excluded candidate under clause 3—1; or
-    (ii) for ballot papers in relation to which count votes were allotted to the excluded candidate under clause 6 (3) or 9 (2) (c)—the transfer value of the ballot papers when counted for the purpose of that allotment.
-(2) If, but for this subclause, the transfer value of a ballot paper calculated in accordance with subsection (1), definition of transfer value, paragraph (a) would be greater than the transfer value of the ballot paper when counted for the successful candidate, the transfer value of that ballot paper is the lastmentioned transfer value.
+transfer value—
+  (a) for this schedule generally—see clause 1C; and
+  (b) for part 4.3 (Casual vacancies)—see clause 13.
+## 1A Meaning of count votes—sch 4
+(1) For this schedule, count votes, in relation to a candidate, means the number of votes worked out as follows:
+(2) However, any fraction is to be disregarded.
+(3) In this clause:
+BP means the number of ballot papers to be dealt with at a count that record the next available preference for the candidate.
+TV means the transfer value of those ballot papers.
+## 1B Meaning of quota—sch 4
+(1) For this schedule, quota means the quota of an electorate for an election worked out as follows:
+Note Quota, for pt 4.3 (Casual vacancies)—see cl 12.
+(2) However, any fraction is to be disregarded.
+(3) In this clause:
+BP means the number of ballot papers for the election.
+N means the number of positions to be filled at the election.
+## 1C Meaning of transfer value—sch 4
+(1) For this schedule, the transfer value of a ballot paper is the transfer value worked out under this clause.
+Note Transfer value, for pt 4.3 (Casual vacancies)—see cl 13.
+(2) For the allotment of votes from the surplus of a successful candidate, the transfer value of a ballot paper that specifies a next available preference is worked out as follows:
+(3) For the allotment of votes under clause 9 (2) (c) (Votes of excluded candidates), the transfer value is—
+  (a) for a ballot paper in relation to which votes were allotted to the excluded candidate under clause 3 (First preferences)—1; or
+  (b) for a ballot paper in relation to which count votes were allotted to the excluded candidate under clause 6 (3) (Surplus votes) or clause 9 (2) (c) (Votes of excluded candidates)—the transfer value of the ballot paper when counted for that allotment.
+(4) However, if the transfer value of a ballot paper worked out in accordance with subclause (2) would be greater than the transfer value of the ballot paper when counted for the successful candidate, the transfer value of that ballot paper is the transfer value of the ballot paper when counted for the successful candidate.
+(5) In this clause:
+CP means the number of ballot papers counted for the candidate at the count at which the candidate became successful and that specify a next available preference.
+S means the surplus.
 ## 2 Disregarding preferences
 (1) This clause applies if effect is to be given to preferences indicated in candidate squares on a ballot paper under section 180.
 (2) If the same number is marked in 2 or more candidate squares on a ballot paper, those numbers and any greater number shall be disregarded in determining the elector’s preferences.
@@ -74,8 +88,8 @@ the person shall be taken to be the relevant candidate for subclause (2) in the 
 ## 8 Exclusion of candidates
 (1) If clause 5 or 15 requires a candidate to be excluded, the candidate with the least total votes shall be excluded.
 (2) If 2 or more candidates each have the same total votes, being fewer total votes than any other candidate and—
-  (a) 1 of those candidates had fewer total votes than any other of those candidates at the last count at which all those candidates had unequal votes—that candidate; or
-  (b) there is no count at which all those candidates had unequal total votes—the candidate who, of those candidates, is determined by the commissioner by lot to be the candidate to be excluded;
+  (a) 1 of those candidates had fewer total votes than any other of those candidates at the last count at which those candidates had unequal votes—that candidate; or
+  (b) there is no count at which those candidates had unequal total votes—the candidate who, of those candidates, is determined by the commissioner by lot to be the candidate to be excluded;
 shall be excluded.
 (3) If—
   (a) a person is excluded under subclause (2) (b); and
@@ -143,10 +157,14 @@ CP means the number of ballot papers counted for the former MLA at that count th
   (c) the person is successful in relation to 1 of those casual vacancies;
 for the purpose of conducting the recount in relation to the casual vacancies other than the one in relation to which the person was successful, the person shall be taken not to be a continuing candidate.
 ## Part 4.4 Deceased successful candidates
-## 18 Application of pt 4.3
-(1) If a successful candidate dies on or after polling day but before the declaration of the result of the election, the ballot papers counted for the deceased candidate shall be dealt with in accordance with part 4.3 (Casual vacancies) as if they had been counted for a former MLA.
-(2) In this part:
-continuing candidate means a candidate other than a successful candidate, a candidate who died before the recount for this part commenced or a candidate who is excluded for clause 15.
-## 19 Multiple deaths
-(1) If 2 or more successful candidates die on or after polling day but before the declaration of the result of the election, the ballot papers counted for each deceased candidate shall be dealt in the order in which the candidates died.
-(2) If 2 or more of those successful candidates died at the same time, the commissioner shall determine by lot the order in which the ballot papers for the deceased candidates are to be dealt with.
+## 18 Application—pt 4.4
+This part applies if a successful candidate dies on or after polling day but before the declaration of the result of the election.
+## 19 Ballot papers for deceased successful candidate
+(1) The ballot papers counted for a deceased candidate must be dealt with in accordance with schedule 4, part 4.3 (Casual vacancies) as if they had been counted for a former MLA.
+(2) If 2 or more of the successful candidates die on or after polling day but before the declaration of the result of the election, the ballot papers counted for each deceased candidate must be dealt with in the order in which the candidates died.
+(3) If 2 or more of the successful candidates died at the same time, the commissioner must determine by lot the order in which the ballot papers for the deceased candidates are to be dealt with.
+(4) In applying schedule 4, part 4.3 for the purposes of this part:
+continuing candidate means a candidate other than—
+  (a) a successful candidate; or
+  (b) a candidate who died before the recount for this part began; or
+  (c) a candidate who is excluded for clause 15 (Recount—continuation).

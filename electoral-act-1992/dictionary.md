@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· AAT
 · administrative unit
 · adult
 · chief executive (see s 163)
@@ -19,11 +20,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · statutory office-holder
 · territory instrumentality
 · territory lease.
-AAT means the administrative appeals tribunal.
 abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
-  (a) except in division 17.3 (Campaigning offences)—means, in relation to a person, the address of the person’s principal place of residence (including a place of residence from which a person who is an elector is temporarily absent and to which the person intends to return to live in); and
-  (b) in division 17.3—see section 291.
+  (a) of a person, for this Act generally—means the person’s principal place of residence (including a place of residence from which a person who is an elector is temporarily absent and to which the person intends to return to live in); and
+  (b) of a person who is, or is nominated to be, the registered officer of a political party, for part 7 (Registration of political parties)—see section 87.
 amount, for part 14 (Election funding and financial disclosure)—see section 198.
 Antarctica, for part 11 (Polling in Antarctica)—see section 167.
 Antarctic elector means an elector who is an Antarctic elector under section 171.
@@ -39,7 +39,8 @@ authorised witness, for part 10 (Voting)—see section 127.
 available for public inspection—see section 4A.
 ballot paper—
   (a) includes an electronic ballot paper; and
-  (b) if regulations are in force under section 114 (7) (Ballot papers)—means a ballot paper in the form prescribed under the regulations.
+  (b) if a regulation is in force under section 114 (7) (Ballot papers)—means a ballot paper in the form prescribed by regulation; and
+  (c) for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 Note A ballot paper is required to be in the form set out in sch 1 (see s 114 (1)).
 bribery, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 broadcast includes televise.
@@ -50,10 +51,16 @@ candidate means—
 candidate square—see section 116 (1) (h) (Printing of ballot papers).
 certified list of electors means a certified list of electors prepared under section 121.
 closed, in relation to a roll, means closed in accordance with section 80.
+column, for schedule 2 (Ballot papers—printing of names and collation)—see schedule 2, clause 1.
 commissioner means the Electoral Commissioner appointed under section 22.
 Commonwealth Electoral Act means the Commonwealth Electoral Act 1918 (Cwlth).
 Commonwealth roll means the roll of electors for the ACT required by the Commonwealth Electoral Act, section 81.
+continuing candidate—
+  (a) for schedule 4 (Ascertaining result of poll) generally—see schedule 4, clause 1; and
+  (b) for schedule 4, part 4.3 (Casual vacancies)—see schedule 4, clause 11 (2).
 contravention, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
+count, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
+count votes, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1A.
 Court of Disputed Elections—see section 252 (2).
 declaration vote means a vote cast in accordance with any of the following provisions:
   (a) section 135 (Declaration voting at polling places);
@@ -86,10 +93,11 @@ electoral paper means a document, form or notice provided for or required under 
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
 electronic form, of a roll or an extract from a roll, means a disk, tape or other device from which the information in the extract or roll may be reproduced by mechanical, electronic or other means.
 electronic voting—see section 120 (2).
-eligible elector, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding and financial disclosure)—see section 198.
 entity, for part 14 (Election funding and financial disclosure)—see section 198.
+envelope, for schedule 3 (Preliminary scrutiny of declaration voting papers)—see schedule 3, clause 1.
+excluded candidate, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 extract, from a roll—see section 59.
 extraordinary election—see section 101.
 file, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
@@ -97,7 +105,7 @@ financial controller, for part 14 (Election funding and financial disclosure)—
 former MLA, for part 13 (Casual vacancies)—see section 190.
 general election means a general election of MLAs.
 gift, for part 14 (Election funding and financial disclosure)—see section 198.
-group, in relation to candidates in an election, means candidates whose names are grouped on the ballot papers in accordance with section 115 (1) or (2), whichever is applicable.
+group, in relation to candidates in an election, means candidates whose names are grouped on the ballot papers in accordance with section 115 (Grouping of candidates’ names).
 hospital includes a convalescent home and an institution similar to a hospital or convalescent home.
 hour of nomination—see section 108.
 investigation notice, for division 14.7 (Compliance)—see section 235.
@@ -108,7 +116,8 @@ judge means—
 member, for division 2.2 (Members of electoral commission)—see section 11.
 MLA means a member of the Assembly.
 newspaper means a newspaper circulating in the ACT.
-non-party group, for part 14 (Election funding and financial disclosure)—see section 198.
+news publication means a newspaper or periodical and includes an electronic publication of a similar kind.
+next available preference, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 officer means—
   (a) a person appointed under section 33 (Officers) to be an officer; or
   (b) a person exercising a power under this Act under an arrangement under section 70 (Joint roll arrangements with the Commonwealth) or section 336 (Administrative arrangements with Commonwealth and States); or
@@ -141,6 +150,9 @@ pre-election period means the period of 37 days ending on the end of polling day
 proceeding, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 property, for part 14 (Election funding and financial disclosure)—see section 198 (Definitions for pt 14).
 publish, for division 17.3 (Campaigning offences)—see section 291.
+quota—
+  (a) for schedule 4 (Ascertaining result of poll) generally—see schedule 4, clause 1B; and
+  (b) for schedule 4, part 4.3 (Casual vacancies)—see schedule 4, clause 12.
 redistribution includes distribution.
 register, for part 14 (Election funding and financial disclosure)—see section 198.
 registered, for an abbreviation of the name of a registered party, means an abbreviation included in the particulars for the party in the register of political parties.
@@ -149,9 +161,10 @@ registered officer, for a registered party, means the person whose name is enter
 registered party means a political party registered under part 7 (Registration of political parties).
 register of political parties means the register of political parties kept under section 88 (Register).
 registrar, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
-related political parties, for part 7 (Registration of political parties)—see section 87.
+related political parties, for part 7 (Registration of political parties)—see section 87 (Definitions—pt 7).
 relates, for division 14.5 (Disclosure of electoral expenditure)—see section 223.
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291.
+reporting agent, for part 14 (Election funding and financial disclosure)—see section 198.
 research personnel, for part 11 (Polling in Antarctica)—see section 167.
 return, for division 14.7 (Compliance)—see section 235.
 returning officer, for part 11 (Polling in Antarctica)—see section 167.
@@ -170,7 +183,13 @@ staff, in relation to the electoral commission, means—
   (a) the staff assisting the commissioner referred to in section 31; and
   (b) persons employed or engaged under section 32.
 station, for part 11 (Polling in Antarctica)—see section 167.
+successful candidate, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 suppressed address means an address particulars of which are required to be suppressed from a roll extract under section 77.
+surplus, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
+total votes, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
+transfer value—
+  (a) for schedule 4 (Ascertaining result of poll) generally—see schedule 4, clause 1C; and
+  (b) for schedule 4, part 4.3 (Casual vacancies)—see schedule 4, clause 13.
 transmit, for part 11 (Polling in Antarctica)—see section 167.
 undue influence, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 visiting officer, for division 10.5 (Mobile polling)—see section 149.

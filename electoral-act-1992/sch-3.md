@@ -3,10 +3,7 @@
 1 In this schedule:
 envelope means an envelope on which appears a declaration , in the form approved under section 340A (Approved forms) for the declaration, made by an elector for the purpose of casting a declaration vote.
 2 The OIC of a scrutiny centre shall arrange for a preliminary scrutiny at the centre to be conducted in accordance with this schedule.
-4 An officer shall produce—
-  (a) each set of declaration voting papers at the centre; and
-  (b) each written application for a postal vote to which any of those papers relate;
-that has not been dealt with at an earlier preliminary scrutiny.
+4 An officer must produce at the centre each set of declaration voting papers that has not been dealt with at an earlier preliminary scrutiny.
 5 An officer shall sort the declaration voting papers to which the preliminary scrutiny relates into the following groups:
   (a) 1 group containing papers to which clause 6 applies;
   (b) 1 group containing the remainder.
