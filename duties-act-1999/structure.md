@@ -8,6 +8,7 @@
 ### Division 2.5.1 Trusts
 ### Division 2.5.2 Superannuation
 ### Division 2.5.3 Miscellaneous
+## Part 2.5A Expiry—duty on certain instruments
 ## Part 2.6 Exemptions
 ## Part 2.6A Deferred payments—home buyers
 ## Part 2.7 Expiry—provisions relating to unquoted marketable securities
@@ -56,3 +57,4 @@
 ## Part 15.1 Transitional—hire of goods
 ## Part 15.2 Transitional—lease instruments
 ## Part 15.3 Transitional—unquoted marketable securities
+# Chapter 16 Transitional—Duties Amendment Act 2008
