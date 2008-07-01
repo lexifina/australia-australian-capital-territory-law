@@ -11,6 +11,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · magistrate
 · Magistrates Court
 · Minister (see s 162)
+· National Gas (ACT) Law
+· National Gas (ACT) Regulation
 · national land
 · notifiable instrument (see s 10)
 · public servant
