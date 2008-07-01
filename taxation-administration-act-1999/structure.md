@@ -25,7 +25,6 @@
 ### Division 10.2 Appeals to tribunal
 ### Division 10.3 Interest
 ## Part 11 Miscellaneous provisions
-### Division 11.1 Business groups
 ### Division 11.2 Treatment of bodies corporate
 ### Division 11.3 Payments
 ### Division 11.4 Notices and service of documents

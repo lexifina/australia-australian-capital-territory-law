@@ -15,5 +15,4 @@ Section 1.1 applies to a decision—
   (g) under section 43 refusing an application for special arrangements for lodgment of returns or methods of payment; or
   (h) under section 44 imposing conditions on an approval under section 43; or
   (i) under section 45 varying or cancelling an approval under section 43; or
-  (j) under section 103 refusing permission to lodge a late objection; or
-  (k) under section 112 refusing to determine that a person is not a member of a group, or revoking such a determination.
+  (j) under section 103 refusing permission to lodge a late objection.
