@@ -7,6 +7,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · disallowable instrument
 · document
 · magistrate
+· National Gas (ACT) Law
 · notifiable instrument
 · penalty unit (see s 133)
 · State
@@ -33,13 +34,12 @@ corresponding law means a law of another jurisdiction declared by the regulation
 daily newspaper means a daily newspaper that circulates generally in the ACT.
 equipment includes items such as pressure control devices, excess flow valves, control valves and filters.
 gas means—
-  (a) natural gas to which the Gas Pipeline Access (A.C.T.) Law applies; or
+  (a) natural gas; or
   (b) a gas (LPG) in its vapour phase composed predominantly of 1 or more of the following hydrocarbons:
     (i) propane;
     (ii) propene (propylene);
     (iii) butane;
     (iv) butene (butylene).
-Note For the Gas Pipeline Access (A.C.T.) Law, see the Gas Pipelines Access Act 1998, s 6.
 gasfitter means a gasfitter licensed in the advanced or general occupation class under the Construction Occupations (Licensing) Act 2004.
 gasfitting work—
   (a) means—
@@ -51,6 +51,7 @@ gas safety legislation—see section 5.
 high pressure consumer piping system means a consumer piping system that conveys gas at a pressure greater than 21 kPa.
 inspector means a person appointed under section 40 (Appointment of inspectors).
 meter means a meter for measuring the quantity of gas supplied to premises from a gas network.
+natural gas—see the National Gas (ACT) Law, section 2.
 occupier, of premises, includes—
   (a) a person who appears to be at least 18 years of age and is believed on reasonable grounds to be an occupier of the premises; and
   (b) a person apparently in charge of the premises.
