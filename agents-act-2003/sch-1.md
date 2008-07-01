@@ -17,6 +17,8 @@ column 1 item | column 2 section | column 3 decision | column 4 people to be not
 13 | 71 (1) | refuse to exempt licensed agent in charge of a business from requirement to not provide service to another agent. | applicant for exemption owner of each business
 14 | 71 (2) | put condition on exemption from prohibition on managing, or providing services, to more than 1 business | licensed agent exempted owner of each business
 15 | 71 (2) | amend a condition on exemption from prohibition on managing, or providing services, to more than 1 business | licensed agent exempted owner of each business
-16 | 153 | require a claimant to begin proceeding | claimant
-17 | 154 | decide about financial loss | claimant
-18 | 156 (2) | not make interim payment | claimant
+16 | 139 (1) | appoint an administrator | licensed agent or former licensed agent
+17 | 139 (2) | appoint an administrator | person carrying on the business to be administered
+18 | 153 | require a claimant to begin proceeding | claimant
+19 | 154 | decide about financial loss | claimant
+20 | 156 (2) | not make interim payment | claimant
