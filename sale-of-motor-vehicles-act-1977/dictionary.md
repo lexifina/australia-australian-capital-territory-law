@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -20,6 +20,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 accessory, in relation to a motor vehicle, means—
   (a) a car radio, sound reproducing equipment or an airconditioning unit fitted to the vehicle; or
   (b) a spare wheel or any other thing carried in or attached to the vehicle.
+ACTPLA certificate, for premises to which an application for the grant or renewal of a licence relates, means a certificate by the planning and land authority stating—
+  (a) whether the authority considers the carrying on of business at the premises under the licence would not comply with a provision of—
+    (i) the lease of the land where premises are located; or
+    (ii) the Territory plan; and
+  (b) if paragraph (a) applies—the relevant provision of the lease or Territory plan.
 body number, in relation to a motor vehicle, means the figures, letters or other symbols (if any) recorded on the body of a vehicle by the manufacturer of the vehicle as a means of identification of that vehicle.
 business, in relation to—
   (a) a person who is the holder of a licence—means the business carried on under the licence; or
@@ -44,6 +49,7 @@ and includes a motor vehicle, or a motor vehicle included in a class of motor ve
   (f) a four-wheel drive motor vehicle with at least 1 forward-facing rear passenger seat (other than a motor vehicle of a kind known as a dual cab or a crew-cab); or
   (g) a motor vehicle, or a class of motor vehicles, prescribed not to be a motor vehicle, or a class of motor vehicles, as the case may be, for this definition.
 compensation fund means the motor vehicle dealers compensation fund.
+connected with an offence, for part 10A (Enforcement)—see section 70.
 corporate licensee means a corporation that holds a licence.
 creditor, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 dealer—see section 6A.
@@ -93,7 +99,9 @@ new motor vehicle means a motor vehicle other than a second-hand motor vehicle.
 non-dealer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 notice, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 NSW Act, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+occupier, of premises, for part 10A (Enforcement)—see section 70.
 odometer means an instrument or device that measures and records the distance travelled by a motor vehicle, but does not include an instrument or device that is designed so as to permit, as part of its normal functioning, manual alteration of the distance so recorded.
+offence, for part 10A (Enforcement)—see section 70.
 owner, in relation to a motor vehicle—
   (a) for part 4A (Registration of interests in motor vehicles)—see section 32A; and
   (b) in any other case—
@@ -106,6 +114,14 @@ owner, in relation to a motor vehicle—
       (B) who is entitled under a contract of hire, hire-purchase agreement, or bill of sale or similar instrument, to possession of the motor vehicle but who does not have possession of it.
 participating State, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 payment, of a purchase price, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+police certificate, for a person, means a written statement by the Australian Federal Police indicating—
+  (a) whether, according to the records held by the Australian Federal Police, the person has been charged with, or convicted of, an offence against a law of—
+    (i) the Territory; or
+    (ii) the Commonwealth; or
+    (iii) a State; or
+    (iv) another country; and
+  (b) if so—particulars of each offence.
+Note A conviction does not include a spent conviction (see Spent Convictions Act 2000, s 16 (c) (i)).
 premises includes a parcel of vacant land.
 purchase, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 qualified accountant means—
