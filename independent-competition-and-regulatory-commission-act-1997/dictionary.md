@@ -5,6 +5,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Act
 · exercise
 · function
+· National Gas (ACT) Law
+· National Gas (ACT) Regulation
 · subordinate law (see s 8)
 · territory law
 access agreement means an agreement under an access regime for the granting of access to services provided by means of the infrastructure facilities to which the access regime relates.
@@ -32,8 +34,6 @@ declared fee means a fee declared under section 4C.
 determination means an arbitration determination under section 35.
 eligible person, for part 4C (Review of price directions)—see section 24J.
 future reset principles—see section 20B (3).
-Gas Pipelines Access (A.C.T.) Law—see the Gas Pipelines Access Act 1998, dictionary.
-Gas Pipelines Access (A.C.T.) Regulations—see the Gas Pipelines Access Act 1998, dictionary.
 government activity means—
   (a) for a regulatory reference into a competitive neutrality complaint—the government business activity that is the subject of the complaint; or
   (b) for a regulatory reference into a government-regulated activity—that activity.
@@ -49,15 +49,12 @@ law of the Territory includes—
   (a) the National Electricity (ACT) Law; and
   (b) the National Electricity (ACT) Regulations; and
   (c) the national electricity rules; and
-  (d) the Gas Pipelines Access (A.C.T.) Law; and
-  (e) the Gas Pipelines Access (A.C.T.) Regulations; and
-  (f) the national gas code.
+  (d) the National Gas (ACT) Law; and
+  (e) the National Gas (ACT) Regulation.
 legislation review principles means the principles under the competition principles agreement, clause 5 (1) and (9), as set out in schedule 1.
 National Electricity (ACT) Law—see the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
 National Electricity (ACT) Regulations—see the Electricity (National Scheme) Act 1997, section 6 (Application of regulations under National Electricity Law).
 national electricity rules means the national electricity rules under the National Electricity (ACT) Law.
-national gas code—means the National Third Party Access Code for Natural Gas Pipeline Systems, within the meaning of the Gas Pipelines Access (A.C.T.) Law.
-Note The Gas Pipelines Access Act 1998, s 8 defines the code for the Gas Pipelines Access (A.C.T.) Law.
 price includes any rate, fee, levy and charge and any other valuable consideration (however described), but does not include a territory tax.
 price direction—
   (a) for this Act generally, means a direction under section 20 about prices for the provision of regulated services, as varied (if at all) under part 4B (Variation of price directions); and
