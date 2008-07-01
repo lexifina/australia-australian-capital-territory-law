@@ -269,6 +269,8 @@ name includes—
 named month means one of the 12 months of the year.
 national capital authority means the National Capital Authority established under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national capital plan means the National Capital Plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
+National Gas (ACT) Law means the provisions applying because of the National Gas (ACT) Act 2008, section 8 (Application in the ACT of National Gas Law).
+National Gas (ACT) Regulation means the provisions applying because of the National Gas (ACT) Act 2008, section 9 (Application in the ACT of regulations under National Gas Law).
 national land means National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note If an area of land in the ACT is, or is intended to be, used by or on behalf of the Commonwealth, it may be declared National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 27.
 night means the period between sunset on one day and sunrise on the next day.
