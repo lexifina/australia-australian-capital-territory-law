@@ -15,6 +15,14 @@ licence means a licence under this Act.
 licence number—see section 28 (c).
 licensee means the holder of a licence.
 master licence—see section 12.
+police certificate, for a person, means a written statement by the Australian Federal Police indicating—
+  (a) whether, according to the records held by the Australian Federal Police, the person has been charged with, or convicted of, an offence against a law of—
+    (i) the Territory; or
+    (ii) the Commonwealth; or
+    (iii) a State; or
+    (iv) another country; and
+  (b) if so—particulars of each offence.
+Note A conviction does not include a spent conviction (see Spent Convictions Act 2000, s 16 (c) (i)).
 property includes money and other valuables.
 relevant offence means an offence against—
   (a) this Act; or
