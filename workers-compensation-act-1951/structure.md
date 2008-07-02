@@ -45,4 +45,3 @@
 # Chapter 13 Miscellaneous
 # Chapter 15 Temporary provisions for acts of terrorism
 # Chapter 18 Modification of Act
-# Chapter 19 Transitional—Workers Compensation Amendment Act 2006
