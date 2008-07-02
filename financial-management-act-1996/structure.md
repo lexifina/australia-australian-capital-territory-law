@@ -19,4 +19,3 @@
 ### Division 9.6 Restructuring of territory authorities
 ### Division 9.7 Additional provisions for restructuring of certain territory authorities
 ## Part 10 Miscellaneous
-## Part 20 Transitional—Administrative (Miscellaneous Amendments) Act 2006
