@@ -15,5 +15,5 @@ legal instrument means—
   (b) a contract or agreement (whether oral or in writing or both); or
   (c) a deed or other instrument having legal effect.
 summer time period means—
-  (a) a period starting at 2 am on the last Sunday in October in a year and ending at 2 am on the last Sunday in the following March; or
+  (a) a period starting at 2 am on the first Sunday in October in a year and ending at 2 am on the first Sunday in the following April; or
   (b) if the Minister declares a different period under section 6—that period.
