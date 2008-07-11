@@ -3,37 +3,46 @@
 Note 1 The Legislation Act contains definitions and provisions that are relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 adult
+auditor-general
 chief police officer
 contravene
+correctional centre
 dental technician
 dentist
 director of public prosecutions
 doctor
+entity (see s 184A)
 function
+human rights commissioner
 intersex person (see s 169B)
 law, of the Territory
 lawyer
 magistrate
 nurse
+ombudsman
 police officer
+privacy commissioner
 State
 summary offence
 transgender person (see s 169A)
 under.
+ACT DNA database—see section 94A.
 another participating jurisdiction—see section 100.
 another Territory means a Territory other than this Territory or the Northern Territory.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
+appeal period, for an appeal to a court against an order, means the period stated by a territory law during which an appeal against the order may be made without the court’s leave.
 appropriate authority—see section 100.
 appropriately qualified person—see section 13.
 authorised applicant—see section 12.
 child—see section 14.
 correctional centre includes a NSW correctional centre.
 Note Correctional centre and NSW correctional centre are defined in the Legislation Act, dict, pt 1.
+corrections health professional, for a correctional centre, means a health professional appointed under the Corrections Management Act 2007, section 22 (Health professionals—non-therapeutic functions) for the centre.
 corresponding law—see section 100.
 crime scene index—see section 94.
 destroy—a person destroys forensic material taken from someone else by a forensic procedure, the results of the analysis of the material, or other information obtained from it, if the person destroys any means of identifying the forensic material or information with the person from whom it was taken or to whom it relates.
 DNA database—see section 100.
-DNA database system—see section 94.
+DNA database system, for part 2.11 (ACT DNA database)—see section 94.
 forensic material—see section 5.
 forensic order means—
   (a) an order of a magistrate under section 33 (Final order for carrying out of forensic procedure); or
@@ -41,6 +50,7 @@ forensic order means—
   (c) an order of a court under section 77 (Court order for carrying out of forensic procedure on serious offender) or section 78 (Carrying out of forensic procedure following conviction); or
   (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material by order of magistrate after parent or guardian of child or incapable person withdraws consent).
 forensic procedure—see section 5.
+health professional means a health professional registered under the Health Professionals Act 2004 or someone who is a health professional registered under a corresponding law of a local jurisdiction within the meaning of that Act.
 incapable person—see section 15.
 in custody—a person is in custody if the person is in the lawful custody of a police officer.
 inform a person of a matter means inform the person of the matter, through an interpreter if necessary, in language (including sign language or braille) in which the person can communicate with reasonable fluency.
@@ -55,7 +65,6 @@ interview friend—see section 16.
 intimate forensic procedure—see section 6.
 investigating police officer—see section 11.
 jurisdiction—see section 100.
-medical officer, for a correctional centre, means a medical officer appointed for the centre.
 missing persons index—see section 94.
 non-intimate forensic procedure—see section 7.
 offence means an offence against a law in force in the ACT.
@@ -64,8 +73,9 @@ participating jurisdiction—see section 100.
 police station includes—
   (a) an ACT police station; and
   (b) any other building (or part of a building) occupied by the Australian Federal Police.
+relevant person, for part 2.6 (Carrying out forensic procedures)—see section 48A.
 responsible Minister—see section 100.
-responsible person, for the DNA database system, means the person responsible for the care, control and management of the system
+responsible person, for the ACT DNA database, means the person responsible for the care, control and management of the database.
 sample, taken from a person, includes a sample taken from the person that consists of matter from someone else’s body.
 serious offence—see section 9.
 serious offender—see section 9.

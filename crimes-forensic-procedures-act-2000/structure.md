@@ -13,15 +13,16 @@
 ### Division 2.6.1 General provisions
 ### Division 2.6.2 People involved in forensic procedures
 ### Division 2.6.3 Presence of other people while forensic procedure is carried out
-### Division 2.6.4 Carrying out of forensic procedure to be recorded
+### Division 2.6.4 Recording of carrying out of forensic procedure
 ### Division 2.6.5 Procedure after forensic procedure is carried out
 ## Part 2.7 Carrying out of certain forensic procedures after conviction of serious offenders
 ## Part 2.8 Carrying out of forensic procedures on volunteers and certain other people
+## Part 2.8A Analysis of forensic material
 ## Part 2.9 Admissibility of evidence
 ### Division 2.9.1 Forensic evidence
 ### Division 2.9.2 Other evidence
 ## Part 2.10 Destruction of forensic material
-## Part 2.11 DNA database system
+## Part 2.11 ACT DNA database
 ## Part 2.12 Operation of Act and effect on other laws
 ## Part 2.13 Interstate enforcement
 ## Part 2.14 General provisions about operation of Act
