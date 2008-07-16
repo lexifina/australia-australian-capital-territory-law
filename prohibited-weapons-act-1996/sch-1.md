@@ -1,4 +1,4 @@
-# Schedule 1 Prohibited weapons
+# U Schedule 1 Prohibited weapons
 (see s 3)
 column 1 item | column 2 description
 1 | Any explosive, incendiary, irritant or poison gas—
@@ -46,3 +46,4 @@ column 1 item | column 2 description
  | (c) dypenylaminechloroarsone, known as DM or Adamsite;
  | (d) oleoresin capsicum, known as OC.
 30 | A ballistic knife (other than a ballistic knife that propels a projectile by means of an explosive) or any similar device.
+31 | Hand-held articles, commonly known as laser pointers, designed or adapted to emit a laser beam with an accessible emission level of greater than 1mW.
