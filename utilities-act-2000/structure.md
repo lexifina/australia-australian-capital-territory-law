@@ -45,6 +45,7 @@
 ### Division 10.3 Technical inspectors
 ### Division 10.4 Authorised people for utility
 ### Division 10.5 Miscellaneous
+## Part 11 Energy and Water Consumer Council
 ### Division 11.1 Establishment and functions
 ### Division 11.2 Constitution
 ### Division 11.3 Organisation of council

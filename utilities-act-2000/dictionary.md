@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -31,7 +31,7 @@ consumer, in relation to a utility service, means—
   (b) an occupier of a customer’s premises to which the service is provided;
 and includes an invitee of the customer or occupier.
 controller—see section 135 (Appointment of controller).
-council means the Essential Services Consumer Council established under part 11.
+council means the Energy and Water Consumer Council established under part 11.
 customer—see section 17 (Customers).
 customer contract means—
   (a) a standard customer contract; or
