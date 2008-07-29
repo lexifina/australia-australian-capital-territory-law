@@ -13,10 +13,10 @@ asbestos advice—see the Dangerous Substances Act 2004, section 47J.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
 commissioner means the commissioner for fair trading.
+conditional termination and possession order means a termination and possession order under section 49 (3).
 crisis accommodation—see section 126.
 energy efficiency rating means the energy efficiency rating contained in an energy efficiency rating statement.
 energy efficiency rating statement—see the Civil Law (Sale of Residential Property) Act 2003, section 20.
-enforcement condition—see section 42 (1).
 fixed term agreement means a residential tenancy agreement under which a tenant has a right of occupation for a fixed term.
 former lessor, in relation to a residential tenancy agreement that has been terminated, means the person who was the lessor while the agreement was in force.
 former tenant, in relation to a residential tenancy agreement that has been terminated, means the person who was the tenant while the agreement was in force.
