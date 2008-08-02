@@ -21,4 +21,3 @@
 ## Part 11 Review of decisions
 ## Part 12 Miscellaneous
 ## Part 13 Surviving allocations
-## Part 20 Transitional
