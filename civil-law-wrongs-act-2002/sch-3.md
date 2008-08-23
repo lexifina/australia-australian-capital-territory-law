@@ -80,7 +80,7 @@ WARNING
 Under the Civil Law (Wrongs) Act 2002, an equine professional is not liable for injury to, or the death of, a participant in an equine activity that results from an inherent risk of the activity. This is subject to limitations set out in the Act.
 (3) The warning notice must be in black letters with each letter at least 2cm high.
 (4) The warning notice must also be included in clearly visible print in each written contract the equine professional enters into for the provision of professional services, instruction or rental of equipment or tack to a participant.
-## Schedule 4 Professional standards
+U Schedule 4 Professional standards
 ## Part 4.1 Preliminary—professional standards
 ## 4.1 Objects—sch 4
 The objects of this schedule are—
@@ -458,7 +458,7 @@ Note A person’s appointment also ends if the person resigns (see Legislation A
 A member is to be appointed for not longer than 3 years.
 ## 4.42 Allowances of members
 A member is entitled to be paid the allowances decided by the Minister.
-## 4.43 Vacancy in office of member
+## U 4.43 Vacancy in office of member
 (1) The office of a member becomes vacant if the member—
   (a) dies; or
   (b) completes a term of office and is not re-appointed; or
