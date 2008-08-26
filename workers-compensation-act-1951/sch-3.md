@@ -117,11 +117,11 @@ Business may be carried on at a meeting of the committee only if at least 3 memb
 ## 3.17 Voting at committee meetings
 (1) At a meeting of the committee each member (other than the DI fund manager and DI fund actuary) has a vote on each question to be decided.
 (2) A question is decided by a majority of the votes of the members present and voting but, if the votes are equal, the member presiding has a deciding vote.
-## U 3.18 Conduct of committee meetings etc
+## 3.18 Conduct of committee meetings etc
 (1) The committee may conduct proceedings (including its meetings) as it considers appropriate.
 (2) A meeting may be held using a method of communication, or a combination of methods of communication, that allows a committee member taking part to hear what each other member taking part says without the members being in each other’s presence.
 Examples
-a phone link, a satellite link
+a phone link, a satellite link, an internet or intranet link
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) A member who takes part in a meeting conducted under subsection (2) is taken, for all purposes, to be present at the meeting.
 (4) A resolution is a valid resolution of the committee, even if it is not passed at a meeting of the committee, if all members agree to the proposed resolution in writing or by electronic communication.
