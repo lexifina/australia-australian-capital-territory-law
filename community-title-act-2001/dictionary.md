@@ -36,8 +36,8 @@ prospective owner, of a lot in a community title scheme, means a person who has 
 road—see the Road Transport (General) Act 1999, dictionary.
 schedule lot entitlement, for a lot in a community title scheme, means the number allocated to the lot in the lot entitlement schedule for the scheme.
 scheme—
-  (a) except in division 12.2 (Termination process)—means a community title scheme; and
-  (b) in division 12.2—see section 88 (Application of div 12.2).
+  (a) for this Act generally—means a community title scheme; and
+  (b) for division 12.2—see section 88.
 scheme A, for division 11.2 (Amalgamation process)—see section 80.
 scheme B, for division 11.2 (Amalgamation process)—see section 80.
 scheme C, for division 11.2 (Amalgamation process)—see section 80.
