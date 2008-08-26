@@ -8,19 +8,18 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · person
 · public servant
 · State.
-clinical waste means—
-  (a) waste consisting of any catheter, hypodermic needle, intravenous set, pipette or scalpel; or
-  (b) waste consisting of any other instrument or object that has been used in the taking of blood, the testing, processing or handling of blood or blood products, the investigation of human or animal diseases or in analysis or research that involves the use of tissue or fluid specimens, whether human or animal; or
-  (c) sanitary waste that originates from or has been in contact with a person who has a transmissible notifiable condition within the meaning of the Public Health Act 1997; or
-  (e) waste resulting from the investigation or analysis of tissue or fluid specimens, whether human or animal; or
-  (f) biological or chemical waste resulting from the investigation of human or animal diseases; or
-  (g) waste derived from a prescribed activity, being waste that includes or included human blood, or animal blood in any form other than food waste; or
-  (h) human or animal tissue or body fluids, removed during surgery or an autopsy; or
-  (i) waste consisting of a cytotoxic substance or waste that is, or is likely to be, contaminated by a cytotoxic substance; or
-  (j) waste consisting of anything that has been in contact with waste mentioned in a previous paragraph; or
-  (k) waste derived from the preparation of a human body for burial or cremation; or
-  (l) waste declared by the Minister under section 3 (Declarations of clinical waste and prescribed activity) to be clinical waste;
-but does not include waste the treatment of which has been completed in accordance with the manual.
+clinical waste means any of the following, other than waste the treatment of which is completed in accordance with the manual:
+  (a) waste consisting of a catheter, hypodermic needle, intravenous set, pipette or scalpel;
+  (b) waste consisting of any other instrument or object that has been used in the taking of blood, the testing, processing or handling of blood or blood products, the investigation of human or animal diseases or in analysis or research that involves the use of tissue or fluid specimens, whether human or animal;
+  (c) sanitary waste that originates from or has been in contact with a person who has a transmissible notifiable condition within the meaning of the Public Health Act 1997;
+  (d) waste resulting from the investigation or analysis of tissue or fluid specimens, whether human or animal;
+  (e) biological or chemical waste resulting from the investigation of human or animal diseases;
+  (f) waste derived from a prescribed activity, being waste that includes or included human blood, or animal blood in any form other than food waste;
+  (g) human or animal tissue or body fluids, removed during surgery or an autopsy;
+  (h) waste consisting of a cytotoxic substance or waste that is, or is likely to be, contaminated by a cytotoxic substance;
+  (i) waste consisting of anything that has been in contact with waste mentioned in a previous paragraph;
+  (j) waste derived from the preparation of a human body for burial or cremation;
+  (k) waste declared by the Minister under section 3 (Declarations of clinical waste and prescribed activity) to be clinical waste.
 connected, for part 6 (Enforcement)—see section 31.
 controller means the Clinical Waste Controller under section 7.
 inspector means an inspector under section 9.
