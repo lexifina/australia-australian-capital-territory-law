@@ -17,7 +17,6 @@ approved training contract means a training contract approved by the chief execu
 AQF means the policy framework entitled ‘Australian Qualifications Framework’ that defines all qualifications (whether as defined under this Act or otherwise) recognised nationally in education and training within Australia, endorsed by MINCO to commence on 1 January 1995, as in force from time to time.
 AQTF means the policy framework entitled ‘Australian Quality Training Framework’ that defines the criteria and standards for the registration of training organisations and the accreditation of courses in the vocational education and training sector endorsed by MINCO on 8 June 2001, as in force from time to time.
 committee means a committee established by the council under section 21.
-Commonwealth Act means the Australian National Training Authority Act 1992 (Cwth).
 compliance audit means—
   (a) for a RTO—an audit, including if necessary a site visit, conducted by or for the council or another registering body to establish whether the RTO complies with the RTO standards, except any legislative compliance standard; or
   (b) for a registered higher education provider—an audit, including if necessary a site visit, conducted by or for the council to establish whether the provider complies with the higher education standards, except any legislative compliance standard.
@@ -26,7 +25,7 @@ corresponding law means—
     (i) if a regulation prescribes a law of another jurisdiction as a corresponding law—that law; or
     (ii) in any other case—a law of another jurisdiction that corresponds to chapter 3; and
   (b) for a provision of chapter 3—the provision of a corresponding law of another jurisdiction under paragraph (a) that corresponds to the provision of chapter 3.
-council—means the Accreditation and Registration Council established under section 7.
+council means the Accreditation and Registration Council established under section 7.
 course accrediting body means the council or a body equivalent to the council in another jurisdiction responsible for the administration of the accreditation of courses under that jurisdiction’s legislation relating to vocational education and training or higher education.
 employer, for a trainee, means the person who is obliged under a training contract to employ the trainee.
 foreign university means a university that is—
