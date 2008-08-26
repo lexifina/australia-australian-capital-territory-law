@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -22,7 +22,7 @@ application to register a motor vehicle means—
   (a) an application under the Vehicle Registration Act to register a motor vehicle; or
   (b) an application under the Vehicle Registration Act to transfer the registration of a motor vehicle.
 approved means approved by the commissioner.
-asset, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
+asset, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 associated person means a person who is associated with another person in accordance with any of the following provisions:
   (a) people are associated people if they are related people;
   (b) individuals are associated people if they are partners in a partnership to which the Partnership Act 1963 applies;
@@ -32,7 +32,7 @@ associated person means a person who is associated with another person in accord
 and, for part 3.2, a public company and a subsidiary of a public company are taken to be associated people.
 Australian register—see the Corporations Act, section 9.
 bankrupt includes having executed a personal insolvency agreement.
-business, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
+business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 capital reduction, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
@@ -90,7 +90,7 @@ franchise arrangement means an agreement or other arrangement between 2 or more 
   (b) to use a mark or common trade name, in such a way that the business carried on by the franchisee is, or is capable of being, identified by the public as being substantially associated with the mark or name identifying, commonly connected with or controlled by the franchisor or a related person.
 franchisee—see the definition of franchise arrangement.
 franchisor—see the definition of franchise arrangement.
-FS (TB) Act, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
+FS (BTGR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 general insurance, for chapter 8 (Insurance)—see section 175.
 general insurer, for chapter 8 (Insurance)—see section 175.
 home buyer concession scheme, for part 2.6A—see section 75AA.
@@ -196,7 +196,7 @@ public unit trust scheme means a unit trust scheme—
     (i) some or all of its units have been offered to the public; and
     (ii) no fewer than 50 people hold units in it; or
   (e) that, in the opinion of the commissioner, will be a public unit trust scheme within 12 months after the commissioner gives written notification of that opinion to a person who has requested the commissioner to express that opinion in relation to the unit trust scheme.
-receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
+receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 registered insurer means an insurer registered under chapter 8.4.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
@@ -264,5 +264,5 @@ value of the lease—see section 140 (1) (b) (General rate—short-term leases).
 variation, in relation to a lease, means a variation made for any reason or on any basis and includes a further variation.
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
-voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Transfers of Business) Act 1999 (Cwlth))—see section 115A.
+voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 voting share, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see the Corporations Act, section 9.
