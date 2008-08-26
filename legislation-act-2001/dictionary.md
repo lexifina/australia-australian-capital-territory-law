@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used terms
+U Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -388,7 +388,7 @@ Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
 swear an oath includes make an affirmation.
 take an oath includes make an affirmation.
-territory authority means a body established under an Act, but does not include a body declared by regulation not to be a territory authority.
+territory authority means a body established for a public purpose under an Act, but does not include a body declared by regulation not to be a territory authority.
 territory instrumentality means a corporation that—
   (a) is established under an Act or statutory instrument, or under the Corporations Act; and
   (b) is a territory instrumentality under the Public Sector Management Act 1994.
