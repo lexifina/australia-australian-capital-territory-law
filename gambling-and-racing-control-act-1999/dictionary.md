@@ -18,10 +18,12 @@ gaming equipment means any electrical, electronic or mechanical device or any ot
 gaming law—
   (a) in relation to the Territory—see section 4; and
   (b) in relation to the Commonwealth, a State, another Territory, or a foreign country, (the other jurisdiction)—means a law of the other jurisdiction that relates to gaming or racing.
-gaming officer means—
-  (a) a member of the governing board; or
-  (b) any other authorised officer; or
-  (c) anyone else engaged (whether as an officer or employee or otherwise) in the administration or enforcement of a gaming law.
+gaming officer—
+  (a) for this Act generally—means any of the following:
+    (i) a member of the governing board;
+    (ii) any other authorised officer;
+    (iii) anyone else engaged (whether as an officer or employee or otherwise) in the administration or enforcement of a gaming law; and
+  (b) for division 4.4 (Secrecy)—see section 34.
 governing board means the governing board of the commission.
 inquiry means an inquiry conducted under part 5.
 racing means racing conducted for the purpose of betting.
