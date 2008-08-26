@@ -22,7 +22,7 @@ animal ethics committee means—
   (a) for this Act generally—an animal ethics committee established in accordance with a regulation; and
   (b) in relation to a licence—the animal ethics committee whose functions relate to the licence; and
   (c) in relation to an application for an authorisation—the animal ethics committee to which the application is made; and
-  (d) in relation to an authorisation or an authorised person—the animal ethics committee that gave the authorisation.
+  (d) in relation to an authorisation or an authorisation holder—the animal ethics committee that gave the authorisation.
 animal welfare means the health, safety and welfare of—
   (a) animals in general; or
   (b) 1 or more animals in particular.
@@ -30,8 +30,8 @@ approval, for part 6A (Regulatory action)—see section 73A.
 approved code of practice means a code of practice approved under section 22, as in force under this Act.
 approved person, for part 6A (Regulatory action)—see section 73A.
 authorisation means a research authorisation or teaching authorisation.
+authorisation holder means the holder of an authorisation.
 authorised officer means an authorised officer under section 77.
-authorised person means the holder of an authorisation.
 authority means the Animal Welfare Authority under section 5.
 business premises, for division 7.3 (Powers of inspectors)—see section 80.
 circus permit means a circus permit granted under section 55.
