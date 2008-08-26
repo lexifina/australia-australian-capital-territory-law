@@ -7,12 +7,15 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · fail
 · found guilty
 · individual.
+agent, for division 6.2 (Betting disputes referred to commission)—see section 56.
 application, for a licence, includes an application for renewal of a licence.
 authorised officer—see the Gambling and Racing Control Act 1999, section 20.
 bet means any stake, pledge or wager in money between 2 people on any event or contingency relating to—
   (a) a race; or
   (b) a sports bookmaking event.
 bet back, in relation to a race bookmaker or sports bookmaker (the bookmaker), means a bet by the bookmaker on 1 or more runners in a race if the bet is made with the objective of offsetting completely or partly the bookmaker’s liability for bets made with the bookmaker on the runner, or runners, in the race.
+betting dispute, for division 6.2 (Betting disputes referred to commission)—see section 56.
+bookmaker, for division 6.2 (Betting disputes referred to commission)—see section 56.
 chief executive means the chief executive of the commission.
 code of practice means a code of practice prescribed under the regulations under the Gambling and Racing Control Act 1999.
 commission means the gambling and racing commission.
