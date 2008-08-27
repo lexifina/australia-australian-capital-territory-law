@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -143,10 +143,14 @@ foreign law practice, for part 2.7 (Legal practice—foreign lawyers)—see sect
 foreign licensing body, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 foreign roll means an official roll of lawyers (whether admitted, practising or otherwise) kept in a foreign country, but does not include a roll prescribed by regulation.
 general trust account, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
-government lawyer means an Australian lawyer, or a person eligible to be admitted as an Australian lawyer, employed by—
-  (a) the Territory, a State, another Territory or the Commonwealth; or
-  (b) a government department (however described) of the Territory, a State, another Territory or the Commonwealth; or
-  (c) an entity prescribed by regulation as a government agency.
+government agency means––
+  (a) a government department (however described) of the Territory, the Commonwealth or another jurisdiction; or
+Note Jurisdiction means a State or Territory (see dict).
+  (b) an entity prescribed by regulation as a government agency.
+government lawyer means an Australian lawyer, or a person eligible to be admitted as an Australian lawyer, employed by––
+  (a) the Territory, the Commonwealth or another jurisdiction; or
+Note Jurisdiction means a State or Territory (see the dictionary).
+  (b) a government agency.
 grant an interstate practising certificate includes issue an interstate practising certificate.
 home jurisdiction—see section 10.
 incorporated legal practice—see section 101.
