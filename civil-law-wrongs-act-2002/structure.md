@@ -2,7 +2,7 @@
 # Chapter 2 Provisions applying to wrongs generally
 ## Part 2.1 Good samaritans
 ## Part 2.2 Volunteers
-## U Part 2.2A Food donors
+## Part 2.2A Food donors
 ## Part 2.3 Apologies
 ## Part 2.4 Survival of actions on death
 ## Part 2.5 Proceedings against and contributions between wrongdoers
