@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -12,7 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · GST
 · in relation to
 · land.
-acquired, for an interest in a landholding private corporation, for part 3.2 (Acquisition of interests in certain landholders)—see section 84.
+acquires, an interest in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 84.
 acquisition statement, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 Act imposing duty means—
   (a) a corresponding Act; or
@@ -23,14 +23,16 @@ application to register a motor vehicle means—
   (b) an application under the Vehicle Registration Act to transfer the registration of a motor vehicle.
 approved means approved by the commissioner.
 asset, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-associated person means a person who is associated with another person in accordance with any of the following provisions:
-  (a) people are associated people if they are related people;
-  (b) individuals are associated people if they are partners in a partnership to which the Partnership Act 1963 applies;
-  (c) private companies are associated people if common shareholders have a majority interest in each private company;
-  (d) trustees are associated people if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
-  (e) a private company and a trustee are associated people if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee;
-and, for part 3.2, a public company and a subsidiary of a public company are taken to be associated people.
+associated person—
+  (a) for this Act generally—means a person who is associated with another person in accordance with any of the following provisions:
+    (i) people are associated people if they are related people;
+    (ii) individuals are associated people if they are partners in a partnership to which the Partnership Act 1963 applies;
+    (iii) private companies are associated people if common shareholders have a significant interest in each private company;
+    (iv) trustees are associated people if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
+    (v) a private company and a trustee are associated people if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee; and
+  (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A and section 86 (2).
 Australian register—see the Corporations Act, section 9.
+Australian Stock Exchange means ASX Limited, ACN 008 624 691.
 bankrupt includes having executed a personal insolvency agreement.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 capital reduction, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
@@ -61,6 +63,7 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or people in whom it is vested if a discretion conferred under the trust is exercised.
+disqualifying circumstance, in relation to a registered unit trust scheme, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 domestic relationship—see the Domestic Relationships Act 1994, section 3.
 dutiable entitlement, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 dutiable property—see section 10.
@@ -71,6 +74,8 @@ dutiable value—
 eligible person, for part 2.6A—see section 75AA.
 eligible property, for part 2.6A—see section 75AA.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
+entity, for part 3.2 (Acquisition of interests in certain landholders)—see section 78A.
+financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
 fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
 foreign resident means a person who at the relevant time—
@@ -107,9 +112,8 @@ intellectual property means—
     (i) a business name, trading name, trade mark or industrial design; or
     (ii) a thing, system or process that is the subject of a patent, registered design or copyright (or an adaptation or modification of such a thing, system or process).
 interest—
-  (a) includes an estate, an interest under a lease or a sublease, a proprietary right and a beneficial interest; and
-  (b) for a private corporation, for part 3.2 (Acquisition of interests in certain landholders)—see section 83 (1).
-interest, in relation to a land-rich corporation—see section 83 (1).
+  (a) for this Act generally—includes an estate, an interest under a lease or a sublease, a proprietary right and a beneficial interest; and
+  (b) in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 83.
 international trade insurance means—
   (a) insurance of freight against loss or damage in the course of, or incidental to, international transport of the freight; or
   (b) insurance of an aircraft or ship against loss or damage during a particular period when the aircraft or ship is under construction or undergoing refitting, maintenance or repairs if, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used wholly or principally for the international transport of freight for an indefinitely continuing period commencing immediately after the completion of the construction, refitting, maintenance or repairs, as the case may be; or
@@ -122,6 +126,7 @@ international transport, in relation to freight, means the transport, in connect
     (ii) Australia; or
     (iii) an external Territory.
 land includes a stratum.
+landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 79.
 landholding, for part 3.2 (Acquisition of interests in certain landholders)—see section 80.
 land used for primary production means land used primarily for—
   (a) the cultivation of the land for the purpose of selling the produce of the cultivation; or
@@ -144,8 +149,8 @@ licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles
 life company—see the Life Insurance Act 1995 (Cwlth), schedule.
 life insurance, for chapter 8 (Insurance)—see section 175.
 life insurance rider, for chapter 8 (Insurance)—see section 175.
+listed trust means a unit trust scheme all of the units in which are listed for quotation on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
 long-term lease—see section 10 (1) (d), (e) and (f).
-majority interest, in a private corporation—see section 83 (2).
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
@@ -180,23 +185,21 @@ person with a disability means a person who has a disability that—
   (c) results in substantially reduced capacity in self-care, self-management, mobility or communication requiring significant ongoing, or long-term episodic, support.
 pooled superannuation trust means an entity that is a pooled superannuation trust in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 44.
 premium, in relation to general insurance for chapter 8 (Insurance)—see section 175.
-private company means a company that is not limited by shares, or whose shares are not quoted on a stock exchange.
-private corporation—see section 78.
-private unit trust scheme means a unit trust scheme that is not a public unit trust scheme.
+private company means a company—
+  (a) that is not limited by shares; or
+  (b) whose shares are not quoted on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
+private unit trust scheme means a unit trust scheme that is not a public unit trust scheme or wholesale unit trust scheme.
 property transferred, by a dutiable transaction—see section 8 (2).
-public unit trust scheme means a unit trust scheme—
-  (a) any of the units of which are listed for quotation on a stock exchange; or
-  (b) that was, immediately before 1 July 1998, the subject of an approved deed for the Corporations Law, part 7.12, division 5 (or a corresponding law), but only if—
-    (i) some or all of its units have been offered to the public; and
-    (ii) no fewer than 50 people hold units in it; or
-  (c) that is a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C and in respect of which—
-    (i) some or all of the units have been offered to the public; and
-    (ii) not less than 50 people hold units in it; or
-  (d) that was, immediately before 13 March 2000, exempted from the requirements of the Corporations Law, part 7.12, but only if—
-    (i) some or all of its units have been offered to the public; and
-    (ii) no fewer than 50 people hold units in it; or
-  (e) that, in the opinion of the commissioner, will be a public unit trust scheme within 12 months after the commissioner gives written notification of that opinion to a person who has requested the commissioner to express that opinion in relation to the unit trust scheme.
+public unit trust scheme means any of the following unit trust schemes:
+  (a) a listed trust;
+  (b) a widely held trust;
+  (c) a unit trust scheme registered under part 3.2A (Registration of unit trust schemes) as an imminent public unit trust scheme.
 receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+recognised stock exchange means—
+  (a) the Australian Stock Exchange; or
+  (b) any other exchange that is a member of the World Federation of Exchanges; or
+  (c) a financial market that is declared to be a recognised stock exchange under section 252A.
+registered, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 registered insurer means an insurer registered under chapter 8.4.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
@@ -210,22 +213,21 @@ related person means a person who is related to another person in accordance wit
   (d) an individual and a trustee are related people if the individual is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee;
   (e) a private company and a trustee are related people if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee.
 relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
-relevant acquisition, for division 3.2.3 (Charging of duty)—see section 86.
+relevant acquisition, in relation to a person, for part 3.2 (Acquisition of interests in certain landholders)—see section 86.
+relevant period, for a relevant acquisition, for part 3.2 (Acquisition of interests in certain landholders)—see section 78.
 replica—see section 228.
 residential lease, for part 2.6A—see section 75AA.
-responsible entity—see the Corporations Act, section 9.
+responsible entity—
+  (a) for this Act generally—see the Corporations Act, section 9; and
+  (b) of a unit trust scheme for which there is no responsible entity within the meaning of the Corporations Act, section 9, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
 rights alteration, in relation to voting shares, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 scheme includes—
   (a) an agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; or
   (b) a plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
 shares includes rights to shares.
+significant interest, in a landholder—see section 83.
 stamped—see section 233.
-stock exchange means—
-  (a) the Australian Stock Exchange Limited; or
-  (b) a stock exchange that is a member of the Fédération Internationale des Bourses de Valeurs; or
-  (c) a stock exchange declared under section 252A (Declaration of recognised stock exchange) to be a recognised stock exchange for this Act.
-subsidiary—see section 81 (3) to (5).
 Taxation Administration Act means the Taxation Administration Act 1999.
 tax avoidance scheme means a scheme if the person who has, or 1 or more of the people who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
   (a) that an amount of duty would not be payable by a person, being an amount that would have been, or might reasonably be expected to have been, payable by the person; or
@@ -239,11 +241,11 @@ third-party insurance, for chapter 8 (Insurance)—see section 175.
 time, of transfer of dutiable property—see section 8 (2).
 trading stock, for part 9.2 (Exemptions)—see section 208A.
 transfer—
-  (a) includes—
-    (i) assignment; and
-    (ii) exchange; and
-    (iii) a buyback of shares in accordance with the Corporations Act, part 2J.1, division 2; and
-    (iv) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested; and
+  (a) includes any of the following:
+    (i) assignment;
+    (ii) exchange;
+    (iii) a buyback of shares in accordance with the Corporations Act, part 2J.1, division 2;
+    (iv) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested;
     (v) vesting of an interest in property under a court order, unless the interest did not exist before it is vested; and
   (b) for chapter 2 (Transactions concerning dutiable property)—see section 6.
 transferee, of dutiable property—see section 8 (2).
@@ -266,3 +268,11 @@ Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 199
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
 voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 voting share, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see the Corporations Act, section 9.
+wholesale unit trust scheme means a unit trust scheme, other than a listed trust, that is registered under part 3.2A (Registration of unit trust schemes) as—
+  (a) a wholesale unit trust scheme; or
+  (b) an imminent wholesale unit trust scheme.
+widely held trust means a unit trust scheme—
+  (a) that is a managed investment scheme registered under the Corporations Act, part 5C.1; and
+  (b) in which units have been offered to the public; and
+  (c) that has at least 300 registered unit holders; and
+  (d) in which none of the registered unit holders, individually or together with any associated person, holds or is entitled to more than 20% of the units in the unit trust scheme.
