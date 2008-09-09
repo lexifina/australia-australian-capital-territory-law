@@ -131,6 +131,7 @@ dentist—
 Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
+detention place—see the Children and Young People Act 2008, section 142.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
 disability and community services commissioner means the Disability and Community Services Commissioner under the Human Rights Commission Act 2005.
 disallowable instrument—see section 9.
