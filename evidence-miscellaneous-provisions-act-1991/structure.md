@@ -9,8 +9,6 @@
 ### Division 3.6 Costs and expenses
 ## Part 4 Evidence in criminal proceedings
 ### Division 4.1 Preliminary—pt 4
-### Division 4.2 Sexual offence proceedings—general
-### Division 4.3 Sexual offence proceedings—giving evidence from places other than courtrooms
 ### Division 4.4 Evidence of complainant’s sexual reputation and activities
 ### Division 4.5 Protection of counselling communications
 ### Division 4.6 Sexual offence proceedings—directions and warnings to juries
