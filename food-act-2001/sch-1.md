@@ -1,4 +1,4 @@
-# Schedule 1 Decisions reviewable by administrative appeals tribunal
+# U Schedule 1 Decisions reviewable by administrative appeals tribunal
 (see s 147 and s 148)
 column 1 item | column 2 provision | column 3 decision | column 4 person to be notified of decision
 1 | 44 (5) | Minister—refuse to pay compensation, or amount of compensation paid, for emergency order | applicant for compensation
