@@ -1,92 +1,5 @@
 # U Schedule 1 Amendments of other legislation
 (see s 889)
-## U Part 1.1 Corrections Management Act 2007
-U [1.1] Section 6 (3)
-substitute
-(3) Also, this Act (other than chapter 4 (Detention in police and court cells)) does not apply to a person detained under the Children and Young People Act 2008.
-U [1.2] Section 29, new definitions
-insert
-chief executive means—
-  (a) for a detainee (other than a young detainee)—the chief executive responsible for this Act;
-  (b) for a young detainee—the chief executive responsible for the Children and Young People Act 2008.
-young detainee—see the Children and Young People Act 2008, section 95.
-U [1.3] New section 29 (2)
-insert
-(2) In this chapter—
-  (a) a reference to a correctional centre is, in relation to the custody or detention of a young detainee, a reference to a detention place under the Children and Young People Act 2008; and
-  (b) a reference to a corrections officer is, in relation to the custody or detention of a young detainee, a reference to a youth detention officer under the Children and Young People Act 2008.
-U [1.4] Section 30 (2)
-substitute
-(2) However, a person lawfully required to be in police custody must not be detained continuously at a police cell for a period longer than the following period (the allowed period):
-  (a) for a detainee (other than a young detainee)—36 hours;
-  (b) for a young detainee—12 hours.
-U [1.5] Section 30 (3)
-omit
-36 hours
-substitute
-the allowed period
-U [1.6] Section 31 (2)
-omit
-For this section,
-substitute
-For the application of this section to a detainee (other than a young detainee),
-U [1.7] New section 31 (3)
-insert
-(3) For the application of this section to a young detainee, the following provisions of the Children and Young People Act 2008 apply as if the direction, search or seizure occurred under the relevant part in relation to a young detainee at a detention place:
-  (a) part 7.1 (Preliminary—ch 7);
-  (b) part 7.2 (Searches generally);
-  (c) part 7.3 (Scanning, frisking and ordinary searches);
-  (d) part 7.4 (Strip searches—young detainees);
-  (e) part 7.9 (Seizing property).
-U [1.8] New section 31A
-insert
-## 31A Detention in police cells—additional provisions for young detainees
-(1) This section applies if a young detainee is detained at a police cell under section 30.
-(2) The chief police officer must ensure that the young detainee—
-  (a) is kept separate from adult detainees; and
-  (b) has prompt access to medical and legal assistance; and
-  (c) is told, in language and a way he or she can readily understand, about the reason for the detention and the procedures that apply; and
-  (d) is able to contact and be contacted by each of the following:
-    (i) a commissioner exercising functions under the Human Rights Commission Act 2005;
-    (ii) the public advocate;
-    (iii) the ombudsman.
-Note The Crimes Act 1914 (Cwlth), pt 1C contains provisions about investigation of offences (including about periods of arrest and obligations of investigating officials) that apply to indictable offences against ACT laws.
-In particular, that Act, s 23Q provides that a person who is under arrest or a protected suspect must be treated with humanity and with respect for human dignity, and must not be subjected to cruel, inhuman or degrading treatment.
-U [1.9] Section 33 (2), new note
-insert
-Note If the person is a young offender who is under 18 years old, he or she must not be placed in a room with an adult who is under detention (see Children and Young People Act 2008, s 100).
-U [1.10] Section 33 (3)
-substitute
-(3) However, the person must not be detained continuously at a court cell for a period longer than the following period (the allowed period):
-  (a) for a detainee (other than a young detainee)—36 hours;
-  (b) for a young detainee—12 hours.
-U [1.11] Section 33 (4)
-omit
-36 hours
-substitute
-the allowed period
-U [1.12] Section 33 (5)
-substitute
-(5) While detained at a court cell under this section—
-  (a) a detainee (other than a young detainee) is taken to be a detainee for all purposes under this Act; and
-  (b) a young detainee is taken to be a young detainee for all purposes under the Children and Young People Act 2008.
-U [1.13] New section 33A
-insert
-## 33A Detention in court cells—additional provisions for young detainees
-(1) This section applies if a young detainee is detained at a court cell under section 33.
-(2) The chief executive must ensure that the young detainee—
-  (a) is kept separate from adult detainees; and
-  (b) has prompt access to medical and legal assistance; and
-  (c) is told, in language and a way he or she can readily understand, about the reason for the detention and the procedures that apply; and
-  (d) is able to contact and be contacted by each of the following:
-    (i) a commissioner exercising functions under the Human Rights Commission Act 2005;
-    (ii) the public advocate;
-    (iii) the ombudsman.
-U [1.14] Section 34 (6)
-substitute
-(6) To remove any doubt, while detained under this section—
-  (a) a detainee (other than a young detainee) remains a detainee for all purposes under this Act; and
-  (b) a young detainee remains a young detainee for all purposes under the Children and Young People Act 2008.
 ## U Part 1.2 Court Procedures Act 2004
 U [1.15] New part 7A
 insert
@@ -573,7 +486,7 @@ A young offender in relation to whom an accommodation order is in force contrave
 (4) In resentencing the young offender, the court must not impose a penalty that, when taken together with a penalty previously imposed for the offence for which the accommodation order was made, is greater than the maximum penalty the court could have imposed for that offence.
 U [1.31] Dictionary, new definitions
 insert
-accommodation order—see the Crimes (Sentencing) Act 2005, section 133V.
+accommodation order—see the Crimes (Sentencing) Act 2005, section 133Y.
 chief executive (CYP) means the chief executive responsible for the Children and Young People Act 2008.
 U [1.32] Dictionary, definition of offender, paragraph (a)
 substitute
