@@ -118,6 +118,7 @@ review officer, for division 10.3.3 (Internal review of inquiry decision)—see 
 scanning search—see section 107.
 security classification, for a detainee, means the detainee’s security classification under section 80.
 segregation, of a detainee—see section 88.
+seizeable item, for division 9.4.3 (Strip searches)—see section 113.
 sentence—see the Crimes (Sentence Administration) Act 2005, dictionary.
 separate confinement, of a detainee—see section 151.
 strip search, of a detainee—see section 107.
