@@ -34,9 +34,9 @@ National Transport Commission means the National Transport Commission establishe
 prescribed traffic control device means a device, line, marking, sign, signal or anything else prescribed by regulation for this definition, and includes any board, device, plate, screen, word, and anything else, with a prescribed traffic control device that provides information about the application of the device.
 red traffic arrow includes a flashing red traffic arrow.
 red traffic light includes a flashing red traffic light.
-relevant information, for an image of a vehicle, for part 6 (Traffic offence detection devices)—see section 22A (Meaning of relevant information for pt 6).
 registered interest, in relation to a motor vehicle, means an interest in the vehicle that is registered under the Registration of Interests in Goods Act 1986 (NSW).
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
+relevant information, for an image of a vehicle, for part 6 (Traffic offence detection devices)—see section 22A (Meaning of relevant information for pt 6).
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 retention area—see the Uncollected Goods Act 1996, dictionary.
