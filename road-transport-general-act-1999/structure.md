@@ -23,22 +23,7 @@
 ### Division 5.2 Unauthorised use of vehicles
 ### Division 5.3 Written-off vehicles register
 ## Part 6 Fine defaulters
-## Part 7 Review of decisions under road transport legislation
 ## Part 8 Fees, charges and other amounts payable under road transport legislation
-## Part 10 Compulsory vehicle insurance
-### Division 10.1 Preliminary
-### Division 10.2 Compulsory insurance
-### Division 10.3 Taking out and duration of third-party insurance
-### Division 10.4 Indemnity under third-party policy
-### Division 10.5 Other matters relating to third-party policies
-### Division 10.6 Nominal defendant scheme for uninsured and unidentified motor vehicles
-### Division 10.7 Costs of medical, surgical and hospital treatment
-### Division 10.8 Third-party claims
-### Division 10.9 Other matters relating to third-party claims
-### Division 10.10 Authorised insurers
-### Division 10.11 Nominal defendant
-### Division 10.12 Additional insurance for public vehicles
-### Division 10.13 Miscellaneous
 ## Part 11 Miscellaneous
 ### Division 11.1 Documents
 ### Division 11.2 Other matters

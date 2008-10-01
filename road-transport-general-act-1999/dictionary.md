@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -10,15 +10,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public employee
 · statutory declaration
 · the Territory.
-accident, for part 10 (Compulsory vehicle insurance)—see motor accident.
-accredited operator, of a public vehicle, for division 10.12 (Additional insurance for public vehicles)—see section 216A.
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
-authorised insurer—see section 158 (Definitions for pt 10).
 authorised person means—
   (a) for part 3 (Infringement notices for certain offences)—see section 53A (3); and
   (b) in any other case—
@@ -26,9 +23,6 @@ authorised person means—
     (ii) a person who, under the regulations, is an authorised person for the provision.
 authority—see road transport authority.
 camera-detected offence means an offence detected by an approved camera detection device.
-certificate of insurance—see section 158 (Definitions for pt 10).
-claim, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
-commonwealth authority—see section 158 (Definitions for pt 10).
 credit card includes a debit card.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
 decision-maker, in part 7 (Review of decisions under road transport legislation)—see section 91 (Notice of decisions to be given to affected people).
@@ -42,7 +36,6 @@ executive officer, of a corporation, means a person, by whatever name called and
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
 home address, of a person, means the address of the place where the person usually lives.
-hospital treatment—see section 158 (Definitions for pt 10).
 illegal user declaration means a statutory declaration mentioned in section 38.
 infringement notice means a notice under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible people for vehicles).
 infringement notice declaration means an illegal user declaration, known user declaration, sold vehicle declaration or unknown user declaration.
@@ -50,28 +43,18 @@ infringement notice offence means an offence prescribed by regulation as an infr
 infringement notice penalty, for a person for an infringement notice offence, means—
   (a) the amount prescribed by regulation as the penalty payable by the person for the offence under an infringement notice for the offence; or
   (b) if a reminder notice has also been served on the person for the offence—the total of the amount mentioned in paragraph (a) and the amount prescribed by regulation as the amount payable by the person for the cost of serving the reminder notice.
-issue, of a third-party policy—see section 158 (Definitions for pt 10).
-insured motor vehicle—see section 158 (Definitions for pt 10).
-insured person, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
 internal reviewer—see section 92 (2) (Who may apply for internal review of decisions).
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
 known user declaration means a statutory declaration mentioned in section 39.
 learner licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-medical and surgical treatment—see section 158 (Definitions for pt 10).
-motor accident (or accident), for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
 National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 (Cwlth) or its successor.
-nominal defendant—see section 158 (Definitions for pt 10).
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
-owner, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
-public vehicle, for part 10 (Compulsory insurance)—see section 158.
-public vehicle policy—see section 218.
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
-registration, for part 10 (Compulsory vehicle insurance)—see section 158 (Definitions for pt 10).
 reminder notice, for part 3 (Infringement notices for certain offences), means a notice under section 33.
 responsible person, for a vehicle—see section 10 and section 11.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -91,13 +74,10 @@ but does not include an area that would otherwise be a road related area so far 
 road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
 sold vehicle declaration means a statutory declaration mentioned in section 40.
-third-party policy—see section 158 (Definitions for pt 10).
 total loss, in relation to a vehicle for division 5.3 (Written-off vehicles register)—see section 83C.
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
-unidentified motor vehicle—see section 158 (Definitions for pt 10).
-uninsured motor vehicle—see section 158 (Definitions for pt 10).
 unknown user declaration means a statutory declaration mentioned in section 41.
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
