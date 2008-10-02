@@ -14,4 +14,3 @@
 ### Division 3.5 Other matters
 ## Part 4 Interest on commercial accounts
 ## Part 5 Miscellaneous
-## Part 10 Transitional provisions
