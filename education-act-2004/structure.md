@@ -33,5 +33,4 @@
 ## Part 5.1 General
 ## Part 5.2 Registration—home education
 # Chapter 6 Miscellaneous
-## Part 6.1 Review of decisions
 ## Part 6.2 Other provisions
