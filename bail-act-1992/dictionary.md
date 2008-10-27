@@ -52,8 +52,8 @@ offence includes—
   (b) except for section 8 (1) (a) and section 9 (1)—
     (i) a breach of the peace or an apprehended breach of the peace; and
     (ii) a breach of an obligation mentioned in section 8A (Entitlement to bail—breach of sentence obligations).
-parental responsibility—a person has parental responsibility for a child or young person if the person has parental responsibility for the child or young person under the Children and Young People Act 1999, section 18.
-Note For the meaning of parental responsibility, see the Children and Young People Act 1999, s 17.
+parental responsibility—a person has parental responsibility for a child or young person if the person has parental responsibility for the child or young person under the Children and Young People Act 2008.
+Note Parental responsibility is dealt with in the Children and Young People Act 2008, div 1.3.2.
 surety, in relation to an accused person, means a person other than the accused person who is subject to a liability under a bail condition mentioned in section 25 (1).
 undertaking to appear means an undertaking given under section 28 (1).
 victim in relation to an accused person, means—
