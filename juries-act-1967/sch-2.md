@@ -1,6 +1,6 @@
-# Schedule 2 Jury service
+# U Schedule 2 Jury service
 (see s 11)
-## U Part 2.1 Exempt people
+## Part 2.1 Exempt people
 column 1 item | column 2 exempt people
 1 | a person exempt from serving as a juror under— the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or the Navigation Act 1912 (Cwlth), section 147; or the Air Navigation Regulations 1947 (Cwlth), regulation 150
 2 | a magistrate or coroner
@@ -20,7 +20,7 @@ column 1 item | column 2 exempt people
 16 | a public servant in the staff of the following: (a) the Supreme Court; (b) the Magistrates Court
 17 | a public servant providing legal professional services in the staff of any of the following: (a) the Department of Justice and Community Safety; (b) the Legal Aid Commission (A.C.T.); (c) the Office of the Director of Public Prosecutions
 18 | a person holding any of the following positions in the Legislative Assembly: (a) clerk; (b) deputy clerk; (c) clerk assistant; (d) sergeant-at-arms; (e) editor of debates; (f) secretary to a committee of the Assembly
-19 | a public servant exercising the functions of a social worker responsible to the chief executive responsible for administering the Children and Young People Act 1999, chapter 2 (General objects, principles and parental responsibility)
+19 | an employee at any of the following places: (a) a place declared to be a detention place under the Children and Young People Act 2008, section 142; (b) a place approved as a place of care under the Children and Young People Act 2008, section 525; (c) a place declared to be a therapeutic protection place under the Children and Young People Act 2008, section 625
 20 | a public servant holding a delegation under the Children and Young People Act 1999, section 34 whose principal function is to direct and control the provision of youth justice services in the ACT
 21 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
 22 | a corrections officer
