@@ -59,7 +59,7 @@ parole means parole under the Crimes (Sentence Administration) Act 2005, and inc
 Note A parole order under the Rehabilitation of Offenders (Interim) Act 2001 (repealed) is taken to be a parole order under the Crimes (Sentence Administration) Act 2005 (see that Act, s 343 and s 344).
 personal details, for a registrable offender—see s 59.
 personal information means information about an individual whose identity is apparent, or can reasonably be found out, from the information.
-person with parental responsibility, for a young person—means a person who has parental responsibility for the young person under the Children and Young People Act 1999, section 18.
+person with parental responsibility, for a young person—means a person who has parental responsibility for the young person under the Children and Young People Act 2008, division 1.3.2.
 prescribed corresponding offender—see section 11.
 protected registrable offender—see section 110.
 protected registrable offender declaration—see section 111 (a).
