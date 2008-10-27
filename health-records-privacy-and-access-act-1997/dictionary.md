@@ -28,7 +28,7 @@ factual matter, in relation to a consumer, means—
   (e) a plan of management, or proposed plan of management, of the treatment or care of an illness or disability of the consumer; or
   (f) any action taken (whether or not in accordance with a plan of management) by or under the direction or referral of a health service provider in relation to the consumer.
 guardian means—
-  (a) for a young person—a parent, a legally appointed guardian of the young person or someone else with parental responsibility for the young person under the Children and Young People Act 1999, section 18; or
+  (a) for a young person—a parent, a legally appointed guardian of the young person or someone else with parental responsibility for the young person under the Children and Young People Act 2008, division 1.3.2; or
   (b) for a legally incompetent person—
     (i) a person who is—
       (A) a legally appointed guardian of the legally incompetent person; or
