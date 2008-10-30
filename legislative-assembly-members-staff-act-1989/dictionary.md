@@ -4,10 +4,21 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Chief Minister
 · disallowable instrument
-· Executive instrument.
+· domestic partner (see s 169 (1))
+· Executive instrument
+· sitting day.
 Assembly means the Legislative Assembly.
 classification—see the PSM Act.
 commissioner—see the PSM Act.
+family member, of a person, means—
+  (a) a domestic partner of the person; or
+  (b) a parent or step-parent of the person; or
+  (c) a parent or step-parent of the person’s domestic partner; or
+  (d) a child or step-child of the person; or
+  (e) a child or step-child of the person’s domestic partner; or
+  (f) a brother, sister, half-brother or half-sister of the person; or
+  (g) a grandparent of the person; or
+  (h) an uncle, aunt or cousin of the person.
 office-holder means—
   (a) a Minister; or
   (b) the Speaker of the Assembly; or
