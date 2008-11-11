@@ -5,4 +5,3 @@
 ## Part 5 Protection of information
 ## Part 6 Commonwealth-Territory funding agreements
 ## Part 7 Miscellaneous
-## Part 10 Transitional—Housing Assistance Act 1987
