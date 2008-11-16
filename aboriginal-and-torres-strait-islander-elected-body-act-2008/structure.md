@@ -5,7 +5,3 @@
 ### Division 2.3 ATSIEB meetings
 ## Part 3 ATSIEB elections
 ## Part 4 Miscellaneous
-## Part 5 Transitional
-### Division 5.1 Transitional—general
-### Division 5.2 Transitional—first ATSIEB election
-### Division 5.3 Expiry—pt 5
