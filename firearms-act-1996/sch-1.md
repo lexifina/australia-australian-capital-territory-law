@@ -1,4 +1,4 @@
-# Schedule 1 Prohibited firearms
+# U Schedule 1 Prohibited firearms
 (see s 4)
 column 1 item | column 2 description
 1 | a machine gun, submachine gun or other firearm capable of propelling projectiles in rapid succession during 1 pressure of the trigger

@@ -1,4 +1,4 @@
-# Schedule 2 Licence categories and authority conferred
+# U Schedule 2 Licence categories and authority conferred
 (see s 17)
 Note The possession or use of firearms authorised by a licence is subject to the regulations, see s 17 (4).
 column 1 item | column 2 category of licence | column 3 firearms to which licence applies | column 4 authority conferred by licence
