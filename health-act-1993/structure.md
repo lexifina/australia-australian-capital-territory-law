@@ -11,6 +11,4 @@
 ## Part 6 Abortions
 ## Part 7 VMO service contracts
 ## Part 8 Secrecy
-## Part 9 Review of decisions
 ## Part 15 Miscellaneous
-## Part 20 Transitional—Health Professionals Act 2004
