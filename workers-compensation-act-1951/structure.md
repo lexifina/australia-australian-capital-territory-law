@@ -41,7 +41,5 @@
 ## Part 9.3 Compensation and common law damages
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
-# Chapter 12 Review of decisions by administrative appeals tribunal
 # Chapter 13 Miscellaneous
 # Chapter 15 Temporary provisions for acts of terrorism
-# Chapter 18 Modification of Act
