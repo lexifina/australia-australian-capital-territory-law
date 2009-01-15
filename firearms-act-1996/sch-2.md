@@ -1,12 +1,22 @@
-# U Schedule 2 Licence categories and authority conferred
-(see s 17)
-Note The possession or use of firearms authorised by a licence is subject to the regulations, see s 17 (4).
-column 1 item | column 2 category of licence | column 3 firearms to which licence applies | column 4 authority conferred by licence
-1 | category A licence | the following firearms, other than prohibited firearms: (a) airguns; (b) rim-fire rifles (other than self-loading); (c) shotguns; (d) shotgun and rim-fire rifle combinations | The licensee is authorised to possess or use a registered firearm of the kind to which the licence applies, for the purpose established by the licensee as the genuine reason for possessing or using the firearm.
-2 | category B licence | the following firearms, other than prohibited firearms: (a) muzzle-loading firearms (other than pistols); (b) centre-fire rifles (other than self-loading); (c) shotgun and centre-fire rifle combinations | The licensee is authorised to possess or use a registered firearm of the kind to which the licence applies, for the purpose established by the licensee as the genuine reason for possessing or using the firearm.
-3 | category C licence (prohibited except for occupational purposes) | the following firearms, other than firearms referred to in item 6, 10 or 11 of schedule 1: (a) self-loading rim-fire rifles with a magazine capacity of no more than 10 rounds; (b) self-loading shotguns with a magazine capacity of no more than 5 rounds; (c) pump action shotguns with a magazine capacity of no more than 5 rounds | The licensee is authorised to possess or use— (a) no more than 1 registered self-loading rim-fire rifle with a magazine capacity of no more than 10 rounds that is specified in the licence; and (b) no more than 1 registered shotgun to which the licence applies that is specified in the licence; for the purpose established by the licensee as the genuine reason for possessing or using the firearm.
-4 | category D licence (prohibited except for official purposes) | the following firearms, other than firearms referred to in schedule 1, item 5, 6, 9, 10 or 11: (a) self-loading centre-fire rifles; (b) self-loading rim-fire rifles with a magazine capacity of more than 10 rounds; (c) self-loading shotguns with a magazine capacity of more than 5 rounds; (d) pump action shotguns with a magazine capacity of more than 5 rounds; (e) such other firearms to which a category C licence applies as may be prescribed | The licensee is authorised to possess or use a registered firearm to which the licence applies, for the purpose established by the licensee as the genuine reason for possessing or using the firearm.
-5 | category H licence (pistols) | pistols (including blank fire pistols and air pistols), other than prohibited firearms | The licensee is authorised to possess or use a registered pistol to which the licence applies for the purpose established by the licensee as the genuine reason for having the licence. However, the licensee is only authorised to possess or use a registered prohibited pistol in accordance with the regulations.
-6 | firearms dealer licence | the kinds of firearms specified in the licence | Authorises the licensee and (subject to the conditions of the licence and the regulations)— (a) employees or directors of the corporation specified in the licence; or (b) employees of the partnership so specified; or (c) employees of the individual so specified; who are eligible to be issued with a licence, to possess, manufacture, buy, sell, transfer, repair, maintain or test, in the course of carrying on the business of a firearms dealer, and at the premises specified in the licence, any firearm to which the licence applies, and to sell ammunition for such firearms.
-7 | collectors licence | the kinds of firearms specified in the licence | The licensee is authorised to possess the firearms specified in the licence as a collector.
-8 | heirlooms licence | the kinds of firearms specified in the licence | The licensee is authorised to possess the firearms specified in the licence as an heirloom.
+# Schedule 2 Exemptions from Act
+(see s 23)
+## Part 2.1 Interpretation—sch 2
+## 2.1 Meaning of corrections officer—sch 2
+In this schedule:
+corrections officer includes a person employed by an entity responsible under a law of a State or another Territory for providing correctional services for offenders.
+Note Corrections officer—see the Legislation Act, dict, pt 1.
+## Part 2.2 People exempt from Act
+column 1 item | column 2 person exempted | column 3 circumstances
+1 | member of— (a) Australian Federal Police or police service or force of a State or another Territory (b) Defence Force (c) visiting force within the meaning of the Defence (Visiting Forces) Act 1963 (Cwlth) (d) Australian Army Cadets under the Defence Act 1903 (Cwlth) | possessing or using firearm in exercise of person’s functions as member
+2 | corrections officer | possessing or using firearm in exercise of officer’s functions
+3 | member of Council of Australian War Memorial, or of staff of memorial | possessing firearm if— (a) firearm is part of the memorial collection within the meaning of the Australian War Memorial Act 1980 (Cwlth); and (b) possession is in exercise of person’s functions under that Act
+4 | member of Council of National Museum of Australia, or of staff of museum | possessing firearm if— (a) firearm is part of the national historical collection within the meaning of the National Museum of Australia Act 1980 (Cwlth); and (b) possession is in exercise of person’s functions under that Act
+## Part 2.3 No offence for possession or use
+column 1 item | column 2 no offence by | column 3 circumstances
+1 | master or captain, or member of crew, of ship or aircraft | possessing or using firearm if— (a) firearm is required by law to be carried on the ship or aircraft; and (b) possession or use is in exercise of person’s functions as master, captain or member
+2 | sporting organisation prescribed by regulation | possessing or using starting pistol
+3 | official in sporting competition conducted by sporting organisation prescribed by regulation | possessing or using starting pistol in exercise of functions as official
+4 | authorised instructor | possessing or using firearm in exercise of functions as instructor— (a) on premises owned or used by approved club; or (b) at approved shooting range
+## Part 2.4 No offence
+column 1 item | column 2 no offence by | column 3 circumstances
+1 | person entitled to immunity under— (a) the Diplomatic Privileges and Immunities Act 1967 (Cwlth); or (b) the Consular Privileges and Immunities Act 1972 (Cwlth) | the person has the written approval of the chief of protocol of the Commonwealth department responsible for foreign affairs to possess the firearm
