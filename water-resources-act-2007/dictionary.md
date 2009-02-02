@@ -2,9 +2,11 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · environment protection authority
 · function
-· infringement notice.
+· infringement notice
+· reviewable decision notice.
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised officer means an authorised officer under the Environment Protection Act 1997, section 14 (3).
 authority means the environment protection authority.
@@ -48,7 +50,7 @@ recharge licence means a licence under section 49.
 register means the register under section 66.
 repealed Act means the Water Resources Act 1998.
 Note A reference to a repealed Act is a reference to the Act as in force immediately before it was repealed (see Legislation Act, s 103).
-reviewable decision—see section 94.
+reviewable decision, for part 11 (Notification and review of decisions)—see section 94.
 stock or domestic use of water by a person means 1 or more of the following:
   (a) use for the person, or the person’s family or employees, for domestic purposes;
   (b) use for drinking water for stock—

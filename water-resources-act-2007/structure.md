@@ -18,6 +18,6 @@
 ### Division 10.2 Powers of authorised officers
 ### Division 10.3 Search warrants
 ### Division 10.4 Return and forfeiture of things seized
-## Part 11 Review of decisions
+## Part 11 Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 13 Surviving allocations
