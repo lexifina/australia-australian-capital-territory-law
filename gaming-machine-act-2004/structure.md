@@ -31,4 +31,5 @@
 ## Part 11 Finance
 ### Division 11.1 General
 ## Part 12 Community contributions
-## Part 13 Miscellaneous
+## Part 13 Notification and review of decisions
+## Part 14 Miscellaneous

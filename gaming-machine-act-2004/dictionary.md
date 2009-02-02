@@ -2,7 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· AAT
+· ACAT
 · ACT
 · adult
 · appoint
@@ -24,6 +24,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · penalty unit (see s 135)
 · prescribed
 · regulations
+· reviewable decision notice
 · the Territory
 · under.
 acquire a gaming machine, means take possession of the machine for the purpose of using it for gaming.
@@ -148,6 +149,7 @@ registered party—see the Electoral Act 1992, dictionary.
 relevant premises means the premises for which a person has applied for a licence.
 repossession of a gaming machine includes taking possession of the machine under a default provision in a financial agreement.
 required community contribution, for a licensee that is a club—see section 169 (1).
+reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
 rules, for an entity, means the rules mentioned in section 11 (2) (c).
 secretary, in relation to a club, includes a person concerned in the management of the club.
 short-term approval—
