@@ -2,11 +2,13 @@
 (see s 3)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· ACAT
 · contravene
 · corporation
 · fail
 · found guilty
-· individual.
+· individual
+· reviewable decision notice.
 agent, for division 6.2 (Betting disputes referred to commission)—see section 56.
 application, for a licence, includes an application for renewal of a licence.
 authorised officer—see the Gambling and Racing Control Act 1999, section 20.
@@ -34,6 +36,9 @@ influential shareholder, of a corporation, means a person who—
   (c) solely or with others, owns or has a beneficial interest in voting shares (the owned shares) in the corporation and can control or influence the way voting rights are exercised in relation to other voting shares (the non-owned shares) in the corporation, if—
     (i) the total of the owned shares and the non-owned shares is 5% or more of the voting shares in the corporation; or
     (ii) the total of the owned shares and the non-owned shares in a particular class of shares is 5% or more of the voting shares in the class.
+internally reviewable decision, for part 10 (Notification and review of decisions)—see section 82.
+internal reviewer, for part 10 (Notification and review of decisions)—see section 83.
+internal review notice, for part 10 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 issue, of a licence, includes renewal of a licence.
 licence means any of the following licences:
   (a) a race bookmaking licence;
@@ -46,7 +51,6 @@ operative day, for a change of the conditions of a licence, means the day after�
   (a) if written notice of the change is delivered to the licensee or to the last-known address of the licensee—the day when the notice is delivered; or
   (b) if written notice of the change is posted to the licensee at the last-known address of the licensee—the day when the notice would be delivered in the ordinary course of post.
 person includes a syndicate.
-primary decision means a decision of the commission under a provision of this Act mentioned in schedule 1.
 proprietary company—see the Corporations Act, section 9.
 race means—
   (a) a thoroughbred race; or
@@ -59,6 +63,7 @@ race bookmaking means the carrying on (whether regularly or on 1 or more occasio
 race meeting means a meeting held to conduct races (even if other events are also held at the meeting).
 racing club means a corporation that promotes or controls horse racing or dog racing, or that holds race meetings.
 register means the register kept under section 89 (Commission to keep register).
+reviewable decision, for part 10 (Notification and review of decisions)—see section 82.
 rules for sports bookmaking means the rules determined under section 23 (Rules for sports bookmaking).
 security guarantee—see section 92 (Meaning of suitability requirements and security guarantee).
 sports bet means a bet on, or in relation to, a sports bookmaking event.

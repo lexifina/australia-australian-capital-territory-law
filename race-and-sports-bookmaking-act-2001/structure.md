@@ -16,5 +16,5 @@
 ## Part 7 Taxation
 ## Part 8 Disciplinary provisions
 ## Part 9 Offences
-## Part 10 Reconsideration and review
+## Part 10 Notification and review of decisions
 ## Part 11 Miscellaneous
