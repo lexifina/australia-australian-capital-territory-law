@@ -89,7 +89,7 @@
 ## Part 4.4 Investigation of complaints
 ## Part 4.5 Decision of council
 ## Part 4.6 General procedural matters about complaints
-## Part 4.7 Proceedings in disciplinary tribunal
+## Part 4.7 Disciplinary action
 ## Part 4.8 Compensation
 ## Part 4.9 Publicising disciplinary action
 ## Part 4.10 Inter-jurisdictional provisions—ch 4
@@ -114,7 +114,6 @@
 ## Part 6.5 Miscellaneous—ch 6
 # Chapter 7 Regulatory authorities
 ## Part 7.1 Admissions board
-## Part 7.2 Disciplinary tribunal
 # Chapter 8 Professional bodies
 ## Part 8.1 Bar council
 ## Part 8.2 Law society and law society council
