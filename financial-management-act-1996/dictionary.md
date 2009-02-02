@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · Act
 · administrative unit
 · auditor-general
@@ -14,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Minister (see s 162)
 · must (see s 146)
 · person
+· reviewable decision notice
 · Self-Government Act
 · territory-owned corporation.
 applicable governmental policies, for a territory authority, for part 9 (Governance of territory authorities)—see section 103.
