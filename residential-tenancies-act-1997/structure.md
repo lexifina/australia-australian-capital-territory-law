@@ -21,18 +21,11 @@
 ## Part 5 Rental rate increases
 ## Part 5A Occupancy agreements
 ## Part 6 Resolution of residential tenancy and occupancy disputes
-### Division 6.1A Important concepts
-### Division 6.1 Action by registrar
-### Division 6.2 Applications
-### Division 6.3 Preliminary conferences
-### Division 6.4 Tribunal hearings
-### Division 6.5 Procedural powers and orders of tribunal
+### Division 6.1 Important concepts
+### Division 6.2 Action by registrar
+### Division 6.3 Jurisdiction of ACAT—this Act, standard residential tenancy terms and standard occupancy terms
+### Division 6.4 Applications to ACAT
+### Division 6.5 Powers and decisions of ACAT
+### Division 6.6 Enforcement of ACAT orders
 ## Part 6A Tenancy databases
-## Part 6B Enforcement
-## Part 7 Residential Tenancies Tribunal
-### Division 7.1 Jurisdiction
-### Division 7.2 Referees
-### Division 7.3 Registrar and deputy registrars
-### Division 7.4 Other matters about tribunal
-## Part 8 Referrals and appeals to Supreme Court
 ## Part 9 Miscellaneous
