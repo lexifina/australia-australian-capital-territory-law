@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · contravene
 · exercise
 · function
@@ -10,6 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · must (see s 146)
 · national land
 · planning and land authority
+· reviewable decision notice
 · Territory land
 · under.
 actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
@@ -51,6 +53,7 @@ class, of building, means that class of building under the building code.
 complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 completion day, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 cost, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 86.
+decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 development—see the Planning and Development Act 2007, section 7.
 development approval means development approval under the Planning and Development Act 2007, chapter 7.
 disturbs friable asbestos—see section 10B.
@@ -101,6 +104,7 @@ removal, of a building—
   (b) includes the demolition of part of the building removed or proposed to be removed.
 residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 residential building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 site work—see section 7A.
 special actuary, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 specialist building work—see section 9.

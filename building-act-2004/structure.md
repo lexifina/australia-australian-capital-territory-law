@@ -23,4 +23,6 @@
 ### Division 8.1 Building code and recognised standards
 ### Division 8.2 Asbestos code
 ## Part 9 Limitation of liability
+## Part 9A Notification and review of decisions
+## Part 9B Powers of ACAT
 ## Part 10 Miscellaneous
