@@ -2,7 +2,7 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· AAT
+· ACAT
 · administrative unit
 · bank
 · chief police officer
@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · nurse
 · penalty unit (see s 133)
 · person
+· reviewable decision notice
 · State
 · territory authority
 · veterinary surgeon.
@@ -157,7 +158,7 @@ registered principal—
 registered user, of a firearm, means an individual recorded in the register as a user of the firearm.
 registrar means the Registrar of Firearms appointed under section 33.
 responsible person, for a child or young person, means a person with parental responsibility for the child or young person.
-reviewable decision, for part 16 (Review of decisions)—see section 258.
+reviewable decision, for part 16 (Notification and review of decisions)—see section 258.
 security organisation—see section 108 (2).
 sell includes—
   (a) sell by wholesale, retail, auction or tender; and
@@ -171,7 +172,7 @@ starting pistol means a firearm the purpose of which is for use in the starting 
 successfully appealed against—an order is successfully appealed against if an appeal against the making of the order is upheld.
 temporarily store—a firearm is temporarily stored by a licensed firearms dealer if—
   (a) for a person who has possession of the firearm because of the death of the individual authorised to possess it—the dealer stores the firearm until the person is authorised, under this Act or another territory law, to otherwise dispose of it; or
-  (b) for a person who inherits the firearm and applies for a licence or permit in relation to the firearm—the dealer stores the firearm until the application is finally decided (including any application to the AAT for review of the decision and any subsequent appeal).
+  (b) for a person who inherits the firearm and applies for a licence or permit in relation to the firearm—the dealer stores the firearm until the application is finally decided (including any application to the ACAT for review of the decision and any subsequent appeal).
 temporary international firearms licence—see section 46.
 unregulated firearm—see section 24.
 use, in relation to a firearm, means fire the firearm or hold it so as to cause a reasonable belief that it will be fired, whether or not it is capable of being fired.
