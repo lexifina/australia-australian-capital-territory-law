@@ -8,8 +8,8 @@
 ### Division 3.5 Suitability and prerequisites for issuing licences
 ### Division 3.6 Decisions on applications
 ### Division 3.7 Form and term of licences
-### Division 3.8 Suspension and cancellation of licences
+### Division 3.8 Occupational discipline—licensees
 ### Division 3.9 Register
-### Division 3.10 Review of decisions
+### Division 3.10 Notification and review of decisions
 ## Part 4 Other offences
 ## Part 5 Miscellaneous provisions
