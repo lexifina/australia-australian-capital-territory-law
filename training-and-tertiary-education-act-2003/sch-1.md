@@ -1,6 +1,6 @@
 # Schedule 1 Reviewable decisions
-(see s 104)
-column 1 item | column 2 Act provision | column 3 reviewable decision | column 4 person to be notified
+(see pt 6.2)
+column 1 item | column 2 Act provision | column 3 reviewable decision | column 4 entity
 1 | 33 (1) (Decision about registration as RTO) | refusing to register training organisation | applicant for registration
 2 | 33 (6) | registering training organisation subject to conditions | applicant for registration
 3 | 37 (1) (Amending registration on application by RTO) | refusing to amend registered details of RTO | RTO

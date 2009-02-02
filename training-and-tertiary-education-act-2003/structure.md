@@ -25,5 +25,5 @@
 ## Part 5.4 Foreign universities in the ACT
 # Chapter 6 General
 ## Part 6.1 Visits to premises
-## Part 6.2 Review of decisions
+## Part 6.2 Notification and review of decisions
 ## Part 6.3 Other provisions

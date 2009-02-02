@@ -2,12 +2,14 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · corporation
 · exercise
 · function
 · may (see s 146)
 · must (see s 146)
-· person.
+· person
+· reviewable decision notice.
 accredited course means a course that—
   (a) leads to a qualification under the AQF; and
   (b) for a vocational education and training course—is registered as an accredited course under chapter 3; and
@@ -68,6 +70,7 @@ registered training organisation means a person whose details as a training orga
 registering body means the council or a body equivalent to the council in another jurisdiction that is responsible for the registration of training organisations under the corresponding law of that jurisdiction.
 registration includes renewed registration.
 restriction means a restriction on all or some of the operations of an RTO, higher education provider or university, or a prohibition.
+reviewable decision, for part 6.2 (Notification and review of decisions)—see section 104.
 RTO means a registered training organisation.
 RTO standards means the standards for registered training organisations and, to the extent that they are relevant to an RTO, the standards for State and Territory registering and course accreditation bodies.
 scope of registration—
