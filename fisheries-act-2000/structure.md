@@ -19,5 +19,5 @@
 ### Division 8.2 General offences
 ### Division 8.3 Offences in relation to fishing gear
 ### Division 8.4 Protection of aquatic habitats
-## Part 10 Review of decisions
+## Part 10 Notification and review of decisions
 ## Part 11 Miscellaneous

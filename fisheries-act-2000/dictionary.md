@@ -2,7 +2,7 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · conservator of flora and fauna
 · contravene
 · disallowable instrument
@@ -11,7 +11,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · magistrate
 · Magistrates Court
 · penalty unit (see s 133)
-· power.
+· power
+· reviewable decision notice.
 abalone means blacklip and greenlip abalone and includes all other species of abalone.
 aquaculture means—
   (a) cultivating fish or marine vegetation for harvesting the fish or vegetation or their progeny for sale; or
@@ -68,6 +69,7 @@ receive fish, means receive fish from someone else, whether by purchase or other
   (b) transportation.
 register means the register kept under section 35.
 registered means registered under this Act.
+reviewable decision, for part 10 (Notification and review of decisions)—see section 107.
 rock lobster means an animal of the genus Jasus.
 scientific licence means a licence mentioned in section 21.
 sell includes—
