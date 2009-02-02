@@ -2,6 +2,7 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · administrative unit
 · civil partner
 · civil partnership
@@ -12,6 +13,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · fail
 · function
 · penalty unit
+· reviewable decision notice
 · State
 · writing.
 Australian citizen means a person who is an Australian citizen under the Australian Citizenship Act 1948 (Cwlth).
