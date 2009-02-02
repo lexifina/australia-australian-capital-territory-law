@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
 · authorised deposit-taking institution (or ADI)
 · business day
@@ -24,10 +25,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · may (see s 146)
 · must (see s 146)
 · power
+· reviewable decision notice
 · State
 · Supreme Court
 · territory law
 · under.
+ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
 admissions board means the Legal Practitioners Admissions Board established by section 558.
 admission rules means rules relating to the admission of lawyers and associated matters made under the Court Procedures Act 2004 for part 2.3 (Admission of local lawyers), and includes any forms approved under that Act for those rules or that part.
 admission to the legal profession means admission by a Supreme Court as—
@@ -101,7 +104,7 @@ corresponding authority means—
     (i) an entity with corresponding functions under a corresponding law; and
     (ii) without limiting subparagraph (i), if the functions of the local authority relate to local lawyers or local legal practitioners generally or are limited to any particular class of local lawyers or local legal practitioners—an entity having corresponding functions under a corresponding law, whether or not they relate to interstate lawyers or interstate legal practitioners generally or are limited to any particular class of interstate lawyers or interstate legal practitioners.
 corresponding disciplinary body means—
-  (a) a court or tribunal with functions under a corresponding law that correspond to any of the functions of the disciplinary tribunal; or
+  (a) a court or tribunal with functions under a corresponding law that correspond to any of the functions of the ACAT under this Act; or
   (b) the Supreme Court of another jurisdiction exercising—
     (i) its inherent jurisdiction or powers in relation to the control and discipline of any Australian lawyer; or
     (ii) its jurisdiction or powers to make orders under a corresponding law of the other jurisdiction in relation to any Australian lawyer.
@@ -120,8 +123,6 @@ default, in relation to a law practice, for part 3.4 (Fidelity cover)—see sect
 director, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
 disbursements, for part 3.2 (Costs disclosure and assessment)—see section 261.
 disciplinary action, for part 4.9 (Publicising disciplinary action)—see section 447.
-disciplinary tribunal means the Legal Practitioners Disciplinary Tribunal established under section 563.
-disciplinary tribunal trust account—see section 574 (2).
 dishonesty, for part 3.4 (Fidelity cover)—see section 316.
 disqualified person means any of the following people:
   (a) a person whose name has been removed from an Australian roll (whether or not at the request of the person) and who has not later been admitted to the legal profession under this Act or a corresponding law;
@@ -170,7 +171,6 @@ interstate trust account means a trust account kept under a corresponding law.
 investigation, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
 investigator, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
 itemised bill, for part 3.2 (Costs disclosure and review)—see section 261.
-judicial member, of the disciplinary tribunal—see section 566 (3).
 jurisdiction means a State or Territory.
 law firm means a partnership consisting only of—
   (a) Australian legal practitioners; or
@@ -214,7 +214,6 @@ mortgage financing means facilitating a loan secured or intended to be secured b
 but does not include providing legal advice or preparing an instrument for the loan.
 multidisciplinary partnership—see section 134.
 non-associated third party payer, for part 3.2—see section 261A.
-non-judicial member, of the disciplinary tribunal—see section 572 (2).
 occupier, for part 6.3 (Entry and search of premises)—see section 529.
 offence, for part 6.3 (Entry and search of premises)—see section 529.
 officer, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
@@ -257,6 +256,7 @@ and includes the law society council in relation to the exercise of a function b
 relevant jurisdiction, for part 3.4 (Fidelity cover)—see section 327.
 responsible entity, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 restricted practising certificate means a local practising certificate or interstate practising certificate that is not an unrestricted practising certificate or barrister practising certificate.
+reviewable decision, for chapter 9 (General provisions)—see section 598.
 run-out mortgage, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 scale of costs, for part 3.2 (Costs disclosure and assessment)—see section 261.
 search warrant, for part 6.3 (Entry and search of premises)—see section 529.
