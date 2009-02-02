@@ -6,4 +6,5 @@
 ### Division 5.1 Lighting rules
 ### Division 5.2 Rules of the water
 ### Division 5.3 General
-## Part 6 Miscellaneous
+## Part 6 Notification and review of decisions
+## Part 7 Miscellaneous

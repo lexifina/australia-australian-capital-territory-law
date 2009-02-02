@@ -2,6 +2,7 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · contravene
 · doctor
 · entity
@@ -10,6 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · night
 · penalty unit (see s 133)
 · public employee
+· reviewable decision notice
 · Territory land
 · the Territory.
 associated work includes a wharf or jetty, owned by the Territory or the Commonwealth, erected in a lake area.
@@ -36,6 +38,7 @@ operator, for division 5.1 (Lighting rules)—see section 36.
 owner, of land, includes anyone with an interest in the land.
 power boat means a boat propelled by mechanical power, and includes a boat under both power and sail.
 prohibited area means a part of a lake declared by the Minister under section 21 to be a prohibited area.
+reviewable decision, for part 6 (Notification and review of decisions)—see section 51.
 sports club means an entity established for sporting or athletic purposes.
 under way—a boat is under way unless it is anchored, moored, aground, or made fast to the shore or a jetty.
 visible, for a light, means visible on a dark night with a clear atmosphere.
