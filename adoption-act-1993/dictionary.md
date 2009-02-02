@@ -1,8 +1,8 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · administrative unit
 · chief executive (see s 163)
 · contravene
@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · instrument (see s 14)
 · proceeding
+· reviewable decision notice
 · Supreme Court.
 Aboriginal child means a child at least 1 of whose parents is an Aborigine.
 Aborigine means a person who—
@@ -57,4 +58,5 @@ responsible person, in relation to an Aboriginal child, means—
   (a) a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the child is a member, has responsibility for, or an interest in, the welfare of the child; or
   (b) if the child is not in the custody of any person or is in the custody of a person who is not a parent of the child or a member of an Aboriginal or Torres Strait Island community—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which a parent of the child is or was a member, has responsibility for, or an interest in, the welfare of the child.
 reunion information register means the register established under section 80.
+reviewable decision, for part 7A (Notification and review of decisions)—see section 102.
 service means the adoption information service maintained under section 77.
