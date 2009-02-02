@@ -1,13 +1,14 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · Deputy Speaker
 · exercise
 · function
 · Legislative Assembly
 · remuneration tribunal
+· reviewable decision
 · Self-Government Act
 · Speaker.
 board, for chapter 2 (Defined benefits scheme)—see section 3C.
@@ -20,7 +21,10 @@ elected, in relation to a member, includes a person declared elected under eithe
   (b) section 195 (1) (Assembly nominees).
 eligible choice fund means an eligible choice fund under the Superannuation Guarantee (Administration) Act 1992 (Cwlth), section 32D.
 general election means a general election of members.
+internally reviewable decision, for part 2.4 (Notification and review of decisions)—see section 19.
+internal review notice, for part 2.4 (Notification and review of decisions)—see section 19.
 invalidity, for chapter 2 (Defined benefits scheme)—see section 3C.
 member means a member of the Legislative Assembly.
 relevant period of service, for chapter 2 (Defined benefits scheme)—see section 3C.
+reviewable decision, for part 2.4 (Notification and review of decisions)—see section 19.
 salary, of a member, means the member’s salary including any additional salary but not including allowances.
