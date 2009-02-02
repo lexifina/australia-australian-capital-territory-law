@@ -1,13 +1,15 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · chief police officer
 · entity
 · exercise
 · function
 · instrument
 · public employee
+· reviewable decision notice
 · statutory declaration
 · the Territory.
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
@@ -24,8 +26,9 @@ authorised person means—
 authority—see road transport authority.
 camera-detected offence means an offence detected by an approved camera detection device.
 credit card includes a debit card.
+CTP arbitrator, for part 7 (Notification and review of decisions)—see section 90.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
-decision-maker, in part 7 (Review of decisions under road transport legislation)—see section 91 (Notice of decisions to be given to affected people).
+decision-maker, for part 7 (Notification and review of decisions)—see section 90.
 drive a vehicle includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
   (b) if the vehicle is a trailer—draw or tow the vehicle; and
@@ -43,7 +46,9 @@ infringement notice offence means an offence prescribed by regulation as an infr
 infringement notice penalty, for a person for an infringement notice offence, means—
   (a) the amount prescribed by regulation as the penalty payable by the person for the offence under an infringement notice for the offence; or
   (b) if a reminder notice has also been served on the person for the offence—the total of the amount mentioned in paragraph (a) and the amount prescribed by regulation as the amount payable by the person for the cost of serving the reminder notice.
-internal reviewer—see section 92 (2) (Who may apply for internal review of decisions).
+internally reviewable decision, for part 7 (Notification and review of decisions)—see section 90.
+internal reviewer, for part 7 (Notification and review of decisions)—see section 92A.
+internal review notice for part 7 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
 known user declaration means a statutory declaration mentioned in section 39.
 learner licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -58,7 +63,7 @@ registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, di
 reminder notice, for part 3 (Infringement notices for certain offences), means a notice under section 33.
 responsible person, for a vehicle—see section 10 and section 11.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-reviewable decision—see section 90 (1) (Application of pt 7 etc).
+reviewable decision, for part 7 (Notification and review of decisions)—see section 90A (1).
 revocation notice—see section 86 (1) (Revocation of suspension of driver licence, registration etc).
 ride, for the rider of a motorbike or an animal-drawn vehicle, includes be in control of the vehicle.
 rider, of a vehicle that can be ridden, means the person who is riding the vehicle.
