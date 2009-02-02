@@ -9,8 +9,8 @@
 ## Part 6 X 18+ films
 ### Division 6.1 Preliminary
 ### Division 6.2 X 18+ film licences
-### Division 6.3 Review of decisions
 ### Division 6.4 Enforcement
 ### Division 6.5 Seized films
 ## Part 7 Exemptions
+## Part 7A Notification and review of decisions
 ## Part 8 Miscellaneous

@@ -2,11 +2,13 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+ACAT
 adult
 chief executive (see s 163)
 exercise
 function
 individual
+reviewable decision notice
 the Territory.
 acceptable proof of age, in relation to a person, means documentary evidence that might reasonably be accepted as applying to the person and as showing that the person is an adult.
 advertisement—see the Commonwealth Act, section 5 (Definitions).
@@ -41,6 +43,7 @@ public place means any place which the public is entitled to use or which is ope
 publish—see the Commonwealth Act, section 5 (Definitions).
 registrar, for part 6 (X 18+ films)—see section 54A.
 restricted publications area means any premises, or part of a premises, constructed and managed in accordance with section 61.
+reviewable decision, for part 7A (Notification and review of decisions)—see section 58.
 seized film, for division 6.5 (Seized films)—see section 54Y.
 sell means sell or exchange or let on hire, and includes offer or display for sale or exchange or hire, agree to sell, exchange or hire and cause or permit to be sold or exchanged or hired, whether by retail or wholesale.
 submittable publication—see the Commonwealth Act, section 5 (Definitions).
