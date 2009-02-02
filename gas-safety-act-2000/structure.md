@@ -12,4 +12,5 @@
 ### Division 6.1 General
 ### Division 6.2 Inspectors’ powers
 ### Division 6.3 Miscellaneous
+## Part 6A Notification and review of decisions
 ## Part 7 Miscellaneous

@@ -2,7 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · contravene
 · disallowable instrument
 · document
@@ -10,6 +10,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · National Gas (ACT) Law
 · notifiable instrument
 · penalty unit (see s 133)
+· reviewable decision notice
 · State
 · the Territory.
 accredited, in relation to appliance work of a particular kind, means accredited under the regulations for work of that kind.
@@ -65,6 +66,7 @@ relevant supplier, in relation to a serious gas accident, for part 5 (Serious ga
 responsible gasfitter means—
   (a) for gasfitting work (other than gasfitting work on a high pressure consumer piping system)—the gasfitter who does the work, or supervises the work in accordance with section 7 (1); or
   (b) for gasfitting work on a high pressure consumer piping system—the advanced gasfitter who does the work, or supervises the work in accordance with section 7 (2).
+reviewable decision, for part 6A (Notification and review of decisions)—see section 64A.
 sell, for part 4 (Regulation of appliances)—see section 18.
 serious gas accident means an accident in which gas causes, or contributes to—
   (a) the death of a person; or
