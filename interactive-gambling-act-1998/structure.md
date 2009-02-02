@@ -40,5 +40,5 @@
 ### Division 7.14 Advertising
 ### Division 7.15 Complaints and improper behaviour
 ### Division 7.16 Gambling offences
-## Part 8 Administrative review
+## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous

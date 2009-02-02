@@ -2,14 +2,15 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
-· administrative appeals tribunal
 · contravention
 · Corporations Act
 · entity
 · indictable offence
 · individual
 · person
+· reviewable decision notice
 · State
 · the Territory.
 agency agreement means an agreement between a licensed provider and another person—
@@ -65,8 +66,8 @@ player, for a licensed provider, means a person who is—
   (b) provisionally registered under section 17;
 with the provider.
 player’s account—see section 18A.
-primary decision, for part 8 (Administrative review)—see section 140.
+primary decision, for part 8 (Notification and review of decisions)—see section 140.
 public office, for division 7.6 (Gambling records)—see section 103.
 regulated interactive gambling equipment means gambling equipment declared by the regulations to be regulated interactive gambling equipment.
 related agreement, for division 7.9 (Ancillary and related agreements)—see section 112.
-reviewable decision, for part 8 (Administrative review)—see section 140.
+reviewable decision, for part 8 (Notification and review of decisions)—see section 140.
