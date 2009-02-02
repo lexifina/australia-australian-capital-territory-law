@@ -11,4 +11,5 @@
 ### Division 5.1 The tribunal
 ### Division 5.2 Hearing of appeals
 ## Part 5A Jockeys accident insurance
-## Part 6 Miscellaneous
+## Part 6 Notification and review of decisions
+## Part 7 Miscellaneous

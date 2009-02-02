@@ -2,10 +2,12 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · entity
 · Legislative Assembly
 · Minister (see s 162)
 · penalty unit (see s 133)
+· reviewable decision notice
 · sitting day.
 approved rules means—
   (a) in relation to the racing club—the rules of thoroughbred racing; and
@@ -39,6 +41,7 @@ race means—
 race meeting means an event at which races are conducted.
 racing club means the Australian Capital Territory racing club Inc. referred to in section 15.
 registrar means the registrar of the tribunal appointed under section 46.
+reviewable decision, for part 6 (Notification and review of decisions)—see section 62.
 rules of greyhound racing means the rules made under section 31.
 rules of harness racing means the rules made under section 25.
 rules of the tribunal means the rules of procedure made under section 45.
