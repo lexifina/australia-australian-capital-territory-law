@@ -1,9 +1,9 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACAT
 · ACT
-· administrative appeals tribunal
 · appoint
 · chief executive (see s 161)
 · child
@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · fail
 · financial year
 · function
+· reviewable decision notice
 · State.
 appointed member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
@@ -52,7 +53,9 @@ government school means—
 half-year, for part 3.4 (School boards of government schools)—see section 37.
 home education—see section 129.
 in-principle approval—see section 83 (Applications for in-principle approval for proposed registration).
-internal-reviewer—see section 142 (Who may apply for internal review of decisions).
+internally reviewable decision, for part 6.1 (Notification and review of decisions)—see section 140.
+internal reviewer for part 6.1 (Notification and review of decisions)—see section 140.
+internal review notice, for part 6.1 (Notification and review of decisions)—see section 140.
 money, for part 3.4 (School boards of government schools)—see section 37.
 non-government school means a registered non-government school.
 parent—see section 6.
@@ -66,7 +69,7 @@ registered non-government school means a school that is registered or provisiona
 register of enrolments and attendances, in relation to a person, means the register of enrolments and attendances kept by the person under section 32 (Register of enrolments and attendances for government schools) or section 99 (Register of enrolments and attendances for non-government schools).
 register of non-government schools means the register kept by the registrar under section 79.
 registrar means the Registrar of Non-Government Schools.
-reviewable decision—see section 140.
+reviewable decision, for part 6.1 (Notification and review of decisions)—see section 140.
 school—
   (a) except for chapter 2, part 3.4, chapter 4 and part 6.2—means a school or school-related institution established under section 20 (Establishing government schools etc); and
   (b) for chapter 2 (School enrolment and attendance) and part 6.2 (Other provisions)—means a government school or non-government school; and
