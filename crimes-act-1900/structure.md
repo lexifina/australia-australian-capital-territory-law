@@ -25,7 +25,7 @@
 ### Division 13.2 Unfitness to plead
 ### Division 13.3 Supreme Court—special verdict of not guilty because of mental impairment
 ### Division 13.4 Magistrates Court—finding of not guilty because of mental impairment
-### Division 13.5 Referral of mentally impaired people to tribunal after conviction
+### Division 13.5 Referring people with mental impairment to ACAT after conviction
 ### Division 13.6 Summary proceedings against mentally impaired people
 ## Part 16 Proceedings after sentence
 ## Part 17 Offences punishable summarily and summary procedure generally
