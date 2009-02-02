@@ -2,7 +2,7 @@
 (see s 5)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· AAT
+· ACAT
 · ACT
 · chief executive (see s 163)
 · doctor
@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · OH&S commissioner
 · public servant
+· reviewable decision notice
 · territory law
 · the Territory
 · under.
@@ -59,7 +60,7 @@ radiation source—see section 9 (1).
 radioactive material—see section 9 (5).
 registered owner, of a regulated radiation source—see section 27 (2).
 regulated radiation source—see section 10.
-reviewable decisions—see section 111.
+reviewable decision, for part 7 (Notification and review of decisions)—see section 111.
 safety duty—see section 52.
 serious harm, to a person—see the Criminal Code, dictionary.
 use a radiation source includes—
