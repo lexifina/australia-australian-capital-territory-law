@@ -23,5 +23,5 @@
 ### Division 12.1 General
 ### Division 12.2 Termination process
 ## Part 13 Miscellaneous
-### Division 13.1 Review of decisions
+### Division 13.1 Notification and review of decisions
 ### Division 13.2 Other matters

@@ -2,9 +2,10 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · function
 · planning and land authority
+· reviewable decision notice
 · Supreme Court
 · the Territory.
 administrative fund means a fund established by a body corporate to meet recurrent and capital expenditure of the body corporate.
@@ -33,6 +34,7 @@ ordinary resolution, of a body corporate, means a resolution passed at a properl
 owner, of a lot in a community title scheme, means the person who is (or is entitled to be) the registered owner of the lot, and, if 2 or more people are the registered owners (or are entitled to be the registered owners) of the lot, includes each of them.
 plan means a community title master plan.
 prospective owner, of a lot in a community title scheme, means a person who has entered into a contract to buy an existing or future lot in the scheme.
+reviewable decision, for division 13.1 (Notification and review of decisions)—see section 93.
 road—see the Road Transport (General) Act 1999, dictionary.
 schedule lot entitlement, for a lot in a community title scheme, means the number allocated to the lot in the lot entitlement schedule for the scheme.
 scheme—
