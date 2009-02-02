@@ -2,12 +2,13 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· AAT
+· ACAT
 · chief police officer
 · found guilty
 · maximum penalty
 · Minister (see s 162)
 · person
+· reviewable decision notice
 · veterinary surgeon.
 animal means—
   (a) a live member of a vertebrate species, including—
@@ -96,7 +97,7 @@ private trapping permit means a permit granted under section 64 (Decision about 
 prohibited animal, for part 5 (Circuses and travelling zoos)—see section 51.
 regulatory body, for part 6A (Regulatory action)—see section 73A.
 research authorisation means an authorisation granted under section 38 (Decision about authorisation application) to conduct a program of research in relation to licensed premises.
-reviewable decision, for part 8 (Review of decisions)—see section 107.
+reviewable decision, for part 8 (Notification and review of decisions)—see section 107.
 steel-jawed trap means an animal trap fitted with metal jaws, a pressure plate and a spring-operated mechanism, designed so that the metal jaws close against each other when the trap is activated by the application of weight to the pressure plate.
 teaching authorisation means an authorisation granted under section 38 (Decision about authorisation application) to conduct a program of teaching in relation to licensed premises.
 trapping permit means a commercial trapping permit or private trapping permit.

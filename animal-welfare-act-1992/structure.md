@@ -26,7 +26,7 @@
 ### Division 7.9 Compensation for animal injury and death
 ### Division 7.10 Evidence
 ### Division 7.11 Court orders and corporate penalties
-## Part 8 Review of decisions
+## Part 8 Notification and review of decisions
 ## Part 9 Animal welfare advisory committee
 ## Part 10 Miscellaneous
 ## Part 11 Transitional

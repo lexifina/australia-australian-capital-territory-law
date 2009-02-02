@@ -1,36 +1,31 @@
 # Schedule 1 Reviewable decisions
-(see s 107)
-## Part 1.1 Authority’s decisions
-column 1 item | column 2 Act provision | column 3 reviewable decision
-1 | 27 (1) (a) and 30 | granting or renewing a licence for a period of less than 3 years
-2 | 27 (1) (b) | refusing to grant or renew a licence
-3 | 28 (b) | putting a condition on a licence
-4 | 34 (1) | amending a licence
-5 | 34 (1) | amending a licence in a way other than the way applied for
-6 | 34 (1) | refusing to amend a licence
-7 | 49B (3) | ending the application of s 49B (1) to a researcher
-8 | 55 (1) (b) | refusing to grant or renew a circus or travelling zoo permit
-9 | 56 (b) | putting a condition on a circus or travelling zoo permit
-10 | 59A (1) | amending a circus or travelling zoo permit
-11 | 59A (1) | amending a circus or travelling zoo permit in a way other than the way applied for
-12 | 59A (1) | refusing to amend a circus or travelling zoo permit
-13 | 64 (1) (a) and 67 | granting or renewing a trapping permit for a period of less than 3 years
-14 | 64 (1) (b) | refusing to grant or renew a trapping permit
-15 | 65 (b) | putting a condition on a trapping permit
-16 | 71 (1) | amending a trapping permit
-17 | 71 (1) | amending a trapping permit in a way other than the way applied for
-18 | 71 (1) | refusing to amend a trapping permit
-19 | 73D | taking regulatory action
-20 | 73E | suspending an approval immediately
-21 | 95 (2) (a) | approving a claim for compensation for a particular amount
-22 | 95 (2) (b) | refusing to approve a claim for compensation
-## Part 1.2 Animal ethics committee’s decisions
-column 1 item | column 2 Act provision | column 3 reviewable decision
-1 | 38 (1) (a) and 41 | granting or renewing an authorisation for a period of less than 3 years
-2 | 38 (1) (b) | refusing to grant or renew an authorisation
-3 | 39 (b) | putting a condition on an authorisation
-4 | 46 (1) | amending an authorisation
-5 | 46 (1) | amending an authorisation in a way other than the way applied for
-6 | 46 (1) | refusing to amend an authorisation
-7 | 73D | taking regulatory action
-8 | 73E | suspending an authorisation immediately
+(see pt 8)
+column 1 item | column 2 section | column 3 decision | column 4 entity
+1 | 27 (1) (a) and 30 | grant or renew licence for period less than 3 years | applicant for licence or renewal
+2 | 27 (1) (b) | refuse to grant or renew licence | applicant for licence or renewal
+3 | 28 (b) | put condition on licence | licensee
+4 | 34 (1) | amend licence | licensee
+5 | 34 (1) | amend licence in way other than the way applied for | applicant for amendment
+6 | 34 (1) | refuse to amend licence | applicant for amendment
+7 | 38 (1) (a) and 41 | grant or renew authorisation for period less than 3 years | applicant for authorisation or renewal
+8 | 38 (1) (b) | refuse to grant or renew authorisation | applicant for authorisation or renewal
+9 | 39 (b) | put condition on authorisation | entity that holds authorisation
+10 | 46 (1) | amend authorisation | entity that holds authorisation
+11 | 46 (1) | amend authorisation in way other than way applied for | applicant for amendment
+12 | 46 (1) | refuse to amend authorisation | applicant for amendment
+13 | 49B (3) | end application of s 49B (1) to researcher | interstate researcher
+14 | 55 (1) (b) | refuse to grant or renew circus or travelling zoo permit | applicant for permit or renewal
+15 | 56 (b) | put condition on circus or travelling zoo permit | permit holder
+16 | 59A (1) | amend circus or travelling zoo permit | permit holder
+17 | 59A (1) | amend circus or travelling zoo permit in way other than way applied for | applicant for amendment
+18 | 59A (1) | refuse to amend circus or travelling zoo permit | applicant for amendment
+19 | 64 (1) (a) and 67 | grant or renew trapping permit for period less than 3 years | applicant for permit or renewal
+20 | 64 (1) (b) | refuse to grant or renew trapping permit | applicant for permit or renewal
+21 | 65 (b) | put condition on trapping permit | permit holder
+22 | 71 (1) | amend trapping permit | permit holder
+23 | 71 (1) | amend trapping permit in way other than way applied for | applicant for amendment
+24 | 71 (1) | refuse to amend trapping permit | applicant for amendment
+25 | 73D | take regulatory action | approved person against whom action taken
+26 | 73E | suspend approval immediately | approved person whose approval suspended
+27 | 95 (2) (a) | approve claim for compensation for particular amount | claimant for compensation
+28 | 95 (2) (b) | refuse to approve claim for compensation | claimant for compensation
