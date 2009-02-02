@@ -2,11 +2,13 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · contravene
 · exercise
 · financial year
 · function
 · public servant
+· reviewable decision notice
 · State.
 at premises includes in or on the premises.
 authorised person means an authorised person under section 46.
@@ -39,7 +41,7 @@ permit means a permit to travel stock.
 register means a register of stock marks kept under section 13.
 registered mark means a mark registered under section 16.
 registered owner, of a mark—see section 17.
-reviewable decision—see section 65.
+reviewable decision, for part 7 (Notification and review of decisions)—see section 65.
 road means any road, street, lane, thoroughfare or footpath open to, or used by, the public.
 small stock means a sheep, goat, pig, or any other animal declared by regulation to be small stock.
 stock means large stock or small stock.

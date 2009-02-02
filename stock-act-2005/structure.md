@@ -10,5 +10,5 @@
 ### Division 6.4 Search warrants
 ### Division 6.5 Return and forfeiture of things seized
 ### Division 6.6 Miscellaneous
-## Part 7 Review of decisions
+## Part 7 Notification and review of decisions
 ## Part 8 Miscellaneous
