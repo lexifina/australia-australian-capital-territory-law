@@ -2,12 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · chief executive (see s 163)
 · contravene
 · Executive
 · fail
 · function
 · public servant
+· reviewable decision notice
 · the Territory.
 authorised person means an authorised person appointed under section 14.
 commercial waste means—
