@@ -8,4 +8,5 @@
 ### Division 4.2 Inspectors
 ### Division 4.3 Powers of inspectors on entry to premises
 ### Division 4.4 Miscellaneous
-## Part 5 Miscellaneous
+## Part 5 Notification and review of decisions
+## Part 5A Miscellaneous

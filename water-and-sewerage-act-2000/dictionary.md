@@ -2,7 +2,7 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · appoint
 · construction occupations registrar
 · disallowable instrument
@@ -11,6 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · function
 · magistrate
 · penalty unit (see s 133)
+· reviewable decision notice
 · the Territory.
 Australian Standard 3500 means the following standards, as in force from time to time:
   (a) AS 3500.1.1;
@@ -49,6 +50,7 @@ reasonably believes, for part 4 (Enforcement)—see section 18.
 responsible utility means—
   (a) in relation to the sewerage network—a utility licensed to provide sewerage services using the network; and
   (b) in relation to the water network—a utility licensed to provide water services using the network.
+reviewable decision, for part 5 (Notification and review of decisions)—see section 44.
 sanitary drain—
   (a) means a pipe, conduit or fitting, or device directly connected to 1 or more of them, that—
     (i) is installed in or on the ground (or partly in and partly on the ground) and is used, or for use, in relation to the drainage of a single building, or the drainage of 2 or more buildings by a combined drainage operation; and
