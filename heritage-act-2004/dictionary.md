@@ -2,6 +2,7 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACAT
 · chief executive
 · chief planning executive
 · conservator of flora and fauna
@@ -11,11 +12,12 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Minister
 · national capital authority
 · planning and land authority
+· reviewable decision notice
 · working day.
 Aboriginal object—see section 9.
 Aboriginal place—see section 9.
 Aboriginal tradition means Aboriginal tradition, observance, custom or belief, including Aboriginal tradition, observance, custom or belief that has evolved or developed since European colonisation of Australia.
-appeal, in relation to a reviewable decision, means an application to the administrative appeals tribunal to review the decision.
+appeal, in relation to a reviewable decision, means an application to the ACAT to review the decision.
 at premises includes on the premises.
 authorised person means a person appointed as an authorised person under section 78.
 cancellation, for part 7 (Cancellation of registration)—see section 50.
@@ -43,7 +45,7 @@ heritage significance criteria—see section 10.
 information discovery order—see section 95.
 interested person means—
   (a) for this Act generally—see section 13; and
-  (b) for part 17 (AAT review of decisions)—see section 111.
+  (b) for part 17 (Notification and review of decisions)—see section 112.
 nomination means nomination of a place or object under section 28 for provisional registration.
 nomination details, for a place or object—see section 28 (3).
 object—see section 8 (2).
@@ -65,4 +67,4 @@ registered proprietor, of a lease, means the person registered under the Land Ti
 registration details—see section 12.
 representative Aboriginal organisations—see section 14.
 restricted information means information restricted under section 54 (Declaration of restricted information).
-reviewable decision—see section 112.
+reviewable decision—see section 111.

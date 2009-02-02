@@ -22,5 +22,5 @@
 ### Division 14.6 Miscellaneous
 ## Part 15 Heritage agreements
 ## Part 16 Heritage and public authorities
-## Part 17 AAT review of decisions
+## Part 17 Notification and review of decisions
 ## Part 18 Miscellaneous
