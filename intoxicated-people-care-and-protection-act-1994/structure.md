@@ -6,5 +6,5 @@
 ### Division 3.3 Suspension and cancellation of licences
 ## Part 4 Inspection
 ## Part 5 Standards
-## Part 6 Appeals to administrative appeals tribunal
+## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous

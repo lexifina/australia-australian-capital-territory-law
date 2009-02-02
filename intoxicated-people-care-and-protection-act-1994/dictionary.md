@@ -1,10 +1,11 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · adult
 · police officer
+· reviewable decision notice
 · under.
 carer means a person who works with intoxicated people at a licensed place.
 caring service means a service that provides immediate, short-term care for intoxicated people, but does not include a service provided at a hospital or other medical facility.
@@ -24,5 +25,6 @@ public place means a place to which the public, or a section of the public, has 
 responsible person, in relation to an intoxicated person, includes—
   (a) a relative, guardian or friend of the intoxicated person who is an adult; or
   (b) a lawyer acting on behalf of the intoxicated person.
+reviewable decision, for part 6 (Notification and review of decisions)—see section 34.
 school means a government school (including a pre-school) or non-government school under the Education Act 2004.
 standard means a standard made under section 31.
