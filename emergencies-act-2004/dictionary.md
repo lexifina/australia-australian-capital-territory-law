@@ -2,6 +2,7 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACAT
 · ACT
 · administrative unit
 · appoint
@@ -16,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · give
 · Minister (see s 162)
 · planning and land authority
+· reviewable decision notice
 · statutory office-holder
 · territory-owned corporation
 · the Territory
@@ -53,7 +55,6 @@ contributor, to a health fund, for schedule 1 (Ambulance levy)—see schedule 1,
 cooperative arrangement—see section 176 (Cooperative arrangements with Commonwealth, State or overseas agencies).
 declared state of alert means a state of alert declared under section 151 (Declaration of state of alert).
 declared state of emergency means a state of emergency declared under section 156 (Declaration of state of emergency).
-eligible person, for chapter 9 (Administrative review of decisions)—see section 183.
 emergency means an actual or imminent event that requires a significant and coordinated response.
 Examples of events
 1 fire, flood, storm or earthquake
@@ -125,7 +126,7 @@ reference month, for schedule 1 (Ambulance levy)—see schedule 1, section 1.3.
 rescue includes the release or removal to a safe place of any person, animal or property trapped or endangered because of fire, accident, hazardous material incident, explosion, natural disaster or similar event.
 rescue services, for part 4.6 (Other approved providers)—see section 60.
 response operation, for part 4.6 (Other approved providers)—see section 60.
-reviewable decision, for chapter 9 (Administrative review of decisions)—see section 183.
+reviewable decision, for chapter 9 (Notification and review of decisions)—see section 185.
 rural area—see section 65 (4).
 SES—see section 56.
 single rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.

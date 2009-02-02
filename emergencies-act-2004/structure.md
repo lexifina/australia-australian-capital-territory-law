@@ -38,7 +38,7 @@
 ## Part 7.4 Commonwealth, interstate and overseas cooperation
 ## Part 7.5 Emergency relief funds
 # Chapter 8 Volunteers
-# Chapter 9 Administrative review of decisions
+# Chapter 9 Notification and review of decisions
 # Chapter 10 Miscellaneous
 ## Part 10.1 Other offences relating to fires
 ## Part 10.2 Other miscellaneous provisions
