@@ -1,9 +1,9 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
-· administrative appeals tribunal
 · administrative unit
 · adult
 · chief executive (see s 163)
@@ -28,7 +28,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · lawyer
 · legal aid commission
 · magistrate
-· mental health tribunal
 · midwife
 · Minister (see s 162)
 · notifiable instrument (see s 10)
@@ -41,6 +40,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public advocate
 · public employee
 · public servant
+· reviewable decision notice
 · State
 · statutory office holder
 · territory authority
@@ -56,6 +56,7 @@ Aboriginal means a person who—
   (c) is accepted as an Aboriginal by an Aboriginal community.
 Aboriginal and Torres Strait Islander organisation means an organisation whose purpose is to represent the interests of Aboriginal and Torres Strait Islander people.
 abuse, of a child or young person—see section 342.
+ACAT mental health provision—see section 491.
 accredited person—
   (a) in relation to a young detainee, for chapter 6 (Criminal matters—detention places)—see section 137; and
   (b) for a child or young person in therapeutic protection, division 16.3.3—see section 576.
@@ -202,7 +203,6 @@ mail means postal mail.
 mandatory report—see section 356.
 mental dysfunction—see section 530.
 mental health order—see the Mental Health (Treatment and Care) Act 1994, dictionary.
-mental health tribunal provision—see section 491.
 mental illness—see section 530.
 Minister of a State, for part 5.2 (Interstate transfers)—see section 114.
 minor behaviour breach, for chapter 8 (Criminal matters—discipline at detention places)—see section 288.
@@ -289,6 +289,7 @@ residential care service—see section 511
 responsible person, for a childcare service, for chapter 20 (Childcare services)—see section 738.
 review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 reviewable care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 493.
+reviewable decision, for division 24.1.3 (ACAT review)—see section 839.
 review officer—
   (a) for division 8.4.2 (Internal review)—see section 303; and
   (b) for chapter 9 (Criminal matters—conduct of disciplinary reviews)—see section 322.

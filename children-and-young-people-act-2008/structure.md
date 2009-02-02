@@ -115,6 +115,7 @@
 ## Part 14.8 Contact provisions
 ## Part 14.9 Drug use provisions
 ## Part 14.10 Supervision provisions
+## Part 14.11 ACAT mental health provisions
 ## Part 14.12 Specific issues provisions
 ## Part 14.13 Annual review reports—parental responsibility provisions and supervision provisions
 # Chapter 15 Care and protection—chief executive has aspect of parental responsibility
@@ -182,6 +183,7 @@
 ## Part 24.1 Appeals
 ### Division 24.1.1 Appeals generally
 ### Division 24.1.2 Appeals—Care and protection chapters
+### Division 24.1.3 Notification and review of decisions
 # Chapter 25 Information secrecy and sharing
 ## Part 25.1 Application and definitions
 ## Part 25.2 Offence to record or divulge protected information
