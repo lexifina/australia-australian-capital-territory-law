@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -14,11 +14,8 @@ act, for part 5A (Obligations of public authorities), includes fail to act and p
 commission means the human rights commission.
 conduct includes omission.
 court includes the following:
-  (a) the administrative appeals tribunal;
-  (b) the discrimination tribunal;
-  (c) the guardianship tribunal;
-  (d) the mental health tribunal;
-  (e) an entity prescribed under the regulations.
+  (a) the ACAT;
+  (b) an entity prescribed by regulation.
 declaration of incompatibility—see section 32.
 engage in conduct means—
   (a) do an act; or
