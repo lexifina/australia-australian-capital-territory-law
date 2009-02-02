@@ -1,18 +1,23 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · appoint
 · contravene
 · exercise
 · function
 · GST
-· heritage register.
+· heritage register
+· planning and land authority
+· reviewable decision notice.
+ACAT dispute—see section 123.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if that law so provides).
 administration order—see section 140 (Who may apply for an administration order?).
 administrative fund—see section 59 (1).
 administrator, of an owners corporation, means a person who is appointed as the administrator of the corporation under part 9 (Administrators).
 annexed—see section 12A.
+appoint includes engage.
 article, for an owner corporation, means an article of the corporation under section 126.
 attachment, in relation to a building, means—
   (a) an eave, gutter or downpipe; or
@@ -37,6 +42,7 @@ cancellation order—see section 161A (Cancellation orders—Supreme Court power
 class A unit—see section 10.
 class B unit—see section 11.
 common property—see section 13.
+communications officer, for an owners corporation, means the owners corporation communications officer appointed by the owners corporation under section 55H.
 company includes any body corporate.
 contribution means a contribution to a general fund or the sinking fund of an owners corporation.
 corporate register—see section 70.
@@ -90,6 +96,9 @@ Examples of interested nonvoters
 4 For paragraph (b) (ii)—The mortgagee of a unit who was not entitled to vote on the motion authorising the application because the mortgagee did not (or was not entitled to) issue a mortgagee voting notice under section 112.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 interested party, for an administration order—see section 140 (Who may apply for an administration order?).
+internally reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
+internal reviewer, for part 14 (Notification and review of decisions)—see section 174A.
+internal review notice, for part 14 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 lease means—
   (a) for a unit—the lease of the unit under section 33 (2) (Leases of units and common property) or section 171 (2) (New unit lease); or
   (b) for common property—the lease of the common property under section 33 (3) (Leases of units or common property); or
@@ -136,7 +145,7 @@ representative—
   (a) for the owners of a unit owned by 2 or more people (whether as joint tenants or tenants in common)—see section 41 (Multiple owners of units—authorisation of representatives); or
   (b) for a company that is the owner or a part-owner of a unit—see section 43 (Company-owned units—authorisation of representatives); or
   (c) for a mortgagee that has given a mortgagee voting notice to an owners corporation—see section 112 (Voting by mortgagees).
-reviewable decision—see section 173 (Decisions subject to review).
+reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
 sinking fund—see section 61.
 special purpose fund—see section 59 (2).

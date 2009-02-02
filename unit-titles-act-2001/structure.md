@@ -14,6 +14,9 @@
 ### Division 5.1 Establishment and legal status of owners corporation
 ### Division 5.2 Membership and representatives
 ### Division 5.3 General functions
+### Division 5.3B Service contractors
+#### Subdivision 5.3B.1 Service contractor—contract and functions
+#### Subdivision 5.3B.2 Service contractor—protection of contract financier
 ### Division 5.4 Finances of owners corporation
 ### Division 5.5 Information
 ## Part 6 Decision-making by owners corporations
@@ -21,7 +24,7 @@
 ### Division 6.2 General meetings
 ### Division 6.3 Resolutions at general meetings
 ### Division 6.4 Voting at general meetings
-### Division 6.5 Decision-making deadlocks
+### Division 6.5 Dispute resolution
 ## Part 7 Owners corporation articles
 ## Part 8 Insurance
 ## Part 9 Administrators
@@ -37,5 +40,5 @@
 ### Division 11.3 Effects of cancellation
 ## Part 12 Variation of unit leases
 ## Part 13 Expiry and termination of unit leases
-## Part 14 Administrative review
+## Part 14 Notification and review of decisions
 ## Part 15 Miscellaneous
