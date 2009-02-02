@@ -1,6 +1,8 @@
 ## Part 1 Preliminary
 ## Part 2 Court rules and forms
 ## Part 3 Court and tribunal fees
+### Division 3.1 Fees generally
+### Division 3.2 Review of decisions—fees
 ## Part 4 Crown proceedings
 ### Division 4.1 Preliminary
 ### Division 4.2 Proceedings by and against Crown generally
