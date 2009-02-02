@@ -1,13 +1,13 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · Act
 · adult
 · authorised deposit-taking institution
 · business day
 · commissioner for fair trading
-· consumer and trader tribunal
 · corporation
 · Corporations Act
 · entity
@@ -15,6 +15,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · found guilty
 · lawyer
 · month
+· occupational discipline order
+· reviewable decision notice
 · State
 · statutory declaration
 · under.
@@ -22,13 +24,14 @@ account––see section 131.
 ADI business day, for a trust account, for division 7.2 (Trust money and trust accounts)—see section 104.
 administrator, for part 9 (Appointment of administrators)—see section 138.
 agency agreement—see section 100 (No commission or expenses without agency agreement).
-agent means a person who carries on business as—
-  (a) a business agent; or
-  (b) an employment agent; or
-  (c) a real estate agent; or
-  (d) a stock and station agent; or
-  (e) a travel agent.
-agent, for division 3.4 (Disciplinary action against agents)—see section 40.
+agent—
+  (a) means a person who carries on business as—
+    (i) a business agent; or
+    (ii) an employment agent; or
+    (iii) a real estate agent; or
+    (iv) a stock and station agent; or
+    (v) a travel agent; and
+  (b) for division 3.4 (Occupational discipline—agents)—see section 40.
 agents licence means—
   (a) a business agents licence; or
   (b) an employment agents licence; or
@@ -75,8 +78,8 @@ family member, of a person, means—
   (d) the parent or child of the person’s domestic partner.
 former licensed agent means a person who was, but is no longer a licensed agent.
 former registered salesperson means a person who was, but is no longer a registered salesperson.
-ground for disciplinary action—
-  (a) for a licensed agent—see section 41;
+ground for occupational discipline—
+  (a) for a licensed agent—see section 41; and
   (b) for a registered salesperson—see section 65.
 investigator—see the Fair Trading (Consumer Affairs) Act 1973, dictionary.
 kind of licence means—
@@ -121,11 +124,12 @@ register means the register under section 160.
 registered, for division 4.1 (Salespeople to be registered)—see section 44.
 registered business salesperson means a person registered under section 57 as a business salesperson.
 registered real estate salesperson means a person registered under section 57 as a real estate salesperson.
-registered salesperson means—
-  (a) a registered business salesperson; or
-  (b) a registered real estate salesperson; or
-  (c) a registered stock and station salesperson.
-registered salesperson, for division 4.4––see section 64.
+registered salesperson—
+  (a) means—
+    (i) a registered business salesperson; or
+    (ii) a registered real estate salesperson; or
+    (iii) a registered stock and station salesperson; and
+  (b) for division 4.4 (Occupational discipline—salespeople)—see section 64.
 registered stock and station salesperson means a person registered under section 57 as a stock and station salesperson.
 registration means registration under this Act.
 reviewable decision, for part 12 (Notification and review of decisions)––see section 166.
