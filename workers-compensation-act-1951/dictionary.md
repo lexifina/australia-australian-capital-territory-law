@@ -1,7 +1,8 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACAT
 · ACT
 · chief executive (see s 163)
 · contravene
@@ -15,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · proceeding
 · public servant
 · quarter
+· reviewable decision notice
 · territory law
 · under
 · year.
@@ -154,7 +156,7 @@ registered agreement means an agreement registered under section 79.
 registered auditor means an auditor registered under the Corporations Act.
 rehabilitation services includes training and retraining services.
 return-to-work program means a program mentioned in section 109.
-reviewable decision, for chapter 12 (Review of decisions by administrative appeals tribunal)—see section 198.
+reviewable decision, for chapter 12 (Notification and review of decisions)—see section 198.
 Seas and Submerged Lands Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
 self-insurer means an employer who is exempted under section 151.
 single loss amount, for part 4.4 (Compensation for permanent injuries)—see section 49.
