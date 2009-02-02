@@ -2,11 +2,12 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · magistrate
 · Minister (see s 162)
 · person
 · public servant
+· reviewable decision notice
 · State.
 clinical waste means any of the following, other than waste the treatment of which is completed in accordance with the manual:
   (a) waste consisting of a catheter, hypodermic needle, intravenous set, pipette or scalpel;
@@ -49,4 +50,5 @@ regulated premises means—
   (c) a funeral parlour; or
   (d) a mortuary; or
   (e) any other premises at which a prescribed activity is conducted or carried on.
+reviewable decision, for part 4A (Notification and review of decisions)—see section 27.
 waste disposal site, in relation to clinical waste of a particular kind, means a place declared by the Minister under section 11 to be a disposal site for clinical waste of that kind.
