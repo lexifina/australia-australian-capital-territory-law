@@ -35,5 +35,5 @@
 ## Part 8 Finance
 ### Division 8.1 Tax
 ### Division 8.2 Accounts and records
-## Part 9 Review of decisions
+## Part 9 Notification and review of decisions
 ## Part 10 Miscellaneous

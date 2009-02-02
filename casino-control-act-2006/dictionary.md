@@ -2,7 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-  · AAT
+  · ACAT
   · ACT
   · adult
   · amend
@@ -22,6 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   · police officer
   · prescribed
   · regulation
+  · reviewable decision notice
   · territory law
   · territory plan
   · the Territory
@@ -113,7 +114,7 @@ premises includes—
   (b) a place (whether or not enclosed or built on).
 prescribed function means a function prescribed by regulation that may be performed by a casino employee in relation to the operation of the casino.
 proof of age card—see section 78.
-reviewable decision, for part 9 (Review of decisions)—see section 137.
+reviewable decision—see section 137.
 security-related decision means a decision for which a certificate is given under section 140 (1) or (3).
 short-term licence means a casino employee licence given or renewed under section 48.
 supply contract, for division 5.4 (Termination of supply contracts)—see section 70.
