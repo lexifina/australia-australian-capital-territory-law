@@ -28,11 +28,11 @@ Note Different percentage rates may be determined for different collection areas
   (b) section 16 (Owner to pay rates);
   (c) section 17 (When are rates payable?);
   (d) part 4 (Enforcement);
-  (f) section 28 (Unit subdivisions);
-  (g) section 29 (Unit subdivisions—rates);
-  (h) section 39 (Reassessment—completion of development);
-  (i) section 40 (Reassessment—noncompletion of development);
-  (e) part 6 (Exemptions, remissions and certain interest payments);
+  (e) section 28 (Unit subdivisions);
+  (f) section 29 (Unit subdivisions—rates);
+  (g) section 39 (Reassessment—completion of development);
+  (h) section 40 (Reassessment—noncompletion of development);
+  (i) part 6 (Exemptions, remissions and certain interest payments);
   (j) section 76 (Certificate of rates and other charges);
   (k) any other provision prescribed by regulation.
 (2) The applied provisions have effect as if—
