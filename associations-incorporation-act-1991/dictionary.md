@@ -2,8 +2,10 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+• ACAT
 • document
-• registrar-general.
+• registrar-general
+• reviewable decision notice.
 accounting records includes invoices, receipts, orders for the payment of money, bills of exchange, cheques, promissory notes, vouchers and other documents of prime entry, books and records which record documents of prime entry, and any working papers and documents that are necessary to explain the methods and calculations by which accounts are made up.
 annual general meeting, in relation to an incorporated association, means a meeting of the association held under section 68 or 69.
 annual return means a statement referred to in section 79 (1) (a).
@@ -45,6 +47,7 @@ reproduction, in relation to a document, means—
   (a) a machine-copy of the document; or
   (b) a print made from the negative of the document; or
   (c) if an image of the document has been stored by means of a computer or by other electronic means—a print-out of the image.
+reviewable decision, for part 10 (Notification and review of decisions)—see section 118.
 rules, in relation to an incorporated association, means the rules that are, under section 31 (1), the rules of the association.
 special resolution means a resolution passed in accordance with section 70.
 trade—see section 4.

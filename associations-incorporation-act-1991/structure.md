@@ -15,4 +15,5 @@
 ## Part 7 Winding-up
 ## Part 8 Investigation of association’s affairs
 ## Part 9 Offences and related matters
-## Part 10 Miscellaneous
+## Part 10 Notification and review of decisions
+## Part 11 Miscellaneous
