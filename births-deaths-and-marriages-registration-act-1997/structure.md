@@ -17,5 +17,5 @@
 ### Division 7.3 Access to, and certification of, register entries
 ### Division 7.4 Additional information and services
 ### Division 7.5 Offences
-## Part 8 Administrative review
+## Part 8 Notification and review of decisions
 ## Part 10 Miscellaneous

@@ -2,6 +2,7 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
 · change
 · civil partnership
@@ -13,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · instrument (see s 14)
 · penalty unit (see s 133)
 · registrar-general
+· reviewable decision notice
 · under.
 adult—see section 4.
 birth includes a stillbirth.
@@ -37,6 +39,7 @@ registering authority means an authority responsible under a corresponding law f
 registrable event means a birth, death, marriage, civil partnership, change of name or change of sex.
 registrable information means information that is to be or may be included in the register.
 repealed Act means the Registration of Births, Deaths and Marriages Act 1963.
+reviewable decision, for part 8 (Notification and review of decisions)—see section 53.
 sexual reassignment surgery, for part 4 (Change of sex)—see section 23.
 stillbirth means the birth of a stillborn child.
 stillborn child means—
