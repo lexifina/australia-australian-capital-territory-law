@@ -16,9 +16,8 @@
 ## Part 4.5 If attorneys do not comply with Act
 # Chapter 5 Ending powers of attorney
 # Chapter 6 Protection and relief from liability
-# Chapter 7 Guardianship tribunal, Supreme Court and proceedings and rights
+# Chapter 7 Proceedings and rights
 ## Part 7.1 Interpretation—ch 7
-## Part 7.2 Guardianship tribunal
 ## Part 7.3 Supreme Court orders
 ## Part 7.4 Other proceedings and rights
 # Chapter 8 Interstate documents equivalent to powers of attorney

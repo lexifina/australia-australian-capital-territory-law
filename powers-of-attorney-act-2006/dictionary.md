@@ -7,8 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · civil partnership
 · corporation
 · domestic partner (see s 169 (1))
-· exercise
-· guardianship tribunal.
+· exercise.
 affinity means affinity derived through marriage or any other domestic partnership.
 attorney—see section 6.
 bankrupt—without limiting when a person becomes bankrupt, a person is taken to become bankrupt if the person takes advantage of a law of a foreign country corresponding to the Bankruptcy Act 1966 (Cwlth).
@@ -41,7 +40,7 @@ health care provider, for a person who is a principal for a power of attorney, m
 health professional means a person who provides health care in the practice of a profession or the ordinary course of business.
 hospital means a public hospital, private hospital or day hospital.
 impaired decision-making capacity—see section 9 (2).
-interested person, for chapter 7 (Guardianship tribunal, Supreme Court and proceedings and rights)—see section 74.
+interested person, for chapter 7 (Proceedings and rights)—see section 74.
 invalidity, of a power of attorney or a power under a power of attorney, for chapter 6 (Protection and relief from liability)—see section 70.
 know, of the invalidity of a power of attorney or a power under a power of attorney, for chapter 6 (Protection and relief from liability)—see section 70.
 legal matter, for a person who is a principal for a power of attorney, means—
