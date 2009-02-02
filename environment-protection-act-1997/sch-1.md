@@ -121,7 +121,7 @@ column 1 item | column 2 activity
 44 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
 45 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 46
 46 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
-47 | the operation of a firearm shooting range Note The registrar of firearms may approve a shooting range (see Firearms Act 1996, s 14 (2)).
+47 | the operation of a firearm shooting range Note A regulation under the Firearms Act 1996 may provide for the licensing of an entity to operate an approved shooting range (see s 273). An approved shooting range is a shooting range approved by the registrar as prescribed by a regulation under the Firearms Act 1996.
 ## 1.3 Class B activities
 For section 42, the following activities are class B activities:
 Table 1.3

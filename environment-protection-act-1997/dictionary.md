@@ -2,13 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · exercise
 · function
 · heritage register
 · Minister (see s 162)
 · public employee
 · public servant
+· reviewable decision notice
 · State.
 activity means a current or proposed activity including a process, operation, project, venture or business.
 analyst means an analyst under section 15.
@@ -127,6 +128,7 @@ remediation order, for part 9 (Environmental protection)—see section 91J.
 residential premises—
   (a) for part 11 (Powers of authorised officers)—see section 95; and
   (b) for schedule 2 (Specific offences)—see section 2.1.
+reviewable decision, for part 14 (Notification and review of decisions)—see section 135.
 sell, for schedule 2 (Specific offences)—see section 2.1.
 serious environmental harm means environmental harm—
   (a) that is very significant, including environmental harm that becomes very significant—
