@@ -1,12 +1,14 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACAT
 · chief executive (see s 163)
 · function
 · month
 · notifiable instrument (see s 10)
-· public servant.
+· public servant
+· reviewable decision notice.
 agreement means an industrial agreement made under the Workplace Relations Act 1996 (Cwlth).
 approved training contract—see the Training and Tertiary Education Act 2003, dictionary.
 associated company means a company that is a subsidiary, holding company or related body corporate under the Corporations Act, section 9.
