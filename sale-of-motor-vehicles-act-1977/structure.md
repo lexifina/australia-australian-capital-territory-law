@@ -5,9 +5,8 @@
 ## Part 4A Registration of interests in motor vehicles
 ## Part 5 Trust accounts
 ## Part 6 Change of executive officers of corporate licensees
-## Part 6A Disciplinary proceedings
-## Part 7 Inquiries by registrar
-## Part 8 Review by the administrative appeals tribunal
+## Part 7 Occupational discipline—licensees
+## Part 8 Notification and review of decisions
 ## Part 9 Motor vehicle dealers compensation fund
 ## Part 10 Offences
 ## Part 10A Enforcement

@@ -2,8 +2,8 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
-· administrative appeals tribunal
 · chief executive (see s 163)
 · civil partnership
 · corporation
@@ -13,8 +13,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · lawyer
 · Minister (see s 162)
 · notifiable instrument (see s 10)
+· occupational discipline order
 · penalty unit (see s 133)
 · police officer
+· reviewable decision notice
 · State
 · the Territory.
 accessory, in relation to a motor vehicle, means—
@@ -80,6 +82,7 @@ or for 2 or more of those purposes, but does not include—
   (g) a person who, otherwise than by an agent who is a licensed dealer, offers or displays motor vehicles for sale to the public, other than for the purpose referred to in paragraph (f); or
   (h) a person who holds himself or herself out as ready to purchase motor vehicles from the public; or
   (i) a person or a person included in a class of persons declared by the regulations to be excluded from this definition.
+ground for occupational discipline—see section 48.
 hire-purchase agreement, in relation to a motor vehicle, means—
   (a) a letting of the vehicle with an option to purchase the vehicle; or
   (b) an agreement for the purchase of the vehicle by instalments (whether described as rent or hire or otherwise), other than an agreement under which the property in the vehicle passes at the time of the agreement or on, or at any time before, delivery of the vehicle.
@@ -132,6 +135,7 @@ registered, for part 4A (Registration of interests in motor vehicles)—see sect
 register of interests, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 registrar means the Registrar of Motor Vehicle Dealers under section 5.
 registrable interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+reviewable decision, for part 8 (Notification and review of decisions)—see section 50.
 security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 sell, in relation to a motor vehicle, means to sell as principal or agent.
 suitable person—see section 71.
