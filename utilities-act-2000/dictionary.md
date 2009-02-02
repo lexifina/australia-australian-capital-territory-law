@@ -2,7 +2,7 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative appeals tribunal
+· ACAT
 · commissioner for revenue
 · corporation
 · disallowable instrument (see s 9)
@@ -16,27 +16,27 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · national land
 · notifiable instrument (see s 10)
 · public servant
+· reviewable decision notice
 · State
-· Supreme Court
 · the Territory.
 administrator, for part 3A (Energy industry levy)—see section 54N.
 annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant financial year.
 approved meter, for division 6.4 (Passing on supply costs)—see section 97.
 authorised person means a person appointed as an authorised person under section 114.
 capital contribution charge—see section 101 (Capital contribution charges—network development).
-complaint means a complaint to which part 12 (Complaints) applies.
+complainant, for part 12 (Complaints to ACAT about utilities)—see section 172.
+complaint, for part 12 (Complaints to ACAT about utilities)—see section 172.
 connected with an offence, for part 10 (Enforcement)—see section 150.
 consumer, in relation to a utility service, means—
   (a) a customer for the service; or
   (b) an occupier of a customer’s premises to which the service is provided;
 and includes an invitee of the customer or occupier.
 controller—see section 135 (Appointment of controller).
-council means the Energy and Water Consumer Council established under part 11.
 customer—see section 17 (Customers).
 customer contract means—
   (a) a standard customer contract; or
   (b) a negotiated customer contract.
-customer debt, for part 12 (Complaints)—see section 184.
+customer debt, for part 12 (Complaints to ACAT about utilities)—see section 169.
 daily newspaper means a daily newspaper that circulates generally in the Territory.
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
@@ -109,18 +109,18 @@ owner, of premises, means—
   (b) a lessee of the premises under a lease granted by or for the Commonwealth; or
   (c) for a unit under the Unit Titles Act 2000—the unit owner;
 whether alone or together with 1 or more other people.
-party, to a complaint, for part 12 (Complaints)—see section 184.
 personal information—see the Privacy Act 1988 (Cwlth), section 6 (Interpretation), but does not include information available to a section of the public.
 premises includes land and place.
 private land means land other than public land.
 proceeding under this Act, for part 15 (Vicarious liability)—see section 251.
 public land means national land or unleased Territory land.
-registrar, for part 12 (Complaints)—see section 184.
+registrar, for part 12 (Complaints to ACAT about utilities)—see section 169.
 regulatory cost, for part 3A (Energy industry levy)—see section 54G (1).
 related law means the ICRC Act.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act, s 104).
-respondent, to a complaint, for part 12 (Complaints)—see section 184.
+respondent, for an application in relation to a complaint, for part 12 (Complaints to ACAT about utilities)—see section 169.
 responsible utility, for a network or network facility, means a utility licensed to provide utility services using the network or network facility.
+reviewable decision, for division 3.3A (Notification and review of ICRC decisions)—see section 43.
 satisfied means satisfied on reasonable grounds.
 sewerage connection service—see section 85.
 sewerage network—see section 14.
@@ -143,8 +143,9 @@ territory network protection notice, for part 14 (Streetlighting and stormwater)
 territory service—see section 226.
 territory service authorised person, for part 14 (Streetlighting and stormwater)—see section 226.
 utility—
-  (a) for this Act—means a person licensed to provide a utility service; or
-  (b) for part 9 (Controller’s power to take over operations)—see section 134.
+  (a) for this Act generally—means a person licensed to provide a utility service; or
+  (b) for part 9 (Controller’s power to take over operations)—see section 134; or
+  (c) in relation to an act or omission, for part 12 (Complaints to ACAT about utilities)—see section 169.
 utility service—
   (a) in relation to electricity—see section 6 (Electricity services); or
   (b) in relation to gas—see section 9 (Gas services); or
@@ -158,5 +159,5 @@ water distributor means—
   (c) in relation to the provision of a water connection service to premises—a utility licensed to provide the service for the premises.
 water network—see section 12 (Water network).
 water supplier, in relation to the supply of water to premises, means a utility licensed to supply water to the premises.
-withdrawal, of a utility service, for part 12 (Complaints)—see section 184.
+withdrawal, of a utility service, for part 12 (Complaints to ACAT about utilities)—see section 169.
 year, for part 3A (Energy industry levy)—see section 54A.

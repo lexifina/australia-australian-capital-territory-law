@@ -9,6 +9,7 @@
 ### Division 3.1 General
 ### Division 3.2 Terms of licences
 ### Division 3.3 Licences
+### Division 3.3A Notification and review of ICRC decisions
 ### Division 3.4 Annual licence fee
 ### Division 3.5 Review and enforcement
 ### Division 3.6 Miscellaneous
@@ -45,15 +46,14 @@
 ### Division 10.3 Technical inspectors
 ### Division 10.4 Authorised people for utility
 ### Division 10.5 Miscellaneous
-## Part 11 Energy and Water Consumer Council
-### Division 11.1 Establishment and functions
-### Division 11.2 Constitution
-### Division 11.3 Organisation of council
-## Part 12 Complaints
-### Division 12.1 General
-### Division 12.2 Consideration of complaints
-### Division 12.3 Determination of complaint
-### Division 12.4 Miscellaneous
+## Part 11 Certain causes of action against customer
+## Part 12 Complaints to ACAT about utilities
+### Division 12.1 Preliminary
+### Division 12.2 Applications to ACAT
+### Division 12.3 Preliminary inquiries
+### Division 12.4 Dismissal of complaints
+### Division 12.5 Powers and decisions of ACAT
+### Division 12.6 Confidential information
 ## Part 13 Community service obligations
 ## Part 14 Streetlighting and stormwater
 ### Division 14.1 General
