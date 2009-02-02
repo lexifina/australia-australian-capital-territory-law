@@ -2,6 +2,7 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · adult
 · appoint
 · domestic partner (see s 169)
@@ -9,19 +10,26 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · Magistrates Court
 · oath.
-carer—see section 6.
+carer—
+  (a) for the Act generally—see section 6; and
+  (b) for part 2A (Consent to medical treatment without formal representation)—see section 32C.
+close relative or close friend, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
+decision-making capacity, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 decision-making principles—see section 4.
-deputy president means a deputy president of the tribunal.
+domestic partner, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 electroconvulsive therapy—see the Mental Health (Treatment and Care) Act 1994, section 55.
 enduring power of attorney—see the Powers of Attorney Act 2006, section 8.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
+general president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 guardian means someone who is a guardian under any of the following sections:
 section 7 (Appointment and powers of guardians)
 · section 7A (Appointment of guardians under direction)
 · section 12 (Recognition of interstate etc guardians and managers)
 · section 32 (Surviving or substitute guardians etc).
+health attorney, for part 2A (Consent to medical treatment without formal representation)—see section 32B (1).
+health professional, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 impaired decision-making ability, for a person—see section 5.
-inquiry means an inquiry under part 3.
+interested person, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 interests, of a person—see section 5A.
 judicial officer means a judge of the Supreme Court or a magistrate.
 manager means a manager under any of the following sections:
@@ -29,11 +37,11 @@ manager means a manager under any of the following sections:
 · section 8AA (Manager for missing person’s property)
 · section 12 (Recognition of interstate etc guardians and managers)
 · section 32 (Surviving or substitute guardians etc).
-member, of the tribunal, means the president, a deputy president or a non-presidential member.
+medical treatment, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 mental illness—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 neurosurgery means surgery on the brain of a person for the purpose of treating a pathological condition of the physical structure of the brain.
-non-presidential member means a member of the tribunal who is not a presidential member.
 non-regenerative tissue—see the Transplantation and Anatomy Act 1978, dictionary.
+power of attorney, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 prescribed medical procedure means—
   (a) an abortion; or
   (b) reproductive sterilisation; or
@@ -42,8 +50,9 @@ prescribed medical procedure means—
   (e) removal of non-regenerative tissue for transplantation to the body of another living person; or
   (f) treatment for mental illness, electroconvulsive therapy or psychiatric surgery; or
   (g) any other medical or surgical procedure prescribed for this definition.
-president means the president of the tribunal.
-presidential member means the president or a deputy president of the tribunal.
+principal¸ for part 3 (Powers of Attorney and ACAT) —see the Powers of Attorney Act 2006, dictionary.
+priority order, for health attorneys for a protected person, for part 2A—see section 32B (3).
+protected person, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 psychiatric surgery—see the Mental Health (Treatment and Care) Act 1994, dictionary.
-tribunal means the Guardianship and Management of Property Tribunal established by section 57.
+remuneration or reward, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 trustee company—see the Trustee Companies Act 1947, dictionary.
