@@ -36,7 +36,7 @@
 ### Division 14.6 Annual returns
 ### Division 14.7 Compliance
 ### Division 14.8 Miscellaneous
-## Part 15 Review of decisions
+## Part 15 Notification and review of decisions
 ## Part 16 Disputed elections, eligibility and vacancies
 ### Division 16.1 Preliminary
 ### Division 16.2 Jurisdiction and powers of Supreme Court

@@ -2,7 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· AAT
+· ACAT
 · administrative unit
 · adult
 · chief executive (see s 163)
@@ -14,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · function
 · judge
 · lawyer
+· reviewable decision notice
 · Self-Government Act
 · Speaker
 · State
@@ -108,6 +109,8 @@ gift, for part 14 (Election funding and financial disclosure)—see section 198.
 group, in relation to candidates in an election, means candidates whose names are grouped on the ballot papers in accordance with section 115 (Grouping of candidates’ names).
 hospital includes a convalescent home and an institution similar to a hospital or convalescent home.
 hour of nomination—see section 108.
+internally reviewable decision, for part 15 (Notification and review of decisions)—see section 245.
+internal review notice—see section 244.
 investigation notice, for division 14.7 (Compliance)—see section 235.
 judge means—
   (a) a judge of the Supreme Court; or
@@ -133,7 +136,7 @@ party, for part 14 (Electoral funding and financial disclosure)—see section 19
 party candidate means—
   (a) a candidate at an election nominated by the registered officer of a registered party; and
   (b) in relation to a registered party—a candidate nominated by the registered officer of the party.
-person, for part 15 (Review of decisions)—see section 244.
+person, for part 15 (Notification and review of decisions)—see section 245.
 place of nomination—see section 108.
 political party means an organisation, incorporated or unincorporated, an object or activity of which is the promotion of the election to the Assembly of a candidate or candidates endorsed by it.
 polling day—
@@ -168,8 +171,7 @@ reporting agent, for part 14 (Election funding and financial disclosure)—see s
 research personnel, for part 11 (Polling in Antarctica)—see section 167.
 return, for division 14.7 (Compliance)—see section 235.
 returning officer, for part 11 (Polling in Antarctica)—see section 167.
-reviewable decision, for part 15 (Review of decisions)—see section 244.
-review statement, in relation to a decision by the commissioner, means a statement referred to in section 246 about that decision.
+reviewable decision, for part 15 (Notification and review of decisions)—see section 245.
 roll means a roll of electors kept under this Act.
 scrutineer means a person appointed under section 122 to be a scrutineer.
 scrutiny centre means a place appointed as a scrutiny centre under section 119.
