@@ -45,7 +45,6 @@
 ### Division 3.10.1 Criminal appeals—jurisdiction of Supreme Court
 ### Division 3.10.2 Appeals in criminal matters
 ### Division 3.10.2A Reference appeals in criminal matters
-### Division 3.10.3 Orders to review in criminal matters
 ### Division 3.10.4 Criminal appeals—other provisions
 ## Part 3.11 Costs in criminal matters
 ## Part 3.12 Securities in criminal matters
@@ -55,7 +54,6 @@
 ## Part 4.3 Case stated for Supreme Court
 ## Part 4.4 Transfer of proceedings from or to Supreme Court
 ## Part 4.5 Civil appeals
-## Part 4.6 Small Claims Court
 # Chapter 5 Miscellaneous
 ## Part 5.1 Offences
 ## Part 5.2 Other
