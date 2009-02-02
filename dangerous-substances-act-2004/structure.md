@@ -39,7 +39,7 @@
 ## Part 7.4 Return and forfeiture of things seized
 ## Part 7.5 Other enforcement provisions
 # Chapter 8 Emergency powers
-# Chapter 9 Administrative review of decisions
+# Chapter 9 Notification and review of decisions
 # Chapter 10 Procedural and evidentiary provisions
 ## Part 10.1 General provisions about offences against Act
 ## Part 10.2 Evidentiary provisions

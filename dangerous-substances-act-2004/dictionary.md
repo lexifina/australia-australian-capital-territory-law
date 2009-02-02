@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
 · administrative unit
 · ambulance service
@@ -14,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · instrument (see s 14)
 · notification (see s 63)
 · penalty unit (see s 133)
+· reviewable decision notice
 · rural fire service
 · SES
 · State.
@@ -53,7 +55,7 @@ dangerous occurrence—see section 38.
 dangerous substance—see section 10.
 data, for chapter 7 (Enforcement powers)—see section 141.
 data storage device, for chapter 7 (Enforcement powers)—see section 141.
-decision-maker, for chapter 9 (Administrative review of decisions)—see section 187.
+decision-maker, for chapter 9 (Notification and review of decisions)—see section 186.
 disciplinary action—see section 68 (3) and (4).
 disciplinary notice—see section 68 (1).
 dispose, of a dangerous substance or anything else, includes impound, isolate or destroy the substance or thing.
@@ -76,8 +78,9 @@ infringement notice—see the Magistrates Court Act 1930, section 117.
 infringement notice offence—see the Magistrates Court Act 1930, section 117.
 inspector means an inspector under section 207.
 install plant or a system includes construct the plant or system.
-internally reviewable decision—see section 188 (1).
-internal reviewer—see section 188 (3).
+internally reviewable decision—see section 186.
+internal reviewer, for chapter 9 (Notification and review of decisions)—see section 188.
+internal review notice, for chapter 9 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 licence means a licence issued under this Act.
 manufacture a dangerous substance or anything else includes—
   (a) make, remake, alter, break-up, process, recondition or treat the substance or thing; and
