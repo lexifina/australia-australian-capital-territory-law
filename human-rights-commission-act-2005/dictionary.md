@@ -1,13 +1,14 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+  · ACAT
   · ACT
-  · discrimination tribunal
   · document
   · entity
   · may (see s 146)
   · must (see s 146)
+  · occupational discipline order
   · public advocate
   · under.
 act includes omission.
@@ -67,4 +68,5 @@ related Act—each of the following is a related Act:
 service for children and young people—see section 8A.
 service for older people—see section 9.
 third-party report—see section 83 (1).
+unlawful act, for division 4.2A (Discrimination complaints to ACAT)—see section 53.
 young person means a person who is 12 years old or older, but not yet an adult.
