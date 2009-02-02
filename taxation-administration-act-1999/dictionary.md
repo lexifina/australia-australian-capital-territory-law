@@ -2,12 +2,14 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · ACT
 · Commonwealth
 · Executive
 · individual
 · Magistrates Court
 · penalty unit (see s 133)
+· reviewable decision notice
 · State
 · Supreme Court
 · Legislative Assembly
@@ -16,7 +18,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 arrangement, for payment of an assessment amount, for division 7.2 (Recovery of tax from directors of corporations)—see section 56A.
 assessment means—
   (a) an assessment, reassessment or compromise assessment of the tax liability of a person under a tax law, made by the commissioner under part 3; or
-  (b) an assessment substituted by the tribunal on an appeal under part 10.
+  (b) an assessment substituted by the ACAT on review under part 10.
 assessment amount, for a corporation, for division 7.2 (Recovery of tax from directors of corporations)—see section 56A.
 authorised officer means an authorised officer under section 79.
 business means—
@@ -26,6 +28,7 @@ business means—
   (d) the carrying on of a trust;
 whether carried on by 1 person or 2 or more people together.
 commissioner means the Commissioner for Australian Capital Territory Revenue mentioned in section 73.
+commissioner-reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107.
 corporation—see the Corporations Act, section 57A.
 director, in relation to a body corporate, includes a person occupying or acting in a position with responsibility for the direction of the body, by whatever name called and whether or not validly appointed to occupy, or duly authorised to act in, the position.
 Note Document is defined in the Legislation Act, dict, pt 1, and includes information in electronic form.
@@ -33,6 +36,7 @@ identity card means—
   (a) an identity card issued under section 80 (1); or
   (b) an identity card approved under section 80 (2), together with a notice issued under section 79 (3) (b).
 interest rate means the interest rate set under section 26.
+internally reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107.
 market rate component, in relation to interest for a day—see section 26 (2).
 objection means an objection made under section 100.
 premises includes land, a vehicle, a vessel and an aircraft.
@@ -44,6 +48,7 @@ return means a return, statement, application, report or other record that—
   (a) is required or authorised under a tax law to be lodged by a person with the commissioner or a specified person; and
   (b) is liable to tax or records matters in relation to which there is or may be a tax liability.
 revenue amount means an amount of money paid voluntarily or under compulsion as a tax (including penalty tax).
+reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107A.
 tax means a tax, duty or levy under a tax law, and includes—
   (a) interest and penalty tax under part 5; and
   (b) any other amount paid or payable by a taxpayer to the commissioner under a tax law.
@@ -59,4 +64,3 @@ tax officer—
     (iii) anyone else engaged (whether as an officer or employee or otherwise) in the administration or enforcement of a tax law; and
   (b) for division 9.4 (Secrecy)—see section 94.
 taxpayer means a person who has been assessed as liable to pay an amount of tax, who has paid an amount as tax or who is liable or may be liable to pay tax.
-tribunal means the administrative appeals tribunal.

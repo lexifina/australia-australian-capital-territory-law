@@ -20,9 +20,9 @@
 ### Division 9.2 Powers of investigation
 ### Division 9.3 Cooperation with other jurisdictions
 ### Division 9.4 Secrecy
-## Part 10 Objections and appeals
+## Part 10 Objections and reviews
 ### Division 10.1 Objections
-### Division 10.2 Appeals to tribunal
+### Division 10.2 Notification and review of decisions
 ### Division 10.3 Interest
 ## Part 11 Miscellaneous provisions
 ### Division 11.2 Treatment of bodies corporate

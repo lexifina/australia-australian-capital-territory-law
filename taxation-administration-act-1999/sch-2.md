@@ -1,5 +1,5 @@
 # Schedule 2 Decisions reviewable by commissioner only
-(see s 100)
+(see s 100 and s 107)
 ## 2.1 Objections
 A person dissatisfied with a decision listed in section 2.2 may lodge an objection under section 100.
 ## 2.2 Kinds of decision subject to objection
