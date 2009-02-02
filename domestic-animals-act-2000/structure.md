@@ -15,7 +15,7 @@
 ## Part 5 Assistance animals
 ## Part 6 Animal nuisance
 ## Part 7 Destruction of animals
-## Part 8 Review of decisions
+## Part 8 Notification and review of decisions
 ## Part 9 Administration
 ### Division 9.1 Officers
 ### Division 9.2 Powers of authorised officers

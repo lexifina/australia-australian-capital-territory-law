@@ -2,12 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · chief executive (see s 163)
 · contravene
 · found guilty
 · function
 · person
 · police officer
+· reviewable decision notice
 · the Territory.
 animal boarding facility means a kennel, cattery, stable or other premises where animals are kept temporarily by a person other than a keeper of the animal.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
@@ -88,4 +90,5 @@ registration certificate means a registration certificate issued under section 1
 registration tag means a registration tag issued under section 11 (1) or (4).
 release a dog to a person includes permit the dog to be collected by the person.
 residential premises means premises used exclusively or mainly for residential purposes, and includes a private room in, but not any other part of, a motel, hotel, hostel or guesthouse.
+reviewable decision, for part 8 (Notification and review of decisions)—see section 118.
 special licence, for division 2.4 (General provisions about multiple dog and dangerous dog licences)—see section 29.
