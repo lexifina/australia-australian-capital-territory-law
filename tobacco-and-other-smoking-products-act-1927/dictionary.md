@@ -2,9 +2,12 @@
 (see s 2)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
+· ACAT
 · contravene
 · exercise
-· function.
+· function
+· occupational discipline order
+· reviewable decision notice.
 approved procedures, for part 6A (Tobacco compliance testing)—see section 42A.
 approved program, for part 6A (Tobacco compliance testing)—see section 42A.
 authorised officer—
@@ -21,6 +24,7 @@ deputy registrar means a deputy Registrar of Tobacco under section 30.
 display, of a smoking product at a point of sale display at a retail or wholesale outlet, means display to customers of the retail or wholesale outlet.
 drug means a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences).
 engage in conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, section 13.
+ground for occupational discipline, for division 7.3—see section 56.
 herbal product means a product prepared for smoking that contains a herb or other plant matter but does not contain tobacco or a drug.
 identity card means—
   (a) in relation to a public health officer under the Public Health Act 1997—the identity card issued to him or her under that Act;
@@ -31,7 +35,9 @@ immediate package, of a smoking product, means a package containing the product�
   (b) in the case of cigars—
     (i) including a package constituted by the individual wrapping of a cigar, and a package containing individually-wrapped or unwrapped cigars; but
     (ii) not including any other package containing a further package or packages of cigars (whether wrapped or unwrapped).
-licensee, for part 7 (Licences)—see section 43.
+licensee—
+  (a) for part 7 (Licences)—see section 43; and
+  (b) for division 7.3 (Occupational discipline—licensees)—see section 55.
 occupier, of premises—
   (a) for this Act generally—means a person having the management or control, or otherwise being in charge, of the premises; and
   (b) for part 6 (Enforcement)—see section 31.
@@ -53,6 +59,7 @@ purchase assistant, for part 6A (Tobacco compliance testing)—see section 42B (
 registrar means the Registrar of Tobacco under section 29, and includes a deputy registrar.
 retail outlet means premises where smoking products are available for sale by retail.
 retail tobacconist’s licence, for part 7 (Licences)—see section 43.
+reviewable decision, for division 7.5 (Notification and review of decisions)—see section 68.
 sell—see section 5.
 smoking advertisement—see section 6.
 smoking product means a tobacco product or a herbal product.
