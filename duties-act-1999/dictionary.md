@@ -1,13 +1,15 @@
-# U Dictionary
+# Dictionary
 (see s 2A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+· ACAT
 · ACT
 · Australia
 · civil partnership
 · commissioner for revenue
 · Corporations Act
 · doctor
+· document
 · external territory
 · GST
 · in relation to
@@ -43,7 +45,7 @@ commissioner means the commissioner for revenue.
 company, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
 complying superannuation fund means an entity that is—
-  (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or 42A; or
+  (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or section 42A; or
   (b) an exempt public sector superannuation scheme within the meaning of that Act.
 consideration—see section 21.
 corporation means a body corporate, whether incorporated in this jurisdiction or elsewhere.
@@ -52,7 +54,7 @@ corresponding law, in relation to a territory law, means a law of a State or ano
 cost, in relation to a lease—see section 136.
 Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission appointed under the Seat of Government (Administration) Act 1924 (Cwlth).
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
-deferral arrangement, for part 2.6A—see section 75AC (2).
+deferral arrangement, for part 2.6A (Deferred payments—home buyers) see section 75AC (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
 determined amount, in relation to duty, means an amount—
   (a) determined by the Minister; or
@@ -69,10 +71,10 @@ dutiable entitlement, for part 3.3 (Entitlements arising from capital reductions
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
 dutiable value—
-  (a) of a motor vehicle for part 9.1—see section 203; and
+  (a) of a motor vehicle for part 9.1 (Imposition and rates of duty)—see section 203; and
   (b) of other dutiable property—see section 20.
-eligible person, for part 2.6A—see section 75AA.
-eligible property, for part 2.6A—see section 75AA.
+eligible person, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
+eligible property, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 entity, for part 3.2 (Acquisition of interests in certain landholders)—see section 78A.
 financial market—see the Corporations Act, section 9.
@@ -98,9 +100,9 @@ franchisor—see the definition of franchise arrangement.
 FS (BTGR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 general insurance, for chapter 8 (Insurance)—see section 175.
 general insurer, for chapter 8 (Insurance)—see section 175.
-home buyer concession scheme, for part 2.6A—see section 75AA.
+home buyer concession scheme, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
-instrument includes a written document and a written statement.
+instrument includes a document and a written statement.
 insurance includes assurance.
 insurance intermediary—see the Insurance Contracts Act 1984 (Cwlth), section 11.
 insurer—
@@ -216,7 +218,7 @@ relationship property, of a domestic relationship, means property of the parties
 relevant acquisition, in relation to a person, for part 3.2 (Acquisition of interests in certain landholders)—see section 86.
 relevant period, for a relevant acquisition, for part 3.2 (Acquisition of interests in certain landholders)—see section 78.
 replica—see section 228.
-residential lease, for part 2.6A—see section 75AA.
+residential lease, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
 responsible entity—
   (a) for this Act generally—see the Corporations Act, section 9; and
   (b) of a unit trust scheme for which there is no responsible entity within the meaning of the Corporations Act, section 9, for part 3.2A (Registration of unit trust schemes)—see section 95A.
@@ -230,9 +232,9 @@ significant interest, in a landholder—see section 83.
 stamped—see section 233.
 Taxation Administration Act means the Taxation Administration Act 1999.
 tax avoidance scheme means a scheme if the person who has, or 1 or more of the people who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
-  (a) that an amount of duty would not be payable by a person, being an amount that would have been, or might reasonably be expected to have been, payable by the person; or
+  (a) that an amount of duty would not be payable by a person that would have been, or might reasonably be expected to have been, payable by the person; or
   (b) that an amount of duty payable by a person would be less than the amount that would have been, or might reasonably be expected to have been, payable by the person; or
-  (c) that a refund of duty would be payable to a person, being a refund that would not have been or might reasonably be expected not to have been, payable to the person;
+  (c) that a refund of duty would be payable to a person, that would not have been or might reasonably be expected not to have been, payable to the person;
 if the scheme had not been entered into or carried out, or for purposes of which that purpose was the dominant purpose.
 territory company means—
   (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the ACT; or
@@ -244,7 +246,7 @@ transfer—
   (a) includes any of the following:
     (i) assignment;
     (ii) exchange;
-    (iii) a buyback of shares in accordance with the Corporations Act, part 2J.1, division 2;
+    (iii) a buyback of shares in accordance with the Corporations Act, division 2J.1.2;
     (iv) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested;
     (v) vesting of an interest in property under a court order, unless the interest did not exist before it is vested; and
   (b) for chapter 2 (Transactions concerning dutiable property)—see section 6.
