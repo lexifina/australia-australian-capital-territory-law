@@ -1,6 +1,6 @@
-# U Schedule 1 Decisions reviewable by administrative appeals tribunal
-(see s 147 and s 148)
-column 1 item | column 2 provision | column 3 decision | column 4 person to be notified of decision
+# Schedule 1 Reviewable decisions
+(see pt 11)
+column 1 item | column 2 provision | column 3 decision | column 4 entity
 1 | 44 (5) | Minister—refuse to pay compensation, or amount of compensation paid, for emergency order | applicant for compensation
 2 | 86 | authorised officer—refuse to issue clearance certificate | proprietor of food business
 3 | 88 (5) | Minister—refuse to pay compensation, or amount of compensation paid, for prohibition order | applicant for compensation

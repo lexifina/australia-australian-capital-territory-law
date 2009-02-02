@@ -2,9 +2,11 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · chief health officer
 · exercise
-· function.
+· function
+· reviewable decision notice.
 advertisement means—
   (a) any words, whether written or spoken; or
   (b) any pictorial representation or design; or
@@ -57,6 +59,7 @@ proprietor, of a food business, means—
   (b) if that person cannot be identified—the person in charge of the food business.
 recall order, for part 4 (Emergency orders)—see section 37.
 registered, in relation to a food business, means registered under section 92.
+reviewable decision, for part 11 (Notification and review of decisions)—see section 141A.
 sell—see section 9 (1).
 unsafe, in relation to food—see section 12.
 unsuitable, in relation to food—see section 13.

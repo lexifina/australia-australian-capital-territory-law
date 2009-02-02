@@ -16,3 +16,5 @@
 ## Part 7 Improvement notices and prohibition orders
 ## Part 8 Notification and registration of food businesses
 ## Part 10 Procedural and evidentiary provisions
+## Part 11 Notification and review of decisions
+## Part 12 Miscellaneous
