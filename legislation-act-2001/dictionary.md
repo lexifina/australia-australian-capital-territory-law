@@ -4,14 +4,13 @@ U Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
-AAT—see definition of administrative appeals tribunal.
+ACAT means the ACT Civil and Administrative Tribunal established under the ACT Civil and Administrative Tribunal Act 2008.
 Act—see the following sections:
   (a) section 7 (Meaning of Act generally);
   (b) section 17 (References to Acts include references to former Cwlth enactments etc).
 Note See also s 102 (References to laws include references to laws as in force from time to time) and s 104 (References to laws include references to instruments under laws).
 ACT means the Australian Capital Territory.
-ADI—see definition of authorised deposit-taking institution.
-administrative appeals tribunal (or AAT) means the Administrative Appeals Tribunal established under the Administrative Appeals Tribunal Act 1989.
+ADI—see the definition of authorised deposit-taking institution.
 administrative unit means an administrative unit for the time being established under the Public Sector Management Act 1994, section 13 (1).
 adult means an individual who is at least 18 years old.
 ambulance service means the ACT Ambulance Service established under the Emergencies Act 2004.
@@ -104,7 +103,6 @@ Note The Australian Government Gazette was published from 1 July 1973 to 30 June
 confer, in relation to a function, includes impose.
 conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 1980.
 construction occupations registrar means the Australian Capital Territory Construction Occupations Registrar under the Construction Occupations (Licensing) Act 2004.
-consumer and trader tribunal means the Consumer and Trader Tribunal established under the Consumer and Trader Tribunal Act 2003.
 Consumer Credit (Australian Capital Territory) Code means the provisions applying because of the Consumer Credit Act 1995, section 4.
 Consumer Credit (Australian Capital Territory) Regulations means the provisions applying because of the Consumer Credit Act 1995, section 5.
 contravene includes fail to comply with.
@@ -116,7 +114,6 @@ correctional centre means a correctional centre under the Corrections Management
 corrections officer means a corrections officer under the Corrections Management Act 2007.
 Court of Appeal means the Court of Appeal constituted under the Supreme Court Act 1933.
 court of summary jurisdiction means the Magistrates Court.
-credit tribunal means the Australian Capital Territory Credit Tribunal established under the Consumer Credit (Administration) Act 1996.
 credit union means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the term ‘credit union’; or
   (b) any other term (whether or not in English) similar in meaning.
@@ -136,7 +133,6 @@ director of public prosecutions (or DPP) means the Director of Public Prosecutio
 disability and community services commissioner means the Disability and Community Services Commissioner under the Human Rights Commission Act 2005.
 disallowable instrument—see section 9.
 discrimination commissioner means the Discrimination Commissioner under the Human Rights Commission Act 2005.
-discrimination tribunal means the Discrimination Tribunal established under the Discrimination Act 1991.
 doctor—
   (a) means a person unconditionally registered as a medical practitioner under the Health Professionals Act 2004; and
   (b) for an activity, includes a person conditionally registered as a medical practitioner under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
@@ -147,7 +143,7 @@ document means any record of information, and includes—
   (d) a drawing, map, photograph or plan.
 domestic partner—see section 169 (1).
 domestic partnership—see section 169 (2).
-DPP—see definition of director of public prosecutions.
+DPP—see the definition of director of public prosecutions.
 driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established under the Electoral Act 1992.
@@ -195,7 +191,6 @@ Governor means—
   (b) for the Northern Territory—the Administrator of the Northern Territory, and includes a person administering the Government of the Northern Territory.
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
-guardianship tribunal means the Guardianship and Management of Property Tribunal established under the Guardianship and Management of Property Act 1991.
 health services commissioner means the Health Services Commissioner under the Human Rights Commission Act 2005.
 heritage council means the Australian Capital Territory Heritage Council under the Heritage Act 2004.
 heritage register means the heritage register under the Heritage Act 2004.
@@ -254,7 +249,6 @@ master, in relation to the Supreme Court, means the Master of the Supreme Court.
 Note The office of master is established under the Supreme Court Act 1933.
 may—see section 146.
 medical practitioner means a doctor.
-mental health tribunal means the Mental Health Tribunal established under the Mental Health (Treatment and Care) Act 1994.
 midnight, in relation to a particular day, means the time when the day ends.
 midwife—
   (a) means a person unconditionally registered as a midwife under the Health Professionals Act 2004; and
@@ -295,6 +289,8 @@ nurse practitioner means a person registered as a nurse under the Health Profess
 Note Under the Mutual Recognition Act 1992 (Cwlth), s 25 people registered as nurses in a specialty in a State may be deemed to be registered in the specialty in the ACT.
 oath includes affirmation.
 Note The Evidence Act 1995 (Cwlth), ch 2, pt 2.1, div 2 and the Oaths and Affirmations Act 1984 make provision in relation to oaths and affirmations.
+occupational discipline order means an order for occupational discipline made by the ACAT.
+Note Occupational discipline orders are made under the ACT Civil and Administrative Tribunal Act 2008, s 66 and under authorising laws (authorising law—see ACT Civil and Administrative Tribunal Act 2008, dict).
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
 office includes position.
 office of fair trading means the Office of Fair Trading of the Australian Capital Territory established under the Fair Trading (Consumer Affairs) Act 1973.
@@ -357,9 +353,9 @@ repeal includes—
   (d) for an Act or statutory instrument (or a provision of it)—any other implied repeal; and
   (e) for a statutory instrument—revoke the instrument (or part of it); and
   (f) for a decision—revoke it or cancel it.
-residential tenancies tribunal means the Residential Tenancies Tribunal established under the Residential Tenancies Act 1997.
 resident judge means a resident judge under the Supreme Court Act 1933.
 retrospectively, for the commencement of legislation—see section 75A.
+reviewable decision notice—see the ACT Civil and Administrative Tribunal Act 2008, section 67A.
 road transport authority means the Australian Capital Territory Road Transport Authority.
 Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 rules means—
@@ -374,7 +370,6 @@ sentence administration board means the Sentence Administration Board under the 
 SES means the ACT State Emergency Service established under the Emergencies Act 2004.
 sign includes attach a seal and make a mark.
 sitting day, of the Legislative Assembly, means a day when the Assembly meets.
-Small Claims Court means the Magistrates Court when it is exercising jurisdiction under the Magistrates Court Act 1930, part 4.6.
 solicitor means a lawyer who practises as a solicitor.
 Speaker means the Presiding Officer of the Legislative Assembly.
 Note The Presiding Officer is elected under the Self-Government Act, s 11.
