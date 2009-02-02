@@ -8,5 +8,5 @@
 ### Division 4.4 Register of licences
 ## Part 5 Application of proceeds of collections
 ## Part 6 Administration
-## Part 7 Review of decisions
+## Part 7 Notification and review of decisions
 ## Part 8 Miscellaneous

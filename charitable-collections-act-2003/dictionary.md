@@ -1,7 +1,8 @@
 # Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · body
 · contravene
 · Corporation Act
@@ -9,14 +10,15 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · individual
 · law
 · person
+· reviewable decision notice
 · State.
 authorised person—see section 54.
 benefit—see section 11.
 charitable purpose includes any benevolent, philanthropic or patriotic purpose.
 collection—see section 7.
 commercial fundraiser—see section 12.
-conducts, for a collection—see section 8.
-ends, for a licence and for part 5 (Application of proceeds of collections)—see section 43.
+conducts a collection—see section 8.
+ends, for a licence, for part 5 (Application of proceeds of collections)—see section 43.
 executive officer means—
   (a) for a corporation—a person (however described and whether or not the person is a director of the corporation) who is concerned with, or takes part in, the corporation’s management; and
   (b) for an unincorporated body—a person (however described and whether or not the person is a member of the governing body (if any) of the unincorporated body) who is concerned with, or takes part in, the unincorporated body’s management.
@@ -27,4 +29,4 @@ licensee—
 nominated person—see section 30.
 proceeds, of a collection—see section 10.
 reviewable decision, for part 7 (Review of decisions)—see section 57.
-takes part, in a collection—see section 9.
+takes part in a collection—see section 9.
