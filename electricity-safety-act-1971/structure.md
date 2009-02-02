@@ -11,5 +11,5 @@
 ### Division 7.1 General
 ### Division 7.2 Inspectors’ powers
 ### Division 7.3 Miscellaneous
-## Part 8 Appeals
+## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous

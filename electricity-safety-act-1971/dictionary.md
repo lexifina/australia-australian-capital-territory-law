@@ -2,8 +2,10 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· ACAT
 · function
 · planning and land authority
+· reviewable decision notice
 · State
 · under.
 approved first seller, for part 3 (Prescribed articles of electrical equipment)—see section 9.
@@ -65,6 +67,7 @@ relevant safety standard, for part 3 (Prescribed articles of electrical equipmen
 relevant standard—
   (a) for a prescribed article of electrical equipment—means a relevant safety standard under part 3 (see s 9); and
   (b) for an article of electrical equipment to which part 4 (Non-prescribed articles of electrical equipment) applies—see section 26 (Minimum safety standards).
+reviewable decision, for part 8 (Notification and review of decisions)—see section 61.
 sell includes—
   (a) barter or exchange; and
   (b) let on hire; and
