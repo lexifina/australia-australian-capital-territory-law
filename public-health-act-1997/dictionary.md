@@ -1,25 +1,30 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+• ACAT
 • ambulance service
-• chief executive
-• chief officer (ambulance service)
+• chief executive (see s 163)
 • contravene
 • doctor
 • document
-• emergency services commissioner
 • exercise
 • function
-• medical practitioner
-• public servant.
+• public servant
+• reviewable decision notice.
 abatement notice means a notice under section 69.
 activity accreditation scheme means an activity accreditation scheme determined under section 22.
 activity accreditation standards, for an activity accreditation scheme, means the activity accreditation standards determined under section 22 for the scheme.
 activity licence means a licence under section 30.
 activity premises alteration, for a licensable public health risk activity, means a structural alteration of premises where the activity is carried on, including a structural alteration of any fixtures or fittings of the premises.
 activity register—see section 56D.
-analyst means an analyst under section 15.
+analyst means the following appointed under section 15:
+  (a) the government analyst;
+  (b) an analyst.
+approval, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
+approved person means—
+  (a) for division 3A.1 (Supply of syringes to approved people)—see section 66A; and
+  (b) for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
 authorisation means—
   (a) for a public health officer exercising a function under this Act—an authorisation given to the officer under section 12A (1) to exercise the function; and
   (b) for an authorised medical officer exercising a function under this Act—an authorisation given to the officer under section 14 (1) to exercise the function.
@@ -42,6 +47,7 @@ counsellor means—
   (a) a person registered as a psychologist under the Health Professionals Act 2004; or
   (b) a nurse counsellor; or
   (c) a social worker.
+course of instruction, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
 defined influential person, in relation to a person proposing to carry on, or carrying on, a public health risk activity, means—
   (a) if the person is to employ or otherwise engage, or employs or otherwise engages, a manager to carry on the activity, or that part of the activity that involves the performance of public health risk procedures—the manager; and
   (b) if the person is a body corporate—a director, secretary, officer or manager of the body; and
@@ -54,6 +60,7 @@ EIS—see the Planning and Development Act 2007, dictionary, definition of envir
 emergency declaration means a declaration under section 119.
 emergency direction means a direction under section 120.
 environmental impact statement—see the Planning and Development Act 2007, dictionary, definition of environmental impact statement.
+health worker, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
 improvement notice means a notice under section 58.
 insanitary condition means a condition, state or activity in relation to any of the following that a reasonable person would consider to be, or to be liable to become, a public health risk, damaging to public health or offensive to community health standards:
   (a) a building or structure;
@@ -79,7 +86,7 @@ occupier—
   (b) for part 5 (Inspection and analysis)—see section 75.
 offence, for part 5 (Inspection and analysis)—see section 75 (Definitions for pt 5).
 pathologist includes an assistant, and a technical officer, employed in a pathology laboratory.
-patient, in relation to a medical practitioner, means a person being professionally attended by the practitioner.
+patient, in relation to a doctor, means a person being professionally attended by the doctor.
 place means premises or land.
 premises includes a vehicle, vessel or aircraft, and a permanent or temporary structure.
 procedure accreditation scheme means a procedure accreditation scheme determined under section 42D.
@@ -110,12 +117,16 @@ responsible person, in relation to a person having a notifiable condition, means
   (b) an authorised nurse practitioner; or
   (c) a counsellor who has counselled the person in relation to the condition; or
   (d) a person who is responsible for the care, support or education of the person.
+reviewable decision, for part 9 (Review and appeals)—see section 130.
 scope of practice—see the Health Act 1993, section 195 (2).
 sewerage utility, for division 6B.2 (Sewage)—see section 118H (Definitions for div 6B.2).
+syringe includes the needle section or the plunger section of a syringe.
 transmissible notifiable condition means a notifiable condition—
   (a) determined by the Minister to be a transmissible notifiable condition under section 100 (1) (b); or
   (b) declared by the chief health officer to be a transmissible notifiable condition under section 101 (1) (b).
 utility—see the Utilities Act 2000, dictionary.
+vending machine, for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
+vending machine approval, for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
 water distributor, for division 6B.1 (Drinking water)—see section 118B (Definitions for div 6B.1).
 water supplier, for division 6B.1 (Drinking water)—see section 118B (Definitions for div 6B.1).
 water utility, for division 6B.1 (Drinking water)—see section 118B (Definitions for div 6B.1).
