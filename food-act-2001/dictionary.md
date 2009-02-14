@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -15,7 +15,8 @@ used or apparently used to promote, directly or indirectly, the sale of food.
 analysis includes any examination or testing of food or anything else.
 animal includes an amphibian, bird, crustacean, fish, mollusc or reptile.
 approved code of practice means a code of practice approved under section 149 (1).
-authorised analyst means an analyst mentioned in the Public Health Act 1997, section 15A (2) (Functions of analysts) who is authorised to exercise a function under this Act.
+authorised analyst means an analyst under the Public Health Act 1997, section 15 who is authorised under that Act to exercise a function under this Act.
+Note Analyst includes the government analyst (see Public Health Act 1997, dict).
 authorised officer means a public health officer who is authorised under the Public Health Act 1997, section 12A (2) (Functions of public health officers) to exercise a function under this Act.
 certificate of registration, for a food business, means a certificate of registration issued under section 96 (1) for the business.
 clearance certificate means a clearance certificate issued under section 86 (2).
