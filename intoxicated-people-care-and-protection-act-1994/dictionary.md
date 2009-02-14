@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -20,7 +20,6 @@ licensed place means a place where a licensee is licensed to provide a caring se
 licensee means a person who holds a licence under section 16.
 manager, for a licensed place, means the person in charge of the place.
 prescribed includes prescribed by the standards.
-prohibited substance—see the Drugs of Dependence Act 1989, section 3.
 public place means a place to which the public, or a section of the public, has access, whether by payment or not, and includes a school and any land or premises that belong to or are occupied or used in relation to a school.
 responsible person, in relation to an intoxicated person, includes—
   (a) a relative, guardian or friend of the intoxicated person who is an adult; or
