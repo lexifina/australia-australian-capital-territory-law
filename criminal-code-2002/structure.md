@@ -21,7 +21,6 @@
 ## Part 3.2 Theft and related offences
 ### Division 3.2.1 Interpretation for pt 3.2
 ### Division 3.2.2 Indictable offences for pt 3.2
-### Division 3.2.3 Summary offences for pt 3.2
 ## Part 3.3 Fraudulent conduct
 ### Division 3.3.1 Interpretation for pt 3.3
 ### Division 3.3.2 Obtaining property by deception
@@ -36,8 +35,6 @@
 ### Division 3.7.1 Interpretation for pt 3.7
 ### Division 3.7.2 Offences for pt 3.7
 ## Part 3.8 Impersonation or obstruction of territory public officials
-### Division 3.8.1 Indictable offences for pt 3.8
-### Division 3.8.2 Summary offences for pt 3.8
 ## Part 3.9 Procedural matters for ch 3
 ### Division 3.9.1 General—pt 3.9
 ### Division 3.9.2 Alternative verdicts—ch 3
