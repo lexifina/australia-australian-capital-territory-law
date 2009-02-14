@@ -11,4 +11,6 @@
 ## Part 6 Abortions
 ## Part 7 VMO service contracts
 ## Part 8 Secrecy
+## Part 9 Restriction on pharmacy premises
+## Part 10 Review of decisions
 ## Part 15 Miscellaneous
