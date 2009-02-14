@@ -1,4 +1,4 @@
-# Schedule 1 Disqualifying offences—Crimes Act 1900
+# U Schedule 1 Disqualifying offences—Crimes Act 1900
 (see s 6 (1), def disqualifying offence, par (a) (i))
 column 1 | column 2 | column 3
 item | section | description
