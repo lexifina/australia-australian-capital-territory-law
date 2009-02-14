@@ -7,6 +7,10 @@
 ### Division 3.4 Registration of public health risk activities
 ### Division 3.6 Improvement notices
 ### Division 3.7 Prohibition notices
+## Part 3A Supply of syringes
+### Division 3A.1 Supplying syringes to approved people
+### Division 3A.2 Supplying syringes by vending machine
+### Division 3A.3 Transitional—syringe approvals under Drugs of Dependence Act
 ## Part 4 Insanitary conditions
 ## Part 5 Inspection and analysis
 ### Division 5.1 Preliminary
