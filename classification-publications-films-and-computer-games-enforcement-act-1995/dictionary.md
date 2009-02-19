@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -9,17 +9,19 @@ exercise
 function
 individual
 reviewable decision notice
-the Territory.
+the Territory
+under.
 acceptable proof of age, in relation to a person, means documentary evidence that might reasonably be accepted as applying to the person and as showing that the person is an adult.
 advertisement—see the Commonwealth Act, section 5 (Definitions).
-approved form means a form approved by the director and published in the Commonwealth Gazette.
+approved form means a form approved under the Commonwealth Act, section 8A.
 at premises includes in or on the premises.
 board means the Classification Board established by the Commonwealth Act, section 45.
 buy means buy or exchange or hire, and includes offer to buy or exchange or hire, agree to buy, exchange or hire and cause or permit to be bought or exchanged or hired, whether by retail or wholesale.
 classified means classified under the Commonwealth Act, and includes reclassified under that Act.
 Commonwealth Act means the Classification (Publications, Films and Computer Games) Act 1995 (Cwlth).
-computer game—see the Commonwealth Act, section 5 (Definitions).
+computer game—see the Commonwealth Act, section 5A (Meaning of computer game).
 consumer advice means consumer advice determined under the Commonwealth Act, section 20.
+convenor means the Convenor of the Review Board appointed under the Commonwealth Act, section 74.
 defined offence, for division 6.5 (Seized films)—see section 54Y.
 defined period, for division 6.5 (Seized films)—see section 54Y.
 demonstrate includes exhibit, display, screen or make available for playing.

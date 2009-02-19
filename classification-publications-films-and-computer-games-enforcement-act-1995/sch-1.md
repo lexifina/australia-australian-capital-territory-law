@@ -16,4 +16,4 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 13 | 56 | state conditions subject to which exemption is given | applicant for exemption
 14 | 57 (1) | refuse to approve organisation | applicant for approval
 15 | 57 (2) | refuse to approve organisation | applicant for approval
-16 | 57 (7) | revoke approval | entity that has approval revoked
+16 | 57 (8) | revoke approval | entity that has approval revoked
