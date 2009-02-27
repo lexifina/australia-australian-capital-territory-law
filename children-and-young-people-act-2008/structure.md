@@ -6,6 +6,7 @@
 ### Division 1.3.2 Parental responsibility
 # Chapter 2 Administration
 ## Part 2.1 Chief executive
+## Part 2.2 Children and Youth Services Council
 ## Part 2.3 Official visitors
 ## Part 2.4 Suitable entities for purposes under Act
 # Chapter 3 Family group conferences
@@ -173,6 +174,17 @@
 ## Part 19.4 Witnesses and evidence
 ## Part 19.5 Orders
 ## Part 19.6 Costs
+# Chapter 20 Childcare services
+## Part 20.1 Childcare services—preliminary
+## Part 20.3 Childcare services—offences
+## Part 20.4 Childcare services—childcare service licences
+### Division 20.4.1 Childcare service licences—application, eligibility, etc
+### Division 20.4.2 Childcare service licences—renewal
+### Division 20.4.3 Childcare service licences—suspension and cancellation
+### Division 20.4.4 Childcare service licences—offences
+### Division 20.4.5 Childcare service licences—register, assessment and reporting
+## Part 20.5 Childcare services—enforcement
+# Chapter 22 Research involving children and young people
 # Chapter 23 Enforcement
 ## Part 23.1 General
 ## Part 23.2 Powers of authorised people
@@ -195,6 +207,7 @@
 ## Part 25.6 Protection of people who give information
 # Chapter 26 Miscellaneous
 # Chapter 27 Transitional
+## Part 27.1 General
 ## Part 27.2 Care and protection matters
 ## Part 27.3 Care and protection matters—interim transitionals
 ## Part 27.4 Criminal matters—transfers
