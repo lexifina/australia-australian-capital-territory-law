@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -22,6 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public servant
 · State
 · under.
+accommodation order—see the Crimes (Sentencing) Act 2005, section 133Y.
 activity includes education, counselling, personal development and treatment activities and programs.
 ACT prisoner, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 ACT sentence of imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
@@ -34,6 +35,7 @@ arrest warrant, for a person, for chapter 11 (Interstate transfer of prisoners)�
 at, in relation to a correctional centre, includes in the correctional centre.
 board means the Sentence Administration Board established under section 171.
 chair means the chair of the board.
+chief executive (CYP) means the chief executive responsible for the Children and Young People Act 2008.
 combination sentence—see the Crimes (Sentencing) Act 2005, section 29 (1) (Combination sentences—offences punishable by imprisonment) and section 30 (1) (Combination sentences—offences punishable by fine).
 committal order, for part 3.1 (Imprisonment)—see section 10.
 committing authority, for part 3.1 (Imprisonment)—see section 10.
@@ -99,7 +101,7 @@ nonparole period—
 Note Reduction or remission under a NSW law may apply to full-time detainees serving sentences at a NSW correctional centre (see s 36 (2) (b)).
 non-participating territory, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 offender—
-  (a) means a person convicted or found guilty of an offence by a court; but
+  (a) means a person convicted or found guilty of an offence by a court, and includes a young offender; but
   (b) for chapter 4 (Full-time detention)—see section 22; and
   (c) for a community-based sentence, for chapter 12 (Transfer of community-based sentences)—see section 263.
 order of transfer, for part 11.1 (Interstate transfer of prisoners)—see section 217.
@@ -166,4 +168,9 @@ translated sentence, for part 11.1 (Interstate transfer of prisoners)—see sect
 victim, of an offender, means—
   (a) for chapter 7 (Parole)—see section 118A; or
   (b) for this Act—see section 214.
-victims register—see section 213.
+young offender means a person who—
+  (a) has been convicted or found guilty of an offence by a court; and
+  (b) was under 18 years old when the offence was committed.
+young remandee means a remandee—
+  (a) who is under 18 years old; or
+  (b) who is over 18 years old but under 21 years old and is on remand in relation to an offence alleged to have been committed when he or she was under 18 years old.
