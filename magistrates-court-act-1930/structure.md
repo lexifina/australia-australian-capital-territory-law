@@ -54,6 +54,11 @@
 ## Part 4.3 Case stated for Supreme Court
 ## Part 4.4 Transfer of proceedings from or to Supreme Court
 ## Part 4.5 Civil appeals
+# Chapter 4A The Childrens Court
+## Part 4A.1 The Childrens Court
+## Part 4A.2 Childrens Court Magistrate
+## Part 4A.3 Criminal proceedings
 # Chapter 5 Miscellaneous
 ## Part 5.1 Offences
 ## Part 5.2 Other
+# Chapter 10 Transitional—Children and Young People Act 2008
