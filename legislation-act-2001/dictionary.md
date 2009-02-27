@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used terms
+Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -78,7 +78,7 @@ chief solicitor means the chief solicitor under the Government Solicitor Act 198
 chief surveyor means the Chief Surveyor under the Surveyors Act 2007.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 children and young people commissioner means the Children and Young People Commissioner under the Human Rights Commission Act 2005.
-Childrens Court means the Childrens Court under the Children and Young People Act 1999, section 53.
+Childrens Court means the Childrens Court under the Magistrates Court Act 1930, section 287.
 city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
 Note See s 103 for the meaning of references to repealed laws.
 civil partner—a person who is in a civil partnership with someone else is the civil partner of the other person.
@@ -178,8 +178,7 @@ former UK Act means an Act corresponding to a UK Act mentioned in schedule 1.
 Note Former UK Acts are also taken to have been enacted by the Legislative Assembly because of the Interpretation Act 1967, s 65. Section 65 has expired, but its previous operation was saved (see s 65 (3)).
 found guilty, of an offence, includes—
   (a) having an order made for the offence under the Crimes (Sentencing) Act 2005, section 17 (Non-conviction orders—general); and
-  (b) having the offence taken into account under the Crimes (Sentencing) Act 2005, section 57 (Outstanding additional offences taken into account in sentencing); and
-  (c) having an order made for the offence under the Children and Young People Act 1999, section 98 (Disposition without proceeding to conviction).
+  (b) having the offence taken into account under the Crimes (Sentencing) Act 2005, section 57 (Outstanding additional offences taken into account in sentencing).
 function includes authority, duty and power.
 gambling and racing commission means the Gambling and Racing Commission established under the Gambling and Racing Control Act 1999.
 gazette means the Australian Capital Territory Gazette.
