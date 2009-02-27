@@ -1,4 +1,4 @@
-# U Schedule 2 Jury service
+# Schedule 2 Jury service
 (see s 11)
 ## Part 2.1 Exempt people
 column 1 item | column 2 exempt people
@@ -21,12 +21,11 @@ column 1 item | column 2 exempt people
 17 | a public servant providing legal professional services in the staff of any of the following: (a) the Department of Justice and Community Safety; (b) the Legal Aid Commission (A.C.T.); (c) the Office of the Director of Public Prosecutions
 18 | a person holding any of the following positions in the Legislative Assembly: (a) clerk; (b) deputy clerk; (c) clerk assistant; (d) sergeant-at-arms; (e) editor of debates; (f) secretary to a committee of the Assembly
 19 | an employee at any of the following places: (a) a place declared to be a detention place under the Children and Young People Act 2008, section 142; (b) a place approved as a place of care under the Children and Young People Act 2008, section 525; (c) a place declared to be a therapeutic protection place under the Children and Young People Act 2008, section 625
-20 | a public servant holding a delegation under the Children and Young People Act 1999, section 34 whose principal function is to direct and control the provision of youth justice services in the ACT
-21 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
-22 | a corrections officer
-23 | an employee at a place declared to be a detention place under the Children and Young People Act 2008, section 142
-24 | a person appointed as 1 of the following: (a) a royal commission under the Royal Commissions Act 1991, section 5; (b) a board of inquiry under the Inquiries Act 1991, section 5; (c) a member of a judicial commission under the Judicial Commissions Act 1994, section 6
-25 | a public servant during the period the public servant is made available to a royal commission, board of inquiry or judicial commission
+20 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
+21 | a corrections officer
+22 | an employee at a place declared to be a detention place under the Children and Young People Act 2008, section 142
+23 | a person appointed as 1 of the following: (a) a royal commission under the Royal Commissions Act 1991, section 5; (b) a board of inquiry under the Inquiries Act 1991, section 5; (c) a member of a judicial commission under the Judicial Commissions Act 1994, section 6
+24 | a public servant during the period the public servant is made available to a royal commission, board of inquiry or judicial commission
 ## Part 2.2 People who may claim exemption
 column 1 item | column 2 people who may claim exemption
 1 | a minister of religion
