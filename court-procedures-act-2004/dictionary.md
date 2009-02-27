@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory authority.
 advisory committee means the advisory committee established under section 11.
 assistant sheriff, for part 5 (Court security)—see section 40.
+child, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Children and Young People Act 2008, section 11.
 corresponding law, for part 4 (Crown proceedings)—see section 20.
 court, for part 5 (Court security)—see section 40.
 court premises , for part 5 (Court security)—see section 40.
@@ -39,3 +40,4 @@ sheriff’s officer, for part 5 (Court security)—see section 40.
 Territory Crown, for part 4 (Crown proceedings)—see section 20.
 the Territory, for part 4 (Crown proceedings)—see section 20.
 tribunal, for part 3 (Court and tribunal fees)—see section 12.
+young person, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Children and Young People Act 2008, section 12.
