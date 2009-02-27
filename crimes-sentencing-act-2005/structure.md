@@ -30,5 +30,13 @@
 ## Part 8.2 Deferred sentence orders—supervision
 ## Part 8.3 Deferred sentence orders—amendment or cancellation
 ## Part 8.4 Deferred sentence orders—other provisions
+# Chapter 8A Sentencing young offenders
+## Part 8A.1 General
+## Part 8A.2 Young offenders—good behaviour orders
+### Division 8A.2.1 Young offenders—good behaviour orders generally
+### Division 8A.2.2 Good behaviour orders—education and training conditions
+### Division 8A.2.3 Good behaviour orders—supervision conditions
+## Part 8A.3 Young offenders—accommodation orders
 # Chapter 9 Miscellaneous
 # Chapter 10 Transitional
+# Chapter 11 Transitional—Children and Young People Act 2008
