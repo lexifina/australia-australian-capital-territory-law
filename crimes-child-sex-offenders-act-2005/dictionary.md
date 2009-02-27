@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -25,10 +25,8 @@ child sex offender registration order—see section 14.
 child sex offenders register—see section 117.
 class 1 offence—see section 10 (2).
 class 2 offence—see section 10 (3).
-community service order—
-  (a) means a community service order within the meaning of the Crimes (Sentencing) Act 2005, section 13 (6) (Good behaviour orders); or
+community service order means a community service order within the meaning of the Crimes (Sentencing) Act 2005, section 13 (6) (Good behaviour orders).
 Note An order under the Crimes Act 1900, s 408 (Directions to perform work) (repealed) is taken to be a good behaviour order under the Crimes (Sentencing) Act 2005 (see Crimes (Sentence Administration) Act 2005, s 339).
-  (b) see the Children and Young People Act 1999, section 106.
 contact person—see section 33.
 corresponding child sex offender registration order means an order (however described)—
   (a) made under a corresponding law; and
