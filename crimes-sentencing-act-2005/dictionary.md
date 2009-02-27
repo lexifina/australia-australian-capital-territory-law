@@ -19,11 +19,13 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · statutory office-holder
 · territory authority
 · working day.
+accommodation order—see section 133Y.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
 assessor, for part 4.2 (Pre-sentence reports)—see section 41 (6).
-at, in relation to a correctional centre, includes in the correctional centre.
+at, in relation to a correctional centre or detention place, includes in the correctional centre or detention place.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
+chief executive (CYP) means the chief executive responsible for the Children and Young People Act 2008.
 combination sentence—see section 29 (1) (Combination sentences—offences punishable by imprisonment) and section 30 (1) (Combination sentences—offences punishable by fine).
 community service condition, of a good behaviour order for an offender—see section 85.
 community service work—see the Crimes (Sentence Administration) Act 2005, section 316.
@@ -35,8 +37,10 @@ corrections officer—see the Corrections Management Act 2007, section 20.
 court—if a court has sentenced an offender, made an order or given a direction, means the same court, however constituted.
 deferred sentence obligations, for an offender, see section 120.
 deferred sentence order—see section 27 (2).
+detention place means a detention place under the Children and Young People Act 2008.
 domestic violence offence—see the Domestic Violence and Protection Orders Act 2001, section 9 (2).
-driver licence disqualification order—see section 17 (2).
+driver licence disqualification order—see section 16 (2).
+education and training condition—see section 133N.
 existing sentence, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 70 (1).
 fine, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 69.
 fine order—see section 14 (2).
@@ -54,7 +58,9 @@ periodic detention, for an offender—see the Crimes (Sentence Administration) A
 periodic detention period—see section 11 (2), and includes the period as extended under the Crimes (Sentence Administration) Act 2005.
 place restriction order—see section 21.
 pre-sentence report—see section 41 (1).
-pre-sentence report matter, for part 4.2 (Pre-sentence reports)—see section 40A.
+pre-sentence report matter—
+  (a) for part 4.2 (Pre-sentence reports)—see section 40A; and
+  (b) for a young offender—see section 133E.
 primary sentence, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 70 (1).
 primary victim, for part 4.3 (Victim impact statements)—see section 47, definition of victim, paragraph (a).
 principal offence, for part 4.4 (Taking additional offences into account)—see section 55.
@@ -77,8 +83,10 @@ sentence of imprisonment includes—
   (b) a combination sentence that imposes a penalty of imprisonment together with another penalty.
 sentence-related order, for part 4.4 (Taking additional offences into account)—see section 55.
 sentencing court, for part 8.2 (Deferred sentence orders—supervision) and part 8.3 (Deferred sentence orders—amendment or cancellation)—see section 123.
+supervision condition—see section 133U.
 surety, for a good behaviour order for an offender, means a person other than the offender who gives security for complying with the order.
 suspended sentence order—see section 12 (2).
 term—if the term of a sentence is amended under the Crimes (Sentence Administration) Act 2005, the term of the sentence as amended.
 victim, of an offence, for part 4.3 (Victim impact statements)—see section 47.
 victim impact statement, for an offence, for part 4.3 (Victim impact statements)—see section 47.
+young offender—see section 133B.
