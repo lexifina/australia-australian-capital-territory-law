@@ -33,6 +33,7 @@ Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 appeal period, for an appeal to a court against an order, means the period stated by a territory law during which an appeal against the order may be made without the court’s leave.
 appropriate authority—see section 100.
 appropriately qualified person—see section 13.
+arrest and removal order—see section 40A.
 authorised applicant—see section 12.
 child—see section 14.
 correctional centre includes a NSW correctional centre.
