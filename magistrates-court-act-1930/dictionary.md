@@ -5,12 +5,15 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · corrections officer
 · function
 · judge
-· lawyer.
+· lawyer
+· proceeding.
 administering authority, for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 another jurisdiction, for part 3.8 (Infringement notices for certain offences)—see section 117.
 appeal, for part 4.5 (Civil appeals)—see section 272.
 appearance—see section 311 (4).
-authorised person, for part 3.8 (Infringement notices for certain offences)—see section 134A (3).
+authorised person—
+  (a) for division 3.3.3A (Court attendance notices)—see section 41A; and
+  (b) for part 3.8 (Infringement notices for certain offences)—see section 134A (3).
 bailiff means a bailiff under this Act.
 certified copies, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
 claim means a claim under the rules.
@@ -19,6 +22,7 @@ conviction—
   (a) means conviction by a magistrate for an offence; and
   (b) for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 court means the Magistrates Court.
+court attendance notice, for division 3.3.3A (Court attendance notices)—see section 41B.
 Crimes Act, for chapter 3 (Criminal proceedings)—see section 18A.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, for part 3.8 (Infringement notices for certain offences)—see section 117.
 decision, for chapter 3 (Criminal proceedings)—see section 18A.
