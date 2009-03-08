@@ -6,8 +6,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · function
 · judge
-· lawyer
+· legal practitioner
 · magistrate
+· Magistrates Court
 · notifiable instrument (see s 10)
 · person
 · proceeding
