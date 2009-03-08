@@ -14,6 +14,7 @@
 ### Division 3.3.1 Beginning criminal proceedings—general
 ### Division 3.3.2 Informations
 ### Division 3.3.3 Summonses
+### Division 3.3.3A Court attendance notices
 ### Division 3.3.4 Warrants
 ## Part 3.4 Hearing of criminal proceedings
 ### Division 3.4.1 Hearing of criminal proceedings—general
