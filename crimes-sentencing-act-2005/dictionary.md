@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -38,7 +38,7 @@ court—if a court has sentenced an offender, made an order or given a direction
 deferred sentence obligations, for an offender, see section 120.
 deferred sentence order—see section 27 (2).
 detention place means a detention place under the Children and Young People Act 2008.
-domestic violence offence—see the Domestic Violence and Protection Orders Act 2001, section 9 (2).
+domestic violence offence—see the Domestic Violence and Protection Orders Act 2008, section 13 (2).
 driver licence disqualification order—see section 16 (2).
 education and training condition—see section 133N.
 existing sentence, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 70 (1).
