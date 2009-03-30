@@ -13,6 +13,6 @@ child, of a person, includes—
   (b) a child for whom the person is a guardian.
 coordinator means the Domestic Violence Project Coordinator appointed under section 11.
 council means the Domestic Violence Prevention Council established by section 4.
-domestic violence—see the Domestic Violence and Protection Orders Act 2001, section 9 (1).
-domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2001.
+domestic violence—see the Domestic Violence and Protection Orders Act 2008, section 13 (1).
+domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
 member means a member of the council.
