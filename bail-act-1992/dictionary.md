@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -45,7 +45,7 @@ child, of a person, includes a child—
   (a) who normally or regularly lives with the person; or
   (b) of whom the person is a guardian.
 court means the Supreme Court or Magistrates Court.
-domestic violence offence—an offence that a person is accused of committing is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2001.
+domestic violence offence—an offence that a person is accused of committing is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
 grant, in relation to bail (other than in section 22 (Criteria for granting bail to adults) or section 23 (Criteria for granting bail to children)), includes continue.
 offence includes—
   (a) an alleged offence; and
