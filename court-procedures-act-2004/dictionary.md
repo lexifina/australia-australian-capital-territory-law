@@ -22,7 +22,7 @@ deputy sheriff, for part 5 (Court security)—see section 40.
 determined fee, for part 3 (Court and tribunal fees)—see section 12.
 explosive, for part 5 (Court security)—see the Dangerous Substances Act 2004, section 73.
 fee, for part 3 (Court and tribunal fees)—see section 12.
-firearm, for part 5 (Court security)—see the Firearms Act 1996, section 4A.
+firearm, for part 5 (Court security)—see the Firearms Act 1996, section 6.
 judge, for part 5 (Court security)—see section 40.
 judgment, for part 4 (Crown proceedings)—see section 20.
 magistrate, for part 5 (Court security)—see section 40.
