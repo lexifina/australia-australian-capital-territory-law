@@ -270,7 +270,7 @@ proposed controlling person, for a childcare service, for chapter 20 (Childcare 
 proposed proprietor, for a childcare service, for chapter 20 (Childcare services)—see section 728.
 proprietor, of a childcare service, for chapter 20 (Childcare services)—see section 735.
 protected information—see section 844.
-protection order—see the Domestic Violence and Protection Orders Act 2001, dictionary.
+protection order—see the Domestic Violence and Protection Orders Act 2008, dictionary.
 provision, in a care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 421.
 psychiatrist means a doctor who is registered under the Health Professionals Regulation 2004 in the specialist area of psychiatry.
 receiving State, for part 5.2 (Interstate transfers)—see section 114.
