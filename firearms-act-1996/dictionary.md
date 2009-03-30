@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -80,7 +80,7 @@ corresponding order, in relation to a protection order or interim protection ord
 dispose, of a firearm—
   (a) for this Act—see section 9; and
   (b) for division 13.3 (Licensed firearms dealers—records and returns)—see section 192.
-domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2001.
+domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
 employed includes engaged.
 employee—
   (a) of a person, includes someone engaged by the person; and
@@ -110,7 +110,7 @@ government agency means—
 head, in relation to a government agency, means the chief executive who has control of the relevant administrative unit or other person who has administrative control of the agency.
 inoperable firearm means a firearm that has been rendered inoperable in accordance with this Act.
 interim protection order—
-  (a) see the Domestic Violence and Protection Orders Act 2001, dictionary, definition of interim order; and
+  (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of interim order; and
   (b) includes an interim protection order made under the Domestic Violence Act 1986 and an interim restraining order made under the Magistrates Court Act 1930.
 interstate licence, for part 8 (Temporary recognition of interstate licences and permits)—see section 134.
 licence means a licence in force under this Act.
@@ -142,7 +142,7 @@ prohibited firearm—see section 7.
 prohibited person, for part 13 (Firearms dealers)—see section 184.
 prohibited pistol means a prohibited firearm mentioned in schedule 1, item 20, item 21 or item 22.
 protection order—
-  (a) see the Domestic Violence and Protection Orders Act 2001, dictionary, definition of final order; and
+  (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of final order; and
   (b) includes a protection order made under the Domestic Violence Act 1986 and a restraining order made under the Magistrates Court Act 1930.
 public place means any street, road, public park, reserve or other place that the public are entitled to use or that is open to, or used by, the public, whether on payment of money or otherwise.
 register means the register of firearms provided for in section 156.
