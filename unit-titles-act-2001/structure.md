@@ -6,6 +6,7 @@
 ### Division 3.1 Approval of unit title applications
 ### Division 3.2 Endorsement of units plan for registration
 ### Division 3.3 Amendment of development statements
+### Division 3.4 Developer disclosure
 ## Part 4 Registration of units plans
 ### Division 4.1 Subdivision, unit leases and common property lease
 ### Division 4.2 Easements
@@ -26,6 +27,7 @@
 ### Division 6.4 Voting at general meetings
 ### Division 6.5 Dispute resolution
 ## Part 7 Owners corporation articles
+## Part 7A Implied warranties
 ## Part 8 Insurance
 ## Part 9 Administrators
 ### Division 9.1 Interested parties
@@ -38,7 +40,9 @@
 ### Division 11.1 Cancellation authority
 ### Division 11.2 Cancellation orders
 ### Division 11.3 Effects of cancellation
+## Part 11A Changing 2-unit units plans to subdivisions
 ## Part 12 Variation of unit leases
 ## Part 13 Expiry and termination of unit leases
 ## Part 14 Notification and review of decisions
 ## Part 15 Miscellaneous
+## Part 20 Transitional—Unit Titles Amendment Act 2008 (No 2)

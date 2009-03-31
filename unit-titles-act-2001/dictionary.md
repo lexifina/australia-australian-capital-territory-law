@@ -47,7 +47,11 @@ company includes any body corporate.
 contribution means a contribution to a general fund or the sinking fund of an owners corporation.
 corporate register—see section 70.
 deadlock order—see section 123.
-default articles—see section 126 (1) (a).
+default articles—see section 126.
+developer means the lessee of a parcel who applies for the approval of the subdivision of the parcel under section 17 (Unit title applications—general requirements).
+developer control period, for a units plan, means the period that—
+  (a) starts on the day the owners corporation for the units plan is established; and
+  (b) ends on the day people other than the developer hold 1/3 or more of the unit entitlements for the units plan.
 development, of a parcel, a unit or common property—
   (a) means the erection, alteration or addition of a building on the parcel, unit or common property; and
   (b) for a unit title application—includes a proposal for the erection, alteration or addition of a building on the parcel, unit or common property.
@@ -68,12 +72,14 @@ final building damage order—see section 157.
 financial year, for an owners corporation, means—
   (a) a period of 12 months beginning on 1 July; or
   (b) any other period of 12 months decided by the owners corporation.
+financier, for a service contract—see section 55R.
 former members, of an owners corporation that is dissolved, means the people who were the members of the corporation immediately before the dissolution.
 full name, of a company, means the full name of the company together with the full name of its secretary or public officer (or an equivalent office-holder).
 general fund, of an owners corporation, means—
   (a) the administrative fund of the corporation (see section 59 (1)); or
   (b) a special purpose fund of the corporation (see section 59 (2)).
 general funds budget—see section 59 (5).
+implied warranties, for part 7A (Implied warranties)—see section 130D.
 improved value, for calculating the unit entitlement of a unit (whether before or after the registration of the units plan) means—
   (a) for a class A unit—the total of the following values:
     (i) the value of the unit itself;
@@ -83,6 +89,7 @@ improved value, for calculating the unit entitlement of a unit (whether before o
     (i) the combined value of the land occupied by the unit itself and of all buildings on the land;
     (ii) for any unit subsidiaries annexed to the unit that are buildings or parts of buildings—the value of the buildings or parts of buildings;
     (iii) for any unit subsidiaries annexed to the unit that are constituted by land—the combined value of the land and all buildings on the land.
+initial sinking fund plan, for division 5.4 (Finances of owners corporation)—see section 62.
 interest, in a unit or common property, means a legal or equitable estate or interest (whether registered or unregistered) in the lease of the unit or of the common property, except an interest in a sublease of a unit.
 interested nonvoter—a person with an interest in a unit or the common property is an interested nonvoter in relation to an application under this Act for amendment of a development statement (under section 30), a boundary authority (under section 149) or a cancellation authority (under section 160) if—
   (a) the interest was shown on the corporate register (or known to an executive member) when the application was made; and
@@ -147,13 +154,19 @@ representative—
   (c) for a mortgagee that has given a mortgagee voting notice to an owners corporation—see section 112 (Voting by mortgagees).
 reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
+secretary, for an owners corporation, means the secretary of the corporation elected under section 87.
+service contract, for an owners corporation, means a contract entered into by the owners corporation with a service contractor to provide service contractor services under section 55J.
+service contractor, for an owners corporation, means the owners corporation service contractor contracted by the owners corporation under section 55J.
 sinking fund—see section 61.
+sinking fund expenditure, for division 5.4 (Finances of owners corporation)—see section 55W.
+sinking fund plan, for division 5.4 (Finances of owners corporation)—see section 63A.
 special purpose fund—see section 59 (2).
 special resolution means a resolution of a general meeting passed as required by section 106.
 staged development, in relation to a unit title application—see section 17 (3) (Unit title applications—general requirements).
 standard quorum—see section 99 (Quorum at a general meeting—owners corporations with 3 or more members).
 termination, of a lease of a unit, does not include the termination of the lease on surrender under the Planning and Development Act 2007, section 254 (Grant of further leases).
 total sinking fund amount—see section 63 (1) (Sinking funds—annual payments).
+treasurer, for an owners corporation, means the treasurer of the corporation elected under section 87.
 unanimous resolution means a resolution of a general meeting passed as required by section 108.
 unit—see section 9.
 unit entitlement—see section 8.
