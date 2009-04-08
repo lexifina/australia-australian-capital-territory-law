@@ -5,6 +5,7 @@
 ### Division 2.3 Eligible transactions
 ### Division 2.4 Application for grant
 ### Division 2.5 Decision on application
+### Division 2.5A Amount of grant—certain eligible transactions
 ### Division 2.6 Objections and appeals
 ## Part 3 Administration
 ### Division 3.1 Administration generally
