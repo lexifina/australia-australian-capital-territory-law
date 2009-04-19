@@ -2,12 +2,12 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· corporation
-· entity
-· exercise
-· functions
-· State
-· under.
+• corporation
+• entity
+• exercise
+• functions
+• State
+• under.
 accredited ART centre—see section 23.
 animal does not include a human.
 chimeric embryo means—
