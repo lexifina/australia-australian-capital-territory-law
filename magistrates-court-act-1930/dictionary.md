@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -64,6 +64,7 @@ registrar means the registrar of the Magistrates Court, and includes a deputy re
 relevant officer, in relation to a reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reminder notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
 responsible person, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (General) Act 1999, section 10 and section 11.
+review appeal, for division 1.10.3 (Review appeals in criminal matters)—see section 219B (1).
 rules means rules under the Court Procedures Act 2004 applying in relation to the Magistrates Court.
 sold vehicle declaration, for part 3.8 (Infringement notices for certain offences)—see section 131F.
 State, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
