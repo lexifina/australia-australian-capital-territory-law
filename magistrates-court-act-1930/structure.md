@@ -46,6 +46,7 @@
 ### Division 3.10.1 Criminal appeals—jurisdiction of Supreme Court
 ### Division 3.10.2 Appeals in criminal matters
 ### Division 3.10.2A Reference appeals in criminal matters
+### Division 3.10.3 Review appeals in criminal matters
 ### Division 3.10.4 Criminal appeals—other provisions
 ## Part 3.11 Costs in criminal matters
 ## Part 3.12 Securities in criminal matters
@@ -63,3 +64,5 @@
 ## Part 5.1 Offences
 ## Part 5.2 Other
 # Chapter 10 Transitional—Children and Young People Act 2008
+# Chapter 11 Transitional—Crimes Legislation Amendment Act 2008
+# Chapter 12 Transitional—Sexual and Violent Offences Legislation Amendment Act 2008
