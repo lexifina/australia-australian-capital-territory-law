@@ -21,6 +21,7 @@
 ## Part 3.2 Theft and related offences
 ### Division 3.2.1 Interpretation for pt 3.2
 ### Division 3.2.2 Indictable offences for pt 3.2
+### Division 3.2.3 Summary offences for pt 3.2
 ## Part 3.3 Fraudulent conduct
 ### Division 3.3.1 Interpretation for pt 3.3
 ### Division 3.3.2 Obtaining property by deception
