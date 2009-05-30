@@ -1,11 +1,11 @@
-# U Schedule 1 Disqualifying offences—Crimes Act 1900
+# Schedule 1 Disqualifying offences—Crimes Act 1900
 (see s 6 (1), def disqualifying offence, par (a) (i))
 column 1 | column 2 | column 3
 item | section | description
 1 | 12 | murder
 2 | 19 | intentionally inflicting grievous bodily harm
 3 | 20 | recklessly inflicting grievous bodily harm
-4 | 22 | assault with intent to commit certain indictable offences
+4 | 22 | assault with intent to commit other offence
 5 | 32 (1) (a) | make demand with threat to kill or inflict grievous bodily harm
 6 | 32 (2) (a) | make demand with threat to endanger health etc
 7 | 35 | stalking
