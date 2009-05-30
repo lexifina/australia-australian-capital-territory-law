@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 6)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -12,7 +12,6 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · found guilty
 · function
 · indictment
-· indictable offence
 · interest (in relation to land or other property)
 · intersex person (see s 169B)
 · lawyer
@@ -90,7 +89,6 @@ frisk search, for part 13 (Search warrants)—see section 195.
 fully satisfied—a forfeiture order or penalty order, or an automatic forfeiture of property, is fully satisfied when—
   (a) for an automatic forfeiture of property or a forfeiture order—the property that is the subject of the automatic forfeiture or order has vested in law in the Territory and the public trustee has taken control of the property; and
   (b) for a penalty order—the amount of the order has been paid to, or recovered by, the Territory or realised by the public trustee from the disposal of property.
-indictable offence—see section 13 (2).
 information order—see section 186.
 inquiry notice—see section 144.
 in relation to—to remove any doubt, in relation to includes—
@@ -128,7 +126,7 @@ occupier, of premises, for part 13 (Search warrants)—see section 195.
 offence—see section 13 (1).
 offender, in relation to an offence, means a person (including a corporation) who committed, or is alleged to have committed, the offence.
 Note A reference to a person generally includes a reference to a corporation as well as an individual, see the Legislation Act, s 160. (See also the Legislation Act, dict, pt 1, def person.)
-ordinary indictable offence—see section 13 (2).
+ordinary offence—see section 13 (2).
 ordinary search, for part 13 (Search warrants)—see section 195.
 party, to an offence, means a person who—
   (a) commits or participates in the offence; or
@@ -150,6 +148,7 @@ registrable property means property title to which is passed by registration in 
 registered property interest means an interest in property recorded in a statutory property register.
 related offence—see section 13 (3).
 relevant court—see section 238.
+relevant offence—see section 13 (2).
 reserved funds, for part 10 (Confiscated assets trust fund)—see section 128.
 restrained, in relation to property, means property subject to a restraining order.
 restraining order—see section 19.
