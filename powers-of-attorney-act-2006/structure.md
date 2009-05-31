@@ -22,4 +22,3 @@
 ## Part 7.4 Other proceedings and rights
 # Chapter 8 Interstate documents equivalent to powers of attorney
 # Chapter 9 Miscellaneous
-# Chapter 20 Transitional provisions
