@@ -15,6 +15,7 @@
 ### Division 5.1 Establishment and legal status of owners corporation
 ### Division 5.2 Membership and representatives
 ### Division 5.3 General functions
+### Division 5.3A People appointed by owners corporation to help run owners corporation
 ### Division 5.3B Service contractors
 #### Subdivision 5.3B.1 Service contractor—contract and functions
 #### Subdivision 5.3B.2 Service contractor—protection of contract financier

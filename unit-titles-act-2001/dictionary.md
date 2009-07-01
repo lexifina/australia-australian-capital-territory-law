@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -119,6 +119,7 @@ maintenance, of a building, a facility for a utility service or a utility condui
   (b) replacement; and
   (c) renewal; and
   (d) restoration.
+manager, for an owners corporation, means the owners corporation manager appointed by the owners corporation under section 55.
 minor boundary change—see section 16.
 mortgage means a registered mortgage, or a registered encumbrance, within the meaning of the Land Titles Act 1925.
 mortgagee means—
