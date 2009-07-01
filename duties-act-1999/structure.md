@@ -24,13 +24,8 @@
 ## Part 3.5 Allotment of shares by direction
 ## Part 3.6 Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth)
 ## Part 3.7 Exemptions—ch 3 transactions
-# Chapter 5 Lease instruments
-## Part 5.1 Preliminary
-## Part 5.2 Liability for duty
-## Part 5.3 Rates of duty
-## Part 5.4 Unascertainable lease costs
-## Part 5.5 Miscellaneous
-## Part 5.6 Expiry—ch 5
+### Division 3.7.1 Exempt transactions—personal relationships
+### Division 3.7.2 Exempt transactions—‘top hatting’ arrangements
 # Chapter 7 Mortgages
 # Chapter 8 Insurance
 ## Part 8.1 Preliminary

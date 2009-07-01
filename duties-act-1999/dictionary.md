@@ -77,9 +77,9 @@ eligible person, for part 2.6A (Deferred payments—home buyers)—see section 7
 eligible property, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 entity, for part 3.2 (Acquisition of interests in certain landholders)—see section 78A.
+exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
-fit-out costs in relation to a lease, means improvements made by or on behalf of, or at the expense of, the lessee and that remain the property of the lessee.
 foreign resident means a person who at the relevant time—
   (a) for a person, other than a person mentioned in paragraph (b) or (c)—is not resident or domiciled in Australia; or
   (b) for a body corporate—is not incorporated under a law of an Australian jurisdiction and—
@@ -127,6 +127,7 @@ international transport, in relation to freight, means the transport, in connect
     (i) another foreign country; or
     (ii) Australia; or
     (iii) an external Territory.
+interposed trust, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 land includes a stratum.
 landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 79.
 landholding, for part 3.2 (Acquisition of interests in certain landholders)—see section 80.
@@ -142,7 +143,6 @@ lease means—
   (a) a lease of land in the ACT or an agreement for a lease of land in the ACT; or
   (b) an agreement (for example, a licence) by which a right to use land in the ACT at any time and for any purpose is given to or acquired by a person.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-lease instrument, for chapter 5 (Lease instruments)—see section 133.
 lessee includes—
   (a) any assignee for the time being of the rights of the lessee under a lease; and
   (b) a person who has a right of the kind mentioned in the definition of lease, paragraph (b).
@@ -264,8 +264,6 @@ unit, in relation to a unit trust scheme, means—
   (a) a right or interest (whether described as a unit or a sub-unit or otherwise) of a beneficiary under the scheme; or
   (b) a right to any such right or interest.
 unit trust scheme means any arrangements made for the purpose, or having the effect, of providing, for people having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in any profits, income or distribution of assets arising from the acquisition, holding, management or disposal of any property whatever under the trust.
-value of the lease—see section 140 (1) (b) (General rate—short-term leases).
-variation, in relation to a lease, means a variation made for any reason or on any basis and includes a further variation.
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
 voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
