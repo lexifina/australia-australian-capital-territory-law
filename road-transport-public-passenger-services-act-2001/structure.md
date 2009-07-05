@@ -33,5 +33,6 @@
 ### Division 8.4 Service contracts for demand responsive services
 ### Division 8.5 Entitlement to operate demand responsive services
 ### Division 8.6 Regulation of demand responsive services
+## Part 8A Additional public passenger vehicle insurance
 ## Part 9 Enforcement
 ## Part 10 Miscellaneous
