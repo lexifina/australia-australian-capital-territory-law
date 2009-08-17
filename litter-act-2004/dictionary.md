@@ -17,6 +17,7 @@ commercial waste means—
   (b) waste collected and transported in the course of business.
 deposit means the act of parting with possession of litter.
 driver—see the Road Transport (General) Act 1999, dictionary.
+escape, into or onto a public place, includes fall, descend and percolate, and be blown or washed, into or onto the place.
 lake—see the Lakes Act 1976, dictionary.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 occupier, of premises, includes the person in charge of the premises.

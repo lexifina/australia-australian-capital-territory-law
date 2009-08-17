@@ -4,5 +4,7 @@
 ## Part 4 Enforcement
 ### Division 4.1 Authorised people
 ### Division 4.2 Powers of authorised people
-### Division 4.3 Removal of litter
+### Division 4.3 Dealing with litter
+#### Subdivision 4.3.1 Dealing with litter—removal etc by person
+#### Subdivision 4.3.2 Dealing with litter—removal etc by Territory
 ## Part 5 Miscellaneous
