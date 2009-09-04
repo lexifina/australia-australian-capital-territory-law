@@ -15,6 +15,11 @@
 ### Division 4.3 Sexual and violent offence proceedings—giving evidence from places other than courtrooms
 ### Division 4.4 Evidence of complainant’s sexual reputation and activities
 ### Division 4.5 Protection of counselling communications
+### Division 4.6 Sexual offence proceedings—directions and warnings to juries
+### Division 4.7 Family objections
+### Division 4.8 Proceedings against young people
+## Part 4A Evidence in any proceedings
+## Part 5 Certain evidence under court rules not admissible
 ## Part 6 Publication of evidence
 ## Part 7 Miscellaneous
 ## Part 10 Transitional—Sexual and Violent Offences Legislation Amendment Act 2008
