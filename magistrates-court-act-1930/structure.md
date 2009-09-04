@@ -18,7 +18,6 @@
 ### Division 3.3.4 Warrants
 ## Part 3.4 Hearing of criminal proceedings
 ### Division 3.4.1 Hearing of criminal proceedings—general
-### Division 3.4.2 Warrants for witnesses
 ### Division 3.4.3 Remand
 ### Division 3.4.4 Committal and recognisance
 ### Division 3.4.5 Adjournment of criminal proceedings
@@ -65,4 +64,3 @@
 ## Part 5.2 Other
 # Chapter 10 Transitional—Children and Young People Act 2008
 # Chapter 11 Transitional—Crimes Legislation Amendment Act 2008
-# Chapter 12 Transitional—Sexual and Violent Offences Legislation Amendment Act 2008
