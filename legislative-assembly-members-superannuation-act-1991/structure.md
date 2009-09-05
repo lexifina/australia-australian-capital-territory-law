@@ -8,4 +8,3 @@
 ## Part 2.4 Notification and review of decisions
 # Chapter 3 Choice of funds scheme
 # Chapter 4 Miscellaneous
-# Chapter 10 Transitional—Superannuation (Legislative Assembly Members) Amendment Act 2008
