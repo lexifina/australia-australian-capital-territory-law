@@ -20,8 +20,6 @@
 ### Division 5.7 Suspension, cancellation and variation of licences
 ### Division 5.8 Annual charge
 ## Part 5A Emergency dealing determinations
-### Division 5A.3 Effect and conditions of emergency dealing determination
-### Division 5A.4 Variation, suspension and revocation of emergency dealing determination
 ## Part 6 Regulation of notifiable low risk dealings on GMO register
 ### Division 6.1 Simplified outline of pt 6
 ### Division 6.2 Notifiable low risk dealings
