@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Commonwealth
 · corporation
 · Corporations Act
+· daily newspaper
 · document
 · entity
 · exercise

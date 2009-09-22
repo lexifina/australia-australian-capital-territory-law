@@ -112,8 +112,7 @@
 ### Division 6.3.5 Miscellaneous—pt 6.3
 ## Part 6.4 Additional powers in relation to incorporated legal practices
 ## Part 6.5 Miscellaneous—ch 6
-# Chapter 7 Regulatory authorities
-## Part 7.1 Admissions board
+# Chapter 7 Admissions board
 # Chapter 8 Professional bodies
 ## Part 8.1 Bar council
 ## Part 8.2 Law society and law society council
