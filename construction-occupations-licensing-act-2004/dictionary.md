@@ -20,7 +20,9 @@ asbestos removal service—see section 7B (2).
 authorised action, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
+building certification service—see section 9 (2).
 building certifier—see the Building Act 2004, dictionary, definition of certifier.
+building service—see section 8 (2).
 building surveyor—see section 9.
 building work—see the Building Act 2004, section 6.
 class, of a construction occupation, means a class into which the occupation is divided under the regulations (see section 15).
@@ -28,11 +30,12 @@ compliance auditor, for part 6 (Enforcement)—see section 76.
 conduct means an act or an omission to do an act.
 construction occupation—see section 7.
 construction practitioner—see section 6.
-daily ACT newspaper means a daily newspaper published and circulating in the ACT.
+construction service—see section 6 (2).
 demerit disciplinary ground, for part 8 (Demerit points system)—see section 89.
 demerit points register, for part 8 (Demerit points system)—see section 89.
 disciplinary incident, for part 8 (Demerit points system)—see section 89.
 drainer—see section 10.
+electrical wiring service—see section 11 (2).
 electrician—see section 11.
 emergency rectification order—see section 39.
 endorsement means an endorsement under section 22.
@@ -41,6 +44,7 @@ engage in conduct means—
   (b) omit to do an act.
 former licensee means an entity that has been a licensee.
 gasfitter—see section 12.
+gasfitting service—see section 12 (2).
 ground for occupational discipline—see section 55.
 infringement notice—see Magistrates Court Act 1930, section 117.
 licence means a licence under this Act.
@@ -57,11 +61,14 @@ occupational discipline means—
 occupation class means a class into which a construction occupation is divided under section 15.
 operational Act—see section 16.
 plumber—see section 13.
+plumbing plan certification service—see section 14 (2).
 plumbing plan certifier—see section 14.
+plumbing service—see section 13 (2).
 previous 3 years, for part 8 (Demerit points system)—see section 90.
 rectification order—see section 38 (1).
 register means the register kept under section 107.
 registrar—see section 103.
 reviewable decision, for part 11A (Notification and review of decisions)—see section 123A.
+sanitary drainage service—see section 10 (2).
 storey—see the Building Act 2004, dictionary.
 supervise includes direct.
