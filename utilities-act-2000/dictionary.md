@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · commissioner for revenue
 · corporation
+· daily newspaper
 · disallowable instrument (see s 9)
 · exercise
 · function
@@ -37,7 +38,6 @@ customer contract means—
   (a) a standard customer contract; or
   (b) a negotiated customer contract.
 customer debt, for part 12 (Complaints to ACAT about utilities)—see section 169.
-daily newspaper means a daily newspaper that circulates generally in the Territory.
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 determined, for part 3A (Energy industry levy)—see section 54A.
