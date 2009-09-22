@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • civil partner
+• daily newspaper
 • doctor
 • domestic partner (see s 169)
 • entity

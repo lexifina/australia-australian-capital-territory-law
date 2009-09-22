@@ -136,7 +136,7 @@ amount payable, under an insurance policy in relation to an occupational liabili
 (3) The council may, on the application of an occupational association, recommend a scheme prepared under this section to the Minister for approval.
 (4) A scheme prepared under this section may indicate an intention to operate as a scheme of this jurisdiction only, or of both this jurisdiction and another jurisdiction.
 ## 4.5 Public notification of schemes
-(1) Before recommending a scheme, the council must publish a notice in a daily newspaper circulating in the ACT—
+(1) Before recommending a scheme, the council must publish a notice in a daily newspaper—
   (a) explaining the nature and significance of the scheme; and
   (b) stating where a copy of the scheme can be obtained or inspected; and
   (c) inviting comments and submissions within a stated time, but at least 21 days after the day the notice is published.
