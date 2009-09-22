@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-Part 1 Meaning of commonly-used terms
+U Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -20,12 +20,16 @@ amend includes—
   (c) for a provision of an Act or statutory instrument—omit the provision (or a part of it), substitute another provision for the provision (or a part of it), renumber the provision (or a part of it) or relocate the provision (or a part of it); and
   (d) for any other instrument, a provision of an instrument or a decision—change or alter.
 appoint includes reappoint.
+AS—see section 164 (1) (References to Australian Standards etc).
+AS/NZS—see section 164 (2) (References to Australian Standards etc).
 asset includes property of any kind.
 Attorney-General means the Minister designated Attorney-General by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Attorney-General.
 auditor-general means the Auditor-General for the Territory under the Auditor-General Act 1996.
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external territory.
 Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Australian driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def driver licence).
+Australian/New Zealand Standard—see section 164 (2) (References to Australian Standards etc).
+Australian Standard—see section 164 (1) (References to Australian Standards etc).
 Australian statistician means the Australian Statistician under the Australian Bureau of Statistics Act 1975 (Cwlth).
 authorised deposit-taking institution (or ADI) means an authorised deposit-taking institution under the Banking Act 1959 (Cwlth).
 bank means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
@@ -118,6 +122,7 @@ credit union means an authorised deposit-taking institution that is permitted un
   (a) the term ‘credit union’; or
   (b) any other term (whether or not in English) similar in meaning.
 Criminal Code means the Criminal Code 2002.
+daily newspaper means a daily newspaper circulating generally in the ACT.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130.
 dental prosthetist means a person registered as a dental prosthetist under the Health Professionals Act 2004.
@@ -306,8 +311,7 @@ Note A child cannot have more than 2 parents at any one time (see Parentage Act 
 parliamentary counsel means the person performing the duties of Parliamentary Counsel in the public service.
 passing, of an Act—see section 29.
 penalty unit—see section 133.
-person includes an individual and a corporation.
-Note Section 160 deals with references to a person generally.
+person—see section 160 (References to people generally).
 pharmacist—
   (a) means a person unconditionally registered as a pharmacist under the Health Professionals Act 2004; and
   (b) for an activity, includes a person conditionally registered as a pharmacist under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
@@ -342,7 +346,6 @@ registrar means—
   (c) in relation to a tribunal—the registrar of the tribunal.
 registrar-general means the Registrar-General under the Registrar-General Act 1993.
 registrar of firearms means the Registrar of Firearms under the Firearms Act 1996.
-registrar of liquor licences means the Registrar of Liquor Licences under the Liquor Act 1975.
 regulation, in relation to an Act, means a regulation made or in force under the Act.
 remuneration tribunal means the Remuneration Tribunal established under the Remuneration Tribunal Act 1995.
 repeal includes—
@@ -361,14 +364,15 @@ rules means—
   (a) of a court or tribunal—rules made by the entity having power to make rules (however described) regulating the practice and procedure of the court or tribunal; and
   (b) in relation to an Act—rules made or in force under the Act.
 rural fire service means the ACT Rural Fire Service under the Emergencies Act 2004.
-see, in a definition—see section 131 (Signpost definitions).
 Self-Government Act means the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
 self-government day means 11 May 1989.
 Note This is the day when the remaining provisions of the Self-Government Act commenced and, in particular, the Australian Capital Territory was established as a body politic, the Legislative Assembly was empowered to make laws for the ACT and the Executive was established.
 sentence administration board means the Sentence Administration Board under the Crimes (Sentence Administration) Act 2005.
 SES means the ACT State Emergency Service established under the Emergencies Act 2004.
 sign includes attach a seal and make a mark.
-sitting day, of the Legislative Assembly, means a day when the Assembly meets.
+signpost definition—see section 131 (Signpost definition).
+sitting day, of the Legislative Assembly, means a period that commences on a day the Assembly meets and continues until the Assembly next adjourns.
+Note A sitting day may continue for 1 or more days.
 solicitor means a lawyer who practises as a solicitor.
 Speaker means the Presiding Officer of the Legislative Assembly.
 Note The Presiding Officer is elected under the Self-Government Act, s 11.
