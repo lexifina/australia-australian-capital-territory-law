@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · chief executive (see s 161)
 · child
 · contravene
+· daily newspaper
 · exercise
 · fail
 · financial year
