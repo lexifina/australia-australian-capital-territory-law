@@ -9,6 +9,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · penalty unit (see s 133)
 · reviewable decision notice
 · sitting day.
+1987 NSW Act, for part 5A (Jockeys accident insurance)—see section 61A.
+1998 NSW Act, for part 5A (Jockeys accident insurance)—see section 61A.
+ACT jockey, for part 5A (Jockeys accident insurance)—see section 61A.
+applied NSW Acts, for part 5A (Jockeys accident insurance)—see section 61A.
 approved rules means—
   (a) in relation to the racing club—the rules of thoroughbred racing; and
   (b) in relation to the harness club—the rules of harness racing; and
@@ -30,8 +34,11 @@ deputy president means the deputy president of the tribunal referred to in secti
 director, in relation to a controlling body, means a person occupying or acting in the position of a director of the body, by whatever name called.
 greyhound club means the Canberra Greyhound Racing Club Inc. referred to in section 27.
 harness club means the Canberra Harness Racing Club Inc. referred to in section 21.
+injury, for part 5A (Jockeys accident insurance)—see section 61A.
 inquiry, in relation to the commission, means an inquiry conducted by the commission in accordance with the Gambling and Racing Control Act 1999.
 licensed racecourse—see section 5.
+NSW Acts, for part 5A (Jockeys accident insurance)—see section 61A.
+NSW jockey, for part 5A (Jockeys accident insurance)—see section 61A.
 president means the president of the tribunal referred to in section 40.
 race means—
   (a) a thoroughbred race; or
@@ -40,11 +47,13 @@ race means—
   (d) a race of a kind prescribed by regulation.
 race meeting means an event at which races are conducted.
 racing club means the Australian Capital Territory racing club Inc. referred to in section 15.
+Racing NSW, for part 5A (Jockeys accident insurance)—see the Thoroughbred Racing Act 1996 (NSW), section 3.
 registrar means the registrar of the tribunal appointed under section 46.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 62.
 rules of greyhound racing means the rules made under section 31.
 rules of harness racing means the rules made under section 25.
 rules of the tribunal means the rules of procedure made under section 45.
 rules of thoroughbred racing means the rules made or adopted under section 19.
+special insurance scheme, for NSW jockeys, for part 5A (Jockeys accident insurance)—see section 61A.
 special rules means rules of racing or betting approved under section 12.
 tribunal means the Racing Appeals Tribunal established under part 5.
