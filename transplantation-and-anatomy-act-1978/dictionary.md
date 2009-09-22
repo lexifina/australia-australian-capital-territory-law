@@ -21,6 +21,7 @@ next of kin means—
   (a) for a dead child—someone mentioned in the definition of senior available next of kin, paragraph (a) (i), (ii) or (iii); or
   (b) for any other dead person—someone mentioned in that definition, paragraph (b) (i), (ii), (iii), (iv) or (v).
 non-regenerative tissue means tissue other than regenerative tissue.
+parent, for division 2.3 (Donations from children)—see section 12.
 regenerative tissue means tissue that, after injury or removal, is replaced in the body of a living person by natural processes of growth or repair.
 registered nurse—see the Legislation Act, dictionary, part 1, definition of nurse.
 school of anatomy, for part 5 (Donations for anatomical purposes)—see section 36.
@@ -36,6 +37,7 @@ senior available next of kin means—
     (iv) if no-one mentioned in subparagraph (i), (ii) or (iii) is available but a parent of the dead person is available—the parent; or
     (v) if no-one mentioned in subparagraph (i), (ii), (iii) or (iv) is available— an adult brother or sister of the dead person who is available.
 Note For the meaning of domestic partner and domestic partnership, see Legislation Act, s 169.
-tissue includes an organ, or part, of a human body or a substance extracted from, or from a part of, the human body.
-tissue, for part 2 (Donations of tissue by living persons)—see section 6.
+tissue—
+  (a) for this Act generally—includes an organ, or part, of a human body or a substance extracted from, or from a part of, the human body; and
+  (b) for part 2 (Donations of tissue by living persons)—see section 6.
 transplantation of tissue—see section 4.
