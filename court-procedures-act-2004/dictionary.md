@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -39,5 +39,4 @@ sheriff, for part 5 (Court security)—see section 40.
 sheriff’s officer, for part 5 (Court security)—see section 40.
 Territory Crown, for part 4 (Crown proceedings)—see section 20.
 the Territory, for part 4 (Crown proceedings)—see section 20.
-tribunal, for part 3 (Court and tribunal fees)—see section 12.
 young person, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Children and Young People Act 2008, section 12.
