@@ -52,7 +52,8 @@ corporation means a body corporate, whether incorporated in this jurisdiction or
 corresponding Act means an Act of another Australian jurisdiction that corresponds to this Act.
 corresponding law, in relation to a territory law, means a law of a State or another Territory that is similar, or has a similar effect, to that territory law.
 cost, in relation to a lease—see section 136.
-Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission appointed under the Seat of Government (Administration) Act 1924 (Cwlth).
+Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission.
+Note The Federal Capital Commission was appointed under the Seat of Government (Administration) Act 1924 (Cwlth) (repealed).
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
 deferral arrangement, for part 2.6A (Deferred payments—home buyers) see section 75AC (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
