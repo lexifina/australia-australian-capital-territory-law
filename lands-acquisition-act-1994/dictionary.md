@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · Commonwealth
+· daily newspaper
 · disallowable instrument (see s 9)
 · Executive
 · exercise
@@ -47,7 +48,6 @@ mortgage means a security over an interest in land securing the payment or repay
 mortgagee, in relation to a mortgage, means the person who is or was entitled to receive payment or repayment of the money secured by the mortgage.
 mortgage interest means the interest in land of a mortgagee under a mortgage.
 mortgagor, in relation to a mortgage, means the person who is or was the owner of the interest in land subject to the mortgage.
-newspaper means a newspaper published and circulating in the ACT.
 planning instrument means an instrument made under a Territory or Commonwealth law that relates to town planning or use of land.
 pre-acquisition declaration means a declaration under section 19 (1).
 public park means land that, under a Territory law, is dedicated or reserved, or is vested in trustees, as a public park or national park or otherwise for the purposes of public recreation.
