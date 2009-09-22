@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · commissioner for fair trading
+· daily newspaper
 · exercise
 · function
 · notifiable instrument
@@ -31,4 +32,5 @@ partnership property—
   (a) of a firm other than an incorporated limited partnership—see section 24; and
   (b) of an incorporated limited partnership—see section 24A.
 register, for part 6 (Incorporated limited partnerships)—see section 60.
+registered information, for part 6 (Incorporated limited partnerships)—see section 59 (4) (Registration of incorporated limited partnership).
 special resolution, for part 6 (Incorporated limited partnerships)—see section 51.
