@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · chief executive
 · chief planning executive
 · conservator of flora and fauna
+· daily newspaper
 · entity
 · exercise
 · function
@@ -27,7 +28,6 @@ conservation includes preservation, protection, maintenance, restoration and rec
 conservation management plan—see section 15.
 conservation requirement means a requirement under any heritage guideline that applies, directly or indirectly, to conservation of the heritage significance of a place or object.
 council means the Australian Capital Territory Heritage Council established under section 16.
-daily newspaper means a daily newspaper that circulates generally in the ACT.
 development, for part 10 (Land development applications)—see section 58.
 enforcement order means an order under section 104.
 engage in conduct means—
