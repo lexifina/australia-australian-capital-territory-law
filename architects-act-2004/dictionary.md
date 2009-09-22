@@ -17,7 +17,6 @@ architectural service—see section 7.
 architects board—see section 64.
 board members—see section 70 (1).
 corresponding law means any law of a local jurisdiction that regulates architects in the jurisdiction.
-daily ACT newspaper means a newspaper published and circulating in the ACT.
 firm means a corporation or partnership.
 ground for occupational discipline—see section 42.
 informed person, for part 8 (Protection and information)—see section 81.
