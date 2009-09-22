@@ -6,6 +6,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • ambulance service
 • chief executive (see s 163)
 • contravene
+• daily newspaper
 • doctor
 • document
 • exercise
