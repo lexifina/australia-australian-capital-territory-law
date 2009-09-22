@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · contravene
+· daily newspaper
 · doctor
 · entity
 · exercise
@@ -23,7 +24,6 @@ commercial activities means—
   (d) carrying, or offering to carry, passengers or things in or on a horse-drawn vehicle; or
   (e) carrying on the business of boat repair; or
   (f) undertaking any other activities prescribed under the regulations for this definition.
-dairy bridge means the bridge over which Dairy Road is carried across the Molonglo River.
 delegate for lakes means the Delegate for Lakes appointed under section 6.
 foreshores means—
   (a) for Lake Ginninderra—the land described in schedule 1; and
@@ -32,7 +32,7 @@ other than land held under lease from the Commonwealth or occupied with the auth
 inspector means a person who is an inspector under section 7.
 lake means Lake Burley Griffin, Lake Ginninderra or any other area declared by the Minister under section 5 to be a lake.
 lake area means the area consisting of a lake, the foreshores of the lake and the islands (if any) in the lake.
-Lake Burley Griffin means the waters of the Molonglo River between Scrivener Dam and dairy bridge.
+Lake Burley Griffin means the waters of the Molonglo River between Scrivener Dam and Sylvia Curley bridge.
 Lake Ginninderra means the body of water inside the land described in schedule 1.
 operator, for division 5.1 (Lighting rules)—see section 36.
 owner, of land, includes anyone with an interest in the land.
@@ -40,5 +40,6 @@ power boat means a boat propelled by mechanical power, and includes a boat under
 prohibited area means a part of a lake declared by the Minister under section 21 to be a prohibited area.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 51.
 sports club means an entity established for sporting or athletic purposes.
+Sylvia Curley bridge means the bridge by which Dairy Road is carried across the Molonglo River.
 under way—a boat is under way unless it is anchored, moored, aground, or made fast to the shore or a jetty.
 visible, for a light, means visible on a dark night with a clear atmosphere.
