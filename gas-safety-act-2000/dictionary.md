@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · contravene
+· daily newspaper
 · disallowable instrument
 · document
 · magistrate
@@ -32,7 +33,6 @@ consumer piping system—
     (ii) the outlet of a gas storage tank or cylinder to a gas appliance inlet; but
   (b) does not include something that connects the tank or cylinder outlet to the gas regulator that is closest to the tank or cylinder.
 corresponding law means a law of another jurisdiction declared by the regulations to be a corresponding law.
-daily newspaper means a daily newspaper that circulates generally in the ACT.
 equipment includes items such as pressure control devices, excess flow valves, control valves and filters.
 gas means—
   (a) natural gas; or
