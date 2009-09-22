@@ -224,7 +224,7 @@ offence—
   (a) includes an offence against a Commonwealth law; and
   (b) for chapter 23 (Enforcement)—see section 812.
 official visitor means a person appointed as an official visitor under section 38.
-operating entity, for a therapeutic protection place or place of care, means—
+operating entity, for a detention place, therapeutic protection place or place of care, means—
   (a) if the Territory operates the place—the chief executive; or
   (b) in any other case—the entity that operates the place.
 operating procedure, for chapter 6 (Criminal matters—detention places) and chapter 7 (Criminal matters—search and seizure at detention places) means an operating procedure made by the chief executive under section 143.

@@ -187,8 +187,6 @@
 # Chapter 21 Employment of children and young people
 ## Part 21.1 Important concepts
 ## Part 21.2 Work experience programs—exemption
-## Part 21.3 Employment of children and young people
-## Part 21.4 Employment of children and young people under school-leaving age
 # Chapter 22 Research involving children and young people
 # Chapter 23 Enforcement
 ## Part 23.1 General
