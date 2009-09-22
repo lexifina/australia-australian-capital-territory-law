@@ -17,6 +17,7 @@ income threshold amount means the income threshold amount determined under the T
 Note Different amounts may be determined in relation to different matters or classes of matters (see Legislation Act, s 48).
 land rent means land rent payable under this Act for a land rent lease.
 land rent lease—see section 7 (4).
+lessee, in relation to a proposed land rent lease, for part 3 (Land rent—discount)—see section 9.
 related, for a parcel of land, for part 5 (Land rent—payment and recovery of unpaid rent)—see section 18.
 relevant percentage means the relevant percentage determined under the Taxation Administration Act, section 139.
 standard percentage means the standard percentage determined under the Taxation Administration Act, section 139.
