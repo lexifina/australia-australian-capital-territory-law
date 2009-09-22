@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · chief executive (see s 163)
 · civil partnership
 · corporation
+· daily newspaper
 · disallowable instrument (see s 9)
 · Executive
 · individual
