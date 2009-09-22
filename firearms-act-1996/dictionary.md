@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bank
 · chief police officer
 · corrections officer
+· daily newspaper
 · foreign country
 · indictable offence (see s 190)
 · Minister (see s 162)

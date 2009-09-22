@@ -5,7 +5,7 @@
 In this schedule:
 corrections officer includes a person employed by an entity responsible under a law of a State or another Territory for providing correctional services for offenders.
 Note Corrections officer—see the Legislation Act, dict, pt 1.
-## Part 2.2 People exempt from Act
+## U Part 2.2 People exempt from Act
 column 1 item | column 2 person exempted | column 3 circumstances
 1 | member of— (a) Australian Federal Police or police service or force of a State or another Territory (b) Defence Force (c) visiting force within the meaning of the Defence (Visiting Forces) Act 1963 (Cwlth) (d) Australian Army Cadets under the Defence Act 1903 (Cwlth) | possessing or using firearm in exercise of person’s functions as member
 2 | corrections officer | possessing or using firearm in exercise of officer’s functions
