@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· daily newspaper
 · exercise
 · function
 · heritage register
@@ -92,7 +93,6 @@ national environment protection measure, for division 9.5 (Assessment and remedi
 national scheme laws means—
   (a) the National Environment Protection Council Act 1994 (Cwlth); and
   (b) the National Environment Protection Council Act 1994.
-newspaper means a newspaper published and circulating in the ACT.
 notional lessee, in relation to land, means a person who has vested rights in relation to the land that—
   (a) carry an entitlement to have the lease transferred to that person; or
   (b) enable the person to dispose of or otherwise deal with the land;
