@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · chief police officer
 · conservator of flora and fauna
 · contravene
+· daily newspaper
 · entity
 · exercise
 · function
