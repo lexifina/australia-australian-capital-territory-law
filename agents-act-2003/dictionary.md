@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · commissioner for fair trading
 · corporation
 · Corporations Act
+· daily newspaper
 · entity
 · financial year
 · found guilty
@@ -55,7 +56,6 @@ compensation fund means the consumer compensation fund kept under section 144.
 compensation scheme, for division 5.7 (Travel agents—further provisions)—see section 90.
 compensation scheme participant, for a travel agent—see section 91 (Participation in compensation scheme).
 corresponding law—see section 174.
-daily ACT newspaper means a daily newspaper printed and published in the ACT.
 details, of a trust account, for part 7 (Trust accounts)—see section 103.
 employ includes––
   (a) engaging a person on a contract of service; and
@@ -234,6 +234,10 @@ notified LR 10 September 2008
 s 1, s 2 commenced 10 September 2008 (LA s 75 (1))
 sch 1 amdt 1.3 commenced 2 February 2009 (s 2 (2))
 sch 1 pt 1.1 remainder commenced 1 July 2009 (s 2 (1) and CN2008-18)
+Statute Law Amendment Act 2009 A2009-20 sch 3 pt 3.1
+notified LR 1 September 2009
+s 1, s 2 commenced 1 September 2009 (LA s 75 (1))
+sch 3 pt 3.1 commenced 22 September 2009 (s 2)
 4 Amendment history
 Commencement
 s 2 om LA s 89 (4)
@@ -251,6 +255,8 @@ Additional eligibility grounds for travel agents
 s 26 am A2005-11 s 5, s 6
 People disqualified from being licensed
 s 27 am A2008-5 s 4, s 5; A2008-36 amdt 1.39
+Advertising intended licence applications
+s 28 am A2009-20 amdt 3.1
 Licence applications
 s 29 am A2008-5 s 6
 Decisions on licence applications
@@ -272,6 +278,8 @@ sub A2008-36 amdt 1.21
 am A2008-45 amdt 1.3
 People disqualified from being registered
 s 51 am A2008-5 s 9, s 10; A2008-36 amdt 1.39
+Advertising intended registration applications
+s 52 am A2009-20 amdt 3.1
 Registration applications
 s 53 am A2008-5 s 11
 Decisions on registration applications
@@ -318,6 +326,8 @@ Change of owners corporation managing agent—former agent to give statement and
 s 109A ins A2008-45 amdt 1.4
 Requirement for audit
 s 115 am A2005-20 amdt 3.3
+Duties of commissioner in relation to unclaimed money in trust accounts
+s 123 am A2009-20 amdt 3.1
 Payment of unclaimed money to public trustee
 s 124 am A2005-20 amdt 3.4
 Decisions on recovery applications
@@ -326,6 +336,8 @@ When administrators may be appointed
 s 139 sub A2008-5 s 15
 Entitlement to claim compensation
 s 149 am A2008-45 amdt 1.5; ss renum R15 LA
+Notice inviting claims
+s 150 am A2009-20 amdt 3.1
 Claims for compensation
 s 151 am A2005-20 amdt 3.7
 Register information
@@ -448,9 +460,10 @@ sch 2 om LA s 89 (3)
 Consequential amendments
 sch 3 om LA s 89 (3)
 Dictionary
-dict am A2008-36 amdts 1.33-1.35
+dict am A2008-36 amdts 1.33-1.35; A2009-20 amdt 3.2
 def agent sub A2008-36 amdt 1.36
 def agent, for div 3.4 om A2008-36 amdt 1.36
+def daily ACT newspaper om A2009-20 amdt 3.3
 def employee condition ins A2005-11 s 10
 def ground for disciplinary action om A2008-36 amdt 1.37
 def ground for occupational discipline ins A2008-36 amdt 1.37
@@ -477,4 +490,5 @@ R11 2 Nov 2007 | 2 Nov 2007– 30 June 2008 | A2007-22 | commenced expiry
 R12 1 July 2008 | 1 July 2008– 26 Aug 2008 | A2008-5 | amendments by A2008-5
 R13 27 Aug 2008 | 27 Aug 2008– 1 Feb 2009 | A2008-29 | amendments by A2008-29
 R14 2 Feb 2009 | 2 Feb 2009– 30 June 2009 | A2008-45 | amendments by A2008-36, A2008-37 and A2008-45
+R15 1 July 2009 | 1 July 2009– 21 Sept 2009 | A2008-45 | amendments by A2008-45
 © Australian Capital Territory 2009
