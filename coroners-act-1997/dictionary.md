@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · child
 · correctional centre
 · corrections officer
+· daily newspaper
 · director of public prosecutions
 · doctor
 · domestic partner (see s 169 (1))
