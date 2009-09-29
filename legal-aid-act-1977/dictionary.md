@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · ACT
 · Commonwealth
+· document
 · exercise
 · function
 · property
@@ -15,9 +16,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 assistant, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 assistant executive officer means an Assistant Executive Officer of the commission.
 bar association means the Bar Association of the Australian Capital Territory.
+board means the board of the commission established under section 14.
 chief executive officer means the Chief Executive Officer of the commission.
 commission means the legal aid commission established by section 6.
-commissioner means a commissioner of the commission, and includes the president of the commission.
+commissioner means a member of the board appointed under section 16.
 consultative committee means a consultative committee established under part 11.
 duty lawyer services means legal services provided by a legal practitioner attending at a proceeding of a court or tribunal, being legal services consisting of appearing on behalf of a person at, or giving legal advice to a person in connection with, the proceeding, otherwise than by prior arrangement with the person.
 fund means the legal aid fund established by section 41.
