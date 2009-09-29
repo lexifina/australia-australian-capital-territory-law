@@ -27,5 +27,4 @@ Note For territory authorities with governing boards, see the Financial Manageme
 · executive within the meaning of the Public Sector Management Act 1994
 · health services commissioner
 · human rights commissioner
-· president of the human rights commission
 · public advocate
