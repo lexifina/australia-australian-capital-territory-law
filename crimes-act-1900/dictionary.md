@@ -41,7 +41,6 @@ child—
     (i) who normally or regularly resides with the person; or
     (ii) of whom the person is a guardian.
 child, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
-commissioner for OH&S, for part 2A (Industrial manslaughter)—see section 49A.
 committed an offence, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
 conduct, for part 2A (Industrial manslaughter)—see the Criminal Code, section 13.
 daily care responsibility—see the Children and Young People Act 2008, section 19.
