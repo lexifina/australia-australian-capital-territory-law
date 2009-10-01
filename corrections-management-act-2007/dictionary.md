@@ -97,7 +97,7 @@ ordinary search—see section 107.
 participating State, for part 12.2 (Interstate leave)—see section 206.
 periodic detention, for an offender—see the Crimes (Sentence Administration) Act 2005, section 40.
 personal monitoring device—see section 101.
-police cell, for 0 (Detention in police and court cells)—see section 29.
+police cell, for Chapter 4 (Detention in police and court cells etc)—see section 29.
 positive, for a test sample for alcohol or a drug—see section 133.
 possession, of a thing, includes the following:
   (a) receiving or obtaining possession of the thing;
