@@ -1,6 +1,6 @@
 # Dictionary
 (see s 2)
-U Part 1 Meaning of commonly-used terms
+Part 1 Meaning of commonly-used terms
 (see s 144)
 Note for pt 1
   Terms that are defined only for this Act are set out in pt 2.
@@ -298,7 +298,6 @@ Note Occupational discipline orders are made under the ACT Civil and Administrat
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
 office includes position.
 office of fair trading means the Office of Fair Trading of the Australian Capital Territory established under the Fair Trading (Consumer Affairs) Act 1973.
-OH&S commissioner means the Occupational Health and Safety Commissioner under the Occupational Health and Safety Act 1989.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
 optometrist means a person registered as an optometrist under the Health Professionals Act 2004.
@@ -433,6 +432,7 @@ word includes any drawing, figure, number and symbol.
 working day means a day that is not—
   (a) a Saturday or Sunday; or
   (b) a public holiday in the ACT under the Holidays Act 1958.
+work safety commissioner means the Work Safety Commissioner under the Work Safety Act 2008.
 writing includes any way of representing or reproducing words in visible form.
 Examples
 printing, photocopying, photography, typewriting
