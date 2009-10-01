@@ -9,7 +9,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · environment protection authority
 · exercise
 · function
-· OH&S commissioner
 · public servant
 · reviewable decision notice
 · territory law
