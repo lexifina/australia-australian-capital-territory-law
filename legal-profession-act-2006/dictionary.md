@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -86,6 +86,7 @@ client—
   (b) for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 compensation order, for part 4.8 (Compensation)—see section 441.
 complaint, for chapter 4 (Complaints and discipline)—see section 383.
+complaint investigation, for chapter 6 (Investigations)—see section 521.
 compliance certificate—see section 29 (Compliance certificates).
 complying community legal centre—see section 208.
 concerted interstate default, for part 3.4 (Fidelity cover)—see section 316.
@@ -155,6 +156,7 @@ Note Jurisdiction means a State or Territory (see the dictionary).
   (b) a government agency.
 grant an interstate practising certificate includes issue an interstate practising certificate.
 home jurisdiction—see section 10.
+ILP compliance audit, for chapter 6 (Investigations)—see section 521.
 incorporated legal practice—see section 101.
 information notice—see section 12.
 insolvent under administration means—
@@ -170,7 +172,9 @@ interstate-registered foreign lawyer means a person who is registered as a forei
 interstate roll means a roll of lawyers kept under a corresponding law.
 interstate trust account means a trust account kept under a corresponding law.
 investigation, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
-investigator, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
+investigator—
+  (a) for part 3.1 (Trust money and trust accounts)—see section 210 (2); or
+  (b) for chapter 6 (Investigations)—see section 521.
 itemised bill, for part 3.2 (Costs disclosure and review)—see section 261.
 jurisdiction means a State or Territory.
 law firm means a partnership consisting only of—
@@ -295,6 +299,8 @@ this Act includes the admission rules and any other rules made under the Court P
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation or legal profession rule (see Legislation Act, s 104).
 transit money—see section 210 (1).
 trust account, for part 3.1 (Trust money and trust accounts)—see section 210 (2) and (3).
+trust account examination, for chapter 6 (Investigations)—see section 521.
+trust account investigation, for chapter 6 (Investigations)—see section 521.
 trust money means money entrusted to a law practice in the course of or in connection with the provision of legal services by the practice, and includes—
   (a) money received by the practice on account of legal costs in advance of providing the services; and
   (b) controlled money received by the practice; and
