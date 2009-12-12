@@ -72,7 +72,7 @@ regulated waste means waste that is, or contains, 1 or more of the following kin
 For section 42, the following activities are class A activities:
 Table 1.2
 column 1 item | column 2 activity
-1 | the extraction of material (other than water) from a waterway
+1 | the extraction of more than 100m3 of material (other than water) from a waterway
 2 | the operation of equipment designed to extract more than 30 000t per year of material (other than ground water) from land outside a waterway
 3 | the operation of an incineration facility for the destruction of waste by thermal oxidation (including biological, veterinary, medical, dental, quarantine and municipal wastes)
 4 | the sterilisation of clinical waste
