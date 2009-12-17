@@ -105,7 +105,7 @@ misconduct—
   (b) for division 9.4 (Officers employed otherwise than in the service)—see section 194.
 non-appellable promotion means a promotion under section 83 to an office having—
   (a) a classification equal to or higher than the classification of senior officer grade C; or
-  (b) a classification equivalent to a classification mentioned in paragraph (a), being a classification prescribed, or included in a class of classifications prescribed, by the management standards other than an office for appointment to which teaching qualifications are required.
+  (b) a classification equivalent to a classification mentioned in paragraph (a), other than a classification for an office for appointment to which teaching qualifications are required.
 notified, for division 5.6 (Temporary performance of duties—offices other than offices of chief executive and executive offices)—see section 99.
 office means—
   (a) for division 4.1A (Creation and abolition of offices other than offices of chief executives and executive offices)—see section 54B; and
