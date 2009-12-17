@@ -16,7 +16,7 @@ The auditor-general may resign by giving a signed notice of resignation to the C
 The Executive may, with the consent of the auditor-general, retire the auditor-general on the ground of physical or mental incapacity.
 ## 1.4 Removal from office
 (1) The Executive must remove the auditor-general from office if the Legislative Assembly passes a resolution to the effect that the auditor-general should be removed from office on the ground of misbehaviour or physical or mental incapacity.
-(2) The Executive must remove the auditor-general from office if the auditor-general becomes bankrupt, executes a personal insolvency agreement or otherwise applies to take the benefit of any law for the relief of bankrupt or insolvent debtors.
+(2) The Executive must remove the auditor-general from office if the auditor-general becomes bankrupt or personally insolvent.
 ## 1.5 Acting auditor-general
 Before the Executive appoints a person to act as auditor-general, the Minister must consult the presiding member of the public accounts committee about the proposed appointment.
 ## 1.6 Application of Legislation Act, div 19.3.3
