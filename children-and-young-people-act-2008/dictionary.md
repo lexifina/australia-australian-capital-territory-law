@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · entity
 · Executive
 · function
+· home address
 · human rights commission
 · indictable offence (s 190)
 · individual
@@ -239,6 +240,7 @@ owner, of a thing—
   (a) for part 7.9 (Seizing property)—see section 279; and
   (b) for division 16.3.6 (Seizing dangerous things)—see section 620.
 paediatrician means a doctor who is registered under the Health Professionals Regulation 2004 in the specialist area of paediatric medicine.
+parent—see section 16 (2).
 parental responsibility—see division 1.3.2.
 parental responsibility provision, for the care and protection chapters—see section 474.
 participant, for chapter 3 (Family group conferences)—see section 73.
