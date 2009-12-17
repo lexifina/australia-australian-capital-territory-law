@@ -87,9 +87,9 @@ gaming machine—
   (a) means a machine—
     (i) designed for playing a game of chance, or of mixed chance and skill; and
     (ii) designed to be played completely or partly by—
-    (iii) the insertion of 1 or more coins, notes or tokens; or
-    (iv) by the application of a monetary credit registered on the machine or elsewhere; and
-    (v) that offers, or that appears to offer, people a chance to win monetary or other valuable consideration by playing the machine; but
+      (A) the insertion of 1 or more coins, notes or tokens; or
+      (B) by the application of a monetary credit registered on the machine or elsewhere; and
+    (iii) that offers, or that appears to offer, people a chance to win monetary or other valuable consideration by playing the machine; but
   (b) does not include a device prescribed under the regulations.
 gaming machine tax means the tax imposed by section 159.
 general licence means a general licence under the Liquor Act 1975.
