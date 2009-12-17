@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · child
 · exercise
 · function
+· home address
 · human rights commissioner
 · in relation to
 · intersex person (see s 169B)
