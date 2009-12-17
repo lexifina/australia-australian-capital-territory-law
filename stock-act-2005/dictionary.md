@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · financial year
 · function
+· home address
 · public servant
 · reviewable decision notice
 · State.
