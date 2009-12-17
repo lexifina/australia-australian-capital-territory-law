@@ -23,21 +23,16 @@ drive a vehicle includes—
 driver, of a vehicle, means the person who is driving the vehicle.
 garage address, of a vehicle, means—
   (a) if the vehicle is normally kept at a depot or base of operations when not in use—the main depot or base of operations of the vehicle; or
-  (b) if the vehicle is normally kept on a road or road related area when not in use and—
-    (i) the vehicle has only 1 registered operator—the home address of the registered operator; or
-    (ii) the vehicle has more than 1 registered operator and 1 or more of the operators lives in the ACT—the home address of the registered operator living in the ACT whose home address is nearest the road or road related area; or
-    (iii) the vehicle has more than 1 registered operator and none of the registered operators live in the ACT—the suburb and road or road related area in the ACT where the vehicle is normally kept; or
-  (c) if the vehicle is normally kept at a place (other than a depot, base of operations or road or road related area) when not in use—the place where the vehicle is normally kept.
-GCM (or gross combination mass), of a motor vehicle, means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at the same time—
+  (b) if the vehicle is normally kept at a place (other than a depot or base of operations) when not in use—the place where the vehicle is normally kept.
+GCM––see gross combination mass.
+gross combination mass (or GCM), of a motor vehicle, means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at the same time—
   (a) specified by the manufacturer on an identification plate on the motor vehicle; or
   (b) if there is no specification by the manufacturer on an identification plate on the motor vehicle or if the specification is not appropriate because the motor vehicle has been modified—certified by the road transport authority.
-GVM (or gross vehicle mass), of a vehicle, means the maximum loaded mass of the vehicle—
+gross vehicle mass (or GVM), of a vehicle, means the maximum loaded mass of the vehicle—
   (a) specified by the manufacturer on an identification plate on the vehicle; or
   (b) if there is no specification by the manufacturer on an identification plate on the vehicle or if the specification is not appropriate because the vehicle has been modified—certified by the road transport authority.
+GVM––see gross vehicle mass.
 heavy vehicle means a motor vehicle or trailer with a GVM more than 4.5t.
-home address means—
-  (a) for a corporation—the address of its registered office or the address recorded in the registrable vehicles register as its home or business address; or
-  (b) for an individual—the address of the place where the person usually lives.
 inspect, in relation to a registrable vehicle, includes observe the vehicle’s performance, with or without the use of instrumentation.
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
