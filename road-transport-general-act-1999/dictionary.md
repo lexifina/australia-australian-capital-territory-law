@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · entity
 · exercise
 · function
+· home address
 · instrument
 · public employee
 · reviewable decision notice
@@ -38,7 +39,6 @@ driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
-home address, of a person, means the address of the place where the person usually lives.
 illegal user declaration means a statutory declaration mentioned in section 38.
 infringement notice means a notice under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible people for vehicles).
 infringement notice declaration means an illegal user declaration, known user declaration, sold vehicle declaration or unknown user declaration.
