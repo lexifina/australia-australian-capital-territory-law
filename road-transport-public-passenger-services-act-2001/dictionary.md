@@ -5,6 +5,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · ACT
 · exercise
 · function
+· home address
 · the Territory.
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
 accredited demand responsive service operator means accredited under a regulation to operate a demand responsive service.
