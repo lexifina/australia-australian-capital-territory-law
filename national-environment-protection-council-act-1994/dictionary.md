@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · appoint
 · asset
 · Australia
+· bankrupt or personally insolvent
 · Commonwealth
 · exercise
 · external territory
