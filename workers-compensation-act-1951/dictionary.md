@@ -60,6 +60,7 @@ continental shelf, for schedule 2 (Adjacent areas for States and Territories)—
 cpi indexed—see section 20.
 damages, for chapter 9 (Common law damages)—see section 180.
 damages claim, for part 9.2 (Choice of law)—see section 182C.
+decision-maker, for chapter 12 (Notification and review of decisions)—see section 199A (1).
 deductible proportion, for part 4.4 (Compensation for permanent injuries)—see section 61 (1).
 dependant, of a dead worker, means an individual—
   (a) who was totally or partly dependent on the worker’s earnings on the day of the worker’s death or who would, apart from the worker’s incapacity because of the injury, have been so dependent; and
@@ -103,6 +104,8 @@ insurer—
     (i) see section 86A; and
     (ii) if there is more than 1 employer of a worker—see section 87; and
   (b) for part 6.2 (Time for accepting or rejecting claims)—see section 127 (1).
+internally reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199B (1).
+internal reviewer, for chapter 12 (Notification and review of decisions)—see section 199B (3).
 liquidator, of an insurer, includes—
   (a) the official manager of the insurer; or
   (b) the receiver of the insurer’s property; or
@@ -149,14 +152,12 @@ protocol—
   (a) for this Act generally—means a protocol, approved by regulation, prescribing how certain activities under this Act should be performed; and
   (b) for chapter 7 (Vocational rehabilitation)—see section 141.
 receiver and manager—see the Corporations Act, section 9.
-recognised auditor means—
-  (a) for a certificate provided, or to be provided, for an employer for this Act—an auditor who is not the employer or an employee or executive officer of the employer; and
-  (b) for the DI fund—an auditor who is not employed or engaged by the DI fund.
+recognised auditor, for the DI fund, means an auditor who is not employed or engaged by the DI fund.
 registered agreement means an agreement registered under section 79.
 registered auditor means an auditor registered under the Corporations Act.
 rehabilitation services includes training and retraining services.
 return-to-work program means a program mentioned in section 109.
-reviewable decision, for chapter 12 (Notification and review of decisions)—see section 198.
+reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199.
 Seas and Submerged Lands Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
 self-insurer means an employer who is exempted under section 151.
 single loss amount, for part 4.4 (Compensation for permanent injuries)—see section 49.
@@ -171,6 +172,7 @@ Territory or State of connection—see section 36A.
 territory worker means a worker for whom the ACT is the Territory or State of connection.
 therapeutic treatment includes an examination, test or analysis done for the purpose of diagnosing, or treatment given for the purpose of alleviating, an injury.
 totally incapacitated—see section 6.
+total wages—see section 7A.
 vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140.
 weekly compensation, for a worker, for part 4.3 (Weekly Compensation)—see section 36G.
 worker—

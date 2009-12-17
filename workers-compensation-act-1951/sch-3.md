@@ -15,7 +15,7 @@ Note A provision of a law that gives an entity (including a person) a function a
 ## 3.4 Membership of committee
 (1) The committee consists of—
   (a) the DI fund manager; and
-  (b) the DI fund actuary; and
+  (b) the chief executive; and
   (c) 6 members appointed by the Minister.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
@@ -41,7 +41,7 @@ The Minister may end the appointment of a member (other than the DI fund manager
   (j) for physical or mental incapacity, if the incapacity substantially affects the exercise of the member’s functions.
 Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 ## 3.7 Committee chair
-The members must elect a member (other than the DI fund actuary) as chair.
+The committee chair is the chief executive.
 ## 3.8 Honesty, care and diligence of members
 In exercising the functions of a member, a member must exercise the degree of honesty, care and diligence required to be exercised by a director of a corporation in relation to the affairs of the corporation.
 ## 3.9 Conflicts of interest by members
