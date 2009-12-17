@@ -8,6 +8,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · domestic partner (see s 169 (1))
 · exercise
 · function
+· home address
 · occupational discipline order
 · police officer
 · public health officer
