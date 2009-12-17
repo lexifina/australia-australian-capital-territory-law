@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · administrative unit
 · auditor-general
+· bankrupt or personally insolvent
 · body
 · Corporations Act
 · Territory owned corporation
