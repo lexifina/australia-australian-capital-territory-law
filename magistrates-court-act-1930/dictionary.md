@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · corrections officer
 · function
+· home address
 · judge
 · lawyer
 · proceeding.
@@ -37,7 +38,6 @@ fine—
 fine defaulter, for division 3.9.2 (Enforcement of fines)—see section 146.
 government agency, for division 3.9.2 (Enforcement of fines)—see section 146.
 hearing includes the examination of a person charged with an indictable offence.
-home address, of a person, for part 3.8 (Infringement notices for certain offences)—see section 117.
 illegal user declaration, for part 3.8 (Infringement notices for certain offences)—see section 131D.
 indictable offence means an offence that may be prosecuted before the Supreme Court by charge or indictment.
 indictment means an information for an indictable offence presented by an authorised officer to a court with jurisdiction to try the accused person.
