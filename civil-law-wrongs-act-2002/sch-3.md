@@ -464,7 +464,7 @@ A member is entitled to be paid the allowances decided by the Minister.
   (b) completes a term of office and is not re-appointed; or
   (c) is removed from office by the Minister; or
   (d) is absent from 4 consecutive meetings of the council of which reasonable notice has been given to the member personally or in the ordinary course of post, except on leave granted by the council or unless, before the end of 4 weeks after the day of the last of those meetings, the member is excused by the council for having been absent from those meetings; or
-  (e) becomes bankrupt, executes a personal insolvency agreement or otherwise applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+  (e) becomes bankrupt or personally insolvent; or
   (f) is convicted in the ACT of an offence punishable by imprisonment for 12 months or more or is convicted elsewhere of an offence that, if committed in the ACT, would be an offence so punishable.
 Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 (2) The Minister may remove a member from office for—
