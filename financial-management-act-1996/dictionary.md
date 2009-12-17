@@ -63,7 +63,6 @@ interest includes a dividend and any other financial return on a deposit, loan o
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
 Legislative Assembly secretariat—see the Public Sector Management Act 1994, dictionary.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
-outcomes means the consequences for the community of outputs.
 outputs means goods produced or services provided by a department or territory authority or a person producing goods or providing services on behalf of a department or territory authority.
 prescribed means prescribed by the financial management guidelines.
 public money means all money received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
@@ -97,6 +96,7 @@ territory authority—
   (c) for division 9.7 (Additional provisions for restructuring of certain territory authorities)—includes a territory authority that has ceased to exist; but
   (d) does not include a body declared under section 3B not to be a territory authority.
 territory banking account means the banking account mentioned in section 33.
+the Territory, for division 3.1 (Financial reports of the Territory)—see section 21.
 trust money means—
   (a) money deposited with the Territory pending the completion of a transaction or the determination of a dispute and that may become repayable to the depositor or payable to the Territory or anyone else; or
   (b) all money that is paid into a territory court for possible repayment to the payee or a third party because of any Act, order, instruction or authority; or
