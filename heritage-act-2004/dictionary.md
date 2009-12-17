@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · entity
 · exercise
 · function
+· home address
 · Minister
 · national capital authority
 · planning and land authority
