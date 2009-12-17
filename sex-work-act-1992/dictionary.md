@@ -7,6 +7,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · doctor
 · exercise
 · function
+· home address
 · police officer.
 annual notice, for part 2 (Registration)—see section 8.
 authorised nurse practitioner means a nurse practitioner who is the occupant of a nurse practitioner position acting within the scope of practice for the position.
