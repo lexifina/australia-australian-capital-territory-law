@@ -35,6 +35,14 @@ authorised deposit-taking institution (or ADI) means an authorised deposit-takin
 bank means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the word ‘bank’, ‘banker’ or ‘banking’; or
   (b) any other word (whether or not in English) similar in meaning to a word mentioned in paragraph (a).
+bankrupt or personally insolvent—an individual is bankrupt or personally insolvent if the individual—
+  (a) under the Bankruptcy Act 1966 (Cwlth)—
+    (i) is bankrupt; or
+    (ii) is a party to a debt agreement as a debtor; or
+    (iii) is a party to a personal insolvency agreement as a debtor and the obligations created by the agreement remain undischarged; or
+    (iv) authorises a controlling trustee to control the individual's property, whether or not the individual has entered into a personal insolvency agreement as a debtor; or
+  (b) has a status under a law of a foreign country substantially similar to an individual mentioned in paragraph (a); or
+  (c) otherwise applies to take the benefit of any law for the relief of bankrupt or insolvent debtors.
 barrister means a lawyer who practises as a barrister.
 body includes any group of people joined together for a common purpose, whether or not incorporated.
 Examples
@@ -186,7 +194,9 @@ found guilty, of an offence, includes—
   (b) having the offence taken into account under the Crimes (Sentencing) Act 2005, section 57 (Outstanding additional offences taken into account in sentencing).
 function includes authority, duty and power.
 gambling and racing commission means the Gambling and Racing Commission established under the Gambling and Racing Control Act 1999.
-gazette means the Australian Capital Territory Gazette.
+gazette means—
+  (a) the Australian Capital Territory Gazette; or
+  (b) for a notice or other information that must or may be notified or published in the gazette under the Public Sector Management Act 1994—an internet site approved by the commissioner for public administration.
 give, in relation to a function, includes impose.
 government printer includes anyone printing for or by the authority of the Executive.
 government solicitor means the Government Solicitor under the Government Solicitor Act 1989.
@@ -200,6 +210,7 @@ heritage council means the Australian Capital Territory Heritage Council under t
 heritage register means the heritage register under the Heritage Act 2004.
 High Court means the High Court of Australia.
 Note The High Court is established by the Commonwealth Constitution, s 71 and provided for under the High Court of Australia Act 1979 (Cwlth).
+home address, for an individual, means the address of the place where the individual usually lives.
 housing commissioner means the Commissioner for Social Housing under the Housing Assistance Act 2007.
 human rights commission means the Human Rights Commission established under the Human Rights Commission Act 2005.
 human rights commissioner means the Human Rights Commissioner under the Human Rights Commission Act 2005.

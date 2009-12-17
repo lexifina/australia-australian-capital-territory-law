@@ -1,6 +1,6 @@
 # Schedule 1 Acts included in sources of law in the ACT
 (see s 17)
-## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
+## U Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 name of Act | column 3 number or date of assent and original jurisdiction
 1 | Magna Carta | (1297) 25 Edw 1 c 29 (UK)
 2 | Criminal and Civil Justice Act 1351 | 25 Edw 3 St 5 c 4 (UK)
@@ -18,7 +18,7 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 14 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
 15 | Public Roads Act 1902 | 1902 No 95 (NSW)
 16 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
-17 | Fertilisers Act 1904 | 1904 No 33 (NSW)
+17 | Fertilisers (Labelling and Sale) Act 1904 | 1904 No 33 (NSW)
 18 | Gaming and Betting Act 1906 | 1906 No 13 (NSW)
 19 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
