@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · administrative unit
 · appoint
+· bankrupt or personally insolvent
 · chief health officer
 · Chief Minister
 · chief police officer
@@ -16,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · exercise
 · function
 · give
+· home address
 · Minister (see s 162)
 · planning and land authority
 · reviewable decision notice
