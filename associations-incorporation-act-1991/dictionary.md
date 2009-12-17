@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
 • document
+• home address
 • registrar-general
 • reviewable decision notice.
 accounting records includes invoices, receipts, orders for the payment of money, bills of exchange, cheques, promissory notes, vouchers and other documents of prime entry, books and records which record documents of prime entry, and any working papers and documents that are necessary to explain the methods and calculations by which accounts are made up.
