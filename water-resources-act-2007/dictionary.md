@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · daily newspaper
 · environment protection authority
 · function
+· home address
 · infringement notice
 · reviewable decision notice.
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
