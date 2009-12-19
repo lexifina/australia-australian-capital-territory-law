@@ -78,5 +78,4 @@
 ## Part 16.4 Transitional—unfinished requests for transfer of prisoners and sentences
 ## Part 16.5 Transitional—parole orders
 ## Part 16.6 Transitional—other provisions
-# Chapter 17 Transitional—interim custody arrangements
 # Chapter 18 Transitional—Children and Young People Act 2008
