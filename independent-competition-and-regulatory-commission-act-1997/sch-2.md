@@ -1,16 +1,16 @@
 # Schedule 2 Commission appointments and working arrangements
 (see s 6 (2))
 ## 2.1 Standing commissioners
-(1) The Executive must appoint the following commissioners (standing commissioners):
-  (a) 1 senior commissioner;
-  (b) 2 assistant commissioners.
+(1) The Executive must appoint 1 or more standing commissioners.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act s 207).
-(2) The instrument making or evidencing the appointment must state whether a standing commissioner is appointed as a senior commissioner or assistant commissioner.
-(3) A standing commissioner holds office (subject to this Act) for a term not longer than 5 years.
-Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def of appoint).
-(4) If the senior commissioner ceases to hold office or is suspended from office (under section 2.4 or section 2.5), the Minister must (by instrument) nominate another standing commissioner as senior commissioner.
-(5) If a suspended senior commissioner resumes office as a commissioner, he or she also resumes office in the capacity of senior commissioner (and the nominated replacement ceases to hold office in that capacity).
+(2) A standing commissioner holds office (subject to this Act) for a term not longer than 5 years.
+Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
+## 2.1AA Arrangements if more than 1 standing commissioner
+(1) This section applies if the commission is constituted by more than 1 standing commissioner.
+(2) The Executive must appoint 1 standing commissioner as senior commissioner.
+(3) If the senior commissioner ceases to hold office or is suspended from office (under section 2.4 or section 2.5), the Minister must (by instrument) nominate another standing commissioner as senior commissioner.
+(4) If a suspended senior commissioner resumes office as a commissioner, he or she also resumes office in the capacity of senior commissioner (and the nominated replacement ceases to hold office in that capacity).
 ## 2.1A Associate commissioners
 (1) The Executive may appoint 1 or more commissioners (associate commissioners) for a particular investigation, in consideration of advice received from the commission about the need for such an appointment (or appointments).
 (2) An associate commissioner holds office (subject to this Act) until the conclusion of the investigation for which the associate commissioner is appointed.

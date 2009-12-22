@@ -15,7 +15,6 @@ access provider, for part 6 (Arbitration of access regime disputes)—see sectio
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
   (a) including the use of an infrastructure facility (such as a road or railway), the handling or transporting of things (such as goods or people) or a communications service or similar service; and
   (b) not including the supply of goods, the use of intellectual property or the use of a production process, except to the extent that that supply or use is an integral but subsidiary part of the service.
-assistant commissioner means a commissioner nominated as an assistant commissioner under schedule 2, section 2.1.
 associate commissioner means a commissioner appointed under schedule 2, section 2.1A.
 chief executive officer means the Chief Executive Officer of the commission.
 commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory.
@@ -77,8 +76,10 @@ responsible Minister, for an industry or government activity, means the Minister
 revenue cap—see section 20A (1) (b).
 sealed section, of a final report or a special report of an investigation—see section 23 (1) (a).
 self-funding referring authority, for a regulatory reference—see section 3A (3).
-senior commissioner means the commissioner nominated as senior commission under schedule 2, section 2.1.
-standing commissioner means the senior commissioner or an assistant commissioner.
+senior commissioner means—
+  (a) if the commission is constituted by only 1 standing commissioner—the commissioner; or
+  (b) if the commission is constituted by more than 1 standing commissioner—the commissioner appointed or nominated as senior commissioner under schedule 2, section 2.1AA.
+standing commissioner means a commissioner appointed under schedule 2, section 2.1.
 third party, for part 6 (Arbitration of access regime disputes)—see section 30.
 unsealed section, of a final report or a special report of an investigation—see section 23 (1) (b).
 utility—see the Utilities Act 2000, dictionary.
