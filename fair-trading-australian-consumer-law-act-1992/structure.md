@@ -5,4 +5,5 @@
 ### Division 2.3 Other conduct
 ## Part 3 Codes of practice
 ## Part 4 Enforcement and remedies
+## Part 4A Maximum annual percentage rate and disclosure
 ## Part 5 Miscellaneous

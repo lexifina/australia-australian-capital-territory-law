@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
+· Consumer Credit (Australian Capital Territory) Code
 · contravene
 · document
 · interest
@@ -17,15 +18,21 @@ acquire includes—
   (b) in relation to services—accept; and
   (c) in relation to land—acquire by way of purchase, exchange or taking on lease or in any other way in which an interest in land is acquired for valuable consideration.
 Note See s 7 for a more detailed definition of acquisition.
+annual percentage rate, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
 approved code, for part 3 (Codes of practice)—see section 32.
 arrive at, in relation to an understanding, includes reach or enter into.
 business includes—
   (a) a business not carried on for profit; and
   (b) a trade or profession.
+code, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
 commissioner means the commissioner for fair trading.
 conduct—see section 5 (b).
 consumer—see section 6.
+contract document, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
 covenant means a covenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land).
+credit, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
+credit contract, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
+credit fees and charges, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
 disposal—see section 7.
 engaging in conduct—see section 5 (a).
 goods includes—
