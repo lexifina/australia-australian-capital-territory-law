@@ -238,6 +238,10 @@ Statute Law Amendment Act 2009 A2009-20 sch 3 pt 3.1
 notified LR 1 September 2009
 s 1, s 2 commenced 1 September 2009 (LA s 75 (1))
 sch 3 pt 3.1 commenced 22 September 2009 (s 2)
+Justice and Community Safety Legislation Amendment Act 2009 (No 3) A2009-44 sch 1 pt 1.3
+notified LR 24 November 2009
+s 1, s 2 commenced 24 November 2009 (LA s 75 (1))
+sch 1 pt 1.3 commenced 22 December 2009 (s 2 (3))
 4 Amendment history
 Commencement
 s 2 om LA s 89 (4)
@@ -318,6 +322,10 @@ Meaning of compensation scheme for div 5.7
 s 90 am A2005-11 s 8
 Participation in compensation scheme
 s 91 am A2005-11 s 9
+Opening trust accounts
+s 105 am A2009-44 amdt 1.13
+Opening trust accounts—exemptions
+s 105A ins A2009-44 amdt 1.14
 Dealing with trust money
 s 107 am A2004-32 s 7; ss renum R3 LA (see A2003-32 s 8)
 Interest on trust accounts
@@ -454,7 +462,7 @@ Expiry—pt 20
 s 222 ins A2008-45 amdt 1.6
 exp 1 July 2010 (s 222 (LA s 88 declaration applies))
 Reviewable decisions
-sch 1 am A2008-5 s 16; items renum R12 LA; A2008-36 amdt 1.32
+sch 1 am A2008-5 s 16; items renum R12 LA; A2008-36 amdt 1.32; A2009-44 amdt 1.15; items renum R17 LA
 Instruments repealed
 sch 2 om LA s 89 (3)
 Consequential amendments
@@ -491,4 +499,5 @@ R12 1 July 2008 | 1 July 2008– 26 Aug 2008 | A2008-5 | amendments by A2008-5
 R13 27 Aug 2008 | 27 Aug 2008– 1 Feb 2009 | A2008-29 | amendments by A2008-29
 R14 2 Feb 2009 | 2 Feb 2009– 30 June 2009 | A2008-45 | amendments by A2008-36, A2008-37 and A2008-45
 R15 1 July 2009 | 1 July 2009– 21 Sept 2009 | A2008-45 | amendments by A2008-45
+R16 22 Sept 2009 | 22 Sept 2009– 21 Dec 2009 | A2009-20 | amendments by A2009-20
 © Australian Capital Territory 2009
