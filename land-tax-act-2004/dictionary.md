@@ -24,8 +24,9 @@ lease means a lease from the Commonwealth or the Territory, and includes an agre
   (b) for the tenancy or occupation of a parcel of land.
 owner, of a parcel of land means—
   (a) the registered proprietor of an interest in the parcel (other than an interest in a lease granted by a person other than the Territory or the Commonwealth); or
-  (b) a mortgagee in possession of the parcel; or
-  (c) a person holding the parcel under a sublease from the Territory, if the Territory holds the parcel under a lease from the Commonwealth.
+  (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the parcel but not yet registered as the proprietor—the new owner; or
+  (c) a mortgagee in possession of the parcel; or
+  (d) a person holding the parcel under a sublease from the Territory, if the Territory holds the parcel under a lease from the Commonwealth.
 owners corporation—see the Unit Titles Act, dictionary.
 parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
 primary production means—
@@ -51,6 +52,8 @@ tenancy agreement, for part 2 (Imposition and payment of land tax)—see section
 tenant, for part 2 (Imposition and payment of land tax)—see section 7.
 trustee, for part 2 (Imposition and payment of land tax)—see section 7.
 unit means a unit under the Unit Titles Act, section 9.
-unit owner—see the Unit Titles Act, dictionary.
+unit owner means—
+  (a) the registered proprietor of the lease of a unit; or
+  (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the unit but not yet registered as the proprietor—the new owner.
 unit subdivision—see the Rates Act 2004, dictionary.
 Unit Titles Act means the Unit Titles Act 2001.
