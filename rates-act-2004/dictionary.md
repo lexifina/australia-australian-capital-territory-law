@@ -38,8 +38,9 @@ liability for rates, for division 7.3 (Rebate of rates)—see section 60.
 owner, of a parcel of land, means—
   (a) except for part 7—
     (i) the registered proprietor of an interest in the parcel (other than an interest in a lease granted by a person other than the Territory or the Commonwealth); or
-    (ii) a mortgagee in possession of the parcel; or
-    (iii) a person holding the parcel of land under a sublease from the Territory, if the Territory holds the parcel under lease from the Commonwealth; and
+    (ii) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the parcel but not yet registered as the proprietor—the new owner; or
+    (iii) a mortgagee in possession of the parcel; or
+    (iv) a person holding the parcel of land under a sublease from the Territory, if the Territory holds the parcel under lease from the Commonwealth; and
   (b) for part 7 (Deferral and rebates)—see section 45.
 owners corporation—see the Unit Titles Act, dictionary.
 parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
@@ -74,7 +75,9 @@ Taxation Administration Act means the Taxation Administration Act 1999.
 unimproved value—see section 6.
 unit means a unit under the Unit Titles Act, section 9.
 unit entitlement—see the Unit Titles Act, section 8.
-unit owner—see the Unit Titles Act, dictionary.
+unit owner means—
+  (a) the registered proprietor of the lease of a unit; or
+  (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the unit but not yet registered as the proprietor—the new owner.
 units plan means a units plan under the Unit Titles Act 2001, section 7.
 unit subdivision means a parcel of land subdivided by registration of a units plan.
 Unit Titles Act means the Unit Titles Act 2001.
