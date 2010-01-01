@@ -1,7 +1,19 @@
 # Chapter 1 General
 ## Part 1.1 Preliminary
 ## Part 1.2 General principles and objects
-# Chapter 2 School enrolment and attendance
+# Chapter 2 Compulsory education
+## Part 2.1 Preliminary—ch 2
+## Part 2.2 Compulsory education requirements
+### Division 2.2.1 Enrolment, registration and attendance requirements
+### Division 2.2.2 Participation requirement
+### Division 2.2.3 Information requirement
+## Part 2.3 Exemption certificates
+## Part 2.4 After year 10—training and employment alternatives
+### Division 2.4.1 Definitions—pt 2.4
+### Division 2.4.2 Approval to participate in training and employment alternatives
+### Division 2.4.3 Training and employment alternatives—deemed participation
+## Part 2.5 Compliance notices
+## Part 2.6 Offences—parents
 # Chapter 3 Government schools
 ## Part 3.1 General
 ## Part 3.2 Establishment and operation of government schools
@@ -35,3 +47,4 @@
 # Chapter 6 Miscellaneous
 ## Part 6.1 Notification and review of decisions
 ## Part 6.2 Other provisions
+# Chapter 9 Transitional—Education (Participation) Amendment Act 2009
