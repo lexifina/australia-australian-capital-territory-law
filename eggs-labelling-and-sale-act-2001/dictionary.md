@@ -2,13 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· Executive
-· may (see s 146)
-· must (see s 146)
-· person
-· Territory law.
+• Executive
+• may (see s 146)
+• must (see s 146)
+• person
+• Territory law.
+barn egg means an egg laid by a hen kept in the conditions described in schedule 1, item 2, column 3.
+cage egg means an egg laid by a hen kept in the conditions described in schedule 1, item 1, column 3.
 code means the Model Code of Practice for the Welfare of Animals: Domestic Poultry, made by the Animal Welfare Committee of the Standing Committee on Agriculture and Resource Management, as in force from time to time.
 egg labelling requirements—see section 5 (What are the egg labelling requirements).
+free-range egg means an egg laid by a hen kept in the conditions described in schedule 1, item 4, column 3.
 hen means a domestic fowl (Gallus gallus).
 packaging, for hen eggs, includes any container or wrapper in or by which eggs are completely or partly enclosed, contained or packed.
 sell, for hen eggs, includes—
