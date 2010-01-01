@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -172,7 +172,7 @@ health professional means a health professional registered under the Health Prof
 health segregation direction, for division 6.6.3 (Segregation)—see section 204.
 health service—see the Health Professionals Act 2004, section 15.
 hearing, for a review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
-high risk employment, for part 21.4 (Employment of children and young people under school-leaving age)—see section 794.
+high risk employment, for part 21.4 (Employment of children and young people under 15 years old)—see section 794.
 information, for chapter 25 (Information secrecy and sharing)—see section 842.
 information holder, for chapter 25 (Information secrecy and sharing)—see section 843.
 information sharing entity, for part 25.3 (Sharing protected information)—see section 859.
@@ -197,7 +197,7 @@ investigator, for part 8.2 (Responding to behaviour breaches)—see section 291.
 kinship carer, for a child or young person—see section 509.
 licensed childcare service, for chapter 20 (Childcare services)—see section 728.
 licensed proprietor, of a childcare service, for chapter 20 (Childcare services)—see section 728.
-light work, for part 21.4 (Employment of children and young people under school-leaving age)—see section 793.
+light work, for part 21.4 (Employment of children and young people under 15 years old)—see section 793.
 long-term care responsibility—see section 20.
 long-term parental responsibility provision, for the care and protection chapters—see section 479.
 mail means postal mail.
@@ -305,8 +305,6 @@ scanning search—
 school means—
   (a) a government or non-government school under the Education Act 2004; or
   (b) an educational institution conducted by the Canberra Institute of Technology.
-school-leaving age—see the Education Act 2004, dictionary.
-Note The Education Act 2004, dictionary defines school-leaving age as 15 years old.
 security classification, for chapter 6 (Criminal matters—detention places)—see section 137.
 segregation, for division 6.6.3 (Segregation)—see section 204.
 segregation direction—
