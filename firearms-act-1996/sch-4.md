@@ -43,5 +43,3 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 40 | 175 | cancel registration of user of firearm | person who was registered
 41 | 250 (2) | refuse to approve the modification of a firearm | person refused approval
 42 | 267 (2) | cancel a licence | person who held licence
-43 | 411 (3) | cancel registration of firearm | person whose firearm was registered
-44 | 412 (4) | cancel registration of user of firearm | person who was registered
