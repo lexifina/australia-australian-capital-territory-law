@@ -13,6 +13,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · penalty unit (see s 133)
 · reviewable decision notice
 · the Territory.
+ACT plumbing code means a document declared under section 46.
 Australian Standard 3500 means the following standards, as in force from time to time:
   (a) AS 3500.1.1;
   (b) AS 3500.2.1;
@@ -44,7 +45,7 @@ occupier, of premises, for part 4 (Enforcement)—see section 18.
 offence, for part 4 (Enforcement)—see section 18.
 owner, for land, includes the occupier, lessee, tenant or holder of any land on which any sewerage or water service has been, or is to be, installed.
 plan approval means a plan approval issued under section 8 (Issue of plan approvals).
-plumbing code means a document declared under section 46.
+plumbing code—see section 45A (1).
 premises includes land and place.
 reasonably believes, for part 4 (Enforcement)—see section 18.
 responsible utility means—
