@@ -32,9 +32,9 @@ animal welfare offence means an offence against any of the following provisions 
   (o) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
 approved provider, for division 4.2 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
-authorised officer means an authorised officer under section 123, and includes the registrar and a deputy registrar.
+authorised person means an authorised person under section 123, and includes the registrar and a deputy registrar.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
-connected with an offence, for division 9.2 (Powers of authorised officers)—see section 126.
+connected with an offence, for division 9.2 (Powers of authorised people)—see section 126.
 dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Offences of attacking or harassing).
 dangerous dog licence means a licence under section 25 (1) (Dangerous dog licences—approval or refusal).
 deputy registrar means a deputy registrar under section 122.
@@ -52,7 +52,7 @@ and includes a disability that—
   (i) previously existed but no longer exists; or
   (j) may exist in the future; or
   (k) is imputed to a person.
-enter, for division 9.2 (Powers of authorised officers)—see section 126.
+enter, for division 9.2 (Powers of authorised people)—see section 126.
 excluded offence means—
   (a) a minor offence; or
   (b) an offence against any of the following sections:
@@ -75,7 +75,7 @@ multiple dog licence means a licence under section 20 (1) (Multiple dog licences
 muzzle means a device that, if worn by a dog, prevents the dog from biting a person or animal.
 nuisance notice, for part 6 (Animal nuisance)—see section 107.
 occupier, of premises, includes a person who is, or is reasonably believed to be, in charge of the premises.
-offence, for division 9.2 (Powers of authorised officers)—see section 126.
+offence, for division 9.2 (Powers of authorised people)—see section 126.
 permit, for part 3 (Dogs and cats)—see section 73.
 premises includes land (whether vacant or occupied), an aircraft, a vessel and a vehicle.
 prohibited area means an area declared by the Minister under section 41 (1).

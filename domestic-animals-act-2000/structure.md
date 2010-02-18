@@ -18,6 +18,6 @@
 ## Part 8 Notification and review of decisions
 ## Part 9 Administration
 ### Division 9.1 Officers
-### Division 9.2 Powers of authorised officers
+### Division 9.2 Powers of authorised people
 ## Part 10 Miscellaneous
 ## Part 11 Transitional provisions
