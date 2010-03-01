@@ -5,3 +5,8 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 2 | 7 (2) | impose requirement about time and form of publication of schedules | controlling body or ARO
 3 | 9 | refuse to approve conduct of phantom race meeting | applicant for approval
 4 | 12 | refuse to approve rules other than approved rules | applicant for approval
+5 | 61K (1) (b) | refuse to issue approval | applicant for approval
+6 | 61N (b) | issue approval on condition | applicant for approval
+7 | 61N (b) | renew approval on condition | licensed wagering operator
+8 | 61Q (1) (b) | refuse to renew approval | licensed wagering operator
+9 | 61R | revoke approval | the person whose approval was revoked
