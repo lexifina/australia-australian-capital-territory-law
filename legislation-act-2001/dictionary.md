@@ -87,7 +87,6 @@ chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004
 chief planning executive means the Chief Planning Executive under the Planning and Development Act 2007.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 chief solicitor means the chief solicitor under the Government Solicitor Act 1989.
-chief surveyor means the Chief Surveyor under the Surveyors Act 2007.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 children and young people commissioner means the Children and Young People Commissioner under the Human Rights Commission Act 2005.
 Childrens Court means the Childrens Court under the Magistrates Court Act 1930, section 287.
@@ -395,6 +394,7 @@ subordinate law—see section 8.
 summary offence—see section 190.
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
+surveyor-general means the surveyor-general under the Surveyors Act 2007.
 swear an oath includes make an affirmation.
 take an oath includes make an affirmation.
 territory authority means a body established for a public purpose under an Act, but does not include a body declared by regulation not to be a territory authority.
