@@ -16,7 +16,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 advisory committee means the survey practice advisory committee established under section 62.
 advisory committee member—see section 64.
 business address, for a surveyor, means an address of a place from which the surveyor carries on the practice of surveying.
-chief surveyor means the Chief Surveyor appointed under section 59.
 continuation notice, for division 3.1 (Continuing registration)––see section 19.
 corresponding law means any law of a local jurisdiction that regulates surveyors in the jurisdiction.
 field procedures means field notes, records, measurements or calculations.
@@ -40,4 +39,5 @@ surveyor—
   (a) for this Act generally—means a person registered under this Act; and
   (b) for division 3.3 (Occupational discipline—surveyors)—see section 25.
   (c) for part 4 (The practice of surveying)—see section 44.
+surveyor-general means the surveyor-general appointed under section 59.
 surveyors register means the surveyors register mentioned in section 11.

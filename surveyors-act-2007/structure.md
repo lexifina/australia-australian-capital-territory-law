@@ -11,8 +11,8 @@
 ### Division 4.1 Interpretation—pt 4
 ### Division 4.2 Power of entry and damage
 ### Division 4.3 Offences
-### Division 4.4 Chief surveyor practice directions
-## Part 5 Chief surveyor
+### Division 4.4 Surveyor-general practice directions
+## Part 5 Surveyor-general
 ## Part 6 Advisory committee
 ## Part 7 Notification and review of decisions
 ## Part 8 Miscellaneous
