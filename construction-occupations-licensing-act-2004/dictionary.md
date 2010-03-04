@@ -73,3 +73,5 @@ reviewable decision, for part 11A (Notification and review of decisions)—see s
 sanitary drainage service—see section 10 (2).
 storey—see the Building Act 2004, dictionary.
 supervise includes direct.
+works assessment service—see section 14A (2).
+works assessor—see section 14A (1).
