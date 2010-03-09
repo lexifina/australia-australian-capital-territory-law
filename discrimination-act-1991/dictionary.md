@@ -44,8 +44,29 @@ employment includes—
   (b) work as a Territory employee; and
   (c) work as an unpaid worker.
 employment agency means any person who or body that (whether for payment or not) assists people to find employment or other work or assists employers to find employees or workers.
+gender identity means—
+  (a) the identification on a genuine basis by a person of one sex as a member of the other sex (whether or not the person is recognised as such)—
+    (i) by assuming characteristics of the other sex, whether by way of medical intervention, style of dressing or otherwise; or
+    (ii) by living, or seeking to live, as a member of the other sex; or
+  (b) the identification on a genuine basis by a person of indeterminate sex as a member of a particular sex (whether or not the person is recognised as such)—
+    (i) by assuming characteristics of that sex, whether by way of medical intervention, style of dressing or otherwise; or
+    (ii) by living, or seeking to live, as a member of that sex.
 HIV/AIDS status, for part 6 (Racial, sexuality and HIV/AIDS vilification)—see section 65.
 HRC means the human rights commission.
+industrial activity means any of the following:
+  (a) being or not being a member of, or joining, not joining or refusing to join, an industrial organisation or industrial association;
+  (b) establishing or being involved in establishing an industrial organisation or forming or being involved in forming an industrial association;
+  (c) organising or promoting or proposing to organise or promote a lawful activity on behalf of an industrial organisation or industrial association;
+  (d) encouraging, assisting, participating in or proposing to encourage, assist or participate in a lawful activity organised or promoted by an industrial organisation or industrial association;
+  (e) not participating in or refusing to participate in a lawful activity organised or promoted by an industrial organisation or industrial association;
+  (f) representing or advancing the views, claims or interests of members of an industrial organisation or industrial association.
+industrial association—
+  (a) means a group of employees or employers formed formally or informally to represent or advance the views, claims or interests of the employees or employers in a particular industry, trade, profession, business or employment; but
+  (b) does not include an industrial organisation.
+industrial organisation means any of the following that is registered or recognised under the law of the Commonwealth, a State or another Territory:
+  (a) an organisation of employees;
+  (b) an organisation of employers;
+  (c) any other organisation established for the purposes of people who carry on a particular industry, trade, profession, business or employment.
 man means a member of the male sex irrespective of age.
 potential pregnancy—see section 5A.
 pregnancy includes potential pregnancy.
@@ -86,9 +107,6 @@ sexuality means heterosexuality, homosexuality (including lesbianism) or bisexua
 Territory employee means a person who is—
   (a) a public servant; or
   (b) employed by a Territory authority;
-transsexual means a person of one sex who—
-  (a) assumes the bodily characteristics of the other sex, whether by means of medical intervention or otherwise; or
-  (b) identifies himself or herself as a member of the other sex or lives, or seeks to live, as a member of that other sex.
 unpaid worker means a person who performs work for an employer for no remuneration.
 voluntary body means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include—
   (a) a club; or
