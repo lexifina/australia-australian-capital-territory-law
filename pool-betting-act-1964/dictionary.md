@@ -15,4 +15,4 @@ pool betting competition means a competition or transaction involving betting by
 pool betting scheme means a scheme or arrangement for the conduct of 1 or more pool betting competitions, including the negotiation, receipt or payment of money in connection with such a competition.
 promoter, in relation to a pool betting competition, means the person carrying on the pool betting scheme under which that competition is conducted.
 soccer football pool means a pool betting competition in which rights to winnings or prizes are determined by reference to the results of certain soccer football matches.
-unlawful game—see the Unlawful Games Act 1984.
+unlawful game—see the Unlawful Gambling Act 2009.
