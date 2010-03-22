@@ -14,13 +14,11 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 10 | Contractors Debts Act 1897 | 1897 No 29 (NSW)
 11 | Crimes Act 1900 | 1900 No 40 (NSW)
 12 | Truck Act 1900 | 1900 No 55 (NSW)
-13 | Games, Wagers and Betting Houses Act 1901 | 1902 No 18 (NSW)
-14 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
-15 | Public Roads Act 1902 | 1902 No 95 (NSW)
-16 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
-17 | Fertilisers (Labelling and Sale) Act 1904 | 1904 No 33 (NSW)
-18 | Gaming and Betting Act 1906 | 1906 No 13 (NSW)
-19 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
+13 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
+14 | Public Roads Act 1902 | 1902 No 95 (NSW)
+15 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
+16 | Fertilisers (Labelling and Sale) Act 1904 | 1904 No 33 (NSW)
+17 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
