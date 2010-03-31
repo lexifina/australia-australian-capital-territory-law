@@ -6,13 +6,13 @@ committee means the DI fund advisory committee.
 member means a member of the committee.
 ## 3.2 Establishment of DI fund advisory committee
 The DI fund advisory committee is established.
-## 3.3 Functions of committee
+## U 3.3 Functions of committee
 (1) The committee has the following functions:
   (a) monitoring the operations of the DI fund;
   (b) advising the Minister or DI fund manager on matters in relation to part 8.2 if asked.
 (2) The committee may exercise any other function given to it under this Act or any other territory law.
 Note A provision of a law that gives an entity (including a person) a function also gives the entity powers necessary and convenient to exercise the function (see Legislation Act, s 196 and dict, pt 1, def entity).
-## 3.4 Membership of committee
+## U 3.4 Membership of committee
 (1) The committee consists of—
   (a) the DI fund manager; and
   (b) the chief executive; and
@@ -28,7 +28,7 @@ Note 3 Certain Ministerial appointments require consultation with an Assembly co
 ## 3.5 When DI fund manager not member of committee
 The DI fund manager is not a member of the committee if it is considering the manager’s conduct under this Act.
 ## 3.6 Ending of members’ appointments
-The Minister may end the appointment of a member (other than the DI fund manager or DI fund actuary)—
+The Minister may end the appointment of a member (other than the DI fund manager or chief executive)—
   (a) if the member contravenes a territory law; or
   (b) for misbehaviour; or
   (c) if the member becomes bankrupt or executes a personal insolvency agreement; or
@@ -98,24 +98,20 @@ relevant committee means—
   (a) in the exercise of a function under this Act; or
   (b) in the reasonable belief that the act or omission was in the exercise of a function under this Act.
 (2) Any liability that would, apart from subsection (2), attach to a member attaches instead to the Territory.
-## 3.14 Time and place of committee meetings
+## U 3.14 Time and place of committee meetings
 (1) The committee is to meet when and where it decides.
 (2) However, the committee must meet at least once every 3 months.
 (3) The chair—
   (a) may at any time call a meeting of the committee; and
-  (b) must call a meeting if asked by the Minister, DI fund manager, DI fund actuary or at least 2 members.
-(4) If, for any reason, there is no committee chair, the chief executive—
-  (a) may at any time call a meeting of the committee; and
-  (b) must call a meeting if asked by the Minister, DI fund manager, DI fund actuary or at least 2 members.
-(5) The chair or chief executive must give the members reasonable notice of the time and place of a meeting called by the chair or chief executive.
+  (b) must call a meeting if asked by the Minister or at least 2 members.
+(4) The chair or chief executive must give the members reasonable notice of the time and place of a meeting called by the chair or chief executive.
 ## 3.15 Presiding member at committee meetings
 (1) The chair presides at all meetings of the committee at which the chair is present.
 (2) If the chair is absent, the member chosen by the members present presides.
-(3) However, the members must not choose the DI fund actuary to preside.
-## 3.16 Quorum at committee meetings
+## U 3.16 Quorum at committee meetings
 Business may be carried on at a meeting of the committee only if at least 3 members appointed by the Minister are present.
 ## 3.17 Voting at committee meetings
-(1) At a meeting of the committee each member (other than the DI fund manager and DI fund actuary) has a vote on each question to be decided.
+(1) At a meeting of the committee each member (other than the DI fund manager) has a vote on each question to be decided.
 (2) A question is decided by a majority of the votes of the members present and voting but, if the votes are equal, the member presiding has a deciding vote.
 ## 3.18 Conduct of committee meetings etc
 (1) The committee may conduct proceedings (including its meetings) as it considers appropriate.
