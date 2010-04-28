@@ -52,6 +52,7 @@ chief officer (SES)—see section 31.
 city area—see section 66.
 closure notice means a closure notice issued under section 86 (2) (Notices for premises).
 commissioner means the ACT Emergency Services Commissioner.
+commissioner’s guidelines—see section 11 (1) (Commissioner may make guidelines).
 community communication and information plan means the community communication and information plan mentioned in section 149.
 conservator means the conservator of flora and fauna.
 contributor, to a health fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
@@ -68,14 +69,15 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 emergency management means the establishment of plans, structures and arrangements to coordinate the resources of agencies and other entities in a comprehensive approach to—
   (a) emergency risks; and
   (b) the prevention of, preparedness for, response to and recovery from, emergencies.
+emergency management committee means the ACT Emergency Management Committee established under section 141.
+emergency plan means the emergency plan made under section 147.
 emergency risk includes the risk of an emergency arising from—
   (a) civil defence requirements associated with warlike action; or
   (b) mass gatherings of people at sporting and other events; or
   (c) technological problems, including the widespread simultaneous failure of computers.
-emergency management committee means the ACT Emergency Management Committee established under section 141.
-emergency plan means the emergency plan made under section 147.
 emergency service means the ambulance service, the fire brigade, the rural fire service or the SES.
 emergency services, for part 4.6 (Other approved providers)—see section 60.
+emergency services support volunteer—see section 59CA (Appointment of emergency services support volunteers).
 exempt contribution, for schedule 1 (Ambulance levy)—see schedule 1, section 1.2.
 family rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 fire alarm includes any signalling apparatus for giving notice of a fire.
