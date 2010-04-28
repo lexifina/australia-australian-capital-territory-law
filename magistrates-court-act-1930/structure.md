@@ -5,6 +5,7 @@
 ### Division 2.2.1 Magistrates other than special magistrates
 ### Division 2.2.2 Special magistrates
 ### Division 2.2.3 Registrar and other court officers
+### Division 2.2.3A Judicial officers exchange
 ### Division 2.2.4 Jurisdiction of magistrates
 ## Part 2.3 Protection of magistrates in execution of their office
 # Chapter 3 Criminal proceedings
