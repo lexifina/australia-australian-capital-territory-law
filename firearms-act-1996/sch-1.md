@@ -23,3 +23,4 @@ column 1 item | column 2 description
 20 | a pistol of more than 9.65mm calibre Note A 9.65mm calibre pistol includes a 0.38-inch calibre pistol.
 21 | a semiautomatic pistol with a barrel length of less than 120mm
 22 | a revolver or single action pistol with a barrel length of less than 100mm
+23 | a .50 BMG calibre firearm or a derivative
