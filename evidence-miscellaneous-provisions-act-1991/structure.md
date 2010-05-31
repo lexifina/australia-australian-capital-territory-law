@@ -22,4 +22,3 @@
 ## Part 5 Certain evidence under court rules not admissible
 ## Part 6 Publication of evidence
 ## Part 7 Miscellaneous
-## Part 10 Transitional—Sexual and Violent Offences Legislation Amendment Act 2008
