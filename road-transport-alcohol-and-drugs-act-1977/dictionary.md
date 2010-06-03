@@ -8,6 +8,17 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · nurse
 · nurse practitioner.
+Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
+· another jurisdiction
+· bicycle
+· combination
+· driver
+· jurisdiction
+· motor vehicle
+· ride
+· road transport authority (or authority) (see s 16)
+· road transport legislation (see s 6).
+Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accident means an accident on a public street or in a public place, whether within or outside the ACT, that involves a motor vehicle.
 another jurisdiction means a jurisdiction other than the ACT.
 approved analyst means a person who is appointed by the Minister under section 6 (2).
@@ -34,7 +45,6 @@ drive a motor vehicle includes—
   (c) be in, and in charge of, the vehicle; and
   (d) be in control of the steering, movement or propulsion of the vehicle; and
   (e) if the vehicle can be ridden—ride the vehicle.
-driver, of a motor vehicle, means the person who is driving the vehicle.
 driver involved in an accident means a driver of a motor vehicle that is involved in an accident who—
   (a) appears to be at least 15 years old; and
   (b) attends, or is admitted to, a hospital for the purpose of examination or treatment as a consequence of the accident.
@@ -48,10 +58,8 @@ Note An external driver licence is a foreign driver licence or an external terri
 first offender—see section 4D.
 GCM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 GVM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
-jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 level, for a concentration of alcohol in blood—see section 4C.
 medical examination means an examination by a doctor or authorised nurse practitioner.
-motor vehicle means a vehicle built to be propelled by a motor that forms a part of the vehicle.
 nurse practitioner position—see the Health Act 1993, section 195 (2).
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
@@ -66,9 +74,6 @@ registered operator—see the Road Transport (Vehicle Registration) Act 1999, di
 repeat offender—see section 4D.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
-Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
-road transport legislation—see the Road Transport (General) Act 1999, section 6.
 scope of practice—see the Health Act 1993, section 195 (2).
 screening test in relation to a person, means a test of sample of the breath of the person carried out for this Act by means of an approved screening device.
 special driver—see section 4B.
