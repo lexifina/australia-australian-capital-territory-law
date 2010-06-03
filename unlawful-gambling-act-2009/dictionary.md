@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory.
 approval means an approval under part 3.
 authorised officer means an authorised officer under the Control Act, section 20.
+betting––see section 6.
 charitable organisation—see the Duties Act 1999, dictionary.
 charitable purpose includes any benevolent, philanthropic or patriotic purpose.
 commission means the gambling and racing commission.
