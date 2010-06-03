@@ -1,4 +1,4 @@
-# Schedule 1 The privacy principles
+# U Schedule 1 The privacy principles
 (see s 5)
 ## Principle 1: Manner and purpose of collection of personal health information
 1 A collector shall not collect personal health information for inclusion in a health record or in a generally available publication unless—
