@@ -6,14 +6,24 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · function
 · instrument.
+Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
+· another jurisdiction
+· Australian Transport Council
+· driver
+· jurisdiction
+· motor vehicle
+· National Transport Commission
+· ride
+· road transport authority (or authority) (see s 16)
+· road transport legislation (see s 6)
+· trailer
+· use (in relation to a vehicle).
+Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 additional provisional class, in relation to an Australian driver licence (including a provisional licence) of a particular class, means any other class of licence that is shown on the licence as a provisional class.
 administering authority, for a demerit points offence, means the entity that, under the regulations made under the Road Transport (General) Act 1999, is the administering authority for the offence.
-another jurisdiction means a jurisdiction other than the ACT.
 Australian driver licence means—
   (a) a driver licence; or
   (b) a licence (including a conditional licence, learner licence, probationary licence, provisional licence or restricted licence or a driver licence receipt) issued under the law of another jurisdiction authorising the holder to drive a motor vehicle on a road or road related area.
-Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
-authority—see road transport authority.
 class, of a driver licence, means a class of driver licence prescribed by regulation.
 conditional licence means an Australian driver licence that is subject to a condition imposed by the road transport authority or the licensing authority of another jurisdiction.
 corresponding law means a law of another jurisdiction under which authority is given to drive motor vehicles on roads or road related areas.
@@ -42,12 +52,9 @@ infringement notice—
 infringement notice penalty—
   (a) see the Road Transport (General) Act 1999, dictionary; and
   (b) includes an amount payable under an infringement notice served on a person under the law of another jurisdiction.
-jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 learner licence means an Australian driver licence issued to a person under the law of any jurisdiction that authorises the person to drive a motor vehicle on a road or road related area for the purpose of learning to drive.
 licensing authority, for another jurisdiction, means the entity that has functions under the law of the other jurisdiction corresponding to the functions of the road transport authority under this Act.
-motor vehicle means a vehicle that is built to be propelled by a motor that forms part of the vehicle.
 national schedule of demerit points means the offences, and the number of demerit points incurred for each offence, prescribed by regulation under the Road Transport (General) Act 1999 as the national schedule of demerit points.
-National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 (Cwlth) or its successor.
 photograph—
   (a) includes a digitised, electronic or computer generated image in a form approved by the road transport authority; and
   (b) for part 4 (Protection of photographs and signatures)—see section 35.
@@ -69,12 +76,7 @@ road related area means—
   (e) a shoulder of a road; or
   (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
-road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
-Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
-road transport legislation—see the Road Transport (General) Act 1999, section 6.
 signature, for part 4 (Protection of photographs and signatures)—see section 35.
-trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
-use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
   (a) any description of vehicle on wheels, other than a vehicle used on a railway or tramway; or
   (b) any other vehicle prescribed by regulation.
