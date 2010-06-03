@@ -7,16 +7,24 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · function
 · home address
 · the Territory.
+Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
+· another jurisdiction
+· Australian Road Rules
+· driver
+· jurisdiction
+· motor vehicle
+· road transport authority (or authority) (see s 16)
+· road transport legislation (see s 6)
+· use (in relation to a vehicle).
+Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
 accredited demand responsive service operator means accredited under a regulation to operate a demand responsive service.
 accredited hire car service operator means accredited under the regulations to operate a hire car service.
 accredited taxi network provider means accredited under the regulations to operate a taxi network.
 accredited taxi service operator means accredited under the regulations to operate a taxi service.
 affiliated, in relation to an accredited taxi service operator, means affiliated with an accredited taxi network provider.
-another jurisdiction means a jurisdiction other than the ACT.
 authorisation, in relation to a demand responsive service, means an authorisation under this Act to operate a demand responsive service.
 authorised demand responsive service operator means a person who is authorised under this Act to operate a demand responsive service.
-authority—see road transport authority.
 bus—see section 10A.
 bus service—see section 11.
 demand responsive service—see section 80.
@@ -27,9 +35,7 @@ hire car—see section 67.
 hire car licence—see section 61.
 hire car service—see section 69.
 inspect a vehicle includes observe the performance of the vehicle or any of its equipment, with or without the use of instruments.
-jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 long-distance service—see section 14.
-motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
 noncompliance notice—see section 120 (1).
 public bus—see section 10A.
 public passenger service—see section 10.
@@ -51,8 +57,6 @@ road related area means—
   (e) a shoulder of a road; or
   (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
-road transport authority (or authority) means the Australian Capital Territory Road Transport Authority.
-Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 service contract—
   (a) for part 2 (Bus services)—see section 17; and
   (b) for part 8 (Demand responsive services)—see section 89.
