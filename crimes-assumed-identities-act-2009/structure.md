@@ -7,4 +7,4 @@
 ### Division 6.1 Misuse of assumed identity and information
 ### Division 6.2 Reporting and record keeping
 ### Division 6.3 Inspection
-## Part 7 Miscellanous
+## Part 7 Miscellaneous
