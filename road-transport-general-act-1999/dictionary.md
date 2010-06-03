@@ -3,40 +3,48 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· ACT
 · chief police officer
+· Commonwealth
 · entity
 · exercise
 · function
 · home address
 · instrument
+· internal territory
 · public employee
 · reviewable decision notice
+· State
 · statutory declaration
 · the Territory.
+Note 3 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-Australian Transport Council means the Australian Transport Council mentioned in the National Transport Commission Act 2003 (Cwlth), section 4 or its successor.
+Australian Road Rules—see the Road Transport (Safety and Traffic Management) Regulation 2000, section 5.
+Note The Australian Road Rules are applied in the ACT under the Road Transport (Safety and Traffic Management) Regulation 2000. They are to be read with, and as if they formed part of, that regulation (see s 6 (1)).
+Australian Transport Council—see the National Transport Commission Act 2003 (Cwlth), section 4.
 authorised person means—
   (a) for part 3 (Infringement notices for certain offences)—see section 53A (3); and
   (b) in any other case—
     (i) a person who is appointed as an authorised person under section 19 for the provision; or
     (ii) a person who, under the regulations, is an authorised person for the provision.
-authority—see road transport authority.
+bicycle—see the Australian Road Rules, dictionary.
 camera-detected offence means an offence detected by an approved camera detection device.
+combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 credit card includes a debit card.
 CTP arbitrator, for part 7 (Notification and review of decisions)—see section 90.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
 decision-maker, for part 7 (Notification and review of decisions)—see section 90.
-drive a vehicle includes—
+drive, a vehicle, includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
   (b) if the vehicle is a trailer—draw or tow the vehicle; and
   (c) if the vehicle can be ridden—ride the vehicle.
-driver, of a vehicle, means the person who is driving the vehicle.
+driver, of a vehicle, means the person driving the vehicle.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
+executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
 illegal user declaration means a statutory declaration mentioned in section 38.
@@ -49,11 +57,11 @@ infringement notice penalty, for a person for an infringement notice offence, me
 internally reviewable decision, for part 7 (Notification and review of decisions)—see section 90.
 internal reviewer, for part 7 (Notification and review of decisions)—see section 92A.
 internal review notice for part 7 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
-jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
+jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 known user declaration means a statutory declaration mentioned in section 39.
 learner licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
-National Transport Commission means the National Transport Commission established by the National Transport Commission Act 2003 (Cwlth) or its successor.
+National Transport Commission—see the National Transport Commission Act 2003 (Cwlth), section 5.
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
@@ -79,6 +87,7 @@ but does not include an area that would otherwise be a road related area so far 
 road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
 sold vehicle declaration means a statutory declaration mentioned in section 40.
+taxi—see the Road Transport (Public Passenger Services) Act 2001, section 45.
 total loss, in relation to a vehicle for division 5.3 (Written-off vehicles register)—see section 83C.
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
