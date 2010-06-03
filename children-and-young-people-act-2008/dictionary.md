@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACT
 · administrative unit
 · adult
+· bankrupt or personally insolvent
 · chief executive (see s 163)
 · chief police officer
 · children and young people commissioner
