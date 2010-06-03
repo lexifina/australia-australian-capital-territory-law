@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · administrative unit
 · auditor-general
 · authorised deposit-taking institution
+· bankrupt or personally insolvent
 · chief executive (see s 163)
 · exercise
 · function
