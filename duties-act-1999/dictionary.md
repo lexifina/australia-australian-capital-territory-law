@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · ACT
 · Australia
+· bankrupt or personally insolvent
 · civil partnership
 · commissioner for revenue
 · Corporations Act
@@ -35,7 +36,7 @@ associated person—
   (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A and section 86 (2).
 Australian register—see the Corporations Act, section 9.
 Australian Stock Exchange means ASX Limited, ACN 008 624 691.
-bankrupt includes having executed a personal insolvency agreement.
+bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 capital reduction, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
