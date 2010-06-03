@@ -119,7 +119,7 @@ column 1 item | column 2 activity
 42 | the production of road building materials by the mixing of ground rock aggregate and bituminous materials at a production facility that— (a) is, or is intended to be, located at the one site for more than 1 year; and (b) is designed to produce more than 30 000t of road building materials per year
 43 | the operation of a facility for the crushing, grinding or separating of materials (including sand, gravel, rock, minerals, slag, road base, concrete, bricks, tiles, asphaltic material, metal or timber) into different sizes, if the processing facility is designed to produce more than 10 000t of processed materials per year
 44 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
-45 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 46
+45 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 44
 46 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
 47 | the operation of a firearm shooting range Note A regulation under the Firearms Act 1996 may provide for the licensing of an entity to operate an approved shooting range (see s 273). An approved shooting range is a shooting range approved by the registrar as prescribed by a regulation under the Firearms Act 1996.
 ## 1.3 Class B activities
