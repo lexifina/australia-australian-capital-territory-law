@@ -80,7 +80,9 @@ record means a record in documentary or electronic form that consists of or incl
   (c) any part of a record; and
   (d) a copy of a record or any part of a record.
 record keeper means an entity that has possession or control of a health record.
-registration board means a health profession board under the Health Professionals Act 2004.
+registration board means—
+  (a) a national board under the Health Practitioner Regulation National Law (ACT); or
+  (b) a health profession board under the Health Professionals Act 2004.
 sibling, in relation to a person, means a brother, sister, half-brother, half-sister, adoptive brother, adoptive sister, stepbrother or stepsister of the person.
 treating health service provider, in relation to a consumer, means a health service provider who is involved in diagnosis, care or treatment of the consumer for the purpose of improving or maintaining the consumer’s health.
 treating team, in relation to a consumer, means health service providers involved in diagnosis, care or treatment for the purpose of improving or maintaining the consumer’s health for a particular episode of care, and includes—

@@ -38,9 +38,6 @@ Note Law of the Territory—see dict.
   (b) the destruction is not prohibited under any other law and happens after—
     (i) if the consumer is under 18 years old when the information is collected—the day the consumer turns 25 years old; or
     (ii) if the consumer is an adult when the information is collected—7 years after the day a service was last provided to the consumer by the record keeper.
-Example of law of the Territory that might deal with record keeping for health professionals
-a standard of practice under the Health Professionals Act 2004
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## Principle 4.2: Storage, security and destruction of personal health information—register of destroyed or transferred records
 1 A record keeper must keep a register of records that have been destroyed or transferred to another entity.
 Note Entity includes a person (see Legislation Act, dict, pt 1).
