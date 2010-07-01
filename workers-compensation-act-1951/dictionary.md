@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
@@ -43,7 +43,7 @@ child, of a worker, means a child of the worker who is—
   (a) not in a domestic partnership; and
   (b) under16 years old or a full-time student.
 Note For the meaning of domestic partnership, see the Legislation Act, s 169.
-chiropractor means a person entitled to practise as a chiropractor under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
+chiropractor means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the chiropractic profession (other than as a student).
 claim for payment, by a person, for part 8.2 (Default insurance fund)—see section 170.
 claims manager, for part 8.2 (Default insurance fund)—see section 165.
 committee—
@@ -137,12 +137,12 @@ non-business employer means an employer who employs the worker other than for wo
 occupier, for chapter 10 (Inspection)—see section 187.
 offence, for chapter 10 (Inspection)—see section 187.
 official manager—see the Corporations Act, section 9.
-osteopath means a person entitled to practise osteopathy under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
+osteopath means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the osteopathy profession (other than as a student).
 partially incapacitated—see section 7.
 payment includes a non-monetary payment.
 personal injury plan—see section 85A.
 Petroleum (Submerged Lands) Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
-physiotherapist means a person entitled to practise as a physiotherapist under the Health Professionals Act 2004 or a corresponding law of a State or another Territory.
+physiotherapist means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the physiotherapy profession (other than as a student).
 premises, for chapter 10 (Inspection)—see section 187.
 professional sporting activity means—
   (a) participation for fee or reward as a contestant in a sporting or athletic activity; or
