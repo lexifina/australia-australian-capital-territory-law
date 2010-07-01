@@ -40,7 +40,6 @@
 ### Division 3.8.5 Infringement notices—other provisions
 ## Part 3.9 Enforcement of criminal decisions
 ### Division 3.9.1 Enforcement of criminal decisions—general
-### Division 3.9.2 Enforcement of fines
 ### Division 3.9.3 Reciprocal enforcement of fines against bodies corporate
 ### Division 3.9.4 Enforcement of criminal decisions—other provisions
 ## Part 3.10 Criminal appeals
