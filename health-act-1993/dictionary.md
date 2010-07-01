@@ -12,9 +12,11 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · entity
 · exercise
 · function
+· health practitioner
 · in relation to
 · interest
 · make
+· pharmacist
 · proceeding
 · territory authority
 · territory law
@@ -30,6 +32,7 @@ clinical privileges, of a doctor or dentist, for a health facility, for part 5 (
 clinical privileges committee—see section 51.
 clinical privileges report, for part 5 (Reviewing clinical privileges)—see section 67.
 clinical privileges review notice, for part 5 (Reviewing clinical privileges)—see section 70.
+community pharmacy, for part 9 (Pharmacists and pharmacy premises)—see section 128.
 core conditions, for part 7 (VMO service contracts)—see section 100.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 dentist, for a health facility, for part 5 (Reviewing clinical privileges)—see section 52.
@@ -39,10 +42,11 @@ engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
 entity, for part 7 (VMO service contracts)—see section 100.
+health board means—
+  (a) a national board under the Health Practitioner Regulation National Law (ACT); or
+  (b) a health profession board under the Health Professionals Act 2004.
 health facility—see section 6.
 health facility QAC, for a health facility, for part 4 (Quality assurance)—see section 20.
-health profession board—see the Health Professionals Act 2004, dictionary.
-health professional—see the Health Professionals Act 2004, section 14.
 health professional organisation, for part 4 (Quality assurance)—see section 21.
 health professional organisation QAC, for a health professional organisation, for part 4 (Quality assurance)—see section 20.
 health service—see section 5.
