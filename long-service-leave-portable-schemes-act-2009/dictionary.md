@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -19,17 +19,20 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory.
 at premises includes in or on the premises.
 authority—see section 16.
-building and construction industry—see section 1.3.
-building and construction work—see section 1.2.
-cleaning work—see section 2.2.
-contract cleaning industry—see section 2.3.
+building and construction industry—see schedule 1, section 1.3.
+building and construction work—see schedule 1, section 1.2.
+cleaning work—see schedule 2, section 2.2.
+community sector industry—see schedule 3, section 3.3.
+community sector work—see schedule 3, section 3.2.
+contract cleaning industry—see schedule 2, section 2.3.
 contractor—see section 10.
 corresponding law means a law of a State declared under section 87 to be a corresponding law.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 covered industry—see section 6.
 covered industry schedule means—
   (a) for the building and construction industry—schedule 1; and
-  (b) for the contract cleaning industry—schedule 2.
+  (b) for the contract cleaning industry—schedule 2; and
+  (c) for the community sector industry—schedule 3.
 day—see section 14.
 decision-maker, for a reviewable decision, for part 9 (Notification and review of decisions)—see section 80.
 employee—see section 9.
@@ -38,7 +41,8 @@ employers register—see section 30.
 governing board means the governing board of the authority.
 long service leave formula—
   (a) for the building and construction industry—see schedule 1, section 1.5; and
-  (b) for the contract cleaning industry—see schedule 2, section 2.5
+  (b) for the contract cleaning industry—see schedule 2, section 2.5; and
+  (c) for the community sector industry—see schedule 3, section 3.6.
 ordinary remuneration, for a person, means the amount paid or payable to the person for work, other than any amounts for—
   (a) overtime; or
   (b) expenses incurred by the person; or
