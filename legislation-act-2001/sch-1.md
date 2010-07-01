@@ -1,6 +1,6 @@
 # Schedule 1 Acts included in sources of law in the ACT
 (see s 17)
-## U Part 1.1 Former NSW and UK Acts in force before establishment of Territory
+## Part 1.1 Former NSW and UK Acts in force before establishment of Territory
 column 1 item | column 2 name of Act | column 3 number or date of assent and original jurisdiction
 1 | Magna Carta | (1297) 25 Edw 1 c 29 (UK)
 2 | Criminal and Civil Justice Act 1351 | 25 Edw 3 St 5 c 4 (UK)
@@ -11,14 +11,13 @@ column 1 item | column 2 name of Act | column 3 number or date of assent and ori
 7 | Bill of Rights 1688 | 1 Will and Mary sess 2 c 2 (UK)
 8 | Act of Settlement 1700 | 12 and 13 Will 3 c 2 (UK)
 9 | Royal Marriages Act 1772 | 12 Geo 3 c 11 (UK)
-10 | Contractors Debts Act 1897 | 1897 No 29 (NSW)
-11 | Crimes Act 1900 | 1900 No 40 (NSW)
-12 | Truck Act 1900 | 1900 No 55 (NSW)
-13 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
-14 | Public Roads Act 1902 | 1902 No 95 (NSW)
-15 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
-16 | Fertilisers (Labelling and Sale) Act 1904 | 1904 No 33 (NSW)
-17 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
+10 | Crimes Act 1900 | 1900 No 40 (NSW)
+11 | Truck Act 1900 | 1900 No 55 (NSW)
+12 | Pawnbrokers Act 1902 | 1902 No 66 (NSW)
+13 | Public Roads Act 1902 | 1902 No 95 (NSW)
+14 | Anglican Church of Australia Constitutions Act 1902 | 24 December 1902 (NSW)
+15 | Fertilisers (Labelling and Sale) Act 1904 | 1904 No 33 (NSW)
+16 | Second-hand Dealers Act 1906 | 1906 No 30 (NSW)
 ## Part 1.2 Former NSW Acts applied after establishment of Territory
 Note to pt 1.2
 The former NSW Acts mentioned in this part are in force in the ACT as Acts of the Legislative Assembly
