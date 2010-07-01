@@ -152,6 +152,7 @@
 ## Part 16.4 Therapeutic protection—administration
 ### Division 16.4.1 Therapeutic protection places
 ### Division 16.4.2 Therapeutic protection plan
+### Division 16.4.3 Non-treating health practitioners and health professionals
 ### Division 16.4.4 Therapeutic protection register
 # Chapter 17 Care and protection—interstate transfer of orders and proceedings
 ## Part 17.1 Preliminary

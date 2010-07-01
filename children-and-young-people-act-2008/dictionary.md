@@ -20,6 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · entity
 · Executive
 · function
+· health practitioner
 · home address
 · human rights commission
 · indictable offence (s 190)
@@ -167,11 +168,17 @@ general parental authority—see section 515.
 government agency for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 harmful conduct, engaged in by a child or young person—see section 533.
 health care assessment means an assessment of the child’s or young person’s physical or mental wellbeing (including admission to hospital).
-health care treatment means treatment of an illness, disability, disorder or condition by a health professional.
+health care treatment means treatment of an illness, disability, disorder or condition by a health practitioner or health professional.
 health facility means a hospital or other facility where health services are provided.
-health professional means a health professional registered under the Health Professionals Act 2004 or someone who is a health professional registered under a corresponding law of a local jurisdiction within the meaning of that Act.
+health professional means a health professional registered under the Health Professionals Act 2004.
 health segregation direction, for division 6.6.3 (Segregation)—see section 204.
-health service—see the Health Professionals Act 2004, section 15.
+health service—
+  (a) means a service provided to someone (the service user) for any of the following purposes:
+    (i) assessing, recording, maintaining or improving the physical, mental or emotional health, comfort or wellbeing of the service user;
+    (ii) diagnosing or treating an illness, disability, disorder or condition of the service user; and
+  (b) includes a service provided by—
+    (i) a health practitioner in the practitioner’s capacity as a health practitioner; and
+    (ii) a health professional in the professional’s capacity as a health professional.
 hearing, for a review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 high risk employment, for part 21.4 (Employment of children and young people under 15 years old)—see section 794.
 information, for chapter 25 (Information secrecy and sharing)—see section 842.
@@ -214,13 +221,16 @@ non-treating doctor—
   (a) for chapter 6 (Criminal matters—detention places)—see section 137; and
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
+non-treating health practitioner—
+  (a) for the criminal matters chapters—see section 98; and
+  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
+non-treating health professional—
+  (a) for the criminal matters chapters—see section 98; and
+  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
 non-treating nurse—
   (a) for part 6.7 (Alcohol and drug testing)—see section 235; and
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
-non-treating health professional—
-  (a) for the criminal matters chapters—see section 98; and
-  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
 occupier, for chapter 23 (Enforcement)—see section 812.
 offence—
   (a) includes an offence against a Commonwealth law; and
@@ -240,7 +250,7 @@ out-of-home care standards—see section 887 (2) (c).
 owner, of a thing—
   (a) for part 7.9 (Seizing property)—see section 279; and
   (b) for division 16.3.6 (Seizing dangerous things)—see section 620.
-paediatrician means a doctor who is registered under the Health Professionals Regulation 2004 in the specialist area of paediatric medicine.
+paediatrician means a doctor who is registered under the Health Practitioner Regulation National Law (ACT) in the specialist area of paediatric medicine.
 parent—see section 16 (2).
 parental responsibility—see division 1.3.2.
 parental responsibility provision, for the care and protection chapters—see section 474.
@@ -275,7 +285,6 @@ proprietor, of a childcare service, for chapter 20 (Childcare services)—see se
 protected information—see section 844.
 protection order—see the Domestic Violence and Protection Orders Act 2008, dictionary.
 provision, in a care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 421.
-psychiatrist means a doctor who is registered under the Health Professionals Regulation 2004 in the specialist area of psychiatry.
 receiving State, for part 5.2 (Interstate transfers)—see section 114.
 registered, for a family group conference, for Chapter 12 (Care and protection—voluntary agreements to transfer or share parental responsibility)—see section 389.
 register of young detainees, for chapter 6 (Criminal matters—detention places)—see section 137.
