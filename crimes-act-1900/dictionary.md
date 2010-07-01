@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -16,6 +16,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · domestic partner (see s 169)
 · fail
 · fire brigade
+· health practitioner
 · indictable offence (see also s 190)
 · intersex person (see s 169B)
 · judge
