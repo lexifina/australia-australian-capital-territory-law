@@ -27,16 +27,11 @@ court attendance notice, for division 3.3.3A (Court attendance notices)—see se
 Crimes Act, for chapter 3 (Criminal proceedings)—see section 18A.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, for part 3.8 (Infringement notices for certain offences)—see section 117.
 decision, for chapter 3 (Criminal proceedings)—see section 18A.
-default notice, for division 3.9.2 (Enforcement of fines)—see section 146.
 defendant—
   (a) for chapter 3 (Criminal proceedings)—see section 18A; and
   (b) for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
 driver, of a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
-fine—
-  (a) for division 3.9.2 (Enforcement of fines)—see section 146; and
-  (b) for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
-fine defaulter, for division 3.9.2 (Enforcement of fines)—see section 146.
-government agency, for division 3.9.2 (Enforcement of fines)—see section 146.
+fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 hearing includes the examination of a person charged with an indictable offence.
 illegal user declaration, for part 3.8 (Infringement notices for certain offences)—see section 131D.
 indictable offence means an offence that may be prosecuted before the Supreme Court by charge or indictment.
@@ -53,8 +48,6 @@ magistrate—
   (b) for division 2.2.1 (Magistrates other than special magistrates)—see section 6.
 notice of intention to defend form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 notice to defendant form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
-outstanding fine, for division 3.9.2 (Enforcement of fines)—see section 146.
-penalty notice, for division 3.9.2 (Enforcement of fines)—see section 146.
 plea of guilty form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 prescribed offence, for part 3.7 (Service and pleading by post for certain offences)—see section 116AA.
 reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
@@ -66,10 +59,10 @@ reminder notice, for part 3.8 (Infringement notices for certain offences)—see 
 responsible person, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (General) Act 1999, section 10 and section 11.
 review appeal, for division 1.10.3 (Review appeals in criminal matters)—see section 219B (1).
 rules means rules under the Court Procedures Act 2004 applying in relation to the Magistrates Court.
+security—for part 3.12 (Securities in criminal matters)—see section 248.
 sold vehicle declaration, for part 3.8 (Infringement notices for certain offences)—see section 131F.
 State, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 summary conviction means conviction by a magistrate for an offence.
-territory entity, for division 3.9.2 (Enforcement of fines)—see the Auditor-General Act 1996, dictionary.
 territory fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 unknown offender declaration, for part 3.8 (Infringement notices for certain offences)—see section 131G.
 vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
