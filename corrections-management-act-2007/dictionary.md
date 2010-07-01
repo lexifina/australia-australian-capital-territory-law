@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · doctor
 · domestic partner (see s 169 (1))
 · Governor
+· health practitioner
 · human rights commissioner
 · in relation to
 · intersex person (see s 169B)
@@ -75,8 +76,11 @@ family member, of a detainee, means any of the following:
 frisk search—see section 107.
 full-time detainee—see the Crimes (Sentence Administration) Act 2005, section 22 (1).
 health facility means a hospital or other facility where health services are provided.
-health professional means a health professional registered under the Health Professions Act 2004.
-health service—see the Health Professionals Act 2004, section 15.
+health service—
+  (a) means a service provided to someone (the service user) for any of the following purposes:
+    (i) assessing, recording, maintaining or improving the physical, mental or emotional health, comfort or wellbeing of the service user;
+    (ii) diagnosing or treating an illness, disability, disorder or condition of the service user; and
+  (b) includes a service provided by a health practitioner in the practitioner’s capacity as a health practitioner.
 hearing, for an inquiry—see section 151.
 inquiry—see section 151.
 interstate detainee, for part 12.2 (Interstate leave)—see section 206.
