@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -45,7 +45,7 @@ contact means a person who—
 contravention, of this Act or a corresponding public health risk law, includes the contravention of a notice, direction or other instrument given under this Act or such a law.
 corresponding public health risk law, in relation to a public health risk activity or a public health risk procedure, means a law of a State or another Territory that regulates the performance of the activity or procedure, as the case may be.
 counsellor means—
-  (a) a person registered as a psychologist under the Health Professionals Act 2004; or
+  (a) a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the psychology profession (other than as a student); or
   (b) a nurse counsellor; or
   (c) a social worker.
 course of instruction, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
