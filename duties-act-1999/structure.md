@@ -10,7 +10,6 @@
 ### Division 2.5.3 Miscellaneous
 ## Part 2.6 Exemptions
 ## Part 2.6A Deferred payments—home buyers
-## Part 2.7 Expiry—provisions relating to unquoted marketable securities
 # Chapter 3 Certain transactions treated as transfers
 ## Part 3.1 Preliminary
 ## Part 3.2 Acquisition of interests in certain landholders
@@ -19,9 +18,7 @@
 ### Division 3.2.3 Charging of duty
 ### Division 3.2.4 General and supplemental
 ## Part 3.2A Registration of unit trust schemes
-## Part 3.3 Entitlements arising from capital reductions or alterations of rights
 ## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
-## Part 3.5 Allotment of shares by direction
 ## Part 3.6 Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth)
 ## Part 3.7 Exemptions—ch 3 transactions
 ### Division 3.7.1 Exempt transactions—personal relationships

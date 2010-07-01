@@ -20,7 +20,6 @@ acquisition statement, for chapter 3 (Certain transactions treated as transfers)
 Act imposing duty means—
   (a) a corresponding Act; or
   (b) an Act to which the Taxation Administration Act applies.
-ADR means a negotiable certificated receipt issued by a depositary resident outside Australia acknowledging the interest of the registered holder of the receipt in shares in a territory company held by the depositary, or deposited with a depositary to hold, as trustee for the holder.
 application to register a motor vehicle means—
   (a) an application under the Vehicle Registration Act to register a motor vehicle; or
   (b) an application under the Vehicle Registration Act to transfer the registration of a motor vehicle.
@@ -38,12 +37,10 @@ Australian register—see the Corporations Act, section 9.
 Australian Stock Exchange means ASX Limited, ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-capital reduction, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
 charitable organisation means an association, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for the purpose of securing pecuniary benefits to its members.
 commissioner means the commissioner for revenue.
-company, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
 complying superannuation fund means an entity that is—
   (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or section 42A; or
@@ -69,7 +66,6 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or people in whom it is vested if a discretion conferred under the trust is exercised.
 disqualifying circumstance, in relation to a registered unit trust scheme, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 domestic relationship—see the Domestic Relationships Act 1994, section 3.
-dutiable entitlement, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
 dutiable value—
@@ -159,17 +155,11 @@ majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
 managed investment scheme means a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C, and includes a public unit trust scheme.
-marketable securities means—
-  (a) shares mentioned in section 10 (1) (h); or
-  (b) units mentioned in section 10 (1) (i); or
-  (c) an interest in shares, or units, mentioned in section (a) or (b).
 market value, in relation to a motor vehicle, means the amount for which the motor vehicle might reasonably be sold, free of encumbrances, on the open market.
 marriage includes a void marriage.
 matrimonial property, of a marriage, means property of the parties to the marriage or of either of them.
 mortgage means any charge on land created merely for securing a debt.
-motor vehicle means—
-  (a) a motor vehicle or trailer within the meaning of the Vehicle Registration Act; or
-  (b) a caravan.
+motor vehicle means a motor vehicle or trailer within the meaning of the Vehicle Registration Act, but does not include a caravan or camper trailer.
 new motor vehicle means a motor vehicle that has not previously been registered under—
   (a) the Vehicle Registration Act or another territory law; or
   (b) a law of the Commonwealth, a State or another Territory.
@@ -180,9 +170,8 @@ paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—s
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
-partnership interest—see section 10 (1) (j).
+partnership interest—see section 10 (1) (h).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
-person, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 person with a disability means a person who has a disability that—
   (a) is attributable to an intellectual, psychiatric, sensory, physical or neurological impairment, or acquired brain injury; and
   (b) is likely to be permanent; and
@@ -225,7 +214,6 @@ responsible entity—
   (a) for this Act generally—see the Corporations Act, section 9; and
   (b) of a unit trust scheme for which there is no responsible entity within the meaning of the Corporations Act, section 9, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
-rights alteration, in relation to voting shares, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see section 96 (1).
 scheme includes—
   (a) an agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; or
   (b) a plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
@@ -244,22 +232,20 @@ territory company means—
 third-party insurance, for chapter 8 (Insurance)—see section 175.
 time, of transfer of dutiable property—see section 8 (2).
 trading stock, for part 9.2 (Exemptions)—see section 208A.
-transfer—
-  (a) includes any of the following:
-    (i) assignment;
-    (ii) exchange;
-    (iii) a buyback of shares in accordance with the Corporations Act, division 2J.1.2;
-    (iv) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested;
-    (v) vesting of an interest in property under a court order, unless the interest did not exist before it is vested; and
-  (b) for chapter 2 (Transactions concerning dutiable property)—see section 6.
+transfer includes any of the following:
+  (a) assignment;
+  (b) exchange;
+  (c) a buyback of shares in accordance with the Corporations Act, division 2J.1.2;
+  (d) vesting of an interest in property under a law of the Territory, the Commonwealth, a State or another Territory, unless the interest does not exist before it is vested;
+  (e) vesting of an interest in property under a court order, unless the interest did not exist before it is vested.
 transferee, of dutiable property—see section 8 (2).
 trustee includes—
   (a) a person who is a trustee under an implied or constructive trust; and
   (b) in relation to a deceased person—an executor of the will, or an administrator of the estate, of the deceased person; and
   (c) a receiver, guardian, committee or manager of the property of a person under a legal or other disability; and
   (d) a receiver or manager of the property of a company, or a liquidator of a company for the purpose of its winding-up; and
-  (f) a person who holds a marketable security for the benefit of another person; and
-  (g) a person who may be required to exercise his or her voting power in relation to a marketable security at the direction of another person.
+  (e) a person who holds a marketable security for the benefit of another person; and
+  (f) a person who may be required to exercise his or her voting power in relation to a marketable security at the direction of another person.
 unascertainable, for an amount of a cost component, for part 5.4 (Unascertainable lease costs)—see section 143 (2).
 unencumbered value—see section 22.
 unit, in relation to a unit trust scheme, means—
@@ -269,7 +255,6 @@ unit trust scheme means any arrangements made for the purpose, or having the eff
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
 voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-voting share, for part 3.3 (Entitlements arising from capital reductions or alterations of rights)—see the Corporations Act, section 9.
 wholesale unit trust scheme means a unit trust scheme, other than a listed trust, that is registered under part 3.2A (Registration of unit trust schemes) as—
   (a) a wholesale unit trust scheme; or
   (b) an imminent wholesale unit trust scheme.
