@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   · ACT
   · document
   · entity
+  · health practitioner
   · may (see s 146)
   · must (see s 146)
   · occupational discipline order
