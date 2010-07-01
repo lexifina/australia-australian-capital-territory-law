@@ -132,11 +132,13 @@ Criminal Code means the Criminal Code 2002.
 daily newspaper means a daily newspaper circulating generally in the ACT.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130.
-dental prosthetist means a person registered as a dental prosthetist under the Health Professionals Act 2004.
+dental prosthetist—
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise the health profession of dental prosthetist (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 dental technician means a person registered as a dental technician under the Health Professionals Act 2004.
 dentist—
-  (a) means a person unconditionally registered as a dentist under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally registered as a dentist under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise the health profession of dentist (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
@@ -146,8 +148,8 @@ disability and community services commissioner means the Disability and Communit
 disallowable instrument—see section 9.
 discrimination commissioner means the Discrimination Commissioner under the Human Rights Commission Act 2005.
 doctor—
-  (a) means a person unconditionally registered as a medical practitioner under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally registered as a medical practitioner under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the medical profession (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 document means any record of information, and includes—
   (a) anything on which there is writing; or
   (b) anything on which there are figures, marks, numbers, perforations, symbols or anything else having a meaning for people qualified to interpret them; or
@@ -164,8 +166,10 @@ emergency service means the ambulance service, the fire brigade, the rural fire 
 emergency services commissioner means the ACT Emergency Services Commissioner under the Emergencies Act 2004.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
 enrolled nurse—
-  (a) means a person unconditionally enrolled as a nurse under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally enrolled as a nurse under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT)—
+    (i) to practise in the nursing and midwifery profession (other than as a student); and
+    (ii) in the enrolled nurses (division 2) division; and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 entity includes an unincorporated body and a person (including a person occupying a position).
 environment protection authority means the Environment Protection Authority established under the Environment Protection Act 1997.
 establish includes constitute and continue in existence.
@@ -204,6 +208,8 @@ Governor means—
   (b) for the Northern Territory—the Administrator of the Northern Territory, and includes a person administering the Government of the Northern Territory.
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
+health practitioner means a person registered under the Health Practitioner Regulation National Law (ACT) to practise a health profession (other than as a student).
+Health Practitioner Regulation National Law (ACT) means the provisions applying because of the Health Practitioner Regulation National Law (ACT) Act 2010, section 6 (Application of Health Practitioner Regulation National Law).
 health services commissioner means the Health Services Commissioner under the Human Rights Commission Act 2005.
 heritage council means the Australian Capital Territory Heritage Council under the Heritage Act 2004.
 heritage register means the heritage register under the Heritage Act 2004.
@@ -265,8 +271,8 @@ may—see section 146.
 medical practitioner means a doctor.
 midnight, in relation to a particular day, means the time when the day ends.
 midwife—
-  (a) means a person unconditionally registered as a midwife under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally registered as a midwife under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the nursing and midwifery profession as a midwife (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 Minister—see section 162.
 modification includes modification by alteration, omission, substitution and addition.
 month means calendar month.
@@ -295,12 +301,12 @@ number means—
   (a) a number expressed in figures or words; or
   (b) a combination of a number expressed in figures or words and of a letter of the alphabet.
 nurse—
-  (a) means a person unconditionally registered as a nurse under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally registered as a nurse under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration; but
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the nursing and midwifery profession as a nurse (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration; and
   (c) does not include an enrolled nurse.
-Note Under the Mutual Recognition Act 1992 (Cwlth), s 25 people registered as nurses in a State may be deemed to be registered in the ACT.
-nurse practitioner means a person registered as a nurse under the Health Professionals Act 2004 in the specialist area of nurse practitioner.
-Note Under the Mutual Recognition Act 1992 (Cwlth), s 25 people registered as nurses in a specialty in a State may be deemed to be registered in the specialty in the ACT.
+nurse practitioner—
+  (a) means a person whose registration as a registered health practitioner under the Health Practitioner Regulation National Law (ACT) is endorsed as being qualified to practise as a nurse practitioner; and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 oath includes affirmation.
 Note The Evidence Act 1995 (Cwlth), ch 2, pt 2.1, div 2 and the Oaths and Affirmations Act 1984 make provision in relation to oaths and affirmations.
 occupational discipline order means an order for occupational discipline made by the ACAT.
@@ -310,7 +316,9 @@ office includes position.
 office of fair trading means the Office of Fair Trading of the Australian Capital Territory established under the Fair Trading (Consumer Affairs) Act 1973.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
-optometrist means a person registered as an optometrist under the Health Professionals Act 2004.
+optometrist—
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the optometry profession (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 ordinance means an ordinance made under the Seat of Government (Administration) Act 1910 (Cwlth), section 12.
 parent, of a child, means—
   (a) the child’s mother; or
@@ -322,8 +330,8 @@ passing, of an Act—see section 29.
 penalty unit—see section 133.
 person—see section 160 (References to people generally).
 pharmacist—
-  (a) means a person unconditionally registered as a pharmacist under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally registered as a pharmacist under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the pharmacy profession (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 planning and land authority means the Planning and Land Authority established under the Planning and Development Act 2007.
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
