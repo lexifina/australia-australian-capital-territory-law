@@ -4,6 +4,8 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · chief health officer
+· doctor
+· enrolled nurse
 · judge
 · nurse
 · penalty unit (see s 133)
@@ -15,15 +17,12 @@ child means a person who—
 Note For the meaning of domestic partnership, see Legislation Act, s 169.
 coroner means a person who is a coroner for the ACT.
 designated officer, in relation to a hospital, means a person appointed under section 5 to be a designated officer for that hospital.
-enrolled nurse means a person enrolled as a nurse under the Health Professionals Act 2004.
-medical practitioner means a person who is registered or licensed under a law of a State or Territory relating to the registration or licensing of medical practitioners.
 next of kin means—
   (a) for a dead child—someone mentioned in the definition of senior available next of kin, paragraph (a) (i), (ii) or (iii); or
   (b) for any other dead person—someone mentioned in that definition, paragraph (b) (i), (ii), (iii), (iv) or (v).
 non-regenerative tissue means tissue other than regenerative tissue.
 parent, for division 2.3 (Donations from children)—see section 12.
 regenerative tissue means tissue that, after injury or removal, is replaced in the body of a living person by natural processes of growth or repair.
-registered nurse—see the Legislation Act, dictionary, part 1, definition of nurse.
 school of anatomy, for part 5 (Donations for anatomical purposes)—see section 36.
 senior available next of kin means—
   (a) for a dead child—
