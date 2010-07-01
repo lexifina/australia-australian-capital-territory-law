@@ -13,6 +13,7 @@ director of public prosecutions
 doctor
 entity (see s 184A)
 function
+· health practitioner
 human rights commissioner
 intersex person (see s 169B)
 law, of the Territory
@@ -38,7 +39,7 @@ authorised applicant—see section 12.
 child—see section 14.
 correctional centre includes a NSW correctional centre.
 Note Correctional centre and NSW correctional centre are defined in the Legislation Act, dict, pt 1.
-corrections health professional, for a correctional centre, means a health professional appointed under the Corrections Management Act 2007, section 22 (Health professionals—non-therapeutic functions) for the centre.
+corrections health practitioner, for a correctional centre, means a health practitioner appointed under the Corrections Management Act 2007, section 22 (Health practitioners—non-therapeutic functions) for the centre.
 corresponding law—see section 100.
 crime scene index—see section 94.
 destroy—a person destroys forensic material taken from someone else by a forensic procedure, the results of the analysis of the material, or other information obtained from it, if the person destroys any means of identifying the forensic material or information with the person from whom it was taken or to whom it relates.
@@ -51,7 +52,6 @@ forensic order means—
   (c) an order of a court under section 77 (Court order for carrying out of forensic procedure on serious offender) or section 78 (Carrying out of forensic procedure following conviction); or
   (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material by order of magistrate after parent or guardian of child or incapable person withdraws consent).
 forensic procedure—see section 5.
-health professional means a health professional registered under the Health Professionals Act 2004 or someone who is a health professional registered under a corresponding law of a local jurisdiction within the meaning of that Act.
 incapable person—see section 15.
 in custody—a person is in custody if the person is in the lawful custody of a police officer.
 inform a person of a matter means inform the person of the matter, through an interpreter if necessary, in language (including sign language or braille) in which the person can communicate with reasonable fluency.
