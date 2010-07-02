@@ -37,4 +37,3 @@
 ## Part 11 Administration
 ## Part 12 Notification and review of decisions
 ## Part 13 Miscellaneous
-## Part 20 Transitional—Unit Titles Amendment Act 2008 (No 2)

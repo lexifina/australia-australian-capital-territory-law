@@ -500,4 +500,5 @@ R13 27 Aug 2008 | 27 Aug 2008– 1 Feb 2009 | A2008-29 | amendments by A2008-29
 R14 2 Feb 2009 | 2 Feb 2009– 30 June 2009 | A2008-45 | amendments by A2008-36, A2008-37 and A2008-45
 R15 1 July 2009 | 1 July 2009– 21 Sept 2009 | A2008-45 | amendments by A2008-45
 R16 22 Sept 2009 | 22 Sept 2009– 21 Dec 2009 | A2009-20 | amendments by A2009-20
-© Australian Capital Territory 2009
+R17 22 Dec 2009 | 22 Dec 2009– 1 July 2010 | A2009-44 | amendments by A2009-44
+© Australian Capital Territory 2010
