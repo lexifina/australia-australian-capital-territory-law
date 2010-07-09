@@ -55,6 +55,7 @@
 ## Part 6.5 Drug offences involving children
 ## Part 6.6 General provisions for drug offences
 ## Part 6.7 Offences relating to property derived from drug offences
+# Chapter 6A Participation in criminal groups
 # Chapter 7 Administration of justice offences
 ## Part 7.1 Interpretation for ch 7
 ## Part 7.2 Indictable offences for ch 7

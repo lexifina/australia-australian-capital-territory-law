@@ -2,16 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Act
-· ACT
-· contravene
-· corporation
-· function
-· person
-· proceeding
-· provision
-· statutory declaration
-· subordinate law.
+• Act
+• ACT
+• contravene
+• corporation
+• function
+• indictable offence (see s 190)
+• person
+• proceeding
+• provision
+• statutory declaration
+• subordinate law
+• summary offence (see s 190).
 access, to data held in a computer, for part 4.2 (Computer offences)—see section 412.
 account, for part 3.3 (Fraudulent conduct)—see section 325.
 agent, for part 3.7 (Bribery and related offences)—see section 353.
@@ -37,6 +39,8 @@ controlled drug—see section 600.
 controlled plant—see section 600.
 controlled precursor—see section 600.
 create—a law creates an offence if it directly or indirectly creates the offence or directly or indirectly affects its scope or operation.
+criminal activity, for chapter 6A (Participation in criminal groups)—see section 650.
+criminal group, for chapter 6A (Participation in criminal groups)—see section 651.
 cultivates a plant, for chapter 6 (Serious drug offences)—see section 615.
 cultivation, of a plant, for chapter 6 (Serious drug offences)—see section 615.
 damage—
