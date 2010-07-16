@@ -7,4 +7,3 @@
 ## Part 3 Permits
 ## Part 3A Notification and review of decisions
 ## Part 4 Miscellaneous
-## Part 5 Transitional
