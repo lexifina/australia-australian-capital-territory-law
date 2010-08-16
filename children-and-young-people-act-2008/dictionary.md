@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -128,7 +128,7 @@ disciplinary action, for chapter 8 (Criminal matters—discipline at detention p
 divulge, for chapter 25 (Information secrecy and sharing)—see section 842.
 domestic violence, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
 drug, for Part 6.7 (Alcohol and drug testing)—see section 235.
-drug of dependence—see the Drugs of Dependence Act 1989, section 3 (1).
+drug of dependence—see the Drugs of Dependence Act 1989, dictionary.
 drug testing standards—see section 887 (2) (b).
 drug use provision, in a care and protection order, for the care and protection chapters—see section 488.
 DVPO final protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
