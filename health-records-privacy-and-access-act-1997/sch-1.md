@@ -37,7 +37,11 @@ the collector shall take such steps (if any) as are reasonable in the circumstan
 Note Law of the Territory—see dict.
   (b) the destruction is not prohibited under any other law and happens after—
     (i) if the consumer is under 18 years old when the information is collected—the day the consumer turns 25 years old; or
-    (ii) if the consumer is an adult when the information is collected—7 years after the day a service was last provided to the consumer by the record keeper.
+    (ii) if the consumer is an adult when the information is collected—7 years after the day a service was last provided to the consumer by the record keeper; or
+  (c) an electronic copy of the record has been generated—
+    (i) by a method described in the Electronic Transactions Act 2001, section 11 (2) (b); and
+    (ii) when the record is destroyed it is reasonable to expect that the information contained in the electronic copy will be readily accessible so as to be useable for subsequent reference.
+Note The Electronic Transactions Act 2001, section 11 (Retention of information and documents) provides that, if a person is required to retain a document, the requirement is taken to be met if the person retains an electronic form of the document.
 ## Principle 4.2: Storage, security and destruction of personal health information—register of destroyed or transferred records
 1 A record keeper must keep a register of records that have been destroyed or transferred to another entity.
 Note Entity includes a person (see Legislation Act, dict, pt 1).
