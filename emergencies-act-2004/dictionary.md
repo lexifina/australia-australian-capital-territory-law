@@ -66,10 +66,12 @@ Examples of events
 3 epidemic or animal disease
 4 shortage of electricity, gas, fuel or water
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+emergency controller means—
+  (a) for a declared state of emergency—the person appointed under section 159; and
+  (b) in any other case—the person appointed under section 150A.
 emergency management means the establishment of plans, structures and arrangements to coordinate the resources of agencies and other entities in a comprehensive approach to—
-  (a) emergency risks; and
+  (a) the assessment of hazards and emergency risks; and
   (b) the prevention of, preparedness for, response to and recovery from, emergencies.
-emergency management committee means the ACT Emergency Management Committee established under section 141.
 emergency plan means the emergency plan made under section 147.
 emergency risk includes the risk of an emergency arising from—
   (a) civil defence requirements associated with warlike action; or
@@ -133,6 +135,7 @@ rescue services, for part 4.6 (Other approved providers)—see section 60.
 response operation, for part 4.6 (Other approved providers)—see section 60.
 reviewable decision, for chapter 9 (Notification and review of decisions)—see section 185.
 rural area—see section 65 (4).
+SEMSOG––see section 141.
 SES—see section 56.
 single rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 specialist, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
@@ -140,6 +143,5 @@ standards and protocols, for an emergency service, means the standards and proto
 strategic bushfire management plan means the strategic bushfire management plan under section 72.
 structure includes industrial plant and equipment.
 support unit, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
-territory controller means the person appointed to be the territory controller for a declared state of emergency under section 159.
 vehicle includes an aircraft, boat and train.
 volunteer member means a person appointed as a volunteer member of an emergency service under section 59B.

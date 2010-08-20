@@ -30,10 +30,13 @@
 ### Division 5.6.2 Controlled activities and offences relating to fire
 # Chapter 6 The bushfire council
 # Chapter 7 Emergency management
-## Part 7.1 Emergency management committee
+## Part 7.1 Security and Emergency Management Senior Officials Group
 ## Part 7.2 Emergency plan
 ## Part 7.3 Management of emergencies
-### Division 7.3.1 Declared emergencies
+### Division 7.3.1 Application—pt 7.3
+### Division 7.3.1A Emergency controller––no declared state of emergency
+### Division 7.3.1B Declared emergencies
+### Division 7.3.1C General provisions applying if emergency controller appointed
 ### Division 7.3.2 Other emergencies
 ## Part 7.4 Commonwealth, interstate and overseas cooperation
 ## Part 7.5 Emergency relief funds
