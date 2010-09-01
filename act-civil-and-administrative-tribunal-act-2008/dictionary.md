@@ -40,14 +40,14 @@ goods application, for part 4 (Civil disputes)—see section 15.
 ground for occupational discipline, for division 6.2 (Powers and decisions in applications for occupational discipline)—see section 64.
 internal review notice—see section 67B (1).
 non-disclosure certificate, for part 4A (Administrative review)—see section 22A.
-non-presidential member means a senior member or ordinary member of the tribunal appointed under section 96.
+non-presidential member means a senior member or ordinary member of the tribunal appointed under section 96 (1) or a temporary senior member or temporary ordinary member of the tribunal appointed under section 96 (2).
 nuisance application, for part 4 (Civil disputes)—see section 15.
 occupational discipline, in relation to a person who is licensed, or registered, under an authorising law—
   (a) means any action the tribunal may take in relation to the person under the authorising law; and
   (b) includes action the tribunal may take under section 66 (Orders for occupational discipline).
 party, to an application, means a party to the application under section 29.
 prescribed person, for division 4A.3 (Tribunal hearings—non-disclosure)—see section 22G.
-presidential member means the general president, appeal president or another presidential member appointed under section 94.
+presidential member means the general president, appeal president or another presidential member appointed under section 94 (1) or a temporary presidential member appointed under section 94 (2).
 question of law includes whether a question is a question of law.
 reasons statement, for part 4A (Administrative review)—see section 22B.
 registrar means the tribunal registrar appointed under section 110.
