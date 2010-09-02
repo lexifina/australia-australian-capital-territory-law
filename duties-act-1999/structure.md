@@ -50,4 +50,3 @@
 ## Part 15.2 Transitional—lease instruments
 ## Part 15.3 Transitional—unquoted marketable securities
 # Chapter 16 Transitional—Duties Amendment Act 2008
-# Chapter 17 Transitional—Duties (Landholders) Amendment Act 2008
