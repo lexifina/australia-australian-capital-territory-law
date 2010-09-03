@@ -177,6 +177,8 @@ unit owner means the registered proprietor of the lease of the unit.
 units plan means the units plan under section 7.
 unit subsidiary—see section 12.
 unit title application—see section 6.
+unit title assessment report—see section 22B.
+unit title assessor—see section 22A.
 unit title certificate—see section 75.
 unit title easement rights—see section 34.
 unopposed resolution means a resolution of a general meeting passed as required by section 107.

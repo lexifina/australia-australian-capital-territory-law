@@ -4,6 +4,7 @@
 ### Division 2.2 Boundaries
 ## Part 3 Unit title applications
 ### Division 3.1 Approval of unit title applications
+### Division 3.1A Unit title assessment reports for unit title applications
 ### Division 3.2 Endorsement of units plan for registration
 ### Division 3.3 Amendment of development statements
 ### Division 3.4 Developer disclosure
@@ -47,3 +48,4 @@
 ## Part 14 Notification and review of decisions
 ## Part 15 Miscellaneous
 ## Part 20 Transitional—Unit Titles Amendment Act 2008 (No 2)
+## Part 25 Transitional—Construction Occupations Legislation Amendment Act 2010
