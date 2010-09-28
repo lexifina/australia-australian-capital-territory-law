@@ -8,6 +8,6 @@ item | section | description
 4 | 20 | cause or permit child to provide commercial sexual services
 5 | 21 | receive proceeds of child prostitution
 6 | 23 | permit child on premises
-7 | 24 | obligations when prostitute infected with sexually transmitted disease
+7 | 24 | obligations when prostitute infected with sexually transmissible infection
 8 | 26 | obligations in relation to medical test and medical examination of prostitute
 9 | 27 | obligations about use of prophylactics

@@ -28,7 +28,7 @@ premises used by a single prostitute means premises used by not more than 1 pros
   (a) premises adjacent to or, for town houses, units or apartments, in the same block as, other premises that are used for prostitution; or
   (b) premises the provision of commercial sexual services at which is arranged by a person (other than the prostitute) who arranges clients for other prostitutes; or
   (c) premises to which clients are referred by other prostitutes, or from which clients are referred to other prostitutes.
-prophylactic means a condom or other device that is adequate to prevent the transmission of a sexually transmitted disease.
+prophylactic means a condom or other device that is adequate to prevent the transmission of a sexually transmissible infection.
 prostitute means a person who provides commercial sexual services.
 prostitution means the provision of commercial sexual services.
 public place means any street, road, public park, reserve, or any building, premises or other place that the public are entitled to use or that is open to, or used by, the public (whether on payment or otherwise).
@@ -36,9 +36,9 @@ registrar means the Registrar of Brothels and Escort Agencies under section 9.
 registration notice, for part 2 (Registration)—see section 7.
 required police report, for part 2 (Registration)—see section 5.
 scope of practice—see the Health Act 1993, section 195 (2).
-sexually transmitted disease means—
-  (a) chancroid, chlamydial disease, donovanosis, gonorrhoea, HIV/AIDS, lymphogranuloma venereum or syphilis; or
-  (b) a disease prescribed by regulation.
+sexually transmissible infection means—
+  (a) chancroid, chlamydial infection, donovanosis, gonorrhoea, HIV/AIDS, lymphogranuloma venereum or syphilis; or
+  (b) an infection prescribed by regulation.
 sexual services means—
   (a) an act of sexual intercourse as defined in the Crimes Act 1900, section 50; or
   (b) the masturbation of one person by another; or
