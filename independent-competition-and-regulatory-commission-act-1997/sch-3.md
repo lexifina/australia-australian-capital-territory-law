@@ -53,4 +53,4 @@ The panel’s decision on a review must be reached as follows:
 (3) The notice of suspension must be presented to the Legislative Assembly within 7 sitting days after it is given to the member.
 (4) The Executive must remove the member from office if, within 15 sitting days after the notice of suspension was presented to the Legislative Assembly, the Assembly by resolution declares that the member ought to be removed from office.
 (5) The member resumes office if, after 15 sitting days have elapsed since the notice of suspension was presented to the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the member ought to be removed from office.
-(6) A member of a panel ceases to hold office if the member becomes bankrupt or executes a personal insolvency agreement.
+(6) A member of a panel ceases to hold office if the member becomes bankrupt or personally insolvent.

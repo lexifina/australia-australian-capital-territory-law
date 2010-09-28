@@ -67,4 +67,4 @@ A commissioner may resign by giving a signed notice of resignation to the Minist
 (3) A notice of suspension must be presented to the Legislative Assembly within 7 sitting days after it is given to the commissioner.
 (4) The Executive must remove the commissioner from office if, within 15 sitting days after the notice of suspension was presented to the Legislative Assembly, the Assembly by resolution declares that the commissioner ought to be removed from office.
 (5) The commissioner must resume office if, after 15 sitting days have elapsed since the notice of suspension was presented to the Legislative Assembly, the Legislative Assembly has not passed a resolution declaring that the commissioner ought to be removed from office.
-(6) A commissioner ceases to hold office if the commissioner becomes bankrupt or executes a personal insolvency agreement.
+(6) A commissioner ceases to hold office if the commissioner becomes bankrupt or personally insolvent.
