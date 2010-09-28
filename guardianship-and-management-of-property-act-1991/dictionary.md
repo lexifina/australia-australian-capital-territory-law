@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · adult
 · appoint
+· bankrupt or personally insolvent
 · domestic partner (see s 169)
 · exercise
 · function
