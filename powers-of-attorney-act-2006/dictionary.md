@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · authorised deposit-taking institution
+· bankrupt or personally insolvent
 · child
 · civil partnership
 · corporation
@@ -10,7 +11,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise.
 affinity means affinity derived through marriage or any other domestic partnership.
 attorney—see section 6.
-bankrupt—without limiting when a person becomes bankrupt, a person is taken to become bankrupt if the person takes advantage of a law of a foreign country corresponding to the Bankruptcy Act 1966 (Cwlth).
 close friend, of a person, means someone who has a close personal relationship with the person and a personal interest in the person’s welfare.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 disability care means care that is provided to a person with a disability in a residential facility in which the person is also provided with accommodation that includes—
@@ -57,7 +57,6 @@ liquidator, of an attorney, includes—
   (c) the receiver and manager of the attorney’s property; or
   (d) the managing controller of the attorney’s property.
 personal care matter—see section 11.
-personal insolvency agreement—without limiting when a person executes a personal insolvency agreement, a person is taken to execute a person insolvency agreement if the person executes an agreement under a law of a foreign country corresponding to the Bankruptcy Act 1966 (Cwlth).
 power of attorney—
   (a) means a general power of attorney or an enduring power of attorney; and
   (b) for chapter 6 (Protection and relief from liability)—see section 70.
