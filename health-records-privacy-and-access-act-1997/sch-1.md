@@ -1,4 +1,4 @@
-# U Schedule 1 The privacy principles
+# Schedule 1 The privacy principles
 (see s 5)
 ## Principle 1: Manner and purpose of collection of personal health information
 1 A collector shall not collect personal health information for inclusion in a health record or in a generally available publication unless—
@@ -154,34 +154,100 @@ Note If a form is approved under s 35 for this provision, the form must be used.
 Example for par (a)
 Jo has died, and Jo’s daughter who has looked after him for many years cannot understand why he died when he seemed to have recovered from a recent illness. She is extremely distressed. Subject to clause 11 (c) and (d), the treating health service provider may disclose personal health information about Jo’s illness if she considers that the disclosure would help Jo’s daughter.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-## Principle 11: Transfer or closure of practice of health service provider
-1 This principle applies if the practice of a health service provider (the provider) is, or is proposed to be—
-  (a) sold or otherwise transferred; or
-  (b) closed down.
-2 The provider or, if the provider is deceased, the legal representatives of the provider, shall—
-  (a) publish a notice in a newspaper circulating in the locality of the practice stating that—
-    (i) the practice has been, or is about to be, transferred or closed down (as the case may be); and
-    (ii) the health records of the practice, other than those returned to a consumer or passed on to a nominated practitioner at the consumer’s request, will be transferred to a specified person (being a person to whom clause 3 (a) or (b) of this principle applies) at a specified address; and
-  (b) take such other steps as are practicable to inform every such consumer—
-    (i) that the practice has been, or is about to be, transferred or closed down (as the case may be); and
-    (ii) about the arrangements (as stated in the notice under paragraph (a)) for dealing with those health records.
-3 Not earlier than 21 days after giving notice in accordance with clause 2 of this principle, the person or persons giving the notice shall transfer each health record held by, or on behalf of, the practice—
-  (a) to the health service provider (if any) who takes over the practice;
-  (b) to a competent record keeper for safe storage in the Territory (until such time (if any) as the record is destroyed as part of a program of archival destruction); or
-  (c) to the consumer to whom the record relates or to a practitioner nominated by that consumer.
-4 Subject to the restriction stated in clause 3 of this principle, a person shall comply with the requirements of this principle as soon as practicable.
-5 Despite any other provision of these principles, a person who transfers a health record in accordance with this principle does not, by so doing, contravene these principles.
-## Principle 12: Transfer of consumer to another health service provider or of health service provider to another practice
-1 If a consumer transfers from 1 health service provider (the first provider) to another health service provider (the second provider)—
-  (a) the consumer may ask the first provider to give the second provider the consumer’s health record; and
-  (b) the first provider—
-    (i) must give the second provider the consumer’s record or a copy of the record; and
-    (ii) may also give the second provider a written summary of the consumer’s health record.
-2 If a health service provider transfers from 1 practice (the first practice) to another practice and a consumer continues to see the provider—
-  (a) the consumer may ask the first practice to give the provider the consumer’s health record; and
-  (b) the first practice—
-    (i) must give the provider the consumer’s record or a copy of the record; and
-    (ii) may also give the provider a written summary of the consumer’s health record.
-3 The fee chargeable for giving a health record, or a copy or written summary of a health record, under this principle is—
-  (a) if a fee has been determined under section 34 for this principle—the determined fee; or
-  (b) in any other case—nil.
+## Principle 11: Relocation and closure of health service practice
+1 This principle applies if a health service practice is or is proposed to be—
+  (a) relocated; or
+  (b) permanently closed.
+2 Not later than 30 days before the proposed relocation or closure, the provider must—
+  (a) publish a notice (a transfer notice) of the relocation or closure in a daily newspaper; and
+  (b) take other practicable steps to inform each consumer who has attended the health service practice of the matters mentioned in the transfer notice.
+Note Daily newspaper means a daily newspaper circulating generally in the ACT (see Legislation Act, dict, pt 1).
+3 The transfer notice must state—
+  (a) that the consumer may request (a transfer request) that a copy or written summary of the consumer’s health record be given to the consumer or a health service provider nominated by the consumer; and
+  (b) that the transfer request must be made not later than 14 days after the day the transfer notice (the transfer request period) is published; and
+  (c) if a fee has been determined under section 34 for this principle—that there is a fee that the consumer must pay before the provider will give a copy or written summary of the record to the consumer or health service provider nominated by the consumer; and
+  (d) that if the consumer does not make a transfer request within the transfer request period, a copy of the consumer’s health record will be given to a stated health service provider or record keeper; and
+  (e) the stated health service provider’s or record keeper’s address and contact details.
+4 As soon as practicable after publishing the transfer notice, the provider must give a copy of the transfer notice, or written notice of the information in the transfer notice, to the chief executive.
+Note 1 If a form is approved under s 35 for this provision, the form must be used.
+Note 2 Chief executive means the chief executive of the administrative unit responsible for this Act (see Legislation Act, s 163). Administrative units are established under the administrative arrangements (see Public Sector Management Act 1994, s 13).
+Note 3 Notice may be given electronically in certain circumstances (see Electronic Transactions Act 2001, s 8).
+5 If a consumer has made a transfer request, the provider must give the consumer or the consumer’s nominated health service provider the requested copy or written summary of the consumer’s health record as soon as practicable but not later than the later of—
+  (a) if a fee is payable for this principle—7 days after the day the fee is paid; and
+  (b) 30 days after the day the provider receives the transfer request.
+6 If, however, the consumer is receiving or needs urgent health services, the provider must give the consumer or the consumer’s nominated health service provider the requested copy or written summary of the consumer’s health record as soon as practicable but not later than 7 days after the day the provider receives the transfer request.
+Note Urgent health services—see cl 11 and cl 12.
+7 If a consumer does not make a transfer request within the transfer request period, the provider must, within 30 days after the end of the transfer request period, give a copy of the consumer’s health records to the health service provider or record keeper stated in the transfer notice.
+Note 1 If the original or copy of a consumer’s health record is given to another health service provider (the new provider) or other record keeper (the new record keeper)—
+· the consumer may ask the new provider or new record keeper for access to the consumer’s health record (see s 10 and s 12); and
+· the new provider or new record keeper must give the consumer access to the consumer’s health records in accordance with the Act (for example, see s 13 to s 13D).
+Note 2 A fee may be payable by the consumer for certain types of access (see s 10 (5) and s 13 (2) (c) (ii)).
+8 If a record keeper holds health records following the relocation or closure of a health service practice, the record keeper must promptly notify the chief executive of any change to—
+  (a) the record keeper’s contact details; or
+  (b) the location of the stored health records.
+9 The chief executive must promptly give a copy of a notice under clause 4 or clause 8 to the health services commissioner.
+10 If this principle applies because a sole provider in a health service practice dies or becomes legally incompetent, a legal representative or guardian of the provider must comply with the requirements of this principle as soon as practicable.
+11 It is sufficient to establish that a consumer is receiving or needs urgent health services for prioritising the giving of records by a provider (the record holder) if another health service provider advises the record holder that the consumer is receiving or needs urgent health services.
+12 However—
+  (a) an advice under clause 11 need not be in writing; and
+  (b) the record keeper may be satisfied that a consumer is receiving or needs urgent health services without an advice mentioned in clause 11.
+13 The requirement under clause 5, clause 6 or clause 7 to give a copy of the consumer’s health record is taken to be satisfied if the original of the record is given.
+14 To avoid doubt, clause 13 does not require a provider to give the original of the consumer’s health record.
+15 In this principle:
+health record means a health record held by, or on behalf of, the provider.
+health service practice means the business or premises where a health service provider provides health services.
+provider means—
+  (a) the provider of a health service practice; or
+  (b) if the provider is legally incompetent—the guardian of the provider; or
+  (c) if the provider is dead—the legal representative of the provider.
+relocate, a practice, includes—
+  (a) relocate to another premises or location; or
+  (b) stop, temporarily or otherwise, the provision of health services at a particular location.
+transfer notice—see clause 2 (a).
+transfer request—see clause 3 (a).
+transfer request period—see clause 3 (b).
+## Principle 12.1: Consumer moves to another health service provider
+1 If a consumer moves from 1 health service provider (the first provider) to another health service provider (the second provider), the consumer may ask the first provider to give the second provider a copy or written summary of the consumer’s health record.
+2 If the first provider receives a request under clause 1 (a transfer request), the first provider must—
+  (a) if a fee has been determined under section 34 for this principle—not later than 7 days after the day the first provider receives the transfer request, give the consumer notice that the consumer must pay a stated fee before the first provider will give the second provider the requested copy or written summary of the consumer’s health record; or
+  (b) not later than 30 days after the day the first provider receives the transfer request, give the second provider the requested copy or written summary of the consumer’s health record.
+3 If the consumer pays the fee stated in a notice under clause 2 (a), the first provider must give the second provider the requested copy or written summary of the consumer’s health record not later than the later of—
+  (a) 7 days after the day the fee is paid; and
+  (b) 30 days after the day the first provider receives the transfer request.
+4 If the consumer is receiving or needs urgent health services, the first provider must give the second provider the requested copy or written summary of the consumer’s health record as soon as practicable but not later than 7 days after the day the first provider receives the transfer request.
+5 It is sufficient to establish that a consumer is receiving or needs urgent health services for prioritising the giving of records by the first provider (the record holder) if another health service provider advises the record holder that the consumer is receiving or needs urgent health services.
+6 However—
+  (a) an advice under clause 5 need not be in writing; and
+  (b) the record keeper may be satisfied that a consumer is receiving or needs urgent health services without an advice mentioned in clause 5.
+7 The requirement under clause 2 (b), clause 3 or clause 4 to give a copy of the consumer’s health record to the second provider is taken to be satisfied if the original of the record is given.
+8 To avoid doubt, clause 7 does not require the first provider to give the original of the consumer’s health record to the second provider.
+9 In this principle:
+first provider—
+  (a) see clause 1; and
+  (b) includes—
+    (i) if the first provider becomes legally incompetent—a guardian of the provider; or
+    (ii) if the first provider dies—a legal representative of the provider.
+health record means a health record held by, or on behalf of, the first provider.
+second provider—see clause 1.
+transfer request—see clause 2.
+## Principle 12.2: Health service provider moves to another health service practice
+1 If a health service provider (the provider) moves from 1 health service practice (the first practice) to another health service practice and a consumer continues to see the provider, the consumer may ask the first practice to give the provider a copy or written summary of the consumer’s health record.
+2 If the first practice receives a request under clause 1 (a transfer request), the first practice must—
+  (a) if a fee has been determined under section 34 for this principle—not later than 7 days after the day the first practice receives the transfer request, give the consumer notice that the consumer must pay a stated fee before the first practice will give the provider the requested copy or written summary of the consumer’s health record; or
+  (b) not later than 30 days after the day the first practice receives the transfer request, give the provider the requested copy or written summary of the consumer’s health record.
+3 If the consumer pays the fee stated in a notice under clause 2 (a), the first practice must give the provider the requested copy or written summary of the record not later than the later of—
+  (a) 7 days after the day the fee is paid; and
+  (b) 30 days after the day the first practice receives the transfer request.
+4 If the consumer is receiving or needs urgent health services, the first practice must give the provider the requested copy or written summary of the consumer’s health record as soon as practicable but not later than 7 days after the day the first practice receives the transfer request.
+5 It is sufficient to establish that a consumer is receiving or needs urgent health services for prioritising the giving of records by the first practice (the record holder) if another health service provider advises the first practice that the consumer is receiving or needs urgent health services.
+6 However—
+  (a) an advice under clause 5 need not be in writing; and
+  (b) the record keeper may be satisfied that a consumer is receiving or needs urgent health services without an advice mentioned in clause 5.
+7 The requirement under clause 2 (b), clause 3 or clause 4 to give a copy of the consumer’s health record to the provider is taken to be satisfied if the original of the record is given.
+8 To avoid doubt, clause 7 does not require the first practice to give the original of the consumer’s health record to the provider.
+9 In this principle:
+first practice—see clause 1.
+health record means a health record held by, or on behalf of, the first provider.
+health service practice means the business or premises where a health service provider provides health services.
+provider—see clause 1.
+transfer request—see clause 2.

@@ -1,12 +1,14 @@
-# U Dictionary
+# Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · adult
+· chief executive (see s 163)
 · Commonwealth
 · contravene
 · domestic partner (s 169)
 · entity
+· health services commissioner
 · individual.
 child, in relation to a person, includes an adopted child or stepchild of the person.
 collector means a person who, in the course of his or her profession, employment or official duty, collects personal health information.
