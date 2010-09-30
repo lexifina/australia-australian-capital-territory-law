@@ -6,24 +6,24 @@ committee means the DI fund advisory committee.
 member means a member of the committee.
 ## 3.2 Establishment of DI fund advisory committee
 The DI fund advisory committee is established.
-## U 3.3 Functions of committee
+## 3.3 Functions of committee
 (1) The committee has the following functions:
-  (a) monitoring the operations of the DI fund;
-  (b) advising the Minister or DI fund manager on matters in relation to part 8.2 if asked.
+  (a) to keep informed of the operations of the DI fund to provide the advice mentioned in paragraph (b);
+  (b) if the Minister or the DI fund manager asks for advice in relation to the DI fund—to provide the advice requested.
 (2) The committee may exercise any other function given to it under this Act or any other territory law.
 Note A provision of a law that gives an entity (including a person) a function also gives the entity powers necessary and convenient to exercise the function (see Legislation Act, s 196 and dict, pt 1, def entity).
-## U 3.4 Membership of committee
+## 3.4 Membership of committee
 (1) The committee consists of—
   (a) the DI fund manager; and
   (b) the chief executive; and
-  (c) 6 members appointed by the Minister.
+  (c) 3 members appointed by the Minister.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
 Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
 (2) The Minister must appoint the following members:
-  (a) 2 members nominated by a group the Minister is satisfied represents employer interests;
-  (b) 2 members nominated by a group the Minister is satisfied represents employee interests;
-  (c) 2 members nominated by a majority of approved insurers.
+  (a) 1 member that the Minister is satisfied represents the interests of employers;
+  (b) 1 member that the Minister is satisfied represents the interests of workers;
+  (c) 1 member that the Minister is satisfied represents the interests of insurers.
 (3) An appointment under subsection (2) must not be for longer than 3 years.
 ## 3.5 When DI fund manager not member of committee
 The DI fund manager is not a member of the committee if it is considering the manager’s conduct under this Act.
@@ -98,18 +98,20 @@ relevant committee means—
   (a) in the exercise of a function under this Act; or
   (b) in the reasonable belief that the act or omission was in the exercise of a function under this Act.
 (2) Any liability that would, apart from subsection (2), attach to a member attaches instead to the Territory.
-## U 3.14 Time and place of committee meetings
+## 3.14 Time and place of committee meetings
 (1) The committee is to meet when and where it decides.
 (2) However, the committee must meet at least once every 3 months.
 (3) The chair—
   (a) may at any time call a meeting of the committee; and
   (b) must call a meeting if asked by the Minister or at least 2 members.
-(4) The chair or chief executive must give the members reasonable notice of the time and place of a meeting called by the chair or chief executive.
+(4) The chair must give the members reasonable notice of the time and place of a meeting called by the chair.
 ## 3.15 Presiding member at committee meetings
 (1) The chair presides at all meetings of the committee at which the chair is present.
 (2) If the chair is absent, the member chosen by the members present presides.
-## U 3.16 Quorum at committee meetings
-Business may be carried on at a meeting of the committee only if at least 3 members appointed by the Minister are present.
+## 3.16 Quorum at committee meetings
+Business may be carried on at a meeting of the committee only if the following members are present:
+  (a) the chief executive or the DI fund manager;
+  (b) at least 2 members appointed by the Minister.
 ## 3.17 Voting at committee meetings
 (1) At a meeting of the committee each member (other than the DI fund manager) has a vote on each question to be decided.
 (2) A question is decided by a majority of the votes of the members present and voting but, if the votes are equal, the member presiding has a deciding vote.
