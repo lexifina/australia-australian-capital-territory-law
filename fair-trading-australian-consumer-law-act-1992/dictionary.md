@@ -3,7 +3,6 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
-· Consumer Credit (Australian Capital Territory) Code
 · contravene
 · document
 · interest
@@ -12,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Magistrates Court
 · Minister
 · month
+· National Credit Code
 · prescribed.
 acquire includes—
   (a) in relation to goods—acquire by way of purchase, exchange or taking on lease, on hire or on hire-purchase; and
@@ -24,7 +24,7 @@ arrive at, in relation to an understanding, includes reach or enter into.
 business includes—
   (a) a business not carried on for profit; and
   (b) a trade or profession.
-code, for part 4A (Maximum annual percentage rate and disclosure)—see section 51C.
+code means the National Credit Code.
 commissioner means the commissioner for fair trading.
 conduct—see section 5 (b).
 consumer—see section 6.
