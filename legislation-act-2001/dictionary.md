@@ -114,8 +114,6 @@ Note The Australian Government Gazette was published from 1 July 1973 to 30 June
 confer, in relation to a function, includes impose.
 conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 1980.
 construction occupations registrar means the Australian Capital Territory Construction Occupations Registrar under the Construction Occupations (Licensing) Act 2004.
-Consumer Credit (Australian Capital Territory) Code means the provisions applying because of the Consumer Credit Act 1995, section 4.
-Consumer Credit (Australian Capital Territory) Regulations means the provisions applying because of the Consumer Credit Act 1995, section 5.
 contravene includes fail to comply with.
 converted ordinance means an enactment that was an ordinance immediately before self-government day.
 Coroner’s Court means the Coroner’s Court under the Coroners Act 1997.
@@ -284,6 +282,7 @@ name includes—
 named month means one of the 12 months of the year.
 national capital authority means the National Capital Authority established under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national capital plan means the National Capital Plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
+National Credit Code—see the National Consumer Credit Protection Act 2009 (Cwlth), section 5.
 National Gas (ACT) Law means the provisions applying because of the National Gas (ACT) Act 2008, section 8 (Application in the ACT of National Gas Law).
 National Gas (ACT) Regulation means the provisions applying because of the National Gas (ACT) Act 2008, section 9 (Application in the ACT of regulations under National Gas Law).
 national land means National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
