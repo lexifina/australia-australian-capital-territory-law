@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -14,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · individual
 · lawyer
 · Minister (see s 162)
+· National Credit Code
 · notifiable instrument (see s 10)
 · occupational discipline order
 · penalty unit (see s 133)
