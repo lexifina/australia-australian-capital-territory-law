@@ -13,6 +13,7 @@
 ## Part 7 Administration
 ## Part 8 Assessment of water resources
 ## Part 9 Protection of water resources
+## Part 9A Offences
 ## Part 10 Enforcement
 ### Division 10.1 General
 ### Division 10.2 Powers of authorised officers
