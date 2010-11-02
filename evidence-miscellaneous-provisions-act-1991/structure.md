@@ -2,9 +2,9 @@
 ## Part 2 Evidence of children
 ## Part 3 Use of audiovisual links and audio links
 ### Division 3.1 Preliminary—pt 3
-### Division 3.2 Use of interstate audiovisual links or audio links in proceedings before territory courts
+### Division 3.2 Use of audiovisual links or audio links with participating States in ACT proceedings
 ### Division 3.3 Use of interstate audiovisual links or audio links in proceedings in participating States
-### Division 3.4 Use of audiovisual links or audio links between territory courts and places in ACT
+### Division 3.4 Use of audiovisual links or audio links with places other than participating States in ACT proceedings
 ### Division 3.5 Protection of certain communications and documents in criminal proceedings
 ### Division 3.6 Costs and expenses
 ## Part 4 Evidence in criminal proceedings
