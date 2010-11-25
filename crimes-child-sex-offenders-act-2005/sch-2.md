@@ -19,20 +19,39 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 15 | Prostitution Act 1992 section 21 (1) | proceeds of child prostitution | 
 ## Part 2.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
-1 | Crimes Act 1914 (Cwlth), section 50BC (1) (a) | sexual conduct involving child under 16 outside Australia | 
-2 | Crimes Act 1914 (Cwlth), section 50BC (1) (b) | sexual conduct involving child under 16 outside Australia | 
-3 | Crimes Act 1914 (Cwlth), section 50BC (1) (c) | sexual conduct involving child under 16 outside Australia | 
-4 | Crimes Act 1914 (Cwlth), section 50BC (1) (d) | sexual conduct involving child under 16 outside Australia | 
-5 | Crimes Act 1914 (Cwlth), section 50BC (1) (e) | sexual conduct involving child under 16 outside Australia | 
-6 | Crimes Act 1914 (Cwlth), section 50BD (1) | inducing child under 16 to be involved in sexual conduct outside Australia | 
-7 | Crimes Act 1914 (Cwlth), section 50BD (2) | inducing child under 16 to be involved in sexual conduct outside Australia | 
-8 | Criminal Code Act 1995 (Cwlth) section 270.7 (1) and section 270.8 (1) | deceptive recruiting for sexual services | aggravated offence
-9 | Criminal Code Act 1995 (Cwlth), section 271.4 (1) or (2) | trafficking in children | the first person (as mentioned in the subsection) intends or is reckless as to whether the other person (as mentioned in the subsection) will be used to provide sexual services or will be otherwise exploited for sexual services
-10 | Criminal Code Act 1995 (Cwlth), section 271.7 (1) | domestic trafficking in children | the first person (as mentioned in the subsection) intends or is reckless as to whether the other person (as mentioned in the subsection) will be used to provide sexual services or will be otherwise exploited for sexual services
-11 | Criminal Code Act 1995 (Cwlth), section 474.19 (1) | using carriage service for child pornography material | 
-12 | Criminal Code Act 1995 (Cwlth), section 474.20 (1) | possessing, producing etc child pornography material for use through carriage service | 
-13 | Criminal Code Act 1995 (Cwlth), section 474.26 (1), (2) or (3) | using carriage service to procure child under 16 | 
-14 | Criminal Code Act 1995 (Cwlth), section 474.27 (1) (2) or (3) | using carriage service to ‘groom’ child under 16 | 
-15 | Customs Act 1901 (Cwlth) section 233BAB (5) | importing tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
-16 | Customs Act 1901 (Cwlth) section 233BAB (6) | exporting tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
-17 | any offence under a corresponding law that, if it had been committed in the ACT, would have been a class 2 offence |  | 
+1 | Criminal Code Act 1995 (Cwlth) section 270.7 (1) and section 270.8 (1) | deceptive recruiting for sexual services | aggravated offence
+2 | Criminal Code Act 1995 (Cwlth), section 271.4 (1) or (2) | trafficking in children | the first person (as mentioned in the subsection) intends or is reckless as to whether the other person (as mentioned in the subsection) will be used to provide sexual services or will be otherwise exploited for sexual services
+3 | Criminal Code Act 1995 (Cwlth), section 271.7 (1) | domestic trafficking in children | the first person (as mentioned in the subsection) intends or is reckless as to whether the other person (as mentioned in the subsection) will be used to provide sexual services or will be otherwise exploited for sexual services
+4 | Criminal Code Act 1995 (Cwlth), section 272.9 (1) | sexual activity (other than sexual intercourse) with child outside Australia | 
+5 | Criminal Code Act 1995 (Cwlth), section 272.9 (2) | cause child to engage in sexual activity (other than sexual intercourse) in presence of defendant outside Australia | 
+6 | Criminal Code Act 1995 (Cwlth), section 272.13 (1) | sexual activity (other than sexual intercourse) with young person outside Australia, and defendant in position of trust or authority | 
+7 | Criminal Code Act 1995 (Cwlth), section 272.13 (2) | causing young person to engage in sexual activity (other than sexual intercourse) in presence of defendant outside Australia, and defendant in position of trust or authority | 
+8 | Criminal Code Act 1995 (Cwlth), section 272.14 (1) | procure child to engage in sexual activity outside Australia | 
+9 | Criminal Code Act 1995 (Cwlth), section 272.15 (1) | groom child for sexual activity outside Australia | 
+10 | Criminal Code Act 1995 (Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
+11 | Criminal Code Act 1995 (Cwlth), section 272.20 (2) | prepare or plan offence against Criminal Code (Cwlth), section 272.12 or section 272.13 | 
+12 | Criminal Code Act 1995 (Cwlth), section 273.5 (1) | possess, control, produce, distribute or obtain child pornography material outside Australia | 
+13 | Criminal Code Act 1995 (Cwlth), section 273.6 (1) | possess, control, produce, distribute or obtain child abuse material outside Australia | 
+14 | Criminal Code Act 1995 (Cwlth), section 273.7 (1) | commit offence against Criminal Code (Cwlth), section 273.5 or section 273.6 on 3 or more occasions, and involving 2 or more people | 
+15 | Criminal Code Act 1995 (Cwlth), section 471.16 | use postal service for child pornography material | 
+16 | Criminal Code Act 1995 (Cwlth), section 471.17 (1) | possess, control, produce, supply or obtain child pornography material for use through postal service | 
+17 | Criminal Code Act 1995 (Cwlth), section 471.19 | use postal service for child abuse material | 
+18 | Criminal Code Act 1995 (Cwlth), section 471.20 (1) | possess, control, produce, supply or obtain child abuse material for use through postal service | 
+19 | Criminal Code Act 1995 (Cwlth), section 471.22 (1) | commit offence against Criminal Code (Cwlth), section 471.16, 471.17, 471.19 or 471.20 on 3 or more occasions, and involving 2 or more people | 
+20 | Criminal Code Act 1995 (Cwlth), section 471.24 | use postal service to procure sexual activity with person under 16 years old | 
+21 | Criminal Code Act 1995 (Cwlth), section 471.25 | use postal service to groom person under 16 years old for sexual activity | 
+22 | Criminal Code Act 1995 (Cwlth), section 471.26 (1) | use postal service to send indecent material to person under 16 years old | 
+23 | Criminal Code Act 1995 (Cwlth), section 474.19 (1) | use carriage service for child pornography material | 
+24 | Criminal Code Act 1995 (Cwlth), section 474.20 (1) | possess, control, produce, supply or obtain child pornography material for use through carriage service | 
+25 | Criminal Code Act 1995 (Cwlth), section 474.22 (1) | use carriage service for child abuse material | 
+26 | Criminal Code Act 1995 (Cwlth), section 474.23 (1) | possess, control, produce, supply or obtain child abuse material for use through carriage service | 
+27 | Criminal Code Act 1995 (Cwlth), section 474.24A (1) | commit offence against Criminal Code (Cwlth), section 474.19, 474.20, 474.22 or 474.23 on 3 or more occasions, and involving 2 or more people | 
+28 | Criminal Code Act 1995 (Cwlth), section 474.25A (1) | use carriage service to engage in sexual activity with child under 16 years old, and person at least 18 years old | 
+29 | Criminal Code Act 1995 (Cwlth), section 474.25A (2) | use carriage service to cause child under 16 years old to engage in sexual activity with person at least 18 years old | 
+30 | Criminal Code Act 1995 (Cwlth), section 474.25B (1) | commit offence against Criminal Code (Cwlth), section 474.25A (1) or section 474.25A (2) involving child with mental impairment or under care, supervision or authority of defendant | 
+31 | Criminal Code Act 1995 (Cwlth), section 474.26 (1), (2) or (3) | using carriage service to procure child under 16 | 
+32 | Criminal Code Act 1995 (Cwlth), section 474.27 (1) (2) or (3) | using carriage service to ‘groom’ child under 16 | 
+33 | Criminal Code Act 1995 (Cwlth), section 474.27A (1) | use carriage service to transmit indecent communication to person under 16 years old | 
+34 | Customs Act 1901 (Cwlth) section 233BAB (5) | importing tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
+35 | Customs Act 1901 (Cwlth) section 233BAB (6) | exporting tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
+36 | any offence under a corresponding law that, if it had been committed in the ACT, would have been a class 2 offence |  | 
