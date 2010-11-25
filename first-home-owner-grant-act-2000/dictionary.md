@@ -31,6 +31,7 @@ corresponding law means an Act of a State corresponding to this Act.
 eligibility criteria means the criteria for deciding whether an applicant for a first home owner grant is eligible for the grant (see division 2.2).
 eligible transaction—see section 13 (1) and (2).
 first home owner grant means a grant authorised under section 17.
+first home owner grant cap means the first home owner grant cap mentioned in section 13A.
 first home owner grant scheme means the scheme for payment of first home owner grants established under this Act.
 grant recipient means—
   (a) an applicant (or former applicant) for a first home owner grant to whom an amount is paid under this Act; or
@@ -61,3 +62,4 @@ residence requirements means—
   (b) the requirement under section 12 (3) that the period of occupation required under section 12 (1), or section 12 (1) and (2) (a), must start within 1 year after completion of the eligible transaction or a longer period approved by the commissioner.
 substantially renovated home, for division 2.5A (Amount of grant—certain eligible transactions)—see section 24A (2).
 third-party debtor, for a grant recipient—see section 46A.
+total value of an eligible transaction—see section 13B (1).
