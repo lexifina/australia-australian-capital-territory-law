@@ -12,6 +12,7 @@
 ### Division 2.3.3 Intoxication
 ### Division 2.3.4 Mistake and ignorance
 ### Division 2.3.5 External factors
+### Division 2.3.6 Lawful purpose
 ## Part 2.4 Extensions of criminal responsibility
 ## Part 2.5 Corporate criminal responsibility
 ## Part 2.6 Proof of criminal responsibility
