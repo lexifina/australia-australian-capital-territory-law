@@ -9,6 +9,7 @@
 ## Part 8 Administrative provisions relating to commission
 ### Division 8.1 Commissioners
 ### Division 8.2 Officers of commission
+### Division 8.3 Records management—legal services records
 ## Part 10 Administrative provisions relating to review committees
 ## Part 11 Consultative committees
 ## Part 12 Inquiry relating to affairs of commission
