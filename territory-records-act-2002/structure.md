@@ -5,7 +5,8 @@
 ### Division 2.3 Records management
 ### Division 2.4 Protection of records
 ### Division 2.5 Miscellaneous
-## Part 3 Access to records
+## Part 3 Agency records—access
+## Part 3A Executive records—access and release
 ## Part 4 Director of Territory Records
 ## Part 5 Territory Records Advisory Council
 ### Division 5.1 Establishment, functions and members of council
