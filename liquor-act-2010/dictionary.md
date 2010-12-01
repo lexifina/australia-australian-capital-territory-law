@@ -16,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Corporations Act
 · planning and land authority
 · police officer.
+ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
 ACTPLA certificate, for a licence or permit at premises, means a certificate by the planning and land authority stating that the authority considers the operation of a business at the premises under the licence or permit either—
   (a) complies with—
     (i) the lease where the premises are located; and
@@ -56,7 +57,6 @@ commercial permit holder means—
 commissioner means the commissioner for fair trading.
 commissioner’s direction—see section 144 (2).
 complainant, for division 11.2 (Complaints)—see section 177.
-confidential provision, for a risk-assessment management plan—see section 90 (2) (b).
 connected, for part 10 (Enforcement)—see section 153.
 crowd controller means a person who is a crowd controller for the purposes of the Security Industry Act 2003, section 7.
 CYP chief executive, for division 9.3 (Police cautions for children and young people)—see section 149.
@@ -95,13 +95,14 @@ investigator—see the Fair Trading (Consumer Affairs) Act 1973, dictionary.
 lease—see the Planning and Development Act 2007, section 235.
 licence—see section 16.
 licence and permit register—see section 195.
+licensed premises means premises that are the subject of a licence.
 licensed times, for the sale of liquor at licensed premises, means the times stated in the licence for the sale of liquor at the premises.
 licensee—
   (a) means a person who holds a licence; or
   (b) for part 11 (Complaints and occupational discipline)—see section 174.
 liquor—see section 11.
 liquor guidelines—see section 223 (1).
-low-alcohol liquor means a drink that is not liquor but contains more than 0.5% by volume of ethyl alcohol.
+low-alcohol liquor means a drink that is not liquor but contains more than 0.5% by volume of ethanol.
 nightclub licence—see section 23.
 non-commercial permit—see section 49.
 non-profit organisation means an organisation that—
@@ -116,6 +117,7 @@ on licence—see section 18.
 permanent alcohol-free place—see section 198 (1).
 permit—see section 47.
 permit-holder, for part 11 (Complaints and occupational discipline)—see section 175.
+permitted premises means premises that are the subject of a permit.
 permitted times, for the sale of liquor at permitted premises, means the times stated in the permit for the sale of liquor at the premises.
 person—a reference to a person in relation to a non-commercial permit includes a reference to a non-profit organisation.
 personal information notice—see section 71.

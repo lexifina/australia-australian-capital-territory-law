@@ -1,4 +1,4 @@
-# U Schedule 1 Reviewable decisions
+# Schedule 1 Reviewable decisions
 (see s 220)
 column 1 item | column 2 section | column 3 decision | column 4 person
 1 | 27 (2) | refuse to issue licence | applicant for licence
@@ -11,6 +11,6 @@ column 1 item | column 2 section | column 3 decision | column 4 person
 8 | 62 (2) | refuse to renew permit | permit-holder
 9 | 65 (1) | cancel non-commercial permit | permit-holder
 10 | 90 (1) | refuse to approve risk-assessment management plan | licensee or permit-holder
-11 | 92 (2) | refuse to amend risk-assessment management plan | licensee or permit-holder
+11 | 92 (2) | refuse to amend approved risk-assessment management plan | licensee or permit-holder
 12 | 96 (2) | refuse to approve young people’s event | applicant
 13 | 190 (2) | refuse to approve RSA training course | applicant
