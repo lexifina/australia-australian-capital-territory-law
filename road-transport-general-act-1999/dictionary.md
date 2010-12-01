@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -31,9 +31,11 @@ authorised person means—
   (b) in any other case—
     (i) a person who is appointed as an authorised person under section 19 for the provision; or
     (ii) a person who, under the regulations, is an authorised person for the provision.
+automatic disqualification provision, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 bicycle—see the Australian Road Rules, dictionary.
 camera-detected offence means an offence detected by an approved camera detection device.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
+conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 credit card includes a debit card.
 CTP arbitrator, for part 7 (Notification and review of decisions)—see section 90.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
@@ -44,10 +46,13 @@ drive, a vehicle, includes—
   (c) if the vehicle can be ridden—ride the vehicle.
 driver, of a vehicle, means the person driving the vehicle.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+driver licence receipt—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
 illegal user declaration means a statutory declaration mentioned in section 38.
+immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
+immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 infringement notice means a notice under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible people for vehicles).
 infringement notice declaration means an illegal user declaration, known user declaration, sold vehicle declaration or unknown user declaration.
 infringement notice offence means an offence prescribed by regulation as an infringement notice offence.
@@ -65,6 +70,8 @@ National Transport Commission—see the National Transport Commission Act 2003 (
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
+probationary licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+provisional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
@@ -87,6 +94,9 @@ but does not include an area that would otherwise be a road related area so far 
 road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
 sold vehicle declaration means a statutory declaration mentioned in section 40.
+special driver, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
+suspension notice—see immediate suspension notice.
+suspension offence—see immediate suspension offence.
 taxi—see the Road Transport (Public Passenger Services) Act 2001, section 45.
 total loss, in relation to a vehicle for division 5.3 (Written-off vehicles register)—see section 83C.
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
