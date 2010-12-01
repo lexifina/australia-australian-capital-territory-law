@@ -92,8 +92,7 @@ gaming machine—
     (iii) that offers, or that appears to offer, people a chance to win monetary or other valuable consideration by playing the machine; but
   (b) does not include a device prescribed under the regulations.
 gaming machine tax means the tax imposed by section 159.
-general licence means a general licence under the Liquor Act 1975.
-Note For the classes of liquor licences see the Liquor Act 1975, s 44.
+general licence—see the Liquor Act 2010, section 17.
 gross revenue, of a licensee or person, means all revenue derived by the licensee or person from the operation of gaming machines, other than—
   (a) the amount of winnings for playing the machines paid or payable in accordance with the machines’ indicated prize scales (excluding linked jackpots); and
   (b) any amount set aside under a linked-jackpot arrangement for the payment of linked jackpots.
@@ -134,8 +133,8 @@ officer of a club—
     (i) any office-holder of the club (however described), including the secretary, treasurer, executive officer or public officer; or
     (ii) anyone else concerned in or who takes part in the management of the club’s affairs; but
   (b) does not include a patron or the holder of another honorary office of the club if the office does not give its holder a right to take part in the management of the club’s affairs.
-on licence means a general licence under the Liquor Act 1975.
-Note For the classes of liquor licences see the Liquor Act 1975, s 44.
+on licence—see the Liquor Act 2010, section 18.
+Note Subclasses of on licences are dealt with in the Liquor Act 2010, div 2.2.
 operator, of relevant premises, means the person who manages the premises.
 percentage payout, for a gaming machine, means the percentage payout authorised for the machine under the licence.
 peripheral equipment, for a gaming machine—see section 68.
