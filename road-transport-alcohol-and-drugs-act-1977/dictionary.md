@@ -20,25 +20,30 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · road transport legislation (see s 6).
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accident means an accident on a public street or in a public place, whether within or outside the ACT, that involves a motor vehicle.
+alcohol screening device—see section 7.
+alcohol screening test, for a person, means a test of a sample of the person’s breath using an alcohol screening device.
+analyst means a person appointed by the road transport authority under section 5B.
 another jurisdiction means a jurisdiction other than the ACT.
-approved analyst means a person who is appointed by the Minister under section 6 (2).
-approved breath analysis instrument means an instrument of a type that is approved by the Minister under section 5 (1).
-approved laboratory means a laboratory or other entity (however described) approved by the Minister under section 6 (3) as an approved laboratory.
-approved operator means a police officer who is authorised by the chief police officer under section 6 (1).
-approved screening device means a device of a type that is approved by the Minister under section 5 (2).
+approved laboratory means a laboratory or other entity approved by the road transport authority under section 6.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 authorised nurse practitioner means a nurse practitioner who is the occupant of a nurse practitioner position acting within the scope of practice for the position.
-breath analysis, in relation to a person, means an analysis of a sample of the person’s breath carried out for this Act by means of an approved breath analysis instrument.
+authorised operator means the following:
+  (a) for breath analysis—a police officer who has been authorised under section 5 to carry out breath analysis for this Act;
+  (b) for oral fluid analysis—a police officer who has been authorised under section 5 to carry out oral fluid analysis for this Act.
+breath analysis, in relation to a person, means an analysis of a sample of the person’s breath carried out for this Act by a breath analysis instrument.
+breath analysis instrument—see section 7A.
 corresponding offence means an offence against a law of another jurisdiction that corresponds to a disqualifying offence, and includes any offence against the law of another jurisdiction arising out of the driving of a motor vehicle by a person who is or may be affected by alcohol, a drug or both.
 court means—
   (a) in relation to proceedings in or a matter before, or in relation to proceedings or matters that may be brought in or before, the Supreme Court—the Supreme Court; and
   (b) in relation to proceedings in or a matter before, or in relation to proceedings or matters that may be brought in or before, the Magistrates Court—the Magistrates Court.
 disqualifying offence means an offence against—
-  (a) section 19 (Prescribed blood alcohol concentration exceeded); or
-  (b) section 22 (Refusing to provide breath sample); or
-  (c) section 23 (Refusing blood test etc); or
-  (d) section 24 (Driving under the influence of intoxicating liquor or a drug); or
-  (e) another provision of this Act prescribed by regulation.
+  (a) section 19 (Prescribed concentration of alcohol in blood or breath); or
+  (b) section 20 (Driving with prescribed drug in oral fluid or blood); or
+  (c) section 22 (Refusing to provide breath sample); or
+  (d) section 22A (Refusing to provide oral fluid sample); or
+  (e) section 23 (Refusing blood test etc); or
+  (f) section 24 (Driving under the influence of intoxicating liquor or a drug); or
+  (g) another provision of this Act prescribed by regulation.
 drive a motor vehicle includes—
   (a) start or attempt to start the engine of the vehicle; and
   (b) put or attempt to put the vehicle in motion; and
@@ -53,27 +58,35 @@ drug means—
   (a) a substance specified in schedule 1; or
   (b) a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences); or
   (c) any other substance that, on its own or in combination with alcohol, may influence the driving of the person who has taken the drug.
+drug screening device—see section 7B.
+drug screening test, for a person, means a test of a sample of the person’s oral fluid using a drug screening device.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
-first offender—see section 4D.
+first offender—see section 4F.
 GCM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 GVM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
-level, for a concentration of alcohol in blood—see section 4C.
+level, for a concentration of alcohol in blood or breath—see section 4E.
 medical examination means an examination by a doctor or authorised nurse practitioner.
 nurse practitioner position—see the Health Act 1993, section 195 (2).
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
 one-way box means a locked box, with a hole capable of receiving containers of blood samples, from which the containers cannot be removed unless the box is unlocked with a key kept by an approved analyst.
+oral fluid analysis, in relation to a person, means an analysis of a sample of the person’s oral fluid carried out for this Act using an oral fluid analysis instrument.
+oral fluid analysis instrument—see section 7C.
 prescribed concentration means—
-  (a) in relation to a special driver—0.02g of alcohol per 100mL of blood; and
-  (b) in relation to any other person—0.05g of alcohol per 100mL of blood.
+  (a) for a special driver—see section 4C (a); and
+  (b) for any other person—see section 4C (b).
+prescribed drug means—
+  (a) methylamphetamine; or
+  (b) delta-9-tetrahydrocannabinol; or
+  (c) N,á-Dimethyl-3,4-(Methylenedioxy)phenylethylamine (MDMA); or
+  (d) any other drug prescribed by regulation.
 public place—see section 4A.
 public street means a street, road, lane or footpath (including a street, road, lane or footpath on or forming part of a bridge) that is open to or used by the public and includes an entrance driveway leading to a parcel of land.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
-repeat offender—see section 4D.
+repeat offender—see section 4F.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 scope of practice—see the Health Act 1993, section 195 (2).
-screening test in relation to a person, means a test of sample of the breath of the person carried out for this Act by means of an approved screening device.
 special driver—see section 4B.
