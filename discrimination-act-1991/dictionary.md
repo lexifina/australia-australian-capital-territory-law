@@ -29,7 +29,8 @@ carer—a person is a carer of someone else (the dependant) if—
 Example of a carer
 Ms W suffers from multiple sclerosis and requires constant care. Her spouse and 3 children aged 21, 16 and 11 share her care and would each be a ‘carer’.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-club means a club that holds a club licence under the Liquor Act 1975.
+club means a club that holds a club licence.
+club licence—see the Liquor Act 2010, section 20.
 commission agent means a person who does work for another person as the agent of that other person and who is remunerated (whether wholly or partially) by commission.
 committee of management, in relation to a club or organisation, means the group or body of people (however described) that manages the affairs of the club or organisation.
 contract worker means a person (the worker) who does work for someone else (the third person) under a contract between the worker’s employer and the third person.
