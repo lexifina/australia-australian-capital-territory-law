@@ -61,7 +61,7 @@ photograph—
 probationary licence means—
   (a) a driver licence, other than a learner licence, issued under this Act to a person who applies for a driver licence after a period of disqualification (whether or not by court order) from holding or obtaining an Australian driver licence; or
   (b) an equivalent Australian driver licence issued under a corresponding law.
-proof of age card means a card issued under the Liquor Act 1975, section 175 (1).
+proof of age card means a proof of age card issued under the Liquor Act 2010, section 210 (Proof of age cards).
 provisional licence means an Australian driver licence issued as a provisional licence, but does not include an Australian driver licence that includes an additional provisional class merely because it includes the additional provisional class.
 public vehicle means a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
 Note A public passenger vehicle is a public bus, taxi, hire car or demand responsive service vehicle.
