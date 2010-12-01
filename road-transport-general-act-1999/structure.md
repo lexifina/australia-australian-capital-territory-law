@@ -14,7 +14,7 @@
 ### Division 3.6 Miscellaneous
 ## Part 4 Enforcement of road transport legislation
 ### Division 4.1 Production of licences and identification of people
-### Division 4.2 Licence disqualification and related matters
+### Division 4.2 Licence suspension, disqualification and related matters
 ### Division 4.3 Evidentiary provisions in relation to road transport legislation
 ### Division 4.4 Proceedings for offences under road transport legislation
 ### Division 4.5 Miscellaneous
