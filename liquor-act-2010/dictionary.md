@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -61,11 +61,12 @@ connected, for part 10 (Enforcement)—see section 153.
 crowd controller means a person who is a crowd controller for the purposes of the Security Industry Act 2003, section 7.
 CYP chief executive, for division 9.3 (Police cautions for children and young people)—see section 149.
 declared training provider—see section 224.
+designated outdoor smoking area—see the Smoke-Free Public Places Act 2003, section 9F (2).
 eligible club—see section 70.
 emergency closure notice—see section 147.
 emergency closure order—see section 146.
 enclosed, for premises, means enclosed as prescribed by regulation.
-enclosed public place—see the Smoking (Prohibition in Enclosed Public Places) Act 2003, dictionary.
+enclosed public place—see the Smoke-Free Public Places Act 2003, dictionary.
 false identification document, for a person, means an identification document that—
   (a) was fraudulently obtained; or
   (b) was issued to someone else; or
@@ -114,6 +115,7 @@ occupier, of premises, for part 10 (Enforcement)—see section 153.
 offence, for part 10 (Enforcement)—see section 153.
 off licence—see section 19.
 on licence—see section 18.
+outdoor eating or drinking place—see the Smoke-Free Public Places Act 2003, section 9A.
 permanent alcohol-free place—see section 198 (1).
 permit—see section 47.
 permit-holder, for part 11 (Complaints and occupational discipline)—see section 175.
@@ -159,7 +161,7 @@ sell includes—
   (e) consign or deliver for sale; and
   (f) have in possession for sale.
 senior police officer means the chief police officer or another police officer of or above the rank of superintendent.
-smoke—see the Smoking (Prohibition in Enclosed Public Places) Act 2003, dictionary.
+smoke—see the Smoke-Free Public Places Act 2003, section 5B.
 special licence—see section 21.
 staff member, for part 8 (Conduct at licensed premises and permitted premises), means—
   (a) for licensed premises—
