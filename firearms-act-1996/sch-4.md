@@ -33,13 +33,15 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 30 | 131 (1) | end date less than 3 months after day licence begins | licensee
 31 | 132 | cancel temporary international firearms licence | person who held licence
 32 | 138 | make direction in relation to interstate licence | licensee
-33 | 144 | refuse to issue permit to acquire a firearm | applicant for permit
-34 | 148 (2) | refuse to extend period permit to acquire a firearm in force | applicant for extension
-35 | 149 | refusing to issue replacement permit to acquire a firearm | applicant for replacement
-36 | 151 | suspend or cancel permit to acquire a firearm | licensee or person who held licence
-37 | 162 | refuse to register firearm | application for registration
-38 | 166 | cancel registration of firearm | person who held licence
-39 | 170 | refuse to register user of firearm | applicant for registration
-40 | 175 | cancel registration of user of firearm | person who was registered
-41 | 250 (2) | refuse to approve the modification of a firearm | person refused approval
-42 | 267 (2) | cancel a licence | person who held licence
+33 | 140A (3) | refuse to authorise interstate licensee to possess or use category D firearm | interstate licensee refused authorisation
+34 | 140A (4) | authorise interstate licensee to possess or use category D firearm subject to condition required by Minister | interstate licensee
+35 | 144 | refuse to issue permit to acquire a firearm | applicant for permit
+36 | 148 (2) | refuse to extend period permit to acquire a firearm in force | applicant for extension
+37 | 149 | refusing to issue replacement permit to acquire a firearm | applicant for replacement
+38 | 151 | suspend or cancel permit to acquire a firearm | licensee or person who held licence
+39 | 162 | refuse to register firearm | application for registration
+40 | 166 | cancel registration of firearm | person who held licence
+41 | 170 | refuse to register user of firearm | applicant for registration
+42 | 175 | cancel registration of user of firearm | person who was registered
+43 | 250 (2) | refuse to approve the modification of a firearm | person refused approval
+44 | 267 (2) | cancel a licence | person who held licence
