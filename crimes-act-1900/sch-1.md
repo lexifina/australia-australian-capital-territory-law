@@ -1,1 +1,72 @@
-# M Schedule 1 Anabolic steroids
+# Schedule 1 Anabolic steroids
+(see s 170)
+column 1 item | column 2 substance
+1 | Androisoxazole
+2 | Androsterone
+3 | Atamestane
+4 | Bolandiol
+5 | Bolasterone
+6 | Bolazine
+7 | Boldenone
+8 | Bolenol
+9 | Bolmantalate
+10 | Calusterone
+11 | Chlorandrostenolone
+12 | 4-Chloromethandienone
+13 | Chloroxydienone
+14 | Chloroxymesterone (dehydrochloromethyltestosterone)
+15 | Clostebol
+16 | Danazol
+17 | Dihydrolone
+18 | Dimethandrostanolone
+19 | Dimethazine
+20 | Drostanolone
+21 | Enestebol
+22 | Epitiostanol
+23 | Ethisterone
+24 | Ethyldienolone
+25 | Ethyloestrenol
+26 | Fluoxymesterone
+27 | Formebolone
+28 | Furazabol
+29 | Gestrinone
+30 | Hydroxystenozol
+31 | Mebolazine
+32 | Mepitiostane
+33 | Mesabolone
+34 | Mestanolone (androstanolone)
+35 | Mesterolone
+36 | Methandienone
+37 | Methandriol
+38 | Methandrostenolone
+39 | Methenolone
+40 | Methylclostebol
+41 | Methyltestosterone
+42 | Methyltrienolone
+43 | Metribolone
+44 | Mibolerone
+45 | Nandrolone
+46 | Norandrostenolone
+47 | Norbolethone
+48 | Norclostebol
+49 | Norethandrolone
+50 | Normethandrone
+51 | Ovandrotone
+52 | Oxabolone
+53 | Oxandrolone
+54 | Oxymesterone
+55 | Oxymetholone
+56 | Prasterone
+57 | Propetandrol
+58 | Quinbolone
+59 | Roxibolone
+60 | Silandrone
+61 | Stanolone
+62 | Stanozolol
+63 | Stenbolone
+64 | Testolactone
+65 | Testosterone
+66 | Thiomesterone
+67 | Trenbolone
+68 | Trestolone
+69 | Anabolic and androgenic steroidal agents not mentioned elsewhere in this schedule
