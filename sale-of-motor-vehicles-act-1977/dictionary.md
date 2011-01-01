@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · ACT
+· Australian Consumer Law (ACT)
 · chief executive (see s 163)
 · civil partnership
 · corporation
