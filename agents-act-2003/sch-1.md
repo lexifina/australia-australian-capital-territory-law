@@ -1,6 +1,5 @@
 # Schedule 1 Reviewable decisions
 (see s 166)
-Reviewable decisions
 column 1 item | column 2 section | column 3 decision | column 4 entity
 1 | 33 (2) (a) | issue licence | applicant objectors
 2 | 33 (2) (b) | refuse to issue licence | applicant objectors
