@@ -1,9 +1,10 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · ACT
+· commissioner for fair trading
 · contravene
 · exercise
 · found guilty
@@ -13,6 +14,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · reviewable decision notice.
 close associate—see section 22.
 employee licence—see section 13.
+employee organisation means an organisation of employees registered under the Fair Work (Registered Organisations) Act 2009 (Cwlth).
+Note A reference to a law (including a Cwlth Act) includes a reference to the Act as originally made and as amended (see Legislation Act, s 102).
 ground for occupational discipline—see section 30.
 licence means a licence under this Act.
 licence number—see section 28 (c).
@@ -42,3 +45,4 @@ security equipment—see section 8.
 temporary licence—see section 15.
 trainer licence—see section 14.
 variation, of a licence, means variation of the kind of security activity authorised by the licence.
+workplace information—see section 21 (1) (a) (iii).
