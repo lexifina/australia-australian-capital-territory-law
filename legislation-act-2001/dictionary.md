@@ -2,8 +2,7 @@
 (see s 2)
 Part 1 Meaning of commonly-used terms
 (see s 144)
-Note for pt 1
-  Terms that are defined only for this Act are set out in pt 2.
+Note Terms that are defined only for this Act are set out in pt 2.
 ACAT means the ACT Civil and Administrative Tribunal established under the ACT Civil and Administrative Tribunal Act 2008.
 Act—see the following sections:
   (a) section 7 (Meaning of Act generally);
@@ -26,6 +25,7 @@ asset includes property of any kind.
 Attorney-General means the Minister designated Attorney-General by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Attorney-General.
 auditor-general means the Auditor-General for the Territory under the Auditor-General Act 1996.
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external territory.
+Australian Consumer Law (ACT) means the provisions applying because of the Fair Trading (Australian Consumer Law) Act 1992, section 7 (Application of Australian Consumer Law).
 Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Australian driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def driver licence).
 Australian/New Zealand Standard—see section 164 (2) (References to Australian Standards etc).
@@ -98,7 +98,7 @@ clerk, in relation to the Legislative Assembly, means the Clerk of the Legislati
 Note The office of Clerk is established under the Public Sector Management Act 1994.
 commencement, of an Act or statutory instrument—see section 80.
 commencement notice—see section 11.
-commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Consumer Affairs) Act 1973.
+commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Australian Consumer Law) Act 1992.
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
 commissioner for the environment means the Commissioner for the Environment under the Commissioner for the Environment Act 1993.
@@ -312,7 +312,6 @@ occupational discipline order means an order for occupational discipline made by
 Note Occupational discipline orders are made under the ACT Civil and Administrative Tribunal Act 2008, s 66 and under authorising laws (authorising law—see ACT Civil and Administrative Tribunal Act 2008, dict).
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
 office includes position.
-office of fair trading means the Office of Fair Trading of the Australian Capital Territory established under the Fair Trading (Consumer Affairs) Act 1973.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
 optometrist—
@@ -457,10 +456,9 @@ printing, photocopying, photography, typewriting
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
 Part 2 Terms for Legislation Act 2001 only
-Note for pt 2
-Terms that apply to all Acts and statutory instruments are set out in pt 1.
+Note Terms that apply to all Acts and statutory instruments are set out in pt 1.
 Act, for chapter 14 (Interpretation of Acts and statutory instruments)—see section 136.
-Note See also def Act in dict, pt 1.
+Note See also def Act in the dictionary, pt 1.
 ACT law—
   (a) for chapter 10 (Referring to laws)—see section 97 (1); and
   (b) for chapter 18 (Offences)—see section 188.
@@ -475,7 +473,7 @@ appointer—
   (a) for division 19.3.1 (Appointments—general)—see section 205; and
   (b) for division 19.3.2 (Acting appointments)—see section 215; and
   (c) for part 19.4 (Delegations)—see section 230 (1).
-approved web site means an internet site approved under section 21.
+approved website means an internet site approved under section 21.
 authorised republication—see section 15.
 authorising law, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31.
 benefits, for chapter 5 (Regulatory impact statements for subordinate laws and disallowable instruments)—see section 31.
@@ -486,7 +484,7 @@ current legislative drafting practice means the legislative drafting practices f
 delegate, for part 19.4 (Delegations)—see section 233 (2).
 determinative provision—see section 5 (2).
 document, for part 19.5 (Service of documents)—see section 246.
-Note See also def of document in dict, pt 1
+Note See also def document in the dictionary, pt 1
 editorial amendment, of a law—see section 116.
 email address, for part 19.5 (Service of documents)—see section 246.
 executive officer, for part 19.5 (Service of documents)—see section 246.

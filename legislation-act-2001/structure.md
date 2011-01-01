@@ -2,7 +2,7 @@
 ## Part 1.1 General
 ## Part 1.2 Basic concepts
 ## Part 1.3 Sources of law in the ACT
-# Chapter 2 ACT legislation register and web site
+# Chapter 2 ACT legislation register and website
 # Chapter 3 Authorised versions and evidence of laws and legislative material
 # Chapter 4 Numbering and notification of Acts
 # Chapter 5 Regulatory impact statements for subordinate laws and disallowable instruments
