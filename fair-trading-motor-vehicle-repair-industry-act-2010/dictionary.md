@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· Australian Consumer Law (ACT)
 · Corporations Act
 · entity
 · Minister (see s 162)
@@ -12,7 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 advisory committee—see section 39.
 carries on business as a motor vehicle repairer—see section 6 (1).
 commissioner means the commissioner for fair trading.
-consumer—see the Fair Trading Act 1992, section 6.
+consumer—see the Australian Consumer Law (ACT), section 2 (1).
 corporation—see the Corporations Act.
 disqualified person—see section 10.
 ground for occupational discipline—see section 32.
