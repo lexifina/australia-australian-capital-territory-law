@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · Act
 · adult
+· Australian Consumer Law (ACT)
 · Australian driver licence
 · bankrupt or personally insolvent
 · building code
@@ -86,13 +87,13 @@ identification document, for a person, means a document that—
     (iii) a passport; and
   (b) contains a photograph that could reasonably be taken to be the person; and
   (c) states the person’s date of birth.
-identity card—see the Fair Trading (Consumer Affairs) Act 1973, dictionary.
+identity card—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 incident, for division 8.6 (Incidents)—see section 130.
 incident register, for division 8.6 (Incidents)—see section 131.
 influential person, for a corporation—see section 15.
 interstate proof of age card means a document corresponding to a proof of age card that has been issued under the law of a State.
 intoxicated—see section 104.
-investigator—see the Fair Trading (Consumer Affairs) Act 1973, dictionary.
+investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 lease—see the Planning and Development Act 2007, section 235.
 licence—see section 16.
 licence and permit register—see section 195.
