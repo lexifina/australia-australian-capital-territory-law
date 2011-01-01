@@ -53,7 +53,7 @@ participate in an equine activity—
 ## 3.2 Application—sch 3
 This schedule does not prevent or limit the liability of an equine activity sponsor, an equine professional or anyone else in relation to—
   (a) activities engaged in as part of the horseracing industry; or
-  (b) any action for breach of the Trade Practices Act 1974 (Cwlth) or the Fair Trading Act 1992; or
+  (b) an action for breach of the Competition and Consumer Act 2010 (Cwlth) or the Australian Consumer Law (ACT); or
   (c) a claim under the Workers Compensation Act 1951.
 ## 3.3 Limitation on liability for injury or death of participant
 (1) An equine activity sponsor, an equine professional or anyone else is not liable for personal injury to a participant resulting from the inherent risks of equine activities.
