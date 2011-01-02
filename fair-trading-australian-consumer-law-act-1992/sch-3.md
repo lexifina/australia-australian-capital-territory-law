@@ -39,14 +39,6 @@ pre-credit code contract means a contract to which the repealed pre-credit code 
 repealed pre-credit code legislation means—
   (a) the Credit Act 1985; and
   (b) the Credit Regulation 1985.
-## 3.7 Transitional—finance broking commissions
-(1) The repealed finance broking provisions continue to apply as if the repealed credit legislation had not been repealed.
-(2) This section expires on the Chapter 3 start day.
-(3) In this section:
-Chapter 3 start day has the same meaning as in the National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009 (Cwlth), section 4.
-repealed finance broking provisions means—
-  (a) the Consumer Credit (Administration) Act 1996, section 35; and
-  (b) the Consumer Credit (Administration) Regulation 1996, section 4.
 ## 3.8 Transitional—regulations
 (1) A regulation may prescribe transitional matters necessary or convenient to be prescribed because of the repeal of the repealed credit legislation.
 (2) A regulation may modify this schedule (including in relation to another territory law) to make provision in relation to anything that, in the Executive’s opinion, is not, or is not adequately or appropriately, dealt with in this schedule.
