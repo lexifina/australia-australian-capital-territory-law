@@ -53,9 +53,3 @@
 ## Part 11.2 Evidentiary provisions
 # Chapter 12 Regulations about regulated substances and regulated therapeutic goods
 # Chapter 13 Miscellaneous
-# Chapter 14 Transitional
-## Part 14.1 Transitional—general
-## Part 14.3 Transitional—licences and authorisations
-## Part 14.4 Transitional—approvals to prescribe drugs of dependence
-## Part 14.5 Transitional—supply authorities
-## Part 14.6 Transitional—other
