@@ -40,7 +40,7 @@ officer of the commission means a statutory officer of the commission or a membe
 practising certificate means an unrestricted practising certificate, a restricted practising certificate or a barrister practising certificate under the Legal Profession Act 2006.
 prescribed matter, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 prescribed person, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
-private legal practitioner means a person who is practising as a barrister, as a solicitor, or as a barrister and solicitor, on his or her own account or in partnership.
+private legal practitioner means a principal of a law practice under the Legal Profession Act 2006, section 9.
 produce includes permit access to.
 records management, for division 8.3 (Records management—legal services records)—see section 69A.
 review committee means a review committee established under part 6.
