@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   · amend
   · appoint
   · authorised deposit-taking institution
+  · bankrupt or personally insolvent
   · child
   · daily newspaper
   · disallowable instrument (see s 9)
