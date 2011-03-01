@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -12,15 +12,14 @@ agent means—
   (b) a person registered under that Act as a real estate salesperson.
 bidder number, for part 4 (Public auctions of residential property)—see section 25 (2) (e).
 bidders record—see section 25 (1).
-building and compliance inspection report, for part 2 (Sale of residential property)—see section 7.
+building and compliance inspection report means a building and compliance inspection report prescribed by regulation.
 building conveyancing inquiry documents, for part 2 (Sale of residential property)—see section 7.
 class A unit, for part 2 (Sale of residential property)—see section 7.
 class B unit, for part 2 (Sale of residential property)—see section 7.
 developer’s holding lease—see section 8 (2) (d).
 encumbrance, for part 2 (Sale of residential property)—see section 7.
 energy efficiency rating, for part 3 (Energy efficiency ratings)—see section 20.
-energy efficiency rating guidelines, for part 3 (Energy efficiency ratings)—see section 20.
-energy efficiency rating statement, for part 3 (Energy efficiency ratings)—see section 20.
+energy efficiency rating statement, for part 3 (Energy efficiency ratings)—see the Construction Occupations (Licensing) Act 2004, section 123AC.
 family member, of a person, means—
   (a) the person’s domestic partner; or
   (b) the person’s parent or child; or
@@ -28,7 +27,7 @@ family member, of a person, means—
   (d) the parent or child of the person’s domestic partner.
 lease conveyancing inquiry documents, for part 2 (Sale of residential property)—see section 7.
 mobile home, for part 3 (Energy efficiency ratings)—see section 20.
-pest inspection report, for part 2 (Sale of residential property)—see section 7.
+pest inspection report means a pest inspection report prescribed by regulation.
 premises, for part 3 (Energy efficiency ratings)—see section 20.
 proof of identity, for part 4 (Public auctions of residential property)—see section 24.
 prospective buyer, for part 2 (Sale of residential property)—see section 7.
