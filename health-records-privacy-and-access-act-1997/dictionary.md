@@ -74,7 +74,7 @@ personal information, in relation to a consumer, means any information, recorded
   (b) true or false.
 personal health information, of a consumer, means any personal information, whether or not recorded in a health record—
   (a) relating to the health, an illness or a disability of the consumer; or
-  (b) collected by a health provider in relation to the health, an illness or a disability of the consumer.
+  (b) collected by a health service provider in relation to the health, an illness or a disability of the consumer.
 privacy principles means the privacy principles under schedule 1.
 record means a record in documentary or electronic form that consists of or includes personal health information in relation to a consumer (other than research material that does not disclose the identity of the consumer), and includes—
   (a) a photograph or other pictorial or digital representation of any part of the consumer; and
