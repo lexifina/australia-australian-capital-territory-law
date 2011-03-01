@@ -19,9 +19,10 @@
 ### Division 6.5 Auditors and actuaries of approved schemes
 ## Part 7 Administration
 ### Division 7.1 Building inspectors
-## Part 8 Building code and recognised standards
+## Part 8 Building code, recognised standards etc
 ### Division 8.1 Building code and recognised standards
 ### Division 8.2 Asbestos code
+### Division 8.3 Energy efficiency certificates
 ## Part 9 Limitation of liability
 ## Part 9A Notification and review of decisions
 ## Part 9B Powers of ACAT

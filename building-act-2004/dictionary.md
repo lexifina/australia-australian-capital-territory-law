@@ -1,4 +1,4 @@
-# Dictionary
+# U Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -32,8 +32,6 @@ asbestos code means the codes of practice that are approved under section 139B.
 asbestos removal control plan, in relation to building work, means a plan, complying with the asbestos code, that provides for the management of any asbestos disturbance resulting from the building work.
 authorised insurer means a body corporate authorised to carry on insurance business under the Insurance Act 1973 (Cwlth), section 12.
 basic building work—see section 10.
-bonded asbestos means asbestos in a form where the asbestos fibres are held within another material (for example, cement) but does not include friable asbestos.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 builders licence means a licence issued under the Construction Occupation (Licensing) Act 2004 in the construction occupation of builder.
 building—
@@ -62,6 +60,7 @@ disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
 easement, for part 4 (Stop and demolition notices)—see section 52.
 eligible entity, for division 3.2 (Certifiers and government certifiers)—see section 17.
+energy efficiency certificate—see section 139C (1).
 exempt building—see section 12.
 fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
