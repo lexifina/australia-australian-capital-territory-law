@@ -14,8 +14,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 access agreement means an agreement under an access regime for the granting of access to services provided by means of the infrastructure facilities to which the access regime relates.
 access provider, for part 6 (Arbitration of access regime disputes)—see section 30.
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
-  (a) including the use of an infrastructure facility (such as a road or railway), the handling or transporting of things (such as goods or people) or a communications service or similar service; and
+  (a) including the use of an infrastructure facility (for example, a road or railway), the handling or transporting of things (for example, goods or people) or a communications service or similar service; and
   (b) not including the supply of goods, the use of intellectual property or the use of a production process, except to the extent that that supply or use is an integral but subsidiary part of the service.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 associate commissioner means a commissioner appointed under schedule 2, section 2.1A.
 chief executive officer means the Chief Executive Officer of the commission.
 commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory.
@@ -33,6 +34,7 @@ confidential information means information given to the commission that was, whe
 current reset principles—see section 20B (2).
 declared fee means a fee declared under section 4C.
 determination means an arbitration determination under section 35.
+direction, for part 9 (Enforcement of prior directions and arbitration determinations)— see section 51.
 eligible person, for part 4C (Review of price directions)—see section 24J.
 future reset principles—see section 20B (3).
 government activity means—
