@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · bankrupt or personally insolvent
+· building code
 · entity
 · Legislation Act
 · occupational discipline order
@@ -21,12 +22,14 @@ asbestos removal service—see section 7B (2).
 authorised action, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
+building assessor—see section 8A.
 building certification service—see section 9 (2).
 building certifier—see the Building Act 2004, dictionary, definition of certifier.
 building service—see section 8 (2).
 building surveyor—see section 9.
 building work—see the Building Act 2004, section 6.
 class, of a construction occupation, means a class into which the occupation is divided under the regulations (see section 15).
+code of practice means a code of practice approved under section 104A.
 compliance auditor, for part 6 (Enforcement)—see section 76.
 conduct means an act or an omission to do an act.
 construction occupation—see section 7.
@@ -40,6 +43,7 @@ electrical wiring service—see section 11 (2).
 electrician—see section 11.
 emergency rectification order—see section 39.
 endorsement means an endorsement under section 22.
+energy efficiency rating statement—see section 123AC.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
@@ -66,6 +70,8 @@ plumbing plan certification service—see section 14 (2).
 plumbing plan certifier—see section 14.
 plumbing service—see section 13 (2).
 previous 3 years, for part 8 (Demerit points system)—see section 90.
+public safety agency, for part 11AA (Information sharing)—see section 123AA.
+public safety information, for part 11AA (Information sharing)—see section 123AA.
 rectification order—see section 38 (1).
 register means the register kept under section 107.
 registrar—see section 103.
