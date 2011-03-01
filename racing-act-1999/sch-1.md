@@ -16,7 +16,8 @@ A member of the tribunal must be appointed for a term not longer than 3 years.
 ## 1.4 Tribunal members—ending of appointment
 (1) The Minister must end the appointment of a member of the tribunal if the member—
   (a) ceases to be eligible for membership in the relevant capacity; or
-  (b) becomes bankrupt or executes a personal insolvency agreement; or
+  (b) becomes bankrupt or personally insolvent; or
+Note Bankrupt or personally insolvent—see the Legislation Act, dictionary, pt 1.
   (c) fails to disclose an interest as required by section 1.7.
 (2) The Minister may end the appointment of a member of the tribunal for misbehaviour or physical or mental incapacity.
 Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
