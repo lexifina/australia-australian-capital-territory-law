@@ -59,7 +59,10 @@ authorised period, in relation to an individual interstate licensee, for part 8 
 barrel length, for a pistol, means—
   (a) for a revolver—the distance from the muzzle to the breech end of the barrel immediately in front of the cylinder, including any alteration that is permanently attached to, and not readily detachable from, the barrel; and
   (b) for any other pistol—the distance from the muzzle to the point of the breech face (including the chamber) with the top slide forward and the breech face or bolt in the closed position, including any alteration that is permanently attached to, and not readily detachable, from the barrel.
-blank fire firearm means a device that is designed for firing blank cartridges only, such as a starting pistol.
+blank fire firearm means a device that is designed for firing blank cartridges only.
+Example
+a starting pistol
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 buy includes—
   (a) buy by wholesale, retail, auction or tender; and
   (b) obtain by barter or exchange.
