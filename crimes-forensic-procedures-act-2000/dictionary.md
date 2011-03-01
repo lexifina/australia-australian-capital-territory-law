@@ -25,12 +25,12 @@ police officer
 privacy commissioner
 State
 summary offence
+· territory law
 transgender person (see s 169A)
 under.
 ACT DNA database—see section 94A.
+agreed retention period—see section 80A (3).
 another participating jurisdiction—see section 100.
-another Territory means a Territory other than this Territory or the Northern Territory.
-Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 appeal period, for an appeal to a court against an order, means the period stated by a territory law during which an appeal against the order may be made without the court’s leave.
 appropriate authority—see section 100.
 appropriately qualified person—see section 13.
