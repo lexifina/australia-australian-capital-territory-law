@@ -13,6 +13,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · the Territory.
 authorised person means an authorised person appointed under section 14.
+collection area, for part 4A (Shopping trolleys)—see section 24H (2) (c).
+collection day, for part 4A (Shopping trolleys)—see section 24H (2) (b).
+collection day notice, for part 4A (Shopping trolleys)—see section 24H (1).
 commercial waste means—
   (a) waste resulting from institutional, commercial or industrial activities; or
   (b) waste collected and transported in the course of business.
@@ -25,9 +28,18 @@ occupier, of premises, includes the person in charge of the premises.
 public place means—
   (a) a road, road related area or any other unleased Territory land; or
   (b) a place to which the public, or a section of the public, has access, whether by payment or not.
+removal notice, for part 4A (Shopping trolleys)—see section 24C.
+removal notice location, for part 4A (Shopping trolleys)—see section 24C.
+retailer, for part 4A (Shopping trolleys)—see section 24C.
+retailer collection notice, for part 4A (Shopping trolleys)—see section 24K (2).
+retailer’s shopping centre precinct, for part 4A (Shopping trolleys)—see section 24C.
+retention area, for part 4A (Shopping trolleys)—see the Uncollected Goods Act 1996, dictionary.
 rider—see the Road Transport (General) Act 1999, dictionary.
 road—see the Road Transport (General) Act 1999, dictionary.
 road related area—see the Road Transport (General) Act 1999, dictionary.
+shopping centre, for part 4A (Shopping trolleys)—see section 24C.
+shopping centre precinct, for part 4A (Shopping trolleys)—see section 24C.
+shopping trolley, for part 4A (Shopping trolleys)—see section 24C.
 unleased Territory land includes a waterway.
 waterway means—
   (a) a river, creek, stream or other natural channel in which water flows (whether permanently or intermittently); or
