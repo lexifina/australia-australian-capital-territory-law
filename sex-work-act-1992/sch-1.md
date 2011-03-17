@@ -23,7 +23,8 @@ item | section | description
 19 | 61 | acts of indecency with young people
 20 | 62 | incest and similar offences
 21 | 63 | abduction
-22 | 64 | employment of young people for pornographic purposes
-23 | 65 | possession of child pornography
-24 | 79 | sexual servitude offences
-25 | 80 | deceptive recruiting for sexual services
+22 | 63A | bestiality
+23 | 64 | employment of young people for pornographic purposes
+24 | 65 | possession of child pornography
+25 | 79 | sexual servitude offences
+26 | 80 | deceptive recruiting for sexual services
