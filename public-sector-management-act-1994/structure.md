@@ -20,24 +20,11 @@
 ### Division 5.2 Personnel management
 ### Division 5.3 Appointment of officers
 ### Division 5.4 Engagement of executives
-### Division 5.5 Promotions and transfers of officers
-### Division 5.6 Temporary performance of duties—offices other than offices of chief executive and executive offices
+### Division 5.5 Promotion of officers
+### Division 5.6 Transfer of officers
 ### Division 5.7 Temporary employment
 ### Division 5.8 Miscellaneous
-## Part 6 Retirement and redeployment of officers other than chief executives and executives
-## Part 7 Long service leave
-## Part 8 Maternity leave
-## Part 9 Discipline
-### Division 9.1 Preliminary
-### Division 9.3 Officers
-### Division 9.4 Officers employed otherwise than in the service
-### Division 9.5 Employees other than chief executives and executives
-### Division 9.6 Disciplinary appeal committees
-### Division 9.7 Miscellaneous
+## Part 6 Retirement and redeployment of officers
 ## Part 10 Forfeiture of office
-## Part 11 Review of certain decisions and investigation of grievances
-### Division 11.1 Preliminary
-### Division 11.2 Review of certain decisions
-### Division 11.3 Investigation of grievances by merit protection agency
-### Division 11.4 Merit protection
+## Part 11 Review and appeal
 ## Part 13 Miscellaneous
