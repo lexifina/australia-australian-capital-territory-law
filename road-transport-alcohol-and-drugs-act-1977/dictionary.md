@@ -16,10 +16,12 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · jurisdiction
 · motor vehicle
 · ride
+· road
+· road related area
 · road transport authority (or authority) (see s 16)
 · road transport legislation (see s 6).
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
-accident means an accident on a public street or in a public place, whether within or outside the ACT, that involves a motor vehicle.
+accident means an accident on a road or road related area, whether within or outside the ACT, that involves a motor vehicle.
 alcohol screening device—see section 7.
 alcohol screening test, for a person, means a test of a sample of the person’s breath using an alcohol screening device.
 analyst means a person appointed by the road transport authority under section 5B.
@@ -38,7 +40,7 @@ court means—
   (b) in relation to proceedings in or a matter before, or in relation to proceedings or matters that may be brought in or before, the Magistrates Court—the Magistrates Court.
 disqualifying offence means an offence against—
   (a) section 19 (Prescribed concentration of alcohol in blood or breath); or
-  (b) section 20 (Driving with prescribed drug in oral fluid or blood); or
+  (b) section 20 (Prescribed drug in oral fluid or blood––driver or driver trainer); or
   (c) section 22 (Refusing to provide breath sample); or
   (d) section 22A (Refusing to provide oral fluid sample); or
   (e) section 23 (Refusing blood test etc); or
@@ -54,6 +56,7 @@ driver involved in an accident means a driver of a motor vehicle that is involve
   (a) appears to be at least 15 years old; and
   (b) attends, or is admitted to, a hospital for the purpose of examination or treatment as a consequence of the accident.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+driver trainer––see section 4BA.
 drug means—
   (a) a substance specified in schedule 1; or
   (b) a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences); or
@@ -62,6 +65,7 @@ drug screening device—see section 7B.
 drug screening test, for a person, means a test of a sample of the person’s oral fluid using a drug screening device.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
+external territory driver licence––see the Road Transport (Driver Licensing) Act 1999, dictionary.
 first offender—see section 4F.
 GCM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 GVM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
@@ -82,11 +86,14 @@ prescribed drug means—
   (b) delta-9-tetrahydrocannabinol; or
   (c) N,á-Dimethyl-3,4-(Methylenedioxy)phenylethylamine (MDMA); or
   (d) any other drug prescribed by regulation.
-public place—see section 4A.
-public street means a street, road, lane or footpath (including a street, road, lane or footpath on or forming part of a bridge) that is open to or used by the public and includes an entrance driveway leading to a parcel of land.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 repeat offender—see section 4F.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+sampling facility means a facility prescribed by regulation to which a person may be taken for the purpose of having a blood sample taken by a doctor or nurse for analysis under part 2 (Examination of people for alcohol or drugs).
+Examples––sampling facility
+1 a police station
+2 a police vehicle equipped for the purpose of taking blood samples
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 scope of practice—see the Health Act 1993, section 195 (2).
 special driver—see section 4B.

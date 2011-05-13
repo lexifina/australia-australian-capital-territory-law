@@ -8,6 +8,7 @@
 ### Division 2.5 Prescribed drugs—confirmatory tests
 ### Division 2.6 Restrictions on alcohol and drug tests
 ### Division 2.7 Analysis of blood—alcohol and drugs
+### Division 2.8 Search and seizure
 ## Part 3 Offences
 ## Part 4 Penalties
 ## Part 7 Evidence
