@@ -47,6 +47,7 @@ drive, a vehicle, includes—
 driver, of a vehicle, means the person driving the vehicle.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 driver licence receipt—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+driver trainer, for division 4.2 (Licence suspension, disqualification and related matters)––see section 61A.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
