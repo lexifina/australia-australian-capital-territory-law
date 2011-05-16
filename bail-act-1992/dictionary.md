@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -41,6 +41,8 @@ authorised officer means—
   (c) another police officer authorised in writing by the chief police officer.
 bail means an authorisation granted to a person under this Act to be at liberty.
 bail condition means a condition on which bail is granted.
+bail order, for part 4 (Grant of bail)—see section 19 (1).
+bail review application, for part 4 (Grant of bail)—see section 12A.
 child, of a person, includes a child—
   (a) who normally or regularly lives with the person; or
   (b) of whom the person is a guardian.
