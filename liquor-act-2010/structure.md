@@ -42,6 +42,9 @@
 ### Division 11.1 General
 ### Division 11.2 Complaints
 ### Division 11.3 Occupational discipline
+## Part 12 Responsible service of alcohol (RSA) training courses
+### Division 12.1 Approval to provide RSA training courses
+### Division 12.2 RSA training course certificates
 ## Part 13 Licence and permit register
 ## Part 14 Other liquor matters
 ### Division 14.1 Alcohol-free public places
