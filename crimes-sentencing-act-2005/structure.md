@@ -38,5 +38,4 @@
 ### Division 8A.2.3 Good behaviour orders—supervision conditions
 ## Part 8A.3 Young offenders—accommodation orders
 # Chapter 9 Miscellaneous
-# Chapter 10 Transitional
 # Chapter 11 Transitional—Children and Young People Act 2008
