@@ -84,12 +84,5 @@
 ## Part 14A.1 General
 ## Part 14A.2 Young offenders—accommodation orders
 # Chapter 15 Miscellaneous
-# Chapter 16 Transitional—general
-## Part 16.1 Preliminary
-## Part 16.2 Transitional—detention
-## Part 16.3 Transitional—non-detention
-## Part 16.4 Transitional—unfinished requests for transfer of prisoners and sentences
-## Part 16.5 Transitional—parole orders
-## Part 16.6 Transitional—other provisions
 # Chapter 18 Transitional—Children and Young People Act 2008
 # Chapter 19 Transitional—Crimes (Sentence Administration) Amendment Act 2010
