@@ -6,10 +6,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · administrative unit
 · appoint
-· chief executive (see s 161)
 · child
 · contravene
 · daily newspaper
+· director-general (see s 163)
 · exercise
 · fail
 · financial year
