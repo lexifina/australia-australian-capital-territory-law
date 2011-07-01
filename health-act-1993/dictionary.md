@@ -6,9 +6,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Act
 · ACT
 · appoint
-· chief executive (see s 163)
 · Commonwealth
 · Coroner’s Court
+· director-general (see s 163)
 · entity
 · exercise
 · function
