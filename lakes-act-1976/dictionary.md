@@ -5,6 +5,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · ACAT
 · contravene
 · daily newspaper
+· director-general (see s 163)
 · doctor
 · entity
 · exercise
