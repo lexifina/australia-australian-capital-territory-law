@@ -4,8 +4,8 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · bankrupt or personally insolvent
 · breach
-· chief executive (see s 163)
 · detention place
+· director-general (see s 163)
 · director of public prosecutions
 · document
 · entity
@@ -37,7 +37,6 @@ arrest warrant, for a person, for chapter 11 (Interstate transfer of prisoners)�
 at, in relation to a correctional centre, includes in the correctional centre.
 board means the Sentence Administration Board established under section 171.
 chair means the chair of the board.
-chief executive (CYP) means the chief executive responsible for the Children and Young People Act 2008.
 combination sentence—see the Crimes (Sentencing) Act 2005, section 29 (1) (Combination sentences—offences punishable by imprisonment) and section 30 (1) (Combination sentences—offences punishable by fine).
 committal order, for part 3.1 (Imprisonment)—see section 10.
 committing authority, for part 3.1 (Imprisonment)—see section 10.
@@ -61,6 +60,7 @@ corresponding ACT court, in relation to a court of a participating state, for ch
 corresponding community-based sentence law, for chapter 12 (Transfer of community-based sentences)—see section 267.
 corresponding Minister, of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 corresponding parole law, for part 7.6 (Interstate transfer of parole orders)—see section 162.
+CYP director-general means the director-general responsible for the Children and Young People Act 2008.
 default imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 deputy chair means a deputy chair of the board.
 designated authority, for a State or another Territory, for part 7.6 (Interstate transfer of parole orders)—see section 162.
