@@ -5,7 +5,7 @@
 ### Division 1.3.1 Definitions
 ### Division 1.3.2 Parental responsibility
 # Chapter 2 Administration
-## Part 2.1 Chief executive
+## Part 2.1 Director-general
 ## Part 2.2 Children and Youth Services Council
 ## Part 2.3 Official visitors
 ## Part 2.4 Suitable entities for purposes under Act
@@ -92,7 +92,7 @@
 # Chapter 12 Care and protection—voluntary agreements to transfer or share parental responsibility
 ## Part 12.1 Definitions
 ## Part 12.2 Registration of family group conference agreements that transfer or share parental responsibility
-## Part 12.3 Voluntary agreement to share parental responsibility with chief executive
+## Part 12.3 Voluntary agreement to share parental responsibility with director-general
 # Chapter 13 Care and protection and therapeutic protection—emergency situations
 ## Part 13.1 Emergency action
 ## Part 13.2 Emergency action release orders
@@ -119,10 +119,10 @@
 ## Part 14.11 ACAT mental health provisions
 ## Part 14.12 Specific issues provisions
 ## Part 14.13 Annual review reports—parental responsibility provisions and supervision provisions
-# Chapter 15 Care and protection—chief executive has aspect of parental responsibility
+# Chapter 15 Care and protection—director-general has aspect of parental responsibility
 ## Part 15.1 General
-## Part 15.2 Chief executive has long-term care responsibility
-## Part 15.3 Chief executive has daily care responsibility
+## Part 15.2 Director-general has long-term care responsibility
+## Part 15.3 Director-general has daily care responsibility
 ## Part 15.4 Out-of-home carers
 ### Division 15.4.1 Placement with out-of-home carer
 ### Division 15.4.2 Authorisation of out-of-home carers and approval of places of care
@@ -157,7 +157,7 @@
 # Chapter 17 Care and protection—interstate transfer of orders and proceedings
 ## Part 17.1 Preliminary
 ## Part 17.2 Interstate transfer of ACT child welfare orders
-### Division 17.2.1 Transfers of orders by chief executive
+### Division 17.2.1 Transfers of orders by director-general
 ### Division 17.2.2 Transfer of orders by Childrens Court
 ### Division 17.2.3 Interstate registration of ACT orders
 ## Part 17.3 Interstate transfer of ACT child welfare proceedings

@@ -7,7 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · administrative unit
 · adult
 · bankrupt or personally insolvent
-· chief executive (see s 163)
+· director-general (see s 163)
 · chief police officer
 · children and young people commissioner
 · Childrens Court
@@ -237,9 +237,9 @@ offence—
   (b) for chapter 23 (Enforcement)—see section 812.
 official visitor means a person appointed as an official visitor under section 38.
 operating entity, for a detention place, therapeutic protection place or place of care, means—
-  (a) if the Territory operates the place—the chief executive; or
+  (a) if the Territory operates the place—the director-general; or
   (b) in any other case—the entity that operates the place.
-operating procedure, for chapter 6 (Criminal matters—detention places) and chapter 7 (Criminal matters—search and seizure at detention places) means an operating procedure made by the chief executive under section 143.
+operating procedure, for chapter 6 (Criminal matters—detention places) and chapter 7 (Criminal matters—search and seizure at detention places) means an operating procedure made by the director-general under section 143.
 order, for chapter 24 (Appeals and review), includes a decision.
 ordinary search—
   (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
@@ -258,7 +258,7 @@ participant, for chapter 3 (Family group conferences)—see section 73.
 participating state—for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 parties, for chapter 3 (Family group conferences)—see section 73.
 party—
-  (a) for part 12.3 (Voluntary agreement to share parental responsibility with chief executive)—see section 396; and
+  (a) for part 12.3 (Voluntary agreement to share parental responsibility with director-general)—see section 396; and
   (b) for an application, for the care and protection chapters—see section 700.
 personal information, about a child or young person, for division 15.4.3 (Information to be kept by foster carers and residential care services)—see section 526.
 person responsible, for a young offender, for part 5.2 (Interstate transfers)—see section 114.
@@ -290,7 +290,7 @@ registered, for a family group conference, for Chapter 12 (Care and protection�
 register of young detainees, for chapter 6 (Criminal matters—detention places)—see section 137.
 relevant conference participant, for a family group conference about a child or young person—see section 73.
 relevant presiding officer, for division 8.4.4 (Disciplinary action generally)—see section 316.
-reporting and investigation procedures means the procedures made by the chief executive under section 294.
+reporting and investigation procedures means the procedures made by the director-general under section 294.
 representative, for a child or young person, means a lawyer or other person representing the child or young person, but does not include a child or young person who represents himself or herself.
 requirement notice, for part 2.4 (Suitable entities for purposes under Act)—see section 68.
 researcher, for a research project, for chapter 22 (Research involving children and young people)—see section 805.
