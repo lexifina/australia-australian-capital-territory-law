@@ -3,9 +3,9 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · adult
-· chief executive (see s 163)
 · Commonwealth
 · contravene
+· director-general (see s 163)
 · domestic partner (s 169)
 · entity
 · health services commissioner

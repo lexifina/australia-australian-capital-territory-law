@@ -168,9 +168,9 @@ Note Daily newspaper means a daily newspaper circulating generally in the ACT (s
   (c) if a fee has been determined under section 34 for this principle—that there is a fee that the consumer must pay before the provider will give a copy or written summary of the record to the consumer or health service provider nominated by the consumer; and
   (d) that if the consumer does not make a transfer request within the transfer request period, a copy of the consumer’s health record will be given to a stated health service provider or record keeper; and
   (e) the stated health service provider’s or record keeper’s address and contact details.
-4 As soon as practicable after publishing the transfer notice, the provider must give a copy of the transfer notice, or written notice of the information in the transfer notice, to the chief executive.
+4 As soon as practicable after publishing the transfer notice, the provider must give a copy of the transfer notice, or written notice of the information in the transfer notice, to the director-general.
 Note 1 If a form is approved under s 35 for this provision, the form must be used.
-Note 2 Chief executive means the chief executive of the administrative unit responsible for this Act (see Legislation Act, s 163). Administrative units are established under the administrative arrangements (see Public Sector Management Act 1994, s 13).
+Note 2 Director-general means the director-general of the administrative unit responsible for this Act (see Legislation Act, s 163). Administrative units are established under the administrative arrangements (see Public Sector Management Act 1994, s 13).
 Note 3 Notice may be given electronically in certain circumstances (see Electronic Transactions Act 2001, s 8).
 5 If a consumer has made a transfer request, the provider must give the consumer or the consumer’s nominated health service provider the requested copy or written summary of the consumer’s health record as soon as practicable but not later than the later of—
   (a) if a fee is payable for this principle—7 days after the day the fee is paid; and
@@ -182,10 +182,10 @@ Note 1 If the original or copy of a consumer’s health record is given to anoth
 · the consumer may ask the new provider or new record keeper for access to the consumer’s health record (see s 10 and s 12); and
 · the new provider or new record keeper must give the consumer access to the consumer’s health records in accordance with the Act (for example, see s 13 to s 13D).
 Note 2 A fee may be payable by the consumer for certain types of access (see s 10 (5) and s 13 (2) (c) (ii)).
-8 If a record keeper holds health records following the relocation or closure of a health service practice, the record keeper must promptly notify the chief executive of any change to—
+8 If a record keeper holds health records following the relocation or closure of a health service practice, the record keeper must promptly notify the director-general of any change to—
   (a) the record keeper’s contact details; or
   (b) the location of the stored health records.
-9 The chief executive must promptly give a copy of a notice under clause 4 or clause 8 to the health services commissioner.
+9 The director-general must promptly give a copy of a notice under clause 4 or clause 8 to the health services commissioner.
 10 If this principle applies because a sole provider in a health service practice dies or becomes legally incompetent, a legal representative or guardian of the provider must comply with the requirements of this principle as soon as practicable.
 11 It is sufficient to establish that a consumer is receiving or needs urgent health services for prioritising the giving of records by a provider (the record holder) if another health service provider advises the record holder that the consumer is receiving or needs urgent health services.
 12 However—
