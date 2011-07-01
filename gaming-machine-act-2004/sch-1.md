@@ -35,5 +35,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 32 | 140 | refuse to approve amendment of financial and operational aspects of linked-jackpot arrangement | applicant for amendment
 33 | 141 | refuse to transfer multi-user permit | applicant for transfer
 34 | 147 | refuse to approve entity | applicant for approval
-35 | 153 (2) | give direction about separate parts of licensed premises | licensee given direction
-36 | 164 | refuse to approve contributions as community contributions | applicant for approval
+35 | 147C (2) (a) | suspend declaration of associated organisation | entity given warning notice
+36 | 147C (2) (b) | repeal declaration of associated organisation | entity given warning notice
+37 | 153 (2) | give direction about separate parts of licensed premises | licensee given direction
+38 | 164 | refuse to approve contributions as community contributions | applicant for approval

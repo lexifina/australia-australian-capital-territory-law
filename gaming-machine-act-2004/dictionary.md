@@ -38,6 +38,7 @@ approved supplier means a supplier approved under section 72.
 approved technician means a technician approved under section 75 (Approval of technicians) or section 76 (Short-term approval of technicians).
 associated entity—see the Electoral Act 1992, section 198.
 associated organisation, for a club, means an entity declared to be an associated organisation under section 147.
+associated organisation declaration, for part 9 (Club administration)—see section 144A.
 authorised officer means an authorised officer under the Control Act, section 20.
 centralised monitoring system (or CMS)—see section 66.
 certificate of suitability—see section 17 (2) (b).
@@ -83,6 +84,7 @@ executive officer, of a corporation, means a person, by whatever name called and
 financial arrangement—see section 101.
 game, in relation to a gaming machine, means a play, or a series of plays, initiated by the application of a single stake registered on the machine.
 gaming area means a room or other area within licensed premises approved under section 120 for the installation of gaming machines.
+gaming law—see the Control Act, dictionary.
 gaming machine—
   (a) means a machine—
     (i) designed for playing a game of chance, or of mixed chance and skill; and
@@ -160,3 +162,4 @@ statement of objects of a club, means—
   (b) for an incorporated association—the statement of objects of the association.
 social impact assessment, for an initial licence application or an amendment licence application, means a social impact assessment for the application under division 2.3.
 technical evaluation means a technical evaluation under section 69.
+warning notice, for an associated organisation, for part 9 (Club administration)—see section 144A.
