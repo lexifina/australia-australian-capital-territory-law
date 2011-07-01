@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · corporation
+· director-general (see s 163)
 · entity
 · exercise
 · functions
@@ -45,4 +46,4 @@ tenant—see section 6.
 termination and possession order means an order of the tribunal terminating a residential tenancy agreement and granting vacant possession of the relevant premises to the applicant for the order.
 termination notice means a notice in the form approved under section 133 (Approved forms—Minister) served on the lessor or tenant giving notice of the intention of the tenant or lessor to terminate the residential tenancy agreement.
 tribunal, for schedule 1, means the ACAT.
-trust account means the trust bank account maintained by the chief executive of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.
+trust account means the trust bank account maintained by the director-general of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.
