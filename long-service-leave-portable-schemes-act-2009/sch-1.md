@@ -122,7 +122,7 @@ R is—
     (i) the most recent 2 quarters of service as a registered employee before the designated day;
     (ii) the most recent 4 quarters of service as a registered employee before the designated day.
 ## 1.13 Leave payments for service as registered contractor—building and construction industry
-## (1) For section 1.11 (How are leave payments worked out for the building and construction industry?), the amount payable to a registered worker for the building and construction industry for long service leave for service accrued as a contactor is the total of the following for the service:
+## (1) For section 1.11 (How are leave payments worked out for the building and construction industry?), the amount payable to a registered worker for the building and construction industry for long service leave for service accrued as a contractor is the total of the following for the service:
 ## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
 ## (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 ## (2) The governing board must determine an interim rate of interest from time to time prior to the determination of the rate under subsection (1).
