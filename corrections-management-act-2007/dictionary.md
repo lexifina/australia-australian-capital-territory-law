@@ -3,9 +3,9 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · bankrupt or personally insolvent
-· chief executive (see s 163)
 · chief police officer
 · civil partnership
+· director-general (see s 163)
 · doctor
 · domestic partner (see s 169 (1))
 · Governor
@@ -51,7 +51,7 @@ correctional centre means a place declared to be a correctional centre under sec
 corrections dog means a dog approved under the regulations to exercise functions as a corrections dog under this Act.
 corrections officer means a person who is appointed as a corrections officer under section 19.
 corrections policy means a corrections policy under section 14.
-corresponding chief executive, for part 12.2 (Interstate leave)—see section 206.
+corresponding director-general, for part 12.2 (Interstate leave)—see section 206.
 corresponding corrections law—see section 225.
 corresponding leave law, for part 12.2 (Interstate leave)—see section 206.
 court cell, for chapter 4 (Detention in police and court cells etc)—see section 29.
