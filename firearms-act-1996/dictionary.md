@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · chief police officer
 · corrections officer
 · daily newspaper
+· director-general (see s 163)
 · foreign country
 · home address
 · indictable offence (see s 190)
@@ -113,7 +114,7 @@ government agency means—
   (a) an administrative unit; or
   (b) a Territory authority; or
   (c) a department or authority of a State or another Territory.
-head, in relation to a government agency, means the chief executive who has control of the relevant administrative unit or other person who has administrative control of the agency.
+head, in relation to a government agency, means the director-general who has control of the relevant administrative unit or other person who has administrative control of the agency.
 inoperable firearm means a firearm that has been rendered inoperable in accordance with this Act.
 interim protection order—
   (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of interim order; and
