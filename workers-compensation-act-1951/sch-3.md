@@ -15,7 +15,7 @@ Note A provision of a law that gives an entity (including a person) a function a
 ## 3.4 Membership of committee
 (1) The committee consists of—
   (a) the DI fund manager; and
-  (b) the chief executive; and
+  (b) the director-general; and
   (c) 3 members appointed by the Minister.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
@@ -28,7 +28,7 @@ Note 3 Certain Ministerial appointments require consultation with an Assembly co
 ## 3.5 When DI fund manager not member of committee
 The DI fund manager is not a member of the committee if it is considering the manager’s conduct under this Act.
 ## 3.6 Ending of members’ appointments
-The Minister may end the appointment of a member (other than the DI fund manager or chief executive)—
+The Minister may end the appointment of a member (other than the DI fund manager or director-general)—
   (a) if the member contravenes a territory law; or
   (b) for misbehaviour; or
   (c) if the member becomes bankrupt or executes a personal insolvency agreement; or
@@ -41,7 +41,7 @@ The Minister may end the appointment of a member (other than the DI fund manager
   (j) for physical or mental incapacity, if the incapacity substantially affects the exercise of the member’s functions.
 Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 ## 3.7 Committee chair
-The committee chair is the chief executive.
+The committee chair is the director-general.
 ## 3.8 Honesty, care and diligence of members
 In exercising the functions of a member, a member must exercise the degree of honesty, care and diligence required to be exercised by a director of a corporation in relation to the affairs of the corporation.
 ## 3.9 Conflicts of interest by members
@@ -110,7 +110,7 @@ relevant committee means—
 (2) If the chair is absent, the member chosen by the members present presides.
 ## 3.16 Quorum at committee meetings
 Business may be carried on at a meeting of the committee only if the following members are present:
-  (a) the chief executive or the DI fund manager;
+  (a) the director-general or the DI fund manager;
   (b) at least 2 members appointed by the Minister.
 ## 3.17 Voting at committee meetings
 (1) At a meeting of the committee each member (other than the DI fund manager) has a vote on each question to be decided.
