@@ -20,7 +20,7 @@ eligible person, for a lot in relation to which a community title certificate, o
   (a) the owner, or someone else with an interest in the lot, or in an easement over the lot; or
   (b) for a lot that is owned, or partly owned, by a company—a representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
-  (d) if access to the information or the books, records or documents is necessary for the administration of this Act—the chief executive.
+  (d) if access to the information or the books, records or documents is necessary for the administration of this Act—the director-general.
 exclusive use by-law means a by-law giving the owner of a lot exclusive rights to the use and enjoyment of, or other special rights over, the common property of a community title scheme or part of the common property.
 lot means a parcel of land for which a certificate of title has been issued under the Land Titles Act 1925.
 lot entitlement schedule—see section 7 (h) (Form and content of management statements).
