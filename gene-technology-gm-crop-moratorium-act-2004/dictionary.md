@@ -2,7 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-• chief executive
+• director-general (see s 163)
 • function.
 advisory council means the ACT Advisory Council on Gene Technology established under section 11.
 connected, for part 3 (Enforcement)—see section 16.
