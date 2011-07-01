@@ -2,12 +2,12 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· chief executive (see s 163)
-· home address
-· Minister (see s 162)
-· reviewable decision notice
-· under.
+• ACAT
+• director-general (see s 163)
+• home address
+• Minister (see s 162)
+• reviewable decision notice
+• under.
 advisory committee means an advisory committee established under section 30.
 incorporated document means an instrument applied, adopted or incorporated by regulation.
 licence means a licence under section 9 to conduct motor vehicle racing at a motor vehicle racing place.
