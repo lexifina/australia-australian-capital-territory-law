@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · entity
 · external territory
+· gambling and racing commission
 · GST
 · Legislative Assembly
 · Minister (see s 162)
@@ -31,7 +32,7 @@ bet back, for part 5B (Use of race field information)—see section 61E.
 bets held on races conducted in the ACT, for part 5B (Use of race field information)—see section 61E.
 bets paid, for part 5B (Use of race field information)—see section 61E.
 betting exchange, for part 5B (Use of race field information)—see section 61E.
-chief executive means the chief executive of the commission.
+chief executive officer means the chief executive officer of the gambling and racing commission.
 commission means the Gambling and Racing Commission established by the Gambling and Racing Control Act 1999.
 controlling body means—
   (a) the racing club; or
