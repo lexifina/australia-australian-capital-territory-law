@@ -1,8 +1,9 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· director-general (see s 163)
 · document
 · interest
 · land
@@ -34,7 +35,8 @@ fair trading legislation means—
   (c) the Eggs (Labelling and Sale) Act 2001; or
   (d) the Fair Trading (Australian Consumer Law) Act 1992; or
   (e) the Liquor Act 2010; or
-  (f) the Security Industry Act 2003.
+  (f) the Plastic Shopping Bags Ban Act 2010; or
+  (g) the Security Industry Act 2003.
 goods—see the Australian Consumer Law (ACT), section 2 (1).
 identity card means an identity card issued to an investigator under section 37.
 instrument, for part 2 (The Australian Consumer Law)—see section 5 (1).
