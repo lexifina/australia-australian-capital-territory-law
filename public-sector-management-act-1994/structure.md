@@ -1,19 +1,20 @@
 ## Part 1 Preliminary
 ## Part 2 Administration of the public sector
 ### Division 2.1 Values and general principles
-### Division 2.2 Constitution of the service
+### Division 2.2 ACT Public Service
 ### Division 2.3 Administrative arrangements
 ## Part 3 Management of the service
 ### Division 3.1 Preliminary
 ### Division 3.2 Role of commissioner
-### Division 3.3 Exercise of chief executive powers in relation to certain public employees
-### Division 3.4 Chief executives
+### Division 3.2A Head of service
+### Division 3.3 Exercise of head of service powers in relation to certain public employees
+### Division 3.4 Directors-general
 ### Division 3.5 Powers of delegation
 ### Division 3.7 Whole-of-government management responsibilities
 ### Division 3.8 Legislative Assembly—clerk and secretariat
 ## Part 4 Creation, classification and abolition of offices in the service
 ### Division 4.1 Creation and abolition of executive offices
-### Division 4.1A Creation and abolition of offices other than offices of chief executives and executive offices
+### Division 4.1A Creation and abolition of non-executive offices
 ### Division 4.2 Part-time offices
 ## Part 5 Employment in the service
 ### Division 5.1 Preliminary
@@ -28,3 +29,4 @@
 ## Part 10 Forfeiture of office
 ## Part 11 Review and appeal
 ## Part 13 Miscellaneous
+## Part 17 Transitional—Administrative (One ACT Public Service Miscellaneous Amendments) Act 2011
