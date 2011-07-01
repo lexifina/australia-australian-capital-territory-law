@@ -2,8 +2,8 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· chief executive (see s 163)
-· Minister (see s 162).
+• director-general (see s 163)
+• Minister (see s 162).
 chief inspector means the Chief Inspector of Machinery under section 3.
 inspector means an inspector under section 4.
 machinery includes any machine, boiler, pressure vessel, engine, motor or source of motive power, and any shaft, belt, gearing, pulley, flywheel, lift, crane, contrivance or appliance operated by machinery.
