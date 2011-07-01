@@ -7,6 +7,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · corporation
 · fail
 · found guilty
+· gambling and racing commission
 · individual
 · reviewable decision notice.
 agent, for division 6.2 (Betting disputes referred to commission)—see section 56.
@@ -18,7 +19,7 @@ bet means any stake, pledge or wager in money between 2 people on any event or c
 bet back, in relation to a race bookmaker or sports bookmaker (the bookmaker), means a bet by the bookmaker on 1 or more runners in a race if the bet is made with the objective of offsetting completely or partly the bookmaker’s liability for bets made with the bookmaker on the runner, or runners, in the race.
 betting dispute, for division 6.2 (Betting disputes referred to commission)—see section 56.
 bookmaker, for division 6.2 (Betting disputes referred to commission)—see section 56.
-chief executive means the chief executive of the commission.
+chief executive officer means the chief executive officer of the gambling and racing commission.
 code of practice means a code of practice prescribed under the regulations under the Gambling and Racing Control Act 1999.
 commission means the gambling and racing commission.
 controlling body—see the Racing Act 1999, dictionary.
