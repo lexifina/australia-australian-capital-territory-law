@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACT
 · corrections officer
 · Criminal Code
+· director-general (see s 163)
 · exercise
 · function
 · police officer
