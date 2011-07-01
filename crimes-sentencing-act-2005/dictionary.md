@@ -4,7 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · administrative unit
 · adult
-· chief executive (see s 163)
+· director-general (see s 163)
 · director of public prosecutions
 · doctor
 · entity
@@ -25,7 +25,6 @@ assessor, for part 4.2 (Pre-sentence reports)—see section 41 (6).
 at, in relation to a correctional centre or detention place, includes in the correctional centre or detention place.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
-chief executive (CYP) means the chief executive responsible for the Children and Young People Act 2008.
 combination sentence—see section 29 (1) (Combination sentences—offences punishable by imprisonment) and section 30 (1) (Combination sentences—offences punishable by fine).
 community service condition, of a good behaviour order for an offender—see section 85.
 community service work—see the Crimes (Sentence Administration) Act 2005, section 316.
@@ -35,6 +34,7 @@ correctional centre means—
   (b) a NSW correctional centre.
 corrections officer—see the Corrections Management Act 2007, section 20.
 court—if a court has sentenced an offender, made an order or given a direction, means the same court, however constituted.
+CYP director-general means the director-general responsible for the Children and Young People Act 2008.
 deferred sentence obligations, for an offender, see section 120.
 deferred sentence order—see section 27 (2).
 detention place means a detention place under the Children and Young People Act 2008.
