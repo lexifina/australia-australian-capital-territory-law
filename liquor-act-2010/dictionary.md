@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · commissioner for fair trading
 · corporation
 · Corporations Act
+· director-general (see s 163)
 · planning and land authority
 · police officer.
 ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
@@ -60,7 +61,7 @@ commissioner’s direction—see section 144 (2).
 complainant, for division 11.2 (Complaints)—see section 177.
 connected, for part 10 (Enforcement)—see section 153.
 crowd controller means a person who is a crowd controller for the purposes of the Security Industry Act 2003, section 7.
-CYP chief executive, for division 9.3 (Police cautions for children and young people)—see section 149.
+CYP director-general, for division 9.3 (Police cautions for children and young people)—see section 149.
 declared training provider—see section 224.
 designated outdoor smoking area—see the Smoke-Free Public Places Act 2003, section 9F (2).
 eligible club—see section 70.
