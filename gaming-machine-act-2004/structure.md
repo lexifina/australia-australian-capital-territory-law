@@ -30,6 +30,7 @@
 ## Part 10 Gaming areas
 ## Part 11 Finance
 ### Division 11.1 General
+### Division 11.2 Problem gambling assistance fund
 ## Part 12 Community contributions
 ## Part 13 Notification and review of decisions
 ## Part 14 Miscellaneous

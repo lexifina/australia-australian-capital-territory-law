@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
@@ -139,6 +139,7 @@ operator, of relevant premises, means the person who manages the premises.
 percentage payout, for a gaming machine, means the percentage payout authorised for the machine under the licence.
 peripheral equipment, for a gaming machine—see section 68.
 permit-holder means the holder of a multi-user permit.
+problem gambling assistance fund—see section 163B.
 proposed gaming area, in relation to an application—see section 11 (2) (b).
 prospective licensee, for division 2.6 (Transfer and surrender of licences)—see section 31 (1).
 qualified accountant means—
