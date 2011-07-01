@@ -6,6 +6,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · adult
 · bankrupt or personally insolvent
 · child
+· director-general (see s 163)
 · domestic partner (see s 169 (1))
 · home address
 · human rights commission
