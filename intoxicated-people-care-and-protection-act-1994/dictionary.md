@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · adult
 · daily newspaper
+· director-general (see s 163)
 · home address
 · police officer
 · reviewable decision notice
