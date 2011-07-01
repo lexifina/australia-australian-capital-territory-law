@@ -4,8 +4,8 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · administrative unit
-· chief executive (see s 163)
 · contravene
+· director-general (see s 163)
 · document
 · domestic partner (see s 169 (1))
 · Executive
@@ -36,7 +36,7 @@ Commonwealth Bilateral Arrangements Regulation means the Family Law (Bilateral A
 Commonwealth central authority has the same meaning as in the Family Law (Hague Convention on Intercountry Adoption) Regulations 1998 (Cwlth).
 competent authority means—
   (a) for a prescribed overseas jurisdiction—an entity in that country responsible for approving the adoption of children or young people; and
-  (b) for the ACT—the chief executive.
+  (b) for the ACT—the director-general.
 contact veto register means the register established under section 79.
 Convention means the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption signed at the Hague on 29 May 1993, a copy of the English text of which is set out in schedule 1.
 Convention country—see the Family Law (Hague Convention on Intercountry Adoption) Regulations 1998 (Cwlth), regulation 4.
@@ -61,7 +61,7 @@ non-citizen child or young person has the same meaning as non-citizen child in t
 prescribed overseas jurisdiction means a jurisdiction mentioned in the Commonwealth Bilateral Arrangements Regulation, schedule 1.
 principal officer, for a private adoption agency, means the person stated as its principal officer in—
   (a) its application for approval under section 81; or
-  (b) its latest notification to the chief executive under section 83.
+  (b) its latest notification to the director-general under section 83.
 private adoption agency means a charitable organisation approved as a private adoption agency under section 82.
 register of births means the register under the Births, Deaths and Marriages Registration Act 1997.
 register of suitable people means the register kept under section 19.
