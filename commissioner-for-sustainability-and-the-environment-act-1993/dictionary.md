@@ -34,7 +34,7 @@ prescribed authority means—
   (c) subject to section 3 (2), the person holding or performing the duties of an office, other than the office of ombudsman, established by a law of the Territory; or
   (d) a person holding, or performing the duties of, an office declared by regulation to be an office the holder of which is a prescribed authority for this Act, being an office created by the Executive or by a Minister other than under a law of the Territory.
 principal officer means—
-  (a) in relation to an administrative unit—the Commissioner for Public Administration or the chief executive of that unit; or
+  (a) in relation to an administrative unit—the Commissioner for Public Administration or the director-general of that unit; or
   (b) in relation to a prescribed authority—
     (i) if a regulation declares an office to be the principal office in relation to the authority—the person holding, or performing the duties of, that office; or
     (ii) in any other case—the person who constitutes that authority or a person acting in the person’s office or, if the authority is constituted by 2 or more people, the person who is entitled to preside at any meeting of the authority at which the person is present or a person acting in the person’s office.
