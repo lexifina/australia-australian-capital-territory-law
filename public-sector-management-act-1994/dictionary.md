@@ -21,26 +21,22 @@ Aboriginal person or Torres Strait Islander means a person who—
   (c) is accepted as an Aboriginal person or Torres Strait Islander by an Aboriginal or Torres Strait Islander community.
 access and equity principle, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 access and equity program, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
-administering chief executive means the chief executive of the administrative unit responsible for administering this Act.
 administrative unit means a unit of the service established under section 13 (1) (a).
 appeal means—
   (a) if an industrial instrument applies to the employee or officer and includes an appeal process—appeal in accordance with the appeal process in the industrial instrument; or
   (b) in any other case—appeal in accordance with the prescribed appeal process.
-appeal committee, for part 6 (Retirement and redeployment of officers other than chief executives and executives)—see section 139.
 appellable decision—see section 223.
 appellable level position means—
   (a) for division 5.5 (Promotion of officers)—see section 82; and
   (b) for division 5.6 (Transfer of officers)—see section 91.
 auditor-general’s office means the auditor-general and the staff assisting the auditor-general under the Auditor-General Act 1996, section 23.
-authorised doctor means a doctor authorised by the chief executive of the administrative unit primarily responsible for public health matters, or the commissioner, to—
+authorised doctor means a doctor authorised by the head of service to—
   (a) perform medical examinations under this Act; and
   (b) make recommendations under this Act in relation to redeployment or retirement; and
   (c) make recommendations under this Act in relation to the health and physical fitness of officers whose appointment to the service on probation has not been confirmed.
-authorised officer, for division 9.5 (Employees other than chief executives and executives)—see section 201.
 autonomous instrumentality means—
   (a) the auditor-general’s office; or
   (b) the Office of the Director of Public Prosecutions.
-chief executive means a person employed under section 28 (Chief executives—engagement) or section 30 (Chief executives—temporary contracts) to perform the duties of an office of chief executive.
 chief executive officer means—
   (a) in relation to a territory instrumentality—the person who has responsibility for managing the affairs of the instrumentality; and
   (b) in relation to an autonomous instrumentality—
@@ -59,15 +55,17 @@ criminal offence means—
   (b) an offence against a law of a State or another Territory, being an offence of a kind that if committed in, or within the jurisdiction of, the ACT would constitute an offence against a law of the Territory; or
   (c) an offence against a law of, or of a part of, a foreign country, being an offence of a kind that if committed in, or within the jurisdiction of, the ACT would constitute an offence against a law of the Territory or the Commonwealth.
 designated group, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
-direction, for division 5.6 (Temporary performance of duties—offices other than offices of chief executive and executive offices)—see section 99.
+director-general means a person employed to exercise the functions of an office of director-general under—
+  (a) section 28 (Directors-general—engagement); or
+  (b) section 30 (Directors-general—temporary contracts).
 disability, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 discrimination, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
-eligible public employment, for part 9 (Discipline)—see section 178.
 employee means—
-  (a) a chief executive; or
-  (b) an executive; or
-  (c) a person engaged under division 5.7 (Temporary employment); or
-  (d) a person who is an employee because of the Public Sector Management (Consequential and Transitional Provisions) Act 1994.
+  (a) the head of service; or
+  (b) a director-general; or
+  (c) an executive; or
+  (d) a person engaged under division 5.7 (Temporary employment); or
+  (e) a person who is an employee because of the Public Sector Management (Consequential and Transitional Provisions) Act 1994.
 employment matters—
   (a) for division 3.7 (Whole-of-government management responsibilities)—see section 39; and
   (b) for part 5 (Employment in the service)—see section 63.
@@ -80,6 +78,9 @@ government agency means—
   (a) an administrative unit; or
   (b) a territory instrumentality; or
   (c) a statutory office-holder and the staff required to assist the statutory office-holder.
+head of service means the person employed to exercise the functions of the office of head of service under—
+  (a) section 23C (Head of service—engagement); or
+  (b) section 23J (Head of service—temporary contracts).
 industrial democracy program, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 industrial instrument means an instrument—
   (a) made under, or recognised by, a workplace law as defined by the Fair Work Act 2009 (Cwlth); and
@@ -95,15 +96,15 @@ misconduct, by an officer, means—
 non-appellable promotion means a promotion under section 83 to an office having—
   (a) a classification equal to or higher than the classification of senior officer grade C; or
   (b) a classification equivalent to a classification mentioned in paragraph (a), other than a classification for an office for appointment to which teaching qualifications are required.
-notified, for division 5.6 (Temporary performance of duties—offices other than offices of chief executive and executive offices)—see section 99.
 not qualified to perform duties, for part 6 (Retirement and redeployment of officers)—see section 139.
 office means—
-  (a) for division 4.1A (Creation and abolition of offices other than offices of chief executives and executive offices)—see section 54B; and
+  (a) for division 4.1A (Creation and abolition of non-executive offices)—see section 54B; and
   (b) for division 4.2 (Part-time offices)—see section 59A; and
   (c) for division 5.5 (Promotion of officers)—see section 82; and
   (d) for division 5.6 (Transfer of officers)—see section 91; and
   (e) for division 5.7 (Temporary employment)—see section 105.
-office of chief executive means an office created under section 27.
+office of director-general means an office created under section 27.
+office of head of service means an office created under section 23A.
 officer—
   (a) means a person who is—
     (i) an officer because of the Public Sector Management (Consequential and Transitional Provisions) Act 1994; or
@@ -120,23 +121,14 @@ public employee means a person—
   (a) employed in the service; or
   (b) employed by a territory instrumentality or a statutory office-holder.
 public sector means all government agencies and public employees.
-relevant chief executive means—
-  (a) in relation to an administrative unit, including the officers and employees employed, or to be employed, in the administrative unit—the chief executive responsible for the administrative unit; or
-  (b) in relation to a territory instrumentality, including the officers and employees employed, or to be employed, in the territory instrumentality—the person who has the powers of a chief executive in relation to the staff; or
-  (c) in relation to a statutory office, including the officers and employees employed, or to be employed, to assist the statutory office-holder—the statutory office-holder, if the office-holder has the powers of a chief executive in relation to the staff; or
-Note Certain statutory office-holders have all the powers of a chief executive of an administrative unit (see s 25).
-  (d) in relation to an unattached officer—the chief executive who has control of the administrative unit in which the officer last held an office.
+public sector officer, for division 3.5 (Powers of delegation)—see section 36.
 relevant union, for an office, means an employee organisation—
   (a) registered under the Fair Work (Registered Organisations) Act 2009 (Cwlth); and
   (b) entitled to represent the industrial interests of 1 or more people working in the administrative unit in which the office exists; and
   (c) covered by an industrial agreement that applies to 1 or more people working in the administrative unit in which the office exists.
-review, for part 5, part 11 and schedule 1, means—
-  (a) if an industrial agreement applies to the employee or officer and includes a review process—review in accordance with the review process in the industrial agreement; or
-  (b) in any other case—review in accordance with the prescribed review process.
 reviewable decision—see section 223.
 secretariat, for division 3.8 (Legislative Assembly—clerk and secretariat)—see section 45.
-service means the Australian Capital Territory Public Service mentioned in section 12.
-specified, for division 5.6 (Temporary performance of duties—offices other than offices of chief executive and executive offices)—see section 99.
+service means the ACT Public Service established under section 12 (1).
 statutory office-holder means the holder of an office established by an Act, and includes everyone who at any time occupies for the time being, or performs for the time being the duties of, an office established by an Act.
 territory instrumentality means a body corporate that is established by or under an Act, or under the Corporations Act, and—
   (a) is comprised of people, or has a governing body comprised of people, a majority of whom are appointed by a Minister or an agency or instrumentality of the Territory; or
@@ -145,5 +137,5 @@ territory instrumentality means a body corporate that is established by or under
 but does not include—
   (d) an administrative unit; or
   (e) a body declared under section 3A not to be a territory instrumentality.
-unattached officer means an officer who does not hold an office, but does not include a person who is a detached officer within the meaning of division 9.4.
+unattached officer means an officer who does not hold an office.
 underperformance, for part 6 (Retirement and redeployment of officers)—see section 139.
