@@ -4,10 +4,10 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · body
-· chief executive
 · civil partner
 · civil partnership
 · corporation
+· director-general (see s 163)
 · domestic partner (see s 169)
 · domestic partnership (see s 169)
 · external Territory
