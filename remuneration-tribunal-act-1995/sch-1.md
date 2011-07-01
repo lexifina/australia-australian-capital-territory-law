@@ -15,16 +15,17 @@ Note For territory authorities with governing boards, see the Financial Manageme
 · a non-presidential member of the ACAT, other than an assessor
 · assistant executive officer of the legal aid commission
 · auditor-general
-· chief executive
 · chief executive officer of the legal aid commission
 · children and young people commissioner
 · clerk of the Legislative Assembly
+· director-general
 · director of public prosecutions
 · director of the Canberra Institute of Technology
 · disability and community services commissioner
 · discrimination commissioner
 · electoral commissioner
 · executive within the meaning of the Public Sector Management Act 1994
+· head of service
 · health services commissioner
 · human rights commissioner
 · public advocate
