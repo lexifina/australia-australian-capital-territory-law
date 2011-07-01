@@ -74,7 +74,6 @@ Examples
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 calendar year means a period of 12 months beginning on 1 January.
 change includes change by alteration, omission, substitution or addition.
-chief executive—see section 163.
 chief health officer means the Chief Health Officer under the Public Health Act 1997.
 Chief Justice means the Chief Justice of the Supreme Court.
 Chief Magistrate means the Chief Magistrate of the Magistrates Court.
@@ -141,6 +140,7 @@ Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
 designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
 detention place—see the Children and Young People Act 2008, section 142.
+director-general—see section 163.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
 disability and community services commissioner means the Disability and Community Services Commissioner under the Human Rights Commission Act 2005.
 disallowable instrument—see section 9.
@@ -374,7 +374,7 @@ resident judge means a resident judge under the Supreme Court Act 1933.
 retrospectively, for the commencement of legislation—see section 75A.
 reviewable decision notice—see the ACT Civil and Administrative Tribunal Act 2008, section 67A.
 road transport authority means the Australian Capital Territory Road Transport Authority.
-Note The chief executive of the department responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
+Note The director-general of the directorate responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
 rules means—
   (a) of a court or tribunal—rules made by the entity having power to make rules (however described) regulating the practice and procedure of the court or tribunal; and
   (b) in relation to an Act—rules made or in force under the Act.
