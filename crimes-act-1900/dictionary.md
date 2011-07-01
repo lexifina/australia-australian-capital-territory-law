@@ -11,6 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · commissioner of police
 · contravene
 · correctional centre
+· director-general (see s 163)
 · director of public prosecutions
 · doctor
 · domestic partner (see s 169)
