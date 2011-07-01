@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bankrupt or personally insolvent
 · body
 · business day
-· chief executive (see s 163)
+· director-general (see s 163)
 · electoral commission
 · electoral commissioner
 · Executive
