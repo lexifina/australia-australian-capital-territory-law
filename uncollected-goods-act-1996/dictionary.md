@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · Commonwealth
 · daily newspaper
+· director-general (see s 163)
 · State
 · the Territory.
 authorised officer means an authorised officer under section 16.
@@ -37,7 +38,7 @@ public street means a street, road, lane or footpath (including a street, road, 
   (a) an entrance-driveway leading to a parcel of land; or
   (b) any part of a public place.
 retention area means an area declared under section 17 to be a retention area for division 2.4.
-trust bank account means a trust bank account opened by the Minister or the chief executive and maintained under the Financial Management Act 1996, section 51.
+trust bank account means a trust bank account opened by the Minister or the director-general and maintained under the Financial Management Act 1996, section 51.
 uncollected goods—see section 5.
 value means the price goods would attract in the market where no special or extraordinary effort would be expended in selling them, irrespective of a particular contract.
 vehicle means any means of conveyance which runs on wheels, but does not include any vehicle used on a railway or a wheelchair.
