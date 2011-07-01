@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · auditor-general
 · authorised deposit-taking institution
 · bankrupt or personally insolvent
-· chief executive (see s 163)
+· director-general (see s 163)
 · exercise
 · function
 · GST
@@ -29,21 +29,21 @@ borrowing includes—
   (b) entering into a financing lease;
 but does not include using a credit card or overdraft facility, or otherwise obtaining credit, in a transaction forming part of the day-to-day operations of the Territory or a territory authority.
 budget papers means documents presented to the Legislative Assembly under section 10 or section 13 (1).
-capital injection means an amount provided, or to be provided, to a department, a territory authority or a territory-owned corporation for—
-  (a) the purchase of assets to be held by the department or to be owned by the authority or corporation; or
-  (b) the development of assets held by the department or owned by the authority or corporation; or
-  (c) augmenting the assets held by the department or owned by the authority or corporation; or
-  (d) reducing the liabilities of the department, the authority or the corporation;
+capital injection means an amount provided, or to be provided, to a directorate, a territory authority or a territory-owned corporation for—
+  (a) the purchase of assets to be held by the directorate or to be owned by the authority or corporation; or
+  (b) the development of assets held by the directorate or owned by the authority or corporation; or
+  (c) augmenting the assets held by the directorate or owned by the authority or corporation; or
+  (d) reducing the liabilities of the directorate, the authority or the corporation;
 but does not include an amount provided from an appropriation for a purpose mentioned in section 8 (1) (a) or (c) or (2) (a).
 CEO—see chief executive officer.
 chief executive officer (or CEO), of a territory authority, means the person (however described) who is responsible for managing the affairs of the authority.
 class of outputs means a group of outputs identified as a class by an Appropriation Act.
 contract includes an agreement or arrangement.
-department means—
+directorate means––
   (a) an administrative unit (excluding any part of an administrative unit prescribed for paragraph (b) and any administrative unit forming part of a group of administrative units prescribed for paragraph (c)); or
   (b) a part of an administrative unit prescribed for this paragraph; or
   (c) a group of 2 or more administrative units prescribed for this paragraph.
-departmental banking account means a banking account mentioned in section 34 (1).
+directorate banking account means a banking account mentioned in section 34 (1).
 division 9.6 authority means a territory authority to which division 9.6 applies (see s 105).
 division 9.7 authority means a territory authority to which division 9.7 applies (see s 120).
 establishing Act, for a territory authority, governing board or governing board member, for part 9 (Governance of territory authorities)—see section 72.
@@ -54,9 +54,9 @@ general government sector means—
   (a) those organisations whose primary function is to provide services that are mainly not market orientated, are mainly for the consumption of the community generally, involve the transfer or redistribution of income, and are financed mainly through appropriation; and
   (b) those organisations that are controlled by the Territory and provide investment or other financial services.
 generally accepted accounting principles means accounting principles and procedures that are—
-  (a) recognised by the accounting profession as appropriate for reporting financial information relating to government, a department or a territory authority; and
+  (a) recognised by the accounting profession as appropriate for reporting financial information relating to government, a directorate or a territory authority; and
   (b) consistent with this Act and any relevant Appropriation Act.
-governing board, for a territory authority, means the governing board for the authority mentioned in section 76.
+governing board, for a territory authority, means the governing board established under the Act that establishes the authority.
 governing board member, for a territory authority with a governing board for part 9 (Governance of territory authorities)—see section 72.
 handover day, for division 9.7 (Additional provisions for restructuring of certain territory authorities)—see section 121.
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
@@ -64,7 +64,7 @@ interest includes a dividend and any other financial return on a deposit, loan o
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
 Legislative Assembly secretariat—see the Public Sector Management Act 1994, dictionary.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
-outputs means goods produced or services provided by a department or territory authority or a person producing goods or providing services on behalf of a department or territory authority.
+outputs means goods produced or services provided by a directorate or territory authority or a person producing goods or providing services on behalf of a directorate or territory authority.
 prescribed means prescribed by the financial management guidelines.
 public money means all money received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
   (a) money held by the Territory as trust money; or
@@ -77,12 +77,12 @@ public money means all money received by the Territory, including the proceeds o
     (ii) as interest on such an investment.
 public trading enterprise sector means those organisations whose primary function is to provide goods and services that are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
 relevant territory authority, for part 9 (Governance of territory authorities)—see section 72.
-responsible chief executive, in relation to a department, means—
-  (a) if the department is constituted by an administrative unit or a part of an administrative unit—the chief executive of that administrative unit; or
-  (b) if the department is constituted by a group of 2 or more administrative units—the person prescribed as the responsible chief executive in relation to the department.
+responsible director-general, in relation to a directorate, means—
+  (a) if the directorate is constituted by an administrative unit or a part of an administrative unit—the director-general of that administrative unit; or
+  (b) if the directorate is constituted by a group of 2 or more administrative units—the person prescribed as the responsible director-general in relation to the directorate.
 responsible Minister means—
-  (a) in relation to a department that is constituted by an administrative unit or a part of an administrative unit—the Minister to whom responsibility for that administrative unit has been allocated under the Public Sector Management Act 1994, section 14; and
-  (b) in relation to a department that is constituted by a group of 2 or more administrative units—the Minister prescribed as the responsible Minister in relation to the department; and
+  (a) in relation to a directorate that is constituted by an administrative unit or a part of an administrative unit—the Minister to whom responsibility for that administrative unit has been allocated under the Public Sector Management Act 1994, section 14; and
+  (b) in relation to a directorate that is constituted by a group of 2 or more administrative units—the Minister prescribed as the responsible Minister in relation to the directorate; and
   (c) in relation to a territory authority—the Minister administering the Act under which the authority is established; and
   (d) in relation to a territory-owned corporation—the Minister administering the Territory-owned Corporations Act 1990.
 securities includes stocks, debentures, notes, bonds, promissory notes, bills of exchange, and any other securities approved in writing by the Treasurer.
