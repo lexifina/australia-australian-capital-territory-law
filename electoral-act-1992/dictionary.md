@@ -5,8 +5,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · administrative unit
 · adult
-· chief executive (see s 163)
 · Commonwealth
+· director-general (see s 163)
 · doctor
 · Executive
 · exercise
