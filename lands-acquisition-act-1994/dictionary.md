@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · Commonwealth
 · daily newspaper
+· director-general (see s 163)
 · disallowable instrument (see s 9)
 · Executive
 · exercise
