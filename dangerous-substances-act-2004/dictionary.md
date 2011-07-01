@@ -6,8 +6,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACT
 · administrative unit
 · ambulance service
-· chief executive
 · contravene
+· director-general (see s 163)
 · fail
 · fire brigade
 · found guilty
