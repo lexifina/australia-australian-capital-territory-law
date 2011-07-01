@@ -17,7 +17,7 @@ Example
 If a territory-owned corporation or subsidiary obtains credit by entering into a financing lease as part of its day-to-day operations, the transaction is not borrowing.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 company means a body corporate limited by shares that is a company for the Corporations Act.
-department—see the Financial Management Act 1996, dictionary.
+directorate—see the Financial Management Act 1996, dictionary.
 financing lease means a lease under which, in effect, the lessor transfers to the lessee substantially all the risks and benefits incident to ownership of the leased asset (whether or not ownership is, or is to be, transferred).
 group means a territory-owned corporation and any subsidiary.
 non-voting share means a share in a territory-owned corporation that is not a voting share.
