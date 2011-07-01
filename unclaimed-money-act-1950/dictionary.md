@@ -26,6 +26,6 @@ holder, for part 5 (Unclaimed RSA money)—see the Commonwealth Act, section 9.
 registered office—see the Corporations Act, section 9.
 RSA, for part 5 (Unclaimed RSA money)—see the Commonwealth Act, section 8.
 RSA provider, for part 5 (Unclaimed RSA money)—see the Commonwealth Act, section 12.
-trust account means the trust bank account maintained by the chief executive of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.
+trust account means the trust bank account maintained by the director-general of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.
 unclaimed amount, for part 3 (Unclaimed amounts payable by companies)—see section 6 (2).
 unclaimed RSA money, for part 5 (Unclaimed RSA money)—see section 26.
