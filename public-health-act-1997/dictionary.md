@@ -4,9 +4,9 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
 • ambulance service
-• chief executive (see s 163)
 • contravene
 • daily newspaper
+• director-general (see s 163)
 • doctor
 • document
 • exercise
