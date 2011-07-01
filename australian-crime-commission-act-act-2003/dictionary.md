@@ -2,20 +2,20 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· corporation
-· exercise
-· fail
-· function
-· give
-· in relation to
-· judge
-· law, of the Territory
-· may
-· under.
+• corporation
+• exercise
+• fail
+• function
+• give
+• in relation to
+• judge
+• law, of the Territory
+• may
+• under.
 Note 3 Terms used in this Act have the same meaning that they have in the Australian Crime Commission Act 2002 (Cwlth) (see Legislation Act, s 148). For example, the following terms are defined in the Australian Crime Commission Act 2002 (Cwlth), s 4:
-· legal practitioner
-· serious and organised crime
-· State.
+• legal practitioner
+• serious and organised crime
+• State.
 ACC Act means the Australian Crime Commission Act 2002 (Cwlth).
 Note That Act was originally known as the National Crime Authority Act 1984.
 ACC operation/investigation means—
@@ -23,7 +23,7 @@ ACC operation/investigation means—
   (b) an ACC Territory investigation.
 ACC Territory intelligence operation means an intelligence operation that the ACC is undertaking under section 8 (b) (Functions of ACC).
 ACC Territory investigation means an investigation that the ACC is conducting under section 8 (a) (Functions of ACC).
-authority includes a department, agency or body.
+authority includes an agency (however described) or body.
 board means the Board of the ACC.
 committee means the inter-governmental committee.
 Commonwealth body or person means—
@@ -43,7 +43,7 @@ intelligence operation means the collection, correlation, analysis or disseminat
 inter-governmental committee means the Inter-Governmental Committee mentioned in the ACC Act, section 8.
 issuing officer means—
   (a) a judge of the Federal Court; or
-  (b) a judge of the Supreme Court ; or
+  (b) a judge of the Supreme Court; or
   Note Judge is defined in the Legislation Act to mean a resident judge, additional judge or acting judge under the Supreme Court Act 1933 (see Legislation Act, dict, pt 1, def judge).
   (c) a federal magistrate.
 serious and organised crime means an offence—
