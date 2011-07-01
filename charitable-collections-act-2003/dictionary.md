@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · body
 · contravene
 · Corporation Act
+· director-general (see s 163)
 · entity
 · individual
 · law
