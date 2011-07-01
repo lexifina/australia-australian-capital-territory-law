@@ -16,7 +16,7 @@ accredited course means a course that—
   (b) for a vocational education and training course—is registered as an accredited course under chapter 3; and
   (c) for a higher education course—is registered as an accredited course under chapter 4.
 accreditation includes renewed accreditation.
-approved training contract means a training contract approved by the chief executive under section 55B (Approval of training contract).
+approved training contract means a training contract approved by the director-general under section 55B (Approval of training contract).
 AQF means the policy framework entitled ‘Australian Qualifications Framework’ that defines all qualifications (whether as defined under this Act or otherwise) recognised nationally in education and training within Australia, endorsed by MINCO to commence on 1 January 1995, as in force from time to time.
 AQTF means the policy framework entitled ‘Australian Quality Training Framework’ that defines the criteria and standards for the registration of training organisations and the accreditation of courses in the vocational education and training sector endorsed by MINCO on 8 June 2001, as in force from time to time.
 committee means a committee established by the council under section 21.
@@ -96,4 +96,4 @@ university means—
 university advisory panel—see section 85 (Establishment of panel).
 vocational education and training means the education and training and qualifications and statements of attainment under the vocational education and training provisions of the AQF.
 vocational education and training course means a course leading to a qualification or statement of attainment.
-work-related training means a sequence of vocational education and training that is determined by the chief executive under section 55A to be work-related training.
+work-related training means a sequence of vocational education and training that is determined by the director-general under section 55A to be work-related training.

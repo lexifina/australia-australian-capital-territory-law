@@ -17,7 +17,7 @@ column 1 item | column 2 Act provision | column 3 reviewable decision | column 4
 14 | 55B (3) | approving a training contract subject to conditions | applicant for approval
 15 | 55G (2) (a) (Party may ask for amendment) | approving an amendment of an approved training contract | each party to the contract
 16 | 55G (2) (b) | refusing to approve an amendment of approved training contract | each party to the contract
-17 | 55H (Chief executive may suspend, cancel or amend contract) | suspending or cancelling approval of a training contract | each party to the contract
+17 | 55H (Director-general may suspend, cancel or amend contract) | suspending or cancelling approval of a training contract | each party to the contract
 18 | 55H | amending an approved training contract | each party to the contract
 19 | 55I (5) (a) | making a finding of fact about a matter in relation to a training contract | each party to the contract
 20 | 55I (5) (b) | amending an approved training contract | each party to the contract
@@ -37,5 +37,5 @@ column 1 item | column 2 Act provision | column 3 reviewable decision | column 4
 34 | 93 (2) (a) (Review of operations of university) | amending declaration of establishment or recognition by imposing condition | university
 35 | 98 (2) (a) (Review of operations of foreign university) | amending approval by imposing conditions | university
 36 | 103 (2) (Obstructing visits—council) | suspending or cancelling registration | RTO or higher education provider
-37 | 103A (2) (Obstructing visits—chief executive) | suspending or cancelling approval of an approved training contract | each party to the contract
+37 | 103A (2) (Obstructing visits—director-general) | suspending or cancelling approval of an approved training contract | each party to the contract
 38 | 103A (2) | amending an approved training contract | each party to the contract
