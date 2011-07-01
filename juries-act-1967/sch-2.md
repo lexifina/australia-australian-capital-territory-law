@@ -16,9 +16,9 @@ column 1 item | column 2 exempt people
 12 | a person living in the Jervis Bay Territory
 13 | a judge or master of the Supreme Court
 14 | a member of the Legislative Assembly or a member of staff of a member of the Legislative Assembly who is an adviser or private secretary
-15 | a chief executive (in the public service)
+15 | a director-general
 16 | a public servant in the staff of the following: (a) the Supreme Court; (b) the Magistrates Court
-17 | a public servant providing legal professional services in the staff of any of the following: (a) the Department of Justice and Community Safety; (b) the Legal Aid Commission (A.C.T.); (c) the Office of the Director of Public Prosecutions
+17 | a public servant providing legal professional services in the staff of any of the following: (a) the Justice and Community Safety Directorate; (b) the Legal Aid Commission (A.C.T.); (c) the Office of the Director of Public Prosecutions
 18 | a person holding any of the following positions in the Legislative Assembly: (a) clerk; (b) deputy clerk; (c) clerk assistant; (d) sergeant-at-arms; (e) editor of debates; (f) secretary to a committee of the Assembly
 19 | an employee at any of the following places: (a) a place declared to be a detention place under the Children and Young People Act 2008, section 142; (b) a place approved as a place of care under the Children and Young People Act 2008, section 525; (c) a place declared to be a therapeutic protection place under the Children and Young People Act 2008, section 625
 20 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
