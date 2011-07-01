@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   · change
   · chief police officer
   · child
+  · director-general (see s 163)
   · entity
   · fail
   · function
