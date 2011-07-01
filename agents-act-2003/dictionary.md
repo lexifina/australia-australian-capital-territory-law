@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · corporation
 · Corporations Act
 · daily newspaper
+· director-general (see s 163)
 · entity
 · financial year
 · found guilty
