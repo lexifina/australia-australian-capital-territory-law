@@ -6,10 +6,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act (see s 7)
 · adult
 · child
-· chief executive
 · Chief Magistrate
 · chief police officer
 · correctional centre
+· director-general (see s 163)
 · domestic partner (see s 169 (1))
 · found guilty
 · indictable offence (see s 190 (1))
