@@ -3,10 +3,10 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
-· chief executive
 · chief planning executive
 · conservator of flora and fauna
 · daily newspaper
+director-general (see s 163)
 · entity
 · exercise
 · function
