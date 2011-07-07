@@ -23,14 +23,13 @@ connected with, for part 7 (Enforcement)—see section 38 (1).
 corresponding law, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 declaration of compliance, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 electrical installation—
-  (a) means electrical wiring or cable used or for use in carrying or controlling electricity (other than electricity with a voltage of not more than 50V a.c. or 120V ripple-free d.c.); and
-  (b) includes—
-    (i) a wiring system, switchgear, control gear, electrical accessory, electrical appliance, or fitting, that is used or for use in the conversion, storage, transmission, distribution or use of electrical energy and connected to wiring or cable; and
-    (ii) a switch, fuse, plug, socket outlet, lighting outlet, adaptor, ceiling rose or other device associated with wiring, a switchboard, or an appliance, mentioned in subparagraph (i); and
-    (iii) a consuming device in which electricity is converted into heat, motion or another form of energy, or is substantially changed in its electrical character; and
+  (a) means electrical wiring or cable used or for use in carrying or controlling electricity (other than electricity with a voltage of not more than 50V a.c. or 120V ripple-free d.c.), including the following:
+    (i) a wiring system, switchgear, control gear, generator, electrical accessory, electrical appliance, or fitting, that is used or for use in the conversion, storage, transmission, distribution, generation or use of electrical energy and connected to wiring or cable;
+    (ii) a switch, fuse, plug, socket outlet, lighting outlet, adaptor, ceiling rose or other device associated with wiring, a switchboard, or an appliance, mentioned in subparagraph (i);
+    (iii) a consuming device in which electricity is converted into heat, motion or another form of energy, or is substantially changed in its electrical character;
     (iv) support for electrical wiring or cable; but
-  (c) does not include—
-    (i) a generator or storage device supplying, or for the supply of, electricity to the installation; or
+  (b) does not include—
+    (i) a portable generator or storage device supplying, or for the supply of, electricity to the installation; or
     (ii) an appliance that receives, or is intended to receive, its main electricity supply through a socket connection; or
     (iii) a lamp; or
     (iv) an electricity network or part of a network; or
@@ -48,6 +47,13 @@ electricity network—see the Utilities Act 2000, section 7 (Electricity network
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
+generator includes a generator that generates electricity from any energy source.
+Examples—energy source
+1 the sun
+2 diesel fuel
+3 gas
+4 wind
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 inspector means a person appointed as an inspector under section 41.
 occupier, of premises, includes—
   (a) a person believed on reasonable grounds to be an occupier of the premises; and
