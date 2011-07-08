@@ -1,9 +1,10 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · bankrupt or personally insolvent
+· construction occupations registrar
 · contravene
 · daily newspaper
 · exercise
@@ -41,6 +42,7 @@ building action, for part 9 (Limitation of liability)—see section 140.
 building approval means a building approval under part 3.
 building code—see section 136 (1).
 building inspector means a person appointed under section 128.
+building surveyor—see the Constructions Occupations (Licensing) Act 2004, section 9.
 building work—
   (a) for Act—see section 6; but
   (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
@@ -62,6 +64,9 @@ easement, for part 4 (Stop and demolition notices)—see section 52.
 eligible entity, for division 3.2 (Certifiers and government certifiers)—see section 17.
 energy efficiency certificate—see section 139C (1).
 exempt building—see section 12.
+exemption assessment—see section 14.
+exemption assessment B notice—see section 14B.
+exemption assessment D notice—see the Planning and Development Act 2007, section 138D.
 fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 friable asbestos means asbestos, whether or not contained in other material, that—

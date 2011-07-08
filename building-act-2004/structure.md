@@ -1,5 +1,6 @@
 ## Part 1 Preliminary
 ## Part 2 Important concepts
+## Part 2A Exemption assessments
 ## Part 3 Building work
 ### Division 3.1 Preliminary
 ### Division 3.2 Certifiers and government certifiers
@@ -27,3 +28,4 @@
 ## Part 9A Notification and review of decisions
 ## Part 9B Powers of ACAT
 ## Part 10 Miscellaneous
+## Part 15 Transitional—Construction Occupations Legislation (Exemption Assessment) Amendment Act 2010
