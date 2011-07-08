@@ -24,7 +24,7 @@ authorised action, for part 4 (Rectification orders and other obligations on lic
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
 building assessor—see section 8A.
-building certification service—see section 9 (2).
+building certification service—see section 9 (3).
 building certifier—see the Building Act 2004, dictionary, definition of certifier.
 building service—see section 8 (2).
 building surveyor—see section 9.
