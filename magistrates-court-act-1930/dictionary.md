@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · judge
 · lawyer
 · proceeding.
+Aboriginal or Torres Strait Islander offender, for chapter 4C (Galambany Court)—see section 291L.
 administering authority, for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 another jurisdiction, for part 3.8 (Infringement notices for certain offences)—see section 117.
 appeal, for part 4.5 (Civil appeals)—see section 272.
@@ -18,6 +19,7 @@ authorised person—
   (b) for part 3.8 (Infringement notices for certain offences)—see section 134A (3).
 bailiff means a bailiff under this Act.
 certified copies, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
+circle sentencing, for chapter 4C (Galambany Court)—see section 291L.
 claim means a claim under the rules.
 committal order—see the Crimes (Sentence Administration) Act 2005, section 10.
 conviction—
@@ -31,6 +33,7 @@ decision, for chapter 3 (Criminal proceedings)—see section 18A.
 defendant—
   (a) for chapter 3 (Criminal proceedings)—see section 18A; and
   (b) for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
+domestic violence offence—see section 291H.
 driver, of a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
 fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 hearing includes the examination of a person charged with an indictable offence.
