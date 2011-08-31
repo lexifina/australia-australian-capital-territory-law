@@ -85,7 +85,7 @@ chief officer (rural fire service) means the chief officer (rural fire service) 
 chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004.
 chief planning executive means the Chief Planning Executive under the Planning and Development Act 2007.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
-chief solicitor means the chief solicitor under the Government Solicitor Act 1989.
+chief solicitor means the chief solicitor under the Law Officers Act 2011.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
 children and young people commissioner means the Children and Young People Commissioner under the Human Rights Commission Act 2005.
 Childrens Court means the Childrens Court under the Magistrates Court Act 1930, section 287.
@@ -200,7 +200,7 @@ gazette means—
   (b) for a notice or other information that must or may be notified or published in the gazette under the Public Sector Management Act 1994—an internet site approved by the commissioner for public administration.
 give, in relation to a function, includes impose.
 government printer includes anyone printing for or by the authority of the Executive.
-government solicitor means the Government Solicitor under the Government Solicitor Act 1989.
+government solicitor means the Government Solicitor for the Territory under the Law Officers Act 2011.
 Governor means—
   (a) for a State (other than the Northern Territory)—the Governor of the State, and includes a person administering the Government of the State; or
   (b) for the Northern Territory—the Administrator of the Northern Territory, and includes a person administering the Government of the Northern Territory.
@@ -389,6 +389,7 @@ signpost definition—see section 131 (Signpost definition).
 sitting day, of the Legislative Assembly, means a period that commences on a day the Assembly meets and continues until the Assembly next adjourns.
 Note A sitting day may continue for 1 or more days.
 solicitor means a lawyer who practises as a solicitor.
+solicitor-general means the Solicitor-General for the Territory under the Law Officers Act 2011.
 Speaker means the Presiding Officer of the Legislative Assembly.
 Note The Presiding Officer is elected under the Self-Government Act, s 11.
 Standards Australia means the company named Standards Australia International Limited (ACN 087 326 690).
