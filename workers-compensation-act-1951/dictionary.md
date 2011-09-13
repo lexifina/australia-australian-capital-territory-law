@@ -26,7 +26,7 @@ auditor means any of the following:
   (a) an auditor registered under the Corporations Act;
   (b) a member of the Institute of Chartered Accountants in Australia;
   (c) a member of CPA Australia;
-  (d) a member of the National Institute of Accountants.
+  (d) a member of the Institute of Public Accountants.
 average pre-incapacity weekly earnings means earnings worked out under—
   (a) for a worker who is not a contractor—section 21; or
   (b) for a worker who is a contractor—section 22.
