@@ -145,7 +145,7 @@ problem gambling assistance fund—see section 163B.
 proposed gaming area, in relation to an application—see section 11 (2) (b).
 prospective licensee, for division 2.6 (Transfer and surrender of licences)—see section 31 (1).
 qualified accountant means—
-  (a) a member of the Institute of Chartered Accountants in Australia, the National Institute of Accountants or the Australian Society of Certified Practising Accountants; or
+  (a) a member of the Institute of Chartered Accountants in Australia, the Institute of Public Accountants or the Australian Society of Certified Practising Accountants; or
   (b) a person registered as a registered company auditor under the Corporations Act.
 registered party—see the Electoral Act 1992, dictionary.
 relevant premises means the premises for which a person has applied for a licence.
