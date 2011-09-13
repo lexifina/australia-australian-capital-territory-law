@@ -1,23 +1,28 @@
 # Schedule 1 Formal requirements for units plans
-(see s 8)
+(see s 6)
 ## Part 1.1 General
-1 One copy of each sheet containing a diagram or diagrams must be of good quality tracing linen or other material approved by the registrar-general and other copies and other sheets must be of good quality paper or other material approved by the registrar-general.
-2 All sheets must be of the size known as International B4.
-3 All sheets must be free from discolouration and blemishes.
-4 The contents of a sheet must be written or drawn on 1 side only of the sheet.
-5 Sheets must not be creased or folded.
-6 The contents of a sheet must be so placed to leave a margin of at least 40mm on the left-hand side of the sheet and a margin of at least 15mm on each of the other 3 sides of the sheet.
-7 No printing, writing or diagram (other than the reference to the sheet number) must extend into a margin on the sheet.
-8 An alteration must be made by striking through the matter to be altered and not by rubbing, scraping or cutting the surface of the linen, paper or other material approved by the registrar-general.
-9 All writing must be legible and in ink.
-10 All sheets must be numbered consecutively starting with the figure 1 and on each sheet there must be stated the total number of sheets comprising the units plan.
+1 One copy of each hard copy sheet, electronic image or data set containing a diagram must be of good quality and in accordance with format requirements approved by the registrar-general.
+2 The approved format requirements may include requirements about—
+  (a) the following matters in relation to a hard copy sheet:
+    (i) the size of a page;
+    (ii) margin standards;
+    (iii) alteration standards;
+    (iv) the number of copies required;
+    (v) the page numbering standards; and
+  (b) the following matters in relation to an electronic image:
+    (i) the size of the image;
+    (ii) electronic formatting standards;
+    (iii) alteration standards;
+    (iv) page numbering standards; and
+  (c) in relation to a data set—page numbering standards.
+3 An approved format requirement is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
 ## Part 1.2 Requirements in relation to diagrams
-1 Each diagram must be drawn in waterproof Indian ink.
-2 Each diagram must be drawn to a scale sufficient to enable all details and notations to be clearly shown.
-3 The scale to which a diagram is drawn must be expressed as a ratio combined with a graphic bar scale.
-4 Each diagram must indicate, by an arrow or other appropriate means, the direction of North.
-5 All linear measurements must be shown in metres and decimal fractions of a metre.
-6 If necessary, a diagram may be started on 1 sheet and continued on a subsequent sheet and, in such a case, the diagrams must be so drawn that the complementary parts or lines on the several sheets show, when placed side by side, the complete diagram.
+1 Each diagram must be drawn to a scale sufficient to enable all details and notations to be clearly shown.
+2 The scale to which a diagram is drawn must be expressed as a ratio combined with a graphic bar scale.
+3 Each diagram must indicate, by an arrow or other appropriate means, the direction of North.
+4 All linear measurements must be shown in metres and decimal fractions of a metre.
+5 If necessary, a diagram may be started on 1 sheet and continued on a subsequent sheet and, in such a case, the diagrams must be so drawn that the complementary parts or lines on the several sheets show, when placed side by side, the complete diagram.
 ## Part 1.3 Numbering of units and unit subsidiaries
 1 Units must be numbered consecutively, starting with the figure 1.
 2 A unit subsidiary must be shown as having the same number as the unit to which it is appurtenant prefixed with the letter S.
