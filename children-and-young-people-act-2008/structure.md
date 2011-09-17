@@ -174,8 +174,14 @@
 ## Part 19.4 Witnesses and evidence
 ## Part 19.5 Orders
 ## Part 19.6 Costs
+# Chapter 19A Children and Young People Death Review Committee
+## Part 19A.1 Establishment and functions of committee
+## Part 19A.2 Meetings of committee
+## Part 19A.3 Register of deaths of children and young people
+## Part 19A.4 Annual reports about deaths of children and young people
 # Chapter 20 Childcare services
 ## Part 20.1 Childcare services—preliminary
+## Part 20.2 Childcare services—important concepts
 ## Part 20.3 Childcare services—offences
 ## Part 20.4 Childcare services—childcare service licences
 ### Division 20.4.1 Childcare service licences—application, eligibility, etc

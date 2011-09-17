@@ -104,6 +104,7 @@ childcare services standards—see section 887 (2) (e).
 childcare worker, for chapter 20 (Childcare services)—see section 728.
 child concern report, for part 11.1 (Care and protection—reporting abuse and neglect)—see section 353.
 children and young people employment standards—see section 887 (2) (f).
+children and young people deaths register—see section 727N.
 child welfare law, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 640.
 child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 638.
 child welfare proceeding, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 639.
@@ -120,6 +121,7 @@ controlling person, for a childcare service or proposed childcare service, for c
 court, for part 25.4 (Courts and investigative entities)—see section 864.
 court cell means a cell (however described) for the detention of a person at a court.
 criminal matters chapters—see section 91.
+CYP death review committee means the Children and Young People Death Review Committee established under section 727A.
 daily care responsibility—see section 19.
 dangerous thing, for part 16.3 (Children and young people in therapeutic protection)—see section 590.
 decision-maker includes any court exercising jurisdiction under this Act.
