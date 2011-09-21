@@ -4,7 +4,6 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · dental prosthetist
-· dental technician
 · dentist
 · doctor
 · Minister (see s 162)
@@ -14,7 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · pharmacist.
 exemption period—see section 5 (2).
 health care services means—
-  (a) services ordinarily provided by doctors, nurses, dentists, dental technicians, dental prosthetists, pharmacists, podiatrists, chiropractors, osteopaths, optometrists, physiotherapists or psychologists; or
+  (a) services ordinarily provided by doctors, nurses, dentists, dental prosthetists, pharmacists, podiatrists, chiropractors, osteopaths, optometrists, physiotherapists or psychologists; or
   (b) any other service prescribed by the regulations.
 notification procedure, for a special event—see section 5 (4).
 prescription medicine means a controlled medicine, or prescription only medicine, within the meaning of the Medicines, Poisons and Therapeutic Goods Act 2008.
