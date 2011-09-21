@@ -164,7 +164,7 @@ single loss amount, for part 4.4 (Compensation for permanent injuries)—see sec
 speech therapist means—
   (a) a person entitled to practise as a speech therapist under a law of the Territory, a State or another Territory; or
   (b) a person who is a member of the Australian Association for Speech and Hearing.
-statutory floor means the federal minimum wage decided from time to time by the Australian Industrial Relations Commission under the Workplace Relations Act 1996 (Cwlth).
+statutory floor, for part 4.3 (Weekly compensation)—see section 36G (1).
 substantial means real, actual or material.
 substantive law, for part 9.2 (Choice of law)—see section 182B.
 territorial sea, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
