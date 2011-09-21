@@ -35,6 +35,7 @@ authorised deposit-taking institution (or ADI) means an authorised deposit-takin
 bank means an authorised deposit-taking institution that is permitted under the Banking Act 1959 (Cwlth) to assume or use—
   (a) the word ‘bank’, ‘banker’ or ‘banking’; or
   (b) any other word (whether or not in English) similar in meaning to a word mentioned in paragraph (a).
+bank holiday means a day that is a bank holiday in the ACT under the Holidays Act 1958, section 4.
 bankrupt or personally insolvent—an individual is bankrupt or personally insolvent if the individual—
   (a) under the Bankruptcy Act 1966 (Cwlth)—
     (i) is bankrupt; or
@@ -61,7 +62,7 @@ building society means an authorised deposit-taking institution that is permitte
   (b) any other term (whether or not in English) similar in meaning.
 business day means a day that is not—
   (a) a Saturday or Sunday; or
-  (b) a public holiday or bank holiday in the ACT under the Holidays Act 1958.
+  (b) a public holiday or bank holiday in the ACT.
 by regulation includes under a regulation.
 Note See also def under, in relation to an Act or statutory instrument.
 by-law, in relation to an Act, means a by-law made or in force under the Act.
@@ -132,7 +133,6 @@ definition—see section 130.
 dental prosthetist—
   (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise the health profession of dental prosthetist (other than as a student); and
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
-dental technician means a person registered as a dental technician under the Health Professionals Act 2004.
 dentist—
   (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise the health profession of dentist (other than as a student); and
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
@@ -347,6 +347,7 @@ public employee means—
   (b) a person employed by a territory instrumentality; or
   (c) a statutory office-holder or a person employed by a statutory office-holder.
 public health officer means a public health officer under the Public Health Act 1997.
+public holiday means a day that is a public holiday in the ACT under the Holidays Act 1958, section 3.
 public money, of the Territory, means revenues, loans and other money received by the Territory.
 public servant means a person employed in the public service.
 public service means the Australian Capital Territory Public Service.
@@ -449,7 +450,7 @@ will includes a codicil.
 word includes any drawing, figure, number and symbol.
 working day means a day that is not—
   (a) a Saturday or Sunday; or
-  (b) a public holiday in the ACT under the Holidays Act 1958.
+  (b) a public holiday in the ACT.
 work safety commissioner means the Work Safety Commissioner under the Work Safety Act 2008.
 writing includes any way of representing or reproducing words in visible form.
 Examples
