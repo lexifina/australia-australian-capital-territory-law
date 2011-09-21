@@ -12,12 +12,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · function
 · in relation to
+· public holiday
 · public servant
 · quarter
 · reviewable decision notice
 · State
 · the Territory.
-at premises includes in or on the premises.
+at premises, for part 8 (Enforcement)—see section 70.
 authority—see section 16.
 building and construction industry—see schedule 1, section 1.3.
 building and construction work—see schedule 1, section 1.2.
@@ -38,11 +39,12 @@ decision-maker, for a reviewable decision, for part 9 (Notification and review o
 employee—see section 9.
 employer—see section 7.
 employers register—see section 30.
-governing board means the governing board of the authority.
+governing board means the governing board of the authority established under section 20.
 long service leave formula—
   (a) for the building and construction industry—see schedule 1, section 1.5; and
   (b) for the contract cleaning industry—see schedule 2, section 2.5; and
   (c) for the community sector industry—see schedule 3, section 3.6.
+occupier, for part 8 (Enforcement)—see section 70.
 ordinary remuneration, for a person, means the amount paid or payable to the person for work, other than any amounts for—
   (a) overtime; or
   (b) expenses incurred by the person; or
@@ -62,4 +64,4 @@ service, for a registered worker for a covered industry, means service in the co
 service period, for a registered worker for a covered industry—see section 12.
 worker—see section 8.
 workers register—see section 39.
-working director means a person who is both a director and a employee of a company.
+working director means a person who is both a director and an employee of a company.
