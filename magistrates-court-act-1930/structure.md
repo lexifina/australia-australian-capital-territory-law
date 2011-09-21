@@ -24,7 +24,6 @@
 ### Division 3.4.4 Committal and recognisance
 ### Division 3.4.5 Adjournment of criminal proceedings
 ## Part 3.5 Proceedings for indictable offences
-### Division 3.5.1 Preliminary
 ### Division 3.5.2 Indictable offences—beginning of proceedings
 ### Division 3.5.3 Indictable offences—proceedings after hearing of evidence
 ### Division 3.5.4 Indictable offences—costs
