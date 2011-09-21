@@ -34,6 +34,15 @@ community pharmacy, for part 9 (Pharmacists and pharmacy premises)—see section
 core conditions, for part 7 (VMO service contracts)—see section 100.
 council means the Local Hospital Network Council established under section 13.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
+dental technical work means work involving the making, altering, repairing or maintaining of dental prosthetic appliances.
+Example—dental technical work
+shade-taking for dental prosthetic appliances
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+dental technician means a person who does dental technical work and either—
+  (a) is a graduate of a course of education in dental technical work accredited by the Council of Regulating Authorities for Dental Technicians and Dental Prosthetists (CORA); or
+  (b) has—
+    (i) completed a course of education or training in dental prosthetic work outside Australia that is accredited by CORA; and
+    (ii) passed an exam in dental prosthetic work accredited by CORA.
 dentist, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
 divulge, for part 8 (Secrecy)—see section 121.
 doctor, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
@@ -58,7 +67,7 @@ ministerial report, for part 4 (Quality assurance)—section 41.
 negotiating agent, for part 7 (VMO service contracts)—see section 100.
 negotiating period, for part 7 (VMO service contracts)—see section 103 (2).
 practice corporation, for part 7 (VMO service contracts)—see section 100.
-protected information—see section 123.
+protected information, for part 8 (Secrecy)—see section 123.
 quality assurance committee—see section 24.
 review, in relation to the scope of clinical practice, for part 5 (Reviewing scope of clinical practice)—see section 55.
 scope of clinical practice, of a doctor or dentist, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 54.
