@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · must (see s 146)
 · notifiable instrument (see s 10)
 · penalty unit (see s 133)
+· public holiday
 · sign.
 Aboriginal person or Torres Strait Islander means a person who—
   (a) is a descendant of an Aboriginal person or Torres Strait Islander; and
