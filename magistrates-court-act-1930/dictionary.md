@@ -1,15 +1,49 @@
 # Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· corrections officer
+Note 2 For example, the Legislation Act, pt 1 defines the following terms:
+· ACAT
+· ACT
+· adult
+· Attorney-General
+· child
+· correctional centre
+· Commonwealth
+· Criminal Code
 · director-general (see s 163)
+· director of public prosecutions
+· disallowable instrument (see s 9)
+· document
+· Executive
+· exercise, a function
+· external territory
+· fail
+· file
 · function
 · home address
+· individual
+· in relation to
+· instrument (see s 14)
 · judge
 · lawyer
-· proceeding.
+· may (see s 146)
+· month
+· must
+· notifiable instrument (see s 10)
+· NSW correctional centre
+· oath
+· parent
+· penalty unit (see s 133)
+· police officer
+· prescribed
+· proceeding
+· sign
+· summary offence (see s 190)
+· statutory declaration
+· territory law
+· under.
 Aboriginal or Torres Strait Islander offender, for chapter 4C (Galambany Court)—see section 291L.
+ACT court, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 administering authority, for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 another jurisdiction, for part 3.8 (Infringement notices for certain offences)—see section 117.
 appeal, for part 4.5 (Civil appeals)—see section 272.
@@ -18,14 +52,16 @@ authorised person—
   (a) for division 3.3.3A (Court attendance notices)—see section 41A; and
   (b) for part 3.8 (Infringement notices for certain offences)—see section 134A (3).
 bailiff means a bailiff under this Act.
-certified copies, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
+certified copy, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
 circle sentencing, for chapter 4C (Galambany Court)—see section 291L.
 claim means a claim under the rules.
 committal order—see the Crimes (Sentence Administration) Act 2005, section 10.
 conviction—
   (a) means conviction by a magistrate for an offence; and
   (b) for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
+corresponding court, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 court means the Magistrates Court.
+court, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 court attendance notice, for division 3.3.3A (Court attendance notices)—see section 41B.
 Crimes Act, for chapter 3 (Criminal proceedings)—see section 18A.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, for part 3.8 (Infringement notices for certain offences)—see section 117.
@@ -41,10 +77,13 @@ illegal user declaration, for part 3.8 (Infringement notices for certain offence
 indictable offence means an offence that may be prosecuted before the Supreme Court by charge or indictment.
 indictment means an information for an indictable offence presented by an authorised officer to a court with jurisdiction to try the accused person.
 information includes a complaint brought to enforce a criminal penalty or forfeiture under a territory law.
-infringement notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
+infringement notice—
+  (a) for part 3.8 (Infringement notices for certain offences)—see section 117; and
+  (b) for division 3.8.3 (Additional provisions for vehicle-related offences)—see section 131A.
 infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 infringement notice penalty, for a person for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
-jury, for part 3.5 (Proceedings for indictable offences)—see section 88A.
+judicial exchange arrangement, for division 2.2.3A (Judicial officers exchange)—see section 9C.
+judicial officer, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 known offender declaration, for part 3.8 (Infringement notices for certain offences)—see section 131E.
 law in force in the ACT, for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
 magistrate—
@@ -52,22 +91,27 @@ magistrate—
   (b) for division 2.2.1 (Magistrates other than special magistrates)—see section 6.
 notice of intention to defend form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 notice to defendant form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
+participating jurisdiction, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 plea of guilty form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 prescribed offence, for part 3.7 (Service and pleading by post for certain offences)—see section 116AA.
+prescribed period, for division 3.4.2 (Warrants for witnesses)—see section 62.
 reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reference appeal, for division 3.10.2A (Reference appeals in criminal matters)—see section 219AB (2).
 registered, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
 registrar means the registrar of the Magistrates Court, and includes a deputy registrar of the court.
 relevant officer, in relation to a reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reminder notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
+reporting officer, for division 3.4.2 (Warrants for witnesses)—see section 62.
 responsible person, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (General) Act 1999, section 10 and section 11.
-review appeal, for division 1.10.3 (Review appeals in criminal matters)—see section 219B (1).
+review appeal, for division 3.10.3 (Review appeals in criminal matters)—see section 219B (1).
 rules means rules under the Court Procedures Act 2004 applying in relation to the Magistrates Court.
 security—for part 3.12 (Securities in criminal matters)—see section 248.
 sold vehicle declaration, for part 3.8 (Infringement notices for certain offences)—see section 131F.
 State, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 summary conviction means conviction by a magistrate for an offence.
 territory fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
+this jurisdiction, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 unknown offender declaration, for part 3.8 (Infringement notices for certain offences)—see section 131G.
 vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 vehicle-related offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
+warrant, for division 3.4.2 (Warrants for witnesses)—see section 62.
