@@ -20,7 +20,6 @@ decision-making principles—see section 4.
 domestic partner, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 electroconvulsive therapy—see the Mental Health (Treatment and Care) Act 1994, section 55.
 enduring power of attorney—see the Powers of Attorney Act 2006, section 8.
-executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 general president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 guardian means someone who is a guardian under any of the following sections:
 section 7 (Appointment and powers of guardians)
@@ -40,7 +39,6 @@ manager means a manager under any of the following sections:
 · section 32 (Surviving or substitute guardians etc).
 medical treatment, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 mental illness—see the Mental Health (Treatment and Care) Act 1994, dictionary.
-neurosurgery means surgery on the brain of a person for the purpose of treating a pathological condition of the physical structure of the brain.
 non-regenerative tissue—see the Transplantation and Anatomy Act 1978, dictionary.
 power of attorney, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 prescribed medical procedure means—
