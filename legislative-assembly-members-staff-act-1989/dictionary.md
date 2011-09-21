@@ -3,10 +3,12 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Chief Minister
+· director-general (see s 163)
 · disallowable instrument
 · domestic partner (see s 169 (1))
-· Executive instrument
-· sitting day.
+· individual
+· Minister
+· Speaker.
 Assembly means the Legislative Assembly.
 classification—see the PSM Act, dictionary.
 commissioner—see the PSM Act, dictionary.
@@ -24,7 +26,7 @@ office-holder means—
   (a) a Minister; or
   (b) the Speaker of the Assembly; or
   (c) a person in respect of whom a determination by the Chief Minister under section 4 or 16 is in force.
-officer—see the PSM Act.
+officer—see the PSM Act, dictionary.
 part 2 employee means a person employed under part 2.
 part 3 employee means a person employed under part 3.
 pensioner means—
