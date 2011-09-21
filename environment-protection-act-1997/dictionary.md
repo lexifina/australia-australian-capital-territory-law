@@ -5,18 +5,26 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · daily newspaper
 · director-general (see s 163)
+· disallowable instrument (see s 9)
 · exercise
 · function
 · heritage register
+· indictable offence (see s 190)
 · Minister (see s 162)
+· national capital plan
+· notifiable instrument (see s 10)
+· penalty unit (see s 133)
 · public employee
+· public holiday
 · public servant
 · reviewable decision notice
 · State.
 activity means a current or proposed activity including a process, operation, project, venture or business.
+airgun, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 analyst means an analyst under section 15.
 appropriate person means the appropriate person under section 91I.
 approved use, for division 9.5 (Assessment and remediation)—see section 91A.
+aquifer, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 area of high conservation value means—
   (a) an area identified in the territory plan as—
     (i) a wilderness area; or
@@ -26,14 +34,21 @@ area of high conservation value means—
   (b) a place, other than a structure or group of structures, registered under the Heritage Act 2004; or
   (c) the area identified in the territory plan as the river corridor zone for the Murrumbidgee River; or
   (d) any other prescribed area.
-AS 4013, for schedule 2 (Specific offences)—see section 2.1.
+AS 4013, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 assessment means an assessment made under the Land Act, division 4.3.
 assessment order, for part 9 (Environmental protection)—see section 91J.
 auditor, for division 9.2 (Environmental audits)—see section 73.
 authorisation fee, for an environment authorisation, means the fee payable in relation to the authorisation.
 authorised activity means an activity in relation to which there is an environmental authorisation.
+authorised concert venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+authorised motor racing venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 authorised officer means an authorised officer under section 14 (3).
 authority means the Environment Protection Authority under section 11.
+blank fire firearm, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+bore, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+clinical waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+concert, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+concert venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 conduct includes acts and omissions.
 connected, for part 11 (Powers of authorised officers)—see section 95.
 consultation period, for part 4 (Environment protection policies)—see section 23B.
@@ -63,23 +78,22 @@ environmental nuisance means an unreasonable interference with the enjoyment by 
   (b) an unhealthy, unsightly or otherwise offensive condition because of pollution.
 environmental protection agreement means an environmental protection agreement under section 38.
 environmental record means the environmental record of a person both in the ACT and elsewhere, and includes any action taken by the person for this Act.
-environment improvement initiative means—
-  (a) an environmental protection agreement that has as 1 of its terms a requirement that a party comply with a code of practice accredited under section 31; or
-  (b) an environmental improvement plan accredited under section 72; or
-  (c) a prescribed standard of the International Organization for Standardization; or
-  (d) a prescribed initiative.
+environmental standards, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 environment protection order means an environment protection order under section 125.
 environment protection policy—
   (a) for this Act generally—means an environment protection policy under part 4 (Environment protection policies); and
   (b) for part 4—see section 23B.
 Note A reference to an instrument (including a policy) includes a reference to the instrument as originally made and as amended (see Legislation Act, s 102).
 financial assurance means a financial assurance under section 85.
-financial controller means a receiver, manager or other person who has possession or control of land for the purpose of realising part or all of the value of the land to discharge an obligation secured over the land.
-fuel-burning equipment, for schedule 2 (Specific offences)—see section 2.1.
+firearm, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+fuel-burning equipment, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 general environmental duty means the duty of care described in section 22 (1).
+ground water, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 information discovery order means an information discovery order under section 133.
-inquiry means an inquiry conducted under the Planning and Development Act 2007, part 8.3 (Inquiry panels).
+inquiry, for part 10 (Functions of the Minister)—see the Planning and Development Act 2007, section 206 (Definitions—ch 8).
 land includes water on or below the surface of land and the bed of such water.
+live animal weight, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+logging, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 material environmental harm means environmental harm—
   (a) that is significant, including environmental harm that becomes significant—
     (i) over time; or
@@ -88,23 +102,13 @@ material environmental harm means environmental harm—
   (b) that is to an area of high conservation value, other than harm that is trivial or negligible; or
   (c) that results in loss or damage to property to the value of more than $5 000; or
   (d) that results in necessary remedial action costing more than $5 000.
+mobile plant, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+motor racing event, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
-national capital plan means the national capital plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), part 3.
+National Electricity (ACT) Law, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 national environment protection measure, for division 9.5 (Assessment and remediation)—see section 91A.
-national scheme laws means—
-  (a) the National Environment Protection Council Act 1994 (Cwlth); and
-  (b) the National Environment Protection Council Act 1994.
-notional lessee, in relation to land, means a person who has vested rights in relation to the land that—
-  (a) carry an entitlement to have the lease transferred to that person; or
-  (b) enable the person to dispose of or otherwise deal with the land;
-so that the person is able to benefit from the value of the lease, or a substantial part of it, by the transfer, disposal or dealing, and includes a mortgagee in possession of the land the subject of the lease, but does not include—
-  (c) a person having security over the lease; or
-  (d) a person who is a legal personal representative of a person who was the lessee of the land immediately before the appointment of the representative took effect or who was a lessee of the land immediately before his or her death; or
-  (e) the public trustee because of the operation of the Public Trustee Act 1985, section 19; or
-  (f) a person who would otherwise be a notional lessee if—
-    (i) the person has some security of the lease; and
-    (ii) the person, or a financial controller appointed by the person, has entered into a contract to sell the land for the purpose of realising all or part of the value of the land to discharge an obligation so secured.
 offence, for part 11 (Powers of authorised officers)—see section 95.
+paintball marker, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 pollutant means—
   (a) a gas, liquid or solid; or
   (b) dust, fumes, odour or smoke; or
@@ -120,7 +124,9 @@ prescribed activity means—
   (a) a class A activity listed in schedule 1, section 1.2; or
   (b) a class B activity listed in schedule 1, section 1.3; or
   (c) an activity in relation to which a person has been given a notice under section 43 (1).
+receiving waters, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 register means the register kept under section 21A.
+regulated waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 remediation, in relation to contaminated land, includes—
   (a) preparing a long-term management plan (if any) for the land; and
   (b) removing, dispersing, destroying, reducing, mitigating or containing the contamination of the land; and
@@ -128,9 +134,10 @@ remediation, in relation to contaminated land, includes—
 remediation order, for part 9 (Environmental protection)—see section 91J.
 residential premises—
   (a) for part 11 (Powers of authorised officers)—see section 95; and
-  (b) for schedule 2 (Specific offences)—see section 2.1.
+  (b) for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 reviewable decision, for part 14 (Notification and review of decisions)—see section 135.
-sell, for schedule 2 (Specific offences)—see section 2.1.
+road transport legislation, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+sell, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 serious environmental harm means environmental harm—
   (a) that is very significant, including environmental harm that becomes very significant—
     (i) over time; or
@@ -142,7 +149,14 @@ serious environmental harm means environmental harm—
     (iii) due to its cumulative effect with other relevant events; or
   (c) that results in loss or damage to property to the value of more than $50 000; or
   (d) that results in necessary remedial action costing more than $50 000.
-site audit statement means a written statement of the findings of an environmental audit conducted by an auditor for division 9.5 for assessment for, or remediation of, contaminated land.
-solid fuel-burning equipment, for schedule 2 (Specific offences)—see section 2.1.
+solid fuel-burning equipment, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
+stock, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+stormwater, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+stormwater system, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 substance, for division 9.5 (Assessment and remediation)—see section 91A.
+waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+wastewater, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+water, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+waterway, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 working day means a day other than a Saturday, a Sunday, a public holiday or a day that is a holiday for public servants.
+year, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.

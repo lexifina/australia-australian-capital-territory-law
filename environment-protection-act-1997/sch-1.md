@@ -10,10 +10,7 @@ airgun means a firearm, other than a paintball marker, that—
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised concert venue means a concert venue where the holder of an environmental authorisation for the conduct of outdoor concert activities is authorised to conduct such an activity.
 authorised motor racing venue means a motor racing venue where the holder of an environmental authorisation for the conduct of motor racing events is authorised to conduct such an activity.
-blank fire firearm means a device that is designed for firing blank cartridges only.
-Example
-a starting pistol
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+blank fire firearm—see the Firearms Act 1996, dictionary.
 bore means a bore, hole, well, excavation or other opening in the ground or an underground cavity (whether occurring naturally or having been artificially constructed or modified)—
   (a) that is used, or is capable of being used, to intercept or collect ground water; or
   (b) from which ground water is, or is capable of being, obtained or used; or
@@ -121,7 +118,7 @@ column 1 item | column 2 activity
 44 | the sale or supply in the ACT of firewood to the person who uses it, unless— (a) the quantity of firewood sold or supplied is less than 100kg; or (b) the firewood is sold under a scheme in which an annual fee is paid for the right to collect waste softwood in pine plantations
 45 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 44
 46 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
-47 | the operation of a firearm shooting range Note A regulation under the Firearms Act 1996 may provide for the licensing of an entity to operate an approved shooting range (see s 273). An approved shooting range is a shooting range approved by the registrar as prescribed by a regulation under the Firearms Act 1996.
+47 | the operation of a firearm shooting range Note A person commits an offence if the person operates a shooting range other than an approved shooting range. Also, a person commits an offence if the person operates an approved shooting range and is not licensed to operate the shooting range (see Firearms Act 1996, s 224).
 ## 1.3 Class B activities
 For section 42, the following activities are class B activities:
 Table 1.3
