@@ -12,11 +12,12 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · exercise
 · fail
 · function
-· judge
+· home address
 · lawyer
+· public holiday
 · reviewable decision notice
 · Self-Government Act
-· Speaker
+· Speaker (except for parts 13 and 16)
 · State
 · statutory office-holder
 · territory instrumentality
@@ -62,7 +63,7 @@ continuing candidate—
 contravention, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 count, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 count votes, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1A.
-Court of Disputed Elections—see section 252 (2).
+Court of Disputed Elections, for part 16 (Disputed elections, eligibility and vacancies)—see section 252 (2).
 declaration vote means a vote cast in accordance with any of the following provisions:
   (a) section 135 (Declaration voting at polling places);
   (b) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
@@ -112,10 +113,6 @@ hour of nomination—see section 108.
 internally reviewable decision, for part 15 (Notification and review of decisions)—see section 245.
 internal review notice—see section 244.
 investigation notice, for division 14.7 (Compliance)—see section 235.
-judge means—
-  (a) a judge of the Supreme Court; or
-  (b) a judge of the Supreme Court of a State or another Territory; or
-  (c) a judge of the Federal Court or Family Court.
 member, for division 2.2 (Members of electoral commission)—see section 11.
 MLA means a member of the Assembly.
 newspaper means a newspaper circulating in the ACT.
@@ -144,9 +141,9 @@ polling day—
   (b) except in part 8 (Timing of elections) and part 9 (Arrangements for elections), includes—
     (i) if the time for holding an election is extended under section 159 for more than 1 day—each of those days; and
     (ii) if polling is suspended under section 160—a day when polling is resumed.
-polling place means a place appointed as a polling place under section 119 (Polling places and scrutiny centres), and, for division 17.3 (Campaigning offences), includes—
-  (a) a place where a vote may be made before an officer under section 136B (Ordinary or declaration voting in ACT before polling day) or section 136C (Declaration voting outside ACT on or before polling day); and
-  (b) a place where mobile polling is taking place under division 10.5 (Mobile polling).
+polling place—
+  (a) for the Act—means a place appointed as a polling place under section 119 (Polling places and scrutiny centres); and
+  (b) for division 17.3 (Campaigning offences)—see section 291.
 post, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 postal vote means a declaration vote to which section 144A (Requirements for casting postal votes) applies.
 pre-election period means the period of 37 days ending on the end of polling day for an election.
@@ -173,6 +170,7 @@ return, for division 14.7 (Compliance)—see section 235.
 returning officer, for part 11 (Polling in Antarctica)—see section 167.
 reviewable decision, for part 15 (Notification and review of decisions)—see section 245.
 roll means a roll of electors kept under this Act.
+Note Part 5 contains provisions about the keeping of electoral rolls.
 scrutineer means a person appointed under section 122 to be a scrutineer.
 scrutiny centre means a place appointed as a scrutiny centre under section 119.
 secretary, in relation to a political party, means the secretary or chief administrative officer (however described) of the party.
