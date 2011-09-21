@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • bankrupt or personally insolvent
 • document
 • home address
+• public holiday
 • registrar-general
 • reviewable decision notice.
 accounting records includes invoices, receipts, orders for the payment of money, bills of exchange, cheques, promissory notes, vouchers and other documents of prime entry, books and records which record documents of prime entry, and any working papers and documents that are necessary to explain the methods and calculations by which accounts are made up.
@@ -13,15 +14,11 @@ annual general meeting, in relation to an incorporated association, means a meet
 annual return means a statement referred to in section 79 (1) (a).
 approved form means a form approved by the registrar-general under section 126 (Approved forms).
 authorised person means a person authorised to apply for the incorporation of an association or proposed association under section 16 (a).
-banker’s books means—
-  (a) books of a banking corporation including any documents used in the ordinary business of a banking corporation; and
-  (b) cheques, orders for the payment of money, bills of exchange and promissory notes in the possession or under the control of a banking corporation; and
-  (c) securities or documents of title to securities in the possession or under the control of a banking corporation whether by way of pledge or otherwise.
 banking corporation means a bank, building society or credit union.
-books includes any register or other record of information and any accounts or accounting records, however compiled, recorded or stored and any other document.
-books, for part 8 (Investigation of association’s affairs)—see section 99.
+books—
+  (a) for this Act generally—includes any register or other record of information and any accounts or accounting records, however compiled, recorded or stored and any other document; and
+  (b) for part 8 (Investigation of association’s affairs)—see section 99 (1).
 certificate of incorporation means a certificate of incorporation issued under section 19, section 27 or section 38 (3).
-commencement date means 1 January 1992.
 committee, in relation to an association, means the committee of the association established under section 60 (1).
 company limited by guarantee, for part 6 (Transfer of incorporation)—see section 81.
 court means the Supreme Court or the Magistrates Court.
@@ -44,7 +41,7 @@ public officer, in relation to an incorporated association, means the person app
 purport—
   (a) to enter into a contract, for division 3.6 (Contracts)—see section 42; and
   (b) to execute a contract, for division 3.6 (Contracts)—see section 42.
-repealed Act means the Associations Incorporation Act 1953 as in force from time to time before the commencement date.
+repealed Act means the Associations Incorporation Act 1953 as in force from time to time before 1 January 1992.
 reproduction, in relation to a document, means—
   (a) a machine-copy of the document; or
   (b) a print made from the negative of the document; or
