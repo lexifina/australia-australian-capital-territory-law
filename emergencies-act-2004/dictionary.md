@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · ACT
 · administrative unit
+· adult
 · appoint
 · bankrupt or personally insolvent
 · chief health officer
@@ -12,15 +13,24 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · chief police officer
 · conservator of flora and fauna
 · contravene
+· Criminal Code
 · daily newspaper
 · director-general (see s 163)
+· disallowable instrument
 · entity
+· Executive
 · exercise
+· fail
 · function
 · give
 · home address
+· may
 · Minister (see s 162)
+· must
+· notifiable instrument
+· penalty unit
 · planning and land authority
+· police officer
 · reviewable decision notice
 · statutory office-holder
 · territory-owned corporation
@@ -56,8 +66,8 @@ commissioner means the ACT Emergency Services Commissioner.
 commissioner’s guidelines—see section 11 (1) (Commissioner may make guidelines).
 community communication and information plan means the community communication and information plan mentioned in section 149.
 conservator means the conservator of flora and fauna.
-contributor, to a health fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
-cooperative arrangement—see section 176 (Cooperative arrangements with Commonwealth, State or overseas agencies).
+contributor, to a health benefits fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
+cooperative arrangement—see section 176.
 declared state of alert means a state of alert declared under section 151 (Declaration of state of alert).
 declared state of emergency means a state of emergency declared under section 156 (Declaration of state of emergency).
 emergency means an actual or imminent event that requires a significant and coordinated response.
