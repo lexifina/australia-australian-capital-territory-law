@@ -14,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · sitting day
 · State
 · the Territory.
+approved negotiation, for part 5A (Dispute resolution)—see section 35A.
 approved records management program, for division 8.3 (Records management—legal services records)—see section 69A.
 assistant, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 assistant executive officer means an Assistant Executive Officer of the commission.
@@ -23,6 +24,7 @@ chief executive officer means the Chief Executive Officer of the commission.
 commission means the legal aid commission established by section 6.
 commissioner means a member of the board appointed under section 16.
 consultative committee means a consultative committee established under part 11.
+convener, for part 5A (Dispute resolution)—see section 35A.
 director of territory records, for division 8.3 (Records management—legal services records)—see section 69A.
 duty lawyer services means legal services provided by a legal practitioner attending at a proceeding of a court or tribunal, being legal services consisting of appearing on behalf of a person at, or giving legal advice to a person in connection with, the proceeding, otherwise than by prior arrangement with the person.
 fund means the legal aid fund established by section 41.
@@ -36,6 +38,7 @@ legally assisted person means a person to whom legal assistance is provided unde
 legal services record, for division 8.3 (Records management—legal services records)—see section 69A.
 member of a review committee includes a deputy of a member of a review committee.
 member of the staff of the commission means a person employed under section 20.
+negotiation session, for part 5A (Dispute resolution)—see section 35A.
 officer of the commission means a statutory officer of the commission or a member of the staff of the commission.
 practising certificate means an unrestricted practising certificate, a restricted practising certificate or a barrister practising certificate under the Legal Profession Act 2006.
 prescribed matter, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
