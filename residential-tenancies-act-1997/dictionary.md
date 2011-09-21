@@ -1,21 +1,44 @@
 # Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note 2 For example, the Legislation Act, pt 1 defines the following terms:
 · ACAT
+· administrative unit
+· adult
+· calendar month
+· child
+· commissioner for fair trading
 · corporation
+· Criminal Code
 · director-general (see s 163)
+· disallowable instrument (see s 9)
+· document
+· domestic partner (see s 169 (1))
 · entity
-· exercise
-· functions
-· State
+· Executive
+· expire
+· fail
+· housing commissioner
+· individual
+· in relation to
+· instrument (see s 14)
+· may (see s 146)
+· Minister
+· month
+· must
+· notifiable instrument (see s 10)
+· oath
+· penalty unit (see s 133)
+· police officer
+· prescribed
+· public holiday
+· sign
+· statutory instrument
 · under.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
-asbestos advice—see the Dangerous Substances Act 2004, section 47J.
-asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
 commissioner means the commissioner for fair trading.
-conditional termination and possession order means a termination and possession order under section 49 (3).
+conditional termination and possession order means a termination and possession order under section 49 (4).
 crisis accommodation—see section 126.
 energy efficiency rating means the energy efficiency rating contained in an energy efficiency rating statement.
 energy efficiency rating statement—see the Construction Occupations (Licensing) Act 2004, section 123AC.
@@ -27,7 +50,7 @@ lessor—see section 5.
 mobile home means a dwelling (whether on wheels or not) that can be transferred from place to place and re-erected.
 mobile home park means land lawfully used for the purpose of accommodating mobile homes or caravans, and includes a caravan park or camping ground.
 occupancy agreement—see section 71C.
-occupancy dispute, for part 6 (Resolution of residential tenancy and occupancy disputes)—see section 73.
+occupancy dispute—see section 73.
 occupancy principles—see section 71E.
 occupant—see section 71B.
 periodic agreement means a residential tenancy agreement that is not a fixed term agreement.
@@ -40,7 +63,7 @@ registrar means the registrar of the ACAT.
 residential tenancy agreement—see section 6A.
 standard occupancy terms means the standard occupancy terms (if any) prescribed by regulation.
 standard residential tenancy terms means the terms mentioned in schedule 1.
-tenancy database—see section 107B.
+tenancy database, for part 6A (Tenancy databases)—see section 107B.
 tenancy dispute—see section 72.
 tenant—see section 6.
 termination and possession order means an order of the tribunal terminating a residential tenancy agreement and granting vacant possession of the relevant premises to the applicant for the order.
