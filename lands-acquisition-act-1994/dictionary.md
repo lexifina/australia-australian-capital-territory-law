@@ -15,7 +15,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · territory authority
 · territory land
-· the Territory.
+· the Territory
+· working day.
 acquiring authority—
   (a) for this Act generally—means any of the following:
     (i) the Executive;
@@ -51,7 +52,6 @@ mortgage interest means the interest in land of a mortgagee under a mortgage.
 mortgagor, in relation to a mortgage, means the person who is or was the owner of the interest in land subject to the mortgage.
 planning instrument means an instrument made under a Territory or Commonwealth law that relates to town planning or use of land.
 pre-acquisition declaration means a declaration under section 19 (1).
-public park means land that, under a Territory law, is dedicated or reserved, or is vested in trustees, as a public park or national park or otherwise for the purposes of public recreation.
 public purpose means a purpose in respect of which the Legislative Assembly or the Commonwealth Parliament has power to make laws.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 104AA.
 Territory authority means an authority that is incorporated under a Territory law, not being a body that is declared by the regulations to be an exempt authority.
