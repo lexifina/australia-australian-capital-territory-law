@@ -7,7 +7,6 @@ auditor-general
 chief police officer
 contravene
 correctional centre
-dental technician
 dentist
 director of public prosecutions
 doctor
@@ -42,6 +41,7 @@ Note Correctional centre and NSW correctional centre are defined in the Legislat
 corrections health practitioner, for a correctional centre, means a health practitioner appointed under the Corrections Management Act 2007, section 22 (Health practitioners—non-therapeutic functions) for the centre.
 corresponding law—see section 100.
 crime scene index—see section 94.
+dental technician—see the Health Act 1993, dictionary.
 destroy—a person destroys forensic material taken from someone else by a forensic procedure, the results of the analysis of the material, or other information obtained from it, if the person destroys any means of identifying the forensic material or information with the person from whom it was taken or to whom it relates.
 DNA database—see section 100.
 DNA database system, for part 2.11 (ACT DNA database)—see section 94.
