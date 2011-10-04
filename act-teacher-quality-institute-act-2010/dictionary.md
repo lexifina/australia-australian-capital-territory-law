@@ -36,6 +36,7 @@ corresponding jurisdiction means the Commonwealth, a State or New Zealand.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1, def State).
 corresponding law means any law of a corresponding jurisdiction that regulates teachers in the jurisdiction.
 corresponding registering authority means the entity responsible for regulating the teaching profession under a corresponding law.
+criminal history guidelines––see section 35A.
 criminal history record, of a person, means a written report about the person’s criminal history from an entity in another country that has access to records about the criminal history of people in that country.
 CrimTrac means the CrimTrac agency established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc of Executive Agencies).
 education program means a program of learning––
@@ -59,7 +60,7 @@ police certificate, for a person, means a written statement by CrimTrac, or a po
     (iii) a State; or
     (iv) another country; and
   (b) if so—particulars of each offence.
-Note A conviction does not include a spent conviction (see Spent Convictions Act 2000, s 16 (c) (i)).
+Note A conviction includes a spent conviction (see Spent Convictions Act 2000, s 19 (9)).
 pre-service teacher means a person, other than an approved teacher, who is studying for a teaching qualification.
 provisional registration means provisional registration under part 4.
 registered means registered under this Act.
