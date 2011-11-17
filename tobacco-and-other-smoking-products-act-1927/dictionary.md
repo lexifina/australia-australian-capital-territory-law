@@ -22,10 +22,10 @@ carton means a package containing packages of a smoking product, or a package de
 cigar—
   (a) means a roll of cut tobacco for smoking that is enclosed in tobacco leaf or the leaf of another plant; and
   (b) includes any other smoking product prescribed as a cigar under the regulations.
+commissioner means the commissioner for fair trading.
 compliance test, for part 6A (Tobacco compliance testing)—see section 42B.
 conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, section 13.
 connected, for part 6 (Enforcement)—see section 31.
-deputy registrar means a deputy Registrar of Tobacco under section 30.
 engage in conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, section 13.
 food includes confectionery.
 ground for occupational discipline, for division 7.3—see section 56.
@@ -57,7 +57,6 @@ product line means a kind of smoking product distinguishable from other kinds by
   (d) the number of items in the immediate package in which it is sold;
   (e) for cigars—by the fact that the cigars of the type in question are sold individually (whether or not cigars of the same type are also sold, packaged in multiples, in a different product line).
 purchase assistant, for part 6A (Tobacco compliance testing)—see section 42B (1) (a).
-registrar means the Registrar of Tobacco under section 29, and includes a deputy registrar.
 retail outlet means premises where smoking products are available for sale by retail.
 retail tobacconist’s licence, for part 7 (Licences)—see section 43.
 reviewable decision, for division 7.5 (Notification and review of decisions)—see section 68.

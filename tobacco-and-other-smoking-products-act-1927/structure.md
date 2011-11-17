@@ -2,7 +2,6 @@
 ## Part 2 Points of sale
 ## Part 3 Supply of smoking products
 ## Part 4 Advertising, promotion and sponsorship
-## Part 5 Registrar and deputy registrars
 ## Part 6 Enforcement
 ## Part 6A Tobacco compliance testing
 ## Part 7 Licences
