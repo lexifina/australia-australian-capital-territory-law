@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 ACAT
 adult
+· commissioner for fair trading
 director-general (see s 163)
 exercise
 function
@@ -19,6 +20,7 @@ at premises includes in or on the premises.
 board means the Classification Board established by the Commonwealth Act, section 45.
 buy means buy or exchange or hire, and includes offer to buy or exchange or hire, agree to buy, exchange or hire and cause or permit to be bought or exchanged or hired, whether by retail or wholesale.
 classified means classified under the Commonwealth Act, and includes reclassified under that Act.
+commissioner means the commissioner for fair trading.
 Commonwealth Act means the Classification (Publications, Films and Computer Games) Act 1995 (Cwlth).
 computer game—see the Commonwealth Act, section 5A (Meaning of computer game).
 consumer advice means consumer advice determined under the Commonwealth Act, section 20.
@@ -44,7 +46,6 @@ place includes vacant land, premises, a vehicle, a vessel and an aircraft (excep
 publication—see the Commonwealth Act, section 5 (Definitions).
 public place means any place which the public is entitled to use or which is open to or used by the public, whether on payment of money or otherwise.
 publish—see the Commonwealth Act, section 5 (Definitions).
-registrar, for part 6 (X 18+ films)—see section 54A.
 restricted publications area means any premises, or part of a premises, constructed and managed in accordance with section 61.
 reviewable decision, for part 7A (Notification and review of decisions)—see section 58.
 seized film, for division 6.5 (Seized films)—see section 54Y.
