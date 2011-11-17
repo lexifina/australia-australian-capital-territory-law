@@ -46,7 +46,7 @@ occupational discipline, in relation to a person who is licensed, or registered,
   (a) means any action the tribunal may take in relation to the person under the authorising law; and
   (b) includes action the tribunal may take under section 66 (Orders for occupational discipline).
 party, to an application, means a party to the application under section 29.
-prescribed person, for division 4A.3 (Tribunal hearings—non-disclosure)—see section 22G.
+prescribed reason, for division 4A.3 (Tribunal hearings—non-disclosure)—see section 22G.
 presidential member means the general president, appeal president or another presidential member appointed under section 94 (1) or a temporary presidential member appointed under section 94 (2).
 question of law includes whether a question is a question of law.
 reasons statement, for part 4A (Administrative review)—see section 22B.
