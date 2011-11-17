@@ -4,6 +4,7 @@ Note 1 The Legislation Act 2001 contains definitions and other provisions releva
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · chief health officer
 · child
+· commissioner for fair trading
 · director-general (see s 163)
 · doctor
 · exercise
@@ -17,6 +18,7 @@ commercial brothel, for part 2 (Registration)—see section 5.
 commercial escort agency, for part 2 (Registration)—see section 5.
 commercial operator, for part 2 (Registration)—see section 5.
 commercial sexual services means sexual services provided for monetary consideration or any other form of consideration or material reward (regardless of whether the consideration or reward is, or is to be, paid or given to the prostitute or another person).
+commissioner means the commissioner for fair trading.
 disqualifying offence, for part 2 (Registration)—see section 6.
 employed—a prostitute is employed at a brothel or from an escort agency if the prostitute provides commercial sexual services at the brothel, or from the escort agency, under a contract of service or a contract for services.
 escort agency means a business of arranging prostitution, being a business carried on at premises other than a brothel.
@@ -33,7 +35,6 @@ prophylactic means a condom or other device that is adequate to prevent the tran
 prostitute means a person who provides commercial sexual services.
 prostitution means the provision of commercial sexual services.
 public place means any street, road, public park, reserve, or any building, premises or other place that the public are entitled to use or that is open to, or used by, the public (whether on payment or otherwise).
-registrar means the Registrar of Brothels and Escort Agencies under section 9.
 registration notice, for part 2 (Registration)—see section 7.
 required police report, for part 2 (Registration)—see section 5.
 scope of practice—see the Health Act 1993, section 195 (2).
