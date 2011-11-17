@@ -34,15 +34,16 @@ fair trading legislation means—
   (b) the Australian Consumer Law (ACT); or
   (c) the Eggs (Labelling and Sale) Act 2001; or
   (d) the Fair Trading (Australian Consumer Law) Act 1992; or
-  (e) the Liquor Act 2010; or
-  (f) the Plastic Shopping Bags Ban Act 2010; or
-  (g) the Security Industry Act 2003.
+  (e) the Fair Trading (Motor Vehicle Repair Industry) Act 2010; or
+  (f) the Liquor Act 2010; or
+  (g) the Plastic Shopping Bags Ban Act 2010; or
+  (h) the Security Industry Act 2003.
 goods—see the Australian Consumer Law (ACT), section 2 (1).
 identity card means an identity card issued to an investigator under section 37.
 instrument, for part 2 (The Australian Consumer Law)—see section 5 (1).
 Intergovernmental Agreement, for part 2 (The Australian Consumer Law)—see section 5 (1).
 investigation means an investigation under part 5.
-investigator means the commissioner or a person who is authorised by the commissioner under section 36.
+investigator means the commissioner or a person appointed under section 36.
 jurisdiction, for part 2 (The Australian Consumer Law)—see section 5 (1).
 law, in relation to a Territory, for part 2 (The Australian Consumer Law)—see section 5 (1).
 modifications, for part 2 (The Australian Consumer Law)—see section 5 (1).
