@@ -54,6 +54,7 @@ and includes a motor vehicle, or a motor vehicle included in a class of motor ve
   (e) a motor vehicle that is adapted for camping use; or
   (f) a four-wheel drive motor vehicle with at least 1 forward-facing rear passenger seat (other than a motor vehicle of a kind known as a dual cab or a crew-cab); or
   (g) a motor vehicle, or a class of motor vehicles, prescribed not to be a motor vehicle, or a class of motor vehicles, as the case may be, for this definition.
+commissioner means the commissioner for fair trading.
 compensation fund means the motor vehicle dealers compensation fund.
 connected with an offence, for part 10A (Enforcement)—see section 70.
 corporate licensee means a corporation that holds a licence.
@@ -69,7 +70,6 @@ demonstrator, in relation to a motor vehicle, means a vehicle—
   (c) that has not been used for any purpose other than—
     (i) a purpose in connection with its manufacture or sale; or
     (ii) the purpose of demonstrating the motor vehicle, or another vehicle of the same type, to a potential buyer of that vehicle.
-deputy registrar means the Deputy Registrar of Motor Vehicle Dealers under section 5A.
 director-general, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 executive officer, of a corporation, means a person, by whatever named called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 Examples
@@ -134,10 +134,9 @@ purchase, for part 4A (Registration of interests in motor vehicles)—see sectio
 qualified accountant means—
   (a) a member of the Institute of Chartered Accountants in Australia, the Institute of Public Accountants or CPA Australia; or
   (b) a person registered as a registered company auditor under the Corporations Act.
-register means the register of motor vehicle dealers kept by the registrar under section 6.
+register means the register of motor vehicle dealers kept by the commissioner under section 6.
 registered, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 register of interests, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-registrar means the Registrar of Motor Vehicle Dealers under section 5.
 registrable interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 50.
 security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
