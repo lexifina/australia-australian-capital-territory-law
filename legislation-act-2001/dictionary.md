@@ -375,7 +375,8 @@ resident judge means a resident judge under the Supreme Court Act 1933.
 retrospectively, for the commencement of legislation—see section 75A.
 reviewable decision notice—see the ACT Civil and Administrative Tribunal Act 2008, section 67A.
 road transport authority means the Australian Capital Territory Road Transport Authority.
-Note The director-general of the directorate responsible for the Road Transport (General) Act 1999 is the road transport authority (see Road Transport (General) Act 1999, s 16).
+Note 1 In relation to the exercise of a function by the road transport authority under a provision of the road transport legislation, the director-general of the administrative unit responsible for the provision is the road transport authority.
+Note 2 Road transport legislation––see the Road Transport (General) Act 1999, s 6.
 rules means—
   (a) of a court or tribunal—rules made by the entity having power to make rules (however described) regulating the practice and procedure of the court or tribunal; and
   (b) in relation to an Act—rules made or in force under the Act.
