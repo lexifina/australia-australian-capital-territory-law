@@ -57,6 +57,7 @@ compensation for costs, for a worker, means compensation to which the worker is 
 compulsory insurance policy—see section 144.
 connected, for chapter 10 (Inspection)—see section 187.
 continental shelf, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
+CPI, for chapter 4 (Entitlement to compensation)—see section 20.
 cpi indexed—see section 20.
 damages, for chapter 9 (Common law damages)—see section 180.
 damages claim, for part 9.2 (Choice of law)—see section 182C.
@@ -154,7 +155,6 @@ protocol—
 receiver and manager—see the Corporations Act, section 9.
 recognised auditor, for the DI fund, means an auditor who is not employed or engaged by the DI fund.
 registered agreement means an agreement registered under section 79.
-registered auditor means an auditor registered under the Corporations Act.
 rehabilitation services includes training and retraining services.
 return-to-work program means a program mentioned in section 109.
 reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199.
