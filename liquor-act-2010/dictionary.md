@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · commissioner for fair trading
 · corporation
 · Corporations Act
+· CrimTrac
 · director-general (see s 163)
 · planning and land authority
 · police officer.
@@ -125,8 +126,8 @@ permitted premises means premises that are the subject of a permit.
 permitted times, for the sale of liquor at permitted premises, means the times stated in the permit for the sale of liquor at the premises.
 person—a reference to a person in relation to a non-commercial permit includes a reference to a non-profit organisation.
 personal information notice—see section 71.
-police certificate, for a person, means a written statement by the Commonwealth CrimTrac agency indicating—
-  (a) whether, according to the records held by the agency, the person has been charged with, or convicted of, an offence against a law of—
+police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
+  (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
