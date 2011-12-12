@@ -70,6 +70,7 @@ residential land means rateable land—
 rural land means rateable land—
   (a) leased for the purpose of primary production only; or
   (b) leased for the purpose of primary production and other purposes but used mainly for primary production.
+special disability trust, for part 7 (Deferral and rebates)—see the Social Security Act 1991, (Cwlth), section 1209L.
 special rate pensioner, for part 7 (Deferral and rebates)—see section 45.
 Taxation Administration Act means the Taxation Administration Act 1999.
 unimproved value—see section 6.
@@ -81,5 +82,5 @@ unit owner means—
 units plan means a units plan under the Unit Titles Act 2001, section 7.
 unit subdivision means a parcel of land subdivided by registration of a units plan.
 Unit Titles Act means the Unit Titles Act 2001.
-variation, of a lease—for division 5.2 (Certain proposed unit subdivisions) see section 30.
+variation, of a lease, for division 5.2 (Certain proposed unit subdivisions)—see section 30.
 year means a financial year.
