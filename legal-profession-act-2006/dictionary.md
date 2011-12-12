@@ -64,7 +64,7 @@ ASIC exemption, for part 3.5 (Mortgage practices and managed investment schemes)
 associate—
   (a) of a law practice, for the Act—see section 9; and
   (b) of a solicitor, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
-associated third party payer, for part 3.2—see section 261A (Terms relating to third party payers).
+associated third party payer, for part 3.2 (Costs disclosure and assessment)—see section 261A.
 Australia, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 Australian law, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 Australian lawyer—see section 7.
@@ -84,11 +84,12 @@ claim, for part 3.4 (Fidelity cover)—see section 316.
 claimant, for part 3.4 (Fidelity cover)—see section 316.
 client—
   (a) for this Act generally—includes a person to whom or for whom legal services are provided; and
-  (b) for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
+  (b) for division 3.2.7 (Costs assessment)—see section 294; and
+  (c) for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 compensation order, for part 4.8 (Compensation)—see section 441.
 complaint, for chapter 4 (Complaints and discipline)—see section 383.
 complaint investigation, for chapter 6 (Investigations)—see section 521.
-compliance certificate—see section 29 (Compliance certificates).
+compliance certificate—see section 30 (Compliance certificates by admissions board).
 complying community legal centre—see section 208.
 concerted interstate default, for part 3.4 (Fidelity cover)—see section 316.
 conditional costs agreement, for part 3.2 (Costs disclosure and assessment)—see section 261.
@@ -96,7 +97,7 @@ conditions means conditions, limitations or restrictions.
 conduct, for chapter 4 (Complaints and discipline)—see section 383.
 connected, for part 6.3 (Entry and search of premises)—see section 529.
 contributor, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
-contributory, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
+contributory mortgage, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 controlled money—see section 210 (1).
 controlled money account, for part 3.1 (Trust money and trust accounts)—see section 210 (2).
 conviction—see section 13.
@@ -123,6 +124,7 @@ council means the bar council or law society council.
 data, for part 6.3 (Entry and search of premises)—see section 529.
 data storage device, for part 6.3 (Entry and search of premises)—see section 529.
 default, in relation to a law practice, for part 3.4 (Fidelity cover)—see section 316.
+deposit record—see section 210 (1).
 director, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
 disbursements, for part 3.2 (Costs disclosure and assessment)—see section 261.
 disciplinary action, for part 4.9 (Publicising disciplinary action)—see section 447.
@@ -166,6 +168,9 @@ insolvent under administration means—
   (c) a person for whom a debt agreement has been made under the Bankruptcy Act 1966 (Cwlth), part 9 (or the corresponding provisions of the law of a foreign country or external territory) if the debt agreement has not ended or has not been terminated; or
   (d) a person who has executed a deed of arrangement under the Bankruptcy Act 1966 (Cwlth), part 10 (or the corresponding provisions of the law of a foreign country or external territory) if the terms of the deed have not been fully complied with; or
   (e) a person whose creditors have accepted a composition under the Bankruptcy Act 1966 (Cwlth), part 10 (or the corresponding provisions of the law of a foreign country or external territory) if a final payment has not been made under the composition.
+insurable barrister, for part 3.3 (Professional indemnity insurance)—see section 308.
+insurable legal practitioner, for part 3.3 (Professional indemnity insurance)—see section 308.
+insurable solicitor, for part 3.3 (Professional indemnity insurance)—see section 308.
 interstate lawyer—see section 7.
 interstate legal practitioner—see section 8.
 interstate practising certificate means a current practising certificate granted under a corresponding law.
@@ -220,10 +225,10 @@ mortgage financing means facilitating a loan secured or intended to be secured b
 but does not include providing legal advice or preparing an instrument for the loan.
 multidisciplinary partnership—see section 134.
 non-associated third party payer, for part 3.2—see section 261A.
-occupier, for part 6.3 (Entry and search of premises)—see section 529.
+occupier, of premises, for part 6.3 (Entry and search of premises)—see section 529.
 offence, for part 6.3 (Entry and search of premises)—see section 529.
 officer, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
-official complaint, for chapter 44 (Complaints and discipline)—see section 383.
+official complaint, for chapter 4 (Complaints and discipline)—see section 383.
 overseas-registered foreign lawyer, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
 pecuniary loss, in relation to a default, for part 3.4 (Fidelity cover)—see section 316.
 permanent form, in relation to a trust record, for part 3.1 (Trust money and trust accounts)—see section 210 (2) and (3).
@@ -238,6 +243,7 @@ prescribed relationship, for part 3.5 (Mortgage practices and managed investment
 principal, of a law practice—see section 9.
 professional misconduct—see section 387.
 professional obligations, of an Australian legal practitioner, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
+public authority, for part 3.2 (Costs disclosure and assessment)—see section 261.
 quashing, of a conviction for an offence—see section 13.
 register of disciplinary action—see section 448.
 registered, used in relation to a foreign country, for part 2.7 (Legal practice—foreign lawyers)—see section 152.
