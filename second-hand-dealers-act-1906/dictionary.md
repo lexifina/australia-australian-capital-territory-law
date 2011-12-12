@@ -4,6 +4,7 @@ Note 1 The Legislation Act 2001 contains definitions and other provisions releva
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · chief police officer
 · commissioner for fair trading
+· CrimTrac
 · foreign country
 · home address
 · individual
