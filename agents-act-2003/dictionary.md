@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · commissioner for fair trading
 · corporation
 · Corporations Act
+· CrimTrac
 · daily newspaper
 · director-general (see s 163)
 · entity
@@ -109,8 +110,8 @@ main place of business, for a licensed agent, means the place shown in the regis
 obtains a beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
 owners corporation managing agent means a person appointed as manager of an owners corporation for a units plan under the Unit Titles Act 2001.
 parent, of a person, means the person’s father, mother, grandfather, grandmother, stepfather or stepmother, or someone acting in place of the person’s parent.
-police certificate, for a person, means a written statement by the Australian Federal Police indicating—
-  (a) whether, according to the records held by the Australian Federal Police, the person has been charged with, or convicted of, an offence against a law of—
+police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
+  (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
