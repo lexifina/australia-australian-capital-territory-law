@@ -19,7 +19,7 @@ financial institutions (ACT) code means the provisions applying before the trans
 financial institutions (ACT) regulations means the provisions applying before the transfer date because of the Financial Institutions (Application of Laws) Act 1992, section 9.
 financial institutions code means the Financial Institutions (ACT) Code.
 financial institutions legislation—see the AFIC code, section 8.
-FS(TB) Act means the Financial Sector (Transfers of Business) Act 1999 (Cwlth).
+FS(TB) Act means the Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth).
 FSR Act means the Financial Sector Reform (Amendments and Transitional Provisions) Act (No 1) 1999 (Cwlth).
 registrar means the registrar of financial institutions established by the Financial Institutions (Supervisory Authority) Act 1992, section 5 (1).
 relevant Commonwealth body means APRA or ASIC.
