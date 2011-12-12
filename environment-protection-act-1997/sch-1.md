@@ -36,7 +36,6 @@ mobile plant, for the processing of agricultural crops, means plant operated on 
 motor racing event means—
   (a) a motor vehicle race or practice for a motor vehicle race; or
   (b) a motor vehicle reliability trial or speed test, including a trial or test for which the vehicles have been exempted under the road transport legislation from the provisions of that legislation about attaching silencers to the exhaust pipes of motor vehicles, rules of the road and speed limits during the trial or test.
-National Electricity (ACT) Law—see the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
 paintball marker means a device that shoots capsules of paint, or a similar substance, for the game of paintball.
 Note The Macquarie Dictionary, 4th ed, defines paintball as a game in which players participate in mock military skirmishes using guns which fire capsules of paint instead of bullets.
 receiving waters means ground water or water in a waterway.

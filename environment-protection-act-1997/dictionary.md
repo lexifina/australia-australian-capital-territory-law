@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · indictable offence (see s 190)
 · Minister (see s 162)
 · national capital plan
+· National Electricity (ACT) Law
 · notifiable instrument (see s 10)
 · penalty unit (see s 133)
 · public employee
