@@ -81,4 +81,4 @@ suspension order—see section 96.
 travel details, for travel by a registrable offender—see section 42 (c).
 unprotected registrable offender declaration—see section 111 (b).
 witness protection program—see the Witness Protection Act 1996, dictionary.
-young person—means a person who is not yet an adult.
+young person means a person who is not yet an adult.
