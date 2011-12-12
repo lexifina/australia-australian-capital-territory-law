@@ -19,7 +19,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State
 · statutory declaration
 · the Territory.
-Note 3 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
+Note 3 This dictionary defines some key words and expressions that may not be used in this Act but are used in other road transport legislation.
+Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
