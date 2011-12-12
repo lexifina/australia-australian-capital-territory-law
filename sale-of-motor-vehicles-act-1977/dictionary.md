@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Australian Consumer Law (ACT)
 · civil partnership
 · corporation
+· CrimTrac
 · daily newspaper
 · director-general (see s 163)
 · disallowable instrument (see s 9)
@@ -121,8 +122,8 @@ owner, in relation to a motor vehicle—
       (B) who is entitled under a contract of hire, hire-purchase agreement, or bill of sale or similar instrument, to possession of the motor vehicle but who does not have possession of it.
 participating State, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 payment, of a purchase price, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-police certificate, for a person, means a written statement by the Australian Federal Police indicating—
-  (a) whether, according to the records held by the Australian Federal Police, the person has been charged with, or convicted of, an offence against a law of—
+police certificate, for a person, means a written statement by the Australian Federal Police or Crimtrac indicating—
+  (a) whether, according to the records held by the Australian Federal Police or Crimtrac, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
