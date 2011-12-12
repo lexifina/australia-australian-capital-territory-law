@@ -7,7 +7,7 @@ insert
 (2B) Before appointing an Aboriginal and Torres Strait Islander liaison officer, the commissioner must consult ATSIEB.
 (2C) A person is eligible to be appointed as an Aboriginal and Torres Strait Islander liaison officer if the person—
   (a) is—
-    (i) an Aboriginal person or Torres Strait Islander; and
+    (i) an Aboriginal or Torres Strait Islander person; and
     (ii) at least 18 years old; and
     (iii) enrolled, or entitled to be enrolled, for an electorate in the ACT; and
   (b) is not a candidate in the election.
@@ -32,7 +32,7 @@ substitute
 substitute
 (1) A person is eligible to be an ATSIEB member if the person—
   (a) is—
-    (i) an Aboriginal person or Torres Strait Islander; and
+    (i) an Aboriginal or Torres Strait Islander person; and
     (ii) at least 18 years old; and
     (iii) enrolled, or entitled to be enrolled, for an electorate in the ACT; and
   (b) is not under a sentence of imprisonment for 1 year or longer for a conviction for an indictable offence.
@@ -44,7 +44,7 @@ substitute
 (2) A person (the nominee) may be nominated as a candidate for an ATSIEB election only by 4 electors (the nominators) entitled to vote at the ATSIEB election on the day the nominators sign the nomination form.
 (2A) A person is eligible to be a nominee if, at the hour of nomination, the person—
   (a) is—
-    (i) an Aboriginal person or Torres Strait Islander; and
+    (i) an Aboriginal or Torres Strait Islander person; and
     (ii) at least 18 years old; and
     (iii) enrolled, or entitled to be enrolled, for an electorate in the ACT; and
   (b) is not under a sentence of imprisonment for 1 year or longer for a conviction for an indictable offence.
@@ -55,13 +55,13 @@ Note Nomination forms are available at the office of the commissioner and in ele
 substitute
   (d) contain a declaration, signed by the nominee, to the effect that the nominee, at the hour of nomination—
     (i) is—
-      (A) an Aboriginal person or Torres Strait Islander; and
+      (A) an Aboriginal or Torres Strait Islander person; and
       (B) at least 18 years old; and
       (C) enrolled, or entitled to be enrolled, for an electorate in the ACT; and
     (ii) is not under a sentence of imprisonment for 1 year or longer for a conviction for an indictable offence; and
   (da) contain a declaration by each nominator, signed by the nominator, to the effect that, on the day the nominator signs the nomination form, the nominator—
     (i) is—
-      (A) an Aboriginal person or Torres Strait Islander; and
+      (A) an Aboriginal or Torres Strait Islander person; and
       (B) at least 18 years old; and
       (C) enrolled, or entitled to be enrolled, for an electorate in the ACT; and
     (ii) is not under a sentence of imprisonment for 1 year or longer for a conviction for an indictable offence; and
@@ -189,12 +189,12 @@ substitute
 insert
 ## 125A Review panel
 (1) Before the polling start day for an ATSIEB election, the commissioner must establish a review panel to review any decision made by an Aboriginal and Torres Strait Islander liaison officer in relation to a claim by an elector that the elector—
-  (a) is an Aboriginal person or Torres Strait Islander; or
+  (a) is an Aboriginal or Torres Strait Islander person; or
   (b) lives in the ACT.
 (2) A review panel is made up of 3 members appointed by the commissioner, under the Electoral Act, section 33 (1), as review panel officers for this Act.
 (3) A person is eligible to be appointed as a review panel officer if the person—
   (a) is—
-    (i) an Aboriginal person or Torres Strait Islander; and
+    (i) an Aboriginal or Torres Strait Islander person; and
     (ii) at least 18 years old; and
     (iii) enrolled, or entitled to be enrolled, for an electorate in the ACT; and
   (b) is not a candidate in the election.
@@ -205,7 +205,7 @@ omit
 [1.34] Entitlement to vote Section 128 (1)
 substitute
 (1) A person is entitled to vote in an ATSIEB election if the person is—
-  (a) an Aboriginal person or Torres Strait Islander; and
+  (a) an Aboriginal or Torres Strait Islander person; and
   (b) at least 18 years old on polling start day; and
   (c) enrolled, or entitled to be enrolled, for an electorate in the ACT.
 Note The Electoral Act, s 72 (Entitlement) states when a person is entitled to be enrolled for an electorate.
@@ -236,11 +236,11 @@ substitute
   (b) no challenge has been made under section 133A in relation to the person.
 [1.41] New sections 133A and 133B
 insert
-## 133A Challenge whether claimant to vote is Aboriginal person or Torres Strait Islander
-(1) This section applies if a liaison officer suspects on reasonable grounds that a person claiming to vote under section 133 (the claimant) is not an Aboriginal person or Torres Strait Islander.
-(2) The liaison officer may ask the claimant any question the officer believes on reasonable grounds is necessary to decide whether the claimant is an Aboriginal person or Torres Strait Islander.
+## 133A Challenge whether claimant to vote is Aboriginal or Torres Strait Islander person
+(1) This section applies if a liaison officer suspects on reasonable grounds that a person claiming to vote under section 133 (the claimant) is not an Aboriginal or Torres Strait Islander person.
+(2) The liaison officer may ask the claimant any question the officer believes on reasonable grounds is necessary to decide whether the claimant is an Aboriginal or Torres Strait Islander person.
 (3) The liaison officer must consider any answer the claimant gives the officer.
-(4) If the liaison officer decides, on the balance of probabilities, that the claimant is not an Aboriginal person or Torres Strait Islander, the officer must—
+(4) If the liaison officer decides, on the balance of probabilities, that the claimant is not an Aboriginal or Torres Strait Islander person, the officer must—
   (a) challenge the claimant’s right to vote at the election; and
   (b) tell the claimant about the claimant’s right to cast a declaration vote under section 133B; and
   (c) tell the issuing officer under section 133 about the challenge; and
@@ -250,13 +250,13 @@ insert
   (b) elect to cast a declaration vote under section 133B.
 (6) If the claimant elects to cast a declaration vote under section 133B, the liaison officer must give the claimant a written notice about the challenge, including a statement to the effect that—
   (a) notice of the liaison officer’s decision will be given to the review panel under section 134A (Review of challenge under s 133A); and
-  (b) the claimant’s ballot paper will only be admitted to scrutiny if the review panel decides that the claimant is an Aboriginal person or Torres Strait Islander.
+  (b) the claimant’s ballot paper will only be admitted to scrutiny if the review panel decides that the claimant is an Aboriginal or Torres Strait Islander person.
 Note If a form is approved under s 34 for this provision, the form must be used.
 ## 133B Declaration voting—challenged claims to vote
 (1) This section applies if a claimant elects, under section 133A (5) (b), to cast a declaration vote.
 (2) The issuing officer under section 133 must—
   (a) give the claimant declaration voting papers; and
-  (b) indicate on the envelope on which the declaration appears that the claimant is casting a declaration vote because the liaison officer has challenged the claimant’s claim to be an Aboriginal person or Torres Strait Islander.
+  (b) indicate on the envelope on which the declaration appears that the claimant is casting a declaration vote because the liaison officer has challenged the claimant’s claim to be an Aboriginal or Torres Strait Islander person.
 (3) Subject to section 156, the claimant and the issuing officer must follow the procedure stated in section 135 (4) (Declaration voting at polling places) for the casting of a declaration vote under this section.
 [1.42] New section 134A and 134B
 in division 10.2, insert
@@ -265,9 +265,9 @@ in division 10.2, insert
   (a) a liaison officer challenges, under section 133A (4) (a), a claimant’s right to vote; and
   (b) the claimant elects, under section 133A (5) (b), to cast a declaration vote.
 (2) The commissioner must give the review panel written notice of the liaison officer’s decision not later than 3 business days after the day the claimant has cast a declaration vote.
-(3) The review panel must review the liaison officer’s decision and decide, on the balance of probabilities, whether the claimant is an Aboriginal person or Torres Strait Islander.
+(3) The review panel must review the liaison officer’s decision and decide, on the balance of probabilities, whether the claimant is an Aboriginal or Torres Strait Islander person.
 (4) The review panel must complete its review not later than 6 business days after the polling close day.
-(5) If any member of the review panel decides that the claimant is an Aboriginal person or Torres Strait Islander, the applicant’s ballot paper must be admitted to scrutiny under part 12.
+(5) If any member of the review panel decides that the claimant is an Aboriginal or Torres Strait Islander person, the applicant’s ballot paper must be admitted to scrutiny under part 12.
 (6) The review panel must give the commissioner and the claimant written notice of—
   (a) its decision; or
   (b) if there is no unanimous decision—the decision of each panel member.
@@ -312,7 +312,7 @@ substitute
 polling close day
 [1.50] Receipt of declaration voting papers Section 139 (2)
 substitute
-(2) If the commissioner receives completed postal voting papers under subsection (1), the commissioner must give the voting papers to the review panel for their decision, under section 144B, about whether the person who cast the postal vote is an Aboriginal person or Torres Strait Islander.
+(2) If the commissioner receives completed postal voting papers under subsection (1), the commissioner must give the voting papers to the review panel for their decision, under section 144B, about whether the person who cast the postal vote is an Aboriginal or Torres Strait Islander person.
 [1.51] Registered declaration voters Section 140
 omit
 [1.52] Issue of voting papers to registered declaration voters Section 141
@@ -324,9 +324,9 @@ or section 141 (Issue of voting papers to registered declaration voters)
 insert
 ## 144B Review panel—eligibility of person who postal votes
 (1) This section applies if the commissioner gives the review panel completed postal voting papers under section 139 (2).
-(2) The review panel must decide, after making any investigation the panel considers appropriate, whether the person who cast the postal vote (the claimant) is an Aboriginal person or Torres Strait Islander.
+(2) The review panel must decide, after making any investigation the panel considers appropriate, whether the person who cast the postal vote (the claimant) is an Aboriginal or Torres Strait Islander person.
 (3) The review panel must complete its review not later than 6 business days after the day it receives the claimant’s postal voting papers.
-(4) If any member of the review panel decides that the claimant is an Aboriginal person or Torres Strait Islander, the claimant’s ballot paper must be admitted to scrutiny under part 12.
+(4) If any member of the review panel decides that the claimant is an Aboriginal or Torres Strait Islander person, the claimant’s ballot paper must be admitted to scrutiny under part 12.
 (5) The review panel must give the commissioner written notice of—
   (a) its decision; or
   (b) if there is no unanimous decision—the decision of each panel member.
@@ -496,7 +496,7 @@ ATSIEB chair includes—
   (c) the office-holder is the subject of a proceeding.
 [1.80] Validity may be disputed after election New section 256 (2) (aa) and (ab)
 before section 256 (2) (a), insert
-  (aa) a decision by a liaison officer or review panel in relation to an elector’s claim to be an Aboriginal person or Torres Strait Islander;
+  (aa) a decision by a liaison officer or review panel in relation to an elector’s claim to be an Aboriginal or Torres Strait Islander person;
   (ab) a decision by a review panel in relation to an elector’s claim to live in the ACT;
 [1.81] Inquiries by court Section 269 (3)
 omit
@@ -580,7 +580,7 @@ before clause 6 (1) (a), insert
 omit
 [1.99] Clause 6 (2) (d)
 substitute
-  (d) for a declaration vote under section 133B (3) or a postal vote under section 136A (Applications for postal voting papers)—the review panel or a member of the review panel has decided that the elector is an Aboriginal person or Torres Strait Islander.
+  (d) for a declaration vote under section 133B (3) or a postal vote under section 136A (Applications for postal voting papers)—the review panel or a member of the review panel has decided that the elector is an Aboriginal or Torres Strait Islander person.
 [1.100] Clause 11
 omit everything before paragraph (a), substitute
 11 The OIC must, in accordance with clauses 4 to 10, conduct a further scrutiny of the group of remaining declaration voting papers to which clause 5 (b) applies and, if there are any papers to which clause 5 (b) applies after the further scrutiny, the OIC must—

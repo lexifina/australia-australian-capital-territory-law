@@ -21,10 +21,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · penalty unit (see s 133)
 · public holiday
 · sign.
-Aboriginal person or Torres Strait Islander means a person who—
-  (a) is a descendant of an Aboriginal person or Torres Strait Islander; and
-  (b) identifies as an Aboriginal person or Torres Strait Islander; and
-  (c) is accepted as an Aboriginal person or Torres Strait Islander by an Aboriginal or Torres Strait Islander community.
+Aboriginal or Torres Strait Islander person means a person who—
+  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 ATSIEB—see section 7.
 ATSIEB chair—see section 15.
 ATSIEB deputy chair—see section 16.
