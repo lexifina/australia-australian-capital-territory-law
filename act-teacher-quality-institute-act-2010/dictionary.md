@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · change
 · contravene
 · Criminal Code
+· CrimTrac
 director-general (see s 163)
 · disallowable instrument (see s 9)
 · document
@@ -38,7 +39,6 @@ corresponding law means any law of a corresponding jurisdiction that regulates t
 corresponding registering authority means the entity responsible for regulating the teaching profession under a corresponding law.
 criminal history guidelines––see section 35A.
 criminal history record, of a person, means a written report about the person’s criminal history from an entity in another country that has access to records about the criminal history of people in that country.
-CrimTrac means the CrimTrac agency established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc of Executive Agencies).
 education program means a program of learning––
   (a) that prepares pre-service teachers for employment as pre-school, primary school or secondary school teachers; or
   (b) is suitable for the professional learning and development of teachers.
