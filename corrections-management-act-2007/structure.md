@@ -50,4 +50,3 @@
 ### Division 12.2.2 ACT permits for interstate leave
 ### Division 12.2.3 Interstate leave under corresponding leave laws
 # Chapter 13 Miscellaneous
-# Chapter 50 Transitional

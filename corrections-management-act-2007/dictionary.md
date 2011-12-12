@@ -57,6 +57,7 @@ corresponding leave law, for part 12.2 (Interstate leave)—see section 206.
 court cell, for chapter 4 (Detention in police and court cells etc)—see section 29.
 detainee—see section 6.
 detention period, for an offender’s periodic detention—see the Crimes (Sentence Administration) Act 2005, section 41.
+director-general, for chapter 4 (Detention in police and court cells etc)—see section 29.
 disciplinary action—see section 151.
 disciplinary breach—see section 151.
 disciplinary charge—see section 151.
@@ -130,3 +131,4 @@ strip search, of a detainee—see section 107.
 test sample—see section 132.
 visiting conditions, at a correctional centre, means conditions declared under section 143 (Visiting conditions) in relation to the centre.
 visitor, in relation to a correctional centre, includes a person wishing to enter the centre as a visitor.
+young detainee, for chapter 4 (Detention in police and court cells etc)—see the Children and Young People Act 2008, section 95.
