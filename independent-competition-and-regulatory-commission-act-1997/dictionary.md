@@ -5,8 +5,11 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Act
 · bankrupt or personally insolvent
 · daily newspaper
+· director-general (see s 163)
 · exercise
 · function
+· National Electricity (ACT) Law
+· National Electricity (ACT) Regulation
 · National Gas (ACT) Law
 · National Gas (ACT) Regulation
 · subordinate law (see s 8)
@@ -21,9 +24,6 @@ associate commissioner means a commissioner appointed under schedule 2, section 
 chief executive officer means the Chief Executive Officer of the commission.
 commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory.
 commissioner means a commissioner constituting the commission under section 6 (1).
-commission secretariat means—
-  (a) the chief executive officer; and
-  (b) the other staff of the commission.
 competition policy considerations means the considerations mentioned in the competition principles agreement, clause 1 (3) (d) to (j), as set out in schedule 1.
 competition principles agreement means the Competition Principles Agreement made on 11 April 1995 by the Commonwealth, the Territories and the States, as in force for the time being.
 competitive neutrality complaint means a complaint that the conduct of a government business activity is not consistent with the competitive neutrality principles.
@@ -54,9 +54,6 @@ law of the Territory includes—
   (c) the national electricity rules; and
   (d) the National Gas (ACT) Law; and
   (e) the National Gas (ACT) Regulation.
-legislation review principles means the principles under the competition principles agreement, clause 5 (1) and (9), as set out in schedule 1.
-National Electricity (ACT) Law—see the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
-National Electricity (ACT) Regulations—see the Electricity (National Scheme) Act 1997, section 6 (Application of regulations under National Electricity Law).
 national electricity rules means the national electricity rules under the National Electricity (ACT) Law.
 price includes any rate, fee, levy and charge and any other valuable consideration (however described), but does not include a territory tax.
 price direction—
@@ -64,7 +61,6 @@ price direction—
   (b) for part 4C (Review of price directions)—see section 24J.
 price regulation means the regulation of prices in relation to the provision of goods and services within a regulated industry, and includes the variation of a price direction for those prices.
 price variation trigger—see section 20A (3) (c)).
-protected confidential information means confidential information the commission does not have the power to disclose under section 46 or under any law of the Territory other than this Act.
 reference means a reference to the commission under section 15.
 referring authority—
   (a) for an industry reference—see section 3A (1); and
