@@ -15,10 +15,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Speaker
 · Supreme Court
 · the Territory.
-Aboriginal person or Torres Strait Islander means a person who—
-  (a) is a descendent of an Aboriginal person or Torres Strait Islander; and
-  (b) identifies as an Aboriginal person or Torres Strait Islander; and
-  (c) is accepted as an Aboriginal person or Torres Strait Islander by an Aboriginal or Torres Strait Islander community.
+Aboriginal or Torres Strait Islander person means a person who—
+  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 access and equity principle, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 access and equity program, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 administrative unit means a unit of the service established under section 13 (1) (a).
