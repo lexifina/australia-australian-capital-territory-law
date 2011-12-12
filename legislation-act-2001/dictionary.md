@@ -127,6 +127,7 @@ credit union means an authorised deposit-taking institution that is permitted un
   (a) the term ‘credit union’; or
   (b) any other term (whether or not in English) similar in meaning.
 Criminal Code means the Criminal Code 2002.
+CrimTrac means the CrimTrac agency established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc. of Executive Agencies).
 daily newspaper means a daily newspaper circulating generally in the ACT.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130.
@@ -283,6 +284,8 @@ named month means one of the 12 months of the year.
 national capital authority means the National Capital Authority established under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national capital plan means the National Capital Plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 National Credit Code—see the National Consumer Credit Protection Act 2009 (Cwlth), section 5.
+National Electricity (ACT) Law means the provisions applying in the ACT because of the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
+National Electricity (ACT) Regulation means the provisions applying because of the Electricity (National Scheme) Act 1997, section 6 (Application of regulations under National Electricity Law).
 National Gas (ACT) Law means the provisions applying because of the National Gas (ACT) Act 2008, section 8 (Application in the ACT of National Gas Law).
 National Gas (ACT) Regulation means the provisions applying because of the National Gas (ACT) Act 2008, section 9 (Application in the ACT of regulations under National Gas Law).
 national land means National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
