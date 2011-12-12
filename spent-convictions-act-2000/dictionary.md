@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · administrative unit
+· CrimTrac
 · entity
 · exercise
 · function
@@ -34,7 +35,7 @@ law enforcement agency means any of the following:
   (b) the police service or force of a State, another Territory or a foreign country;
   (c) the Australian Customs Service;
   (d) the Australian Crime Commission;
-  (e) the CrimTrac Agency, established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc. of Executive Agencies);
+  (e) CrimTrac;
   (f) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
   (g) the New South Wales Crime Commission or a similar entity established under the law of another State;
   (h) the Attorney-General for the Territory, the Commonwealth, a State or another Territory;
