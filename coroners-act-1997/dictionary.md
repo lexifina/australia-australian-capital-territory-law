@@ -41,7 +41,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Supreme Court
 · the Territory
 · under.
-Aboriginal person means a person who is descended from, identifies as, and is accepted by an Aboriginal community as, an Aboriginal person.
+Aboriginal or Torres Strait Islander person means a person who—
+  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 body includes part of a body, and the remains of a body.
 Chief Coroner means the person who is Chief Coroner by virtue of the operation of section 6.
 chief psychiatrist—see the Mental Health (Treatment and Care) Act 1994, dictionary.
@@ -61,11 +64,10 @@ engage in conduct means—
 hearing means a hearing under division 5.1.
 immediate family, in relation to a deceased person the subject of an inquest, means—
   (a) a person who was the domestic partner of the deceased, or a parent, grandparent, child, brother or sister, or guardian or ward, of the deceased; and
-  (b) if the deceased was an Aboriginal person or Torres Strait Islander—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the deceased was a member, had the responsibility for, or an interest in, the welfare of the deceased.
+  (b) if the deceased was an Aboriginal or Torres Strait Islander person—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the deceased was a member, had the responsibility for, or an interest in, the welfare of the deceased.
 Note For the meaning of domestic partner, see Legislation Act, s 169.
 inquest means an inquest concerning the death of a person.
 inquiry means an inquiry concerning a disaster or fire.
 mental health officer—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 place includes a vehicle, a vessel or an aircraft.
 registrar means the registrar of the Coroner’s Court appointed under section 11, and includes a deputy registrar.
-Torres Strait Islander means a person who is a descendant of an indigenous inhabitant of the Torres Strait Islands.
