@@ -3,6 +3,7 @@
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · ACAT
+· bankrupt or personally insolvent
 · child
 · contravene
 · domestic partner (see s 169 (1))
@@ -18,7 +19,6 @@ approved program, for part 6A (Tobacco compliance testing)—see section 42A.
 authorised officer—
   (a) means an authorised officer under section 32; but
   (b) for part 6A (Tobacco compliance testing)—see section 42A.
-carton means a package containing packages of a smoking product, or a package designed to contain packages of a smoking product, but does not include a package containing individually-wrapped cigars (unless the package contains a further package or packages of the cigars).
 cigar—
   (a) means a roll of cut tobacco for smoking that is enclosed in tobacco leaf or the leaf of another plant; and
   (b) includes any other smoking product prescribed as a cigar under the regulations.
