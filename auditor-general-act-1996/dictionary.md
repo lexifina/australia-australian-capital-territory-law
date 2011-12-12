@@ -3,7 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · appointment
-· bankrupt or-personally insolvent
+· bankrupt or personally insolvent
 · director-general (see s 163)
 · entity
 · Executive
@@ -19,7 +19,7 @@ controlling interest—see section 5.
 Financial Management Act means the Financial Management Act 1996.
 independent auditor means the person for the time being engaged under section 27 to conduct audits under part 5.
 performance audit, in relation to a person, body or thing, means a review or examination of any aspect of the operations of the person, body or thing.
-protected information, for part 6 (Miscellaneous)—see section 32A.
+protected information, for part 6 (Miscellaneous)—see section 33.
 public accounts committee means the committee of the Legislative Assembly whose functions include the examination of financial statements for the Territory, a directorate or a territory authority.
 public sector company means—
   (a) a subsidiary of a territory authority; or
