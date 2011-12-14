@@ -18,4 +18,3 @@
 ## Part 9 Offences
 ## Part 10 Notification and review of decisions
 ## Part 11 Miscellaneous
-## Part 20 Validation of Bookmakers Act licences
