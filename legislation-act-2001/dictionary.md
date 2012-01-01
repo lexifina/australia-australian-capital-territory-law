@@ -455,7 +455,7 @@ word includes any drawing, figure, number and symbol.
 working day means a day that is not—
   (a) a Saturday or Sunday; or
   (b) a public holiday in the ACT.
-work safety commissioner means the Work Safety Commissioner under the Work Safety Act 2008.
+work safety commissioner means the work safety commissioner under the Work Health and Safety Act 2011.
 writing includes any way of representing or reproducing words in visible form.
 Examples
 printing, photocopying, photography, typewriting
