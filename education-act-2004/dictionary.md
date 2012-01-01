@@ -61,9 +61,9 @@ full-time participation—
   (a) in an education course, for division 2.2.2 (Participation requirement)—see section 10C; and
   (b) in a training or employment alternative, for part 2.4 (After year 10—training and employment alternatives)—see section 13C.
 full-time participation requirement, for part 2.3 (Exemption certificates)—see section 11G.
-government school means—
-  (a) except for part 3.4 (School boards of government schools)—a school, preschool or school-related institution established under section 20 (Establishing government schools etc); and
-  (b) for part 3.4—a school or school-related institution established under section 20.
+government school—
+  (a) means a school established under section 20 (1); and
+  (b) except for section 20—includes a school-related institution established under section 20 (3).
 half-year, for part 3.4 (School boards of government schools)—see section 37.
 home education—see section 129.
 information notice, for chapter 2 (Compulsory education)—see section 11C.
@@ -87,10 +87,9 @@ register of non-government schools means the register kept by the registrar unde
 registrar means the Registrar of Non-Government Schools.
 reviewable decision, for part 6.1 (Notification and review of decisions)—see section 140.
 school—
-  (a) except for chapter 2, part 3.4, chapter 4 and part 6.2—means a school or school-related institution established under section 20 (Establishing government schools etc); and
-  (b) for chapter 2 (Compulsory education) and part 6.2 (Other provisions)—means a government school or non-government school; and
-  (c) for part 3.4 (Schools boards of government schools)—see section 37; and
-  (d) for chapter 4 (Non-government schools)—see section 74.
+  (a) except for chapter 2, chapter 4 and part 6.2—means a government school; and
+  (b) for chapter 2 (Compulsory education) and part 6.2 (Other provisions)—means a government school or a non-government school; and
+  (c) for chapter 4 (Non-government schools)—see section 74.
 school board, of a government school, means the school board of the school established under part 3.4.
 school-related institution—see section 20 (Establishing government schools etc).
 small school, for part 3.4 (School boards of government schools)—see section 37.
