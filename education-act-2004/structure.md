@@ -47,4 +47,3 @@
 # Chapter 6 Miscellaneous
 ## Part 6.1 Notification and review of decisions
 ## Part 6.2 Other provisions
-# Chapter 9 Transitional—Education (Participation) Amendment Act 2009
