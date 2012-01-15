@@ -23,6 +23,7 @@ Note 3 This dictionary defines some key words and expressions that may not be us
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 another jurisdiction means a jurisdiction other than the ACT.
+approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -36,7 +37,7 @@ authorised person means—
     (ii) a person who, under the regulations, is an authorised person for the provision.
 automatic disqualification provision, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 bicycle—see the Australian Road Rules, dictionary.
-camera-detected offence means an offence detected by an approved camera detection device.
+camera-detected offence means an offence detected by an approved camera detection device or an approved average speed detection system.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 credit card includes a debit card.
