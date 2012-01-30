@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
@@ -59,10 +59,8 @@ commissioner means the commissioner for fair trading.
 compensation fund means the motor vehicle dealers compensation fund.
 connected with an offence, for part 10A (Enforcement)—see section 70.
 corporate licensee means a corporation that holds a licence.
-creditor, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 dealer—see section 6A.
 dealings register, of a licensed dealer, means a dealings register maintained by the dealer under section 15 (Licensees to maintain dealings register).
-debtor, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 demonstrator, in relation to a motor vehicle, means a vehicle—
   (a) that has been sold only to a dealer or wholesaler; and
   (b) that has been registered only in the name of any 1 of the following persons:
@@ -71,7 +69,6 @@ demonstrator, in relation to a motor vehicle, means a vehicle—
   (c) that has not been used for any purpose other than—
     (i) a purpose in connection with its manufacture or sale; or
     (ii) the purpose of demonstrating the motor vehicle, or another vehicle of the same type, to a potential buyer of that vehicle.
-director-general, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 executive officer, of a corporation, means a person, by whatever named called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 Examples
 1 A director of the corporation
@@ -91,10 +88,8 @@ ground for occupational discipline—see section 48.
 hire-purchase agreement, in relation to a motor vehicle, means—
   (a) a letting of the vehicle with an option to purchase the vehicle; or
   (b) an agreement for the purchase of the vehicle by instalments (whether described as rent or hire or otherwise), other than an agreement under which the property in the vehicle passes at the time of the agreement or on, or at any time before, delivery of the vehicle.
-hirer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 individual licensee means an individual who holds a licence.
 inspector means an inspector under section 5B.
-lease, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 licence means a vehicle sale licence or a car market operator licence and, if the licence is varied under section 14E, includes the licence as so varied.
 licensed car market operator means a person who holds a car market operator licence.
 licensed dealer means a dealer who holds a vehicle sale licence.
@@ -104,24 +99,17 @@ model designation means, in relation to a motor vehicle of a particular model, t
 motorcycle means a motor vehicle that has less than 4 wheels and is steered by means of handlebars.
 motor vehicle means any motor car, motorcycle, or other vehicle used on land that is propelled wholly or partly by any volatile spirit, steam, gas, oil or electricity, or by any means other than human or animal power, whether or not that vehicle is in working condition or is incomplete but does not include any vehicle used on a railway or tramway or a vehicle included in a class of vehicles that the Minister has, under section 92, declared not to be a motor vehicle for this Act.
 new motor vehicle means a motor vehicle other than a second-hand motor vehicle.
-non-dealer, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-notice, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-NSW Act, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 occupier, of premises, for part 10A (Enforcement)—see section 70.
 odometer means an instrument or device that measures and records the distance travelled by a motor vehicle, but does not include an instrument or device that is designed so as to permit, as part of its normal functioning, manual alteration of the distance so recorded.
 offence, for part 10A (Enforcement)—see section 70.
 owner, in relation to a motor vehicle—
-  (a) for part 4A (Registration of interests in motor vehicles)—see section 32A; and
-  (b) in any other case—
-    (i) includes a person—
-      (A) who is the sole owner, joint owner or part owner of the motor vehicle; or
-      (B) who has possession of the motor vehicle under a hire-purchase agreement, or bill of sale or similar instrument; or
-      (C) who has possession of the motor vehicle under a contract of hire; and
-    (ii) does not include a person—
-      (A) mentioned in paragraph (b) (i) (A) who does not have possession of the motor vehicle; or
-      (B) who is entitled under a contract of hire, hire-purchase agreement, or bill of sale or similar instrument, to possession of the motor vehicle but who does not have possession of it.
-participating State, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-payment, of a purchase price, for part 4A (Registration of interests in motor vehicles)—see section 32A.
+  (a) includes a person—
+    (i) who is the sole owner, joint owner or part owner of the motor vehicle; or
+    (ii) who has possession of the motor vehicle under a hire-purchase agreement, or bill of sale or similar instrument; or
+    (iii) who has possession of the motor vehicle under a contract or hire; but
+  (b) does not include a person—
+    (i) mentioned in paragraph (a) (i) who does not have possession of the motor vehicle; or
+    (ii) who is entitled under a contract of hire, hire-purchase agreement, or bill or sale of similar instrument, to possession of the motor vehicle but who does not have possession of it.
 police certificate, for a person, means a written statement by the Australian Federal Police or Crimtrac indicating—
   (a) whether, according to the records held by the Australian Federal Police or Crimtrac, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
@@ -131,16 +119,11 @@ police certificate, for a person, means a written statement by the Australian Fe
   (b) if so—particulars of each offence.
 Note A conviction does not include a spent conviction (see Spent Convictions Act 2000, s 16 (c) (i)).
 premises includes a parcel of vacant land.
-purchase, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 qualified accountant means—
   (a) a member of the Institute of Chartered Accountants in Australia, the Institute of Public Accountants or CPA Australia; or
   (b) a person registered as a registered company auditor under the Corporations Act.
 register means the register of motor vehicle dealers kept by the commissioner under section 6.
-registered, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-register of interests, for part 4A (Registration of interests in motor vehicles)—see section 32A.
-registrable interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 50.
-security interest, for part 4A (Registration of interests in motor vehicles)—see section 32A.
 sell, in relation to a motor vehicle, means to sell as principal or agent.
 suitable person—see section 71.
 trade owner means—
