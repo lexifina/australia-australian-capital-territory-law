@@ -36,34 +36,41 @@ Note 2 For example, the Legislation Act, pt 1 defines the following terms:
 · statutory instrument
 · under.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
+agent, for part 7 (Residential tenancy databases)—see section 87.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
 commissioner means the commissioner for fair trading.
 conditional termination and possession order means a termination and possession order under section 49 (4).
 crisis accommodation—see section 126.
+database, for part 7 (Residential tenancy databases)—see section 87.
+database operator, for part 7 (Residential tenancy databases)—see section 87.
 energy efficiency rating means the energy efficiency rating contained in an energy efficiency rating statement.
 energy efficiency rating statement—see the Construction Occupations (Licensing) Act 2004, section 123AC.
 fixed term agreement means a residential tenancy agreement under which a tenant has a right of occupation for a fixed term.
 former lessor, in relation to a residential tenancy agreement that has been terminated, means the person who was the lessor while the agreement was in force.
 former tenant, in relation to a residential tenancy agreement that has been terminated, means the person who was the tenant while the agreement was in force.
 grantor—see section 71A.
+inaccurate, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 lessor—see section 5.
+list, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 mobile home means a dwelling (whether on wheels or not) that can be transferred from place to place and re-erected.
 mobile home park means land lawfully used for the purpose of accommodating mobile homes or caravans, and includes a caravan park or camping ground.
 occupancy agreement—see section 71C.
 occupancy dispute—see section 73.
 occupancy principles—see section 71E.
 occupant—see section 71B.
+out of date, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 periodic agreement means a residential tenancy agreement that is not a fixed term agreement.
-personal information, for part 6A (Tenancy databases)—see section 107B.
+personal information, for part 7 (Residential tenancy databases)—see section 87.
 premises includes—
   (a) any habitable structure, whether it is fixed to the land or not; and
   (b) part of any premises; and
   (c) any land, buildings or structures belonging to the premises.
 registrar means the registrar of the ACAT.
+rental bond, for a residential tenancy agreement, for part 7 (Residential tenancy databases)—see section 87.
 residential tenancy agreement—see section 6A.
+residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 standard occupancy terms means the standard occupancy terms (if any) prescribed by regulation.
 standard residential tenancy terms means the terms mentioned in schedule 1.
-tenancy database, for part 6A (Tenancy databases)—see section 107B.
 tenancy dispute—see section 72.
 tenant—see section 6.
 termination and possession order means an order of the tribunal terminating a residential tenancy agreement and granting vacant possession of the relevant premises to the applicant for the order.

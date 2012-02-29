@@ -57,7 +57,7 @@ Rent and other charges
   25 The Residential Tenancies Act prohibits the taking of holding deposits.
 ## Payment of rent
   26 (1) The tenant must pay the rent on time.
-  (2) The tenant must not use the bond money to pay the rent for the last week’s of the tenancy.
+  (2) The tenant must not use the bond money to pay the rent for the last weeks of the tenancy.
   (3) The tenant and the lessor may agree to change the way rent is paid (including, for example, where the rent is paid or whether it is to be paid into a nominated bank account or whether it is to be paid in person).
   (4) The tenant and lessor may agree that rent is to be paid electronically.
   27 The lessor must not require the tenant to pay rent by postdated cheque.

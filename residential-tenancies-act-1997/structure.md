@@ -27,5 +27,5 @@
 ### Division 6.4 Applications to ACAT
 ### Division 6.5 Powers and decisions of ACAT
 ### Division 6.6 Enforcement of ACAT orders
-## Part 6A Tenancy databases
+## Part 7 Residential tenancy databases
 ## Part 9 Miscellaneous
