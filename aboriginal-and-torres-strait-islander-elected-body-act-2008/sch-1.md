@@ -39,7 +39,7 @@ substitute
 Note For the meaning of indictable offence, see the Legislation Act, s 190 (Indictable and summary offences).
 [1.6] Qualifications for nomination Section 104 (b)
 omit
-[1.7] Candidates to be nominated Section 105 (2) and (3)
+[1.7] Candidates to be nominated Section 105 (2), (2A) and (3)
 substitute
 (2) A person (the nominee) may be nominated as a candidate for an ATSIEB election only by 4 electors (the nominators) entitled to vote at the ATSIEB election on the day the nominators sign the nomination form.
 (2A) A person is eligible to be a nominee if, at the hour of nomination, the person—
@@ -178,7 +178,7 @@ insert
 (2A) The stated times mentioned in subsection (1) (a) must indicate—
   (a) the time when the polling place must open for polling (the polling open time for the place); and
   (b) the time when the polling place must close for polling (the polling close time for the place).
-[1.30] Certified list of electors Section 121 (1) (c)
+[1.30] Certified list of electors Section 121 (1) (c) and (2)
 omit
 [1.31] Scrutineers—appointment Section 122 (1)
 substitute
