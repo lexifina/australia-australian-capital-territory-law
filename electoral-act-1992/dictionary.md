@@ -37,7 +37,6 @@ associated entity, for part 14 (Election funding and financial disclosure)—see
 augmented commission in relation to a redistribution, means the augmented electoral commission established by section 47 for the purposes of the redistribution.
 authorised delivery service, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 authorised officer means an officer authorised by the commissioner for the purpose of the provision in which the expression occurs.
-authorised witness, for part 10 (Voting)—see section 127.
 available for public inspection—see section 4A.
 ballot paper—
   (a) includes an electronic ballot paper; and
@@ -51,7 +50,8 @@ candidate means—
   (a) except in part 13 (Casual vacancies)—a person declared to be a candidate under section 109 (Declaration of candidates); and
   (b) in part 13—a person declared to be a candidate under section 193 (Publication of candidates’ details).
 candidate square—see section 116 (1) (h) (Printing of ballot papers).
-certified list of electors means a certified list of electors prepared under section 121.
+certified extract of electors, for an election in an electorate—see section 121.
+certified list of electors, for an election in an electorate—see section 121.
 closed, in relation to a roll, means closed in accordance with section 80.
 column, for schedule 2 (Ballot papers—printing of names and collation)—see schedule 2, clause 1.
 commissioner means the Electoral Commissioner appointed under section 22.
@@ -72,7 +72,7 @@ declaration vote means a vote cast in accordance with any of the following provi
 declaration voting papers, in relation to an election, means—
   (a) a declaration, in the form approved under section 340A (Approved forms) for this paragraph, to be completed by an elector; and
   (b) a ballot paper suitable for declaration voting at the election; and
-  (c) a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
+  (c) for declaration voting papers other than for postal voting—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
   (d) an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
 defined details, for division 14.4 (Disclosure of donations)—see section 216.
 defined particulars, for division 14.6 (Annual returns)—see section 228.
