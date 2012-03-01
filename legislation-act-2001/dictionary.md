@@ -9,7 +9,7 @@ Act—see the following sections:
   (b) section 17 (References to Acts include references to former Cwlth enactments etc).
 Note See also s 102 (References to laws include references to laws as in force from time to time) and s 104 (References to laws include references to instruments under laws).
 ACT means the Australian Capital Territory.
-ADI—see the definition of authorised deposit-taking institution.
+ADI—see authorised deposit-taking institution.
 administrative unit means an administrative unit for the time being established under the Public Sector Management Act 1994, section 13 (1).
 adult means an individual who is at least 18 years old.
 ambulance service means the ACT Ambulance Service established under the Emergencies Act 2004.
@@ -156,7 +156,7 @@ document means any record of information, and includes—
   (d) a drawing, map, photograph or plan.
 domestic partner—see section 169 (1).
 domestic partnership—see section 169 (2).
-DPP—see the definition of director of public prosecutions.
+DPP—see director of public prosecutions.
 driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
 Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established under the Electoral Act 1992.
@@ -310,7 +310,7 @@ nurse practitioner—
   (a) means a person whose registration as a registered health practitioner under the Health Practitioner Regulation National Law (ACT) is endorsed as being qualified to practise as a nurse practitioner; and
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 oath includes affirmation.
-Note The Evidence Act 1995 (Cwlth), ch 2, pt 2.1, div 2 and the Oaths and Affirmations Act 1984 make provision in relation to oaths and affirmations.
+Note The Evidence Act 2011, div 2.1.2 and the Oaths and Affirmations Act 1984 deal with oaths and affirmations.
 occupational discipline order means an order for occupational discipline made by the ACAT.
 Note Occupational discipline orders are made under the ACT Civil and Administrative Tribunal Act 2008, s 66 and under authorising laws (authorising law—see ACT Civil and Administrative Tribunal Act 2008, dict).
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
