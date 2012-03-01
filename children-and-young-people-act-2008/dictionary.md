@@ -89,7 +89,7 @@ care and protection assessment, for the care and protection chapters—see secti
 care and protection chapters—see section 336.
 care and protection order—see section 422.
 care and protection principles—see section 350.
-care entities, for division 15.4.3 (Information to be kept by foster carers and residential care services)—see section 526.
+care entities, for a child or young person for a placement, for division 15.4.3 (Information and items to be kept by foster carers and residential care services)—see section 526.
 care plan—see section 455.
 case management plan, for chapter 6 (Criminal matters—detention places)—see section 137.
 charge, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
@@ -256,10 +256,20 @@ parties—
   (a) for a family group conference, for this Act generally—see section 73; and
   (b) for an application, for the care and protection chapters—see section 700 (1).
 party, for chapter 12 (Care and protection—voluntary agreements to transfer or share parental responsibility)—see section 396 (1).
-personal information, about a child or young person, for division 15.4.3 (Information to be kept by foster carers and residential care services)—see section 526.
+personal items, for a child, young person or young adult—
+  (a) means—
+    (i) any of the following items belonging to, or about, the child, young person or young adult:
+      (A) a birth certificate;
+      (B) a passport;
+      (C) a school report or other report relating to the child’s, young person’s or young adult’s education;
+      (D) a medical report;
+      (E) a copy of a photograph; and
+    (ii) anything else prescribed by regulation; but
+  (b) does not include sensitive information about another person.
+Note Sensitive information—see s 845.
 person responsible, for a young offender, for part 5.2 (Interstate transfers)—see section 114.
 place includes premises.
-placement, for a child or young person, for division 19.4.5—see section 526.
+placement, for a child or young person, for division 15.4.3 (Information and items to be kept by foster carers and residential care services)—see section 526.
 place of care means a place approved as a place of care under section 525.
 positive test sample, for part 6.7 (Alcohol and drug testing)—see section 236.
 possession, of a thing, includes the following:
@@ -348,6 +358,7 @@ therapeutic protection person, for chapter 16 (Care and protection—therapeutic
 therapeutic protection place—see section 535.
 therapeutic protection plan—see section 536.
 therapeutic protection standards—see section 887 (2) (d).
+therapeutic protection transition plan, for a child or young person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 538.
 Torres Strait Islander means a person who—
   (a) is a descendant of the indigenous inhabitants of the Torres Strait Islands; and
   (b) either—
@@ -358,7 +369,7 @@ transfer agreement, for part 5.2 (Interstate transfers)—see section 115.
 transfer arrangement, means a transfer arrangement under section 116 (Transfer arrangements—general) or, if the transfer arrangement has been amended by another transfer arrangement under that section, the transfer arrangement as amended.
 transfer escort, for part 5.2 (Interstate transfers)—see section 114.
 transfer order—for part 5.2 (Interstate transfers)—see section 120.
-transition plan, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 538.
+transition plan, for a young person or young adult—see section 529C.
 treating doctor, for the criminal matters chapters—see section 97.
 visiting conditions, for chapter 6 (Criminal matters—detention places)—see section 137.
 visitor, for chapter 6 (Criminal matters—detention places)—see section 137.
@@ -367,6 +378,7 @@ voluntary report—see section 354.
 welfare body, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 work experience, for chapter 21 (Employment of children and young people)—see section 780.
 work experience standards—see section 887 (2) (g).
+young adult, for part 15.5 (Transition to adulthood)—see section 529B.
 young detainee—see section 95.
 young offender means—
   (a) a person who—

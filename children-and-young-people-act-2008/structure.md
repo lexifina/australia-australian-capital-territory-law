@@ -126,7 +126,12 @@
 ## Part 15.4 Out-of-home carers
 ### Division 15.4.1 Placement with out-of-home carer
 ### Division 15.4.2 Authorisation of out-of-home carers and approval of places of care
-### Division 15.4.3 Information to be kept by foster carers and residential care services
+### Division 15.4.3 Information and items to be kept by foster carers and residential care services
+## Part 15.5 Transition to adulthood
+### Division 15.5.1 Preliminary
+### Division 15.5.2 Transition plans
+### Division 15.5.3 Assistance after leaving out-of-home care
+### Division 15.5.4 Entitlement to personal items and access to protected information
 # Chapter 16 Care and protection—therapeutic protection of children and young people
 ## Part 16.1 Preliminary
 ## Part 16.2 Therapeutic protection orders
