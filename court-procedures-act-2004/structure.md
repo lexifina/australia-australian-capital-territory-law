@@ -10,6 +10,7 @@
 ### Division 4.4 Other provisions
 ## Part 5 Court security
 ## Part 6 Procedural provisions—all proceedings
+## Part 6A Procedural provisions—criminal proceedings
 ## Part 7 Procedural provisions—civil proceedings
 ## Part 7A Procedural provisions—proceedings involving children or young people
 ### Division 7A.1 General
