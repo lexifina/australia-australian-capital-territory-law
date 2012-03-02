@@ -22,4 +22,3 @@
 ## Part 17 Transitional—energy efficiency rating statements
 ### Division 17.1 General
 ### Division 17.2 Energy efficiency rating statements
-### Division 17.3 Registered assessors
