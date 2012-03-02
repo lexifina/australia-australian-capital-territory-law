@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · chief health officer
 · exercise
 · function
+· home address
 · reviewable decision notice.
 advertisement means—
   (a) any words, whether written or spoken; or
@@ -20,12 +21,16 @@ Note Analyst includes the government analyst (see Public Health Act 1997, dict).
 authorised officer means a public health officer who is authorised under the Public Health Act 1997, section 12A (2) (Functions of public health officers) to exercise a function under this Act.
 certificate of registration, for a food business, means a certificate of registration issued under section 96 (1) for the business.
 clearance certificate means a clearance certificate issued under section 86 (2).
+closure notice means a notice required under section 84A (2) (Display of closure notices).
 Commonwealth Act means the Food Standards Australia New Zealand Act 1991 (Cwlth).
 connected, with an offence, for part 5 (Inspection and seizure powers)—see section 45.
 disciplinary notice—see section 101 (1) (Procedure for taking action in relation to registration).
 displayed for sale—see section 9 (2) (Meaning of sell etc).
 dispose, of food, for part 4 (Emergency powers)—see section 37.
 emergency order—see section 38.
+engage in conduct means—
+  (a) do an act; or
+  (b) omit to do an act.
 equipment means all or any part of—
   (a) any utensil, machinery, instrument, device, apparatus or appliance that is used, or that is designed or intended for use, in relation to the handling of food; or
   (b) any substance, utensil, machinery, instrument, device, apparatus or appliance that is used, or that is designed or intended for use, in cleaning anything mentioned in paragraph (a).
