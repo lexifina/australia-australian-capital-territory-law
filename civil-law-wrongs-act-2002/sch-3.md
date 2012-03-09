@@ -533,8 +533,3 @@ This schedule does not limit the insurance arrangements a person may make apart 
 (2) Anything done or omitted to be done in relation to such a scheme is taken to be, and always to have been, validly done or omitted.
 (3) In particular, an insurance policy required by this schedule before a limitation on liability in damages of a person to whom such a scheme applies is reduced is taken to comply, and always to have complied, with this schedule if it would have complied had the amendments made by the amending Act been in force when the policy was issued.
 (4) This section extends to proceedings pending in a court on the commencement of this section.
-## 4.60 Review of sch 4
-(1) The Minister must review this schedule as soon as possible after the end of its 5th year of operation.
-(2) The review must examine whether the policy objectives of this schedule remain valid and whether the terms of the schedule remain appropriate for securing those objectives.
-(3) A report of the outcome of the review is to be presented to the Legislative Assembly within 12 months after the end of the 5 years.
-(4) This section expires 7 years after the day it commences.
