@@ -35,6 +35,7 @@
 ### Division 8.2.6 Making claims for payment
 ### Division 8.2.7 Payment of claims
 ### Division 8.2.8 Default insurance fund—miscellaneous
+## Part 8.3 Acts of terrorism
 # Chapter 9 Common law damages
 ## Part 9.1 Interpretation and application—ch 9
 ## Part 9.2 Choice of law
@@ -43,4 +44,3 @@
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 Notification and review of decisions
 # Chapter 13 Miscellaneous
-# Chapter 15 Temporary provisions for acts of terrorism

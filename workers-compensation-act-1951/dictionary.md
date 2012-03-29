@@ -20,6 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory law
 · under
 · year.
+act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
 approved insurer means an insurer approved by the Minister under section 145.
 approved rehabilitation provider—see section 139 (1).
 auditor means any of the following:
@@ -104,7 +105,8 @@ insurer—
   (a) for chapter 5 (Injury management process)—
     (i) see section 86A; and
     (ii) if there is more than 1 employer of a worker—see section 87; and
-  (b) for part 6.2 (Time for accepting or rejecting claims)—see section 127 (1).
+  (b) for part 6.2 (Time for accepting or rejecting claims)—see section 127 (1); and
+  (c) for part 8.3 (Acts of terrorism)—see section 179B.
 internally reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199B (1).
 internal reviewer, for chapter 12 (Notification and review of decisions)—see section 199B (3).
 liquidator, of an insurer, includes—
@@ -167,6 +169,8 @@ speech therapist means—
 statutory floor, for part 4.3 (Weekly compensation)—see section 36G (1).
 substantial means real, actual or material.
 substantive law, for part 9.2 (Choice of law)—see section 182B.
+temporary fund, for part 8.3 (Acts of terrorism)—see section 179D (1).
+temporary fund threshold amount, for part 8.3 (Acts of terrorism)—see section 179A (2).
 territorial sea, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
 Territory or State of connection—see section 36A.
 territory worker means a worker for whom the ACT is the Territory or State of connection.
