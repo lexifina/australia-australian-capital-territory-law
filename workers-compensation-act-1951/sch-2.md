@@ -22,6 +22,6 @@ territorial sea—see the Seas and Submerged Lands Act, section 3 (1).
   (a) the part of the area described in the Petroleum (Submerged Lands) Act, schedule 2 for the Northern Territory that—
     (i) is within the outer limits of the continental shelf; and
     (ii) is not within Area A of the Zone of Cooperation; and
-  (b) the adjacent area for the Territory of Ashmore and Cartier Islands (within the meaning of the Petroleum Submerged Lands Act, section 5A (3)) other than the territorial sea within that area; and
+  (b) the adjacent area for the Territory of Ashmore and Cartier Islands (within the meaning of the Petroleum (Submerged Lands) Act section 5A (3)) other than the territorial sea within that area; and
   (c) the space above and below the areas described in paragraph (a) and (b).
 (5) However, the adjacent area for a State or the Northern Territory does not include any area inside the limits of a State or Territory.
