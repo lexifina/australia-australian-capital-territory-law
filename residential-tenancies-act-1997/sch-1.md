@@ -18,7 +18,7 @@ Costs and procedures for establishing tenancy agreement
 ## Information
   13 (1) The lessor must provide to the tenant a copy of an information booklet about residential tenancies authorised by the commissioner of fair trading before the commencement of this agreement.
   (2) If it is not possible to provide the tenant with a booklet, the lessor must inform the tenant of the booklet and where it may be obtained.
-  (3) If the premises are a unit within the meaning of the Unit Titles Act 2001, the lessor must give the tenant a copy of the articles of the owners corporation before the commencement of this agreement.
+  (3) If the premises are a unit within the meaning of the Unit Titles Act 2001, the lessor must give the tenant a copy of the owners corporation’s rules before the commencement of this agreement.
 Bond and condition report
 ## Maximum bond
   14 Payment of a bond is not necessary unless required by the lessor.
@@ -168,8 +168,8 @@ The tenant must take reasonable care of the premises and keep the premises reaso
     (a) in substantially the same state of cleanliness, removing all the tenant’s belongings and any other goods brought onto the premises during the duration of the tenancy agreement; and
     (b) in substantially the same condition as the premises were in at the commencement of the tenancy agreement, fair wear and tear excepted.
   65 The lessor must not require the tenant to make alterations, improvements or renovations to the premises.
-## Tenant of unit to observe articles
-  66 If the premises are a unit under the Unit Titles Act 2001, the tenant must comply with the articles of the owners corporation, and with any notice served in accordance with the articles, to the extent that they are not inconsistent with the standard residential tenancy terms in this agreement.
+## Tenant of unit to comply with owners corporation’s rules
+  66 If the premises are a unit under the Unit Titles Act 2001, the tenant must comply with the owners corporation’s rules, and with any notice served in accordance with the rules, to the extent that they are not inconsistent with the standard residential tenancy terms in this agreement.
 Tenant must make no alterations and must not add any fixtures or fittings without the consent of lessor
   67 The tenant must not make any additions or alterations to the premises without the written consent of the lessor.
   68 (1) The tenant must not add any fixtures or fittings to the premises without the consent of the lessor.
