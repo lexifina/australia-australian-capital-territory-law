@@ -108,7 +108,7 @@ licensed travel agent means a person who holds a licence as a travel agent.
 livestock means animals raised or kept for profit.
 main place of business, for a licensed agent, means the place shown in the register as the agent’s main place of business.
 obtains a beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
-owners corporation managing agent means a person appointed as manager of an owners corporation for a units plan under the Unit Titles Act 2001.
+owners corporation managing agent means a person appointed as manager of an owners corporation for a units plan under the Unit Titles (Management) Act 2011.
 parent, of a person, means the person’s father, mother, grandfather, grandmother, stepfather or stepmother, or someone acting in place of the person’s parent.
 police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
   (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
