@@ -51,4 +51,4 @@ seller, of residential property, for—
 sublease, for part 2 (Sale of residential property)—see the Planning and Development Act 2007, section 234.
 unapproved structure, for part 2 (Sale of residential property)—see section 7.
 unit, for part 2 (Sale of residential property)—see section 7.
-unit title certificate, for a unit, means a certificate given under the Unit Titles Act 2001, section 75 (1).
+unit title certificate, for a unit, means a certificate given under the Unit Titles (Management) Act 2011, section 119 (1).
