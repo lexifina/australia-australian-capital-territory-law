@@ -27,7 +27,7 @@ owner, of a parcel of land means—
   (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the parcel but not yet registered as the proprietor—the new owner; or
   (c) a mortgagee in possession of the parcel; or
   (d) a person holding the parcel under a sublease from the Territory, if the Territory holds the parcel under a lease from the Commonwealth.
-owners corporation—see the Unit Titles Act, dictionary.
+owners corporation—see the Unit Titles (Management) Act 2011, dictionary.
 parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
 primary production means—
   (a) production resulting directly from—
