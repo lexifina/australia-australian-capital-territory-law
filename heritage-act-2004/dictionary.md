@@ -55,7 +55,7 @@ offence, for part 14 (Enforcement)—see section 77.
 owner, of a place, means—
   (a) the registered proprietor of a lease granted under the Planning and Development Act 2007 over land that includes the place; or
   (b) a unit owner within the meaning of the Unit Titles Act 2001, if the lease of the unit is over land that includes the place; or
-  (c) an owners corporation within the meaning of the Unit Titles Act 2001, if the common property covers land that includes the place.
+  (c) an owners corporation within the meaning of the Unit Titles (Management) Act 2011, if the common property covers land that includes the place.
 partial cancellation, for part 7 (Cancellation of registration)—see section 50.
 place—see section 8 (1).
 premises includes land.
