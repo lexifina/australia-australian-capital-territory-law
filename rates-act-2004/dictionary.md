@@ -42,7 +42,7 @@ owner, of a parcel of land, means—
     (iii) a mortgagee in possession of the parcel; or
     (iv) a person holding the parcel of land under a sublease from the Territory, if the Territory holds the parcel under lease from the Commonwealth; and
   (b) for part 7 (Deferral and rebates)—see section 45.
-owners corporation—see the Unit Titles Act, dictionary.
+owners corporation—see the Unit Titles (Management) Act 2011, dictionary.
 parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
 partner, for part 7 (Deferral and rebates)—see section 45.
 partnership, for part 7 (Deferral and rebates)—see section 45.
