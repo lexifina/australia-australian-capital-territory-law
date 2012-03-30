@@ -17,6 +17,10 @@
 ## Part 2.6 Apportionment
 ## Part 2.7 Children and children’s property
 ## Part 2.8 Rights-of-way
+## Part 2.9 Unit Titles
+### Division 2.9.1 Definitions—pt 2.9
+### Division 2.9.2 Developer disclosure
+### Division 2.9.3 Implied warranties
 # Chapter 3 Mortgages
 ## Part 3.1 Powers in relation to mortgages
 ## Part 3.2 Mortgages—other provisions

@@ -26,6 +26,7 @@ bankruptcy includes any act or proceeding in law having effects or results simil
 Example
 winding-up of a company
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+common property, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, section 13.
 conveyance includes an assignment, appointment, lease, settlement or other assurance by deed of any property.
 deed, in relation to land under the Land Titles Act 1925, includes an instrument that has the effect of a deed under that Act.
 disposition includes—
@@ -57,6 +58,7 @@ mortgagor—
   (b) for other property—includes any of the following:
     (i) a person taking title to the equity of redemption under the original mortgagor;
     (ii) a person entitled to redeem a mortgage, according to the person’s interest in the mortgaged property.
+owners corporation, for part 2.9 (Unit Titles)—see the Unit Titles (Management) Act 2011, dictionary.
 personal representative means the executor or administrator of a deceased person.
 person with a legal disability means—
   (a) a child; or
@@ -73,7 +75,9 @@ purchaser—
   (c) for any other provision—means a purchaser for valuable consideration, and includes—
     (i) a lessee or mortgagee; and
     (ii) anyone else who acquires an interest in property for valuable consideration.
-registered means registered in the appropriate register kept by the registrar-general.
+registered means—
+  (a) for this Act generally—registered in the appropriate register kept by the registrar-general; and
+  (b) for part 2.9 (Unit Titles)—see section 259.
 rent—
   (a) includes yearly or other rent; and
   (b) for part 2.6 (Apportionment)—see section 248.
@@ -87,4 +91,6 @@ trust corporation means—
 trustee company—see the Trustee Companies Act 1947, dictionary.
 trustees for sale means the people holding property on trust for sale.
 trust for sale means a binding trust for sale, whether or not exercisable at the request or with the consent of anyone, and with or without a discretionary power to postpone sale.
+unit, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, section 9.
+units plan, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, dictionary.
 valuable consideration includes marriage, but does not include a nominal consideration in money.
