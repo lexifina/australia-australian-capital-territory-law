@@ -47,4 +47,3 @@
 ## Part 5.3 Victimisation of people for reporting breaches and assisting with investigations
 ## Part 5.4 Other miscellaneous provisions
 ## Part 5.5 Regulations
-# Chapter 10 Transitional
