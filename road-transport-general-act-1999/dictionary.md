@@ -55,6 +55,7 @@ driver trainer, for division 4.2 (Licence suspension, disqualification and relat
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
+first offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
 illegal user declaration means a statutory declaration mentioned in section 38.
 immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
@@ -81,6 +82,7 @@ registered, for a vehicle, means registered under the Road Transport (Vehicle Re
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 reminder notice, for part 3 (Infringement notices for certain offences), means a notice under section 33.
+repeat offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
 responsible person, for a vehicle—see section 10 and section 11.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 reviewable decision, for part 7 (Notification and review of decisions)—see section 90A (1).
