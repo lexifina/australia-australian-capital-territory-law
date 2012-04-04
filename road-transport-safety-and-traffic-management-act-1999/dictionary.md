@@ -37,6 +37,7 @@ drive a vehicle includes—
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
+first offender, for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
 indicated on, an image of a vehicle taken by an approved camera detection device or an approved average speed detection system, includes accompanying or reasonably associated with the image.
 infringement notice—see the Road Transport (General) Act 1999, dictionary.
 installation, of a prescribed traffic control device, includes the painting or formation of any marks or structure that forms, or forms part of, the device.
@@ -49,6 +50,7 @@ registered operator—see the Road Transport (Vehicle Registration) Act 1999, di
 relevant information, for part 6 (Traffic offence detection devices)—
   (a) for an image of a vehicle taken by a camera detection device—see section 22A (1); and
   (b) for an image of a vehicle, or a numberplate or anything else on a vehicle, taken by an average speed detection system—see section 22A (2).
+repeat offender, for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 retention area—see the Uncollected Goods Act 1996, dictionary.
