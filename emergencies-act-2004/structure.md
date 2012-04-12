@@ -5,8 +5,8 @@
 ## Part 3.2 Chief officers—functions and powers
 # Chapter 4 The emergency services
 ## Part 4.1 The ambulance service
-## Part 4.2 The fire brigade
-### Division 4.2.1 Fire brigade
+## Part 4.2 Fire and rescue
+### Division 4.2.1 Fire and rescue
 ### Division 4.2.2 Community fire units
 ## Part 4.3 The rural fire service
 ## Part 4.4 The state emergency service (SES)

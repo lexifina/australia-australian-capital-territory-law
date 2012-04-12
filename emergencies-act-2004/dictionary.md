@@ -53,11 +53,11 @@ bushfire season, for division 5.6.2 (Controlled activities and offences relating
 casual volunteer—see section 59D (2).
 chief officer means—
   (a) for the ambulance service—the chief officer (ambulance service); and
-  (b) for the fire brigade—the chief officer (fire brigade); and
+  (b) for fire and rescue—the chief officer (fire and rescue); and
   (c) for the rural fire service—the chief officer (rural fire service); and
   (d) for the SES—the chief officer (SES).
 chief officer (ambulance service)—see section 28.
-chief officer (fire brigade)—see section 29.
+chief officer (fire and rescue)—see section 29.
 chief officer (rural fire service)—see section 30.
 chief officer (SES)—see section 31.
 city area—see section 66.
@@ -88,12 +88,13 @@ emergency risk includes the risk of an emergency arising from—
   (a) civil defence requirements associated with warlike action; or
   (b) mass gatherings of people at sporting and other events; or
   (c) technological problems, including the widespread simultaneous failure of computers.
-emergency service means the ambulance service, the fire brigade, the rural fire service or the SES.
+emergency service means the ambulance service, fire and rescue, the rural fire service or the SES.
 emergency services, for part 4.6 (Other approved providers)—see section 60.
 emergency services support volunteer—see section 59CA (Appointment of emergency services support volunteers).
 exempt contribution, for schedule 1 (Ambulance levy)—see schedule 1, section 1.2.
 family rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 fire alarm includes any signalling apparatus for giving notice of a fire.
+fire and rescue means ACT Fire and Rescue established under section 43.
 fire appliance includes—
   (a) any vehicle, equipment, implement or thing used for the prevention, extinguishing or containment of fire or smoke; and
   (b) any fire alarm; and
@@ -146,8 +147,9 @@ rescue services, for part 4.6 (Other approved providers)—see section 60.
 response operation, for part 4.6 (Other approved providers)—see section 60.
 reviewable decision, for chapter 9 (Notification and review of decisions)—see section 185.
 rural area—see section 65 (4).
+rural fire service means the ACT Rural Fire Service established under section 51.
 SEMSOG––see section 141.
-SES—see section 56.
+SES means the ACT State Emergency Service established under section 56.
 single rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 specialist, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
 standards and protocols, for an emergency service, means the standards and protocols determined under section 38 for the service.
