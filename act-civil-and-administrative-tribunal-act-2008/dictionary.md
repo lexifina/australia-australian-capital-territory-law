@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · appoint
+· Australian Consumer Law (ACT)
 · body
 · contravene
 · director-general (see s 163)
@@ -17,6 +18,15 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 ACAT trust account, for part 9A (ACAT trust account)—see section 115B (2).
 appeal president means the appeal president appointed under section 94.
 appeal tribunal means a tribunal made up under section 81 to review a decision of the tribunal.
+application—
+  (a) for this Act generally—means an application under section 9; and
+  (b) for parts 5 to 9 includes—
+    (i) a matter referred or appealed to the tribunal under any authorising law; and
+    (ii) a matter heard or dealt with by the tribunal on its own initiative.
+Examples—authorising laws under which a matter may be referred to the tribunal
+1 Crimes Act 1900, s 331 (Referral to ACAT)
+2 Human Rights Commission Act 2005, s 53A (Referral of discrimination complaints)
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 assessor means a person appointed under section 97.
 authorising law means—
   (a) a territory law that provides that an application may be made to the tribunal; and
