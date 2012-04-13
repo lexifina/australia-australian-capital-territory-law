@@ -16,7 +16,6 @@ Note A reference to an Act includes a reference to the statutory instruments mad
 (2) The committee is taken to be an advisory committee established under this Act.
 (3) Subsection (4) applies if, immediately before commencement day, a person is a member of an advisory committee under the Fair Trading (Consumer Affairs) Act 1973, section 3.
 (4) The person is taken to be a member of the relevant committee under this Act.
-## M 1.3A Transitional—dict, def fair trading legislation
 ## 1.4 Transitional—regulations
 (1) A regulation may prescribe transitional matters necessary or convenient to be prescribed because of the repeal of the repealed Acts.
 (2) A regulation may modify this schedule (including in relation to another territory law) to make provision in relation to anything that, in the Executive’s opinion, is not, or is not adequately or appropriately, dealt with in this schedule.
