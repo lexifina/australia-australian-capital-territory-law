@@ -19,4 +19,3 @@
 ## Part 9 Pharmacists and pharmacy premises
 ## Part 10 Review of decisions
 ## Part 15 Miscellaneous
-## Part 22 Transitional—Health Amendment Act 2011
