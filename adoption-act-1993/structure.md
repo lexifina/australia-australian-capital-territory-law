@@ -27,4 +27,3 @@
 ## Part 7 Offences
 ## Part 7A Notification and review of decisions
 ## Part 8 Miscellaneous
-## Part 20 Transitional—Adoption Amendment Act 2009 (No 2)
