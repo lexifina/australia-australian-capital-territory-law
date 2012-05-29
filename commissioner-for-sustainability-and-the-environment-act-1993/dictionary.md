@@ -8,10 +8,17 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · Minister (see s 162)
 · penalty unit (see s 133)
-· sitting day.
+· sitting day
+· territory authority
+· the Territory.
 agency means an administrative unit or a prescribed authority.
 authorised person means a person appointed by the commissioner to be an authorised person for this Act.
-commissioner means the Commissioner for the Environment appointed under section 4.
+commissioner means the Commissioner for Sustainability and the Environment appointed under section 4.
+ecologically sustainable development means the effective integration of economic and environmental considerations in decision-making processes achievable through implementation of the following principles:
+  (a) the precautionary principle;
+  (b) the inter-generational equity principle;
+  (c) conservation of biological diversity and ecological integrity;
+  (d) improved valuation and pricing of environmental resources.
 law of the Territory includes part of such a law.
 officer means—
   (a) in relation to an administrative unit—
@@ -43,3 +50,5 @@ responsible Minister, in relation to an agency, means—
   (b) in relation to a prescribed authority mentioned in the definition of prescribed authority, paragraph (c)—the Minister administering the law of the Territory concerned; or
   (c) in relation to a prescribed authority mentioned in the definition of prescribed authority, paragraph (b) or (d)—the Minister declared by regulation to be the responsible Minister in relation to that authority;
 or another Minister acting for that Minister.
+the inter-generational equity principle means that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations.
+the precautionary principle means that, if there is a threat of serious or irreversible environmental damage, a lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation.
