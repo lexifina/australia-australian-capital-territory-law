@@ -116,7 +116,7 @@ registered means registered with the registrar-general under the Land Titles Act
 reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
 special resolution—see the Unit Titles (Management) Act 2011, dictionary.
-staged development, in relation to a unit title application—see section 17 (3) (Unit title applications—general requirements).
+staged development, in relation to a unit title application—see section 17 (4) (Unit title applications—general requirements).
 termination, of a lease of a unit, does not include the termination of the lease on surrender under the Planning and Development Act 2007, section 254 (Grant of further leases).
 unanimous resolution—see the Unit Titles (Management) Act 2011, dictionary.
 unit—see section 9.
