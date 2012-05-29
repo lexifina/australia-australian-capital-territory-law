@@ -101,7 +101,7 @@ commencement notice—see section 11.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Australian Consumer Law) Act 1992.
 commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
-commissioner for the environment means the Commissioner for the Environment under the Commissioner for the Environment Act 1993.
+commissioner for sustainability and the environment means the Commissioner for Sustainability and the Environment under the Commissioner for Sustainability and the Environment Act 1993.
 commissioner of police means the Commissioner of Police of the Australian Federal Police.
 commit, a person for trial, means—
   (a) to order that the person be remanded in custody until tried by the Supreme Court; or
