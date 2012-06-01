@@ -21,6 +21,7 @@
 ### Division 7.1 Adults-only area decisions
 ### Division 7.2 Approvals for young people’s event in adults-only area at licensed premises
 ## Part 8 Conduct at licensed premises and permitted premises
+### Division 8.1 Responsible service of alcohol
 ### Division 8.2 Intoxicated people
 ### Division 8.3 Children and young people
 ### Division 8.4 Occupancy loading
