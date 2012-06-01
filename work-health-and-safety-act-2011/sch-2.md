@@ -8,9 +8,11 @@ The Work Safety Council is established.
 ## (a) to advise the Minister on matters relating to—
 ## (i) work safety; or
 ## (ii) workers compensation; or
+    (iii) bullying in the workplace and other workplace psychosocial issues; or
 ## (b) to inquire into and report to the Minister on matters referred to the council by the Minister in relation to—
 ## (i) work safety; or
 ## (ii) workers compensation; or
+    (iii) bullying in the workplace and other workplace psychosocial issues; or
 ## (c) any other function prescribed by regulation.
 Note A provision of a law that gives an entity (including a person) a function also gives the entity the powers necessary and convenient to exercise the function (see Legislation Act, s 196 (1) and dict, pt 1, defs entity and function).
 ## (2) Without limiting subsection (1) (a), the matters on which the council may advise the Minister include the following matters:
