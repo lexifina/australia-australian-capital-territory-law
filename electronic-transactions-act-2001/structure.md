@@ -5,4 +5,3 @@
 ### Division 2.3 Other provisions relating to territory laws
 ## Part 2A Additional provisions applying to contracts involving electronic communications
 ## Part 3 Miscellaneous
-## Part 10 Transitional—Electronic Transactions Amendment Act 2012
