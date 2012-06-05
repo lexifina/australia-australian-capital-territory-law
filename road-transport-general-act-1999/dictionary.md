@@ -5,11 +5,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · ACT
 · administrative unit
+· Australian citizen
 · chief police officer
 · Commonwealth
 · director-general (see s 163)
 · entity
 · exercise
+· found guilty (of an offence)
 · function
 · home address
 · instrument
