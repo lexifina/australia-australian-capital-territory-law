@@ -58,7 +58,7 @@ incorporated document means—
   (a) the standards mentioned in section 39 (1) (b) (v) (When may someone complain about a health service?); or
   (b) the standards mentioned in section 40 (b) (i) or (iv) (When may someone complain about a disability service?); or
   (c) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
-older people service complaint means a complaint about a service for older people that may be made, or is made, under section 40.
+older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
 provider, of a service—see section 10.
 registered, for a health professional, means registered under the Health Professionals Act 2004.
