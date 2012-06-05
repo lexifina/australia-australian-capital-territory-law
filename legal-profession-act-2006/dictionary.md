@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · financial year
 · for
 · foreign country
+· found guilty (of an offence)
 · function
 · home address
 · indictable offence
