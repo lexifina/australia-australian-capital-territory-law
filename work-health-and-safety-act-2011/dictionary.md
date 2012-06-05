@@ -5,13 +5,14 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · Act
 · corporation
+· Corporations Act
 · daily newspaper
 · emergency service
+· found guilty (of an offence)
 · function
 · home address
 · medical practitioner
 · police officer
-· public employee
 · the Territory
 · working day.
 approved code of practice means a code of practice approved under division 14 2 (Codes of practice).
@@ -45,19 +46,20 @@ health and safety committee, for a business or undertaking—see division 5.4 (H
 health and safety duty, for division 2.5 (Offences and penalties)—see section 30.
 health and safety representative, in relation to a worker, means the health and safety representative elected under part 5 (Consultation, representation and participation) for the work group of which the worker is a member.
 import means to bring into the ACT from outside Australia.
+infringement notice—see the Magistrates Court Act 1930, dictionary.
+infringement notice offence—see the Magistrates Court Act 1930, dictionary.
 inspector means an inspector appointed under part 9 (Securing compliance).
 internal review—see section 224.
 internal reviewer means—
   (a) the regulator; or
   (b) a person appointed by the regulator under section 225.
-medical treatment means treatment by a medical practitioner.
 notice—
   (a) for division 10.4 (General requirements applying to notices)—see section 202; or
   (b) for division 10.6 (Injunctions)—see section 214.
 notifiable incident—see section 35.
 offender, for division 13.2 (Sentencing for offences)—see section 234.
 officer means—
-  (a) an officer within the meaning of section 9 of the Corporations Act 2001 of the Commonwealth other than a partner in a partnership; or
+  (a) an officer within the meaning of the Corporations Act, section 9, other than a partner in a partnership; or
   (b) an officer of the Territory within the meaning of section 247; or
   (c) an officer of a public authority within the meaning of section 252.
 official of a union, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
