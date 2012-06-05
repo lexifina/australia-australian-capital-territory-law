@@ -1,7 +1,7 @@
 # Schedule 3 Consumer credit transitional provisions
 ## 3.1 Definitions—sch 3
 In this schedule:
-ASIC means the Australian Securities and Investments Commission.
+ASIC means the Australian Securities and Investments Commission under the Australian Securities and Investments Commission Act 2001 (Cwlth).
 national credit legislation means—
   (a) the National Consumer Credit Protection Act 2009 (Cwlth); and
   (b) the National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009 (Cwlth).
