@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · appoint
+· Australian citizen
 · construction occupations registrar
 · disallowable instrument
 · document
