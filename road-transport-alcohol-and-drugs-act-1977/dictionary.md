@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · doctor
 · exercise
 · fail
+· found guilty (of an offence)
 · function
 · nurse
 · nurse practitioner.
