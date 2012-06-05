@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· Australian citizen
 · bankrupt or personally insolvent
 · daily newspaper
 · function
