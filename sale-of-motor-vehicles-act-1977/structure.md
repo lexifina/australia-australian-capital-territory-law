@@ -2,7 +2,7 @@
 ## Part 2 Licences to carry on business as dealer, wholesaler or car market operator
 ## Part 3 Dealings in motor vehicles
 ## Part 4 Sale of second-hand motor vehicles generally
-## Part 4A Registration of interests in motor vehicles
+## Part 4A Security interests in motor vehicles
 ## Part 5 Trust accounts
 ## Part 6 Change of executive officers of corporate licensees
 ## Part 7 Occupational discipline—licensees
