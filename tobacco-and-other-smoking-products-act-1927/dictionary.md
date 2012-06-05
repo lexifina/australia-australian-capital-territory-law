@@ -8,6 +8,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · contravene
 · domestic partner (see s 169 (1))
 · exercise
+· found guilty (of an offence)
 · function
 · home address
 · occupational discipline order
@@ -28,10 +29,12 @@ conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, secti
 connected, for part 6 (Enforcement)—see section 31.
 engage in conduct, for part 6A (Tobacco compliance testing)—see the Criminal Code, section 13.
 food includes confectionery.
-ground for occupational discipline, for division 7.3—see section 56.
-herbal product means a product prepared for smoking that contains a herb or other plant matter but does not contain tobacco or a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences).
+ground for occupational discipline, for division 7.3 (Occupational discipline—licensees)—see section 56.
+herbal product—
+  (a) means a product prepared for smoking that contains a herb or other plant matter; but
+  (b) does not contain tobacco or a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences).
 identity card means—
-  (a) in relation to a public health officer under the Public Health Act 1997—the identity card issued to him or her under that Act;
+  (a) in relation to a public health officer under the Public Health Act 1997—the identity card issued to the officer under that Act;
   (b) in relation to a police officer—proof of identification of a type approved for general purposes by the chief police officer; or
   (c) in relation to any other authorised officer—the identity card issued to the officer under section 34.
 immediate package, of a smoking product, means a package containing the product—
