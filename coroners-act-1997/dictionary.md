@@ -47,7 +47,7 @@ Aboriginal or Torres Strait Islander person means a person who—
   (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
   (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 body includes part of a body, and the remains of a body.
-Chief Coroner means the person who is Chief Coroner by virtue of the operation of section 6.
+Chief Coroner means the person who is Chief Coroner under section 6.
 chief psychiatrist—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 coroner includes a deputy coroner appointed under section 8.
 court means the Coroner’s Court continued in existence under section 4 (1).
@@ -67,7 +67,7 @@ inquest means an inquest concerning the death of a person.
 inquiry means an inquiry concerning a disaster or fire.
 member of the immediate family, for a deceased person the subject of an inquest, means—
   (a) a person who was the domestic partner of the deceased person, or a parent, grandparent, child, brother or sister, or guardian or ward, of the deceased person; and
-  (b) if the deceased person was an Aboriginal person or Torres Strait Islander—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the deceased person was a member, had the responsibility for, or an interest in, the welfare of the deceased person.
+  (b) if the deceased person was an Aboriginal or Torres Strait Islander person—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the deceased person was a member, had the responsibility for, or an interest in, the welfare of the deceased person.
 Note For the meaning of domestic partner, see the Legislation Act, s 169.
 mental health officer—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 place includes a vehicle, a vessel or an aircraft.
