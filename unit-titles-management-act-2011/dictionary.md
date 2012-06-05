@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · appoint
 · bankrupt or personally insolvent
 · contravene
+· corporation
 · director-general
 · exercise
 · function
@@ -24,9 +25,8 @@ class A unit—see the Unit Titles Act 2001, section 10.
 class B unit—see the Unit Titles Act 2001, section 11.
 common property—see the Unit Titles Act 2001, section 13.
 communications officer, for an owners corporation, means the owners corporation communications officer appointed by the owners corporation under section 66.
-company means—
-  (a) a company registered under the Corporations Act; and
-  (b) includes a body corporate.
+company means a corporation.
+Note Corporation—see the Legislation Act, dictionary, pt 1.
 corporate register—see section 113.
 court includes the ACAT.
 default rules—see section 106.
