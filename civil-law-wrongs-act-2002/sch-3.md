@@ -130,13 +130,13 @@ amount payable, under an insurance policy in relation to an occupational liabili
 (2) This schedule does not apply to liability that may be the subject of a proceeding under the Land Titles Act 1925, part 16 (Civil rights and remedies).
 ## Part 4.2 Limitation of liability
 ## Division 4.2.1 Making, amendment and revocation of schemes
-## 4.4 Preparation of schemes and recommendation by council
+## 4.4 Preparation and approval of schemes
 (1) An occupational association may prepare a scheme.
 (2) The council may, on the application of an occupational association, prepare a scheme.
-(3) The council may, on the application of an occupational association, recommend a scheme prepared under this section to the Minister for approval.
+(3) The council may, on the application of an occupational association, approve a scheme prepared under this section.
 (4) A scheme prepared under this section may indicate an intention to operate as a scheme of this jurisdiction only, or of both this jurisdiction and another jurisdiction.
 ## 4.5 Public notification of schemes
-(1) Before recommending a scheme, the council must publish a notice in a daily newspaper—
+(1) Before approving a scheme, the council must publish a notice in a daily newspaper—
   (a) explaining the nature and significance of the scheme; and
   (b) stating where a copy of the scheme can be obtained or inspected; and
   (c) inviting comments and submissions within a stated time, but at least 21 days after the day the notice is published.
@@ -145,7 +145,7 @@ amount payable, under an insurance policy in relation to an occupational liabili
 (1) Anyone may make a comment or submission to the council about a scheme for which notice has been published under section 4.5.
 (2) A comment or submission must be made within the period stated in the notice or within any longer time the council allows.
 ## 4.7 Consideration of comments, submissions etc
-(1) Before recommending a scheme in relation to an occupational association, the council must consider the following:
+(1) Before approving a scheme, the council must consider the following:
   (a) all comments and submissions made to it in accordance with section 4.6;
   (b) the position of people who may be affected by limiting the occupational liability of members of the occupational association;
   (c) the nature and level of claims relating to occupational liability made against members of the occupational association;
@@ -162,26 +162,28 @@ amount payable, under an insurance policy in relation to an occupational liabili
 (1) The council may conduct a public hearing about a scheme if the council considers it appropriate.
 (2) A public hearing may be conducted in the way the council decides.
 ## 4.9 Submission of schemes to Minister
-(1) The council may submit a scheme it recommends to the Minister for approval.
-(2) If the scheme indicates an intention to operate as a scheme of both this jurisdiction and another jurisdiction, the council may also submit the scheme to the Minister administering the corresponding law of the other jurisdiction.
-## 4.10 Approval of schemes by Minister
-(1) The Minister may approve a scheme submitted by—
-  (a) for an ACT scheme—the council; or
-  (b) for an interstate scheme—the appropriate council for the jurisdiction in which the scheme was prepared.
-(2) An approved scheme is a disallowable instrument.
+(1) The council must submit a scheme approved by it to the Minister.
+(2) If the scheme indicates an intention to operate as a scheme of both this jurisdiction and another jurisdiction, the council must also submit the scheme to the Minister administering the corresponding law of the other jurisdiction.
+## 4.10 Schemes are subject to disallowance
+(1) The Minister must—
+  (a) give notice of—
+    (i) the council’s approval of the scheme; or
+    (ii) for an interstate scheme—the approval of the scheme by the appropriate council for the jurisdiction in which the scheme was prepared; and
+  (b) include the approved scheme in the notice.
+(2) A notice is a disallowable instrument.
 Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
 (3) In this section, a reference to an interstate scheme includes a reference to an instrument amending an interstate scheme.
 Note Subsection (3) applies s (1) and s (2) to instruments that amend an interstate scheme. Those subsections already apply, by virtue of s 4.14 (5), to instruments that amend a scheme that is not an interstate scheme.
 ## 4.11 Commencement of schemes
-(1) A scheme approved by the Minister commences—
-  (a) on the date or time (after its notification day) provided for in the approval; or
-  (b) if a date or time is not provided for in the approval—2 months after its notification day.
+(1) If the Minister gives notice under section 4.10 of the approval of a scheme, the scheme commences—
+  (a) on the date or time (after the notice’s notification day) provided for in the notice; or
+  (b) if a date or time is not provided for in the notice—2 months after the notice’s notification day.
 (2) This section is subject to any order of—
   (a) the Supreme Court under section 4.12; and
   (b) the Supreme Court of another jurisdiction under the corresponding law of that jurisdiction.
 (3) In this section, a reference to a scheme includes, for an interstate scheme, a reference to an instrument amending that scheme.
 ## 4.12 Challenges to schemes
-(1) This section applies to a person who is, or is reasonably likely to be, affected by a scheme approved by the Minister (including a person who is, or is reasonably likely to be, affected by a scheme that operates as a scheme of another jurisdiction).
+(1) This section applies to a person who is, or is reasonably likely to be, affected by a scheme included in a notice under section 4.10 (including a person who is, or is reasonably likely to be, affected by a scheme that operates as a scheme of another jurisdiction).
 (2) For subsection (1), a person may, at any time before the scheme commences, apply to the Supreme Court for an order that the scheme is void for noncompliance with this schedule.
 (3) The Supreme Court may, on the making of the application or at any time before the scheme commences, order that the commencement of the scheme is stayed until further order of the court.
 (4) The Supreme Court may, in relation to the application—
@@ -204,10 +206,10 @@ Note Subsection (3) applies s (1) and s (2) to instruments that amend an interst
 (3) The Minister may direct the council to prepare an instrument amending or revoking a scheme.
 (4) The council must comply with a direction but may on its own initiative prepare an instrument amending or revoking a scheme at any time while the scheme remains in force.
 (5) Sections 4.4 to 4.12 apply, with any necessary changes, to the amendment of a scheme by an instrument under this section.
-(6) Sections 4.4 to 4.11 (other than section 4.9) apply, with any necessary changes, to the revocation of a scheme by an instrument under this section.
+(6) Sections 4.4 to 4.11 (other than section 4.9 (2)) apply, with any necessary changes, to the revocation of a scheme by an instrument under this section.
 (7) This section does not apply to an interstate scheme.
 ## 4.14A Notification of revocation of schemes
-(1) If the Minister approves an instrument revoking a scheme (other than an interstate scheme) that operates as a scheme of another jurisdiction, the Minister must notify the Minister administering the corresponding law of that jurisdiction of the revocation.
+(1) If the Minister gives notice under section 4.10 in relation to an instrument revoking a scheme (other than an interstate scheme) that operates as a scheme of another jurisdiction, the Minister must notify the Minister administering the corresponding law of that jurisdiction of the revocation.
 (2) A notice that an interstate scheme has been revoked under the corresponding law of the jurisdiction in which it was prepared is a notifiable instrument.
 Note 1 A notifiable instrument must be notified under the Legislation Act.
 Note 2 Under s 4.28 (1B) (c), an interstate scheme will cease to have effect in this jurisdiction when it ceases to have effect in the other jurisdiction.
@@ -216,7 +218,7 @@ Note 2 Under s 4.28 (1B) (c), an interstate scheme will cease to have effect in 
 (2) The Minister may direct the council to prepare an instrument ending the operation of an interstate scheme in relation to this jurisdiction.
 (3) The council must comply with any direction under subsection (2).
 (4) The council may, on its own initiative, at any time while an interstate scheme remains in force, prepare an instrument ending the operation of the scheme in relation to this jurisdiction.
-(5) Sections 4.5 to 4.10 (other than section 4.9 (2) to the extent that it provides for the submission of a scheme that indicates an intention to operate as a scheme of another jurisdiction) extend, with any necessary modifications, to the ending of the operation of an interstate scheme under an instrument under that section.
+(5) Sections 4.5 to 4.10 (other than section 4.9 (2)) extend, with any necessary modifications, to the ending of the operation of an interstate scheme under an instrument under that section.
 (6) The operation of an interstate scheme is ended, in relation to this jurisdiction, on—
   (a) the day after the day of its publication as stated in the instrument; or
   (b) if no day is stated—2 months after the day of its publication.
@@ -361,7 +363,7 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 (4) A committee may ask an insurer to give it any information or a copy of any document that the committee considers will assist it in carrying out its function.
 ## Part 4.4 Risk management
 ## 4.32 Risk management strategies by occupational associations
-(1) If an occupational association seeks the council’s recommendation for a scheme under section 4.4 (Preparation of schemes and recommendation by council), it must give the council—
+(1) If an occupational association seeks the council’s approval of a scheme under section 4.4 (Preparation of schemes and recommendation by council), it must give the council—
   (a) a detailed list of the risk management strategies it intends to implement for its members; and
   (b) information about how it intends to implement the strategies.
 (2) The method of implementation may be imposed as a condition of membership or otherwise.
@@ -404,7 +406,7 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 ## 4.37 Functions of council
 (1) The council has the following functions:
   (a) to give advice to the Minister about—
-    (i) the approval of schemes, and their amendment and revocation, by the Minister; and
+    (i) giving notice of the approval of schemes, and their amendment and revocation; and
     (ii) the operation of this schedule; and
     (iii) anything else relating to the occupational liability of members of occupational associations;
   (b) to give advice to occupational associations about policies of insurance for part 4.2 (Limitation of liability);
@@ -491,7 +493,7 @@ A decision supported by a majority of the votes cast at a meeting of the council
 ## 4.50 Requirement to provide information
 (1) The council may, by written notice, require an occupational association—
   (a) whose members are subject to a scheme in force under this schedule; or
-  (b) that seeks the council’s recommendation under section 4.4 for a scheme, or an amendment or revocation of a scheme;
+  (b) that seeks the council’s approval under section 4.4 for a scheme, or an amendment or revocation of a scheme;
 to give it the information it reasonably requires to exercise its functions.
 (2) An occupational association commits an offence if it does not comply with a notice under this section.
 Maximum penalty: 5 penalty units.
