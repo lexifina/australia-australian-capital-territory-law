@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · month
 · power
 · public servant
+· tribunal
 · will.
 Administration Act means the Administration and Probate Act 1929.
 board means the Public Trustee Investment Board.
