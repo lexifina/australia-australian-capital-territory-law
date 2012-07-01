@@ -5,7 +5,7 @@
 ### Division 3.1 Preliminary
 ### Division 3.2 Certifiers and government certifiers
 ### Division 3.3 Building approvals
-### Division 3.4 Building commencement notices
+### Division 3.4 Building commencement notices and building work signs
 ### Division 3.5 Carrying out building work
 ### Division 3.6 Completion of building work
 ### Division 3.7 Offences
