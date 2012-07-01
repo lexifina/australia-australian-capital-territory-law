@@ -96,7 +96,7 @@ Note See s 103 for the meaning of references to repealed laws.
 civil partner—a person who is in a civil partnership with someone else is the civil partner of the other person.
 civil partnership means a civil partnership under the Civil Partnerships Act 2008.
 clerk, in relation to the Legislative Assembly, means the Clerk of the Legislative Assembly.
-Note The office of Clerk is established under the Public Sector Management Act 1994.
+Note The clerk is appointed under the Legislative Assembly (Office of the Legislative Assembly) Act 2012.
 commencement, of an Act or statutory instrument—see section 80.
 commencement notice—see section 11.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Australian Consumer Law) Act 1992.
@@ -287,6 +287,8 @@ national capital plan means the National Capital Plan under the Australian Capit
 National Credit Code—see the National Consumer Credit Protection Act 2009 (Cwlth), section 5.
 National Electricity (ACT) Law means the provisions applying in the ACT because of the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
 National Electricity (ACT) Regulation means the provisions applying because of the Electricity (National Scheme) Act 1997, section 6 (Application of regulations under National Electricity Law).
+National Energy Retail Law (ACT) means the provisions applying because of the National Energy Retail Law (ACT) Act 2012, section 6 (Application of National Energy Retail Law).
+National Energy Retail Regulation (ACT) means the provisions applying because of the National Energy Retail Law (ACT) Act 2012, section 7 (Application of regulations under National Energy Retail Law).
 National Gas (ACT) Law means the provisions applying because of the National Gas (ACT) Act 2008, section 8 (Application in the ACT of National Gas Law).
 National Gas (ACT) Regulation means the provisions applying because of the National Gas (ACT) Act 2008, section 9 (Application in the ACT of regulations under National Gas Law).
 national land means National Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
@@ -316,6 +318,7 @@ occupational discipline order means an order for occupational discipline made by
 Note Occupational discipline orders are made under the ACT Civil and Administrative Tribunal Act 2008, s 66 and under authorising laws (authorising law—see ACT Civil and Administrative Tribunal Act 2008, dict).
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
 office includes position.
+Office of the Legislative Assembly means the Office of the Legislative Assembly established under the Legislative Assembly (Office of the Legislative Assembly) Act 2012.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
 optometrist—
