@@ -75,4 +75,3 @@ serious gas accident means an accident in which gas causes, or contributes to—
   (c) damage to property where the reasonable cost of repair or replacement exceeds the amount prescribed under the regulations for this definition; or
   (d) a fire.
 trader, for part 4 (Regulation of appliances)—see section 18.
-utility—see the Utilities Act 2000, dictionary.
