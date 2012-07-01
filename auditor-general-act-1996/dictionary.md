@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · fail
 · function
 · law, of the Territory
+· Office of the Legislative Assembly
 · Speaker
 · territory authority
 · territory-owned corporation
