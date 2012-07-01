@@ -10,10 +10,12 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · function
 · National Electricity (ACT) Law
 · National Electricity (ACT) Regulation
+· National Energy Retail Law (ACT)
+· National Energy Retail Regulation (ACT)
 · National Gas (ACT) Law
 · National Gas (ACT) Regulation
 · subordinate law (see s 8)
-· territory law
+· territory law.
 access agreement means an agreement under an access regime for the granting of access to services provided by means of the infrastructure facilities to which the access regime relates.
 access provider, for part 6 (Arbitration of access regime disputes)—see section 30.
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
@@ -36,6 +38,7 @@ declared fee means a fee declared under section 4C.
 determination means an arbitration determination under section 35.
 direction, for part 9 (Enforcement of prior directions and arbitration determinations)— see section 51.
 eligible person, for part 4C (Review of price directions)—see section 24J.
+energy—see the National Energy Retail Law (ACT), section 2 (1).
 future reset principles—see section 20B (3).
 government activity means—
   (a) for a regulatory reference into a competitive neutrality complaint—the government business activity that is the subject of the complaint; or
@@ -50,11 +53,17 @@ industry reference—see section 14A.
 investigation means an investigation under part 3.
 law of the Territory includes—
   (a) the National Electricity (ACT) Law; and
-  (b) the National Electricity (ACT) Regulations; and
+  (b) the National Electricity (ACT) Regulation; and
   (c) the national electricity rules; and
   (d) the National Gas (ACT) Law; and
-  (e) the National Gas (ACT) Regulation.
+  (e) the National Gas (ACT) Regulation; and
+  (f) the National Energy Retail Law (ACT) Act 2012; and
+  (g) the National Energy Retail Law (ACT); and
+  (h) the National Energy Retail Regulation (ACT); and
+  (i) the national energy retail rules.
 national electricity rules means the national electricity rules under the National Electricity (ACT) Law.
+national energy retail rules means the National Energy Retail Rules under the National Energy Retail Law (ACT).
+NERL retailer means a person who holds a retailer authorisation under the National Energy Retail Law (ACT).
 price includes any rate, fee, levy and charge and any other valuable consideration (however described), but does not include a territory tax.
 price direction—
   (a) for this Act generally, means a direction under section 20 about prices for the provision of regulated services, as varied (if at all) under part 4B (Variation of price directions); and
@@ -81,8 +90,12 @@ senior commissioner means—
 standing commissioner means a commissioner appointed under schedule 2, section 2.1.
 third party, for part 6 (Arbitration of access regime disputes)—see section 30.
 unsealed section, of a final report or a special report of an investigation—see section 23 (1) (b).
-utility—see the Utilities Act 2000, dictionary.
-utility service—see the Utilities Act 2000, dictionary.
+utility means—
+  (a) a utility within the meaning of the Utilities Act 2000, dictionary; or
+  (b) a NERL retailer.
+utility service means—
+  (a) a utility service within the meaning of the Utilities Act 2000, dictionary; or
+  (b) the activity of selling energy to small customers within the meaning of the National Energy Retail Law (ACT).
 variation, of a price direction, means—
   (a) a consent variation under division 4B.1; or
   (b) a nonconsent variation under division 4B.2.
