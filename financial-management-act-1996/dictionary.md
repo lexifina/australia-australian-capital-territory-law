@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · may (see s 146)
 · Minister (see s 162)
 · must (see s 146)
+· Office of the Legislative Assembly
 · person
 · reviewable decision notice
 · Self-Government Act
@@ -62,7 +63,6 @@ handover day, for division 9.7 (Additional provisions for restructuring of certa
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
-Legislative Assembly secretariat—see the Public Sector Management Act 1994, dictionary.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
 outputs means goods produced or services provided by a directorate or territory authority or a person producing goods or providing services on behalf of a directorate or territory authority.
 prescribed means prescribed by the financial management guidelines.
