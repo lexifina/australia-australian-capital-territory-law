@@ -18,7 +18,6 @@ authorised person means a person appointed as an authorised person under section
 carbon dioxide equivalent, of greenhouse gas emissions, means the mass of carbon dioxide measured in tonnes that has the same global warming potential as the gas emissions.
 compliance period—see section 12.
 connected, with an offence, for part 5 (Enforcement)—see section 29.
-electricity supplier means a utility licensed to supply electricity to premises in the ACT for consumption.
 eligible activity—see section 10.
 emissions factor—see section 9.
 energy includes electricity and gas.
@@ -26,6 +25,7 @@ energy savings contribution—see section 11.
 energy savings obligation—see section 13.
 energy savings target—see section 7.
 greenhouse gas means a gas mentioned in schedule 2, column 2.
+NERL retailer means a person who holds a retailer authorisation under the National Energy Retail Law (ACT) to sell electricity to premises in the ACT for consumption.
 occupier, of premises, for part 5 (Enforcement)—see section 29.
 offence, for part 5 (Enforcement)—section 29.
 priority household means residential premises in which 1 person who lives at the premises—
@@ -35,11 +35,10 @@ priority household means residential premises in which 1 person who lives at the
   (d) is within a class of people prescribed by regulation.
 priority household obligation—see section 15.
 priority household target—see section 8.
+retailer energy savings result—see section 20.
+retailer priority household result—see section 21.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 52.
-supplier energy savings result—see section 20.
-supplier priority household result—see section 21.
-tier 1 electricity supplier means an electricity supplier that—
+tier 1 NERL retailer means a NERL retailer that—
   (a) has at least 5 000 customers in the ACT; and
   (b) sells at least 500 000MWh of electricity to customers in the ACT annually.
-tier 2 electricity supplier means an electricity supplier that is not a tier 1 electricity supplier.
-utility—see the Utilities Act 2000, dictionary.
+tier 2 NERL retailer means a NERL retailer that is not a tier 1 NERL retailer.
