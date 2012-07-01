@@ -16,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Magistrates Court
 · Minister (see s 162)
 · National Electricity (ACT) Law
+· National Energy Retail Law (ACT)
 · National Gas (ACT) Law
 · National Gas (ACT) Regulation
 · national land
@@ -45,12 +46,11 @@ customer debt, for part 12 (Complaints to ACAT about utilities)—see section 16
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 determined, for part 3A (Energy industry levy)—see section 54A.
-electricity connection service—see section 79 (Electricity connection service).
+electricity connection service means a connection service within the meaning of the national electricity rules, chapter 5A (Electricity connection for retail customers).
 electricity distributor—
   (a) means a utility licensed for the distribution of electricity through an electricity network; and
   (b) in relation to an electricity connection service for premises—means a utility licensed to provide the service for the premises.
 electricity network—see section 7 (Electricity network).
-electricity supplier, in relation to the supply of electricity to premises, means a utility licensed to supply electricity to the premises.
 energy industry sector, for part 3A (Energy industry levy)—see section 54D (1).
 energy utility, for part 3A (Energy industry levy)—see section 54D (2).
 energy utility service, for part 3A (Energy industry levy)—see section 54D (3).
@@ -59,13 +59,12 @@ essential service restriction—see section 149A.
 fixed net regulatory cost, for part 3A (Energy industry levy)—see section 54G (3).
 franchise customer—see section 17 (Customers).
 gas—see section 8.
-gas connection service—see section 81 (Gas connection service).
+gas connection service means a connection service within the meaning of the national gas rules, part 12A (Gas connection for retail customers).
 gas distribution network—see section 10 (2).
 gas distributor—
   (a) means a utility licensed for the distribution of gas through a gas network; and
   (b) in relation to a gas connection service for premises—means a utility licensed to provide the service for the premises.
 gas network—see section 10 (Gas networks).
-gas supplier, in relation to the supply of gas to premises, means a utility licensed to supply gas to the premises.
 gas transmission network—see section 10 (1).
 ICRC means the Independent Competition and Regulatory Commission.
 ICRC Act means the Independent Competition and Regulatory Commission Act 1997.
@@ -87,9 +86,14 @@ levy, for part 3A (Energy industry levy)—see section 54A.
 levy year, for part 3A (Energy industry levy)—see section 54C (1).
 licence means a licence under this Act.
 local regulatory cost, for part 3A (Energy industry levy)—see section 54F (1).
+national electricity rules means the National Electricity Rules under the National Electricity (ACT) Law.
+national energy retail rules means the National Energy Retail Rules under the National Energy Retail Law (ACT).
+national gas rules means the National Gas Rules under the National Gas (ACT) Law.
 national regulatory cost, for part 3A (Energy industry levy)—see section 54E (2).
 national regulatory obligations, for part 3A (Energy industry levy)—see section 54E (1).
 negotiated customer contract means a contract to which section 95 (Negotiated customer contracts) applies.
+NERL exempt seller—see section 75A.
+NERL retailer—see section 75.
 net regulatory cost, for part 3A (Energy industry levy)—see section 54G (2).
 network—
   (a) for this Act—means any of the following:
@@ -151,11 +155,13 @@ utility—
   (b) for part 9 (Controller’s power to take over operations)—see section 134; or
   (c) in relation to an act or omission, for part 12 (Complaints to ACAT about utilities)—see section 169.
 utility service—
-  (a) in relation to electricity—see section 6 (Electricity services); or
-  (b) in relation to gas—see section 9 (Gas services); or
-  (c) in relation to water—see section 11 (Water services); or
-  (d) in relation to sewerage—see section 13 (Sewerage services); or
-  (e) a service prescribed to be a utility service under section 15 (Prescribed utility services).
+  (a) for this Act generally—
+    (i) in relation to electricity—see section 6 (Electricity services); and
+    (ii) in relation to gas—see section 9 (Gas services); and
+    (iii) in relation to water—see section 11 (Water services); and
+    (iv) in relation to sewerage—see section 13 (Sewerage services); and
+    (v) includes a service prescribed to be a utility service under section 15 (Prescribed utility services); and
+  (b) for division 6.2 (Standard customer contracts)—see section 86A.
 water connection service—see section 83 (Water connection service).
 water distributor means—
   (a) in relation to the collection or treatment of water, or both, for distribution through a water network—a utility licensed for the service; and

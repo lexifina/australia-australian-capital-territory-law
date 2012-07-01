@@ -19,6 +19,11 @@
 ### Division 5.1 Technical codes
 ### Division 5.2 Enforcement
 ### Division 5.3 Miscellaneous
+## Part 5A NERL retailers and NERL exempt sellers
+### Division 5A.1 Preliminary
+### Division 5A.2 NERL retailer obligations
+#### Subdivision 5A.2.1 Greenpower
+#### Subdivision 5A.2.2 Enforcement
 ## Part 6 Access to utility services
 ### Division 6.1 Standard rights
 ### Division 6.2 Standard customer contracts
@@ -65,3 +70,4 @@
 ### Division 14.3 Protection of territory networks
 ## Part 15 Vicarious liability
 ## Part 16 Miscellaneous
+## Part 18 Transitional—National Energy Retail Law
