@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · document
 · entity
 · Minister (see s 162)
+· Office of the Legislative Assembly
 · person.
 accessible executive record, for part 3A (Executive records—access and release)—see section 31B.
 agency—see section 7.
