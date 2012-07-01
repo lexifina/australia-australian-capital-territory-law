@@ -64,12 +64,18 @@ rates includes the total of—
   (b) interest payable in relation to the rates.
 rebate, for part 7 (Deferral and rebates)—see section 45.
 relevant date, for a parcel of land, means a date when a determination of the unimproved value of the parcel is or is to be made.
-residential land means rateable land—
-  (a) leased for residential purposes only; or
-  (b) leased for residential purposes and other purposes but used for residential purposes only.
-rural land means rateable land—
-  (a) leased for the purpose of primary production only; or
-  (b) leased for the purpose of primary production and other purposes but used mainly for primary production.
+residential land means—
+  (a) rateable land leased for residential purposes only; or
+  (b) rateable land leased for residential purposes and other purposes but used for residential purposes only; or
+  (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if—
+    (i) at least 1 parcel of land in the scheme is residential land under paragraph (a) or (b); and
+    (ii) no parcel of land in the scheme is leased for a commercial purpose.
+rural land means—
+  (a) rateable land leased for the purpose of primary production only; or
+  (b) rateable land leased for the purpose of primary production and other purposes but used mainly for primary production; or
+  (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if no parcel of land in the scheme is—
+    (i) residential land; or
+    (ii) leased for a commercial purpose.
 special disability trust, for part 7 (Deferral and rebates)—see the Social Security Act 1991, (Cwlth), section 1209L.
 special rate pensioner, for part 7 (Deferral and rebates)—see section 45.
 Taxation Administration Act means the Taxation Administration Act 1999.
