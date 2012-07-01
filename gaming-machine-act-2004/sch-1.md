@@ -37,5 +37,6 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 34 | 147 | refuse to approve entity | applicant for approval
 35 | 147C (2) (a) | suspend declaration of associated organisation | entity given warning notice
 36 | 147C (2) (b) | repeal declaration of associated organisation | entity given warning notice
-37 | 153 (2) | give direction about separate parts of licensed premises | licensee given direction
-38 | 164 | refuse to approve contributions as community contributions | applicant for approval
+37 | 148B (2) | give direction to amend club’s constitution | club given direction
+38 | 153 (2) | give direction about separate parts of licensed premises | licensee given direction
+39 | 164 | refuse to approve contributions as community contributions | applicant for approval
