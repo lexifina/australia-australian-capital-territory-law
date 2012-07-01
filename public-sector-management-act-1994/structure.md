@@ -11,7 +11,6 @@
 ### Division 3.4 Directors-general
 ### Division 3.5 Powers of delegation
 ### Division 3.7 Whole-of-government management responsibilities
-### Division 3.8 Legislative Assembly—clerk and secretariat
 ## Part 4 Creation, classification and abolition of offices in the service
 ### Division 4.1 Creation and abolition of executive offices
 ### Division 4.1A Creation and abolition of non-executive offices

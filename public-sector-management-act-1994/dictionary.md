@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Legislative Assembly
 · magistrate
 · occupy
+· Office of the Legislative Assembly
 · Speaker
 · Supreme Court
 · the Territory.
@@ -37,18 +38,19 @@ authorised doctor means a doctor authorised by the head of service to—
   (c) make recommendations under this Act in relation to the health and physical fitness of officers whose appointment to the service on probation has not been confirmed.
 autonomous instrumentality means—
   (a) the auditor-general’s office; or
-  (b) the Office of the Director of Public Prosecutions.
+  (b) the Office of the Director of Public Prosecutions; or
+  (c) the Office of the Legislative Assembly.
 chief executive officer means—
   (a) in relation to a territory instrumentality—the person who has responsibility for managing the affairs of the instrumentality; and
   (b) in relation to an autonomous instrumentality—
     (i) for the auditor-general’s office—the auditor-general; and
-    (ii) for the Office of the Director of Public Prosecutions—the director of public prosecutions.
+    (ii) for the Office of the Director of Public Prosecutions—the director of public prosecutions; and
+    (iii) for the Office of the Legislative Assembly—the clerk of the Legislative Assembly.
 classification means—
   (a) in relation to an executive office—a description that identifies the class of offices to which the office belongs, being a class of offices with the same range of salaries; and
   (b) in relation to an office that is not an executive office—a description that identifies the class of offices to which the office belongs, being a class of offices that are of a similar kind, that have responsibilities of a similar level, the performance of the duties of which requires work of similar value and the salary, or range of salaries, applicable to which are the same; and
   (c) in relation to an officer who holds an office—the classification of that office; and
   (d) in relation to an unattached officer—the classification that the officer has as an unattached officer determined in accordance with section 56 (4) or section 69.
-clerk, for division 3.8 (Legislative Assembly—clerk and secretariat)—see section 45.
 commissioner means the Commissioner for Public Administration appointed under section 18 (1).
 Commonwealth officer means an officer of the Australian Public Service constituted by the Public Service Act 1999 (Cwlth), section 9.
 criminal offence means—
@@ -89,7 +91,6 @@ industrial instrument means an instrument—
 joint selection committee means—
   (a) for division 5.5 (Promotion of officers)—see section 82; and
   (b) for division 5.6 (Transfer of officers)—see section 91.
-Legislative Assembly secretariat means the Legislative Assembly secretariat under section 53A.
 management standards means the management standards made under section 251.
 misconduct, by an officer, means—
   (a) a failure of the officer to fulfil his or her duty as an officer; or
@@ -128,7 +129,6 @@ relevant union, for an office, means an employee organisation—
   (b) entitled to represent the industrial interests of 1 or more people working in the administrative unit in which the office exists; and
   (c) covered by an industrial agreement that applies to 1 or more people working in the administrative unit in which the office exists.
 reviewable decision—see section 223.
-secretariat, for division 3.8 (Legislative Assembly—clerk and secretariat)—see section 45.
 service means the ACT Public Service established under section 12 (1).
 statutory office-holder means the holder of an office established by an Act, and includes everyone who at any time occupies for the time being, or performs for the time being the duties of, an office established by an Act.
 territory instrumentality means a body corporate that is established by or under an Act, or under the Corporations Act, and—
