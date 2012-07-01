@@ -18,6 +18,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · State
 · the Territory.
+apprentice means an apprentice other than a school-based apprentice.
 at premises, for part 8 (Enforcement)—see section 70.
 authority—see section 16.
 building and construction industry—see schedule 1, section 1.3.
@@ -60,8 +61,10 @@ registered worker means an individual who is registered under section 46.
 registrar means the chief executive officer of the authority within the meaning of the Financial Management Act 1996, dictionary, definition of chief executive officer.
 registration day, in relation to a worker—see section 15.
 reviewable decision, for part 9 (Notification and review of decisions)—see section 80.
+school-based apprentice means an apprentice to whom a school-based training arrangement, undertaken as part of a course of secondary education, applies.
 service, for a registered worker for a covered industry, means service in the covered industry.
 service period, for a registered worker for a covered industry—see section 12.
 worker—see section 8.
 workers register—see section 39.
 working director means a person who is both a director and an employee of a company.
+Note For this Act, a working director is taken to be a contractor—see s 10.

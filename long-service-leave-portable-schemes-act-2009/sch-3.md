@@ -21,7 +21,7 @@ The community sector industry is—
   (b) in relation to a reciprocating State—the community sector industry within the meaning of the corresponding law of the State.
 ## 3.4 Court or tribunal—not employer
 A court or tribunal is not an employer for the community sector industry.
-Note A covered industry schedule may prescribe a person not to be an employer for the covered industry—see s 7 (3).
+Note A covered industry schedule may prescribe an entity not to be an employer for the covered industry—see s 7 (3).
 ## 3.5 Years of recognised service—community sector industry
 A registered worker for the community sector industry is taken to have completed a year of recognised service for each 365 days of recognised service.
 ## 3.6 Long service leave formula—community sector industry
@@ -52,7 +52,7 @@ prescribed period, for long service leave accrued by a registered employee for t
   (b) if the governing board has allowed, on application by the employer or the employee, a period longer than 6 months—the period allowed by the board; or
   (c) if the employer and employee agree on a period longer than 6 months—the period agreed.
 ## 3.9 Entitlement to payment instead of leave—community sector industry
-(1) This section applies if a registered worker for the community sector industry has 55 days recognised service and any of the following apply to the worker:
+(1) This section applies to a registered worker for the community sector industry if the worker has 5 years recognised service and any of the following apply to the worker:
   (a) the worker has left the industry because of total incapacity;
   (b) the worker has reached the prescribed retiring age;
   (c) the worker has died.
@@ -64,10 +64,10 @@ prescribed retiring age means—
 ## 3.10 Payments for leave—community sector industry
 (1) A registered employee for the community sector industry who has been granted long service leave under section 3.7, or a registered contractor who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.
-(2) If the governing board is satisfied that the applicant is entitled to long service leave under this Act, the authority must pay to the applicant the amount payable under section 3.12 (How are leave payments worked out for the community sector industry?).
-(3) The authority must pay an applicant any amount payable under subsection (2) 7 days after the day the applicant becomes entitled to the long service leave if—
-  (a) the application is made 14 days before the applicant becomes entitled to long service leave under this Act; and
-  (b) the applicant asks in the application for the amount to be paid.
+(2) The authority must pay to the applicant the amount payable under section 3.12 (How are leave payments worked out for the community sector industry?) if the registrar is satisfied that—
+  (a) the applicant is entitled to long service leave under this Act for work done in the community sector industry; and
+  (b) the applicant has been granted leave by the applicant’s employer.
+(3) The authority must pay an applicant any amount payable under subsection (2) 21 days after the application has been made.
 ## 3.11 Payments instead of leave—community sector industry
 (1) If a registered worker for the community sector industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
 Note If a form is approved under s 92 for an application, the form must be used.
@@ -109,10 +109,9 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
   (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
   (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 (2) The governing board must determine an interim rate of interest from time to time before the determination of the rate under subsection (1).
-(3) The determined rate of interest must—
-  (a) be worked out after the end of each financial year for the previous financial year; and
-  (b) take into account the expenses incurred in administering the authority; and
-  (c) be at least 75% of the rate of interest, expressed as a percentage, earned by the authority worked out as follows:
+(3) The determined rate of interest must be determined at the end of each financial year for the previous financial year, and is—
+  (a) if the community sector industry scheme funds invested made a return—75% of the rate of the return for the financial year in which the determination is made; or
+  (b) if the fund did not make a return or made a loss—nil.
 (4) In this section:
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and

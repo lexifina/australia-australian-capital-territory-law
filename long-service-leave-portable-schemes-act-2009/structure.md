@@ -8,7 +8,7 @@
 ### Division 4.2 Registration of workers
 ## Part 5 Quarterly returns and payments
 ## Part 6 Entries in workers register
-## Part 7 Annual certificates
+## Part 7 Access to long service leave register information
 ## Part 8 Enforcement
 ## Part 9 Notification and review of decisions
 ## Part 10 Miscellaneous

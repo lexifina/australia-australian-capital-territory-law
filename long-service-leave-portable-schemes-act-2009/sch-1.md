@@ -40,7 +40,7 @@ RS means the registered worker’s number of days recognised service.
 W means the number of weeks long service leave held by the registered worker.
 ## 1.6 Amount of leave—building and construction industry
 ## (1) A registered worker for the building and construction industry who has 10 years or more recognised service is entitled to the number of days of workers long service leave worked out in accordance with the long service leave formula for the building and construction industry.
-## (2) A registered worker for the building and construction industry is entitled to additional long service leave worked out in accordance with the long service leave formula for the building and construction industry if the worker—
+## (2) A registered worker for the building and construction industry who has 10 years or more recognised service is entitled to additional long service leave worked out in accordance with the long service leave formula for the building and construction industry if the worker—
 ## (a) becomes entitled to long service leave under this Act for work done in the industry; and
 ## (b) is credited in the workers register with an additional period of service in the industry commencing on the date on which the worker became entitled to the long service leave.
 ## 1.7 Grant of leave by employers—building and construction industry
@@ -62,29 +62,26 @@ prescribed period, for long service leave accrued by a registered employee for t
   (b) if the governing board has allowed, on application by the employer or the employee, a period longer than 6 months—the period allowed by the board; or
   (c) if the employer and employee agree on a period longer than 6 months—the period agreed.
 ## 1.8 Entitlement to payment instead of leave—building and construction industry
-## (1) This section applies to a registered worker for the building and construction industry who has at least 5 years recognised service if—
+## (1) This section applies to a registered worker for the building and construction industry who has at least 7 years recognised service if—
 ## (a) the worker has permanently left the industry; and
 ## (b) 20 weeks have passed since the day the worker permanently left the industry; and
 ## (c) the worker has not been credited with service in the workers register for any of the days in the 20-week period.
-## (2) This section applies also if a registered worker for the building and construction industry has 55 days recognised service and any of the following apply to the worker:
+(2) Also, this section applies to a registered worker for the building and construction industry if the worker has 5 years recognised service and any of the following apply to the worker:
 ## (a) the worker has left the industry because of total incapacity;
 ## (b) the worker has reached the prescribed retiring age;
 ## (c) the worker has died.
-## (3) Further, this section applies to a registered worker for the building and construction industry if—
-## (a) the worker has 10 years recognised service in the industry; and
-## (b) if the worker is an employee—the employee’s employer has told the authority, in writing, that the employer agrees to the making of the payment.
-## (4) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave credited to the worker in the workers register.
-## (5) In this section:
+## (3) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave credited to the worker in the workers register.
+## (4) In this section:
 prescribed retiring age means—
   (a) in relation to a registered worker who has been granted a service pension under the Veterans’ Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 1.9 Payment for leave—building and construction industry
 ## (1) A registered employee for the building and construction industry who has been granted long service leave under section 1.7, or a registered contractor for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.
-## (2) If the governing board is satisfied that the applicant is entitled to long service leave under this Act for work done in the building and construction industry, the authority must pay to the applicant the amount payable under section 1.11 (How are leave payments worked out for the building and construction industry?).
-## (3) The authority must pay an applicant any amount payable under subsection (2) not later than 7 days after the applicant becomes entitled to the long service leave if—
-## (a) the application is made not later than 14 days before the applicant becomes entitled to long service leave under this Act; and
-## (b) the applicant asks in the application for the amount to be paid.
+(2) The authority must pay to the applicant the amount payable under section 1.11 (How are leave payments worked out for the building and construction industry?) if the registrar is satisfied that—
+  (a) the applicant is entitled to long service leave under this Act for work done in the building and construction industry; and
+  (b) the applicant has been granted leave by the applicant’s employer.
+## (3) The authority must pay an applicant any amount payable under subsection (2) not later than 21 days after the worker’s application has been made.
 ## 1.10 Payment instead of leave—building and construction industry
 ## (1) If a registered worker for the building and construction industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
 Note If a form is approved under s 92 for an application, the form must be used.
@@ -126,10 +123,9 @@ R is—
 ## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
 ## (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 ## (2) The governing board must determine an interim rate of interest from time to time prior to the determination of the rate under subsection (1).
-## (3) The determined rate of interest must—
-## (a) be worked out after the end of each financial year for the previous financial year; and
-## (b) take into account the expenses incurred in administering the authority; and
-## (c) be at least 75% of the rate of interest, expressed as a percentage, earned by the authority worked out as follows:
+(3) The determined rate of interest must be determined at the end of each financial year for the previous financial year, and is—
+  (a) if the construction industry scheme funds invested made a return—75% of the rate of the return for the financial year in which the determination is made; or
+  (b) if the fund did not make a return or made a loss—nil.
 ## (4) In this section:
 designated day—see section 1.12.
 FB means the amount of the total equity of the authority at the end of the financial year immediately before the financial year for which the rate is being determined.

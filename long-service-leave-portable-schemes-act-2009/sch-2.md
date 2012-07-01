@@ -18,7 +18,7 @@ The following is the long service leave formula for the contract cleaning indust
 RS means the registered worker’s number of days recognised service.
 W means the number of weeks long service leave held by the registered worker.
 ## 2.6 Amount of leave—contract cleaning industry
-## (1) A registered worker for the contract cleaning industry who has 10 years or more recognised service is entitled to the number of days of workers long service leave worked out in accordance with the long service leave formula for the contract cleaning industry.
+## (1) A registered worker for the contract cleaning industry who has 7 years or more recognised service is entitled to the number of days of workers long service leave worked out in accordance with the long service leave formula for the contract cleaning industry.
 ## (2) A registered worker for the contract cleaning industry is entitled to long service leave for additional days of service worked out in accordance with the long service leave formula if the worker—
 ## (a) becomes entitled to long service leave under this Act; and
 ## (b) is credited with the additional days in the workers register after becoming entitled to long service leave.
@@ -45,7 +45,7 @@ prescribed period, for long service leave accrued by a registered employee for t
 ## (a) the worker has permanently left the industry; and
 ## (b) 20 weeks have passed since the day the worker permanently left the industry; and
 ## (c) the worker has not been credited with service in the workers register for any of the days in the 20-week period.
-## (2) This section applies also if a registered worker for the contract cleaning industry has 55 days recognised service and any of the following apply to the worker:
+(2) Also, this section applies to a registered worker for the contract cleaning industry if the worker has 5 years recognised service and any of the following apply to the worker:
 ## (a) the worker has left the industry because of total incapacity;
 ## (b) the worker has reached the prescribed retiring age;
 ## (c) the worker has died.
@@ -57,10 +57,10 @@ prescribed retiring age means—
 ## 2.9 Payments for leave—contract cleaning industry
 ## (1) A registered employee for the contract cleaning industry who has been granted long service leave under section 2.7, or a registered contractor who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.
-## (2) If the governing board is satisfied that the applicant is entitled to long service leave under this Act, the authority must pay to the applicant the amount payable under section 2.11 (How are leave payments worked out for the contract cleaning industry?).
-## (3) The authority must pay an applicant any amount payable under subsection (2) 7 days after the day the applicant becomes entitled to the long service leave if—
-## (a) the application is made 14 days before the applicant becomes entitled to long service leave under this Act; and
-## (b) the applicant asks in the application for the amount to be paid.
+(2) The authority must pay to the applicant the amount payable under section 2.11 (How are leave payments worked out for the contract cleaning industry?) if the governing board is satisfied that—
+  (a) the applicant is entitled to long service leave under this Act for work done in the contract cleaning industry; and
+  (b) the applicant has been granted leave by the applicant’s employer.
+## (3) The authority must pay an applicant any amount payable under subsection (2)not later than 21 days after the worker’s application has been made.
 ## 2.10 Payments instead of leave—contract cleaning industry
 ## (1) If a registered worker for the contract cleaning industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
 Note If a form is approved under s 92 for an application, the form must be used.
@@ -103,10 +103,9 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 ## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
 ## (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 ## (2) The governing board must determine an interim rate of interest from time to time before the determination of the rate under subsection (1).
-## (3) The determined rate of interest must—
-## (a) be worked out after the end of each financial year for the previous financial year; and
-## (b) take into account the expenses incurred in administering the authority; and
-## (c) be at least 75% of the rate of interest, expressed as a percentage, earned by the authority worked out as follows:
+(3) The determined rate of interest must be determined at the end of each financial year for the previous financial year, and is—
+  (a) if the contract cleaning scheme industry funds invested made a return—75% of the rate of the return for the financial year in which the determination is made; or
+  (b) if the fund did not make a return or made a loss—nil.
 ## (4) In this section:
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
