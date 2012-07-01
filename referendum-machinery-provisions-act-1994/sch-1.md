@@ -25,35 +25,12 @@ omit
 omit
 [1.7] Section 189
 omit
-## Part 1.3 Modifications of part 14—election funding and financial disclosure
+## Part 1.3 Modifications of part 14—election funding, expenditure and financial disclosure
 [1.8] Section 200
 omit
 [1.9] Section 201 (2)
 omit
 [1.10] Section 217
-omit
-[1.13] Section 220
-substitute
-## 220 Disclosure of gifts by person incurring certain expenditure
-(1) Where a person—
-  (a) incurs expenditure for the purposes of a referendum during the disclosure period in relation to the referendum; and
-  (b) uses the whole or any part of 1 or more gifts received by the person at any time to enable the person to incur expenditure for the purposes of a referendum or to reimburse that person for incurring expenditure for the purposes of a referendum; and
-  (c) the amount of each gift is equal to or exceeds $1 000;
-the person shall, before the expiration of 15 weeks after polling day for the referendum, give the commissioner a return in relation to that gift or gifts.
-Note If a form is approved under s 340A (Approved forms) for a return, the form must be used.
-(2) A return shall, in relation to each gift referred to in subsection (1), specify—
-  (a) the amount of the gifts; and
-  (b) the date on which it was received; and
-  (c) the defined details.
-(3) Subsection (1) does not apply to a person if the amount of expenditure incurred by the person for the purposes of a referendum during the disclosure period is less than $1 000.
-(4) In this section, a reference to incurring of expenditure in relation to a referendum shall be read as a reference to incurring of expenditure in relation to—
-  (a) publishing any matter that is intended or is likely to affect voting in a referendum (including publishing by radio or television); or
-  (b) otherwise publishing a view on an issue in a referendum; or
-  (c) making a gift to a person on the understanding that the person or another person will apply, either directly or indirectly, the whole or a part of the gift in a manner referred to in paragraphs (a) and (b).
-(5) For the purposes of subsection (2), 2 or more gifts made by the same person to or for the benefit of a person to whom subsection (1) applies shall be taken to be a single gift.
-[1.14] Section 221
-omit
-[1.15] Section 221A
 omit
 [1.16] Section 222
 substitute
@@ -72,7 +49,7 @@ participant, in a referendum, means a person by whom, or with the authority of w
 omit
 [1.19] Section 224 (4)
 substitute
-(4) Where referendum expenditure in relation to a referendum was incurred by or with the authority of a person, the person shall, before the expiration of 15 weeks after polling day for the referendum, give the commissioner a return, in writing, specifying details of the referendum expenditure.
+(4) Where referendum expenditure in relation to a referendum was incurred by or with the authority of a person, the person shall, before the expiration of 60 days after polling day for the referendum, give the commissioner a return, in writing, specifying details of the referendum expenditure.
 Note If a form is approved under s 340A (Approved forms) for a return, the form must be used.
 [1.20] Section 225
 omit
@@ -125,7 +102,7 @@ Note A notifiable instrument must be notified under the Legislation Act 2001.
 ## Part 1.5 Modification of part 17—electoral offences
 [1.32] Section 289 (1)
 substitute
-(1) A person shall not discriminate against another person on the ground of the making by the other person of a donation for the purposes of a referendum.
+(1) A person shall not discriminate against another person on the ground of the making by the other person of a gift for the purposes of a referendum.
 Maximum penalty: 50 penalty units, imprisonment for 6 months or both.
 ## Part 1.6 Modifications of part 19—miscellaneous
 [1.33] Section 335 (a)
