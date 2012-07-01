@@ -32,7 +32,7 @@ associated person—
     (iii) private companies are associated people if common shareholders have a significant interest in each private company;
     (iv) trustees are associated people if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
     (v) a private company and a trustee are associated people if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee; and
-  (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A and section 86 (2).
+  (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A.
 Australian register—see the Corporations Act, section 9.
 Australian Stock Exchange means ASX Limited, ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
@@ -64,7 +64,6 @@ discretionary trust means a trust under which the vesting of the whole or any pa
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest taken, or both; or
   (b) will occur if a discretion conferred under the trust is not exercised; or
   (c) has occurred but under which the whole or any part of that capital or the whole or any part of that income, or both, will be divested from the person or people in whom it is vested if a discretion conferred under the trust is exercised.
-disqualifying circumstance, in relation to a registered unit trust scheme, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 domestic relationship—see the Domestic Relationships Act 1994, section 3.
 dutiable property—see section 10.
 dutiable transaction—see section 7 (2).
@@ -181,18 +180,16 @@ premium, in relation to general insurance for chapter 8 (Insurance)—see sectio
 private company means a company—
   (a) that is not limited by shares; or
   (b) whose shares are not quoted on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
-private unit trust scheme means a unit trust scheme that is not a public unit trust scheme or wholesale unit trust scheme.
+private unit trust scheme means a unit trust scheme that is not a public unit trust scheme.
 property transferred, by a dutiable transaction—see section 8 (2).
 public unit trust scheme means any of the following unit trust schemes:
   (a) a listed trust;
-  (b) a widely held trust;
-  (c) a unit trust scheme registered under part 3.2A (Registration of unit trust schemes) as an imminent public unit trust scheme.
+  (b) a widely held trust.
 receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 recognised stock exchange means—
   (a) the Australian Stock Exchange; or
   (b) any other exchange that is a member of the World Federation of Exchanges; or
   (c) a financial market that is declared to be a recognised stock exchange under section 252A.
-registered, for part 3.2A (Registration of unit trust schemes)—see section 95A.
 registered insurer means an insurer registered under chapter 8.4.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
@@ -210,9 +207,7 @@ relevant acquisition, in relation to a person, for part 3.2 (Acquisition of inte
 relevant period, for a relevant acquisition, for part 3.2 (Acquisition of interests in certain landholders)—see section 78.
 replica—see section 228.
 residential lease, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
-responsible entity—
-  (a) for this Act generally—see the Corporations Act, section 9; and
-  (b) of a unit trust scheme for which there is no responsible entity within the meaning of the Corporations Act, section 9, for part 3.2A (Registration of unit trust schemes)—see section 95A.
+responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
 scheme includes—
   (a) an agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; or
@@ -255,11 +250,6 @@ unit trust scheme means any arrangements made for the purpose, or having the eff
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
 voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-wholesale unit trust scheme means a unit trust scheme, other than a listed trust, that is registered under part 3.2A (Registration of unit trust schemes) as—
-  (a) a wholesale unit trust scheme; or
-  (b) an imminent wholesale unit trust scheme.
-widely held trust means a unit trust scheme—
-  (a) that is a managed investment scheme registered under the Corporations Act, part 5C.1; and
-  (b) in which units have been offered to the public; and
-  (c) that has at least 300 registered unit holders; and
-  (d) in which none of the registered unit holders, individually or together with any associated person, holds or is entitled to more than 20% of the units in the unit trust scheme.
+widely held trust means a unit trust scheme that has not less than 300 unit holders none of whom, individually or with an associated person, is entitled to more than 20% of the units in the trust, and for the purposes of this definition—
+  (a) if a registered unit holder in a unit trust scheme holds units as a trustee for 2 or more trusts the unit holder is treated as a separate registered unit holder in relation to each of those trusts and the units held under each trust are to be treated as a separate unit holding; but
+  (b) a trustee is not treated as a separate registered unit holder in relation to 2 or more trusts if, as separate registered unit holders in relation to those trusts, they would be associated persons.

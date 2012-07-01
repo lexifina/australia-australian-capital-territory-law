@@ -17,7 +17,6 @@
 ### Division 3.2.2 Landholding entities
 ### Division 3.2.3 Charging of duty
 ### Division 3.2.4 General and supplemental
-## Part 3.2A Registration of unit trust schemes
 ## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
 ## Part 3.6 Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth)
 ## Part 3.7 Exemptions—ch 3 transactions
@@ -45,7 +44,7 @@
 ## Part 12.2 Enforcement
 ## Part 12.3 Miscellaneous
 # Chapter 15 Transitional—Duties Amendment Act 2006 (No 2)
-## Part 15.1 Transitional—hire of goods
 ## Part 15.2 Transitional—lease instruments
 ## Part 15.3 Transitional—unquoted marketable securities
 # Chapter 16 Transitional—Duties Amendment Act 2008
+# Chapter 18 Transitional—Duties (Landholders) Amendment Act 2012
