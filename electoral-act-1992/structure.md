@@ -27,11 +27,15 @@
 ## Part 11 Polling in Antarctica
 ## Part 12 The scrutiny
 ## Part 13 Casual vacancies
-## Part 14 Election funding and financial disclosure
+## Part 14 Election funding, expenditure and financial disclosure
 ### Division 14.1 Preliminary
 ### Division 14.2 Reporting agents
+### Division 14.2A ACT election accounts
+### Division 14.2B Limitations on electoral expenditure
+### Division 14.2C Limitations on gifts and other payments
 ### Division 14.3 Election funding
-### Division 14.4 Disclosure of donations
+### Division 14.3A Administrative expenditure funding
+### Division 14.4 Gifts and certain loans—records and disclosure
 ### Division 14.5 Disclosure of electoral expenditure
 ### Division 14.6 Annual returns
 ### Division 14.7 Compliance
@@ -55,3 +59,4 @@
 ### Division 18.1 Injunctions
 ### Division 18.2 Prosecutions
 ## Part 19 Miscellaneous
+## Part 31 Transitional—Electoral Amendment Act 2012
