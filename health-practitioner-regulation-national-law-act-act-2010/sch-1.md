@@ -1,4 +1,4 @@
-# M Schedule 1 Modifications—Health Practitioner Regulation National Law
+# Schedule 1 Modifications—Health Practitioner Regulation National Law
 (see s 6)
 [1.1] New section 35A
 insert
@@ -110,14 +110,6 @@ At a hearing of a panel, the health complaints entity may—
 [1.23] New section 192 (3A)
 insert
 (3A) The National Board must also, within 30 days after the panel makes its decision, give the health complaints entity a copy of the notice given to the registered health practitioner or student.
-## M [1.23A] Section 289 (1)
-substitute
-(1) This section applies if, immediately before the participation day for a participating jurisdiction, a local registration authority for the jurisdiction had started but not completed dealing with a complaint or notification about a person registered or previously registered in a health profession by—
-  (a) the authority; or
-  (b) any other entity or former entity whose functions under a law of the jurisdiction included the registration of a person in a health profession.
-## M [1.23B] Section 289 (2) (b)
-substitute
-  (b) the notification is to continue to be dealt with under the Act of the participating jurisdiction applying to the notification immediately before the participation day, and any proceedings or appeal relating to the notification may be dealt with, as if that Act had not been repealed.’
 [1.24] Schedule 5, part 1, clause 2 (3)
 substitute
 (3) For subclauses (1) and (2), it is not a reasonable excuse for an individual to fail to give stated information, answer a question or produce a document only because giving the information, answering the question or producing the document might tend to incriminate the individual.
