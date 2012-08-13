@@ -21,7 +21,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · working day.
 accommodation order—see section 133Y.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
-assessor, for part 4.2 (Pre-sentence reports)—see section 41 (6).
+assessor, for part 4.2 (Pre-sentence reports)—see section 41 (8).
 at, in relation to a correctional centre or detention place, includes in the correctional centre or detention place.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
@@ -57,7 +57,9 @@ parole order—see the Crimes (Sentence Administration) Act 2005, section 117.
 periodic detention, for an offender—see the Crimes (Sentence Administration) Act 2005, section 40.
 periodic detention period—see section 11 (2), and includes the period as extended under the Crimes (Sentence Administration) Act 2005.
 place restriction order—see section 21.
-pre-sentence report—see section 41 (1).
+pre-sentence report means a report—
+  (a) for use in a criminal proceeding; and
+  (b) prepared by the director-general.
 pre-sentence report matter—
   (a) for part 4.2 (Pre-sentence reports)—see section 40A; and
   (b) for a young offender—see section 133E.
