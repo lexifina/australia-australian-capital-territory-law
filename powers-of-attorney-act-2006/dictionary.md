@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bankrupt or personally insolvent
 · child
 · civil partnership
+· civil union
 · corporation
 · domestic partner (see s 169 (1))
 · exercise.
@@ -13,11 +14,11 @@ affinity means affinity derived through marriage or any other domestic partnersh
 attorney—see section 6.
 close friend, of a person, means someone who has a close personal relationship with the person and a personal interest in the person’s welfare.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
+decision-making capacity—see section 9 (1).
 disability care means care that is provided to a person with a disability in a residential facility in which the person is also provided with accommodation that includes—
   (a) appropriate staffing to meet the nursing and personal care needs of the person; and
   (b) meals and cleaning services; and
   (c) furnishings, furniture and equipment for the provision of the care and accommodation.
-decision-making capacity—see section 9 (1).
 enduring power of attorney—see section 8.
 general power of attorney—see section 7.
 general principles—see section 44 and schedule 1.
