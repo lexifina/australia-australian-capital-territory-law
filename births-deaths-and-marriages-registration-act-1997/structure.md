@@ -7,7 +7,8 @@
 ## Part 3 Change of name
 ## Part 4 Change of sex
 ## Part 5 Registration of marriages
-## Part 5A Civil partnerships
+## Part 5A Civil unions
+## Part 5B Civil partnerships
 ## Part 6 Registration of deaths
 ### Division 6.1 When registration of deaths is required or authorised
 ### Division 6.2 Notification and registration of deaths
