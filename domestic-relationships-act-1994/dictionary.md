@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · civil partnership
+· civil union
 · Executive
 · lawyer
 · Magistrates Court
@@ -30,5 +31,9 @@ financial resources, in relation to either or both of the parties to a domestic 
   (c) property that either or both of the parties may dispose of wholly or partially and that is capable of being used lawfully by or on behalf of either or both of the parties; and
   (d) any other benefit of value to either or both of the parties.
 party, to a domestic relationship, includes a person who has been a party to a domestic relationship that has ended.
+prohibited relationship, for part 4A (Civil partnerships)—see section 37C.
 property, in relation to either or both of the parties to a domestic relationship, means real or personal property in any form to which either is, or both are, entitled.
+reviewable decision, for part 4B (Notification and review of decisions)—see section 37Q.
 termination agreement—see section 3A.
+termination notice, for part 4A (Civil partnerships)—see section 37I.
+withdrawal notice, for part 4A (Civil partnerships)—see section 37I.
