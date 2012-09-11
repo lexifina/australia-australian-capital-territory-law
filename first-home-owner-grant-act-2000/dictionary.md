@@ -7,6 +7,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · Australian citizen
 · civil partner
 · civil partnership
+· civil union
+· civil union partner
 · commissioner for revenue
 · contravene
 · corporation
