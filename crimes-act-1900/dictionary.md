@@ -8,6 +8,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · ambulance service
 · chief police officer
 · civil partnership
+· civil union
 · commissioner of police
 · contravene
 · correctional centre
