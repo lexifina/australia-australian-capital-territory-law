@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Australia
 · bankrupt or personally insolvent
 · civil partnership
+· civil union
 · commissioner for revenue
 · Corporations Act
 · doctor
