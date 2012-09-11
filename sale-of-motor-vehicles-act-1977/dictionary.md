@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACT
 · Australian Consumer Law (ACT)
 · civil partnership
+· civil union
 · corporation
 · CrimTrac
 · daily newspaper
