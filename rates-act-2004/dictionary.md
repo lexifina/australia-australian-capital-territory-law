@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · calendar month
 · calendar year
 · civil partner
+· civil union partner
 · commissioner for revenue
 · contravene
 · financial year
