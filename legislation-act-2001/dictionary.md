@@ -94,7 +94,9 @@ Childrens Court means the Childrens Court under the Magistrates Court Act 1930, 
 city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
 Note See s 103 for the meaning of references to repealed laws.
 civil partner—a person who is in a civil partnership with someone else is the civil partner of the other person.
-civil partnership means a civil partnership under the Civil Partnerships Act 2008.
+civil partnership means a civil partnership under the Domestic Relationships Act 1994.
+civil union means a civil union under the Civil Unions Act 2012.
+civil union partner—a person who is in a civil union with someone else is the civil union partner of the other person.
 clerk, in relation to the Legislative Assembly, means the Clerk of the Legislative Assembly.
 Note The clerk is appointed under the Legislative Assembly (Office of the Legislative Assembly) Act 2012.
 commencement, of an Act or statutory instrument—see section 80.
