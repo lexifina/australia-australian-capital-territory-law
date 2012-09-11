@@ -5,6 +5,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACT
 · civil partner
 · civil partnership
+· civil union
+· civil union partner
 · daily newspaper
 · domestic partner (see s 169 (1))
 · estate
