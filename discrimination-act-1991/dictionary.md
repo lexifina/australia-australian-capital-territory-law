@@ -6,6 +6,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · body
 · civil partner
 · civil partnership
+· civil union
+· civil union partner
 · corporation
 · director-general (see s 163)
 · domestic partner (see s 169)
@@ -84,14 +86,16 @@ relationship status means the status or condition of being—
   (a) single; or
   (b) married; or
   (c) married but living separately and apart from one’s spouse; or
-  (d) in a civil partnership; or
-  (e) in a civil partnership but living separately and apart from one’s civil partner; or
-  (f) divorced; or
-  (g) widowed; or
-  (h) the domestic partner (other than the spouse or civil partner) of someone else.
+  (d) in a civil union; or
+  (e) in a civil union but living separately and apart from one’s civil union partner; or
+  (f) in a civil partnership; or
+  (g) in a civil partnership but living separately and apart from one’s civil partner; or
+  (h) divorced; or
+  (i) widowed; or
+  (j) the domestic partner (other than the spouse, civil union partner or civil partner) of someone else.
   Note For the meaning of domestic partner, see Legislation Act, s 169.
 relative, of a person, means—
-  (a) a person who is related to the person by blood, marriage, affinity or adoption; or
+  (a) a person who is related to the person by blood, marriage, civil union, civil partnership or any other domestic partnership or adoption; or
   (b) a domestic partner of the person or of a person mentioned in paragraph (a).
 relevant class of people means a class of people whose members are identified by reference to an attribute mentioned in section 7.
 services includes—
