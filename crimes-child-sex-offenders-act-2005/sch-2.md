@@ -28,7 +28,7 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 7 | Criminal Code Act 1995 (Cwlth), section 272.13 (2) | causing young person to engage in sexual activity (other than sexual intercourse) in presence of defendant outside Australia, and defendant in position of trust or authority | 
 8 | Criminal Code Act 1995 (Cwlth), section 272.14 (1) | procure child to engage in sexual activity outside Australia | 
 9 | Criminal Code Act 1995 (Cwlth), section 272.15 (1) | groom child for sexual activity outside Australia | 
-10 | Criminal Code Act 1995 (Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
+10 | Criminal Code Act 1995(Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
 11 | Criminal Code Act 1995 (Cwlth), section 272.20 (2) | prepare or plan offence against Criminal Code (Cwlth), section 272.12 or section 272.13 | 
 12 | Criminal Code Act 1995 (Cwlth), section 273.5 (1) | possess, control, produce, distribute or obtain child pornography material outside Australia | 
 13 | Criminal Code Act 1995 (Cwlth), section 273.6 (1) | possess, control, produce, distribute or obtain child abuse material outside Australia | 
@@ -54,4 +54,4 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 33 | Criminal Code Act 1995 (Cwlth), section 474.27A (1) | use carriage service to transmit indecent communication to person under 16 years old | 
 34 | Customs Act 1901 (Cwlth) section 233BAB (5) | importing tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
 35 | Customs Act 1901 (Cwlth) section 233BAB (6) | exporting tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
-36 | any offence under a corresponding law that, if it had been committed in the ACT, would have been a class 2 offence |  | 
+36 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 2 offence |  | 

@@ -25,4 +25,4 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 7 | Criminal Code Act 1995 (Cwlth), section 272.12 | sexual intercourse with young person outside Australia by defendant in position of trust or authority | 
 8 | Criminal Code Act 1995 (Cwlth), section 272.18 | benefit from offence against Criminal Code (Cwlth), division 272 | 
 9 | Criminal Code Act 1995 (Cwlth), section 272.19 | encourage offence against Criminal Code (Cwlth), division 272 | 
-10 | any offence under a corresponding law that, if it had been committed in the ACT, would have been a class 1 offence |  | 
+10 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 1 offence |  | 

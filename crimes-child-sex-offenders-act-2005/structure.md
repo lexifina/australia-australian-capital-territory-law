@@ -25,4 +25,16 @@
 ## Part 3.9 Reasonable steps to comply with reporting obligations
 # Chapter 4 Child sex offenders register
 # Chapter 5 Registrable offenders prohibited from child-related employment
+# Chapter 5A Orders prohibiting offender conduct
+## Part 5A.1 Preliminary
+## Part 5A.2 Prohibition orders
+## Part 5A.3 Interim prohibition orders
+## Part 5A.4 Amending or revoking prohibition and interim prohibition orders
+## Part 5A.5 Corresponding prohibition orders
+## Part 5A.6 People with legal disabilities
+## Part 5A.7 Other provisions about orders prohibiting offender conduct
+## Part 5A.8 Offences
+## Part 5A.9 Obtaining and disclosing particular information
+## Part 5A.10 Appeals to Supreme Court
 # Chapter 6 Miscellaneous
+# Chapter 10 Transitional—Crimes (Child Sex Offenders) Amendment Act 2012
