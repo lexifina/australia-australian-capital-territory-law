@@ -152,5 +152,3 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 (2) The period of long service leave is increased by 1 day for each public holiday and industry holiday.
 (3) In this section:
 industry holiday means a day that is a holiday for people employed in the community sector industry under a fair work instrument made under the Fair Work Act 2009 (Cwlth).
-(4) For the definition of industry holiday, a reference to a fair work instrument made under the Fair Work Act 2009 (Cwlth) includes a reference to an agreement-based instrument and an award-based instrument within the meaning of the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 (Cwlth), schedule 3, part 2.
-(5) Subsection (4) and this subsection expire 1 year after the day this subsection commences.
