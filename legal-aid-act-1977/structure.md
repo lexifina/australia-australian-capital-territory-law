@@ -14,4 +14,3 @@
 ## Part 11 Consultative committees
 ## Part 12 Inquiry relating to affairs of commission
 ## Part 13 Miscellaneous
-## Part 14 Transitional—Justice and Community Safety Legislation Amendment Act 2009 (No 2)
