@@ -8,6 +8,7 @@
 ### Division 3.5 Miscellaneous
 ## Part 4 Registration and permits to teach
 ### Division 4.1 Application––pt 4
+### Division 4.1A Definitions—pt 4
 ### Division 4.2 Offences—unapproved teachers
 ### Division 4.3 Applications for registration and permits to teach
 ### Division 4.4 Register of teachers

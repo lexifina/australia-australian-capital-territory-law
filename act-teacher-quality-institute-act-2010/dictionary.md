@@ -38,8 +38,6 @@ corresponding jurisdiction means the Commonwealth, a State or New Zealand.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1, def State).
 corresponding law means any law of a corresponding jurisdiction that regulates teachers in the jurisdiction.
 corresponding registering authority means the entity responsible for regulating the teaching profession under a corresponding law.
-criminal history guidelines––see section 35A.
-criminal history record, of a person, means a written report about the person’s criminal history from an entity in another country that has access to records about the criminal history of people in that country.
 education program means a program of learning––
   (a) that prepares pre-service teachers for employment as pre-school, primary school or secondary school teachers; or
   (b) is suitable for the professional learning and development of teachers.
@@ -54,14 +52,6 @@ permit card––see section 40 (2).
 permit certificate––see section 40 (2).
 permit-holder means a person who holds a permit to teach.
 permit to teach means a permit to teach under part 4.
-police certificate, for a person, means a written statement by CrimTrac, or a police service or force in the ACT, State or another territory indicating—
-  (a) whether, according to the records held by CrimTrac or the police service or force, the person has been charged with, or convicted of, an offence against a law of—
-    (i) the Territory; or
-    (ii) the Commonwealth; or
-    (iii) a State; or
-    (iv) another country; and
-  (b) if so—particulars of each offence.
-Note A conviction includes a spent conviction (see Spent Convictions Act 2000, s 19 (9)).
 pre-service teacher means a person, other than an approved teacher, who is studying for a teaching qualification.
 provisional registration means provisional registration under part 4.
 registered means registered under this Act.
