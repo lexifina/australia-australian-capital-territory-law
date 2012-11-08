@@ -378,6 +378,7 @@ voluntary report—see section 354.
 welfare body, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 work experience, for chapter 21 (Employment of children and young people)—see section 780.
 work experience standards—see section 887 (2) (g).
+Working with Vulnerable People Act means the Working with Vulnerable People (Background Checking) Act 2011.
 young adult, for part 15.5 (Transition to adulthood)—see section 529B.
 young detainee—see section 95.
 young offender means—
