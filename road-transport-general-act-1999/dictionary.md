@@ -17,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · instrument
 · internal territory
 · public employee
+· registrar
 · reviewable decision notice
 · State
 · statutory declaration
@@ -24,6 +25,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 Note 3 This dictionary defines some key words and expressions that may not be used in this Act but are used in other road transport legislation.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
+all reasonable steps, for division 3.3 (Infringement notice offences involving registrable vehicles—responsible person’s liability)—see section 32.
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
@@ -58,11 +60,11 @@ executive officer, of a corporation, means a person, however described and wheth
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
 first offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
-illegal user declaration means a statutory declaration mentioned in section 38.
+illegal user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
-infringement notice means a notice under section 24 (Service of infringement notices generally) or section 36 (Service of infringement notices on responsible people for vehicles).
-infringement notice declaration means an illegal user declaration, known user declaration, sold vehicle declaration or unknown user declaration.
+infringement notice—see section 24 (2) (Infringement notices).
+infringement notice declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 infringement notice offence means an offence prescribed by regulation as an infringement notice offence.
 infringement notice penalty, for a person for an infringement notice offence, means—
   (a) the amount prescribed by regulation as the penalty payable by the person for the offence under an infringement notice for the offence; or
@@ -71,7 +73,7 @@ internally reviewable decision, for part 7 (Notification and review of decisions
 internal reviewer, for part 7 (Notification and review of decisions)—see section 92A.
 internal review notice for part 7 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
-known user declaration means a statutory declaration mentioned in section 39.
+known user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 learner licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
 National Transport Commission—see the National Transport Commission Act 2003 (Cwlth), section 5.
@@ -83,7 +85,7 @@ provisional licence—see the Road Transport (Driver Licensing) Act 1999, dictio
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
-reminder notice, for part 3 (Infringement notices for certain offences), means a notice under section 33.
+reminder notice—see section 27 (2) (Reminder notice—service and contents).
 repeat offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
 responsible person, for a vehicle—see section 10 and section 11.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -102,7 +104,7 @@ road related area means—
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
-sold vehicle declaration means a statutory declaration mentioned in section 40.
+sold vehicle declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 special driver, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 suspension notice—see immediate suspension notice.
 suspension offence—see immediate suspension offence.
@@ -111,7 +113,7 @@ total loss, in relation to a vehicle for division 5.3 (Written-off vehicles regi
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
-unknown user declaration means a statutory declaration mentioned in section 41.
+unknown user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
   (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or

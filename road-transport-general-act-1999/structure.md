@@ -7,8 +7,8 @@
 ### Division 2.5 Administration
 ## Part 3 Infringement notices for certain offences
 ### Division 3.1 Preliminary
-### Division 3.2 Infringement and reminder notices generally
-### Division 3.3 Additional provisions for offences involving vehicles
+### Division 3.2 Infringement and reminder notices
+### Division 3.3 Infringement notice offences involving registrable vehicles—responsible person’s liability
 ### Division 3.4 Enforcement procedures
 ### Division 3.5 Disputing liability
 ### Division 3.6 Miscellaneous
@@ -28,3 +28,4 @@
 ## Part 11 Miscellaneous
 ### Division 11.1 Documents
 ### Division 11.2 Other matters
+## Part 13 Transitional—Road Transport (General) Amendment Act 2012 (No 2)
