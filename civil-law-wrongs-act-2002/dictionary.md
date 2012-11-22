@@ -23,12 +23,10 @@ accommodation provider—see section 146.
 accommodation unit—see section 144.
 agent, of an accommodation provider—see section 144.
 aggrieved person, for division 9.3.1 (Offers to make amends)—see section 124.
-agreed expert, for chapter 6 (Expert medical evidence)—see section 84.
 amount payable, under an insurance policy in relation to an occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2A.
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 apology, for part 2.3 (Apologies)—see section 13.
-appointed expert, for chapter 6 (Expert medical evidence)—see section 84.
 apportionable claim, for chapter 7A (Proportionate liability)—see section 107B.
 appropriate council, in relation to another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 Australian court, for chapter 9 (Defamation)—see section 116.
@@ -40,8 +38,7 @@ child—
   (b) for part 3.2 (Mental harm)—see section 32.
 claim—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
-  (b) for chapter 6 (Expert medical evidence)—see section 82; and
-  (c) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.
+  (b) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.
 claimant—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
   (b) for chapter 7A (Proportionate liability)—see section 107C.
@@ -85,9 +82,6 @@ equine activity, for schedule 3 (Equine activities)—see schedule 3, section 3.
 equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine facility, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine professional, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
-evidence, for chapter 6 (Expert medical evidence)—see section 82.
-expert, for chapter 6 (Expert medical evidence)—see section 82.
-expert medical evidence, for chapter 6 (Expert medical evidence)—see section 82.
 family member, of a person, for part 3.2 (Mental harm)—see section 32.
 fault, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 funeral expenses includes costs related to any of the following:
@@ -117,7 +111,6 @@ matter, for chapter 9 (Defamation)—see section 116.
 matter in question, for division 9.3.1 (Offers to make amends)—see section 124.
 mediation—see section 192.
 mediation session—see section 192.
-medical issue, for chapter 6 (Expert medical evidence)—see section 82.
 member, of a dead person’s family, for part 3.1 (Wrongful act or omission causing death)—see section 23.
 mental harm, for part 3.2 (Mental harm)—see section 32.
 motor accident means an accident caused by, or arising out of the use of, a motor vehicle.

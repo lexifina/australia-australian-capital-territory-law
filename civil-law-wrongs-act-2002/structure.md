@@ -22,7 +22,6 @@
 ## Part 5.2 Claims procedures
 ## Part 5.3 Obligations of parties to give documents and information
 ## Part 5.4 Other provisions—pre-court procedures
-# Chapter 6 Expert medical evidence
 # Chapter 7 Damages
 ## Part 7.1 Damages for personal injuries—exclusions and limitations
 ## Part 7.2 Loss of capacity to perform domestic services
