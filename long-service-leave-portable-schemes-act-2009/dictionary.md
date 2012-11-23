@@ -34,7 +34,8 @@ covered industry—see section 6.
 covered industry schedule means—
   (a) for the building and construction industry—schedule 1; and
   (b) for the contract cleaning industry—schedule 2; and
-  (c) for the community sector industry—schedule 3.
+  (c) for the community sector industry—schedule 3; and
+  (d) for the security industry—schedule 4.
 day—see section 14.
 decision-maker, for a reviewable decision, for part 9 (Notification and review of decisions)—see section 80.
 employee—see section 9.
@@ -44,7 +45,8 @@ governing board means the governing board of the authority established under sec
 long service leave formula—
   (a) for the building and construction industry—see schedule 1, section 1.5; and
   (b) for the contract cleaning industry—see schedule 2, section 2.5; and
-  (c) for the community sector industry—see schedule 3, section 3.6.
+  (c) for the community sector industry—see schedule 3, section 3.6; and
+  (d) for the security industry—see schedule 4, section 4.6.
 occupier, for part 8 (Enforcement)—see section 70.
 ordinary remuneration, for a person, means the amount paid or payable to the person for work, other than any amounts for—
   (a) overtime; or
@@ -62,6 +64,8 @@ registrar means the chief executive officer of the authority within the meaning 
 registration day, in relation to a worker—see section 15.
 reviewable decision, for part 9 (Notification and review of decisions)—see section 80.
 school-based apprentice means an apprentice to whom a school-based training arrangement, undertaken as part of a course of secondary education, applies.
+security industry—see schedule 4, section 4.3.
+security work—see schedule 4, section 4.2.
 service, for a registered worker for a covered industry, means service in the covered industry.
 service period, for a registered worker for a covered industry—see section 12.
 worker—see section 8.

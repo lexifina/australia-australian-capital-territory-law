@@ -60,7 +60,7 @@ Note If a form is approved under s 92 for an application, the form must be used.
 (2) The authority must pay to the applicant the amount payable under section 2.11 (How are leave payments worked out for the contract cleaning industry?) if the governing board is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the contract cleaning industry; and
   (b) the applicant has been granted leave by the applicant’s employer.
-## (3) The authority must pay an applicant any amount payable under subsection (2)not later than 21 days after the worker’s application has been made.
+## (3) The authority must pay an applicant any amount payable under subsection (2) not later than 21 days after the worker’s application has been made.
 ## 2.10 Payments instead of leave—contract cleaning industry
 ## (1) If a registered worker for the contract cleaning industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
 Note If a form is approved under s 92 for an application, the form must be used.
