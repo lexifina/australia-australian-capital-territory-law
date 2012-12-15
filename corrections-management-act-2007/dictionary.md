@@ -41,7 +41,6 @@ accused—see section 151.
 activity—see the Crimes (Sentence Administration) Act 2005, dictionary.
 adjudicator means a person who is appointed as an adjudicator under section 177.
 administrative penalty—see section 151.
-administrator, in relation to a disciplinary breach—see section 151.
 admission, of a detainee to a correctional centre—see section 63.
 body search, of a detainee—see section 107.
 case management plan, for a detainee, means the detainee’s case management plan maintained under section 78.
@@ -85,13 +84,14 @@ health service—
     (ii) diagnosing or treating an illness, disability, disorder or condition of the service user; and
   (b) includes a service provided by a health practitioner in the practitioner’s capacity as a health practitioner.
 hearing, for an inquiry—see section 151.
+initial report—see section 156 (2) (e).
 inquiry—see section 151.
 interstate detainee, for part 12.2 (Interstate leave)—see section 206.
 interstate escort officer—see section 213.
 interstate leave permit—see section 208.
 investigative segregation—see section 151.
 investigator—see section 151.
-investigator’s report—see section 151.
+investigator’s report—see section 157 (2) (b).
 law enforcement agency—see the Spent Convictions Act 2000, dictionary.
 legally privileged—a thing is legally privileged if client legal privilege attaches to the thing.
 local leave permit—see section 205.
@@ -104,16 +104,15 @@ ordinary search—see section 107.
 participating State, for part 12.2 (Interstate leave)—see section 206.
 periodic detention, for an offender—see the Crimes (Sentence Administration) Act 2005, section 40.
 personal monitoring device—see section 101.
-police cell, for chapter 4 (Detention in police and court cells etc)—see section 29.
+police cell, for Chapter 4 (Detention in police and court cells etc)—see section 29.
 positive, for a test sample for alcohol or a drug—see section 133.
 possession, of a thing, includes the following:
   (a) receiving or obtaining possession of the thing;
   (b) having control over the disposition of the thing (whether or not having custody of the thing);
   (c) having joint possession of the thing.
 presiding officer—
-  (a) for division 10.3.1 (Disciplinary action—with accused’s consent)—see section 166; or
-  (b) for division 10.3.2 (Internal disciplinary inquiry)—see section 169; or
-  (c) for chapter 11 (Disciplinary inquiries)—see section 191.
+  (a) for this Act generally—see section 151; and
+  (b) for chapter 11 (Disciplinary inquiries)—see section 191.
 privilege, in relation to a detainee—see section 151.
 prohibited area, at a correctional centre—see section 85.
 prohibited thing means a thing declared to be a prohibited thing under section 81.
@@ -121,7 +120,6 @@ protected mail—see section 104 (4).
 register of detainees means the register kept under section 76.
 relevant presiding officer, for division 10.3.5 (Disciplinary action)—see section 182.
 remandee—see the Crimes (Sentence Administration) Act 2005, dictionary.
-review officer, for division 10.3.3 (Internal review of inquiry decision)—see section 172.
 scanning search—see section 107.
 security classification, for a detainee, means the detainee’s security classification under section 80.
 segregation, of a detainee—see section 88.
