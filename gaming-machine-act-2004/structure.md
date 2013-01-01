@@ -8,6 +8,12 @@
 ### Division 2.6 Transfer and surrender of licences
 ### Division 2.7 Restriction on gaming machine numbers
 ### Division 2.8 Gaming machine licences
+## Part 2A In-principle approvals for licences, venue relocation amendments and new venue amendments
+### Division 2A.1 Preliminary
+### Division 2A.2 Applications for in-principle approvals
+### Division 2A.3 Issue of in-principle approvals
+### Division 2A.4 Amendment, transfer, extension and surrender of in-principle approvals
+### Division 2A.5 Conversion of in-principle approvals
 ## Part 3 Conditions on licences
 ### Division 3.1 Compliance with licence conditions
 ### Division 3.2 General licence conditions
