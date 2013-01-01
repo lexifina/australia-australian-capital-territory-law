@@ -49,6 +49,7 @@ handling, of food, includes the making, manufacturing, producing, collecting, ex
 identity card means an identity card issued under the Public Health Act 1997, section 16.
 improvement notice means an improvement notice served under section 79 (Service of improvement notices).
 label includes any tag, brand, mark or statement in writing or any representation or design or other descriptive matter on or attached to or used or displayed in relation to or accompanying any food or package.
+menu, for part 9 (Display of nutritional information for food)—see section 107.
 occupier, for part 5 (Inspection and seizure powers)—see section 45.
 offence, for part 5 (Inspection and seizure powers)—see section 45.
 package includes any container or wrapper in or by which food intended for sale is completely or partly encased, covered, enclosed, contained or packed and, for food carried or sold or intended to be carried or sold in more than 1 package, includes every such package.
@@ -63,10 +64,13 @@ prohibition order means a prohibition order served under section 82.
 proprietor, of a food business, means—
   (a) the person conducting the food business; or
   (b) if that person cannot be identified—the person in charge of the food business.
+ready-to-eat food, for part 9 (Display of nutritional information for food)—see section 107.
 recall order, for part 4 (Emergency orders)—see section 37.
 registered, in relation to a food business, means registered under section 92.
 reviewable decision, for part 11 (Notification and review of decisions)—see section 141A.
 sell—see section 9 (1).
+standard food item, for part 9 (Display of nutritional information for food)—see section 108.
+standard food outlet, for part 9 (Display of nutritional information for food)—see section 109.
 unsafe, in relation to food—see section 12.
 unsuitable, in relation to food—see section 13.
 vehicle means any means of transport, whether or not self-propelled, and whether used on land or water or in the air.

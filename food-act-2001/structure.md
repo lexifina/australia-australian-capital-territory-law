@@ -15,6 +15,7 @@
 ## Part 6 Taking and analysis of food samples
 ## Part 7 Improvement notices and prohibition orders
 ## Part 8 Notification and registration of food businesses
+## Part 9 Display of nutritional information for food
 ## Part 10 Procedural and evidentiary provisions
 ## Part 11 Notification and review of decisions
 ## Part 12 Miscellaneous
