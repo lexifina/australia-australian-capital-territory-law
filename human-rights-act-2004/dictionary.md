@@ -23,6 +23,7 @@ engage in conduct means—
 function of a public nature—see section 40A.
 human rights—see section 5.
 ICCPR means the International Covenant on Civil and Political Rights.
+ICESCR means the International Covenant on Economic, Social and Cultural Rights.
 international law includes—
   (a) the International Covenant on Civil and Political Rights and other human rights treaties to which Australia is a party; and
   (b) general comments and views of the United Nations human rights treaty monitoring bodies; and
