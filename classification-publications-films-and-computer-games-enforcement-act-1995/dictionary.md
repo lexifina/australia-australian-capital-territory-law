@@ -19,14 +19,16 @@ approved form means a form approved under the Commonwealth Act, section 8A.
 at premises includes in or on the premises.
 board means the Classification Board established by the Commonwealth Act, section 45.
 buy means buy or exchange or hire, and includes offer to buy or exchange or hire, agree to buy, exchange or hire and cause or permit to be bought or exchanged or hired, whether by retail or wholesale.
-classified means classified under the Commonwealth Act, and includes reclassified under that Act.
+classified—
+  (a) means classified under the Commonwealth Act, and includes reclassified under that Act; and
+  (b) for division 6A.2 (Seized films and computer games)—see section 54Y.
 commissioner means the commissioner for fair trading.
 Commonwealth Act means the Classification (Publications, Films and Computer Games) Act 1995 (Cwlth).
 computer game—see the Commonwealth Act, section 5A (Meaning of computer game).
 consumer advice means consumer advice determined under the Commonwealth Act, section 20.
 convenor means the Convenor of the Review Board appointed under the Commonwealth Act, section 74.
-defined offence, for division 6.5 (Seized films)—see section 54Y.
-defined period, for division 6.5 (Seized films)—see section 54Y.
+defined offence, in relation to a seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
+defined period, in relation to a seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
 demonstrate includes exhibit, display, screen or make available for playing.
 deputy director means the deputy director of the board.
 determined markings means markings determined under the Commonwealth Act, section 8.
@@ -46,11 +48,12 @@ place includes vacant land, premises, a vehicle, a vessel and an aircraft (excep
 publication—see the Commonwealth Act, section 5 (Definitions).
 public place means any place which the public is entitled to use or which is open to or used by the public, whether on payment of money or otherwise.
 publish—see the Commonwealth Act, section 5 (Definitions).
+R 18+ computer game, for division 6A.1 (Enforcement)—see section 54T.
 restricted publications area means any premises, or part of a premises, constructed and managed in accordance with section 61.
 reviewable decision, for part 7A (Notification and review of decisions)—see section 58.
-seized film, for division 6.5 (Seized films)—see section 54Y.
+seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
 sell means sell or exchange or let on hire, and includes offer or display for sale or exchange or hire, agree to sell, exchange or hire and cause or permit to be sold or exchanged or hired, whether by retail or wholesale.
 submittable publication—see the Commonwealth Act, section 5 (Definitions).
 X 18+ film—
   (a) means a film classified X 18+; and
-  (b) for division 6.4 (Enforcement)—see section 54T.
+  (b) for division 6A.1 (Enforcement)—see section 54T.

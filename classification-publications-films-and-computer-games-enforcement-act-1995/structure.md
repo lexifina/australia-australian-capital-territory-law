@@ -9,8 +9,9 @@
 ## Part 6 X 18+ films
 ### Division 6.1 Preliminary
 ### Division 6.2 X 18+ film licences
-### Division 6.4 Enforcement
-### Division 6.5 Seized films
+## Part 6A Enforcement for X 18+ films and R 18+ computer games
+### Division 6A.1 Enforcement
+### Division 6A.2 Seized films and computer games
 ## Part 7 Exemptions
 ## Part 7A Notification and review of decisions
 ## Part 8 Miscellaneous
