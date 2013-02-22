@@ -29,7 +29,6 @@ conservation officer means a conservation officer under the Nature Conservation 
 conservator means the conservator of flora and fauna.
 corresponding law means a law of a State that regulates fisheries.
 environment—see the Environment Protection Act 1997, dictionary.
-executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 fin fish means a marine, estuarine or freshwater fish of the class pisces.
 fish means marine, estuarine or freshwater fish or other aquatic animal life, or any of their parts, at any stage of their history (whether alive or dead), and includes—
   (a) abalone, oysters and other aquatic molluscs; and
