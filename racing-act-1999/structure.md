@@ -14,6 +14,7 @@
 ## Part 5B Use of race field information
 ### Division 5B.1 Limits on use of race field information
 ### Division 5B.2 Approval and conditions
-### Division 5B.3 Race field information charge
+### Division 5B.3 Other matters
 ## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous
+## Part 10 Transitional—Racing Amendment Act 2013

@@ -23,21 +23,17 @@ approved rules means—
   (c) in relation to the greyhound club—the rules of greyhound racing; and
   (d) in relation to an ARO—the rules approved under section 34 (4) in relation to the ARO, or as later varied under section 35 (2).
 ARO means an approved racing organisation approved under section 33.
-assessable turnover, for part 5B (Use of race field information)—see section 61E.
 authorised race meeting means a race meeting—
   (a) conducted by a controlling body or an ARO in accordance with this Act; or
   (b) approved by the commission under section 6;
 and listed in a schedule published in accordance with section 7.
-bet back, for part 5B (Use of race field information)—see section 61E.
-bets held on races conducted in the ACT, for part 5B (Use of race field information)—see section 61E.
-bets paid, for part 5B (Use of race field information)—see section 61E.
 betting exchange, for part 5B (Use of race field information)—see section 61E.
 chief executive officer means the chief executive officer of the gambling and racing commission.
 commission means the Gambling and Racing Commission established by the Gambling and Racing Control Act 1999.
 controlling body means—
   (a) the racing club; or
-  (b) the harness racing club; or
-  (c) the greyhound racing club.
+  (b) the harness club; or
+  (c) the greyhound club.
 corresponding body means a body in another jurisdiction, within or outside Australia, that performs functions similar to those of a controlling body.
 deputy president means the deputy president of the tribunal referred to in section 40.
 director, in relation to a controlling body, means a person occupying or acting in the position of a director of the body, by whatever name called.
@@ -56,13 +52,13 @@ race means—
   (c) a greyhound race; or
   (d) a race of a kind prescribed by regulation.
 race field information, for part 5B (Use of race field information)—see section 61E.
-race field information charge means a race field information charge set under section 61T.
+race field information charge, for part 5B (Use of race field information)—see section 61M (1).
 race meeting means an event at which races are conducted.
 racing authority, for part 5B (Use of race field information)—see section 61E.
 racing club means the Australian Capital Territory racing club Inc. referred to in section 15.
 Racing NSW, for part 5A (Jockeys accident insurance)—see the Thoroughbred Racing Act 1996 (NSW), section 3.
 registrar means the registrar of the tribunal appointed under section 46.
-relevant net revenue for part 5B (Use of race field information)—see section 61E.
+relevant controlling body, for part 5B (Use of race field information)—see section 61E.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 62.
 rules of greyhound racing means the rules made under section 31.
 rules of harness racing means the rules made under section 25.
