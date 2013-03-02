@@ -36,7 +36,7 @@ complainant—
 counsellor, for division 4.5 (Protection of counselling communications)––see section 54.
 court, for part 2 (Evidence of children)—see section 5.
 criminal proceeding—
-  (a) for this Act generally—see the Court Procedure Rules 2006, dictionary; and
+  (a) for this Act generally—see the Court Procedures Rules 2006, dictionary; and
   (b) for division 4.5 (Protection of counselling communications)––see section 54.
 dangerously ill person, for part 6 (Evidence in criminal proceedings—dangerously ill people)—see section 90.
 document recording a protected confidence, for division 4.5 (Protection of counselling communications)––see section 54.
