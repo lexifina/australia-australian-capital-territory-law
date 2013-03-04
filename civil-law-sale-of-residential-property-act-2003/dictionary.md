@@ -16,7 +16,7 @@ building and compliance inspection report means a building and compliance inspec
 building conveyancing inquiry documents, for part 2 (Sale of residential property)—see section 7.
 class A unit, for part 2 (Sale of residential property)—see section 7.
 class B unit, for part 2 (Sale of residential property)—see section 7.
-developer’s holding lease—see section 8 (2) (d).
+developer’s holding lease—see section 8 (2) (e).
 encumbrance, for part 2 (Sale of residential property)—see section 7.
 energy efficiency rating, for part 3 (Energy efficiency ratings)—see section 20.
 energy efficiency rating statement, for part 3 (Energy efficiency ratings)—see the Construction Occupations (Licensing) Act 2004, section 123AC.
@@ -44,7 +44,7 @@ required documents, for part 2 (Sale of residential property)—see section 9.
 rescission notice, for part 2 (Sale of residential property)—see section 7.
 residence, for part 2 (Sale of residential property)—see section 7.
 residential property—see section 8.
-retirement village, for part 3 (Energy efficiency ratings)—see section 20.
+retirement village—see the Retirement Villages Act 2012, section 10.
 seller, of residential property, for—
   (a) part 2 (Sale of residential property)—see section 7; and
   (b) part 4 (Public auctions of residential property)—see section 7.
