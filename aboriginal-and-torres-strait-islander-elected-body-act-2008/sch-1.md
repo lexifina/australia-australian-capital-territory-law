@@ -267,7 +267,7 @@ in division 10.2, insert
 (2) The commissioner must give the review panel written notice of the liaison officer’s decision not later than 3 business days after the day the claimant has cast a declaration vote.
 (3) The review panel must review the liaison officer’s decision and decide, on the balance of probabilities, whether the claimant is an Aboriginal or Torres Strait Islander person.
 (4) The review panel must complete its review not later than 6 business days after the polling close day.
-(5) If any member of the review panel decides that the claimant is an Aboriginal or Torres Strait Islander person, the applicant’s ballot paper must be admitted to scrutiny under part 12.
+(5) If any member of the review panel decides that the claimant is an Aboriginal or Torres Strait Islander person, the claimant’s ballot paper must be admitted to scrutiny under part 12.
 (6) The review panel must give the commissioner and the claimant written notice of—
   (a) its decision; or
   (b) if there is no unanimous decision—the decision of each panel member.
