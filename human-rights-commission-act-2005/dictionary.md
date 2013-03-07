@@ -28,7 +28,7 @@ commission—
   (a) see section 11; but
   (b) in relation to the consideration of a complaint—means the commissioner considering the complaint for the commission.
 commission-initiated consideration—see section 48 (1) and (2).
-Commonwealth commission means the Human Rights and Equal Opportunity Commission established by the Human Rights and Equal Opportunity Commission Act 1986 (Cwlth).
+Commonwealth commission means the Australian Human Rights Commission established by the Australian Human Rights Commission Act 1986 (Cwlth).
 complainant means—
   (a) in relation to a complaint—the person who made the complaint; but
   (b) in relation to a commission-initiated consideration under section 48 (2)—the commission and not the person who made the complaint (see s 49).
