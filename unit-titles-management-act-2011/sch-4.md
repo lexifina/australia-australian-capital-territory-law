@@ -1,13 +1,6 @@
 # Schedule 4 Default rules
 (see s 106)
-Note 1 The owners corporation may amend the default rules under s 108.
-Note 2 If a corporation was established before the commencement of the Unit Titles Act 2001 (UTA), pt 16—
-· the corporation’s articles applying immediately before the commencement of the UTA continue to apply (see s 160 (2)); and
-· the default rules under this Act may be adopted (in part or in full) by special resolution at a general meeting (see s 108 (1) and s 160 (2)).
-Note 3 If an owners corporation was established under the UTA—
-· the owners corporation’s articles applying immediately before the commencement of this Act, pt 6 are taken to be rules under this Act (see s 161 (2)); and
-· the corporation may amend the rules under this Act (see s 108 (1) and s 161 (2)).
-However, an existing article of the owners corporation has no effect if the article is inconsistent with this Act or another territory law or does any of the things mentioned in this Act, s 108 (3) (b) to (d).
+Note The owners corporation may amend the default rules under s 108.
 ## 1 Definitions—default rules
 (1) In these rules:
 executive committee representative means a person authorised in writing by the executive committee under rule 10 (4).
