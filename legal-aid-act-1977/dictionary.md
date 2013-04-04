@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · ACT
+· auditor-general
 · bankrupt or personally insolvent
 · Commonwealth
 · document
@@ -18,6 +19,7 @@ approved negotiation, for part 5A (Dispute resolution)—see section 35A.
 approved records management program, for division 8.3 (Records management—legal services records)—see section 69A.
 assistant, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 assistant executive officer means an Assistant Executive Officer of the commission.
+Australian legal practitioner—see the Legal Profession Act 2006, section 8.
 bar association means the Bar Association of the Australian Capital Territory.
 board means the board of the commission established under section 14.
 chief executive officer means the Chief Executive Officer of the commission.
@@ -43,7 +45,9 @@ officer of the commission means a statutory officer of the commission or a membe
 practising certificate means an unrestricted practising certificate, a restricted practising certificate or a barrister practising certificate under the Legal Profession Act 2006.
 prescribed matter, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
 prescribed person, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
-private legal practitioner means a principal of a law practice under the Legal Profession Act 2006, section 9.
+private legal practitioner means a person who is—
+  (a) a principal of a law practice under the Legal Profession Act 2006, section 9; or
+  (b) an Australian legal practitioner employed by a law practice under the Legal Profession Act 2006.
 produce includes permit access to.
 records management, for division 8.3 (Records management—legal services records)—see section 69A.
 review committee means a review committee established under part 6.
