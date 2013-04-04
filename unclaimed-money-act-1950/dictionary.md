@@ -9,8 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Minister
 · property
 · public trustee
+· reviewable decision notice
 · Territory.
-Commonwealth Act, for part 5 (Unclaimed RSA money)—see section 26.
 company means—
   (a) for part 2 (Unclaimed assets in hands of liquidators)—
     (i) a body corporate that is a foreign company within the meaning of the Corporations Act, section 9; or
@@ -22,10 +22,7 @@ company means—
 corresponding law means a law of a State or another Territory declared under section 3 (Declaration of corresponding law) to be a law that corresponds with this Act.
 data processing device means any article or material (including a disk) from which information can be reproduced with or without the aid of any other article or device.
 half year means a period of 6 months ending on 30 June or 31 December.
-holder, for part 5 (Unclaimed RSA money)—see the Commonwealth Act, section 9.
 registered office—see the Corporations Act, section 9.
-RSA, for part 5 (Unclaimed RSA money)—see the Commonwealth Act, section 8.
-RSA provider, for part 5 (Unclaimed RSA money)—see the Commonwealth Act, section 12.
 trust account means the trust bank account maintained by the director-general of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.
 unclaimed amount, for part 3 (Unclaimed amounts payable by companies)—see section 6 (2).
-unclaimed RSA money, for part 5 (Unclaimed RSA money)—see section 26.
+unclaimed money, for part 5—see section 26.
