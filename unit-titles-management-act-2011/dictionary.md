@@ -117,7 +117,7 @@ Examples—par (a)
 solar panels, clothes lines, rainwater tanks
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 total general fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 75 (2) (a).
-total sinking fund amount, for division 5.2 (Administrative, special purpose and sinking funds)—see section 72.
+total sinking fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 82 (3) (b).
 treasurer, for an owners corporation, means the treasurer of the corporation elected under section 40.
 unanimous resolution means a resolution of a general meeting passed as required by schedule 3, section 3.18.
 unit—see the Unit Titles Act 2001, section 9.
