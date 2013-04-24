@@ -59,7 +59,7 @@ forensic patient—see the Public Advocate Act 2005, dictionary.
 government agency, for part 5A.9 (Obtaining and disclosing particular information)—see section 132ZL.
 government custody means custody, whether in the ACT or elsewhere—
   (a) under a sentence of imprisonment; or
-  (b) as a detainee under the Corrections Management Act 2006; or
+  (b) as a detainee under the Corrections Management Act 2007; or
   (c) as a forensic patient; or
   (d) under a corresponding law in the nature of custody mentioned in paragraph (a), (b) or (c), however described.
 in person—a person does a thing in person at a place only if the person does the thing by personally attending at the place.

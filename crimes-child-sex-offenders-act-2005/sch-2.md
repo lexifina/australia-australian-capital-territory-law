@@ -6,17 +6,18 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 2 | Crimes Act 1900, section 59 | act of indecency in the third degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
 3 | Crimes Act 1900, section 61 (1) | act of indecency with young person | 
 4 | Crimes Act 1900, section 61 (2) | act of indecency with young person | 
-5 | Crimes Act 1900, section 63 | abduction | (a) the other person (as mentioned in that section) or the third person (as mentioned in that section) is a child; and (b) the person committed the abduction in the course of, or immediately after, the commission or attempted commission by the person (or an accomplice of the person) of a class 1 or class 2 offence against the child or the third person
-6 | Crimes Act 1900, section 64 (1) | using child for production of child pornography etc | 
-7 | Crimes Act 1900, section 64 (3) | using child for production of child pornography etc | 
-8 | Crimes Act 1900, section 64A (1) | trading in child pornography | 
-9 | Crimes Act 1900, section 65 (1) | possessing child pornography | 
-10 | Crimes Act 1900, section 66 (1) | using the internet etc to deprave young person | 
-11 | Crimes Act 1900, section 66 (2) | using the internet etc to deprave young person | 
-12 | Prostitution Act 1992 section 19 (2) | accosting child for commercial sexual services | 
-13 | Prostitution Act 1992 section 20 (1) | causing child under 12 to provide commercial sexual services | 
-14 | Prostitution Act 1992 section 20 (3) | causing child 12 or older to provide commercial sexual services | 
-15 | Prostitution Act 1992 section 21 (1) | proceeds of child prostitution | 
+5 | Crimes Act 1900, section 61A (1) | act of indecency with young person under special care | 
+6 | Crimes Act 1900, section 63 | abduction | (a) the other person (as mentioned in that section) or the third person (as mentioned in that section) is a child; and (b) the person committed the abduction in the course of, or immediately after, the commission or attempted commission by the person (or an accomplice of the person) of a class 1 or class 2 offence against the child or the third person
+7 | Crimes Act 1900, section 64 (1) | using child for production of child pornography etc | 
+8 | Crimes Act 1900, section 64 (3) | using child for production of child pornography etc | 
+9 | Crimes Act 1900, section 64A (1) | trading in child pornography | 
+10 | Crimes Act 1900, section 65 (1) | possessing child pornography | 
+11 | Crimes Act 1900, section 66 (1) | using the internet etc to deprave young person | 
+12 | Crimes Act 1900, section 66 (2) | using the internet etc to deprave young person | 
+13 | Prostitution Act 1992 section 19 (2) | accosting child for commercial sexual services | 
+14 | Prostitution Act 1992 section 20 (1) | causing child under 12 to provide commercial sexual services | 
+15 | Prostitution Act 1992 section 20 (3) | causing child 12 or older to provide commercial sexual services | 
+16 | Prostitution Act 1992 section 21 (1) | proceeds of child prostitution | 
 ## Part 2.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
 1 | Criminal Code Act 1995 (Cwlth) section 270.7 (1) and section 270.8 (1) | deceptive recruiting for sexual services | aggravated offence

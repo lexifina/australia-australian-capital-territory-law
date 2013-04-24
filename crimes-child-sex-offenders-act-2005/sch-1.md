@@ -12,8 +12,9 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 8 | Crimes Act 1900, section 53 (2) | sexual assault in the third degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
 9 | Crimes Act 1900, section 55 (1) | sexual intercourse with young person | 
 10 | Crimes Act 1900, section 55 (2) | sexual intercourse with young person | 
-11 | Crimes Act 1900, section 56 (2) | maintaining a sexual relationship with young person | 
-12 | Crimes Act 1900, section 57 | act of indecency in the first degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
+11 | Crimes Act 1900, section 55A (1) | sexual intercourse with young person under special care | 
+12 | Crimes Act 1900, section 56 (2) | maintaining a sexual relationship with young person | 
+13 | Crimes Act 1900, section 57 | act of indecency in the first degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
 ## Part 1.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
 1 | Criminal Code Act 1995 (Cwlth) section 270.6 (1) | sexual servitude | the other person (as mentioned in that section) is a child
