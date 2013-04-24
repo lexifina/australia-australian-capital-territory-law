@@ -16,15 +16,17 @@ item | section | description
 12 | 53 | sexual assault in the third degree
 13 | 54 | sexual intercourse without consent
 14 | 55 | sexual intercourse with young person
-15 | 57 | act of indecency in the first degree
-16 | 58 | act of indecency in the second degree
-17 | 59 | act of indecency in the third degree
-18 | 60 | act of indecency without consent
-19 | 61 | acts of indecency with young people
-20 | 62 | incest and similar offences
-21 | 63 | abduction
-22 | 63A | bestiality
-23 | 64 | employment of young people for pornographic purposes
-24 | 65 | possession of child pornography
-25 | 79 | sexual servitude offences
-26 | 80 | deceptive recruiting for sexual services
+15 | 55A | sexual intercourse with young person under special care
+16 | 57 | act of indecency in the first degree
+17 | 58 | act of indecency in the second degree
+18 | 59 | act of indecency in the third degree
+19 | 60 | act of indecency without consent
+20 | 61 | acts of indecency with young people
+21 | 61A | act of indecency with young person under special care
+22 | 62 | incest and similar offences
+23 | 63 | abduction
+24 | 63A | bestiality
+25 | 64 | employment of young people for pornographic purposes
+26 | 65 | possession of child pornography
+27 | 79 | sexual servitude offences
+28 | 80 | deceptive recruiting for sexual services
