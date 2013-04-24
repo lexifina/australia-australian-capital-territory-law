@@ -119,7 +119,7 @@ head, in relation to a government agency, means the director-general who has con
 inoperable firearm means a firearm that has been rendered inoperable in accordance with this Act.
 interim protection order—
   (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of interim order; and
-  (b) includes an interim protection order made under the Domestic Violence Act 1986 and an interim restraining order made under the Magistrates Court Act 1930.
+  (b) includes an interim protection order made under the Domestic Violence Agencies Act 1986 and an interim restraining order made under the Magistrates Court Act 1930.
 interstate licence, for part 8 (Temporary recognition of interstate licences and permits)—see section 134.
 licence means a licence in force under this Act.
 licensee means the holder of a licence.
@@ -151,7 +151,7 @@ prohibited person, for part 13 (Firearms dealers)—see section 184.
 prohibited pistol means a prohibited firearm mentioned in schedule 1, item 20, item 21 or item 22.
 protection order—
   (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of final order; and
-  (b) includes a protection order made under the Domestic Violence Act 1986 and a restraining order made under the Magistrates Court Act 1930.
+  (b) includes a protection order made under the Domestic Violence Agencies Act 1986 and a restraining order made under the Magistrates Court Act 1930.
 public place means any street, road, public park, reserve or other place that the public are entitled to use or that is open to, or used by, the public, whether on payment of money or otherwise.
 register means the register of firearms provided for in section 156.
 registered means registered for the time being under this Act.
