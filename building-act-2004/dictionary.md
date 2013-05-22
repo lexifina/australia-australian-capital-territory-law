@@ -34,7 +34,7 @@ asbestos removal control plan, in relation to building work, means a plan, compl
 authorised insurer means a body corporate authorised to carry on insurance business under the Insurance Act 1973 (Cwlth), section 12.
 basic building work—see section 10.
 builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-builders licence means a licence issued under the Construction Occupation (Licensing) Act 2004 in the construction occupation of builder.
+builders licence means a licence issued under the Construction Occupations (Licensing) Act 2004 in the construction occupation of builder.
 building—
   (a) for Act—see section 7; but
   (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
@@ -42,7 +42,7 @@ building action, for part 9 (Limitation of liability)—see section 140.
 building approval means a building approval under part 3.
 building code—see section 136 (1).
 building inspector means a person appointed under section 128.
-building surveyor—see the Constructions Occupations (Licensing) Act 2004, section 9.
+building surveyor—see the Construction Occupations (Licensing) Act 2004, section 9.
 building work—
   (a) for Act—see section 6; but
   (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
