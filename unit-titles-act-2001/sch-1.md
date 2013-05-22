@@ -1,7 +1,7 @@
 # Schedule 1 Reviewable decisions
 (see s 173)
 column 1 item | column 2 Act provision | column 3 reviewable decision | column 4 person
-1 | 20 (5) | refusal to approve a unit title application on the grounds of inconsistency with the heritage register | lessee of the parcel
+1 | 20 (6) | refusal to approve a unit title application on the grounds of inconsistency with the heritage register | lessee of the parcel
 2 | 21 (1) | determination of a reasonable rent to be reserved under the lease of a unit in a units plan | lessee of the parcel
 3 | 22 | amendment of a development statement | lessee of the parcel
 4 | 29 | amendment of a development statement before registration of the units plan | each person with an interest in the parcel
