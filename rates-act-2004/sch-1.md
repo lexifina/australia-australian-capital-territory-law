@@ -3,13 +3,11 @@
 ## Part 1.1 Imposition of levies
 ## 1.1 Fire and emergency services levy
 (1) Fire and emergency services levy of the fixed charge is imposed for a parcel of rateable land that is residential or rural land.
-(2) Fire and emergency services levy is imposed for a parcel of rateable land that is commercial land that has an average unimproved value of more than the threshold amount worked out as follows:
-((AUV - TA) × P)
+(2) Fire and emergency services levy is imposed for a parcel of rateable land that is commercial land worked out as follows:
 (3) In this section:
 AUV means the average unimproved value of the parcel.
 FC (or fixed charge) means the fixed charge determined under the Taxation Administration Act, section 139 for the parcel.
 P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
-TA (or threshold amount) means the threshold amount determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).
 ## 1.2 City centre marketing and improvements levy
 (1) City centre marketing and improvements levy is imposed for a parcel of rateable land that is commercial land in a collection area, worked out as follows:
@@ -58,14 +56,12 @@ A reference to rates in an instrument, other than a statutory instrument under t
 (1) This section applies to a parcel of land that is a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions).
 (2) In its application to the imposition of fire and emergency services levy to the parcel of land, section 1.1 has effect as if subsections (3) and (4) of this section were substituted for section 1.1 (1), (2) and (3).
 (3) Fire and emergency services levy is imposed for a parcel of land to which schedule 1, section 3.1 applies, worked out as follows:
-\+
 (4) In this section:
 AUV means the average unimproved value of the parcel.
 CP means the percentage, as determined under section 32, of the intended development that is to be used for commercial purposes.
 FC (or fixed charge) means the fixed charge determined under the Taxation Administration Act, section 139 for the parcel.
 P means the percentage rate determined under the Taxation Administration Act, section 139 for a parcel of commercial land.
 RP means the percentage, as determined under section 32, of the intended development that is to be used for residential purposes.
-TA (or threshold amount) means the threshold amount determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).
 ## 3.1A Certain proposed subdivisions—imposition of city centre marketing and improvements levy
 (1) This section applies to a parcel of land that is a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions).
