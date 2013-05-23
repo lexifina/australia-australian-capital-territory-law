@@ -9,7 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · financial year
 · function
 · interest
-· person
+· person (see s 160)
 · quarter
 · under.
 assessment notice, in relation to land tax, means a notice of assessment under the Taxation Administration Act, section 14 in relation to the land tax.
@@ -36,7 +36,6 @@ primary production means—
     (iii) fishing operations; or
     (iv) forest operations; and
   (b) the manufacture of dairy produce by the person who produced the raw material used in that manufacture.
-qualifying parcel of land, for division 4.2 (Certain proposed unit subdivisions)—see section 28.
 rateable land—see the Rates Act 2004, section 8.
 rates—see the Rates Act 2004, dictionary.
 rent, for part 2 (Imposition and payment of land tax)—see section 7.
