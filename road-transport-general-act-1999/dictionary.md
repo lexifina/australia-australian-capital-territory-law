@@ -29,6 +29,7 @@ all reasonable steps, for division 3.3 (Infringement notice offences involving r
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
+approved community work or social development program, for part 3 (Infringement notices for certain offences)—see section 21A.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Australian Road Rules—see the Road Transport (Safety and Traffic Management) Regulation 2000, section 5.
@@ -70,6 +71,7 @@ immediate suspension notice (or suspension notice), for division 4.2 (Licence su
 immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 infringement notice—see section 24 (2) (Infringement notices).
 infringement notice declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
+infringement notice management plan, for part 3 (Infringement notices for certain offences)—see section 31A.
 infringement notice offence means an offence prescribed by regulation as an infringement notice offence.
 infringement notice penalty, for a person for an infringement notice offence, means—
   (a) the amount prescribed by regulation as the penalty payable by the person for the offence under an infringement notice for the offence; or
@@ -90,8 +92,10 @@ provisional licence—see the Road Transport (Driver Licensing) Act 1999, dictio
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
+relevant circumstances, of a person, for part 3 (Infringement notices for certain offences)—see section 21A.
 reminder notice—see section 27 (2) (Reminder notice—service and contents).
 repeat offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
+responsible director-general, for part 3 (Infringement notices for certain offences)—see section 21A.
 responsible person, for a vehicle—see section 10 and section 11.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 reviewable decision, for part 7 (Notification and review of decisions)—see section 90A (1).
