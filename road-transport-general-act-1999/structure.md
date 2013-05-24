@@ -8,6 +8,8 @@
 ## Part 3 Infringement notices for certain offences
 ### Division 3.1 Preliminary
 ### Division 3.2 Infringement and reminder notices
+### Division 3.2A Infringement notice management plans
+### Division 3.2B Waiver of infringement notice penalties
 ### Division 3.3 Infringement notice offences involving registrable vehicles—responsible person’s liability
 ### Division 3.4 Enforcement procedures
 ### Division 3.5 Disputing liability
