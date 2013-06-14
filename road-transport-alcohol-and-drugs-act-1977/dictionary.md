@@ -20,7 +20,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · road
 · road related area
 · road transport authority (or authority) (see s 16)
-· road transport legislation (see s 6).
+· road transport legislation (see s 6)
+· vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accident means an accident on a road or road related area, whether within or outside the ACT, that involves a motor vehicle.
 alcohol screening device—see section 7.
@@ -74,12 +75,12 @@ level, for a concentration of alcohol in blood or breath—see section 4E.
 medical examination means an examination by a doctor or authorised nurse practitioner.
 nurse practitioner position—see the Health Act 1993, section 195 (2).
 offence of culpable driving, for a person, means—
-  (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
+  (a) an offence against the Crimes Act 1900, section 29 (Culpable driving of motor vehicle); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
 one-way box means a locked box, with a hole capable of receiving containers of blood samples, from which the containers cannot be removed unless the box is unlocked with a key kept by an approved analyst.
 oral fluid analysis, in relation to a person, means an analysis of a sample of the person’s oral fluid carried out for this Act using an oral fluid analysis instrument.
 oral fluid analysis instrument—see section 7C.
-prescribed concentration means—
+prescribed concentration—
   (a) for a special driver—see section 4C (a); and
   (b) for any other person—see section 4C (b).
 prescribed drug means—
@@ -91,7 +92,9 @@ registered operator—see the Road Transport (Vehicle Registration) Act 1999, di
 repeat offender—see section 4F.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-sampling facility means a facility prescribed by regulation to which a person may be taken for the purpose of having a blood sample taken by a doctor or nurse for analysis under part 2 (Examination of people for alcohol or drugs).
+sampling facility means a facility prescribed by regulation to which a person may be taken for the purpose of having—
+  (a) a blood sample taken by a doctor or nurse for analysis under part 2 (Examination of people for alcohol or drugs); or
+  (b) a medical examination under part 2.
 Examples––sampling facility
 1 a police station
 2 a police vehicle equipped for the purpose of taking blood samples
