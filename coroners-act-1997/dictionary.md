@@ -31,7 +31,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · oath
 · occupy
 · parent
-· person
+· person (see s 160)
 · police officer
 · power
 · proceeding
