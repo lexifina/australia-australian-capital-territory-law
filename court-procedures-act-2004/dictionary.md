@@ -14,18 +14,22 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory authority.
 advisory committee means the advisory committee established under section 11.
 assistant sheriff, for part 5 (Court security)—see section 40.
+care and protection chapters, for part 7A (Procedural provisions—proceedings involving children or young people)—see section 68A.
 child, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Children and Young People Act 2008, section 11.
 corresponding law, for part 4 (Crown proceedings)—see section 20.
 court, for part 5 (Court security)—see section 40.
 court premises , for part 5 (Court security)—see section 40.
 Crown, for part 4 (Crown proceedings)—see section 20.
+daily care responsibility, for division 7A.1 (General)—see the Children and Young People Act 2008, section 19.
 deputy sheriff, for part 5 (Court security)—see section 40.
 determined fee, for part 3 (Court and tribunal fees)—see section 12.
+director-general, for part 7A (Procedural provisions—proceedings involving children or young people)—see section 68A.
 explosive, for part 5 (Court security)—see the Dangerous Substances Act 2004, section 73.
 fee, for part 3 (Court and tribunal fees)—see section 12.
 firearm, for part 5 (Court security)—see the Firearms Act 1996, section 6.
 judge, for part 5 (Court security)—see section 40.
 judgment, for part 4 (Crown proceedings)—see section 20.
+long-term care responsibility, for division 7A.1 (General)—see the Children and Young People Act 2008, section 20.
 magistrate, for part 5 (Court security)—see section 40.
 master means the Master of the Supreme Court.
 offensive weapon, for part 5 (Court security)—see section 40.
@@ -40,4 +44,5 @@ sheriff, for part 5 (Court security)—see section 40.
 sheriff’s officer, for part 5 (Court security)—see section 40.
 Territory Crown, for part 4 (Crown proceedings)—see section 20.
 the Territory, for part 4 (Crown proceedings)—see section 20.
+victim, of an offence, for division 7A.1 (General)—see the Crimes (Sentencing) Act 2005, section 47.
 young person, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Children and Young People Act 2008, section 12.
