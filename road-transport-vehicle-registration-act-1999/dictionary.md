@@ -17,7 +17,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · road transport authority (or authority) (see s 16)
 · road transport legislation (see s 6)
 · trailer
-· use (in relation to a vehicle).
+· use (in relation to a vehicle)
+· vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 approved premises—see section 15 (3) (b).
 authorised person, for a provision of this Act, means—
@@ -67,7 +68,4 @@ road related area means—
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 trader’s plate means a numberplate issued by the road transport authority to a person engaged in a relevant trade to move unregistered registrable vehicles for short-term purposes.
 unregistered vehicle permit means a permit mentioned in section 7 (d) (Powers of road transport authority).
-vehicle means—
-  (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or
-  (b) any other vehicle prescribed under the regulations.
 vehicle standard includes a standard or other requirement relating to the construction, design or equipment of a registrable vehicle.
