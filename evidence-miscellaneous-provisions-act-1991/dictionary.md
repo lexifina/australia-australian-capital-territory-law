@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · entity
 · Executive
 · foreign country
+· found guilty
 · Governor-General
 · lawyer
 · may (see s 146)
