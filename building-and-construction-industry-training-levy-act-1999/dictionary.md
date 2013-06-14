@@ -12,7 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State
 · the Territory
 · year.
-authority means the Building and Construction Industry Training Fund Authority.
+authority means the Building and Construction Industry Training Fund Authority established under section 4.
 Building Act, for part 3 (Levy on building and construction work)—see section 15.
 building approval, for part 3 (Levy on building and construction work)—see section 15.
 building work, for part 3 (Levy on building and construction work)—see section 15.
