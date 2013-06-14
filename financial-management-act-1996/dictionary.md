@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bankrupt or personally insolvent
 · director-general (see s 163)
 · exercise
+· found guilty
 · function
 · GST
 · may (see s 146)
@@ -23,7 +24,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 applicable governmental policies, for a territory authority, for part 9 (Governance of territory authorities)—see section 103.
 appropriation means an appropriation of public money by any Act including this Act.
 Appropriation Act means an Act that makes appropriations in relation to a financial year for purposes mentioned in section 8.
-appropriation unit means a class of outputs, or a group of output classes, for which an appropriation is made by an Appropriation Act.
 banking account means an account with an authorised deposit-taking institution that is, or is substantially the same as, a bank account.
 borrowing includes—
   (a) raising money or obtaining credit, whether by dealing in securities or otherwise; and
@@ -89,7 +89,6 @@ securities includes stocks, debentures, notes, bonds, promissory notes, bills of
 statement of intent, for a territory authority—see section 61 (1).
 subsidiary—see the Territory-owned Corporations Act 1990, dictionary.
 superannuation appropriation—see the Territory Superannuation Provision Protection Act 2000, dictionary.
-superannuation banking account—see the Territory Superannuation Provision Protection Act 2000, section 7.
 taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 territory authority—
   (a) means a body corporate established by an Act; and
