@@ -13,7 +13,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · doctor
 · document
 · external territory
-· GST
 · in relation to
 · land.
 acquires, an interest in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 84.
@@ -34,7 +33,6 @@ associated person—
     (iv) trustees are associated people if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
     (v) a private company and a trustee are associated people if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee; and
   (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A.
-Australian register—see the Corporations Act, section 9.
 Australian Stock Exchange means ASX Limited, ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
@@ -56,10 +54,6 @@ Note The Federal Capital Commission was appointed under the Seat of Government (
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
 deferral arrangement, for part 2.6A (Deferred payments—home buyers) see section 75AC (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
-determined amount, in relation to duty, means an amount—
-  (a) determined by the Minister; or
-  (b) calculated in a way determined by the Minister;
-under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 discretionary trust means a trust under which the vesting of the whole or any part of the capital of the trust estate, or the whole or any part of the income from that capital, or both—
   (a) is required to be determined by a person either in respect of the identity of the beneficiaries, or the quantum of interest taken, or both; or
@@ -78,15 +72,6 @@ entity, for part 3.2 (Acquisition of interests in certain landholders)—see sec
 exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
-foreign resident means a person who at the relevant time—
-  (a) for a person, other than a person mentioned in paragraph (b) or (c)—is not resident or domiciled in Australia; or
-  (b) for a body corporate—is not incorporated under a law of an Australian jurisdiction and—
-    (i) does not have its central management and control in Australia; and
-    (ii) does not have its voting power controlled by shareholders who are residents of Australia; or
-  (c) for a partnership or other unincorporated association or body of people—does not have a member who is resident in Australia; or
-  (d) for a trust estate—
-    (i) does not have a trustee who is resident in Australia; and
-    (ii) does not have its central management and control in Australia.
 franchise means the package of rights held by a franchisee under a franchise arrangement.
 franchise arrangement means an agreement or other arrangement between 2 or more people by which 1 of them (the franchisor) authorises or permits another (the franchisee)—
   (a) to engage in the business of offering, selling or distributing goods and services within or partly within the ACT, and the franchisee is required to do so—
@@ -94,7 +79,6 @@ franchise arrangement means an agreement or other arrangement between 2 or more 
     (ii) under a common format or procedure (or format and procedure); and
   (b) to use a mark or common trade name, in such a way that the business carried on by the franchisee is, or is capable of being, identified by the public as being substantially associated with the mark or name identifying, commonly connected with or controlled by the franchisor or a related person.
 franchisee—see the definition of franchise arrangement.
-franchisor—see the definition of franchise arrangement.
 FS (BTGR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 general insurance, for chapter 8 (Insurance)—see section 175.
 general insurer, for chapter 8 (Insurance)—see section 175.
@@ -106,19 +90,9 @@ insurance intermediary—see the Insurance Contracts Act 1984 (Cwlth), section 1
 insurer—
   (a) for chapter 8 (Insurance), other than part 8.4—see section 175; and
   (b) for part 8.4 (Payment of duty by insurers)—see section 188A.
-intellectual property means—
-  (a) a business name, trading name, trade mark, industrial design, patent, registered design or copyright; or
-  (b) a right, whether or not under a franchise arrangement, to use or exploit—
-    (i) a business name, trading name, trade mark or industrial design; or
-    (ii) a thing, system or process that is the subject of a patent, registered design or copyright (or an adaptation or modification of such a thing, system or process).
 interest—
   (a) for this Act generally—includes an estate, an interest under a lease or a sublease, a proprietary right and a beneficial interest; and
   (b) in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 83.
-international trade insurance means—
-  (a) insurance of freight against loss or damage in the course of, or incidental to, international transport of the freight; or
-  (b) insurance of an aircraft or ship against loss or damage during a particular period when the aircraft or ship is under construction or undergoing refitting, maintenance or repairs if, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used wholly or principally for the international transport of freight for an indefinitely continuing period commencing immediately after the completion of the construction, refitting, maintenance or repairs, as the case may be; or
-  (c) insurance of an aircraft or ship against loss or damage in the course of, or incidental to, a particular journey or journeys if, at the time the insurance was effected, it was intended by the owner that the journey or journeys would be wholly or principally for the international transport of freight; or
-  (d) insurance of an aircraft or ship against loss or damage during a particular period if, at the time the insurance was effected, the aircraft or ship was intended by the owner to be used during that period wholly or principally for the international transport of freight.
 international transport, in relation to freight, means the transport, in connection with trade or commerce, of the freight between—
   (a) a place in a foreign country; and
   (b) a place in—
@@ -163,25 +137,16 @@ motor vehicle means a motor vehicle or trailer within the meaning of the Vehicle
 new motor vehicle means a motor vehicle that has not previously been registered under—
   (a) the Vehicle Registration Act or another territory law; or
   (b) a law of the Commonwealth, a State or another Territory.
-non-commercial Commonwealth authority means a body corporate (other than an incorporated company, society or association) that—
-  (a) is incorporated for a public purpose by or under a law of the Territory or the Commonwealth; and
-  (b) does not have as its sole or principal function the carrying on of an activity in the nature of a business, whether or not for profit.
 paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—see section 176.
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
 partnership interest—see section 10 (1) (h).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
-person with a disability means a person who has a disability that—
-  (a) is attributable to an intellectual, psychiatric, sensory, physical or neurological impairment, or acquired brain injury; and
-  (b) is likely to be permanent; and
-  (c) results in substantially reduced capacity in self-care, self-management, mobility or communication requiring significant ongoing, or long-term episodic, support.
-pooled superannuation trust means an entity that is a pooled superannuation trust in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 44.
 premium, in relation to general insurance for chapter 8 (Insurance)—see section 175.
 private company means a company—
   (a) that is not limited by shares; or
   (b) whose shares are not quoted on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
-private unit trust scheme means a unit trust scheme that is not a public unit trust scheme.
 property transferred, by a dutiable transaction—see section 8 (2).
 public unit trust scheme means any of the following unit trust schemes:
   (a) a listed trust;
@@ -206,8 +171,7 @@ related person means a person who is related to another person in accordance wit
 relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
 relevant acquisition, in relation to a person, for part 3.2 (Acquisition of interests in certain landholders)—see section 86.
 relevant period, for a relevant acquisition, for part 3.2 (Acquisition of interests in certain landholders)—see section 78.
-replica—see section 228.
-residential lease, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
+residential lease means a lease granted for residential purposes only.
 responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
 scheme includes—
@@ -222,9 +186,6 @@ tax avoidance scheme means a scheme if the person who has, or 1 or more of the p
   (b) that an amount of duty payable by a person would be less than the amount that would have been, or might reasonably be expected to have been, payable by the person; or
   (c) that a refund of duty would be payable to a person, that would not have been or might reasonably be expected not to have been, payable to the person;
 if the scheme had not been entered into or carried out, or for purposes of which that purpose was the dominant purpose.
-territory company means—
-  (a) a company incorporated (or taken to be incorporated) under the Corporations Act that is taken to be registered in the ACT; or
-  (b) a corporation that is incorporated under a territory Act.
 third-party insurance, for chapter 8 (Insurance)—see section 175.
 time, of transfer of dutiable property—see section 8 (2).
 trading stock, for part 9.2 (Exemptions)—see section 208A.
