@@ -8,11 +8,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · director-general (see s 163)
 · found guilty
 · function
-· person
+· person (see s 160)
 · police officer
 · reviewable decision notice
 · the Territory.
-animal boarding facility means a kennel, cattery, stable or other premises where animals are kept temporarily by a person other than a keeper of the animal.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
 animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
   (a) section 7 (Cruelty);
