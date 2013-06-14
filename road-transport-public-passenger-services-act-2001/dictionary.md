@@ -15,7 +15,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · motor vehicle
 · road transport authority (or authority) (see s 16)
 · road transport legislation (see s 6)
-· use (in relation to a vehicle).
+· use (in relation to a vehicle)
+· vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
 accredited demand responsive service operator means accredited under a regulation to operate a demand responsive service.
@@ -69,7 +70,3 @@ taxi service—see section 47.
 taxi zone—see the Australian Road Rules, rule 182.
 time of effect, for a noncompliance notice—see section 120 (2) (b).
 tour and charter service—see section 13.
-vehicle means—
-  (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or
-  (b) any other vehicle prescribed by regulation;
-and includes anything else that, under the regulations, is to be treated as a vehicle.
