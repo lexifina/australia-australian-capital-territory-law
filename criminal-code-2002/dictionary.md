@@ -121,12 +121,14 @@ prepare a drug for supply, for chapter 6 (Serious drug offences)—see section 6
 principal, for part 3.7 (Bribery and related offences)—see section 353.
 proceeds of a drug offence, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 product, of a plant, for chapter 6 (Serious drug offences)—see section 615.
-property includes the following:
-  (a) electricity;
-  (b) gas;
-  (c) water;
-  (d) a wild creature that is tamed or ordinarily kept in captivity or that is, or is being taken into, someone’s possession;
-  (e) any organ or part of a human body and any blood, ova, semen or other substance extracted from a human body.
+property—
+  (a) for this Act generally—includes the following:
+    (i) electricity;
+    (ii) gas;
+    (iii) water;
+    (iv) a wild creature that is tamed or ordinarily kept in captivity or that is, or is being taken into, someone’s possession;
+    (v) any organ or part of a human body and any blood, ova, semen or other substance extracted from a human body; and
+  (b) for part 4.1 (Property damage offences)—see section 400.
 Note For further definition of property, see the Legislation Act, dict, pt 1.
 property offence, for part 4.3 (Sabotage)—see section 422.
 public duty, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
@@ -155,7 +157,9 @@ supply—
 sworn statement, for chapter 7 (Administration of justice offences)—see section 700.
 territory public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 theft—see section 308 (Theft) and section 321 (Minor theft).
-threat includes a threat made by any conduct, whether explicit or implicit and whether conditional or unconditional.
+threat—
+  (a) for this Act generally—includes a threat made by any conduct, whether explicit or implicit and whether conditional or unconditional; and
+  (b) for part 4.1 (Property damage offences)—see section 402.
 trafficable quantity, for chapter 6 (Serious drug offences)—see section 601.
 traffics in a controlled drug—see section 602.
 transport, for chapter 6 (Serious drug offences)—see section 600.
