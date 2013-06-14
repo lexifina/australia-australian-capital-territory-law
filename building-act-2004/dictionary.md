@@ -27,7 +27,6 @@ approved plans—
   (a) means plans that relate to building work for which a building approval is in effect; and
   (b) includes amended plans.
 approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-asbestos advice—see the Dangerous Substances Act 2004, section 47J.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 asbestos code means the codes of practice that are approved under section 139B.
 asbestos removal control plan, in relation to building work, means a plan, complying with the asbestos code, that provides for the management of any asbestos disturbance resulting from the building work.
@@ -53,7 +52,7 @@ certifier—
   (b) for division 3.2 (Certifiers and government certifiers)—see section 17.
 class, of building, means that class of building under the building code.
 complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-completion day, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+completion day, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 85.
 cost, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 86.
 decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 development—see the Planning and Development Act 2007, section 7.
@@ -61,7 +60,7 @@ development approval means development approval under the Planning and Developme
 disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
 easement, for part 4 (Stop and demolition notices)—see section 52.
-eligible entity, for division 3.2 (Certifiers and government certifiers)—see section 17.
+eligible entity, for division 3.2 (Certifiers and government certifiers)—see section 18.
 energy efficiency certificate—see section 139C (1).
 exempt building—see section 12.
 exemption assessment—see section 14.
@@ -105,14 +104,11 @@ premises includes land or a structure and any part of an area of land or a struc
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 recognised standard means a document declared to be a recognised standard under section 139A (1).
-removal, of a building—
-  (a) means the removal of the building from a place for re-erection, with or without further alteration, at another place; and
-  (b) includes the demolition of part of the building removed or proposed to be removed.
 residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 residential building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 site work—see section 7A.
-special actuary, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+special actuary, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 122.
 specialist building work—see section 9.
 stage, of building work, means a stage prescribed under section 43 (1) (a).
 stop notice—see section 53 (2).
