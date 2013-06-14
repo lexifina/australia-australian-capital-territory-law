@@ -25,6 +25,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 Note 3 This dictionary defines some key words and expressions that may not be used in this Act but are used in other road transport legislation.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
+alcohol awareness course—see the Road Transport (Driver Licensing) Regulation 2000, section 73I.
 all reasonable steps, for division 3.3 (Infringement notice offences involving registrable vehicles—responsible person’s liability)—see section 32.
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
@@ -62,6 +63,7 @@ driver, of a vehicle, means the person driving the vehicle.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 driver licence receipt—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 driver trainer, for division 4.2 (Licence suspension, disqualification and related matters)––see section 61A.
+drug awareness course—see the Road Transport (Driver Licensing) Regulation 2000, section 73R.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
@@ -119,15 +121,18 @@ suspension notice—see immediate suspension notice.
 suspension offence—see immediate suspension offence.
 taxi—see the Road Transport (Public Passenger Services) Act 2001, section 45.
 total loss, in relation to a vehicle for division 5.3 (Written-off vehicles register)—see section 83C.
+tracked vehicle means a vehicle that moves on wheels inside endless tracks.
+Example—tracked vehicle
+bulldozer
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
 unknown user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
 vehicle means—
-  (a) any description of vehicle on wheels, other than a vehicle used on railways or tramways; or
-  (b) any other vehicle prescribed by regulation;
-and includes anything else that, under the regulations, is to be treated as a vehicle.
+  (a) any vehicle, including a tracked vehicle, other than a vehicle that is used exclusively on railways or tramways; or
+  (b) anything else prescribed as a vehicle by regulation.
 vehicle identifier, for division 5.3 (Written-off vehicles register)—see section 83B.
 written-off vehicle, for division 5.3 (Written-off vehicles register)—see section 83B.
 written-off vehicles register, for division 5.3 (Written-off vehicles register)—see section 83B.
