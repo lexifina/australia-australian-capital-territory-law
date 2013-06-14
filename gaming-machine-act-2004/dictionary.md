@@ -28,22 +28,18 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · the Territory
 · under.
 acquire a gaming machine, means take possession of the machine for the purpose of using it for gaming.
-acquisition approval application—see section 99.
 approval certificate—
   (a) for an approved technician—see section 80 (2) (a) (Certificates and identity cards for approved technicians);
   (b) for an attendant—see section 92 (2) (a) (Certificates for approved attendants).
 approval-holder—see section 38B.
 approved attendant means an attendant approved under section 86 (Approval of attendants) or section 87 (Short-term approval of attendants).
-approved gaming machine means a gaming machine approved under section 69.
 approved supplier means a supplier approved under section 72.
 approved technician means a technician approved under section 75 (Approval of technicians) or section 76 (Short-term approval of technicians).
-associated entity—see the Electoral Act 1992, section 198.
 associated organisation, for a club, means an entity declared to be an associated organisation under section 147.
 associated organisation declaration, for part 9 (Club administration)—see section 144A.
 authorised officer means an authorised officer under the Control Act, section 20.
 centralised monitoring system (or CMS)—see section 66.
 certificate of suitability—see section 17 (2) (b).
-charitable organisation means a body, whether or not incorporated, formed or carried on mainly for charitable, benevolent, philanthropic or religious purposes, but does not include a body formed or carried on for the purpose of trading or gaining a financial profit for its members.
 class B gaming machine means a gaming machine consisting of the game of draw poker, or a game derived from draw poker, that requires player interaction or intervention as part of the fundamental game operation.
 class C gaming machine means a gaming machine that consists of a game other than the following games or games derived from them:
   (a) roulette;
@@ -70,8 +66,8 @@ control procedures, for an entity, means the procedures under section 97.
 corporation includes a club.
 current licensee, for division 2.6 (Transfer and surrender of licences)—see section 31 (1).
 decrease machines amendment—see section 22 (1) (a).
-disciplinary action—see section 58.
-disciplinary notice—see section 61.
+disciplinary action, for part 4 (Disciplinary action)—see section 58.
+disciplinary notice, for part 4 (Disciplinary action)—see section 61.
 dispose of a gaming machine includes the following:
   (a) lease or hire the machine to a person;
   (b) destroy the machine;
@@ -83,7 +79,7 @@ eligible person—
   (b) for a corporation—see section 21.
 employ includes engage.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
-financial arrangement—see section 101.
+financial arrangement—see section 101 (2).
 game, in relation to a gaming machine, means a play, or a series of plays, initiated by the application of a single stake registered on the machine.
 gaming area—see section 15 (1) (b).
 gaming law—see the Control Act, dictionary.
@@ -100,19 +96,19 @@ general licence—see the Liquor Act 2010, section 17.
 gross revenue, of a licensee or person, means all revenue derived by the licensee or person from the operation of gaming machines, other than—
   (a) the amount of winnings for playing the machines paid or payable in accordance with the machines’ indicated prize scales (excluding linked jackpots); and
   (b) any amount set aside under a linked-jackpot arrangement for the payment of linked jackpots.
-ground for disciplinary action against a licensee—see section 57.
+ground for disciplinary action against a licensee, for part 4 (Disciplinary action)—see section 57.
 incorporated association means an association incorporated under the Associations Incorporation Act 1991.
 influential person, for a corporation—see section 7.
-initial licence application—see section 9.
+initial licence application, for part 2 (Licences)—see section 9.
 in-principle approval—see section 38B.
-inquiry means an inquiry held by the commission under the Control Act.
 jackpot, in relation to a gaming machine, means the combination of letters, numbers, symbols or representations as part of a game on the machine that pays the maximum winnings payable on the machine for any 1 combination.
 large-scale machine relocation amendment—see section 22 (1) (f).
 licence means—
   (a) a gaming machine licence issued under this Act; and
-  (b) in relation to a person authorised under section 134—the authorisation; and
-  (c) in relation to a permit-holder under part 8 (Linked-jackpot arrangements)—a multi-user permit.
-licence amendment application—see section 9.
+  (b) for part 4 (Disciplinary action)—see section 56; and
+  (c) in relation to a person authorised under section 134—the authorisation; and
+  (d) in relation to a permit-holder under part 8 (Linked-jackpot arrangements)—a multi-user permit.
+licence amendment application, for part 2 (Licences)—see section 9.
 licensed premises means premises for which a licence is in force.
 licensee means—
   (a) in relation to a licence—the holder of the licence; and
@@ -142,7 +138,6 @@ officer of a club—
   (b) does not include a patron or the holder of another honorary office of the club if the office does not give its holder a right to take part in the management of the club’s affairs.
 on licence—see the Liquor Act 2010, section 18.
 Note Subclasses of on licences are dealt with in the Liquor Act 2010, div 2.2.
-operator, of relevant premises, means the person who manages the premises.
 percentage payout, for a gaming machine, means the percentage payout authorised for the machine under the licence.
 peripheral equipment, for a gaming machine—see section 68.
 permit-holder means the holder of a multi-user permit.
@@ -150,11 +145,7 @@ pool of available gaming machines (or pool)—see section 36A.
 problem gambling assistance fund—see section 163B.
 proposed gaming area, in relation to an initial licence application—see section 11 (2) (b).
 prospective licensee, for division 2.6 (Transfer and surrender of licences)—see section 31 (1).
-qualified accountant means—
-  (a) a member of the Institute of Chartered Accountants in Australia, the Institute of Public Accountants or the Australian Society of Certified Practising Accountants; or
-  (b) a person registered as a registered company auditor under the Corporations Act.
 registered party—see the Electoral Act 1992, dictionary.
-relevant premises means the premises for which a person has applied for a licence.
 repossession of a gaming machine includes taking possession of the machine under a default provision in a financial agreement.
 required community contribution, for a licensee that is a club—see section 169 (1).
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
@@ -173,4 +164,4 @@ technical amendment—see section 22 (1) (h).
 technical evaluation means a technical evaluation under section 69.
 temporary storage amendment—see section 22 (1) (c).
 venue relocation amendment—see section 22 (1) (d).
-warning notice, for an associated organisation, for part 9 (Club administration)—see section 144A.
+warning notice, for an associated organisation, for part 9 (Club administration)—see section 147B.
