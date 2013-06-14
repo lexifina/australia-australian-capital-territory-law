@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · director-general (see s 163)
 · exercise
+· found guilty
 · function
 · under.
 annual report means the report that the commission is required to prepare under the Annual Reports (Government Agencies) Act 2004.
@@ -12,8 +13,7 @@ authorised officer means a person who is an authorised officer under section 20.
 casino means the casino under the Casino Control Act 2006.
 chief executive officer means the chief executive officer of the commission.
 code of practice—see section 18.
-commission means the Gambling and Racing Commission.
-executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
+commission means the ACT Gambling and Racing Commission established under section 5.
 gaming means conducting or playing a game of chance, or of mixed chance and skill, in which money or any other valuable thing is offered as a prize or is staked or risked (by a participant or someone else) on an event or contingency.
 gaming equipment means any electrical, electronic or mechanical device or any other thing (other than chips) used, or suitable for use, in connection with gaming.
 gaming law—
