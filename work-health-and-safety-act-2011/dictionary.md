@@ -26,6 +26,7 @@ condition includes limitation and restriction.
 construct includes assemble, erect, reconstruct, reassemble and re-erect.
 corresponding regulator means the holder of a public office, or a public authority, of the Commonwealth, or of a State, who or which is responsible for administering a corresponding WHS law.
 corresponding WHS law means a law prescribed by regulation as a corresponding WHS law.
+council means the Work Safety Council established under schedule 2, section 2.1.
 dangerous incident, for part 3 (Incident notification)—see section 37.
 demolition includes deconstruction.
 design, in relation to plant, a substance or a structure includes—
