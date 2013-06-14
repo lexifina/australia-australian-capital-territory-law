@@ -14,16 +14,19 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · penalty unit (see s 133)
 · reviewable decision notice
 · the Territory.
+Note 3 The Legislation Act, s 164 defines the following terms:
+· AS
+· AS/NZS
+· Australian Standard
+· Australian/New Zealand Standard.
 ACT plumbing code means a document declared under section 46.
-Australian Standard 3500 means the following standards, as in force from time to time:
-  (a) AS 3500.1.1;
-  (b) AS 3500.2.1;
-  (c) AS/NZS 3500.
+AS/NZS 3500 means the AS/NZS 3500 (Plumbing and drainage set), as in force from time to time.
+Note Australian standards may be purchased at www.standards.org.au.
 backflow prevention device means a device to prevent the reverse flow from a potentially polluted source into a water supply system for water suitable for human consumption.
 certifier means a person who holds a licence as a plumbing plan certifier.
 connected, with an offence, for part 4 (Enforcement)—see section 18.
 credit card includes a debit card.
-fire sprinkler service means the part of water supply pipework from fire sprinklers to the place where a backflow prevention device must be installed to comply with Australian Standard 3500 to prevent backflow from the pipework directly serving the fire sprinklers.
+fire sprinkler service means the part of water supply pipework from fire sprinklers to the place where a backflow prevention device must be installed to comply with AS/NZS 3500 to prevent backflow from the pipework directly serving the fire sprinklers.
 fire sprinkler work means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part, of a fire sprinkler service.
 grey water—
   (a) means domestic waste from baths, basins, showers and laundries; and
@@ -81,7 +84,7 @@ sewerage network—see the Utilities Act 2000, section 14.
 single residential building means a detached house or a building making up no more than 2 residences, and includes—
   (a) a part of such a building; and
   (b) an adjunct to such a building.
-site plan—see Australian Standard HB 50 as in force on 1 March 1999.
+site plan—see HB 50 (Glossary of building terms) as in force on 1 March 1999.
 stormwater means surface water, subsoil water and runoff caused by rainfall on roof areas.
 water appliance—
   (a) means an apparatus or machine that—
