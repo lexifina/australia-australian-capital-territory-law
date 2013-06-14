@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · director-general (see s 163)
 · doctor
 · domestic partner (see s 169 (1))
+· found guilty
 · Governor
 · health practitioner
 · human rights commissioner
@@ -40,26 +41,25 @@ Note Territory laws apply to a delegate of a person in the exercise of a delegat
 accused—see section 151.
 activity—see the Crimes (Sentence Administration) Act 2005, dictionary.
 adjudicator means a person who is appointed as an adjudicator under section 177.
-administrative penalty—see section 151.
+administrative penalty—see section 184.
 admission, of a detainee to a correctional centre—see section 63.
 body search, of a detainee—see section 107.
 case management plan, for a detainee, means the detainee’s case management plan maintained under section 78.
 charge—see section 151.
-charge notice—see section 151.
+charge notice—see section 159.
 conduct means an act or omission.
 correctional centre means a place declared to be a correctional centre under section 24.
 corrections dog means a dog approved under the regulations to exercise functions as a corrections dog under this Act.
 corrections officer means a person who is appointed as a corrections officer under section 19.
 corrections policy means a corrections policy under section 14.
 corresponding director-general, for part 12.2 (Interstate leave)—see section 206.
-corresponding corrections law—see section 225.
 corresponding leave law, for part 12.2 (Interstate leave)—see section 206.
 court cell, for chapter 4 (Detention in police and court cells etc)—see section 29.
 detainee—see section 6.
 detention period, for an offender’s periodic detention—see the Crimes (Sentence Administration) Act 2005, section 41.
 director-general, for chapter 4 (Detention in police and court cells etc)—see section 29.
-disciplinary action—see section 151.
-disciplinary breach—see section 151.
+disciplinary action—see section 183.
+disciplinary breach—see section 152.
 disciplinary charge—see section 151.
 drug—see section 132.
 engage in conduct means—
@@ -90,7 +90,7 @@ interstate detainee, for part 12.2 (Interstate leave)—see section 206.
 interstate escort officer—see section 213.
 interstate leave permit—see section 208.
 investigative segregation—see section 151.
-investigator—see section 151.
+investigator—see section 153.
 investigator’s report—see section 157 (2) (b).
 law enforcement agency—see the Spent Convictions Act 2000, dictionary.
 legally privileged—a thing is legally privileged if client legal privilege attaches to the thing.
@@ -113,7 +113,7 @@ possession, of a thing, includes the following:
 presiding officer—
   (a) for this Act generally—see section 151; and
   (b) for chapter 11 (Disciplinary inquiries)—see section 191.
-privilege, in relation to a detainee—see section 151.
+privilege, in relation to a detainee—see section 154.
 prohibited area, at a correctional centre—see section 85.
 prohibited thing means a thing declared to be a prohibited thing under section 81.
 protected mail—see section 104 (4).
