@@ -25,10 +25,10 @@
 ### Division 8.3 The ACAT
 ## Part 9 Ending residence contracts
 ### Division 9.1 General principles about ending residence contracts
-### Division 9.2 Ending by ACAT on application of either operator or resident
-### Division 9.3 Ending by ACAT on application of operator
-### Division 9.4 Ending by Supreme Court on application of administrator
-### Division 9.5 Suspension or refusal of orders for ending
+### Division 9.2 Ending of residence contract by ACAT on application of either operator or resident
+### Division 9.3 Ending of residence contract by ACAT on application of operator
+### Division 9.4 Ending of residence contract by Supreme Court on application of administrator
+### Division 9.5 Suspension or refusal of orders for ending of residence contract
 ### Division 9.6 Recovery of possession of premises
 ### Division 9.7 Abandonment of premises
 ### Division 9.8 Uncollected goods

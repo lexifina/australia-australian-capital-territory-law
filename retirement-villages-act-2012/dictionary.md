@@ -3,9 +3,12 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· authorised deposit-taking institution
 · bankrupt or personally insolvent
+· commissioner for fair trading
 · Corporations Act
 · director-general (see s 163)
+· doctor
 · domestic partner (see s 169 (1))
 · exercise
 · fail
@@ -14,11 +17,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · lawyer
 · Magistrates Court
 · registrar-general
-· Supreme Court.
+· Supreme Court
+· Territory.
 accounts, of a retirement village, means the accounts mentioned in division 7.5 (Annual accounts).
 administrator means an administrator appointed under an order made under division 6.6 (Administrators, receivers and managers).
 annual management meeting means the meeting mentioned in section 107.
-approved annual budget means a budget taken to be an approved annual budget under section 162.
+approved annual budget, for a financial year of a retirement village, means a proposed annual budget taken to be an approved annual budget under section 165.
 capital gain—see section 13.
 capital item, for which the operator of a retirement village is responsible, for division 7.2 (Capital maintenance and replacement)—see section 135.
 capital maintenance, for division 7.2 (Capital maintenance and replacement)—see section 135.
@@ -38,12 +42,12 @@ community title scheme—see the Community Title Act 2001, dictionary.
 company title scheme means a scheme under which a group of adjoining or adjacent premises (including residential premises) is owned or leased by a corporation each of whose shareholders has, because of the shareholder’s shares, an exclusive right (under a lease or otherwise) to occupy 1 or more of the residential premises.
 condition report—see section 59 (1).
 contract for the sale, of residential premises occupied under a company title scheme—see section 9.
-CPI means the Consumer Price Index (All Groups) for Canberra issued by the Australian Statistician.
+CPI means the Consumer Price Index (All Groups) for Canberra issued by the Australian statistician.
 departure fee—see section 214.
 development approval—see the Planning and Development Act 2007, dictionary.
 disclosure statement means a statement mentioned in section 24.
 end of the settling-in period, for a village contract, for division 5.2 (Settling-in period for residents)—see section 71.
-financial year, of a retirement village, means the period fixed under section 134.
+financial year, for a retirement village, means the period fixed under section 134.
 former occupant, of a retirement village—
   (a) means a resident, or a former resident, of the village—
     (i) who has permanently vacated residential premises in the village; and
@@ -73,9 +77,10 @@ owners corporation, for a units plan—see the Unit Titles (Management) Act 2011
 permanently vacated, residential premises—
   (a) for this Act generally—see section 14; and
   (b) for part 10 (Matters relating to vacation of premises)—see section 207.
-proposed annual budget, for a financial year for a retirement village, for division 7.4 (Proposed and approved annual budgets)—see section 158.
+proposed annual budget, for a financial year of a retirement village, for division 7.4 (Proposed and approved annual budgets)—see section 158.
 prospective resident, of a retirement village, means a person who indicates (or on whose behalf it is indicated) to the operator of the village that the person is or might be interested in becoming a resident of the village.
 proxy, of a resident of a retirement village, means a person appointed by the resident for voting on the resident’s behalf at residents meetings.
+quarterly accounts, for a quarter for a retirement village, means the accounts of the village’s income and spending for the quarter.
 recurrent charge means an amount (including rent) payable under a village contract, on a recurrent basis, by a resident of a retirement village.
 Note Levies payable under a community title scheme or units plan are not recurrent charges (because they are not payable under a village contract).
 refurbishment, for division 10.4 (Repair and refurbishment of residential premises)—see section 218.
@@ -94,7 +99,11 @@ resident, of a retirement village—
   (b) includes the following people (each of whom is taken also to have a residence right in relation to the residential premises):
     (i) the domestic partner of the retired person, if the domestic partner occupies the residential premises with the retired person;
     (ii) a person prescribed by regulation;
-    (iii) for part 6, part 7, part 8 and division 10.5—a former occupant of the retirement village.
+    (iii) a person mentioned in section 15A (1) (a), (b) or (c) (Application to residents and operators of former retirement villages);
+    (iv) for part 6 (General management of retirement villages)—see section 77A;
+    (v) for part 7 (Financial management of retirement villages)—see section 133A;
+    (vi) for part 8 (Disputes)—see section 174A;
+    (vii) for division 10.5 (Sale or letting of premises by certain residents)—see section 221A.
 residential aged care facility means a residential facility that provides residential care within the meaning of the Aged Care Act 1997 (Cwlth), section 41-3 (Meaning of residential care) to residents at the facility.
 residential premises means premises or part of premises (including any land occupied with the premises) used or intended to be used as a place of residence.
 residential tenancy agreement—see the Residential Tenancies Act 1997, section 6A.
@@ -105,18 +114,17 @@ sale, of residential premises occupied under a company title scheme—see sectio
 sale of residential premises, for part 10 (Matters relating to vacation of premises)—see section 208.
 sale price, of residential premises occupied under a company title scheme—see section 9.
 service contract means a contract under which general or optional services are provided to a resident of a retirement village.
-services and facilities means services and facilities provided by or on behalf of the operator.
+services and facilities means services and facilities provided by or on behalf of an operator of a retirement village.
 special resolution means a resolution under schedule 1, part 1.3.
 standard form contract—see section 67.
 standard term, in relation to a village contract, means a term in a standard form contract that applies to the village contract.
-surplus, for division 7.6 (Surplus or deficit of accounts)—see section 172.
-tenant means a person who has a right to occupy residential premises under a residential tenancy agreement—
+tenant means a person who has a right to occupy residential premises in a retirement village under a residential tenancy agreement—
   (a) entered into under division 10.5 (Sale or letting of premises by certain residents); or
   (b) that contains a term to the effect that this Act does not apply to the residential premises the subject of the agreement.
-Note A tenant is not a resident.
+Note A tenant is not a resident because a tenant does not have a residence right in relation to residential premises in a retirement village—see div 10.5.
 termination notice—see section 185 (2).
 trustee, for part 4 (Entry into retirement villages)—see section 32.
-unit—see the Unit Titles Act 2001, dictionary.
+unit—see the Unit Titles Act 2001, section 9.
 units plan—see the Unit Titles Act 2001, dictionary.
 urgent, for division 7.2 (Capital maintenance and replacement)—see section 136.
 village contract—
