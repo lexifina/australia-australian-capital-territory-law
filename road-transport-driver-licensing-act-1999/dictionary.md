@@ -18,7 +18,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · road transport authority (or authority) (see s 16)
 · road transport legislation (see s 6)
 · trailer
-· use (in relation to a vehicle).
+· use (in relation to a vehicle)
+· vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 additional provisional class, in relation to an Australian driver licence (including a provisional licence) of a particular class, means any other class of licence that is shown on the licence as a provisional class.
 administering authority, for a demerit points offence, means the entity that, under the regulations made under the Road Transport (General) Act 1999, is the administering authority for the offence.
@@ -48,7 +49,7 @@ external territory driver licence means a licence to drive a motor vehicle (howe
 foreign driver licence means a licence to drive a motor vehicle (however described) issued under the law of a foreign country.
 incur, demerit points for an offence—see section 13B (2) (When demerit points are incurred).
 infringement notice—
-  (a) means a notice served under the Road Transport (General) Act 1999, section 24 (Service of infringement notices generally) or 36 (Service of infringement notices on responsible people for vehicles); and
+  (a) means a notice served under the Road Transport (General) Act 1999, division 3.2 (Infringement and reminder notices); and
   (b) includes a notice (however described) served on a person under the law of another jurisdiction that gives the person the option of paying an amount for an offence instead of being charged with the offence.
 infringement notice penalty—
   (a) see the Road Transport (General) Act 1999, dictionary; and
@@ -78,6 +79,3 @@ road related area means—
   (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 signature, for part 4 (Protection of photographs and signatures)—see section 35.
-vehicle means—
-  (a) any description of vehicle on wheels, other than a vehicle used on a railway or tramway; or
-  (b) any other vehicle prescribed by regulation.
