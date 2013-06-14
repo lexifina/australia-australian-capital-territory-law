@@ -3,12 +3,13 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
+· AS (see s 164 (1))
 · daily newspaper
 · director-general (see s 163)
 · disallowable instrument (see s 9)
 · exercise
+· found guilty
 · function
-· heritage register
 · indictable offence (see s 190)
 · Minister (see s 162)
 · national capital plan
@@ -35,7 +36,7 @@ area of high conservation value means—
   (b) a place, other than a structure or group of structures, registered under the Heritage Act 2004; or
   (c) the area identified in the territory plan as the river corridor zone for the Murrumbidgee River; or
   (d) any other prescribed area.
-AS 4013, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
+AS/NZS 4013, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 assessment means an assessment made under the Land Act, division 4.3.
 assessment order, for part 9 (Environmental protection)—see section 91J.
 auditor, for division 9.2 (Environmental audits)—see section 73.
@@ -45,14 +46,14 @@ authorised concert venue, for schedule 1 (Activities requiring environmental aut
 authorised motor racing venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 authorised officer means an authorised officer under section 14 (3).
 authority means the Environment Protection Authority under section 11.
-blank fire firearm, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+blank fire firearm, for schedule 1 (Activities requiring environmental authorisation)—see the Firearms Act 1996, dictionary.
 bore, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
-clinical waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+clinical waste, for schedule 1 (Activities requiring environmental authorisation)—see the Clinical Waste Act 1990, dictionary.
 concert, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 concert venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 conduct includes acts and omissions.
 connected, for part 11 (Powers of authorised officers)—see section 95.
-consultation period, for part 4 (Environment protection policies)—see section 23B.
+consultation period, for part 4 (Environment protection policies)—see section 25 (1).
 contaminated, in relation to land—see section 4.
 development—see the Planning and Development Act 2007, section 7.
 draft environment protection policy, for part 4 (Environment protection policies)—see section 23B.
@@ -106,7 +107,6 @@ material environmental harm means environmental harm—
 mobile plant, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 motor racing event, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
-National Electricity (ACT) Law, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 national environment protection measure, for division 9.5 (Assessment and remediation)—see section 91A.
 offence, for part 11 (Powers of authorised officers)—see section 95.
 paintball marker, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
@@ -127,7 +127,7 @@ prescribed activity means—
   (c) an activity in relation to which a person has been given a notice under section 43 (1).
 receiving waters, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 register means the register kept under section 21A.
-regulated waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+regulated waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1A.
 remediation, in relation to contaminated land, includes—
   (a) preparing a long-term management plan (if any) for the land; and
   (b) removing, dispersing, destroying, reducing, mitigating or containing the contamination of the land; and
@@ -137,7 +137,7 @@ residential premises—
   (a) for part 11 (Powers of authorised officers)—see section 95; and
   (b) for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 reviewable decision, for part 14 (Notification and review of decisions)—see section 135.
-road transport legislation, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+road transport legislation, for schedule 1 (Activities requiring environmental authorisation)—see the Road Transport (General) Act 1999, section 6.
 sell, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 serious environmental harm means environmental harm—
   (a) that is very significant, including environmental harm that becomes very significant—
@@ -151,7 +151,7 @@ serious environmental harm means environmental harm—
   (c) that results in loss or damage to property to the value of more than $50 000; or
   (d) that results in necessary remedial action costing more than $50 000.
 solid fuel-burning equipment, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
-stock, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+stock, for schedule 1 (Activities requiring environmental authorisation)—see the Stock Act 2005, dictionary.
 stormwater, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 stormwater system, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 substance, for division 9.5 (Assessment and remediation)—see section 91A.
