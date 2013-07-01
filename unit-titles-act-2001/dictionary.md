@@ -111,7 +111,7 @@ Examples
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 provisional building damage order—see section 154.
 provisions, of a lease, means the provisions, covenants and conditions subject to which the lease is held.
-public place—see the Roads and Public Places Act 1937, dictionary.
+public unleased land—see the Public Unleased Land Act 2013, section 8.
 registered means registered with the registrar-general under the Land Titles Act 1925 or the Land Titles (Unit Titles) Act 1970.
 reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.

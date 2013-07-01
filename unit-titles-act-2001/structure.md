@@ -10,7 +10,6 @@
 ## Part 4 Registration of units plans
 ### Division 4.1 Subdivision, unit leases and common property lease
 ### Division 4.2 Easements
-### Division 4.3 Encroachments on public places
 ## Part 10 Amendment of units plans
 ### Division 10.1 Amendment of schedule of unit entitlement
 ### Division 10.2 Minor boundary changes
