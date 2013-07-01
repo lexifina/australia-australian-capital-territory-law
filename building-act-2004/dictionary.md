@@ -81,7 +81,7 @@ handling asbestos—to remove any doubt, handling asbestos (including friable as
 information includes documents.
 land includes—
   (a) a place under, on or above the ground; and
-  (b) a place in relation to which a permit has been granted under the Roads and Public Places Act 1937; and
+  (b) land that is the subject of a public unleased land permit under the Public Unleased Land Act 2013; and
   (c) land, a building or a structure, the use of which is authorised by a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land).
 lease—see the Planning and Development Act 2007, section 235.
 licensed construction practitioner means an entity licensed under the Construction Occupations (Licensing) Act 2004.
@@ -95,7 +95,7 @@ owner, of land, means—
     (ii) if building work has been, is being or is to be carried out on the land for the proprietor of a unit—the proprietor; or
     (iii) in any other case—the owners corporation; or
   (c) if the land is occupied under a tenancy from the Territory or the Commonwealth—the occupier; or
-  (d) if the land is subject to a permit under the Roads and Public Places Act 1937—the permit-holder; or
+  (d) if the land is subject to a public unleased land permit under the Public Unleased Land Act 2013—the permit-holder; or
   (e) if the land is subject to a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land)—the licensee; or
   (f) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
   (g) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth.
