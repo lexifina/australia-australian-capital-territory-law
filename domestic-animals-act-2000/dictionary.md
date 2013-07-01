@@ -79,9 +79,10 @@ permit, for part 3 (Dogs and cats)—see section 73.
 premises includes land (whether vacant or occupied), an aircraft, a vessel and a vehicle.
 prohibited area means an area declared by the Minister under section 41 (1).
 public place—
-  (a) see the Roads and Public Places Act 1937, dictionary; and
+  (a) means public unleased land; and
   (b) includes a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
 Note A public passenger vehicle is a public bus, taxi, hire car or demand responsive service vehicle.
+public unleased land—see the Public Unleased Land Act 2013, section 8.
 reasonably believes means has reasonable grounds for believing.
 register means the register kept by the registrar under section 5.
 registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
