@@ -28,4 +28,3 @@
 ## Part 10 Forfeiture of office
 ## Part 11 Review and appeal
 ## Part 13 Miscellaneous
-## Part 17 Transitional—Administrative (One ACT Public Service Miscellaneous Amendments) Act 2011
