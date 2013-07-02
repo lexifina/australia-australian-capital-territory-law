@@ -25,10 +25,7 @@ building includes part of a building.
 commencement date, of an eligible transaction—see section 13 (3) and (5).
 commissioner means the commissioner for revenue.
 completed, for an eligible transaction—see section 13 (4).
-comprehensive home building contract, for division 2.5A (Amount of grant—certain eligible transactions)—see section 13 (7).
 consideration, for an eligible transaction—see section 13 (6).
-contract for an ‘off-the-plan’ purchase, of a new home, for division 2.5A (Amount of grant—certain eligible transactions)—see section 24A (1).
-contract for the purchase of a home, for division 2.5A (Amount of grant—certain eligible transactions)—see section 13 (7).
 corresponding law means an Act of a State corresponding to this Act.
 eligibility criteria means the criteria for deciding whether an applicant for a first home owner grant is eligible for the grant (see division 2.2).
 eligible transaction—see section 13 (1) and (2).
@@ -38,18 +35,14 @@ first home owner grant scheme means the scheme for payment of first home owner g
 grant recipient means—
   (a) an applicant (or former applicant) for a first home owner grant to whom an amount is paid under this Act; or
   (b) any other person to whom an amount is paid under this Act.
-GST Act for division 2.5A (Amount of grant—certain eligible transactions)—see section 24A (1).
 guardian, of a person under a legal disability, includes a trustee who holds property on trust for the person under an instrument of trust or by order or direction of a court or tribunal.
 home—see section 4.
-home built to replace demolished premises, for division 2.5A (Amount of grant—certain eligible transactions)—see section 24A (3).
 home owner—see section 5 (1).
 identity card—see the Taxation Administration Act 1999, dictionary.
-new home, for division 2.5A (Amount of grant—certain eligible transactions)—see section 24A (1).
 objector, for division 2.6 (Objections and appeals)—see section 24I.
 owner means—
   (a) of land—a person who has a relevant interest in the land; or
   (b) of a home—see section 5 (1).
-owner-builder, for division 2.5A (Amount of grant—certain eligible transactions)—see section 13 (7).
 partner, of an applicant—see section 6.
 permanent resident means—
   (a) a person who holds a permanent visa for the Migration Act 1958 (Cwlth), section 30; or
@@ -62,6 +55,5 @@ residence requirements means—
     (i) under section 12 (1), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a continuous period of at least 6 months; or
     (ii) under section 12 (1) and (2) (a), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a shorter period approved by the commissioner; and
   (b) the requirement under section 12 (3) that the period of occupation required under section 12 (1), or section 12 (1) and (2) (a), must start within 1 year after completion of the eligible transaction or a longer period approved by the commissioner.
-substantially renovated home, for division 2.5A (Amount of grant—certain eligible transactions)—see section 24A (2).
 third-party debtor, for a grant recipient—see section 46A.
 total value of an eligible transaction—see section 13B (1).
