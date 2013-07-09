@@ -28,4 +28,3 @@
 ## Part 9A Notification and review of decisions
 ## Part 9B Powers of ACAT
 ## Part 10 Miscellaneous
-## Part 15 Transitional—Construction Occupations Legislation (Exemption Assessment) Amendment Act 2010
