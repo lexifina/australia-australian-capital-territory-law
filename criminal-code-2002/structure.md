@@ -37,6 +37,9 @@
 ### Division 3.7.1 Interpretation for pt 3.7
 ### Division 3.7.2 Offences for pt 3.7
 ## Part 3.8 Impersonation or obstruction of territory public officials
+## Part 3.8A Cheating at gambling
+### Division 3.8A.1 Interpretation—pt 3.8A
+### Division 3.8A.2 Offences—pt 3.8A
 ## Part 3.9 Procedural matters for ch 3
 ### Division 3.9.1 General—pt 3.9
 ### Division 3.9.2 Alternative verdicts—ch 3

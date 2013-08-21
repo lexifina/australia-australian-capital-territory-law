@@ -24,10 +24,13 @@ aggravated robbery—see section 310.
 applied provisions—see section 10.
 belongs, in relation to property, for chapter 3 (Theft, fraud, bribery and related offences)—see section 301.
 benefit includes any advantage and is not limited to property.
+bet, by a person on an event, for part 3.8A (Cheating at gambling)—see section 363A.
 burglary—see section 311.
 cannabis—see section 600.
 cannabis plant—see section 600.
-cause a loss, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
+cause—
+  (a) for chapter 3 (Theft, fraud, bribery and related offences) other than part 3.8A (Cheating at gambling)—see section 300; and
+  (b) for part 3.8A (Cheating at gambling)—see section 363B.
 causes—
   (a) for part 4.1 (Property damage offences)—see section 400; and
   (b) for part 4.2 (Computer offences)—see section 412; and
@@ -35,10 +38,13 @@ causes—
   (d) for chapter 7 (Administration of justice offences)—see section 700.
 commercial quantity, for chapter 6 (Serious drug offences)—see section 601.
 conceal a thing, for chapter 6 (Serious drug offences)—see section 600.
-conduct—see section 13.
+conduct—
+  (a) for the Act (other than part 3.8A (Cheating at gambling))—see section 13; and
+  (b) for part 3.8A (Cheating at gambling)—see section 363A.
 controlled drug—see section 600.
 controlled plant—see section 600.
 controlled precursor—see section 600.
+corrupts a betting outcome, for part 3.8A (Cheating at gambling)—see section 363C.
 create—a law creates an offence if it directly or indirectly creates the offence or directly or indirectly affects its scope or operation.
 criminal activity, for chapter 6A (Participation in criminal groups)—see section 650.
 criminal group, for chapter 6A (Participation in criminal groups)—see section 651.
@@ -63,7 +69,9 @@ drug offence, for part 6.7 (Offences relating to property derived from drug offe
 duty, of a person who is a public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 electronic communication, for part 4.2 (Computer offences)—see section 412.
 employee includes a servant.
+encourage, for part 3.8A (Cheating at gambling)—see section 363A.
 engage in conduct—see section 13.
+event, for part 3.8A (Cheating at gambling)—see section 363A.
 evidence, for chapter 7 (Administration of justice offences)—see section 700.
 evidential burden—see section 58 (7).
 explosive means a substance or article that—
@@ -73,6 +81,8 @@ false document, for part 3.6 (Forgery and related offences)—see section 344.
 fault element—see section 17.
 fault element of basic intent—see section 30.
 favour, for part 3.7 (Bribery and related offences)—see section 352.
+financial advantage, for part 3.8A (Cheating at gambling)—see section 363A.
+financial disadvantage, for part 3.8A (Cheating at gambling)—see section 363A.
 firearm includes an airgun and an airpistol.
 forgery—see section 346.
 function, of an agent, for part 3.7 (Bribery and related offences)—see section 352.
@@ -105,7 +115,9 @@ menace, for part 3.5 (Blackmail)—see section 340.
 mental impairment—see section 27.
 modification, for part 4.2 (Computer offences)—see section 412.
 negligent—see section 21.
-obtain, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
+obtain—
+  (a) for chapter 3 (Theft, fraud, bribery and related offences) other than part 3.8A (Cheating at gambling)—see section 300; and
+  (b) for part 3.8A (Cheating at gambling)—see section 363D.
 obtaining property by deception—see section 326.
 offence means an offence against a law.
 offensive weapon includes the following:
