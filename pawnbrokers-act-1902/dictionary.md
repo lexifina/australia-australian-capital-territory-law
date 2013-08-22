@@ -5,7 +5,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · commissioner for fair trading
 · CrimTrac
 · police officer
-· statutory declaration
+· statutory declaration.
 article includes a chattel or goods.
 commissioner means the commissioner for fair trading.
 disqualified—see section 21 (Working out whether person suitable).
