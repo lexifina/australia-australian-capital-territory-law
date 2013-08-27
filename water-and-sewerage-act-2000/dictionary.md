@@ -6,7 +6,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · appoint
 · Australian citizen
 · construction occupations registrar
-· disallowable instrument
+· disallowable instrument (see s 9)
 · document
 · exercise
 · function
@@ -62,7 +62,9 @@ sanitary drain—
     (ii) is, or is to be, indirectly or directly connected to a sewerage network, a septic tank, on-site sewerage treatment unit or other receptacle for sewage; but
   (b) does not include—
     (i) a grey-water irrigation hose used, or for use, in relation to the carrying of grey water directly to a grey-water irrigation area; or
-    (ii) is, or is intended to become, part of a sewerage network.
+    (ii) a thing mentioned in paragraph (a)—
+      (A) that is part of a sewerage network for which there is a responsible utility; or
+      (B) that is intended by a utility, or by an entity that has an arrangement (however described) with a utility in relation to the thing, to become part of a sewerage network for which the utility is the responsible utility.
 sanitary drainage work—
   (a) means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part, of a sanitary drain; but
   (b) does not include—
@@ -99,7 +101,10 @@ water service—
   (b) includes an irrigation system; but
   (c) does not include—
     (i) a fire sprinkler system; or
-    (ii) part of a water network, or water supply pipework that is intended to become part of a water network.
+    (ii) part of a water network; or
+    (iii) water supply pipework that is intended by either of the following to become part of a water network, if the water network is a water network for which there is a responsible utility:
+      (A) the responsible utility;
+      (B) an entity that has an arrangement (however described) with the responsible utility in relation to the pipework.
 water supply plumbing work—
   (a) means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part, of a water service or a hot-water system; and
   (b) includes fire sprinkler work; but
