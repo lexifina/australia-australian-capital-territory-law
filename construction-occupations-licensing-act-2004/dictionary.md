@@ -6,10 +6,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bankrupt or personally insolvent
 · building code
 · director-general (see s 163)
+· document
 · entity
 · Legislation Act
 · occupational discipline order
 · reviewable decision notice
+· State
 · under
 · working day.
 AS 3500 means the following standards, as in force from time to time:
@@ -36,6 +38,9 @@ conduct means an act or an omission to do an act.
 construction occupation—see section 7.
 construction practitioner—see section 6.
 construction service—see section 6 (2).
+corresponding law means—
+  (a) a law of a State corresponding, or substantially corresponding, to this Act; or
+  (b) a law of a State prescribed by regulation as a corresponding law for this Act.
 demerit disciplinary ground, for part 8 (Demerit points system)—see section 89.
 demerit points register, for part 8 (Demerit points system)—see section 89.
 disciplinary incident, for part 8 (Demerit points system)—see section 89.
@@ -52,6 +57,7 @@ former licensee means an entity that has been a licensee.
 gasfitter—see section 12.
 gasfitting service—see section 12 (2).
 ground for occupational discipline—see section 55.
+information requirement, for part 6A (Information requirements)—see section 80D.
 infringement notice—see Magistrates Court Act 1930, section 117.
 licence means a licence under this Act.
 licensee—
@@ -65,6 +71,7 @@ occupational discipline means—
   (b) something done by the registrar in accordance with an occupational discipline order; or
   (c) something done by the registrar under section 95.
 occupation class means a class into which a construction occupation is divided under section 15.
+occupier, of premises, includes a person believed on reasonable grounds to be an occupier of the premises.
 operational Act—see section 16.
 plumber—see section 13.
 plumbing plan certification service—see section 14 (2).

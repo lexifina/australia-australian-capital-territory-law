@@ -8,6 +8,7 @@
 ### Division 5.1 Automatic licence suspension
 ### Division 5.2 Occupational discipline—licensees
 ## Part 6 Enforcement
+## Part 6A Information requirements
 ## Part 7 Offences
 ## Part 8 Demerit points system
 ## Part 9 Administration
@@ -21,3 +22,4 @@
 ## Part 17 Transitional—energy efficiency rating statements
 ### Division 17.1 General
 ### Division 17.2 Energy efficiency rating statements
+## Part 18 Transitional—new licence application information
