@@ -92,7 +92,7 @@ owner, of land, means—
   (a) if the land is held under a lease from the Commonwealth for a term of years—the lessee; or
   (b) if the land is subdivided under the Unit Titles Act 2001—
     (i) if building work has been, is being or is to be carried out on the land for the owners corporation—the owners corporation; or
-    (ii) if building work has been, is being or is to be carried out on the land for the proprietor of a unit—the proprietor; or
+    (ii) if building work has been, is being or is to be carried out on the land for the proprietor of a unit in a units plan for the land—the proprietor; or
     (iii) in any other case—the owners corporation; or
   (c) if the land is occupied under a tenancy from the Territory or the Commonwealth—the occupier; or
   (d) if the land is subject to a public unleased land permit under the Public Unleased Land Act 2013—the permit-holder; or
