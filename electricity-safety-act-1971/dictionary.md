@@ -63,15 +63,9 @@ offence, for part 7 (Enforcement)—see section 38 (2).
 premises means a building, structure or place (whether built on or not and whether enclosed or not), and includes an aircraft, a vessel and a vehicle.
 prescribed article of electrical equipment—see section 11.
 prohibited, in relation to an article of electrical equipment, means an article that is prohibited under section 28 (1).
-regulatory authority, for a State or another Territory, means—
-  (a) for New South Wales—the Department of Fair Trading; or
-  (b) for Victoria—the Office of the Chief Electrical Inspector; or
-  (c) for Queensland—the Department of Mines and Energy; or
-  (d) for South Australia—the Office of Energy Policy; or
-  (e) for Western Australia—the Office of Energy; or
-  (f) for Tasmania—the Office of Energy Planning and Conservation; or
-  (g) for the Northern Territory—the Department of Industries and Business; or
-  (h) any other office or body declared by the regulations to be a regulatory authority.
+regulatory authority, for a State, means—
+  (a) an entity that carries out functions similar to the functions that the construction occupations registrar carries out under part 3 (Prescribed articles of electrical equipment) under a law of the State that corresponds, or substantially corresponds, to that part; or
+  (b) an entity prescribed by regulation.
 relevant distributor, for part 6 (Serious electrical accidents)—see section 32.
 relevant safety standard, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 relevant standard—
