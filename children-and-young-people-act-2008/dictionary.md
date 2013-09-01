@@ -141,7 +141,7 @@ employment conditions notice, for chapter 21 (Employment of children and young p
 employment prohibition notice, for chapter 21 (Employment of children and young people)—see section 788.
 enduring parental responsibility provision, in the care and protection chapters—see section 481.
 engage in conduct—see the Criminal Code, section 13.
-entitled child or young person, for part 2.3 (Official visitors)—see section 37.
+entitled person—see section 37.
 escort officer means—
   (a) a police officer; or
   (b) a corrections officer; or
@@ -232,7 +232,7 @@ occupier, for chapter 23 (Enforcement)—see section 812.
 offence—
   (a) includes an offence against a Commonwealth law; and
   (b) for chapter 23 (Enforcement)—see section 812.
-official visitor means a person appointed as an official visitor under section 38.
+official visitor means an official visitor for this Act appointed under the Official Visitor Act 2012, section 10.
 operating entity, for a detention place, therapeutic protection place or place of care, means—
   (a) if the Territory operates the place—the director-general; or
   (b) in any other case—the entity that operates the place.
@@ -371,6 +371,7 @@ transfer escort, for part 5.2 (Interstate transfers)—see section 114.
 transfer order—for part 5.2 (Interstate transfers)—see section 120.
 transition plan, for a young person or young adult—see section 529C.
 treating doctor, for the criminal matters chapters—see section 97.
+visitable place—see section 37.
 visiting conditions, for chapter 6 (Criminal matters—detention places)—see section 137.
 visitor, for chapter 6 (Criminal matters—detention places)—see section 137.
 voluntary care agreement—see section 394.
