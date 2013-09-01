@@ -21,6 +21,7 @@ community housing means rental housing for—
 company limited by guarantee—see the Corporations Act, section 9.
 company limited by shares—see the Corporations Act, section 9.
 eligible, for housing assistance—see section 8.
+entitled person—see section 25V.
 housing—
   (a) means residential housing and other forms of residential accommodation; and
   (b) includes the fences, outbuildings and other improvements and the connections for utilities and other services provided or reasonably required for the accommodation.
@@ -33,6 +34,8 @@ housing provider means—
 incorporated association means an association incorporated under the Associations Incorporation Act 1991 or the Cooperatives Act 2002.
 information includes a document.
 monitoring guidelines, for a housing provider—see section 25K.
+official visitor—see section 25V.
 protected information, for part 5 (Protection of information)—see section 28.
 reviewable decision, for part 6A (Notification and review of decisions—see section 31A.
 standards, for a community housing provider—see section 25I
+visitable place—see section 25V.

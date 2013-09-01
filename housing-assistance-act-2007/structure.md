@@ -6,6 +6,7 @@
 ### Division 4A.1 Affordable and community housing providers
 ### Division 4A.2 Affordable and community housing programs
 ### Division 4A.3 Housing commissioner’s functions
+## Part 4B Official visitors
 ## Part 5 Protection of information
 ## Part 6 Commonwealth-Territory funding agreements
 ## Part 6A Notification and review of decisions
