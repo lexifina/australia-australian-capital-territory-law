@@ -65,6 +65,7 @@ drug—see section 132.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
+entitled person—see section 57.
 escape, for part 12.2 (Interstate leave)—see section 206.
 escort officer, in relation to a person, means—
   (a) a police officer; or
@@ -98,7 +99,7 @@ local leave permit—see section 205.
 mail means postal mail.
 nonsmoking area, at a correctional centre—see section 86.
 offender—see the Crimes (Sentence Administration) Act 2005, dictionary.
-official visitor means a person who is appointed as an official visitor under section 57.
+official visitor means an official visitor for this Act appointed under the Official Visitor Act 2012, section 10.
 operating procedure means an operating procedure under section 14.
 ordinary search—see section 107.
 participating State, for part 12.2 (Interstate leave)—see section 206.
@@ -128,6 +129,7 @@ sentence—see the Crimes (Sentence Administration) Act 2005, dictionary.
 separate confinement, of a detainee—see section 151.
 strip search, of a detainee—see section 107.
 test sample—see section 132.
+visitable place—see section 57.
 visiting conditions, at a correctional centre, means conditions declared under section 143 (Visiting conditions) in relation to the centre.
 visitor, in relation to a correctional centre, includes a person wishing to enter the centre as a visitor.
 young detainee, for chapter 4 (Detention in police and court cells etc)—see the Children and Young People Act 2008, section 95.
