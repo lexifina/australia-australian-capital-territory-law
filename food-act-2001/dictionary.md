@@ -16,6 +16,7 @@ used or apparently used to promote, directly or indirectly, the sale of food.
 analysis includes any examination or testing of food or anything else.
 animal includes an amphibian, bird, crustacean, fish, mollusc or reptile.
 approved code of practice means a code of practice approved under section 149 (1).
+approved food safety training course, for part 9A (Food safety supervisors)—see section 116.
 authorised analyst means an analyst under the Public Health Act 1997, section 15 who is authorised under that Act to exercise a function under this Act.
 Note Analyst includes the government analyst (see Public Health Act 1997, dict).
 authorised officer means a public health officer who is authorised under the Public Health Act 1997, section 12A (2) (Functions of public health officers) to exercise a function under this Act.
@@ -38,12 +39,15 @@ examine includes inspect, weigh, count, test or measure.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 falsely described, for part 3 (Offences relating to food)—see section 15 (False descriptions of food).
 food—see section 8.
-food authority—see the Commonwealth Act, section 3 (1), definition of authority.
+food authority—see the Commonwealth Act, section 4 (1), definition of authority.
 Note Authority is defined to mean Food Standards Australia New Zealand.
 food business—see section 10.
 food business register—see section 105.
-food safety standard—see the Commonwealth Act, section 3 (1), definition of standard.
-food standards code means the Australia New Zealand Food Standards Code as defined in the Commonwealth Act, section 3 (1), as that code is applied, adopted or incorporated under the regulations.
+food safety standard—see the Commonwealth Act, section 4 (1), definition of standard.
+food safety supervisor, for a registered food business, for part 9A (Food safety supervisors)—see section 116.
+food safety training approval guidelines, for part 9A (Food safety supervisors)—see section 116.
+food safety training course, for part 9A (Food safety supervisors)—see section 116.
+food standards code means the Australia New Zealand Food Standards Code as defined in the Commonwealth Act, section 4 (1), as that code is applied, adopted or incorporated under the regulations.
 food transport vehicle means a vehicle used for the transport of food intended for sale.
 handling, of food, includes the making, manufacturing, producing, collecting, extracting, processing, storing, transporting, delivering, preparing, treating, preserving, packing, cooking, thawing, serving or displaying of food.
 identity card means an identity card issued under the Public Health Act 1997, section 16.
@@ -67,10 +71,12 @@ proprietor, of a food business, means—
 ready-to-eat food, for part 9 (Display of nutritional information for food)—see section 107.
 recall order, for part 4 (Emergency orders)—see section 37.
 registered, in relation to a food business, means registered under section 92.
+registered training organisation, for part 9A (Food safety supervisors)—see section 116.
 reviewable decision, for part 11 (Notification and review of decisions)—see section 141A.
 sell—see section 9 (1).
 standard food item, for part 9 (Display of nutritional information for food)—see section 108.
 standard food outlet, for part 9 (Display of nutritional information for food)—see section 109.
+statement of attainment, held by a person, for part 9A (Food safety supervisors)—see section 116.
 unsafe, in relation to food—see section 12.
 unsuitable, in relation to food—see section 13.
 vehicle means any means of transport, whether or not self-propelled, and whether used on land or water or in the air.
