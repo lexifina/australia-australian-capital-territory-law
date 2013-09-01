@@ -39,6 +39,7 @@ guardian, of a person under a legal disability, includes a trustee who holds pro
 home—see section 4.
 home owner—see section 5 (1).
 identity card—see the Taxation Administration Act 1999, dictionary.
+new home, for division 2.3 (Eligible transactions)—see section 12B (1).
 objector, for division 2.6 (Objections and appeals)—see section 24I.
 owner means—
   (a) of land—a person who has a relevant interest in the land; or
@@ -52,7 +53,7 @@ recovery notice, for part 4 (Repayment and recovery of grant)—see section 49A 
 relevant interest in land—see section 5 (2), (3) and (4).
 residence requirements means—
   (a) the requirement—
-    (i) under section 12 (1), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a continuous period of at least 6 months; or
+    (i) under section 12 (1), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a continuous period of at least 1 year; or
     (ii) under section 12 (1) and (2) (a), that an applicant for a first home owner grant must occupy the home to which the application relates as the applicant’s principal place of residence for a shorter period approved by the commissioner; and
   (b) the requirement under section 12 (3) that the period of occupation required under section 12 (1), or section 12 (1) and (2) (a), must start within 1 year after completion of the eligible transaction or a longer period approved by the commissioner.
 third-party debtor, for a grant recipient—see section 46A.
