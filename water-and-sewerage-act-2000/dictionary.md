@@ -19,14 +19,11 @@ Note 3 The Legislation Act, s 164 defines the following terms:
 · AS/NZS
 · Australian Standard
 · Australian/New Zealand Standard.
-ACT plumbing code means a document declared under section 46.
-AS/NZS 3500 means the AS/NZS 3500 (Plumbing and drainage set), as in force from time to time.
-Note Australian standards may be purchased at www.standards.org.au.
 backflow prevention device means a device to prevent the reverse flow from a potentially polluted source into a water supply system for water suitable for human consumption.
 certifier means a person who holds a licence as a plumbing plan certifier.
 connected, with an offence, for part 4 (Enforcement)—see section 18.
 credit card includes a debit card.
-fire sprinkler service means the part of water supply pipework from fire sprinklers to the place where a backflow prevention device must be installed to comply with AS/NZS 3500 to prevent backflow from the pipework directly serving the fire sprinklers.
+fire sprinkler service means the part of water supply pipework from fire sprinklers to the place where a backflow prevention device must be installed to comply with the plumbing code to prevent backflow from the pipework directly serving the fire sprinklers.
 fire sprinkler work means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part, of a fire sprinkler service.
 grey water—
   (a) means domestic waste from baths, basins, showers and laundries; and
@@ -49,7 +46,7 @@ occupier, of premises, for part 4 (Enforcement)—see section 18.
 offence, for part 4 (Enforcement)—see section 18.
 owner, for land, includes the occupier, lessee, tenant or holder of any land on which any sewerage or water service has been, or is to be, installed.
 plan approval means a plan approval issued under section 8 (Issue of plan approvals).
-plumbing code—see section 45A (1).
+plumbing code—see section 44C.
 premises includes land and place.
 reasonably believes, for part 4 (Enforcement)—see section 18.
 responsible utility means—

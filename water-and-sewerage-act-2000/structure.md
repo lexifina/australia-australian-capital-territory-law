@@ -9,4 +9,5 @@
 ### Division 4.3 Powers of inspectors on entry to premises
 ### Division 4.4 Miscellaneous
 ## Part 5 Notification and review of decisions
-## Part 5A Miscellaneous
+## Part 6 Plumbing code
+## Part 7 Miscellaneous
