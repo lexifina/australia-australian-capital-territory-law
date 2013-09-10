@@ -222,12 +222,3 @@
 ## Part 25.5 Admissibility of evidence
 ## Part 25.6 Protection of people who give information
 # Chapter 26 Miscellaneous
-# Chapter 27 Transitional
-## Part 27.1 General
-## Part 27.2 Care and protection matters
-## Part 27.3 Care and protection matters—interim transitionals
-## Part 27.4 Criminal matters—transfers
-## Part 27.5 Criminal matters—interim transitionals
-## Part 27.6 Childcare services
-## Part 27.7 Employment of children and young people
-## Part 27.8 Enforcement
