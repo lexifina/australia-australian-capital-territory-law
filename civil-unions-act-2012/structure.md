@@ -7,4 +7,3 @@
 ## Part 3 Civil union celebrants
 ## Part 4 Notification and review of decisions
 ## Part 5 Miscellaneous
-## Part 6 Transitional
