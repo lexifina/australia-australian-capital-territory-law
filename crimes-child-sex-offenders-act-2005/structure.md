@@ -37,4 +37,3 @@
 ## Part 5A.9 Obtaining and disclosing particular information
 ## Part 5A.10 Appeals to Supreme Court
 # Chapter 6 Miscellaneous
-# Chapter 10 Transitional—Crimes (Child Sex Offenders) Amendment Act 2012
