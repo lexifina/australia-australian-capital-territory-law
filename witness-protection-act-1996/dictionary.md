@@ -2,14 +2,14 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· chief police officer
-· civil partnership
-· civil union
-· Commonwealth
-· Minister (see s 162)
-· ombudsman
-· proceeding
-· registrar-general.
+• chief police officer
+• civil partnership
+• civil union
+• Commonwealth
+• Minister (see s 162)
+• ombudsman
+• proceeding
+• registrar-general.
 approved authority means—
   (a) the commissioner of police; or
   (b) a commissioner (however designated) of the police force or service of a State or another Territory; or
