@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Executive
 · lawyer
 · Magistrates Court
-· person
+· person (see s 160)
 · Supreme Court.
 agreement, for part 4 (Domestic relationship agreements and termination agreements)—see section 31.
 child, of the parties to a domestic relationship, means each of the following children:
