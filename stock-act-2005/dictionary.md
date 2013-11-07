@@ -34,6 +34,7 @@ impound, for part 5 (Impounding stock)—see section 32.
 large stock means an equine, bovine, alpaca, or any other animal declared by regulation to be large stock.
 maintenance fee, for impounded stock, means the fee determined under section 68 for maintaining the stock.
 mark means an earmark or permanent brand.
+minimum stock levy—see section 7A.
 occupier, of premises, for part 6 (Enforcement)—see section 45.
 offence, for part 6 (Enforcement)—see section 45.
 owner, of stock, includes a person who is in control of the stock for the owner.
