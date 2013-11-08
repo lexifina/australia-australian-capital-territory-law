@@ -23,7 +23,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · take (an oath).
 ACT court—see the Evidence Act 2011, dictionary, part 1.
 Note ACT court means the Supreme Court or Magistrates Court, and includes an entity that, in exercising a function under a territory law, is required to apply the laws of evidence.
-audio link, for part 3 (Use of audiovisual links and audio links)—see section 16.
+audio link, for part 3 (Use of audiovisual links and audio links)––see section 16.
 audiovisual link means a system of 2-way communication linking different places so that a person at any of them can be seen and heard at the other places.
 audiovisual recording, for division 4.2A (Sexual and violent offence proceedings—audiovisual recording of police interview admissible as evidence)—see section 40E.
 civil proceeding, for division 4.5 (Protection of counselling communications)––see section 54.
