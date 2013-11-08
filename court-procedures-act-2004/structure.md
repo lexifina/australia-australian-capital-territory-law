@@ -15,6 +15,7 @@
 ## Part 7A Procedural provisions—proceedings involving children or young people
 ### Division 7A.1 General
 ### Division 7A.2 Care and protection considerations in proceedings
+## Part 7B Procedural provisions—industrial or work safety matters
 ## Part 8 Supreme Court—criminal proceedings
 ### Division 8.1 Supreme Court criminal proceedings—preliminary
 ### Division 8.2 Trial on indictment
