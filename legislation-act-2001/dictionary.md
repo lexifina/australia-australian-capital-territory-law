@@ -226,6 +226,7 @@ independent competition and regulatory commission means the Independent Competit
 indictable offence—see section 190.
 indictment includes information.
 individual means a natural person.
+Industrial Court means the Industrial Court under the Magistrates Court Act 1930, section 291P.
 infringement notice includes an infringement notice under the Magistrates Court Act 1930 or the Road Transport (General) Act 1999.
 in relation to includes the following:
   (a) in respect of;
