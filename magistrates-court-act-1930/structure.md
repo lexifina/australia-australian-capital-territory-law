@@ -63,6 +63,10 @@
 ## Part 4B.1 Preliminary
 ## Part 4B.2 The Family Violence Court
 # Chapter 4C Galambany Court
+# Chapter 4D The Industrial Court
+## Part 4D.1 Preliminary
+## Part 4D.2 The Industrial Court
+## Part 4D.3 Industrial Court Magistrate
 # Chapter 5 Miscellaneous
 ## Part 5.1 Offences
 ## Part 5.2 Other

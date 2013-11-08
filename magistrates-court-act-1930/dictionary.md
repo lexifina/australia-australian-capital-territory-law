@@ -76,6 +76,8 @@ hearing includes the examination of a person charged with an indictable offence.
 illegal user declaration, for part 3.8 (Infringement notices for certain offences)—see section 131D.
 indictable offence means an offence that may be prosecuted before the Supreme Court by charge or indictment.
 indictment means an information for an indictable offence presented by an authorised officer to a court with jurisdiction to try the accused person.
+industrial or work safety matter, for chapter 4D (The Industrial Court)—see section 291Q (1).
+industrial or work safety offence, for chapter 4D (The Industrial Court)—see section 291O.
 information includes a complaint brought to enforce a criminal penalty or forfeiture under a territory law.
 infringement notice—
   (a) for part 3.8 (Infringement notices for certain offences)—see section 117; and
