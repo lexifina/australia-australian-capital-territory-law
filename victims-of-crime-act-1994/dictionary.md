@@ -11,7 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · home address
 · human rights commission
 · Magistrates Court
-· Minister
+· Minister (see s 162)
 · ombudsman
 · parent
 · penalty unit (see s 133)
