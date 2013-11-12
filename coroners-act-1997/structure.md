@@ -20,5 +20,5 @@
 ## Part 6 Deaths in custody—additional provisions
 ## Part 7 Offences
 ## Part 8 Powers of Supreme Court
-## Part 9 Witnesses expenses and other amounts
+## Part 9 Witness expenses and other amounts
 ## Part 10 Miscellaneous

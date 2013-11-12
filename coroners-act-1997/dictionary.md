@@ -8,9 +8,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Attorney-General
 · Chief Magistrate
 · child
+· clerk
 · correctional centre
 · corrections officer
 · daily newspaper
+· Deputy Speaker
 · director-general (see s 163)
 · director of public prosecutions
 · doctor
@@ -39,6 +41,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public servant
 · registrar-general
 · regulation
+· sitting day
+· Speaker
 · Supreme Court
 · the Territory
 · under.
