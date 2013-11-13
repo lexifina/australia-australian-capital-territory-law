@@ -89,6 +89,7 @@ full-time student means an individual who—
   (a) is at least 16 years old but younger than 25; and
   (b) is receiving full-time education at a secondary or tertiary educational institution.
 given to the insurer, for pt 6.2 (Time for accepting or rejecting claims)—see section 127 (2).
+gross written premiums, in relation to an approved insurer, means the total amount of premiums, less GST, for all insurance policies written by the insurer for a policy period.
 initial incapacity date, for a worker in relation to an injury that causes incapacity or death, for part 4.3 (Weekly compensation)—see section 36G.
 initial loss, for part 4.4 (Compensation for permanent injuries)—see section 61 (1).
 injured worker—see section 85A.
@@ -137,6 +138,7 @@ member of the family, in relation to a worker or an employer, means the grandchi
 Note For the meaning of domestic partner, see the Legislation Act, s 169. If a worker has died, the definition of domestic partner elsewhere in the dictionary provides that the term refers to the person who was the worker’s domestic partner when the worker died.
 nominated treating doctor, for chapter 5 (Injury management process)—see section 86.
 non-business employer means an employer who employs the worker other than for work that is for (or incidental to) the employer’s trade or business.
+notional gross written premium, in relation to a self-insurer, means the total amount of premium that would have been payable, less GST, if the self-insurer had obtained a compulsory insurance policy for a policy period.
 occupier, for chapter 10 (Inspection)—see section 187.
 offence, for chapter 10 (Inspection)—see section 187.
 official manager—see the Corporations Act, section 9.
@@ -183,6 +185,7 @@ worker—
   (a) for this Act generally—see chapter 3; and
   (b) for part 4.2A (Employment connection with ACT or State)—see section 36A (2); and
   (c) for part 9.2 (Choice of law)—see section 182A (1).
+workers compensation and safety legislation means this Act and the Work Health and Safety Act 2011.
 workers compensation law means a law of a place that sets up a statutory scheme for the compensation of injuries arising out of or in the course of employment.
 workplace injury—see section 86.
 work-related injury, for part 9.2 (Choice of law)—see section 182A (2) and (3).
