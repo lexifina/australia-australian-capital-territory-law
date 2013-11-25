@@ -134,7 +134,9 @@ party, for division 3.10.1 (Client legal privilege)—see section 117.
 police officer includes a member of the police force of a State or another Territory.
 Note Police officer is also defined in the Legislation Act, dictionary, pt 1.
 postal article—see the Australian Postal Corporation Act 1989 (Cwlth), section 3.
-previous representation means a representation made otherwise than in the course of giving evidence in the proceeding in which evidence of the representation is sought to be presented.
+previous representation—
+  (a) for this Act generally—means a representation made otherwise than in the course of giving evidence in the proceeding in which evidence of the representation is sought to be presented; and
+  (b) for division 3.2.2 (First-hand hearsay) (other than section 62 (2))—see section 62.
 prior consistent statement of a witness means a previous representation that is consistent with evidence given by the witness.
 prior inconsistent statement of a witness means a previous representation that is inconsistent with evidence given by the witness.
 probative value of evidence means the extent to which the evidence could rationally affect the assessment of the probability of the existence of a fact in issue.
@@ -156,6 +158,7 @@ representation includes—
   (b) a representation to be inferred from conduct; or
   (c) a representation not intended by its maker to be communicated to or seen by someone else; or
   (d) a representation that for any reason is not communicated.
+request, for division 4.6.1 (Requests to produce documents or call witnesses)—see section 166.
 seal includes a stamp.
 tendency evidence means evidence of a kind mentioned in section 97 (1) that a party seeks to present for the purpose mentioned in that subsection.
 tendency rule means the rule mentioned in section 97 (1).
