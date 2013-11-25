@@ -37,7 +37,7 @@ average pre-incapacity weekly hours means hours worked out under—
   (a) for a worker who is not a contractor—section 23; or
   (b) for a worker who is a contractor—section 24.
 AWE means—
-  (a) the average weekly earnings seasonally adjusted for the ACT (all employees average weekly total earnings) in Average Weekly Earnings, Australia (State and Territory Earnings) issued by the Australian statistician; or
+  (a) the average weekly earnings seasonally adjusted for the ACT (all males total earnings) in Average Weekly Earnings, Australia (State and Territory Earnings) issued by the Australian statistician; or
 Note Average Weekly Earnings, Australia is issued in May and November and is available at www.abs.gov.au.
   (b) if the Australian statistician issues a publication (however described) containing average weekly earnings in substitution for, or instead of, the average weekly earnings mentioned in paragraph (a)—the substituted average weekly earnings.
 awe indexed, for an amount, for chapter 4 (Entitlement to compensation)—see section 20.
