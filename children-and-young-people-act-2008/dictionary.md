@@ -17,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · domestic partner (see s 169 (1))
 · entity
 · Executive
+· found guilty
 · function
 · health practitioner
 · home address
@@ -50,13 +51,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory
 · transgender person (see s 169A (1) and (2))
 · working day.
-Aboriginal means a person who—
-  (a) is a descendant of the indigenous inhabitants of Australia; and
-  (b) either—
-    (i) for any person—regards himself or herself as an Aboriginal; or
-    (ii) if the person is a child—is regarded as an Aboriginal by a parent or family member; and
-  (c) is accepted as an Aboriginal by an Aboriginal community.
 Aboriginal and Torres Strait Islander organisation means an organisation whose purpose is to represent the interests of Aboriginal and Torres Strait Islander people.
+Aboriginal or Torres Strait Islander person means a person who––
+  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 abuse, of a child or young person—see section 342.
 ACAT mental health provision—see section 491.
 accredited person—
@@ -103,6 +102,7 @@ childcare worker, for chapter 20 (Childcare services)—see section 728 (1).
 child concern report—see section 353.
 children and young people employment standards—see section 887 (2) (f).
 children and young people deaths register—see section 727N.
+Children and Youth Services Council means the Children and Youth Services Council established under section 27.
 child welfare law—see section 640 (1).
 child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 638.
 child welfare proceeding, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 639.
@@ -359,12 +359,6 @@ therapeutic protection place—see section 535.
 therapeutic protection plan—see section 536.
 therapeutic protection standards—see section 887 (2) (d).
 therapeutic protection transition plan, for a child or young person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 538.
-Torres Strait Islander means a person who—
-  (a) is a descendant of the indigenous inhabitants of the Torres Strait Islands; and
-  (b) either—
-    (i) for any person—regards himself or herself as a Torres Strait Islander; or
-    (ii) if the person is a child—is regarded as a Torres Strait Islander by a parent or family member; and
-  (c) is accepted as a Torres Strait Islander by a Torres Strait Islander community.
 transfer agreement, for part 5.2 (Interstate transfers)—see section 115.
 transfer arrangement, means a transfer arrangement under section 116 (Transfer arrangements—general) or, if the transfer arrangement has been amended by another transfer arrangement under that section, the transfer arrangement as amended.
 transfer escort, for part 5.2 (Interstate transfers)—see section 114.
