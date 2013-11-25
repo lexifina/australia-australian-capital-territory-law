@@ -405,7 +405,7 @@ solicitor means a lawyer who practises as a solicitor.
 solicitor-general means the Solicitor-General for the Territory under the Law Officers Act 2011.
 Speaker means the Presiding Officer of the Legislative Assembly.
 Note The Presiding Officer is elected under the Self-Government Act, s 11.
-Standards Australia means the company named Standards Australia International Limited (ACN 087 326 690).
+Standards Australia means the company named Standards Australia Limited (ACN 087 326 690).
 State means a State of the Commonwealth, and includes the Northern Territory.
 statutory declaration means a statutory declaration made under the Statutory Declarations Act 1959 (Cwlth).
 statutory instrument—see section 13.
