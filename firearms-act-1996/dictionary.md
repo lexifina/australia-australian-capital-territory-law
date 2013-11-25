@@ -7,10 +7,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bank
 · chief police officer
 · corrections officer
-· CrimTrac
 · daily newspaper
 · director-general (see s 163)
 · foreign country
+· found guilty
 · home address
 · indictable offence (see s 190)
 · Minister (see s 162)
@@ -116,7 +116,6 @@ government agency means—
   (b) a Territory authority; or
   (c) a department or authority of a State or another Territory.
 head, in relation to a government agency, means the director-general who has control of the relevant administrative unit or other person who has administrative control of the agency.
-inoperable firearm means a firearm that has been rendered inoperable in accordance with this Act.
 interim protection order—
   (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of interim order; and
   (b) includes an interim protection order made under the Domestic Violence Agencies Act 1986 and an interim restraining order made under the Magistrates Court Act 1930.
@@ -167,7 +166,7 @@ registered user, of a firearm, means an individual recorded in the register as a
 registrar means the Registrar of Firearms appointed under section 33.
 responsible person, for a child or young person, means a person with parental responsibility for the child or young person.
 reviewable decision, for part 16 (Notification and review of decisions)—see section 258.
-security organisation—see section 108 (2).
+security organisation—see section 108 (4).
 sell includes—
   (a) sell by wholesale, retail, auction or tender; and
   (b) dispose of by barter or exchange; and
