@@ -2,18 +2,23 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· bankrupt or personally insolvent
-· contravention
-· Corporations Act
-· entity
-· indictable offence
-· individual
-· person
-· reviewable decision notice
-· State
-· the Territory.
+• ACAT
+• ACT
+• bankrupt or personally insolvent
+• contravention
+• Corporations Act
+• entity
+• indictable offence
+• individual
+• person
+• reviewable decision notice
+• State
+• the Territory.
+Note 3 The Control Act contains definitions relevant to this Act. For example, the following terms are defined in the Control Act, dictionary:
+• authorised officer
+• code of practice
+• commission
+• gaming officer.
 agency agreement means an agreement between a licensed provider and another person—
   (a) appointing the other person as an agent of the licensed provider; and
   (b) dealing with the agent’s authority; and
