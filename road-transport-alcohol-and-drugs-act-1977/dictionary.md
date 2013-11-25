@@ -92,6 +92,9 @@ registered operator—see the Road Transport (Vehicle Registration) Act 1999, di
 repeat offender—see section 4F.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+road related area—
+  (a) means an area that is a road related area under the Road Transport (General) Act 1999; and
+  (b) includes an area prescribed by regulation as a road related area for this Act.
 sampling facility means a facility prescribed by regulation to which a person may be taken for the purpose of having—
   (a) a blood sample taken by a doctor or nurse for analysis under part 2 (Examination of people for alcohol or drugs); or
   (b) a medical examination under part 2.
