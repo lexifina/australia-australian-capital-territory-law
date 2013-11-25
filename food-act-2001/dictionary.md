@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · chief health officer
 · exercise
+· found guilty
 · function
 · home address
 · reviewable decision notice.
@@ -32,7 +33,7 @@ emergency order—see section 38.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
-equipment means all or any part of—
+equipment means all or part of—
   (a) any utensil, machinery, instrument, device, apparatus or appliance that is used, or that is designed or intended for use, in relation to the handling of food; or
   (b) any substance, utensil, machinery, instrument, device, apparatus or appliance that is used, or that is designed or intended for use, in cleaning anything mentioned in paragraph (a).
 examine includes inspect, weigh, count, test or measure.
@@ -47,7 +48,7 @@ food safety standard—see the Commonwealth Act, section 4 (1), definition of st
 food safety supervisor, for a registered food business, for part 9A (Food safety supervisors)—see section 116.
 food safety training approval guidelines, for part 9A (Food safety supervisors)—see section 116.
 food safety training course, for part 9A (Food safety supervisors)—see section 116.
-food standards code means the Australia New Zealand Food Standards Code as defined in the Commonwealth Act, section 4 (1), as that code is applied, adopted or incorporated under the regulations.
+food standards code—see section 13A.
 food transport vehicle means a vehicle used for the transport of food intended for sale.
 handling, of food, includes the making, manufacturing, producing, collecting, extracting, processing, storing, transporting, delivering, preparing, treating, preserving, packing, cooking, thawing, serving or displaying of food.
 identity card means an identity card issued under the Public Health Act 1997, section 16.
@@ -59,10 +60,10 @@ offence, for part 5 (Inspection and seizure powers)—see section 45.
 package includes any container or wrapper in or by which food intended for sale is completely or partly encased, covered, enclosed, contained or packed and, for food carried or sold or intended to be carried or sold in more than 1 package, includes every such package.
 place of seizure, for part 5 (Inspection and seizure powers)—see section 52 (6) (a) (Power to seize things).
 premises includes—
-    (i) land (whether or not vacant); or
-    (ii) all or any part of a building, tent, stall or other structure (whether of a permanent or temporary nature); or
-    (iii) a pontoon; or
-    (iv) a food transport vehicle or any other vehicle.
+  (a) land (whether or not vacant); or
+  (b) any part of a building, tent, stall or other structure (whether of a permanent or temporary nature); or
+  (c) a pontoon; or
+  (d) a food transport vehicle or any other vehicle.
 primary food production—see section 11.
 prohibition order means a prohibition order served under section 82.
 proprietor, of a food business, means—
