@@ -4,11 +4,13 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · ACT
+· Australian statistician
 · contravene
 · director-general (see s 163)
 · doctor
 · fail
 · financial year
+· found guilty
 · in relation to
 · law, of the Territory
 · Magistrates Court
@@ -35,9 +37,10 @@ average pre-incapacity weekly hours means hours worked out under—
   (a) for a worker who is not a contractor—section 23; or
   (b) for a worker who is a contractor—section 24.
 AWE means—
-  (a) the average weekly earnings, States and Territories, seasonally adjusted for the ACT (all males total earnings) contained in Average Weekly Earnings, Australia issued by the Australian Statistician; or
-  (b) if the Australian Statistician issues a publication (however described) containing average weekly earnings in substitution for, or instead of, the average weekly earnings mentioned in paragraph (a)—the substituted average weekly earnings.
-awe indexed—see section 20.
+  (a) the average weekly earnings seasonally adjusted for the ACT (all employees average weekly total earnings) in Average Weekly Earnings, Australia (State and Territory Earnings) issued by the Australian statistician; or
+Note Average Weekly Earnings, Australia is issued in May and November and is available at www.abs.gov.au.
+  (b) if the Australian statistician issues a publication (however described) containing average weekly earnings in substitution for, or instead of, the average weekly earnings mentioned in paragraph (a)—the substituted average weekly earnings.
+awe indexed, for an amount, for chapter 4 (Entitlement to compensation)—see section 20.
 boilermakers deafness includes deafness of a similar origin.
 chair, for schedule 3 (DI fund advisory committee)—see schedule 3, section 3.1.
 child, of a worker, means a child of the worker who is—
@@ -58,8 +61,7 @@ compensation for costs, for a worker, means compensation to which the worker is 
 compulsory insurance policy—see section 144.
 connected, for chapter 10 (Inspection)—see section 187.
 continental shelf, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
-CPI, for chapter 4 (Entitlement to compensation)—see section 20.
-cpi indexed—see section 20.
+cpi indexed, for an amount, for chapter 4 (Entitlement to compensation)—see section 20.
 damages, for chapter 9 (Common law damages)—see section 180.
 damages claim, for part 9.2 (Choice of law)—see section 182C.
 decision-maker, for chapter 12 (Notification and review of decisions)—see section 199A (1).
@@ -187,5 +189,5 @@ worker—
   (c) for part 9.2 (Choice of law)—see section 182A (1).
 workers compensation and safety legislation means this Act and the Work Health and Safety Act 2011.
 workers compensation law means a law of a place that sets up a statutory scheme for the compensation of injuries arising out of or in the course of employment.
-workplace injury—see section 86.
+workplace injury, for chapter 5 (Injury management process)—see section 86.
 work-related injury, for part 9.2 (Choice of law)—see section 182A (2) and (3).
