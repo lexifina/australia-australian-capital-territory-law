@@ -322,7 +322,7 @@ A scheme in force under this schedule applies to proceedings relating to acts or
   (b) the scheme’s operation in relation to this jurisdiction is ended under section 4.14B (Ending of operation of interstate schemes); or
   (c) the scheme ceases to have effect in the jurisdiction in which it was prepared; or
   (d) the scheme is disallowed under the Legislation Act, section 65 (Disallowance by resolution of Assembly).
-(4) The Minister may, in writing, extend the period for which the scheme is in force.
+(4) The Minister may extend the period for which the scheme is in force.
 (5) An instrument under subsection (4) is a notifiable instrument.
 Note A notifiable instrument must be notified under the Legislation Act.
 (6) An instrument under subsection (4) is effective to extend the period for which a scheme is in force only if it is notified under the Legislation Act before the day the period ends.
