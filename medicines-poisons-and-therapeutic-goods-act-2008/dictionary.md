@@ -4,10 +4,12 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · bankrupt or personally insolvent
+· chief health officer
 · contravene
 · corporation
 · dentist
 · doctor
+· found guilty
 · function
 · health practitioner
 · home address
@@ -30,7 +32,6 @@ authorised—
 business includes—
   (a) a business not carried on for profit; and
   (b) a trade or profession.
-chief pharmacist, for an institution with a pharmacy, means the pharmacist having the supervision of all other pharmacists employed at the institution.
 close associate, of someone, for chapter 6 (Licences for regulated substances and regulated therapeutic goods)—see section 79.
 Commonwealth administrative laws, for chapter 10 (Incorporation of Commonwealth therapeutic goods laws)—see section 156.
 Commonwealth Minister, for chapter 10 (Incorporation of Commonwealth therapeutic goods laws)—see section 156.
@@ -48,16 +49,11 @@ day hospital means a facility where a person is admitted for surgical or medical
 deals—
   (a) with a regulated substance—see section 19; and
   (b) with a regulated therapeutic good—see section 21.
-declared substance, for part 4.1 (Supply of certain regulated substances—offences)—see section 25.
+declared substance, for part 4.1 (Dealings with regulated substances—offences)—see section 25.
 disciplinary action, for part 8.1 (Authorisations—disciplinary action)—see section 141.
 disciplinary notice, for part 8.1 (Authorisations—disciplinary action)—see section 142 (1).
 dispense means supply on prescription.
 dosage unit means an individual dose of a medicine or poison for therapeutic use and includes a tablet, capsule, cachet, single-dose powders or single-dose sachet or powders or granules.
-drug-dependent person, in relation to a controlled medicine or prohibited substance, means a person with a condition—
-  (a) who, as a result of the administration of the medicine or substance, demonstrates, in relation to the person’s use of the medicine or substance—
-    (i) impaired control; or
-    (ii) drug-seeking behaviour that suggests impaired control; and
-  (b) who, as a result of the cessation of the administration of the medicine or substance, is likely to experience symptoms of mental or physical distress or disorder.
 drug offence, for part 8.2 (Controlled medicines and prohibited substances—disqualification by courts)—see section 147.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 ground for disciplinary action, against an authorisation holder, for part 8.1 (Authorisations—disciplinary action)—see section 140 (1).
@@ -82,7 +78,7 @@ manufacture, for a regulated substance, means do 1 or more of the following in r
   (e) mix, compound or formulate the substance with another regulated substance or any other substance;
   (f) pack or repack the substance for sale by wholesale or for use in connection with a business, industry, profession or trade.
 medicine—see section 11.
-medicines advisory committee means the Medicines Advisory Committee established by section 194.
+medicines advisory committee means the Medicines Advisory Committee established under section 194.
 medicines and poisons inspector—see section 99.
 medicines and poisons standard—see section 15.
 moderate harm poison—see section 12.
@@ -97,7 +93,7 @@ pharmacy medicine—see section 11.
 poison—see section 12.
 possess, for a regulated substance—see section 24.
 premises includes land or a structure or vehicle and any part of an area of land or a structure or vehicle.
-prescribe means issue a prescription.
+prescribe a medicine means issue a prescription for the medicine.
 prescription, in relation to a medicine, means an oral or written direction (other than a purchase order, requisition or standing order) to a person—
   (a) who is authorised to administer the medicine to administer the medicine; or
   (b) who is authorised to dispense the medicine to dispense the medicine.
@@ -127,7 +123,7 @@ suitable person—
   (b) for a corporation—see section 82.
 supply—see section 24.
 supply authority—see section 23.
-vending machine, for division 4.3.5 (Other offences—vending machines)—see section 67.
+vending machine, for division 4.3.5 (Vending machines—offences)—see section 67.
 ward means an area of an institution used to accommodate or treat people, including an operating theatre and an opioid dependency treatment centre.
 wholesale means supply—
   (a) for retail sale; or
