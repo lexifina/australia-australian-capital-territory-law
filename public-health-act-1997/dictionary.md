@@ -38,6 +38,7 @@ authorised officer, in relation to the exercise of a function under this Act, me
 automatic, suspension of registration—see section 56Q (1).
 chief health officer means the chief health officer under section 7.
 code of practice means a code of practice determined under section 133.
+community pharmacy, for part 3B (Pharmacies)—see section 66U.
 connected with an offence, for part 5 (Inspection and analysis)—see section 75 (Definitions for pt 5).
 contact means a person who—
   (a) has been or may have been a source of infection to a person who has a notifiable condition; or

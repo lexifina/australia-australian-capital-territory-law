@@ -10,6 +10,7 @@
 ## Part 3A Supply of syringes
 ### Division 3A.1 Supplying syringes to approved people
 ### Division 3A.2 Supplying syringes by vending machine
+## Part 3B Pharmacies
 ## Part 4 Insanitary conditions
 ## Part 5 Inspection and analysis
 ### Division 5.1 Preliminary
