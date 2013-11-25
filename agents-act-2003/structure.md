@@ -33,7 +33,7 @@
 ## Part 9 Appointment of administrators
 ## Part 10 Consumer compensation fund
 ### Division 10.1 Establishment of compensation fund
-### Division 10.2 Claims against the compensation fund
+### Division 10.2 Claims against compensation fund
 ## Part 11 Administration
 ## Part 12 Notification and review of decisions
 ## Part 13 Miscellaneous

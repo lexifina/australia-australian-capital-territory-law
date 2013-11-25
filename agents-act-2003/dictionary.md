@@ -54,7 +54,7 @@ carries on business as—
   (d) a stock and station agent—see section 9; or
   (e) a travel agent—see section 11.
 child, of a person, means the son, daughter, grandson, granddaughter, stepson or stepdaughter of the person, or someone in relation to whom the person is acting in place of a parent.
-claimant, for division 10.2 (Claims against the compensation fund)—see section 147.
+claimant, for division 10.2 (Claims against compensation fund)—see section 147.
 compensation fund means the consumer compensation fund kept under section 144.
 compensation scheme, for division 5.7 (Travel agents—further provisions)—see section 90.
 compensation scheme participant, for a travel agent—see section 91 (Participation in compensation scheme).
