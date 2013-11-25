@@ -15,6 +15,5 @@
 ## Part 7 VMO service contracts
 ## Part 8 Secrecy
 ## Part 8A Offence—provision of health services by non-health practitioners
-## Part 9 Pharmacists and pharmacy premises
 ## Part 10 Review of decisions
 ## Part 15 Miscellaneous

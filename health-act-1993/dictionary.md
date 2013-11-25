@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · director-general (see s 163)
 · entity
 · exercise
+· found guilty
 · function
 · health practitioner
 · in relation to
@@ -18,8 +19,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · make
 · pharmacist
 · proceeding
-· sitting day
-· territory authority
 · territory law
 · the Territory
 · tribunal.
@@ -30,7 +29,6 @@ CEO—
   (b) of a health professional organisation, for part 4 (Quality assurance)—see section 23; and
   (c) of a health facility, for part 5 (Reviewing scope of clinical practice)—see section 53.
 chief executive officer, Calvary means the person engaged to exercise the functions of the position of chief executive officer (however described) of Calvary Health Care ACT Limited (Public Division) under the rules of Calvary Health Care ACT Limited.
-community pharmacy, for part 9 (Pharmacists and pharmacy premises)—see section 128.
 core conditions, for part 7 (VMO service contracts)—see section 100.
 council means the Local Hospital Network Council established under section 13.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
@@ -46,6 +44,7 @@ dental technician means a person who does dental technical work and either—
 dentist, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
 divulge, for part 8 (Secrecy)—see section 121.
 doctor, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
+eligible midwife, for part 5 (Reviewing scope of clinical practice)—see section 52.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
@@ -70,7 +69,7 @@ practice corporation, for part 7 (VMO service contracts)—see section 100.
 protected information, for part 8 (Secrecy)—see section 123.
 quality assurance committee—see section 24.
 review, in relation to the scope of clinical practice, for part 5 (Reviewing scope of clinical practice)—see section 55.
-scope of clinical practice, of a doctor or dentist, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 54.
+scope of clinical practice, of a doctor, dentist or eligible midwife, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 54.
 scope of clinical practice committee—see section 51.
 scope of clinical practice executive decision notice, for part 5 (Reviewing scope of clinical practice)—see section 70.
 scope of clinical practice report, for part 5 (Reviewing scope of clinical practice)—see section 67.
