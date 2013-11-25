@@ -32,6 +32,7 @@ additional condition means—
   (a) of an offender’s periodic detention—see section 40; or
   (b) of an offender’s good behaviour order—see section 84; or
   (c) of an offender’s parole order—see section 117.
+administrative fee, for chapter 6A (Court imposed fines)––see section 116A.
 application, for parole—see section 117.
 arrest warrant, for a person, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 at, in relation to a correctional centre, includes in the correctional centre.
@@ -61,18 +62,28 @@ corresponding community-based sentence law, for chapter 12 (Transfer of communit
 corresponding Minister, of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 corresponding parole law, for part 7.6 (Interstate transfer of parole orders)—see section 162.
 CYP director-general means the director-general responsible for the Children and Young People Act 2008.
+default, for chapter 6A (Court imposed fines)––see section 116A.
 default imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+default notice, for chapter 6A (Court imposed fines)––see section 116A.
 deputy chair means a deputy chair of the board.
 designated authority, for a State or another Territory, for part 7.6 (Interstate transfer of parole orders)—see section 162.
 detention period, for an offender’s periodic detention—see section 41.
 drug—see the Corrections Management Act 2007, section 132.
+earnings redirection order, for chapter 6A (Court imposed fines)––see section 116Y (2).
+enforcement officer, for chapter 6A (Court imposed fines)––see section 116A.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
 escort officer—see the Corrections Management Act 2007, dictionary.
+examination hearing, for chapter 6A (Court imposed fines)––see section 116A.
+examination notice, for chapter 6A (Court imposed fines)––see section 116P.
+examination warrant, for chapter 6A (Court imposed fines)––see section 116R.
+fine, for chapter 6A (Court imposed fines)––see section 116A.
+fine defaulter, for chapter 6A (Court imposed fines)––see section 116A.
+fine enforcement order, for chapter 6A (Court imposed fines)––see section 116A.
 finishing time, for an offender’s detention period—see section 52.
 frisk search—see the Corrections Management Act 2007, dictionary.
-full-time detainee—see section 22 (1).
+full-time detainee, for chapter 4 (Full-time detention)––see section 22 (1).
 good behaviour obligations, for chapter 6 (Good behaviour orders)—see section 84.
 good behaviour order—see the Crimes (Sentencing) Act 2005, section 13.
 Governor, of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
@@ -109,6 +120,7 @@ offender—
 order of transfer, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 ordinary parole application—see section 121.
 originating jurisdiction, for a community based sentence, for chapter 12 (Transfer of community-based sentences)—see section 263.
+outstanding fine, in relation to a person, for chapter 6A (Court imposed fines)––see section 116A.
 parole eligibility date, for an offender, means the day the offender’s nonparole period ends.
 parole obligations, of an offender—see section 117.
 parole order means—
@@ -117,6 +129,7 @@ parole order means—
 parole release date—see section 117.
 participating jurisdiction, for chapter 11 (Transfer of community-based sentences)—see section 265.
 participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
+penalty notice, for chapter 6A (Court imposed fines)––see section 116A.
 periodic detention, for an offender—see section 40.
 periodic detention obligations, of an offender—see section 40.
 periodic detention period, of an offender’s sentence of imprisonment—see section 40.
@@ -128,11 +141,13 @@ positive, for a test sample—see the Corrections Management Act 2007, dictionar
 prison, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 prisoner, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 prison officer, for part 11.1 (Interstate transfer of prisoners)—see section 217.
+property seizure order, for chapter 6A (Court imposed fines)––see section 116ZA.
 recommitted, for an offender—see section 23.
 register, for part 7.6 (Interstate transfer of parole orders)—see section 162.
 registered victim, of an offender, means—
   (a) for chapter 7 (Parole)—see section 118A; or
   (b) for this Act—see section 213.
+registrar, for chapter 6A (Court imposed fines)––see section 116A.
 registration criteria, for chapter 12 (Transfer of community-based sentences)—see section 276.
 rehabilitation program condition, of a good behaviour order for an offender—see the Crimes (Sentencing) Act 2005, section 93.
 release date, for an offender for a sentence—see section 23 (1).
@@ -143,6 +158,7 @@ remandee means—
   (a) a person remanded in custody by a remanding authority; but
   (b) for chapter 4 (Full-time detention)—see section 22.
 remanding authority—see section 15.
+reminder notice, for chapter 6A (Court imposed fines)––see section 116A.
 remission instrument, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 reporting day, for an offender’s detention period—see section 51.
 reporting place, for an offender’s detention period—see section 50.
@@ -164,12 +180,15 @@ subject to a sentence of imprisonment, for part 11.1 (Interstate transfer of pri
 supervisory functions, of the board—see section 180.
 surety, for a good behaviour order—see the Crimes (Sentencing) Act 2005, dictionary.
 term, of a sentence, includes the term as amended under a law of the ACT (including this Act), the Commonwealth, a State or another Territory.
+territory entity, for chapter 6A (Court imposed fines)––see the Auditor-General Act 1996, dictionary.
 test sample—see the Corrections Management Act 2007, dictionary.
 this jurisdiction, for chapter 12 (Transfer of community-based sentences)—see section 265.
 translated sentence, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 victim, of an offender, means—
   (a) for chapter 7 (Parole)—see section 118A; or
   (b) for this Act—see section 214.
+voluntary community work order, for chapter 6A (Court imposed fines)––see section 116ZE.
+young fine defaulter, for chapter 6A (Court imposed fines)––see section 116A.
 young offender means a person who—
   (a) has been convicted or found guilty of an offence by a court; and
   (b) was under 18 years old when the offence was committed.
