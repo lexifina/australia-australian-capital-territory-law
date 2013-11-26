@@ -147,7 +147,7 @@ premises means the whole or any part of any land, building or other structure, v
 principal, of a composite entity—see section 100.
 prohibited firearm—see section 7.
 prohibited person, for part 13 (Firearms dealers)—see section 184.
-prohibited pistol means a prohibited firearm mentioned in schedule 1, item 20, item 21 or item 22.
+prohibited pistol means a prohibited firearm mentioned in schedule 1, item 21, item 22 or item 23.
 protection order—
   (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of final order; and
   (b) includes a protection order made under the Domestic Violence Agencies Act 1986 and a restraining order made under the Magistrates Court Act 1930.

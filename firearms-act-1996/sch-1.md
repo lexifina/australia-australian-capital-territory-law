@@ -18,9 +18,10 @@ column 1 item | column 2 description
 15 | a firearm that— (a) substantially duplicates in appearance another article (for example, a walking stick, walking cane or key ring); and (b) disguises or conceals the fact that it is a firearm.
 16 | a cannon or other firearm by whatever name known of a type that— (a) will expel a projectile by the action of an explosive or other propellant; and (b) has a barrel with a bore in excess of 10 gauge or 19.70mm; other than a firearm of the Very or rocket type designed and intended for use for lifesaving or distress signalling purposes, an antique muzzle-loading firearm, or a rifle or shotgun manufactured before 1920
 17 | a firearm that, or part of which, has a dimension less than the minimum dimension prescribed for the firearm or part by the regulations
-18 | an imitation or replica of any firearm (including an imitation or replica pistol, blank fire pistol, paintball marker, shortened firearm, machine gun or submachine gun) unless it is of a type approved by the registrar
-19 | a device known as a ‘powerhead’ that can be attached to the end of a spear gun and that is designed to propel a projectile by means of an explosive.
-20 | a pistol of more than 9.65mm calibre Note A 9.65mm calibre pistol includes a 0.38-inch calibre pistol.
-21 | a semiautomatic pistol with a barrel length of less than 120mm
-22 | a revolver or single action pistol with a barrel length of less than 100mm
-23 | a .50 BMG calibre firearm or a derivative
+18 | a firearm that— (a) is— (i) a smoothbore shotgun; or (ii) a rifle, including a combination smoothbore shotgun and rifle but not including an airgun; or (iii) an airgun mentioned in section 250 (2) (c); and (b) has no stock; other than a firearm— (c) whose owner has the registrar’s written approval under section 250 (2) to modify the firearm so that it has no stock; and (d) that the registrar is satisfied under section 251 has been modified in accordance with the approval
+19 | an imitation or replica of any firearm (including an imitation or replica pistol, blank fire pistol, paintball marker, shortened firearm, machine gun or submachine gun) unless it is of a type approved by the registrar
+20 | a device known as a ‘powerhead’ that can be attached to the end of a spear gun and that is designed to propel a projectile by means of an explosive.
+21 | a pistol of more than 9.65mm calibre Note A 9.65mm calibre pistol includes a 0.38-inch calibre pistol.
+22 | a semiautomatic pistol with a barrel length of less than 120mm
+23 | a revolver or single action pistol with a barrel length of less than 100mm
+24 | a .50 BMG calibre firearm or a derivative
