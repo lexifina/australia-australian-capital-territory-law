@@ -54,4 +54,3 @@
 ## Part 15 Liquor advisory board
 ## Part 16 Notification and review of decisions
 ## Part 17 Miscellaneous
-## Part 20 Transitional
