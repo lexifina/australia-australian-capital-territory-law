@@ -208,3 +208,29 @@ Note A disallowable instrument must be notified, and presented to the Legislativ
 Wages are exempt wages if they are paid or payable by a territory authority funded solely by money appropriated from the public money of the Territory by an Act unless—
   (a) the wages are paid or payable by a territory authority prescribed for the Taxation (Government Business Enterprises) Act 2003, section 9; or
   (b) the wages are paid or payable by a territory authority to which a direction under the Taxation (Government Business Enterprises) Act 2003, section 10 applies to make the authority liable to tax under this Act.
+## Part 2.10 Disability employment concession
+## 2.22 Disability employment concession
+## (1) An employer may apply to the commissioner for a reduction of the amount of payroll tax payable by the employer in relation to an eligible person for a financial year.
+Note If a form is approved under the Taxation Administration Act 1999, s 139C for this provision, the form must be used.
+## (2) The commissioner must reduce the amount of payroll tax payable by an employer in relation to an eligible person for a financial year by the concession amount in accordance with any guideline under section 2.23.
+## (3) A person is an eligible person if the person—
+## (a) has a qualifying disability; and
+## (b) is 17 to 24 years old; and
+## (c) is employed in relevant employment.
+## (4) For the Taxation Administration Act 1999, division 9.4 (Secrecy), a tax officer under that Act may disclose information obtained under or in relation to the administration of this part to the director-general of the administrative unit responsible for the Disability Services Act 1991 or a person authorised by that director-general to receive the information.
+## (5) In this section:
+concession amount, in relation to an eligible person, means—
+  (a) if the person is employed in relevant employment for more than 13 weeks, but not more than 26 weeks—$2 000; or
+  (b) if the person is employed in relevant employment for more than 26 weeks—$4 000.
+qualifying disability means a disability under the Disability Services Act 1991.
+relevant employment means employment—
+  (a) starting on or after 1 July 2013 but before 1 July 2015; and
+  (b) that is for an average of at least 8 hours each week; and
+  (c) for which taxable wages are paid.
+Note Taxable wages—see section 10.
+## 2.23 Disability employment concession guidelines
+## (1) The Minister may make guidelines for the exercise of a function under this part.
+## (2) A guideline is a disallowable instrument.
+Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+## 2.24 Expiry—pt 2.10
+This part expires on 1 January 2016.
