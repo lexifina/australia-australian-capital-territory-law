@@ -3,7 +3,7 @@
 Note 1 The Legislation Act contains definitions and provisions that are relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 adult
-auditor-general
+auditor-general (see s 163)
 chief police officer
 contravene
 correctional centre
@@ -23,7 +23,7 @@ ombudsman
 police officer
 privacy commissioner
 State
-summary offence
+summary offence (see s 190)
 · territory law
 transgender person (see s 169A)
 under.
