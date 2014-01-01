@@ -18,8 +18,7 @@ Commonwealth-Territory funding agreement—see section 30.
 community housing means rental housing for—
   (a) people on low and moderate incomes or with special needs; or
   (b) nonprofit community organisations.
-company limited by guarantee—see the Corporations Act, section 9.
-company limited by shares—see the Corporations Act, section 9.
+Community Housing Providers National Law (ACT), for part 4A (Affordable and community housing programs)—see section 25A.
 eligible, for housing assistance—see section 8.
 entitled person—see section 25V.
 housing—
@@ -28,14 +27,9 @@ housing—
 housing assistance—see section 7.
 housing assistance program—see section 18.
 housing commissioner means the Commissioner for Social Housing established under section 9.
-housing provider means—
-  (a) an affordable housing provider; or
-  (b) a community housing provider.
-incorporated association means an association incorporated under the Associations Incorporation Act 1991 or the Cooperatives Act 2002.
 information includes a document.
-monitoring guidelines, for a housing provider—see section 25K.
 official visitor—see section 25V.
 protected information, for part 5 (Protection of information)—see section 28.
+registered community housing provider, for part 4A (Affordable and community housing programs)—see section 25A.
 reviewable decision, for part 6A (Notification and review of decisions—see section 31A.
-standards, for a community housing provider—see section 25I
 visitable place—see section 25V.
