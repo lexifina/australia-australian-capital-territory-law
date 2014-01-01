@@ -1,16 +1,8 @@
 # Schedule 1 Long service leave payments—building and construction industry
 (see s 6)
-## 1.1 Long service leave—building and construction industry
-A registered worker for the building and construction industry is entitled to long service leave in accordance with this schedule.
-## 1.2 What is building and construction work?
-Work is building and construction work if it is—
-## (a) work carried out in the ACT in the building and construction industry—
-## (i) to which an award prescribed by regulation relates; or
-## (ii) by an employee supervising work carried out in the industry; or
-## (b) work, or an activity, declared to be work in the building and construction industry under section 11.
-## 1.3 What is the building and construction industry?
+## 1.1 What is the building and construction industry?
 ## (1) The building and construction industry is—
-## (a) in relation to the ACT—the industry of constructing, reconstructing, renovating, altering, demolishing or maintaining the following:
+## (a) in relation to the ACT—the industry of constructing, reconstructing, renovating, repairing, altering, demolishing or maintaining the following:
 ## (i) buildings, fences or swimming pools;
 ## (ii) roadworks, railways, airfields or other works for the carriage of people, animals or vehicles;
 ## (iii) breakwaters, docks, jetties, piers, wharves or works for the improvement or alteration of a harbour, river or watercourse for the purpose of navigation;
@@ -25,15 +17,48 @@ Work is building and construction work if it is—
 ## (xii) works for the transmission of electric power or wireless or telegraphic communications; and
 ## (b) in relation to a reciprocating State—the building and construction industry within the meaning of the corresponding law of the State.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
-## (2) Also, the building and construction industry, in relation to the ACT, includes the following for building or other works mentioned in subsection (1) (a):
+## (2) Also, the building and construction industry, in relation to the ACT, includes the following undertaken in relation to an activity mentioned in subsection (1) (a):
 ## (a) pile driving and site preparation;
 ## (b) installing data cabling or security or electronic communication systems;
 ## (c) laying floor coverings;
-## (d) hard landscaping.
-## 1.4 Year of recognised service—building and construction industry
-A registered worker for the building and construction industry is taken to have completed—
-## (a) a year of service for each 220 days service credited to the worker in the workers register; and
-## (b) a year of recognised service for each 220 days recognised service credited to the worker.
+## (d) hard landscaping;
+## (e) building or construction work undertaken as part of training with a registered training organisation under the Training and Tertiary Education Act 2003.
+## 1.2 What is building and construction work?
+## (1) In this Act:
+building and construction work—
+  (a) means—
+    (i) work—
+      (A) in the building and construction industry; and
+      (B) covered by a prescribed award; or
+    (ii) work, or an activity, declared to be work in the building and construction industry under section 12 (Declarations by Minister—additional coverage of Act); or
+    (iii) direct supervision of a worker carrying out work mentioned in subparagraph (i) or (ii); but
+  (b) does not include work or an activity declared not to be work under section 13 (Declarations by Minister—limitation to coverage of Act).
+## (2) In this section:
+direct supervision, of a person, means the oversight by the supervising person of the work of the person by—
+  (a) directing, demonstrating, monitoring and checking the person’s work in a way that is appropriate to the person’s level of competency; and
+  (b) ensuring the person’s capacity to respond in an emergency situation.
+prescribed award means an award prescribed by regulation.
+## 1.3 Recognised service—building and construction industry
+## (1) In this schedule:
+recognised service, for a registered worker in the building and construction industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
+  (a) has been granted long service leave for; or
+  (b) has received a payment for instead of long service leave.
+## (2) A registered worker for the building and construction industry is taken to have completed a year of recognised service for each 220 days of recognised service.
+## 1.4 Service credit—building and construction industry—s 64
+## (1) A registered worker for the building and construction industry is to be credited in the workers register with 1 day of service for each day that the worker carries out building and construction work in each service period on or after the worker’s registration day.
+Note Prior service is also credited in the workers register in accordance with, for employees, s 47, and for contractors, s 48.
+## (2) However, the registrar must not enter more than 220 days of service in the workers register for the worker for the financial year.
+## 1.4A Service period—building and construction industry
+## (1) A service period for a person who is a registered worker for the building and construction industry is a continuous period—
+## (a) beginning on the day when the person becomes a worker for the industry; and
+## (b) ending on the day when the person stops being a worker for the industry.
+## (2) For subsection (1), a person stops being an employee for an employer for the industry at the end of a quarter if—
+## (a) if the employee was an employee of only 1 employer for the industry in the quarter—the employer’s return under section 49 for the following quarter shows no ordinary remuneration for the employee; or
+## (b) if the employee was an employee of 2 or more employers for the industry in the quarter—none of the employers’ returns under section 49 for the following quarter shows ordinary remuneration for the employee.
+## (3) Despite subsection (1), a registered worker’s service period is not taken to end if a person stops being a worker because—
+## (a) of incapacity for an injury for which the worker is entitled to compensation under the Workers Compensation Act 1951; or
+## (b) if the worker is an employee—the employee has been dismissed by an employer to ensure that the employee does not take long service leave while in the employer’s employment; or
+## (c) if the worker is a contractor—the contractor’s engagement by the employer is ended to ensure that the contractor does not take long service leave while engaged by the employer.
 ## 1.5 Long service leave formula—building and construction industry
 The following is the long service leave formula for the building and construction industry:
 RS means the registered worker’s number of days recognised service.
@@ -100,13 +125,13 @@ Note If a form is approved under s 92 for an application, the form must be used.
 Example
 John has 10 years of service in the building and construction industry giving him an entitlement to 13 weeks long service leave. He first worked in the industry as a registered employee and accrued 7 weeks of the entitlement in that capacity. John then worked as a registered contractor and accrued 6 weeks of the entitlement in that capacity.
 John decides to take 9 weeks long service leave. The payment for the leave is the total of the following amounts:
-· the amount calculated under section 1.12 where ‘D’ is 1540 (ie it took 1540 days service as a registered employee to accrue the first 7 weeks of his long service leave entitlement);
+· the amount calculated under section 1.12 where ‘D’ is 1540 (ie it took 1540 days of service as a registered employee to accrue the first 7 weeks of his long service leave entitlement);
 · the amount calculated under section 1.13 which is the total of the amounts paid to authority under section 56 for his first 2.6 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of his long service leave entitlement) and the interest under section 1.13 on those amounts.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.12 Leave payments for service as registered employee—building and construction industry
 ## (1) For section 1.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the building and construction industry is the amount worked out as follows:
 ## (2) In this section:
-D means the number of days service credited to the registered worker in the workers register for service as an employee and to which the payment relates.
+D means the number of days of service credited to the registered worker in the workers register for service as an employee and to which the payment relates.
 defined fraction means—
   (a) in relation to service that occurred before 20 December 1996—0.8667; and
   (b) in relation to service that occurred on or after 20 December 1996—1.3.
@@ -142,13 +167,11 @@ Note If a form is approved under s 92 for an application, the form must be used.
 ## (2) If the authority is notified about the payment and is satisfied the payment was properly made, the authority must reimburse the reciprocal authority the amount worked out as follows:
 ## (3) If the authority makes a reimbursement under subsection (2), the obligation of the authority to make the payment to the person for the entitlement is discharged.
 ## (4) In subsection (2):
-D means the number of days service credited to the person in the workers register for service as an employee and to which the payment relates.
+D means the number of days of service credited to the person in the workers register for service as an employee and to which the payment relates.
 defined fraction means—
   (a) in relation to service that occurred before 20 December 1996—0.8667; and
   (b) in relation to service that occurred on or after 20 December 1996—1.3.
 R is the amount decided by the reciprocal authority as the weekly amount payable to the person for the service credited to the person in the State.
-## 1.16 Service credit—building and construction industry—s 64
-A registered worker for the building and construction industry must not, in a financial year, be credited with more than 220 days of service.
 ## 1.17 Records of payments and service—building and construction industry
 ## (1) This section applies if the authority—
 ## (a) pays an amount to a registered worker for the building and construction industry under section 1.9 (Payment for leave—building and construction industry) or section 1.10 (Payment instead of leave—building and construction industry); or

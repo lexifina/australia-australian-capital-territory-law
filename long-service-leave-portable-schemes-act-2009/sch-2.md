@@ -1,18 +1,41 @@
 # Schedule 2 Long service leave payments—contract cleaning industry
 (see s 6)
-## 2.1 Long service leave—contract cleaning industry
-A registered worker for the contract cleaning industry is entitled to long service leave in accordance with this schedule.
-## 2.2 What is cleaning work?
-Work is cleaning work if it is—
-## (a) work carried out in the ACT that has, as its only or main component, the bringing of premises into, or maintaining premises in, a clean condition; or
-## (b) work, or an activity, declared to be work in the contract cleaning industry under section 11.
-## 2.3 What is the contract cleaning industry?
+## 2.1 What is the contract cleaning industry?
 The contract cleaning industry is—
 ## (a) in relation to the ACT—the industry in which employers provide cleaning work to other people through the provision of workers’ services; and
 ## (b) in relation to a reciprocating State—the contract cleaning industry within the meaning of the corresponding law of the State.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
-## 2.4 Years of recognised service—contract cleaning industry
-A registered worker for the contract cleaning industry is taken to have completed a year of recognised service for each 365 days of recognised service.
+## 2.2 What is cleaning work?
+In this Act:
+cleaning work—
+  (a) means—
+    (i) work that has, as its only or main component, bringing premises into, or maintaining premises in, a clean condition; or
+    (ii) work, or an activity, declared to be work in the contract cleaning industry under section 12 (Declarations by Minister—additional coverage of Act); but
+  (b) does not include work or an activity declared not to be work under section 13 (Declarations by Minister—limitation to coverage of Act).
+## 2.3 Recognised service—contract cleaning industry
+## (1) In this schedule:
+recognised service, for a registered worker in the contract cleaning industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
+  (a) has been granted long service leave for; or
+  (b) has received a payment for instead of long service leave.
+## (2) A registered worker for the contract cleaning industry is taken to have completed a year of recognised service for each 365 days of recognised service.
+## 2.4 Service credit—contract cleaning industry—s 64
+## (1) A registered worker for the contract cleaning industry is to be credited in the workers register with 1 day of service for each day (including a day when the worker does not carry out cleaning work) in each service period of the worker on or after the worker’s registration day.
+Example
+A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the service period for the worker when the worker does not carry out cleaning work.
+Note 1 Prior service is also credited in the workers register in accordance with, for employees, s 47, and for contractors, s 48.
+Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+## (2) However, the registrar must not enter more than 365 days of service in the workers register for the worker for the financial year.
+## 2.4A Service period—contract cleaning industry
+## (1) A service period for a person who is a registered worker for the contract cleaning industry is a continuous period—
+## (a) beginning on the day when the person becomes a worker for the industry; and
+## (b) ending on the day when the person stops being a worker for the industry.
+## (2) For subsection (1), a person stops being an employee for an employer for the industry at the end of a quarter if—
+## (a) if the employee was an employee of only 1 employer for the industry in the quarter—the employer’s return under section 49 for the following quarter shows no ordinary remuneration for the employee; or
+## (b) if the employee was an employee of 2 or more employers for the industry in the quarter—none of the employers’ returns under section 49 for the following quarter shows ordinary remuneration for the employee.
+## (3) Despite subsection (1), a registered worker’s service period is not taken to end if a person stops being a worker because—
+## (a) of incapacity for an injury for which the worker is entitled to compensation under the Workers Compensation Act 1951; or
+## (b) if the worker is an employee—the employee has been dismissed by an employer to ensure that the employee does not take long service leave while in the employer’s employment; or
+## (c) if the worker is a contractor—the contractor’s engagement by the employer is ended to ensure that the contractor does not take long service leave while engaged by the employer.
 ## 2.5 Long service leave formula—contract cleaning industry
 The following is the long service leave formula for the contract cleaning industry:
 RS means the registered worker’s number of days recognised service.
@@ -79,13 +102,13 @@ Note If a form is approved under s 92 for an application, the form must be used.
 Example
 Patricia has 10 years of service in the contact cleaning industry giving her an entitlement to 8.3 weeks long service leave. She first worked in the industry as a registered employee and accrued 5 weeks of the entitlement in that capacity. Patricia then worked as a registered contractor and accrued 3.3 weeks of the entitlement in that capacity.
 Patricia decides to take 7 weeks long service leave. The payment for the leave is the total of the following amounts:
-· the amount calculated under s 2.12 where ‘D’ is 1825 (ie it took 1825 days service as a registered employee to accrue the first 5 weeks of her long service leave entitlement);
+· the amount calculated under s 2.12 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 5 weeks of her long service leave entitlement);
 · the amount calculated under s 2.13 which is the total of the amounts paid to the authority under s 57 for her first 2.41 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of her long service leave entitlement) and the interest under s 2.13 on those amounts.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 2.12 Leave payments for service as registered employee—contract cleaning industry
 ## (1) For section 2.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the contract cleaning industry is the amount worked out as follows:
 ## (2) In this section:
-D means the number of days service credited to the registered worker in the workers register to which the payment relates.
+D means the number of days of service credited to the registered worker in the workers register to which the payment relates.
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
   (b) if the registered worker is being paid instead of taking long service leave—the day the payment is made.
@@ -124,14 +147,8 @@ Note If a form is approved under s 92 for an application, the form must be used.
 ## (2) If the authority is notified about the payment and is satisfied the payment was properly made, the authority must reimburse the reciprocal authority the amount worked out as follows:
 ## (3) If the authority makes a reimbursement under subsection (2), the obligation of the authority to make the payment to the person for the entitlement is discharged.
 ## (4) In subsection (2):
-D means the number of days service credited to the registered employee in the workers register and to which the payment relates.
+D means the number of days of service credited to the registered employee in the workers register and to which the payment relates.
 R is the amount decided by the reciprocal authority as the weekly amount payable to the worker for the service credited to the worker in the State.
-## 2.16 Service credit—contract cleaning industry—s 64
-## (1) A registered worker for the contract cleaning industry is to be credited in the workers register with 1 day’s service for each day (including a day when the worker does not carry out cleaning work) in each service period of the worker on or after the worker’s registration day.
-Example
-A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the worker’s period of service when the worker does not carry out cleaning work.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-## (2) However a registered worker for the contract cleaning industry must not, in a financial year, be credited with more than 365 days of service.
 ## 2.17 Records of payments and service—contract cleaning industry
 ## (1) This section applies if the authority—
 ## (a) pays an amount to a registered worker for the contract cleaning industry under section 2.9 (Payments for leave—contract cleaning industry) or section 2.10 (Payments instead of leave—contract cleaning industry); or

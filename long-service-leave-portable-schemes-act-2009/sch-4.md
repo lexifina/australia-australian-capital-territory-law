@@ -1,26 +1,46 @@
 # Schedule 4 Long service leave payments—security industry
 (see s 6)
-## 4.1 Long service leave—security industry
-A registered worker for the security industry is entitled to long service leave in accordance with this schedule.
-## 4.2 What is security work?
-(1) Work is security work if it is—
-  (a) work carried out in the ACT in the security industry, other than work declared under subsection (2); or
-  (b) work, or an activity, declared to be work in the security industry under section 11.
-(2) The Minister may declare work not to be work in the security industry.
-(3) A declaration is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
-## 4.3 What is the security industry?
-(1) The security industry is—
-  (a) in relation to the ACT—the industry in which security activities are undertaken by people licensed to undertake the activities under the Security Industry Act 2003; and
-  (b) in relation to a reciprocating State—the security industry within the meaning of the corresponding law of the State.
+## 4.1 What is the security industry?
+## (1) The security industry is—
+## (a) in relation to the ACT—the industry in which security activities are undertaken by people licensed to undertake the activities under the Security Industry Act 2003; and
+## (b) in relation to a reciprocating State—the security industry within the meaning of the corresponding law of the State.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
-(2) In this section—
-security activity means an activity within the meaning of the Security Industry Act 2003, section 13 (1) (a) to (h).
+## (2) In this section—
+security activity means an activity within the meaning of the Security Industry Act 2003, section 7 (1) (a) to (h).
+## 4.2 What is security work?
+In this Act:
+security work—
+  (a) means—
+    (i) work carried out in the security industry; or
+    (ii) work, or an activity, declared to be work in the security industry under section 12; but
+  (b) does not include work or an activity declared not to be work under section 13.
+## 4.3 Recognised service—security industry
+## (1) In this schedule:
+recognised service, for a registered worker in the security industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
+  (a) has been granted long service leave for; or
+  (b) has received a payment for instead of long service leave.
+## (2) A registered worker for the security industry is taken to have completed a year of recognised service for each 365 days of recognised service.
 ## 4.4 Court or tribunal—not employer
 A court or tribunal is not an employer for the security industry.
 Note A covered industry schedule may prescribe an entity not to be an employer for the covered industry—see s 7 (3) (e).
-## 4.5 Years of recognised service—security industry
-A registered worker for the security industry is taken to have completed a year of recognised service for each 365 days of recognised service.
+## 4.5 Service credit—community sector industry—s 64
+## (1) A registered worker for the security industry is to be credited in the workers register with 1 day of service for each day (including a day when the worker does not carry out security work) in each service period of the worker on or after the worker’s registration day.
+Example
+A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the service period for the worker when the worker does not carry out cleaning work.
+Note 1 Prior service is also credited in the workers register in accordance with, for employees, s 47, and for contractors, s 48.
+Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+## (2) However, the registrar must not enter more than 365 days of service in the workers register for the worker for the financial year.
+## 4.5A Service period—security industry
+## (1) A service period for a person who is a registered worker for the security industry is a continuous period—
+## (a) beginning on the day when the person becomes a worker for the industry; and
+## (b) ending on the day when the person stops being a worker for the industry.
+## (2) For subsection (1), a person stops being an employee for an employer for the industry at the end of a quarter if—
+## (a) if the employee was an employee of only 1 employer for the industry in the quarter—the employer’s return under section 49 for the following quarter shows no ordinary remuneration for the employee; or
+## (b) if the employee was an employee of 2 or more employers for the industry in the quarter—none of the employers’ returns under section 49 for the following quarter shows ordinary remuneration for the employee.
+## (3) Despite subsection (1), a registered worker’s service period is not taken to end if a person stops being a worker because—
+## (a) of incapacity for an injury for which the worker is entitled to compensation under the Workers Compensation Act 1951; or
+## (b) if the worker is an employee—the employee has been dismissed by an employer to ensure that the employee does not take long service leave while in the employer’s employment; or
+## (c) if the worker is a contractor—the contractor’s engagement by the employer is ended to ensure that the contractor does not take long service leave while engaged by the employer.
 ## 4.6 Long service leave formula—security industry
 The following is the long service leave formula for the security industry:
 RS means the registered worker’s number of days recognised service.
@@ -83,12 +103,12 @@ Note If a form is approved under s 92 for this provision, the form must be used.
 Example
 Trevor has 5 years of service in the security industry giving him an entitlement to 4.335 weeks long service leave. He first worked in the industry as a registered employee and accrued 2 weeks of the entitlement in that capacity. Trevor then worked as a registered contractor and accrued 2.335 weeks of the entitlement in that capacity.
 Trevor decides to take 4.335 weeks long service leave. The payment for the leave is the total of the following amounts:
-· the amount calculated under s 4.13 where ‘D’ is 842 (ie it took 842 days service as a registered employee to accrue the first 2 weeks of his long service leave entitlement);
+· the amount calculated under s 4.13 where ‘D’ is 842 (ie it took 842 days of service as a registered employee to accrue the first 2 weeks of his long service leave entitlement);
 · the amount calculated under s 4.14 which is the total of the amounts paid to the authority under s 56 for his 983 days work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2.335 weeks of his long service leave entitlement) and the interest under s 4.14 on those amounts.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 4.13 Leave payments for service as registered employee—security industry
 For section 4.12, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the security industry is the amount worked out as follows:
-D means the number of days service credited to the registered worker in the workers register to which the payment relates.
+D means the number of days of service credited to the registered worker in the workers register to which the payment relates.
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
   (b) if the registered worker is being paid instead of taking long service leave—the day the payment is made.
@@ -116,15 +136,9 @@ Note If a form is approved under s 92 for an application, the form must be used.
 ## 4.16 Payments by reciprocal authority on authority’s behalf—security industry
 (1) This section applies if, under a corresponding law, a reciprocal authority pays to a person an amount that, but for the payment, would have been payable for a long service leave entitlement under this Act for work done in the security industry.
 (2) If the authority is notified about the payment and is satisfied the payment was properly made, the authority must reimburse the reciprocal authority the amount worked out as follows:
-D means the number of days service credited to the person in the workers register for service as an employee and to which the payment relates.
+D means the number of days of service credited to the person in the workers register for service as an employee and to which the payment relates.
 R is the amount decided by the reciprocal authority as the weekly amount payable to the person for the service credited to the person in the State.
 (3) If the authority makes a reimbursement under subsection (2), the obligation of the authority to make the payment to the person for the entitlement is discharged.
-## 4.17 Service credit—security industry—s 64
-(1) A registered worker for the security industry is to be credited in the workers register with 1 day’s service for each day (including a day when the worker does not carry out security industry work) in each service period of the worker on or after the worker’s registration day.
-Example
-A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the worker’s period of service when the worker does not carry out security industry work.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-(2) However a registered worker in the security industry must not, in a financial year, be credited with more than 365 days of service.
 ## 4.18 Records of payments and service—security industry
 (1) This section applies if the authority—
   (a) pays an amount to a registered worker for the security industry under section 4.10 (Payments for leave—security industry) or section 4.11 (Payment instead of leave—security industry); or
