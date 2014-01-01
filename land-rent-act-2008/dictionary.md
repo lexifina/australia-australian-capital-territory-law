@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory authority
 · territory plan.
 commissioner means the commissioner for revenue.
+Community Housing Providers National Law (ACT), for part 3 (Land rent—discount)—see section 16A.
 discounted land rent means land rent discounted under part 3 (Land rent—discount).
 discount percentage means the discount percentage determined under the Taxation Administration Act, section 139.
 Note Different percentage rates may be determined in relation to different matters or classes of matters (see Legislation Act, s 48).
