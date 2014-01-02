@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · interest
 · land
 · Magistrates Court
-· Minister
+· Minister (see s 162)
 · National Credit Code
 · prescribed.
 advisory committee means a committee established under section 28.
