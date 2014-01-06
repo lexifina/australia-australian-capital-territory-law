@@ -96,7 +96,7 @@ employee—
 executive officer, of a corporation, means a person (however described) who is concerned with, or takes part in, the corporation’s management, whether or not the person is a director of the corporation.
 explosive—see the Dangerous Substances Act 2004, section 73.
 firearm—see section 6.
-firearm part includes a barrel, breech, pistol slide, frame, receiver, cylinder, trigger mechanism, operating mechanism or magazine designed as, or reasonably capable of forming, part of a firearm.
+firearm part includes a barrel, breech, pistol slide, cylinder, trigger mechanism, operating mechanism or magazine designed as, or reasonably capable of forming, part of a firearm.
 firearms dealer—
   (a) means an individual who, in the ordinary course of carrying on business—
     (i) manufactures, acquires, disposes of (including by sale) or repairs firearms or firearm parts; or
