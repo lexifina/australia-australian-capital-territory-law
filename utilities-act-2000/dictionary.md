@@ -41,7 +41,8 @@ controller—see section 135 (Appointment of controller).
 customer—see section 17 (Customers).
 customer contract means—
   (a) a standard customer contract; or
-  (b) a negotiated customer contract.
+  (b) a negotiated customer contract; or
+  (c) a customer connection contract under the National Energy Retail Law (ACT).
 customer debt, for part 12 (Complaints to ACAT about utilities)—see section 169.
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
