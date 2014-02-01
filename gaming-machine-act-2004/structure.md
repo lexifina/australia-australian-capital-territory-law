@@ -33,7 +33,7 @@
 ## Part 7 Regulation of gaming machines generally
 ## Part 8 Linked-jackpot arrangements
 ## Part 9 Club administration
-## Part 10 Gaming areas
+## Part 10 Promoting responsible practices at licensed premises
 ## Part 11 Finance
 ### Division 11.1 General
 ### Division 11.2 Problem gambling assistance fund
