@@ -68,10 +68,11 @@ executive officer, of a corporation, means a person, however described and wheth
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
 first offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
+heavy vehicle infringement notice offence, for part 3 (Infringement notices for certain offences)—see section 21A.
 illegal user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
-infringement notice—see section 24 (2) (Infringement notices).
+infringement notice—see section 24 (6) (Infringement notices).
 infringement notice declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 infringement notice management plan, for part 3 (Infringement notices for certain offences)—see section 31A.
 infringement notice offence means an offence prescribed by regulation as an infringement notice offence.
@@ -79,7 +80,7 @@ infringement notice penalty, for a person for an infringement notice offence, me
   (a) the amount prescribed by regulation as the penalty payable by the person for the offence under an infringement notice for the offence; or
   (b) if a reminder notice has also been served on the person for the offence—the total of the amount mentioned in paragraph (a) and the amount prescribed by regulation as the amount payable by the person for the cost of serving the reminder notice.
 internally reviewable decision, for part 7 (Notification and review of decisions)—see section 90.
-internal reviewer, for part 7 (Notification and review of decisions)—see section 92A.
+internal reviewer, for part 7 (Notification and review of decisions)—see section 92A.`
 internal review notice for part 7 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 known user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
