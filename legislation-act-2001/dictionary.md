@@ -213,6 +213,7 @@ GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictio
 health practitioner means a person registered under the Health Practitioner Regulation National Law (ACT) to practise a health profession (other than as a student).
 Health Practitioner Regulation National Law (ACT) means the provisions applying because of the Health Practitioner Regulation National Law (ACT) Act 2010, section 6 (Application of Health Practitioner Regulation National Law).
 health services commissioner means the Health Services Commissioner under the Human Rights Commission Act 2005.
+Heavy Vehicle National Law (ACT) means the provisions applying in the ACT because of the Heavy Vehicle National Law (ACT) Act 2013, section 7 (Application of Heavy Vehicle National Law).
 heritage council means the Australian Capital Territory Heritage Council under the Heritage Act 2004.
 heritage register means the heritage register under the Heritage Act 2004.
 High Court means the High Court of Australia.
