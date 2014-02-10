@@ -5,7 +5,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 · ACT
 · exercise
 · function
-· instrument.
+· instrument (see s 14).
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
 · another jurisdiction
 · Australian Transport Council
@@ -68,4 +68,6 @@ road related area means—
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 trader’s plate means a numberplate issued by the road transport authority to a person engaged in a relevant trade to move unregistered registrable vehicles for short-term purposes.
 unregistered vehicle permit means a permit mentioned in section 7 (d) (Powers of road transport authority).
-vehicle standard includes a standard or other requirement relating to the construction, design or equipment of a registrable vehicle.
+vehicle standard—
+  (a) includes a standard or other requirement relating to the construction, design or equipment of a registrable vehicle; but
+  (b) does not include a heavy vehicle standard within the meaning of the Heavy Vehicle National Law (ACT).
