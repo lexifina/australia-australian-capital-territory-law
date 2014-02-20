@@ -31,7 +31,7 @@ appellable decision—see section 223.
 appellable level position means—
   (a) for division 5.5 (Promotion of officers)—see section 82; and
   (b) for division 5.6 (Transfer of officers)—see section 91.
-auditor-general’s office means the auditor-general and the staff assisting the auditor-general under the Auditor-General Act 1996, section 23.
+auditor-general’s office means the auditor-general and the staff assisting the auditor-general under the Auditor-General Act 1996, section 9C.
 authorised doctor means a doctor authorised by the head of service to—
   (a) perform medical examinations under this Act; and
   (b) make recommendations under this Act in relation to redeployment or retirement; and
