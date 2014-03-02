@@ -24,4 +24,3 @@
 ### Division 7.3 Evidence in any proceedings—extended application of Evidence Act
 ## Part 8 Publication of evidence
 ## Part 9 Miscellaneous
-## Part 11 Transitional—Evidence (Miscellaneous Provisions) Amendment Act 2011
