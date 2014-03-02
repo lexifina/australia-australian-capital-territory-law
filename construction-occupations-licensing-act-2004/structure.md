@@ -19,7 +19,4 @@
 ## Part 11A Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 14 Transitional—Construction Occupations Legislation Amendment Act 2006
-## Part 17 Transitional—energy efficiency rating statements
-### Division 17.1 General
-### Division 17.2 Energy efficiency rating statements
 ## Part 18 Transitional—new licence application information
