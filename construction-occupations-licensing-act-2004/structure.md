@@ -20,3 +20,4 @@
 ## Part 12 Miscellaneous
 ## Part 14 Transitional—Construction Occupations Legislation Amendment Act 2006
 ## Part 18 Transitional—new licence application information
+## Part 19 Transitional—rectification orders
