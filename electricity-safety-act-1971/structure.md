@@ -1,5 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 Electrical wiring work
+## Part 2 Electrical wiring work and electrical installations
 ## Part 3 Prescribed articles of electrical equipment
 ### Division 3.1 Preliminary
 ### Division 3.2 Regulation of dealings
