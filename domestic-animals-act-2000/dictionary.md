@@ -18,17 +18,20 @@ animal welfare offence means an offence against any of the following provisions 
   (b) section 7A (Aggravated cruelty);
   (c) section 8 (Pain);
   (d) section 9 (Confined animals);
-  (e) section 10 (Alleviation of pain);
-  (f) section 11 (Release);
-  (g) section 12 (Administering poison);
-  (h) section 12A (Laying poison);
-  (i) section 13 (Electrical devices);
-  (j) section 14 (Spurs);
-  (k) section 15 (Transport and containment);
-  (l) section 15A (Transport of dogs);
-  (m) section 16 (Working etc unfit animals);
-  (n) section 17 (Matches, competitions etc);
-  (o) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
+  (e) section 9A (Keeping laying fowls for commercial egg production—appropriate accommodation);
+  (f) section 9B (Keeping pigs—appropriate accommodation);
+  (g) section 9C (Removing or trimming beak of fowl);
+  (h) section 10 (Alleviation of pain);
+  (i) section 11 (Release);
+  (j) section 12 (Administering poison);
+  (k) section 12A (Laying poison);
+  (l) section 13 (Electrical devices);
+  (m) section 14 (Spurs);
+  (n) section 15 (Transport and containment);
+  (o) section 15A (Transport of dogs);
+  (p) section 16 (Working etc unfit animals);
+  (q) section 17 (Matches, competitions etc);
+  (r) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
 approved provider, for division 4.2 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
 authorised person means an authorised person under section 123, and includes the registrar and a deputy registrar.
