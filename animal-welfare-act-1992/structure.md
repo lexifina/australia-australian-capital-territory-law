@@ -29,3 +29,4 @@
 ## Part 8 Notification and review of decisions
 ## Part 9 Animal welfare advisory committee
 ## Part 10 Miscellaneous
+## Part 12 Transitional—Animal Welfare (Factory Farming) Amendment Act 2014
