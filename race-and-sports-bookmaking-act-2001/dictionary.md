@@ -60,7 +60,9 @@ race means—
   (d) a race of a kind prescribed under the regulations.
 race bookmaker means a person who holds a race bookmaking licence.
 race bookmaker’s agent means a person who holds a race bookmaker’s agent licence.
-race bookmaking means the carrying on (whether regularly or on 1 or more occasions) of the business of receiving or negotiating bets on races.
+race bookmaking—
+  (a) means the carrying on (whether regularly or on 1 or more occasions) of the business of receiving or negotiating bets on races; but
+  (b) does not include conducting a totalisator.
 race meeting means a meeting held to conduct races (even if other events are also held at the meeting).
 racing club means a corporation that promotes or controls horse racing or dog racing, or that holds race meetings.
 register means the register kept under section 89 (Commission to keep register).
@@ -69,7 +71,9 @@ rules for sports bookmaking means the rules determined under section 23 (Rules f
 security guarantee—see section 92 (Meaning of suitability requirements and security guarantee).
 sports bet means a bet on, or in relation to, a sports bookmaking event.
 sports bookmaker means the holder of a sports bookmaking licence.
-sports bookmaking means the carrying on (whether regularly or on 1 or more occasions) of the business of receiving or negotiating sports bets.
+sports bookmaking—
+  (a) means the carrying on (whether regularly or on 1 or more occasions) of the business of receiving or negotiating sports bets; but
+  (b) does not include conducting a totalisator.
 sports bookmaking event means a sporting or other event determined under section 20 (Determination of sports bookmaking events) to be a sports bookmaking event for this Act.
 sports bookmaking venue means a place determined by the commission under section 21 (Determination of sports bookmaking venues).
 suitability requirements—see section 92 (Meaning of suitability requirements and security guarantee).
