@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · judge
 · lawyer
+· legal practitioner
 · magistrate
 · may (see s 146)
 · Minister (see s 162)
