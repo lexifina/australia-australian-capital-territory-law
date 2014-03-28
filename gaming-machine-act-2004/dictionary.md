@@ -79,7 +79,6 @@ eligible person—
   (b) for a corporation—see section 21.
 employ includes engage.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
-financial arrangement—see section 101 (2).
 game, in relation to a gaming machine, means a play, or a series of plays, initiated by the application of a single stake registered on the machine.
 gaming area—see section 15 (1) (b).
 gaming law—see the Control Act, dictionary.

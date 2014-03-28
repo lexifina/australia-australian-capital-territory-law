@@ -48,20 +48,19 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 45 | 91 | reprimand attendant | attendant
 46 | 96 | refuse to renew approved attendant’s approval | applicant for renewal
 47 | 100 | refuse to approve acquisition of gaming machine | applicant for approval
-48 | 102 | refuse to approve financial arrangement or amendment of arrangement | applicant for approval
-49 | 108 | refuse to approve repossession of gaming machine | applicant for approval
-50 | 109 (2) | approve repossession of gaming machine subject to condition | applicant for approval
-51 | 113 | refuse to approve disposal of gaming machine | applicant for approval
-52 | 134 | refuse to authorise linked-jackpot arrangement | applicant for authorisation
-53 | 135 | refuse to issue multi-user permit | applicant for permit
-54 | 135 | issue multi-user permit subject to condition, other than condition imposed by Act | applicant for permit
-55 | 138 | amend multi-user permit | entity that has permit amended
-56 | 139 | refuse to amend multi-user permit | applicant for amendment
-57 | 140 | refuse to approve amendment of financial and operational aspects of linked-jackpot arrangement | applicant for amendment
-58 | 141 | refuse to transfer multi-user permit | applicant for transfer
-59 | 147 | refuse to approve entity | applicant for approval
-60 | 147C (2) (a) | suspend declaration of associated organisation | entity given warning notice
-61 | 147C (2) (b) | repeal declaration of associated organisation | entity given warning notice
-62 | 148B (2) | give direction to amend club’s constitution | club given direction
-63 | 153 (2) | give direction about separate parts of licensed premises | licensee given direction
-64 | 164 | refuse to approve contributions as community contributions | applicant for approval
+48 | 108 | refuse to approve repossession of gaming machine | applicant for approval
+49 | 109 (2) | approve repossession of gaming machine subject to condition | applicant for approval
+50 | 113 | refuse to approve disposal of gaming machine | applicant for approval
+51 | 134 | refuse to authorise linked-jackpot arrangement | applicant for authorisation
+52 | 135 | refuse to issue multi-user permit | applicant for permit
+53 | 135 | issue multi-user permit subject to condition, other than condition imposed by Act | applicant for permit
+54 | 138 | amend multi-user permit | entity that has permit amended
+55 | 139 | refuse to amend multi-user permit | applicant for amendment
+56 | 140 | refuse to approve amendment of financial and operational aspects of linked-jackpot arrangement | applicant for amendment
+57 | 141 | refuse to transfer multi-user permit | applicant for transfer
+58 | 147 | refuse to approve entity | applicant for approval
+59 | 147C (2) (a) | suspend declaration of associated organisation | entity given warning notice
+60 | 147C (2) (b) | repeal declaration of associated organisation | entity given warning notice
+61 | 148B (2) | give direction to amend club’s constitution | club given direction
+62 | 153 (2) | give direction about separate parts of licensed premises | licensee given direction
+63 | 164 | refuse to approve contributions as community contributions | applicant for approval
