@@ -5,6 +5,8 @@
 ### Division 2.3 Alteration of details of birth registration
 ### Division 2.4 Substitute parent information
 ## Part 3 Change of name
+### Division 3.1 Change of name—generally
+### Division 3.2 Change of name—restricted people
 ## Part 4 Change of sex
 ## Part 5 Registration of marriages
 ## Part 5A Civil unions

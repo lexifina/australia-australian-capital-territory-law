@@ -22,8 +22,10 @@ adult—see section 4.
 birth includes a stillbirth.
 birth certificate means a certificate issued under section 27 (2) or section 45 certifying particulars contained in an entry in the register of a person’s birth.
 birth registration statement, for division 2.2 (Registration of births)—see section 6.
+change of name application, in relation to a restricted person, for division 3.2 (Change of name—restricted people)—see section 22A.
 child—see section 4.
 corresponding law means a law of a State or another Territory that provides for the registration of births, deaths and marriages.
+corresponding parole law, for division 3.2 (Change of name—restricted people)—see section 22A.
 death does not include a stillbirth.
 parents, of a child, means the parents jointly.
 prohibited name means a name that—
@@ -40,7 +42,9 @@ register means a register maintained under section 39.
 registering authority means an authority responsible under a corresponding law for the registration of births, deaths and marriages.
 registrable event means a birth, death, marriage, civil union, civil partnership, change of name or change of sex.
 registrable information means information that is to be or may be included in the register.
+relevant director-general, for division 3.2 (Change of name—restricted people)—see section 22A.
 repealed Act means the Registration of Births, Deaths and Marriages Act 1963.
+restricted person, for division 3.2 (Change of name—restricted people)—see section 22A.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 53.
 sexual reassignment surgery, for part 4 (Change of sex)—see section 23.
 stillbirth means the birth of a stillborn child.

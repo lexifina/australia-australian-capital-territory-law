@@ -4,5 +4,7 @@ column 1 item | column 2 section | column 3 decision | column 4 person
 1 | 12 (a) | assign name to child | parent
 2 | 20 (2) | refuse to register change of name | applicant
 3 | 20 (5) | refuse to register change of name | applicant
-4 | 26 (b) | refuse to alter register to record change of sex | applicant
-5 | 68 | refuse to refund or remit payment of fee or part of fee | applicant
+4 | 22C (1) (b) | refuse approval to make a change of name application in relation to a restricted person | applicant
+5 | 22F | refuse to register change of name in relation to a restricted person | applicant
+6 | 26 (b) | refuse to alter register to record change of sex | applicant
+7 | 68 | refuse to refund or remit payment of fee or part of fee | applicant
