@@ -25,5 +25,4 @@
 ## Part 13 Expiry and termination of unit leases
 ## Part 14 Notification and review of decisions
 ## Part 15 Miscellaneous
-## Part 20 Transitional—Unit Titles Amendment Act 2008 (No 2)
 ## Part 25 Transitional—Construction Occupations Legislation Amendment Act 2010
