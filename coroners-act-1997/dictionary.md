@@ -75,4 +75,10 @@ member of the immediate family, for a deceased person the subject of an inquest,
 Note For the meaning of domestic partner, see the Legislation Act, s 169.
 mental health officer—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 place includes a vehicle, a vessel or an aircraft.
+post-mortem examination means the inspection of a body to determine the cause of death and may, but need not, include dissection of the body.
+Examples
+· external post-mortem examination, including taking skin or other samples
+· post-mortem examination using computed tomography (CT)
+· post-mortem examination using magnetic resonance imaging (MRI)
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 registrar means the registrar of the Coroner’s Court appointed under section 11, and includes a deputy registrar.
