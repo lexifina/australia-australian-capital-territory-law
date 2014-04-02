@@ -51,6 +51,7 @@ appearance—see section 311 (4).
 authorised person—
   (a) for division 3.3.3A (Court attendance notices)—see section 41A; and
   (b) for part 3.8 (Infringement notices for certain offences)—see section 134A (3).
+back-up offence, in relation to an indictable offence––see the Supreme Court Act 1933, section 68CA.
 bailiff means a bailiff under this Act.
 certified copy, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
 circle sentencing, for chapter 4C (Galambany Court)—see section 291L.
@@ -101,6 +102,7 @@ reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against
 reference appeal, for division 3.10.2A (Reference appeals in criminal matters)—see section 219AB (2).
 registered, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
 registrar means the registrar of the Magistrates Court, and includes a deputy registrar of the court.
+related offence, in relation to an indictable offence––see the Supreme Court Act 1933, section 68CA.
 relevant officer, in relation to a reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reminder notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
 reporting officer, for division 3.4.2 (Warrants for witnesses)—see section 62.
