@@ -25,6 +25,11 @@ asbestos removal service—see section 7B (2).
 authorised action, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
+building assessment work means preparing and providing—
+  (a) an energy efficiency certificate under the Building Act 2004; or
+  (b) an energy efficiency rating statement; or
+  (c) a statement, certificate or other document prescribed by regulation.
+Note Energy efficiency certificate—see the Building Act 2004, s 139C.
 building assessor—see section 8A.
 building certification service—see section 9 (3).
 building certifier—see the Building Act 2004, dictionary, definition of certifier.
@@ -33,7 +38,7 @@ building surveyor—see section 9.
 building work—see the Building Act 2004, section 6.
 class, of a construction occupation, means a class into which the occupation is divided under the regulations (see section 15).
 code of practice means a code of practice approved under section 104A.
-compliance auditor, for part 6 (Enforcement)—see section 76.
+compliance auditor, for part 6 (Enforcement)—see section 75.
 conduct means an act or an omission to do an act.
 construction occupation—see section 7.
 construction practitioner—see section 6.
@@ -59,6 +64,7 @@ gasfitting service—see section 12 (2).
 ground for occupational discipline—see section 55.
 information requirement, for part 6A (Information requirements)—see section 80D.
 infringement notice—see Magistrates Court Act 1930, section 117.
+inspector, for part 6 (Enforcement)—see section 75.
 licence means a licence under this Act.
 licensee—
   (a) for division 5.2 (Occupational discipline—licensees)—see section 54; and
@@ -72,6 +78,7 @@ occupational discipline means—
   (c) something done by the registrar under section 95.
 occupation class means a class into which a construction occupation is divided under section 15.
 occupier, of premises, includes a person believed on reasonable grounds to be an occupier of the premises.
+officer, for part 6 (Enforcement)—see section 75.
 operational Act—see section 16.
 plumber—see section 13.
 plumbing plan certification service—see section 14 (2).
@@ -88,4 +95,8 @@ sanitary drainage service—see section 10 (2).
 storey—see the Building Act 2004, dictionary.
 supervise includes direct.
 works assessment service—see section 14A (2).
+works assessment work means—
+  (a) undertaking an exemption assessment under the Planning and Development Act 2007; or
+  (b) providing, including doing anything incidental to providing, a unit title assessment report under the Unit Titles Act 2001.
+Note Unit title assessment report—see the Unit Titles Act 2001, s 22B.
 works assessor—see section 14A (1).
