@@ -5,10 +5,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACAT
 · Australian citizen
 · bankrupt or personally insolvent
+· construction occupations registrar
 · daily newspaper
 · function
 · home address
-· planning and land authority
 · reviewable decision notice
 · State
 · under.

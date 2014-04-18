@@ -1,5 +1,7 @@
 ## Part 1 Preliminary
 ## Part 2 Electrical wiring work and electrical installations
+### Division 2.1 Electrical wiring work and electrical installations—safety
+### Division 2.2 Electrical wiring work and electrical installations—energy efficiency
 ## Part 3 Prescribed articles of electrical equipment
 ### Division 3.1 Preliminary
 ### Division 3.2 Regulation of dealings
