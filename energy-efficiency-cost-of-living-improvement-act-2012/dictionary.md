@@ -9,13 +9,9 @@ abatement factor means the number of tonnes of carbon dioxide equivalent emissio
 administrator means a person appointed as administrator under section 23.
 approved abatement factor—see section 18.
 approved code of practice—see section 25.
-auditor means any of the following:
-  (a) an auditor registered under the Corporations Act;
-  (b) a member of the Institute of Chartered Accountants in Australia;
-  (c) a member of CPA Australia;
-  (d) a member of the Institute of Public Accountants.
 authorised person means a person appointed as an authorised person under section 30.
 carbon dioxide equivalent, of greenhouse gas emissions, means the mass of carbon dioxide measured in tonnes that has the same global warming potential as the gas emissions.
+compliance information, for part 4A (Information sharing)—see section 28A.
 compliance period—see section 12.
 connected, with an offence, for part 5 (Enforcement)—see section 29.
 eligible activity—see section 10.
@@ -25,7 +21,9 @@ energy savings contribution—see section 11.
 energy savings obligation—see section 13.
 energy savings target—see section 7.
 greenhouse gas means a gas mentioned in schedule 2, column 2.
+information requirement, for division 5.5C (Information requirements)—see section 49H.
 NERL retailer means a person who holds a retailer authorisation under the National Energy Retail Law (ACT) to sell electricity to premises in the ACT for consumption.
+non-territory agency, for part 4A (Information sharing)—see section 28A.
 occupier, of premises, for part 5 (Enforcement)—see section 29.
 offence, for part 5 (Enforcement)—section 29.
 priority household means residential premises in which 1 person who lives at the premises—
@@ -35,6 +33,8 @@ priority household means residential premises in which 1 person who lives at the
   (d) is within a class of people prescribed by regulation.
 priority household obligation—see section 15.
 priority household target—see section 8.
+rectification order—see section 49E (Rectification orders).
+regulatory agency, for part 4A (Information sharing)—see section 28A.
 retailer energy savings result—see section 20.
 retailer priority household result—see section 21.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 52.
