@@ -39,6 +39,9 @@ business, for part 3.6 (Voluntary transfers under Financial Sector (Business Tra
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
 charitable organisation means an association, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for the purpose of securing pecuniary benefits to its members.
+commercial lease, for chapter 2 (Transactions concerning dutiable property)––see section 6.
+commercial lease with premium, for chapter 2 (Transactions concerning dutiable property)––see section 6A.
+commercial purposes, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 commissioner means the commissioner for revenue.
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
 complying superannuation fund means an entity that is—
@@ -72,13 +75,6 @@ entity, for part 3.2 (Acquisition of interests in certain landholders)—see sec
 exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
-franchise means the package of rights held by a franchisee under a franchise arrangement.
-franchise arrangement means an agreement or other arrangement between 2 or more people by which 1 of them (the franchisor) authorises or permits another (the franchisee)—
-  (a) to engage in the business of offering, selling or distributing goods and services within or partly within the ACT, and the franchisee is required to do so—
-    (i) in accordance with a specified marketing, business or technical plan or system; and
-    (ii) under a common format or procedure (or format and procedure); and
-  (b) to use a mark or common trade name, in such a way that the business carried on by the franchisee is, or is capable of being, identified by the public as being substantially associated with the mark or name identifying, commonly connected with or controlled by the franchisor or a related person.
-franchisee—see the definition of franchise arrangement.
 FS (BTGR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 general insurance, for chapter 8 (Insurance)—see section 175.
 general insurer, for chapter 8 (Insurance)—see section 175.
@@ -124,11 +120,11 @@ life company—see the Life Insurance Act 1995 (Cwlth), schedule.
 life insurance, for chapter 8 (Insurance)—see section 175.
 life insurance rider, for chapter 8 (Insurance)—see section 175.
 listed trust means a unit trust scheme all of the units in which are listed for quotation on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
-long-term lease—see section 10 (1) (d), (e) and (f).
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
 managed investment scheme means a managed investment scheme within the meaning of the Corporations Act, section 9 that complies with that Act, chapter 5C, and includes a public unit trust scheme.
+market rent, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 market value, in relation to a motor vehicle, means the amount for which the motor vehicle might reasonably be sold, free of encumbrances, on the open market.
 marriage includes a void marriage.
 matrimonial property, of a marriage, means property of the parties to the marriage or of either of them.
@@ -141,9 +137,12 @@ paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—s
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
-partnership interest—see section 10 (1) (h).
+partnership interest—see section 10 (1) (e).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
-premium, in relation to general insurance for chapter 8 (Insurance)—see section 175.
+premium––
+  (a) for chapter 2 (Transactions concerning dutiable property)—see section 6; and
+  (b) in relation to general insurance, for chapter 8 (Insurance)—see section 175.
+primary production, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 private company means a company—
   (a) that is not limited by shares; or
   (b) whose shares are not quoted on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
@@ -171,6 +170,7 @@ related person means a person who is related to another person in accordance wit
 relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
 relevant acquisition, in relation to a person, for part 3.2 (Acquisition of interests in certain landholders)—see section 86.
 relevant period, for a relevant acquisition, for part 3.2 (Acquisition of interests in certain landholders)—see section 78.
+rent reserved, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 residential lease means a lease granted for residential purposes only.
 responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
