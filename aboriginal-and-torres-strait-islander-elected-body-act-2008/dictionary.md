@@ -39,11 +39,11 @@ government agency means—
   (a) an administrative unit; or
   (b) a territory instrumentality; or
   (c) a statutory office-holder and the staff required to assist the statutory office-holder.
-hour of nomination, for part 3 (ATSIEB elections)—see section 28.
-nomination close day, for part 3 (ATSIEB elections)—see section 28.
-nominee, for part 3 (ATSIEB elections)—see section 28.
+hour of nomination, for an ATSIEB election––see the Electoral Act, section 108 (3), as applied by section 31.
+Note Sch 1, pt 1.2, mod 1.14 modifies the Electoral Act, s 108 (3) in its application to this Act.
+nomination close day, for an ATSIEB election, means the Monday 33 days before the polling start day.
+nominee, for an ATSIEB election, means a person nominated as a candidate for the election.
 polling close day, for part 3 (ATSIEB elections)—see section 28.
 polling period, for part 3 (ATSIEB elections)—see section 28.
 polling start day, for part 3 (ATSIEB elections)—see section 28.
-pre-election period, for part 3 (ATSIEB elections)—see section 28.
 UNEC means the United Ngunnawal Elders Council.

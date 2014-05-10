@@ -25,7 +25,7 @@ substitute
 substitute
 (1) This section applies in relation to an ATSIEB election.
 (1A) For this Act, the roll for an ATSIEB election is closed during the period—
-  (a) starting at 5 pm on the Wednesday in April 12 days before the polling start day for the ATSIEB election; and
+  (a) starting at 5 pm on the Monday 12 days before the polling start day for the ATSIEB election; and
   (b) ending at the close of polling at the election.
 ## Part 1.2 Modifications of pt 9 (Arrangements for elections)
 [1.5] Eligibility—MLAs Section 103 (1) to (4)
@@ -604,6 +604,11 @@ partial failure, for part 13 (Casual vacancies)—see section 190.
 [1.106] Definition of polling place
 substitute
 polling place means a place appointed to be a polling place under section 119.
+[1.106A] Definition of pre-election period
+substitute
+pre-election period, for an ATSIEB election, means the period––
+  (a) starting at 9 am on the first day when a person may be nominated as a candidate for the election; and
+  (b) ending at the end of the last day when an elector may vote in the election.
 [1.107] New definition of review panel
 insert
 review panel means the panel established under section 125A.
