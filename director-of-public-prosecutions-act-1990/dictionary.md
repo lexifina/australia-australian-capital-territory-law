@@ -12,7 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · magistrate
 · Magistrates Court
 · notifiable instrument (see s 10)
-· person
+· person (see s 160)
 · proceeding
 · territory law.
 Commonwealth Act means the Director of Public Prosecutions Act 1983 (Cwlth).
