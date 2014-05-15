@@ -26,7 +26,9 @@ Note 3 This dictionary defines some key words and expressions that may not be us
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 alcohol awareness course—see the Road Transport (Driver Licensing) Regulation 2000, section 73I.
-all reasonable steps, for division 3.3 (Infringement notice offences involving registrable vehicles—responsible person’s liability)—see section 32.
+all reasonable steps—
+  (a) for division 3.3 (Infringement notice offences involving registrable vehicles—responsible person’s liability)—see section 32; and
+  (b) for division 3.3A (Demerit points offences—corporation’s liability)—see section 41.
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
@@ -51,10 +53,12 @@ Note 2 Wheelchair, wheeled recreational device and wheeled toy—see the Austral
 camera-detected offence means an offence detected by an approved camera detection device or an approved average speed detection system.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+corporation’s vehicle, for division 3.3A (Demerit points offences—corporation’s liability)—see section 40.
 credit card includes a debit card.
 CTP arbitrator, for part 7 (Notification and review of decisions)—see section 90.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
 decision-maker, for part 7 (Notification and review of decisions)—see section 90.
+demerit points offence—see the Road Transport (Driver Licensing) Act 1999, section 13.
 drive, a vehicle, includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
   (b) if the vehicle is a trailer—draw or tow the vehicle; and

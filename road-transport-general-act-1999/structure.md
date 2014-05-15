@@ -11,6 +11,7 @@
 ### Division 3.2A Infringement notice management plans
 ### Division 3.2B Waiver of infringement notice penalties
 ### Division 3.3 Infringement notice offences involving registrable vehicles—responsible person’s liability
+### Division 3.3A Demerit points offences—corporation’s liability
 ### Division 3.4 Enforcement procedures
 ### Division 3.5 Disputing liability
 ### Division 3.6 Miscellaneous
