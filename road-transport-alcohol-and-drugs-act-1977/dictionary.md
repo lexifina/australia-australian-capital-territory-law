@@ -45,9 +45,10 @@ disqualifying offence means an offence against—
   (b) section 20 (Prescribed drug in oral fluid or blood––driver or driver trainer); or
   (c) section 22 (Refusing to provide breath sample); or
   (d) section 22A (Refusing to provide oral fluid sample); or
-  (e) section 23 (Refusing blood test etc); or
-  (f) section 24 (Driving under the influence of intoxicating liquor or a drug); or
-  (g) another provision of this Act prescribed by regulation.
+  (e) section 22C (Refusing to undergo screening test); or
+  (f) section 23 (Refusing blood test etc); or
+  (g) section 24 (Driving under the influence of intoxicating liquor or a drug); or
+  (h) another provision of this Act prescribed by regulation.
 drive a motor vehicle includes—
   (a) start or attempt to start the engine of the vehicle; and
   (b) put or attempt to put the vehicle in motion; and
