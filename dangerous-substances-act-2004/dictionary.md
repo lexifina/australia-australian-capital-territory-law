@@ -12,7 +12,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · fire brigade
 · found guilty
 · home address
-· indictable offence (see s 190)
 · instrument (see s 14)
 · notification (see s 63)
 · penalty unit (see s 133)
@@ -159,3 +158,4 @@ system includes the following:
   (h) a system that includes any combination of the systems mentioned in paragraphs (a) to (g).
 trade or commerce includes a business or professional activity.
 vehicle means any kind of vehicle on wheels (including a vehicle used on railways or tramways), and includes an aircraft or vessel used on water.
+WHS Act means the Work Health and Safety Act 2011.
