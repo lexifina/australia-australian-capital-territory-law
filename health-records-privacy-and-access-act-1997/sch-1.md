@@ -1,16 +1,16 @@
 # Schedule 1 The privacy principles
 (see s 5)
 ## Principle 1: Manner and purpose of collection of personal health information
-1 A collector shall not collect personal health information for inclusion in a health record or in a generally available publication unless—
+1 A collector must not collect personal health information for inclusion in a health record or in a generally available publication unless—
   (a) the information is collected for a lawful purpose that is directly related to a function or activity of the collector; and
   (b) the collection of the information is necessary for or directly related to that purpose.
-2 A collector shall not collect personal health information by unlawful or unfair means.
+2 A collector must not collect personal health information by unlawful or unfair means.
 3 Where personal health information or health records are required to be collected by someone as part of his or her employment for the management, funding or quality of a health service received by the consumer, then that person is allowed access to the information only for those purposes, unless these principles otherwise provide.
 ## Principle 2: Purpose of collection of personal health information to be made known
 1 Subject to clause 2 of this principle, where—
   (a) a collector collects personal health information for inclusion in a health record or in a generally available publication; and
   (b) the information is solicited by the collector from the consumer concerned;
-the collector shall take such steps (if any) as are reasonable in the circumstances to ensure that, before the information is collected or, if that is not practicable, as soon as practicable after the information is collected, the consumer is generally aware of—
+the collector must take such steps (if any) as are reasonable in the circumstances to ensure that, before the information is collected or, if that is not practicable, as soon as practicable after the information is collected, the consumer is generally aware of—
   (c) the purpose for which the information is being collected; and
   (d) if the collection of the information is required or authorised by law—the fact that the collection of the information is so required or authorised; and
   (e) unless it is obvious from the circumstances of any health service provided—the identity of all members of the treating team who will have access to the consumer’s personal health information; and
@@ -21,7 +21,7 @@ the collector shall take such steps (if any) as are reasonable in the circumstan
 Where—
   (a) a collector collects personal health information about a consumer for inclusion in a record or in a generally available publication; and
   (b) the information is solicited by the collector;
-the collector shall take such steps (if any) as are reasonable in the circumstances to ensure that, having regard to the purpose for which the information is collected—
+the collector must take such steps (if any) as are reasonable in the circumstances to ensure that, having regard to the purpose for which the information is collected—
   (c) the information is relevant, up to date and accurate; and
   (d) the collection of the information does not intrude to an unreasonable extent upon the personal affairs of the consumer.
 ## Principle 4.1: Storage, security and destruction of personal health information—safekeeping requirement
@@ -55,7 +55,7 @@ Note Entity includes a person (see Legislation Act, dict, pt 1).
 1 Health information may be kept by a health service provider if it is needed for the purpose for which it was collected, or another purpose allowed under a law of the Territory, even if its destruction is allowed under principle 4.1.
 2 An entity other than a health service provider must take reasonable steps to destroy, or permanently deidentify, health information if it is no longer needed for the purpose for which it was collected or for any other purpose allowed under a law of the Territory.
 ## Principle 5: Information relating to records kept by record keeper
-1 A record keeper who has possession or control of health records shall, subject to clause 2 of this principle, take such steps as are reasonable in the circumstances to enable any consumer to ascertain—
+1 A record keeper who has possession or control of health records must, subject to clause 2 of this principle, take such steps as are reasonable in the circumstances to enable any consumer to ascertain—
   (a) whether the record keeper has possession or control of any health records, or personal health information, relating to the consumer; and
   (b) if so—
     (i) the nature of the records or information; and
@@ -75,28 +75,28 @@ Note Section 17 deals with information subject to confidentiality.
   (b) a law of the Commonwealth; or
   (c) an order of a court.
 ## Principle 7: Alteration of health records
-1 A person shall not delete information from a health record, even where it is later found or claimed to be inaccurate, unless the deletion is part of a program of archival destruction.
-2 A record keeper who has possession or control of a health record shall take such steps, by way of making appropriate corrections and additions as are reasonable in the circumstances, to ensure that the record is—
+1 A person must not delete information from a health record, even where it is later found or claimed to be inaccurate, unless the deletion is part of a program of archival destruction.
+2 A record keeper who has possession or control of a health record must take such steps, by way of making appropriate corrections and additions as are reasonable in the circumstances, to ensure that the record is—
   (a) up to date and accurate; and
   (b) relevant to the purpose for which the information was collected or is to be used and to any other purpose that is directly related to that purpose.
 3 Where—
   (a) the record keeper of a health record is not willing to amend that record, by making a correction or an addition, in accordance with a request by the consumer concerned; and
   (b) no decision or recommendation to the effect that the record should be amended wholly or partly in accordance with that request is pending, or has been made, under a law of the Territory (including this Act) or a law of the Commonwealth;
-the record keeper shall, if the consumer gives to the record keeper a written statement concerning the requested correction or addition, take such steps as are reasonable in the circumstances to include the statement in the record.
+the record keeper must, if the consumer gives to the record keeper a written statement concerning the requested correction or addition, take such steps as are reasonable in the circumstances to include the statement in the record.
 4 Where the record keeper accepts the need to amend the health record but—
   (a) the record keeper considers it likely that leaving incorrect information on a health record, even if corrected, could cause harm to the consumer or result in incorrect health care treatment or assistance being provided; or
   (b) the form in which the record is held makes correction impossible; or
   (c) the corrections required are sufficiently complex or numerous for a real possibility of confusion or error to arise in relation to interpreting or reading the record if it were to be so amended;
-the record keeper shall place the incorrect information on a record which is not generally available to the consumer’s treating practitioner or treating team, and to which access is restricted, and take such steps as are reasonable in the circumstances to ensure that only the corrected copy is generally available to the practitioner or treating team.
+the record keeper must place the incorrect information on a record which is not generally available to the consumer’s treating practitioner or treating team, and to which access is restricted, and take such steps as are reasonable in the circumstances to ensure that only the corrected copy is generally available to the practitioner or treating team.
 ## Principle 8: Record keeper to check accuracy etc of personal health information before use etc
-1 A record keeper who has possession or control of a health record shall not use personal health information in that record without taking such steps (if any) as are reasonable in the circumstances to ensure that, having regard to the purpose for which the information is proposed to be used, the information is up to date and accurate.
-2 Where a person gives information in confidence to a health service provider about a consumer, the provider shall—
+1 A record keeper who has possession or control of a health record must not use personal health information in that record without taking such steps (if any) as are reasonable in the circumstances to ensure that, having regard to the purpose for which the information is proposed to be used, the information is up to date and accurate.
+2 Where a person gives information in confidence to a health service provider about a consumer, the provider must—
   (a) encourage the person to waive the requirement of confidentiality; and
   (b) if the information remains confidential—
     (i) record the information only if it is likely to assist in the treatment or care of the consumer; and
     (ii) take such steps (if any) as are reasonable in the circumstances to ensure that the information is accurate and not misleading.
 ## Principle 9: Limits on use of personal health information
-1 Except where personal health information is being shared between members of a treating team to the extent necessary to improve or maintain the consumer’s health or to manage a disability of the consumer, a record keeper who has possession or control of a health record that was obtained for a particular purpose shall not use the information for any other purpose unless—
+1 Except where personal health information is being shared between members of a treating team to the extent necessary to improve or maintain the consumer’s health or to manage a disability of the consumer, a record keeper who has possession or control of a health record that was obtained for a particular purpose must not use the information for any other purpose unless—
   (a) the consumer has consented to use of the information for that other purpose; or
   (b) the record keeper believes on reasonable grounds that use of the information for that other purpose is necessary to prevent or lessen a significant risk to the life or physical, mental or emotional health of the consumer or another person; or
   (c) use of the information for that other purpose is required or authorised by—
@@ -105,7 +105,7 @@ the record keeper shall place the incorrect information on a record which is not
     (iii) an order of a court of competent jurisdiction;
   (d) the purpose for which the information is used is directly related to the purpose for which the information was obtained; or
   (e) the use of the information is related to the management, funding or quality of the health service received by the consumer.
-2 In relation to the sharing of information among a treating team, unless it is obvious from the circumstances or context of the health service, the person in charge of the treating team shall inform the consumer of the identity of all members of the treating team who will have access to the consumer’s personal health information.
+2 In relation to the sharing of information among a treating team, unless it is obvious from the circumstances or context of the health service, the person in charge of the treating team must inform the consumer of the identity of all members of the treating team who will have access to the consumer’s personal health information.
 3 The treating team leader is not required to notify the consumer of the identity of individuals, or of classes of individuals, who are required for the management, funding or quality of the health service received by the consumer to handle health records or personal health information.
 ## Principle 10: Limits on disclosure of personal health information
 1 A record keeper who has possession or control of a health record must not disclose personal health information about a consumer from the record to an entity other than the consumer.
@@ -192,7 +192,7 @@ Note 2 A fee may be payable by the consumer for certain types of access (see s 1
   (a) an advice under clause 11 need not be in writing; and
   (b) the record keeper may be satisfied that a consumer is receiving or needs urgent health services without an advice mentioned in clause 11.
 13 The requirement under clause 5, clause 6 or clause 7 to give a copy of the consumer’s health record is taken to be satisfied if the original of the record is given.
-14 To avoid doubt, clause 13 does not require a provider to give the original of the consumer’s health record.
+14 To remove doubt, clause 13 does not require a provider to give the original of the consumer’s health record.
 15 In this principle:
 health record means a health record held by, or on behalf of, the provider.
 health service practice means the business or premises where a health service provider provides health services.
@@ -220,7 +220,7 @@ transfer request period—see clause 3 (b).
   (a) an advice under clause 5 need not be in writing; and
   (b) the record keeper may be satisfied that a consumer is receiving or needs urgent health services without an advice mentioned in clause 5.
 7 The requirement under clause 2 (b), clause 3 or clause 4 to give a copy of the consumer’s health record to the second provider is taken to be satisfied if the original of the record is given.
-8 To avoid doubt, clause 7 does not require the first provider to give the original of the consumer’s health record to the second provider.
+8 To remove doubt, clause 7 does not require the first provider to give the original of the consumer’s health record to the second provider.
 9 In this principle:
 first provider—
   (a) see clause 1; and
@@ -244,7 +244,7 @@ transfer request—see clause 2.
   (a) an advice under clause 5 need not be in writing; and
   (b) the record keeper may be satisfied that a consumer is receiving or needs urgent health services without an advice mentioned in clause 5.
 7 The requirement under clause 2 (b), clause 3 or clause 4 to give a copy of the consumer’s health record to the provider is taken to be satisfied if the original of the record is given.
-8 To avoid doubt, clause 7 does not require the first practice to give the original of the consumer’s health record to the provider.
+8 To remove doubt, clause 7 does not require the first practice to give the original of the consumer’s health record to the provider.
 9 In this principle:
 first practice—see clause 1.
 health record means a health record held by, or on behalf of, the first provider.
