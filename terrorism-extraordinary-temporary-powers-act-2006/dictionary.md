@@ -23,7 +23,7 @@ engage in conduct means—
 frisk search—see schedule 1, section 1.2.
 harm, to a person—see the Criminal Code, dictionary.
 identification material, for a person—see section 9.
-impaired decision-making ability—see the Guardianship and Management of Property Act 1991, section 6.
+impaired decision-making ability—see the Guardianship and Management of Property Act 1991, section 5.
 interim preventative detention order (or interim order)—see section 9.
 investigative authorisation—see section 63.
 nominated senior police officer, in relation to a preventative detention order made for a person—see section 36.
