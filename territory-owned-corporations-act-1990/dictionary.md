@@ -12,7 +12,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory
 · Treasurer
 · under.
-borrowing, in relation to a territory-owned corporation or subsidiary, includes raising money or obtaining credit, whether by entering into a financing lease, dealing with securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the corporation or subsidiary.
+borrowing, in relation to a territory-owned corporation or subsidiary—
+  (a) includes raising money or obtaining credit, whether by entering into a financing lease, dealing with securities or otherwise; but
+  (b) does not include obtaining credit in a transaction forming part of the day-to-day operations of the corporation or subsidiary.
 Example
 If a territory-owned corporation or subsidiary obtains credit by entering into a financing lease as part of its day-to-day operations, the transaction is not borrowing.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
