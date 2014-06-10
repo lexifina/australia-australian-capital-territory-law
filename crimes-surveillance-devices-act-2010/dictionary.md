@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · Commonwealth
+· coroner
 · function
 · in relation to
 · judge
@@ -88,7 +89,7 @@ surveillance device means—
   (c) a device of a kind prescribed by regulation.
 surveillance device warrant means a warrant issued under division 2.2 (Surveillance device warrants) or under section 29 (3) (Judge may approve emergency use of powers).
 tracking device means an electronic device capable of being used to work out or monitor the location of a person or an object or the status of an object.
-unsworn application for a warrant, means an application mentioned in section 11 (4) (Application for surveillance device warrant) or section 19 (4) (Application for retrieval warrant).
+unsworn application, for a warrant, means an application under section 11 (4) or section 19 (4).
 use, of a surveillance device, includes use of the device to record a conversation or other activity.
 vehicle includes aircraft and vessel.
 warrant means surveillance device warrant or retrieval warrant.
