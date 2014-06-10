@@ -11,7 +11,7 @@ director-general (see s 163)
 · exercise
 · function
 · home address
-· Minister
+· Minister (see s 162)
 · national capital authority
 · planning and land authority
 · reviewable decision notice
@@ -59,7 +59,7 @@ owner, of a place, means—
 partial cancellation, for part 7 (Cancellation of registration)—see section 50.
 place—see section 8 (1).
 premises includes land.
-public authority, for part 16 (Heritage and public authorities)—see section 106
+public authority, for part 16 (Heritage and public authorities)—see section 106.
 public consultation period—
   (a) for division 6.2 (Registration)—see section 37; and
   (b) for part 7 (Cancellation of registration)—see section 46.
