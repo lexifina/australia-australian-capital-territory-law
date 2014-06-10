@@ -119,6 +119,7 @@ conservator of flora and fauna means the Conservator of Flora and Fauna under th
 construction occupations registrar means the Australian Capital Territory Construction Occupations Registrar under the Construction Occupations (Licensing) Act 2004.
 contravene includes fail to comply with.
 converted ordinance means an enactment that was an ordinance immediately before self-government day.
+coroner means a coroner under the Coroners Act 1997.
 Coroner’s Court means the Coroner’s Court under the Coroners Act 1997.
 corporation includes a body politic or corporate.
 Corporations Act means the Corporations Act 2001 (Cwlth).
