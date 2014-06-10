@@ -17,14 +17,13 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · property
 · quarter
 · sentence administration board
-· sitting day
 · Supreme Court
 · the Territory.
 adult offender—see section 12.
 child victim—see section 11.
 commission, of an offence that is alleged to have been committed—see section 12.
 convenor means a person appointed as a convenor for part 8 (Restorative justice conferences and agreements) under section 40.
-court referral order—see section 27 (2) (Referral during court proceeding).
+court referral order—see section 27 (2).
 director-general (children and young people)—see section 22 (2).
 director-general (corrections)—see section 22 (2).
 director-general (restorative justice)—see section 22 (2).
@@ -46,10 +45,10 @@ referring entity—
   (c) for division 9.2 (Reporting and records)—see section 67.
 required participant, in a restorative justice conference, for part 8 (Restorative justice conferences and agreements)—see section 42.
 restorative justice—see section 10.
-restorative justice agreement—see section 50 (Agreement as object of conference).
+restorative justice agreement—see section 50.
 restorative justice conference means a conference called for part 8 (Restorative justice conferences and agreements).
 restorative justice guidelines—see section 61.
-section 24 referral conditions—see section 24 (Referral power).
+section 24 referral conditions—see section 24.
 sentence-related order, for an offender who is found guilty of an offence—see section 13.
 serious offence—see section 12.
 substitute participant, for part 8 (Restorative justice conferences and agreements)—see section 43.
