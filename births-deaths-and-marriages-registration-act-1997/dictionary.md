@@ -7,8 +7,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · change
 · civil partnership
 · civil union
-· civil union partner
 · Commonwealth
+· coroner
 · doctor
 · exercise
 · fail
