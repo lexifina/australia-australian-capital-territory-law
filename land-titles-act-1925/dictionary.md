@@ -20,8 +20,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · registrar-general
 · territory lease
 · under.
-administrative interest—see section 69A (Meaning of administrative interest—Act).
-authorised entity—see section 69B (Meaning of authorised entity—pt 8A).
+administrative interest—see section 69A.
+authorised entity, for part 8A (Record of administrative interests)—see section 69B.
 caveator means the person by whom or on whose behalf a caveat has been lodged under this Act.
 computer folio means a folio of the register that is kept or maintained in or on a computer.
 court means the Supreme Court or any other court having jurisdiction in relation to the matters mentioned in this Act.
@@ -32,7 +32,7 @@ Crown lease means—
 encumbrance means any charge on land created for the purpose of securing the payment of an annuity or sum of money other than a debt.
 encumbrancee means the proprietor of an encumbrance.
 encumbrancer means the proprietor of any land or of any interest in land subject to an encumbrance.
-Federal Capital Commission means the Federal Capital Commission under the Seat of Government (Administration) Act 1924 (Cwlth).
+Federal Capital Commission means the Federal Capital Commission under the Seat of Government (Administration) Act 1924 (Cwlth) (repealed).
 grant means the grant by the Crown of land for a term of years, and includes—
   (a) a grant by or in the name of the Commonwealth or by the Federal Capital Commission; and
   (b) the grant of a new lease over part of the land in a surrendered lease.
