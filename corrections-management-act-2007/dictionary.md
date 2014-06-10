@@ -2,7 +2,6 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· bankrupt or personally insolvent
 · chief police officer
 · civil partnership
 · civil union
@@ -23,9 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ombudsman
 · police officer
 · public advocate
-· public employee
 · public servant
-· quarter
 · sentence administration board
 · transgender person (see s 169A (1) and (2))
 · tribunal.
