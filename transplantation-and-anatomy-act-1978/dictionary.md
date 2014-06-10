@@ -4,18 +4,18 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · chief health officer
+· coroner
 · doctor
 · enrolled nurse
 · judge
 · nurse
 · penalty unit (see s 133)
-· person
+· person (see s 160)
 · Supreme Court.
 child means a person who—
   (a) has not turned 18 years old; and
   (b) is not in a domestic partnership.
 Note For the meaning of domestic partnership, see Legislation Act, s 169.
-coroner means a person who is a coroner for the ACT.
 designated officer, in relation to a hospital, means a person appointed under section 5 to be a designated officer for that hospital.
 next of kin means—
   (a) for a dead child—someone mentioned in the definition of senior available next of kin, paragraph (a) (i), (ii) or (iii); or
