@@ -122,3 +122,4 @@
 ### Division 8.3.3 Rules for incorporated legal practices and multidisciplinary partnerships
 ### Division 8.3.4 General
 # Chapter 9 General provisions
+# Chapter 12 Transitional—Justice and Community Safety Legislation Amendment Act 2014

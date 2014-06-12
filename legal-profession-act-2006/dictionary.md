@@ -204,7 +204,6 @@ legal practitioner partner, of a multidisciplinary partnership—see section 99.
 legal profession rules means rules made under part 7.4.
 legal services means work done, or business transacted, in the ordinary course of legal practice.
 lender, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
-licensing body means the law society council.
 litigious matter, for part 3.2 (Costs disclosure and assessment)—see section 261.
 local lawyer—see section 7.
 local legal practitioner—see section 8.
@@ -262,10 +261,9 @@ regulatory authority means—
     (iii) if a regulation prescribes 1 or more regulatory authorities for the other jurisdiction either generally or for particular purposes—the prescribed regulatory authority or authorities.
 related body corporate, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
 relevant council means—
-  (a) in relation to an Australian legal practitioner who is, or a former Australian legal practitioner who was, a barrister or who is an applicant for grant of a barrister practising certificate—the bar council; or
-  (b) in relation to an Australian legal practitioner who is, or a former Australian legal practitioner who was, a solicitor or who is an applicant for grant of an unrestricted practising certificate or a restricted practising certificate—the law society council; or
-  (c) in relation to an employee, or former employee, of a solicitor—the law society council;
-and includes the law society council in relation to the exercise of a function by the law society council as the licensing body.
+  (a) in relation to a barrister or former barrister (including an applicant for grant of a barrister practising certificate or an overseas-registered foreign lawyer seeking a local registration certificate)—the bar council; or
+  (b) in relation to a solicitor or former solicitor (including an applicant for grant of an unrestricted practising certificate or a restricted practising certificate or an overseas-registered foreign lawyer seeking a local registration certificate)—the law society council; or
+  (c) in relation to an employee, or former employee, of a solicitor—the law society council.
 relevant jurisdiction, for part 3.4 (Fidelity cover)—see section 327.
 responsible entity, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 restricted practising certificate means a local practising certificate or interstate practising certificate that is not an unrestricted practising certificate or barrister practising certificate.
