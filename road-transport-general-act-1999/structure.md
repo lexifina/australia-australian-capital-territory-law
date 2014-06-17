@@ -22,7 +22,7 @@
 ### Division 4.4 Proceedings for offences under road transport legislation
 ### Division 4.5 Miscellaneous
 ## Part 5 Further provisions about vehicles, roads and road related areas
-### Division 5.1 Police powers
+### Division 5.1 Other powers
 ### Division 5.2 Unauthorised use of vehicles
 ### Division 5.3 Written-off vehicles register
 ## Part 6 Fine defaulters
