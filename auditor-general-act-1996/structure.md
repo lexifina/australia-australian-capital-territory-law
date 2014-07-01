@@ -14,9 +14,9 @@
 ### Division 3.5 Audit of non-public sector entities
 ### Division 3.6 Power to obtain information
 ### Division 3.7 Reports for Legislative Assembly
-## Part 4 Administration
 ## Part 5 Review of auditor-general
 ### Division 5.1 Strategic review of auditor-general
 ### Division 5.2 Independent financial audit of auditor-general
 ## Part 5A Protected information
 ## Part 6 Miscellaneous
+## Part 10 Transitional—Officers of the Assembly Legislation Amendment Act 2013
