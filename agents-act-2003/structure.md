@@ -17,7 +17,6 @@
 ### Division 5.4 Conflicts of interest
 ### Division 5.5 Advertisements and other statements
 ### Division 5.6 Land—further provisions
-### Division 5.7 Travel agents—further provisions
 ### Division 5.8 Employment agents—further provisions
 ### Division 5.9 Other offences
 ## Part 6 Agency agreements
@@ -37,3 +36,4 @@
 ## Part 11 Administration
 ## Part 12 Notification and review of decisions
 ## Part 13 Miscellaneous
+## Part 21 Transitional—Justice and Community Safety Legislation Amendment Act 2014
