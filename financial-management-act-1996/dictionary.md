@@ -9,6 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · authorised deposit-taking institution
 · bankrupt or personally insolvent
 · director-general (see s 163)
+· electoral commission
+· electoral commissioner
 · exercise
 · found guilty
 · function
@@ -17,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Minister (see s 162)
 · must (see s 146)
 · Office of the Legislative Assembly
+· officer of the Assembly
 · person
 · reviewable decision notice
 · Self-Government Act
