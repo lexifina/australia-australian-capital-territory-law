@@ -9,6 +9,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · Corporations Act
 · director-general (see s 163)
 · Office of the Legislative Assembly
+· officer of the Assembly
 · Territory owned corporation
 · the Territory.
 board means the Australian Capital Territory Government Procurement Board established under section 5.
@@ -34,6 +35,7 @@ responsible chief executive officer means––
   (a) for a directorate—the responsible director-general of the directorate under the Financial Management Act 1996; or
   (b) for a territory authority—the chief executive officer of the authority under the Financial Management Act 1996; or
   (c) for a joint venture or trust in which the Territory or a territory entity has a controlling interest—the responsible director-general of the directorate or territory entity that is responsible for matters most closely related to that interest; or
-  (d) for the Office of the Legislative Assembly—the clerk of the Legislative Assembly.
+  (d) for the Office of the Legislative Assembly—the clerk of the Legislative Assembly; or
+  (e) for an officer of the Assembly—the officer.
 responsible Territory entity, for a contract or proposed contract, for part 3 (Notifiable contracts)—see section 24.
 Territory entity—see section 3.
