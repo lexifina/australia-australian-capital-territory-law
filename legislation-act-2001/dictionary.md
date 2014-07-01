@@ -324,6 +324,10 @@ Note Occupational discipline orders are made under the ACT Civil and Administrat
 occupy a position includes hold the position, act in the position or exercise functions of the position (including under a delegation or subdelegation).
 office includes position.
 Office of the Legislative Assembly means the Office of the Legislative Assembly established under the Legislative Assembly (Office of the Legislative Assembly) Act 2012.
+officer of the Assembly means—
+  (a) the auditor-general; or
+  (b) the electoral commissioner; or
+  (c) the ombudsman.
 official visitor means an official visitor appointed under the Official Visitor Act 2012, section 10.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
