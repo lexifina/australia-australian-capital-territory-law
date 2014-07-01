@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Legislative Assembly
 · Minister (see s 162)
 · Office of the Legislative Assembly
+· officer of the Assembly
 · ombudsman
 · statutory office-holder
 · Supreme Court
@@ -33,14 +34,15 @@ disclosure officer, for a public interest disclosure—see section 11.
 head, of a public sector entity—see section 13.
 head of service—see the Public Sector Management Act 1994, dictionary.
 investigating entity, for a public interest disclosure, means—
-  (g) the head of the public sector entity to whom the disclosure relates; or
-  (h) if section 18 (2) (a) or (b) (Investigation of public interest disclosure) applies—the head of service; or
-  (i) if section 18 (2) (c) applies—the ombudsman or the head of the entity to whom the ombudsman has referred the disclosure; or
-  (j) if section 19 (Referral to another public sector entity) applies—the head of the entity to whom the disclosure is referred.
+  (a) the head of the public sector entity to whom the disclosure relates; or
+  (b) if section 18 (2) (a) or (b) (Investigation of public interest disclosure) applies—the head of service; or
+  (c) if section 18 (2) (c) applies—the ombudsman or the head of the entity to whom the ombudsman has referred the disclosure; or
+  (d) if section 19 (Referral to another public sector entity) applies—the head of the entity to whom the disclosure is referred.
 Legislative Assembly entity means any of the following:
   (a) a member of the Legislative Assembly;
   (b) the Office of the Legislative Assembly;
-  (c) a person employed under the Legislative Assembly (Members’ Staff) Act 1989.
+  (c) a person employed under the Legislative Assembly (Members’ Staff) Act 1989;
+  (d) an officer of the Assembly.
 protected information—see section 44 (6).
 public interest disclosure—see section 7.
 public interest disclosure procedures means procedures under section 33 (1).
