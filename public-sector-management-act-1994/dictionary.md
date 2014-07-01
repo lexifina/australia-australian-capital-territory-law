@@ -14,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · magistrate
 · occupy
 · Office of the Legislative Assembly
+· officer of the Assembly
 · Speaker
 · Supreme Court
 · the Territory.
@@ -37,15 +38,15 @@ authorised doctor means a doctor authorised by the head of service to—
   (b) make recommendations under this Act in relation to redeployment or retirement; and
   (c) make recommendations under this Act in relation to the health and physical fitness of officers whose appointment to the service on probation has not been confirmed.
 autonomous instrumentality means—
-  (a) the auditor-general’s office; or
-  (b) the Office of the Director of Public Prosecutions; or
-  (c) the Office of the Legislative Assembly.
+  (a) the Office of the Director of Public Prosecutions; or
+  (b) the Office of the Legislative Assembly; or
+  (c) an officer of the Assembly.
 chief executive officer means—
   (a) in relation to a territory instrumentality—the person who has responsibility for managing the affairs of the instrumentality; and
   (b) in relation to an autonomous instrumentality—
-    (i) for the auditor-general’s office—the auditor-general; and
-    (ii) for the Office of the Director of Public Prosecutions—the director of public prosecutions; and
-    (iii) for the Office of the Legislative Assembly—the clerk of the Legislative Assembly.
+    (i) for the Office of the Director of Public Prosecutions—the director of public prosecutions; and
+    (ii) for the Office of the Legislative Assembly—the clerk of the Legislative Assembly; and
+    (iii) for an officer of the Assembly—the officer.
 classification means—
   (a) in relation to an executive office—a description that identifies the class of offices to which the office belongs, being a class of offices with the same range of salaries; and
   (b) in relation to an office that is not an executive office—a description that identifies the class of offices to which the office belongs, being a class of offices that are of a similar kind, that have responsibilities of a similar level, the performance of the duties of which requires work of similar value and the salary, or range of salaries, applicable to which are the same; and
