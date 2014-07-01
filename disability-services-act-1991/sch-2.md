@@ -8,7 +8,7 @@
 6 Programs and services should be designed and administered so as to promote recognition of the competence of, and enhance the image of, people with disabilities.
 7 Programs and services should be designed and administered so as to promote the participation of people with disabilities in the life of the local community through maximum physical and social integration in that community.
 8 Programs and services should be designed and administered so as to ensure that no single organisation providing services exercises control over all or most aspects of the life of a person with disabilities.
-9 Organisations providing services, whether those services are provided specifically to people with disabilities or generally to the community, should make available information from that the quality of their services can be judged.
+9 Organisations providing services, whether those services are provided specifically to people with disabilities or generally to the community, should make available information from which the quality of their services can be judged.
 10 Programs and services should be designed and administered so as to provide opportunities for people with disabilities to reach goals and enjoy lifestyles that are valued by the community generally and are appropriate to their age.
 11 Services should be designed and administered so as to ensure that people with disabilities have access to advocacy support where necessary to ensure adequate participation in decision making about the services they receive.
 12 Programs and services should be designed and administered so as to ensure that appropriate avenues exist for people with disabilities to raise and have resolved any grievances about services.
