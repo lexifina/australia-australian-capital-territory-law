@@ -1,11 +1,12 @@
 ## Part 1 Preliminary
 ## Part 2 Australian Capital Territory Electoral Commission
-### Division 2.1 Establishment, functions and powers of electoral commission
-### Division 2.2 Members of electoral commission
-### Division 2.3 Meetings
-## Part 3 Electoral commissioner and staff of electoral commission
-### Division 3.1 Electoral commissioner
-### Division 3.2 Staff of electoral commission
+### Division 2.1 Establishment and independence of electoral commission
+### Division 2.2 Functions of electoral commission
+### Division 2.3 Functions of electoral commissioner
+### Division 2.4 Appointment of members of electoral commission
+### Division 2.5 Other provisions applying to electoral commission members
+### Division 2.6 Electoral commission meetings
+### Division 2.7 Staff of electoral commissioner etc
 ## Part 4 Electorates
 ## Part 5 Electoral rolls
 ## Part 6 Enrolment
@@ -59,3 +60,4 @@
 ### Division 18.1 Injunctions
 ### Division 18.2 Prosecutions
 ## Part 19 Miscellaneous
+## Part 32 Transitional—Officers of the Assembly Legislation Amendment Act 2013

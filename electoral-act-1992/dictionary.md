@@ -66,7 +66,7 @@ certified extract of electors, for an election in an electorate—see section 12
 certified list of electors, for an election in an electorate—see section 121.
 closed, in relation to a roll, means closed in accordance with section 80.
 column, for schedule 2 (Ballot papers—printing of names and collation)—see schedule 2, clause 1.
-commissioner means the Electoral Commissioner appointed under section 22.
+commissioner means the Electoral Commissioner appointed under section 12.
 Commonwealth Electoral Act means the Commonwealth Electoral Act 1918 (Cwlth).
 Commonwealth roll means the roll of electors for the ACT required by the Commonwealth Electoral Act, section 81.
 continuing candidate—
@@ -134,7 +134,6 @@ internally reviewable decision, for part 15 (Notification and review of decision
 internal review notice—see section 244.
 investigation notice, for division 14.7 (Compliance)—see section 235.
 loan, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
-member, for division 2.2 (Members of electoral commission)—see section 11.
 MLA—
   (a) means a member of the Assembly; and
   (b) in division 14.3A (Administrative expenditure funding)—see section 215A.
@@ -194,6 +193,7 @@ related—2 political parties are taken to be related if—
 Example
 the ACT branch of a political party and the national secretariat of the same political party
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+relevant Assembly committee means the committee of the Legislative Assembly whose functions include the examination of electoral matters.
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291.
 reporting agent, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 research personnel, for part 11 (Polling in Antarctica)—see section 167.
