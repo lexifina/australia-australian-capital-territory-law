@@ -2,10 +2,10 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACT
-· Commonwealth
-· electoral commissioner
-· the Territory.
+• ACT
+• Commonwealth
+• electoral commissioner
+• the Territory.
 commissioner means the Electoral Commissioner appointed under the Electoral Act.
 concurrent referendum means a referendum held on the same day as the polling day for an election.
 declaration vote, in relation to a referendum, means a vote cast in accordance with the Electoral Act, division 10.3 as applied by this Act.
