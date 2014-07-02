@@ -45,4 +45,3 @@
 ## Part 12.3 Miscellaneous
 # Chapter 15 Transitional—Duties Amendment Act 2006 (No 2)
 ## Part 15.3 Transitional—unquoted marketable securities
-# Chapter 18 Transitional—Duties (Landholders) Amendment Act 2012
