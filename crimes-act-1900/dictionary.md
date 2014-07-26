@@ -33,7 +33,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · summary offence (see also s 190)
 · the Territory
 · transgender person (see s169A).
-ACAT, for part 13 (Unfitness to please and mental impairment)—see section 300.
+ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300.
 actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
 agent, for part 2A (Industrial manslaughter)—see section 49A.
 aggravated offence, for part 5 (Sexual servitude)—see section 81.
