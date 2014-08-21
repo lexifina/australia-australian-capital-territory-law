@@ -59,7 +59,7 @@ excluded offence means—
   (a) a minor offence; or
   (b) an offence against any of the following sections:
     (i) section 37 (Return of special licences);
-    (ii) section 82 (Cats in breach of cat curfew);
+    (ii) section 82 (Cats in breach of cat containment);
     (iii) section 105 (Exclusion of assistance animal from public place);
     (iv) section 106 (Imposition of excess charges for assistance animal);
     (v) section 142 (Dishonoured cheques and credit transactions).
