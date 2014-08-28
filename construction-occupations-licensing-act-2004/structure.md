@@ -24,6 +24,5 @@
 ## Part 11A Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 14 Transitional—Construction Occupations Legislation Amendment Act 2006
-## Part 18 Transitional—new licence application information
 ## Part 19 Transitional—rectification orders
 ## Part 20 Transitional—Construction and Energy Efficiency Legislation Amendment Act 2014 (No 2)
