@@ -5,4 +5,3 @@
 ## Part 3 Solicitor-general
 ## Part 4 Government solicitor
 ## Part 5 Miscellaneous
-## Part 6 Transitional
