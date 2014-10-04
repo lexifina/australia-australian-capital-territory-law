@@ -6,10 +6,13 @@
 ## Part 6 Registration of places and objects
 ### Division 6.1 Provisional registration
 ### Division 6.2 Registration
+### Division 6.3 Registration of place or object protected under Nature Conservation Act 1980
 ## Part 7 Cancellation of registration
-## Part 8 Discovery of Aboriginal places and objects
+## Part 8 Management of Aboriginal places and Aboriginal objects
 ## Part 9 Restricted information
 ## Part 10 Land development applications
+## Part 10A Tree damaging activity etc
+## Part 10B Permissions and approvals
 ## Part 11 Heritage directions
 ## Part 12 Civil protection of heritage
 ## Part 13 Heritage offences
@@ -24,3 +27,4 @@
 ## Part 16 Heritage and public authorities
 ## Part 17 Notification and review of decisions
 ## Part 18 Miscellaneous
+## Part 20 Transitional—Heritage Legislation Amendment Act 2014
