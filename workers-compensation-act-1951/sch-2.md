@@ -1,5 +1,5 @@
 # Schedule 2 Adjacent areas for States and Territories
-(see s 36B (8), def Territory or State)
+(see s 36B (10), def Territory or State)
 ## 2.1 Definitions—sch 2
 In this schedule:
 continental shelf—see the Seas and Submerged Lands Act, section 3 (1).
