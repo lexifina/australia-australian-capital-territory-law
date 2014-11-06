@@ -108,6 +108,7 @@ residential building, for part 6 (Residential buildings—statutory warranties, 
 residential building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 site work—see section 7A.
+site work notice, for division 3.3 (Building approvals)—see section 25AA.
 special actuary, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 122.
 specialist building work—see section 9.
 stage, of building work, means a stage prescribed under section 43 (1) (a).
