@@ -4,7 +4,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 1 | 7 (5), 13 (5), 26 (7), 35 (5) or 43 | refuse to issue licence | applicant for licence
 2 | 8 (1), 14 (1), 27 (1) or 36 (1) | issue licence subject to condition | applicant for licence
 3 | 8 (2), 14 (2), 27 (2) or 36 (2) | change licence condition | licensee
-4 | 10, 16, 30 or 38 | issue licence for shorter period than applied for | applicant for licence
+4 | 30 | issue licence for shorter period than applied for | applicant for licence
 5 | 41 (2) | not to consider application for licence | applicant for licence
 6 | 42 | about costs of application | applicant for licence
 7 | 44 | not to issue replacement licence | licensee
