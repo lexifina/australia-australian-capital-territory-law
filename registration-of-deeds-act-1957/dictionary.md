@@ -4,7 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · land
 · Minister (see s 162)
-· person
+· person (see s 160)
 · registrar-general.
 deed includes any instrument or document, whether under seal or not, other than—
   (a) a will; or
