@@ -27,6 +27,7 @@ firearm—
     (i) a blank fire firearm; or
     (ii) a paintball marker.
 ground water means water occurring or obtained from below the surface of the ground, including water occurring in or obtained from a bore or an aquifer, but not including water occurring in or obtained from any other system for the distribution, reticulation, transportation, storage or treatment of water or waste.
+hazardous component, of electronic waste, means any component of the electronic waste that has chemical, physical or biological properties with the potential to cause harm to a person, property or the environment.
 live animal weight, for animals, means the weight of the animals calculated on the basis that—
   (a) for birds—555 layer chickens, 1 100 broiler chickens, 310 ducks, 165 geese, 110 turkeys or 17 emus represent 1t; or
   (b) for a stock feedlot—2 cattle, 13 goats, 2 horses or 22 sheep represent 1t; or
@@ -100,7 +101,7 @@ column 1 item | column 2 activity
 27 | the management of a motor racing venue where motor racing events are held
 28 | lighting, using or maintaining a fire in the open air, or causing or permitting a fire to be lit, used or maintained in the open air, for the purpose of burning plant matter— (a) to reduce a fire hazard; or (b) to clear the land; or (c) to conserve biological diversity or ecological integrity Note The Emergencies Act 2004 contains an offence about lighting etc fire during a total fire ban (see that Act, s 116). That Act may also require the owner of land to obtain oral approval or a permit before lighting etc a fire on the land (see that Act, s 123 and s 124)..
 29 | the commercial use of chemical products registered under the Agricultural and Veterinary Chemicals Code as in force for the time being under the Agricultural and Veterinary Chemicals Code Act 1994 (Cwlth) for pest control or turf management
-30 | the operation of a facility designed to store more than 50m3 of petroleum products
+30 | the storage of petroleum products in a facility designed to store more than 50m3 of products
 31 | the production of petroleum products (other than the recovery, processing or disposal of petroleum product waste) at a facility designed to produce more than 100t of petroleum products per year
 32 | the operation of a facility that recovers, processes or disposes, or is intended by the operator to recover, process or dispose, of more than 20t of waste petroleum products per year
 33 | the operation of an aerodrome for helicopters (other than a facility used only for the emergency medical evacuation, retrieval or rescue of people by helicopter) if— (a) the aerodrome is operated for more than 2 weeks; and (b) the number of take-offs and landings by helicopters is, or is intended by the operator to be, more than 30 per week; and (c) the aerodrome is located less than 1km from a dwelling not associated with the aerodrome
@@ -118,6 +119,8 @@ column 1 item | column 2 activity
 45 | the sale or supply in the ACT of firewood to a person other than one mentioned in item 44
 46 | the cutting, storing or seasoning in preparation for sale or supply, of firewood in the ACT
 47 | the operation of a firearm shooting range Note A person commits an offence if the person operates a shooting range other than an approved shooting range. Also, a person commits an offence if the person operates an approved shooting range and is not licensed to operate the shooting range (see Firearms Act 1996, s 224).
+48 | the operation of a waste transfer station receiving 30 000t or more of waste each year
+49 | the operation of a commercial facility for the treatment of the hazardous components of electronic waste
 ## 1.3 Class B activities
 For section 42, the following activities are class B activities:
 Table 1.3
@@ -129,3 +132,4 @@ column 1 item | column 2 activity
 5 | management of municipal services maintenance on unleased land, being the maintenance of— (a) urban parkland or other municipal landscapes; or (b) public places, public roads or public footpaths; or (c) the stormwater system
 6 | wastewater recycling that discharges recycled water onto land or into a waterway if the recycling involves— (a) the treatment for the purpose of reuse of wastewater (including effluent) in a treatment plant that has a capacity of greater than 3ML per year; or (b) the reuse of more than 3ML per year
 7 | the commercial collection of waste from commercial premises
+8 | the operation of a commercial facility for the storage and dismantling of electronic waste
