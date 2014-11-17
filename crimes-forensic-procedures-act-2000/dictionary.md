@@ -14,6 +14,7 @@ entity (see s 184A)
 function
 · health practitioner
 human rights commissioner
+· information privacy commissioner
 intersex person (see s 169B)
 law, of the Territory
 lawyer
@@ -21,7 +22,6 @@ magistrate
 nurse
 ombudsman
 police officer
-privacy commissioner
 State
 summary offence (see s 190)
 · territory law
