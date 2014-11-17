@@ -24,6 +24,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · human rights commission
 · indictable offence (s 190)
 · individual
+· information privacy commissioner
 · in relation to
 · intersex person (see s 169B)
 · judge
@@ -38,7 +39,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · parent
 · penalty unit (see s 133)
 · police officer
-· privacy commissioner
 · public advocate
 · public employee
 · public holiday
