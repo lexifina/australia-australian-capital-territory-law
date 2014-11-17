@@ -18,7 +18,7 @@ An executive committee member is protected from civil liability in relation to t
 ## (f) keep proper records and books of account in relation to—
     (i) the corporation’s assets and liabilities (including all amounts owing to and by the corporation); and
     (ii) all amounts received and paid by the corporation.
-Note If minutes or other records kept by the executive committee contain personal information, the executive committee must comply with the national privacy principles under the Privacy Act 1988 (Cwlth) in relation to that information.
+Note If minutes or other records kept by the executive committee contain personal information, the executive committee must comply with the Australian Privacy Principles under the Privacy Act 1988 (Cwlth) in relation to that information.
 ## (2) The executive committee must keep the documents, records and books for at least 5 years.
 ## (3) The executive committee may keep the minutes, records or books of account in an electronic form.
 ## (4) If an owners corporation fails to comply with this section, each executive member of the corporation at the time of the failure commits an offence.
