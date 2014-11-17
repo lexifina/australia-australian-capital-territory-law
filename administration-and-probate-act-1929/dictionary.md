@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · civil union
 · civil union partner
 · Commonwealth country
+· domestic partner (see s 169 (1))
 · foreign country
 · land
 · public trustee
