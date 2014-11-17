@@ -229,6 +229,7 @@ indictable offence—see section 190.
 indictment includes information.
 individual means a natural person.
 Industrial Court means the Industrial Court under the Magistrates Court Act 1930, section 291P.
+information privacy commissioner means the Information Privacy Commissioner appointed under the Information Privacy Act 2014, section 26.
 infringement notice includes an infringement notice under the Magistrates Court Act 1930 or the Road Transport (General) Act 1999.
 in relation to includes the following:
   (a) in respect of;
@@ -353,7 +354,6 @@ position includes office.
 power includes authority.
 prescribed, in an Act, means prescribed by the Act or by regulation under the Act.
 present an indictment includes lay an information.
-privacy commissioner means the Privacy Commissioner under the Privacy Act 1998 (Cwlth).
 proceeding means a legal or other action or proceeding.
 property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
 Note A thing in action is an intangible personal property right recognised and protected by the law. Examples include debts, money held in a bank, shares, rights under a trust, copyright and right to sue for breach of contract.
