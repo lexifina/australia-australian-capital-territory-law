@@ -25,7 +25,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Supreme Court
 · territory authority
 · territory instrumentality
-· territory-owned corporation
 · tribunal
 · working day.
 act—see section 10.

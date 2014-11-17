@@ -190,7 +190,7 @@ then, despite TPP 12.1, the agency is not required to give access to the extent 
 Note The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.3).
 Dealing with requests for access
 12.4 The public sector agency must—
-  (a) respond to the request for access to the personal information within 30 days after the day the request is made; or
+  (a) respond to the request for access to the personal information within 30 days after the day the request is made; and
   (b) give access to the information in the way requested by the individual, if it is reasonable and practicable to do so.
 Note The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.4 (a) (ii)).
 Other means of access
@@ -233,6 +233,6 @@ Request to associate a statement
 the agency must take reasonable steps to associate the statement in a way that will make the statement apparent to users of the information.
 Dealing with requests
 13.5 If a request is made under TPP 13.1 or TPP 13.4, the public sector agency—
-  (a) must respond to the request within 30 days after the day the request is made; or
+  (a) must respond to the request within 30 days after the day the request is made; and
   (b) must not charge the individual for the making of the request, for correcting the personal information or for associating the statement with the personal information.
 Note The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 13, s 13.5 (a) (ii)).
