@@ -3,6 +3,7 @@
 # Chapter 3 How to appoint an attorney
 ## Part 3.1 What the principal needs to do
 ## Part 3.2 Technical requirements
+## Part 3.3 Authorisation of 2 or more attorneys
 # Chapter 4 Operation of powers of attorney
 ## Part 4.1 Operation of powers of attorney generally
 ## Part 4.2 Operation of enduring powers of attorney
