@@ -55,7 +55,6 @@ proposed conditional registration notice—see section 43 (1).
 proposed negative notice—see section 37 (2).
 registration means a registration under this Act.
 registration card—see section 49 (1).
-registration number—see section 49 (2) (a).
 regulated activity—see section 8.
 relevant offence—see section 26.
 reviewable decision, for part 7 (Notification and review of decisions)—see section 61.
