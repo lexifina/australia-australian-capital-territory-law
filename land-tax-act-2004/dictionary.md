@@ -3,16 +3,15 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
-· calendar month
 · commissioner for revenue
 · corporation
 · financial year
 · function
 · interest
+· month
 · person (see s 160)
 · quarter
 · under.
-assessment notice, in relation to land tax, means a notice of assessment under the Taxation Administration Act, section 14 in relation to the land tax.
 commissioner means the commissioner for revenue.
 land tax includes—
   (a) penalty tax; and
@@ -46,12 +45,6 @@ residential land means—
   (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if—
     (i) at least 1 parcel of land in the scheme is residential land under paragraph (a) or (b); and
     (ii) no parcel of land in the scheme is leased for a commercial purpose.
-rural land means—
-  (a) rateable land leased for the purpose of primary production only; or
-  (b) rateable land leased for the purpose of primary production and other purposes but used mainly for primary production; or
-  (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if no parcel of land in the scheme is—
-    (i) residential land; or
-    (ii) leased for a commercial purpose.
 Taxation Administration Act means the Taxation Administration Act 1999.
 tenancy agreement, for part 2 (Imposition and payment of land tax)—see section 7.
 tenant, for part 2 (Imposition and payment of land tax)—see section 7.
