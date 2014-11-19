@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · ACT
 · body
 · corporation
+· found guilty
 · gambling and racing commission
 · individual
 · Minister (see s 162)
@@ -17,7 +18,7 @@ bet means any stake, pledge or wager in money between a person and the licensee 
   (a) a race; or
   (b) a computer simulated racing event; or
   (c) a sports bookmaking event.
-betting includes the negotiation, acceptance and distribution of moneys in connection with bets and the settling of bets.
+betting includes the negotiation, acceptance and distribution of money in connection with bets and the settling of bets.
 commission means the gambling and racing commission.
 computer simulated racing event means a computer simulated horse race, harness race or greyhound race.
 Control Act means the Gambling and Racing Control Act 1999.
@@ -31,7 +32,6 @@ ground for disciplinary action, for division 6.3 (Disciplinary action against li
 licence means—
   (a) a licence issued, or taken to be issued, under section 11; or
   (b) a temporary licence.
-licensee means a person who holds a licence.
 off-course totalisator means a totalisator that is not an on-course totalisator.
 on-course totalisator means a totalisator that enables a person to place a bet only if—
   (a) the bet is in relation to a race; and
