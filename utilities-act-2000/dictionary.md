@@ -55,8 +55,8 @@ electricity network—see section 7 (Electricity network).
 energy industry sector, for part 3A (Energy industry levy)—see section 54D (1).
 energy utility, for part 3A (Energy industry levy)—see section 54D (2).
 energy utility service, for part 3A (Energy industry levy)—see section 54D (3).
-essential service—see section 149A.
-essential service restriction—see section 149A.
+essential service, for part 9A (Shortage of essential services)––see section 149A.
+essential service restriction, for part 9A (Shortage of essential services)––see section 149A.
 fixed net regulatory cost, for part 3A (Energy industry levy)—see section 54G (3).
 franchise customer—see section 17 (Customers).
 gas—see section 8.
@@ -164,10 +164,6 @@ utility service—
     (v) includes a service prescribed to be a utility service under section 15 (Prescribed utility services); and
   (b) for division 6.2 (Standard customer contracts)—see section 86A.
 water connection service—see section 83 (Water connection service).
-water distributor means—
-  (a) in relation to the collection or treatment of water, or both, for distribution through a water network—a utility licensed for the service; and
-  (b) in relation to the distribution of water through a water network—a utility licensed for the service; and
-  (c) in relation to the provision of a water connection service to premises—a utility licensed to provide the service for the premises.
 water network—see section 12 (Water network).
 water supplier, in relation to the supply of water to premises, means a utility licensed to supply water to the premises.
 withdrawal, of a utility service, for part 12 (Complaints to ACAT about utilities)—see section 169.
