@@ -203,7 +203,6 @@ trustee includes—
   (d) a receiver or manager of the property of a company, or a liquidator of a company for the purpose of its winding-up; and
   (e) a person who holds a marketable security for the benefit of another person; and
   (f) a person who may be required to exercise his or her voting power in relation to a marketable security at the direction of another person.
-unascertainable, for an amount of a cost component, for part 5.4 (Unascertainable lease costs)—see section 143 (2).
 unencumbered value—see section 22.
 unit, in relation to a unit trust scheme, means—
   (a) a right or interest (whether described as a unit or a sub-unit or otherwise) of a beneficiary under the scheme; or
