@@ -9,13 +9,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · doctor
 · environment protection authority
 · exercise
+· found guilty
 · function
 · public servant
 · reviewable decision notice
 · territory law
 · the Territory
 · under.
-analysis, of a radiation source or anything else, includes examining or testing the thing.
 approved code of practice means a code of practice approved under section 116.
 at premises includes in or on the premises.
 authorised dealing, for a licence, means a dealing with a radiation source that is authorised under the licence.
@@ -38,9 +38,9 @@ ground, for disciplinary action—see section 34.
 immediate suspension notice—see section 37 (2).
 incorporated document means—
   (a) the national directory; or
-  (b) an instrument (or a provision of an instrument) applied, adopted or incorporated by a statutory instrument under this Act.
-Note A statutory instrument includes a subordinate law or a disallowable instrument (see Legislation Act, s 13).
-incorporated document notice—see section 117 (2).
+  (b) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
+Note 1 A statutory instrument includes a subordinate law or a disallowable instrument (see Legislation Act, s 13).
+Note 2 A reference to an instrument includes a reference to a provision of an instrument (see Legislation Act, s 14 (2)).
 ionising radiation—see section 8 (2).
 licence means a licence issued under section 17 (1).
 licensee means a person issued with a licence under section 17.
