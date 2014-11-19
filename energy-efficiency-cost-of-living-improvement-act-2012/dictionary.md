@@ -21,7 +21,7 @@ energy savings contribution—see section 11.
 energy savings obligation—see section 13.
 energy savings target—see section 7.
 greenhouse gas means a gas mentioned in schedule 2, column 2.
-information requirement, for division 5.5C (Information requirements)—see section 49H.
+information requirement, for division 5.5C (Information requirements)—see section 49J (2).
 NERL retailer means a person who holds a retailer authorisation under the National Energy Retail Law (ACT) to sell electricity to premises in the ACT for consumption.
 non-territory agency, for part 4A (Information sharing)—see section 28A.
 occupier, of premises, for part 5 (Enforcement)—see section 29.
@@ -38,6 +38,7 @@ regulatory agency, for part 4A (Information sharing)—see section 28A.
 retailer energy savings result—see section 20.
 retailer priority household result—see section 21.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 52.
+shortfall penalty—see section 22 (1).
 tier 1 NERL retailer means a NERL retailer that—
   (a) has at least 5 000 customers in the ACT; and
   (b) sells at least 500 000MWh of electricity to customers in the ACT annually.
