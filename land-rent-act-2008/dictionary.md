@@ -23,7 +23,7 @@ land rent includes—
   (a) the costs and expenses reasonably incurred by the Territory in attempting to recover the land rent; and
   (b) interest payable in relation to the land rent.
 land rent lease—see section 7 (4).
-lessee, in relation to a proposed land rent lease, for part 3 (Land rent—discount)—see section 9.
+lessee, in relation to a proposed land rent lease, for division 3.1 (Lessees generally)—see section 9.
 own, in relation to real property, includes having a legal or beneficial interest in the property.
 registered affordable housing provider, for part 3 (Land rent—discount)—see section 16A.
 related, for a parcel of land, for part 5 (Land rent—payment and recovery of unpaid rent)—see section 18.
