@@ -43,7 +43,7 @@ health service means—
   (a) any activity that is intended or claimed (expressly or by implication), by the person providing it, to assess, record, improve or maintain the physical, mental or emotional health of a consumer or to diagnose or treat an illness or disability of a consumer; or
   (b) a disability, palliative care or aged care service that involves the making or keeping of personal health information;
 but does not include any service declared by regulation to be an exempt service.
-health service provider means an entity that provides a health service in the ACT.
+health service provider means an entity that provides a health service.
 health status report means a report—
   (a) that is prepared or substantially prepared—
     (i) by a health service provider; and
