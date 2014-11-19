@@ -67,13 +67,7 @@ business day means a day that is not—
 by regulation includes under a regulation.
 Note See also def under, in relation to an Act or statutory instrument.
 by-law, in relation to an Act, means a by-law made or in force under the Act.
-calendar month means a period beginning at the start of any day of a named month and ending—
-  (a) at the end of the day before the corresponding day of the next named month; or
-  (b) if there is no such corresponding day—at the end of the last day of the next named month.
-Examples
-1 The period beginning at the start of 5 July 2000 and ending at midnight on 4 August 2000 is a calendar month.
-2 The period beginning at the start of 30 January 2001 and ending at midnight on 28 February 2001 is a calendar month. The calendar month ends on the last day of February because in that year February does not have a day corresponding to 29 January (because 2001 is not a leap year). If the period began at the start of 30 January 2004 (ie a leap year), the calendar month would end at midnight on 29 February 2004.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
+calendar month means one of the 12 months of the year.
 calendar year means a period of 12 months beginning on 1 January.
 change includes change by alteration, omission, substitution or addition.
 chief health officer means the Chief Health Officer under the Public Health Act 1997.
@@ -281,13 +275,18 @@ midwife—
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 Minister—see section 162.
 modification includes modification by alteration, omission, substitution and addition.
-month means calendar month.
+month means a period beginning at the start of any day of one of the calendar months and ending—
+  (a) immediately before the start of the corresponding day of the next calendar month; or
+  (b) if there is no such corresponding day—at the end of the next calendar month.
+Examples
+1 The period beginning at the start of 8 May 2014 and ending at midnight on 7 June 2014 is a month.
+2 The period beginning at the start of 30 January 2014 and ending at midnight on 28 February 2014 is a month. The month ends on the last day of February because in that year, February does not have a day corresponding to 29 January (because 2014 is not a leap year). If the period began at the start of 30 January 2016 (ie a leap year), the month would end at midnight on 29 February 2016.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 must—see section 146.
 name includes—
   (a) for an Act—the Act’s short title; and
   (b) for an instrument—the instrument’s citation; and
   (c) for a position—the position’s title or designation.
-named month means one of the 12 months of the year.
 national capital authority means the National Capital Authority established under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national capital plan means the National Capital Plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 National Credit Code—see the National Consumer Credit Protection Act 2009 (Cwlth), section 5.
