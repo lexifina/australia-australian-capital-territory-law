@@ -129,19 +129,19 @@ Note A disallowable instrument must be notified, and presented to the Legislativ
 approved training means training under an approved training contract.
 approved training contract—see the Training and Tertiary Education Act 2003, dictionary.
 recognised training means approved training other than training declared under subsection (6) not to be recognised training.
-## 2.16 Exemption from tax—trainees under approved training contracts
-## (1) This section applies to a trainee if an approved group training organisation employs the trainee under an approved training contract.
-## (2) Wages are exempt wages if they are paid or payable to the trainee by the approved group training organisation.
+## 2.16 Exemption from tax—apprentices or trainees under approved training contracts
+## (1) This section applies to an apprentice or trainee if an approved group training organisation employs the apprentice or trainee under an approved training contract.
+## (2) Wages are exempt wages if they are paid or payable to the apprentice or trainee by the approved group training organisation.
 ## (3) On application by an entity, the commissioner may approve the entity as a group training organisation if satisfied that the entity—
 ## (a) is a not-for-profit entity; and
-## (b) provides training to trainees under approved training contracts; and
-## (c) makes trainees available to work for other people.
+## (b) provides training to apprentices or trainees under approved training contracts; and
+## (c) makes apprentices or trainees available to work for other people.
 Note If a form is approved under the Taxation Administration Act 1999, s 139C for an application, the form must be used.
 ## (4) In this section:
+apprentice or trainee—see the Training and Tertiary Education Act 2003, dictionary.
+Note Apprentice or trainee is defined as a person who undertakes an apprenticeship or traineeship under an approved training contract.
 approved group training organisation means an organisation that is approved by the commissioner under subsection (3).
 approved training contract—see the Training and Tertiary Education Act 2003, dictionary.
-trainee—see the Training and Tertiary Education Act 2003, dictionary.
-Note Trainee is defined as a person who undertakes training under a training contract, and includes an apprentice.
 ## Part 2.5 Hospitals
 ## 2.17 Hospitals
 Wages are exempt wages if they are paid or payable by a hospital that is a recognised hospital under the Health Insurance Act 1973 (Cwlth).
