@@ -1,2 +1,2 @@
 # Training and Tertiary Education Act 2003
-An Act about tertiary accreditation and registration, and for other purposes
+An Act about vocational education and training, and for other purposes
