@@ -22,7 +22,7 @@ Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 ## (b) installing data cabling or security or electronic communication systems;
 ## (c) laying floor coverings;
 ## (d) hard landscaping;
-## (e) building or construction work undertaken as part of training with a registered training organisation under the Training and Tertiary Education Act 2003.
+## (e) building or construction work undertaken as part of training with a registered training organisation under the National Vocational Education and Training Regulator Act 2011 (Cwlth), section 3.
 ## 1.2 What is building and construction work?
 ## (1) In this Act:
 building and construction work—
