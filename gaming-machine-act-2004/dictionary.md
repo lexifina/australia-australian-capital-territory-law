@@ -28,11 +28,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · the Territory
 · under.
 acquire a gaming machine, means take possession of the machine for the purpose of using it for gaming.
-approval certificate—
-  (a) for an approved technician—see section 80 (2) (a) (Certificates and identity cards for approved technicians);
-  (b) for an attendant—see section 92 (2) (a) (Certificates for approved attendants).
+approval certificate, for an approved technician—see section 80 (2) (a).
 approval-holder—see section 38B.
-approved attendant means an attendant approved under section 86 (Approval of attendants) or section 87 (Short-term approval of attendants).
 approved supplier means a supplier approved under section 72.
 approved technician means a technician approved under section 75 (Approval of technicians) or section 76 (Short-term approval of technicians).
 associated organisation, for a club, means an entity declared to be an associated organisation under section 147.
@@ -57,6 +54,7 @@ commission means the gambling and racing commission.
 community contribution means a contribution made by a licensee that is approved as a community contribution under section 164.
 community contribution shortfall tax—see section 172 (1).
 computer cabinet means the sealable part of a gaming machine that contains the game storage medium and the random access memory.
+computer cabinet access register—see section 71.
 constitution means—
   (a) for a club that is a company—the memorandum, and any articles of association, of the company; or
   (b) for a club that is an incorporated association—the statement of objects and the rules of the association.
@@ -120,7 +118,6 @@ linked-jackpot arrangement means an arrangement under which 2 or more gaming mac
   (b) that, for the purpose of recording the amount mentioned in paragraph (a), receives messages from each machine to which it is linked; and
   (c) that cannot affect the percentage payout of, or transmit a message to, a machine to which it is linked.
 local jurisdiction means a State or New Zealand.
-machine access register—see section 71.
 maintain a gaming machine includes repair, adjust or alter the machine.
 member, of a club, means—
   (a) a member who, under the rules of the club, is required to pay fees; or
@@ -150,9 +147,7 @@ required community contribution, for a licensee that is a club—see section 169
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
 rules, for an entity, means the rules mentioned in section 11 (2) (c).
 secretary, in relation to a club, includes a person concerned in the management of the club.
-short-term approval—
-  (a) for an attendant—see section 87 (3); and
-  (b) for a technician—see section 76 (3).
+short-term approval, for a technician—see section 76 (3).
 small-scale machine relocation amendment—see section 22 (1) (e).
 social impact assessment, for an initial licence application or an amendment licence application, means a social impact assessment for the application under division 2.3.
 statement of objects of a club, means—

@@ -20,11 +20,10 @@
 ### Division 3.3 Club licence conditions
 ## Part 4 Disciplinary action
 ## Part 5 Centralised monitoring system
-## Part 6 Approval of gaming machines, peripherals, suppliers, technicians and attendants
+## Part 6 Approval of gaming machines, peripherals, suppliers and technicians
 ### Division 6.1 Approval of gaming machines and peripheral equipment
 ### Division 6.2 Approved suppliers
 ### Division 6.3 Approved technicians
-### Division 6.4 Approved attendants
 ### Division 6.5 Gaming machine dealings
 ### Division 6.6 Repossession of gaming machines
 ### Division 6.7 Disposal of gaming machines
