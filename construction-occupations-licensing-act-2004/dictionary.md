@@ -18,10 +18,6 @@ AS 3500 means the following standards, as in force from time to time:
   (a) AS 3500.1.1;
   (b) AS 3500.2.1;
   (c) AS/NZS 3500.
-asbestos assessment service—see section 7A (2).
-asbestos assessor—see section 7A (1).
-asbestos removalist—see section 7B (1).
-asbestos removal service—see section 7B (2).
 authorised action, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
