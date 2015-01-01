@@ -27,6 +27,7 @@ approved plans—
   (a) means plans that relate to building work for which a building approval is in effect; and
   (b) includes amended plans.
 approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 asbestos code means the codes of practice that are approved under section 139B.
 asbestos removal control plan, in relation to building work, means a plan, complying with the asbestos code, that provides for the management of any asbestos disturbance resulting from the building work.
@@ -68,14 +69,7 @@ exemption assessment B notice—see section 14B.
 exemption assessment D notice—see the Planning and Development Act 2007, section 138D.
 fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-friable asbestos means asbestos, whether or not contained in other material, that—
-  (a) is crumbly, dusty or powdery; or
-  (b) when dry, can be crumbled, pulverised or reduced to powder by hand pressure.
-Examples of friable asbestos
-1 sprayed asbestos coating or insulation
-2 asbestos lagging
-3 loose asbestos, asbestos in its raw form
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+friable asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 government certifier, for division 3.2 (Certifiers and government certifiers)—see section 17.
 handling asbestos—to remove any doubt, handling asbestos (including friable asbestos) includes disturbing the asbestos.
 information includes documents.
