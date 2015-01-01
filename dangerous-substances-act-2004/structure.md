@@ -13,9 +13,6 @@
 ### Division 3.1.6 Miscellaneous
 ## Part 3.2 Failure to comply with safety duties
 # Chapter 3A Asbestos
-## Part 3A.1 Important concepts
-## Part 3A.3 Public education
-## Part 3A.4 Asbestos advice and assessment reports
 # Chapter 4 Licences for dangerous substances
 ## Part 4.1 General—licences
 ## Part 4.2 Issue, amendment, replacement and surrender of licences

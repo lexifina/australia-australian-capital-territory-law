@@ -22,7 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
 analysis, of a dangerous substance or anything else, includes examining or testing the substance or thing.
 approved code of practice means a code of practice approved under section 219 (1).
-asbestos—see section 47A.
+asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 at premises includes in or on the premises.
 Australian Dangerous Goods Code—see section 10 (3).
 Australian Explosives Code—see section 10 (3).
