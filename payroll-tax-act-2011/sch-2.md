@@ -100,8 +100,7 @@ Wages are exempt wages if they are paid or payable—
 ## (e) the subcontractor is a sole trader and individuals of both of the following kinds perform the work for which the wages are paid or payable:
 ## (i) the subcontractor;
 ## (ii) an employee of the subcontractor;
-## (f) the individuals who perform the work for which the wages are paid or payable together work for not more than 8 days in any month under a contract with the agent;
-## (g) the subcontractor is a genuine employer of the individuals who perform the work for which the wages are paid.
+## (f) the individuals who perform the work for which the wages are paid or payable together work for not more than 8 days in any month under a contract with the agent.
 ## (2) For this section—
 ## (a) a reference to a contract is taken to include a reference to an agreement, arrangement or undertaking, whether formal or informal and whether express or implied; and
 ## (b) a reference to supply is taken to include a reference to supply by sale, exchange, lease, hire or hire-purchase, and in relation to services includes the providing, granting or conferring of services; and
