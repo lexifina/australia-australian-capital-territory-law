@@ -27,7 +27,6 @@ local hospital network means an organisation that is a local hospital network (h
 national health funding pool means the combined state pool accounts for each State.
 national health reform agreement means the National Health Reform Agreement between the Commonwealth and the States that was agreed to by COAG on 2 August 2011, as amended from time to time.
 responsible Minister for a jurisdiction means the relevant Minister with portfolio responsibility for the administration of the provision of this Act in which the expression occurs (or of the corresponding provision of the law of the Commonwealth and the other States).
-Note See also s 38 (1) (Transitional and validation provisions).
 standing council on health means (subject to section 4 (1) (Standing council on health)) the Ministerial Council by that name or, if there is no such Ministerial Council, the standing Ministerial Council established or recognised by COAG whose members include all Ministers in Australia having portfolio responsibility for health.
 State includes the ACT and the Northern Territory.
 state managed fund of a State means a bank account or fund established by the State for the purposes of health funding under the national health reform agreement that is required to be undertaken in the State through a state managed fund.
