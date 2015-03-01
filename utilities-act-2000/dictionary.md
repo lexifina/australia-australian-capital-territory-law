@@ -74,9 +74,7 @@ industry code, for a utility service, means an industry code approved or determi
 installation—
   (a) of a network facility, for part 7 (Network operations)—see section 103; and
   (b) of a territory network facility, for part 14 (Streetlighting and stormwater)—see section 226.
-interference—
-  (a) with a network or network facility, for part 8 (Protection of networks)—see section 123; and
-  (b) with a territory network or territory network facility, for part 14 (Streetlighting and stormwater)—see section 226.
+interference, with a territory network or territory network facility, for part 14 (Streetlighting and stormwater)—see section 226.
 land-holder—
   (a) in relation to private land, means—
     (i) an owner of the land; or
@@ -96,18 +94,16 @@ negotiated customer contract means a contract to which section 95 (Negotiated cu
 NERL exempt seller—see section 75A.
 NERL retailer—see section 75.
 net regulatory cost, for part 3A (Energy industry levy)—see section 54G (2).
-network—
-  (a) for this Act—means any of the following:
-    (i) an electricity network;
-    (ii) a gas network;
-    (iii) a sewerage network;
-    (iv) a water network;
-    (v) a network prescribed for a prescribed utility service under section 15 (Prescribed utility services); or
-  (b) for sections 130, 131 and 132—see section 133 (Extended meaning of network).
-network boundary—see section 16 (Network boundary).
+network means any of the following:
+  (a) an electricity network;
+  (b) a gas network;
+  (c) a sewerage network;
+  (d) a water network;
+  (e) a network prescribed for a prescribed utility service under section 15 (Prescribed utility services); or
+network boundary means a boundary worked out under the Utilities (Technical Regulation) Act 2014, section 53 (Network boundary).
 network facility means any part of the infrastructure of a network.
 network operations, for part 7 (Network operations)—see section 103.
-network protection notice—means a notice under section 125 (Network protection notices).
+network protection notice means a notice under the Utilities (Technical Regulation) Act 2014, section 32.
 non-franchise customer—see section 17 (Customers).
 occupier, of premises—
   (a) for this Act—means a person who has, or is entitled to, lawful possession or control of the premises (whether alone or together with 1 or more other people); or
@@ -124,6 +120,7 @@ private land means land other than public land.
 proceeding under this Act, for part 15 (Vicarious liability)—see section 251.
 public land means national land or unleased Territory land.
 registrar, for part 12 (Complaints to ACAT about utilities)—see section 169.
+regulated utility––see the Utilities (Technical Regulation) Act 2014, section 8.
 regulatory cost, for part 3A (Energy industry levy)—see section 54G (1).
 related law means the ICRC Act.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including regulations (see Legislation Act, s 104).
@@ -143,8 +140,9 @@ stormwater network code, for part 14 (Streetlighting and stormwater)—see secti
 streetlighting, for part 14 (Streetlighting and stormwater)—see section 226.
 streetlight network—see section 229.
 streetlight network code, for part 14 (Streetlighting and stormwater)—see section 230.
-technical code, for a utility service, means a technical code approved or determined under part 5 (Technical regulation) that applies to the service.
-technical inspector means a person appointed as a technical inspector under section 67 (Technical inspectors).
+technical code means a technical code approved under the Utilities (Technical Regulation) Act 2014, section 14.
+technical inspector means a person appointed as a technical inspector under the Utilities (Technical Regulation) Act 2014, section 81.
+technical regulator means the technical regulator under the Utilities (Technical Regulation) Act 2014, section 77.
 territory network—see section 226.
 territory network facility—see section 226.
 territory network operations, for part 14 (Streetlighting and stormwater)—see section 226.

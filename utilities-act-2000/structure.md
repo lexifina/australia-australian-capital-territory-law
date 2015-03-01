@@ -15,10 +15,6 @@
 ### Division 3.6 Miscellaneous
 ## Part 3A Energy industry levy
 ## Part 4 Industry codes
-## Part 5 Technical regulation
-### Division 5.1 Technical codes
-### Division 5.2 Enforcement
-### Division 5.3 Miscellaneous
 ## Part 5A NERL retailers and NERL exempt sellers
 ### Division 5A.1 Preliminary
 ### Division 5A.2 NERL retailer obligations
@@ -36,11 +32,6 @@
 ### Division 7.3 Performance of network operations
 ### Division 7.4 Authorised people
 ### Division 7.5 Miscellaneous
-## Part 8 Protection of networks
-### Division 8.1 General
-### Division 8.2 General interference
-### Division 8.3 Contamination of water or sewerage networks
-### Division 8.4 Miscellaneous
 ## Part 9 Controller’s power to take over operations
 ### Division 9.1 General
 ### Division 9.2 Compensation
@@ -48,8 +39,6 @@
 ## Part 10 Enforcement
 ### Division 10.1 General
 ### Division 10.2 ICRC inspectors
-### Division 10.3 Technical inspectors
-### Division 10.4 Authorised people for utility
 ### Division 10.5 Miscellaneous
 ## Part 11 Certain causes of action against customer
 ## Part 12 Complaints to ACAT about utilities
@@ -71,3 +60,4 @@
 ## Part 15 Vicarious liability
 ## Part 16 Miscellaneous
 ## Part 18 Transitional—National Energy Retail Law
+## Part 19 Transitional—Utilities (Technical Regulation) Act 2014
