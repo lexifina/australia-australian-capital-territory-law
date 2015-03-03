@@ -27,6 +27,9 @@ summary offence (see s 190)
 · territory law
 transgender person (see s 169A)
 under.
+Aboriginal or Torres Strait Islander person means a person who—
+  (a) is a descendant of an Aboriginal person or Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or Torres Strait Islander person.
 ACT DNA database—see section 94A.
 agreed retention period—see section 80A (3).
 another participating jurisdiction—see section 100.
