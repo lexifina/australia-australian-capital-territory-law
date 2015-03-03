@@ -31,9 +31,8 @@
 ## Part 14 Election funding, expenditure and financial disclosure
 ### Division 14.1 Preliminary
 ### Division 14.2 Reporting agents
-### Division 14.2A ACT election accounts
 ### Division 14.2B Limitations on electoral expenditure
-### Division 14.2C Limitations on gifts and other payments
+### Division 14.2C Limit on spending—payments from related party
 ### Division 14.3 Election funding
 ### Division 14.3A Administrative expenditure funding
 ### Division 14.4 Gifts and certain loans—records and disclosure

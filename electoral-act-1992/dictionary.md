@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · fail
 · function
 · home address
+· individual
 · lawyer
 · person (see s 160)
 · public holiday
@@ -27,11 +28,11 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · territory instrumentality
 · territory lease.
 abbreviation, of the name of a political party, includes an alternative name of the party.
-ACT election account—see section 205A.
 address—
   (a) of a person, for this Act generally—means the person’s principal place of residence (including a place of residence from which a person who is an elector is temporarily absent and to which the person intends to return to live in); and
   (b) of a person who is, or is nominated to be, the registered officer of a political party, for part 7 (Registration of political parties)—see section 87.
 amount, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
+anonymous gift, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 anonymously, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 Antarctica, for part 11 (Polling in Antarctica)—see section 167.
 Antarctic elector means an elector who is an Antarctic elector under section 171.
@@ -41,6 +42,7 @@ Assembly means the Legislative Assembly.
 assistant returning officer, for part 11 (Polling in Antarctica)—see section 167.
 associated entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 augmented commission in relation to a redistribution, means the augmented electoral commission established by section 47 for the purposes of the redistribution.
+Australian government body, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 authorised delivery service, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 authorised officer means an officer authorised by the commissioner for the purpose of the provision in which the expression occurs.
 available for public inspection—see section 4A.
@@ -205,7 +207,6 @@ Note Part 5 contains provisions about the keeping of electoral rolls.
 scrutineer means a person appointed under section 122 to be a scrutineer.
 scrutiny centre means a place appointed as a scrutiny centre under section 119.
 secretary, in relation to a political party, means the secretary or chief administrative officer (however described) of the party.
-small anonymous gift, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 Speaker—
   (a) for part 13 (Casual vacancies)—see section 190; and
   (b) for part 16 (Disputed elections, eligibility and vacancies)—see section 251.

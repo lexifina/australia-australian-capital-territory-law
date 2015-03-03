@@ -76,23 +76,25 @@ If the scrutiny has not ceased in accordance with clause 4 and—
 (3) For subclause (2)—
   (a) if only 1 successful candidate obtained a quota at the earliest count—that candidate is the relevant candidate;
   (b) if 2 or more successful candidates obtained a quota at the earliest count—the candidate who, of those candidates, has the largest surplus is the relevant candidate; or
-  (c) if 2 or more successful candidates (contemporary candidates) who obtained a quota at the earliest count have the same surplus, being a surplus larger than that of any other candidate who obtained a quota at that count and—
-    (i) 1 of the contemporary candidates had more total votes than any other contemporary candidate at the last count at which all the contemporary candidates had unequal total votes—that candidate; or
-    (ii) there is no count at which all the contemporary candidates had unequal total votes—the contemporary candidate who is determined by the commissioner by lot to be the relevant candidate;
-is the relevant candidate.
+  (c) if 2 or more successful candidates (contemporary candidates) who obtained a quota at the earliest count have the same surplus, being a surplus larger than that of any other candidate who obtained a quota at the count and—
+    (i) 1 of the contemporary candidates had more total votes than any other contemporary candidate at the last count—that candidate is the relevant candidate; or
+    (ii) 2 or more contemporary candidates have the same total votes, being a total larger than that of any other contemporary candidate (a non-tied contemporary candidate) at the last count—each non-tied contemporary candidate is no longer considered under this clause and—
+      (A) subparagraph (i) and this subparagraph are applied to each preceding count until a relevant candidate is worked out; or
+      (B) if a relevant candidate cannot be worked out by applying subparagraph (i) and this subparagraph to the preceding count—the contemporary candidate who is determined by the commissioner by lot is the relevant candidate.
 (4) If—
-  (a) a person becomes the relevant candidate under subclause (3) (c) (ii); and
+  (a) a person becomes the relevant candidate under subclause (3) (c) (ii) (B); and
   (b) the ballot papers are recounted in accordance with section 187; and
   (c) the same candidates would, apart from this subclause, become the contemporary candidates once again under that subparagraph;
 the person shall be taken to be the relevant candidate for subclause (2) in the recounting of those ballot papers.
 ## 8 Exclusion of candidates
 (1) If clause 5 or 15 requires a candidate to be excluded, the candidate with the least total votes shall be excluded.
 (2) If 2 or more candidates each have the same total votes, being fewer total votes than any other candidate and—
-  (a) 1 of those candidates had fewer total votes than any other of those candidates at the last count at which those candidates had unequal votes—that candidate; or
-  (b) there is no count at which those candidates had unequal total votes—the candidate who, of those candidates, is determined by the commissioner by lot to be the candidate to be excluded;
-shall be excluded.
+  (a) 1 of the candidates had fewer total votes than any other of the candidates at the last count—that candidate is excluded; or
+  (b) 2 or more of the candidates have the same total votes, being a total fewer than that of any other candidate (a non-tied candidate) at the last count—each non-tied candidate is no longer considered under this clause and—
+    (i) paragraph (a) and this paragraph are applied to each preceding count until 1 candidate is excluded; or
+    (ii) if 1 candidate cannot be excluded by applying paragraph (a) and this paragraph to the preceding count—the candidate who is determined by the commissioner by lot is excluded.
 (3) If—
-  (a) a person is excluded under subclause (2) (b); and
+  (a) a person is excluded under subclause (2) (b) (ii); and
   (b) the ballot papers are recounted in accordance with section 187; and
   (c) that paragraph would, apart from this subclause, be applicable once again to the same candidates;
 the person shall be taken to be excluded in the recounting of those ballot papers.
