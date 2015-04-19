@@ -23,5 +23,4 @@
 ## Part 11AB Energy efficiency rating statements
 ## Part 11A Notification and review of decisions
 ## Part 12 Miscellaneous
-## Part 20 Transitional—Construction and Energy Efficiency Legislation Amendment Act 2014 (No 2)
 ## Part 21 Transitional—Gas Safety Legislation Amendment Act 2014
