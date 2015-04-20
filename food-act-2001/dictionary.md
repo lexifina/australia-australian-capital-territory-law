@@ -2,13 +2,13 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· chief health officer
-· exercise
-· found guilty
-· function
-· home address
-· reviewable decision notice.
+• ACAT
+• chief health officer
+• exercise
+• found guilty
+• function
+• home address
+• reviewable decision notice.
 advertisement means—
   (a) any words, whether written or spoken; or
   (b) any pictorial representation or design; or
@@ -73,8 +73,10 @@ ready-to-eat food, for part 9 (Display of nutritional information for food)—se
 recall order, for part 4 (Emergency orders)—see section 37.
 registered, in relation to a food business, means registered under section 92.
 registered training organisation, for part 9A (Food safety supervisors)—see section 116.
+regulated event means an event declared under section 91.
 reviewable decision, for part 11 (Notification and review of decisions)—see section 141A.
 sell—see section 9 (1).
+site, for a registered food business, for part 9A (Food safety supervisors)—see section 116.
 standard food item, for part 9 (Display of nutritional information for food)—see section 108.
 standard food outlet, for part 9 (Display of nutritional information for food)—see section 109.
 statement of attainment, held by a person, for part 9A (Food safety supervisors)—see section 116.
