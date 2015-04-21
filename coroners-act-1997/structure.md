@@ -17,6 +17,7 @@
 ### Division 5.5 Indictable offences
 ### Division 5.6 General powers of coroners
 ### Division 5.7 Other requirements
+## Part 5A Coronial investigation scenes
 ## Part 6 Deaths in custody—additional provisions
 ## Part 7 Offences
 ## Part 8 Powers of Supreme Court

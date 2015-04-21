@@ -54,6 +54,10 @@ body includes part of a body, and the remains of a body.
 Chief Coroner means the person who is Chief Coroner under section 6.
 chief psychiatrist—see the Mental Health (Treatment and Care) Act 1994, dictionary.
 coroner includes a deputy coroner appointed under section 8.
+coronial investigation scene, for part 5A (Coronial investigation scenes)—see section 68B.
+coronial investigation scene declaration, for part 5A (Coronial investigation scenes)—see section 68B.
+coronial investigation scene order, for part 5A (Coronial investigation scenes)—see section 68B.
+coronial investigation scene power, for part 5A (Coronial investigation scenes)—see section 68B.
 court means the Coroner’s Court continued in existence under section 4 (1).
 custodial officer—see section 3D.
 death includes a suspected death.
@@ -66,7 +70,7 @@ disaster means an occurrence in the ACT due to natural or other causes that—
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
-hearing means a hearing under division 5.1.
+hearing means a hearing for an inquest or inquiry under division 5.1.
 inquest means an inquest concerning the death of a person.
 inquiry means an inquiry concerning a disaster or fire.
 member of the immediate family, for a deceased person the subject of an inquest, means—
