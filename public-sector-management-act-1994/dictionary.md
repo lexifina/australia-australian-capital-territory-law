@@ -24,7 +24,7 @@ Aboriginal or Torres Strait Islander person means a person who—
   (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 access and equity principle, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
 access and equity program, for division 3.7 (Whole-of-government management responsibilities)—see section 39.
-administrative unit means a unit of the service established under section 13 (1) (a).
+administrative unit means a unit of the service established under section 13 (1).
 appeal means—
   (a) if an industrial instrument applies to the employee or officer and includes an appeal process—appeal in accordance with the appeal process in the industrial instrument; or
   (b) in any other case—appeal in accordance with the prescribed appeal process.
