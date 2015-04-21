@@ -14,7 +14,7 @@ column 1 item | column 2 exempt people
 10 | a police officer
 11 | a person with full-time duties as a member of an emergency service
 12 | a person living in the Jervis Bay Territory
-13 | a judge or master of the Supreme Court
+13 | a judge or associate judge of the Supreme Court
 14 | a member of the Legislative Assembly or a member of staff of a member of the Legislative Assembly who is an adviser or private secretary
 15 | a director-general
 16 | a public servant in the staff of the following: (a) the Supreme Court; (b) the Magistrates Court
