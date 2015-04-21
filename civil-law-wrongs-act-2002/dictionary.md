@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • bankrupt or personally insolvent
 • civil partner
 • civil union partner
+• Corporations Act
 • daily newspaper
 • doctor
 • domestic partner (see s 169)
