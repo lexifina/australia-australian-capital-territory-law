@@ -4,7 +4,7 @@
 · Chief Justice
 · President of the Court of Appeal
 · acting judge
-· master of the Supreme Court
+· associate judge of the Supreme Court
 · Chief Magistrate
 · magistrate
 ## Part 1.2 Other positions
