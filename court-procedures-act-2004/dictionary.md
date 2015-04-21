@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
+· associate judge
 · director-general (see s 163)
 · found guilty (of an offence)
 · government solicitor
@@ -31,7 +32,6 @@ judge, for part 5 (Court security)—see section 40.
 judgment, for part 4 (Crown proceedings)—see section 20.
 long-term care responsibility, for division 7A.1 (General)—see the Children and Young People Act 2008, section 20.
 magistrate, for part 5 (Court security)—see section 40.
-master means the Master of the Supreme Court.
 offensive weapon, for part 5 (Court security)—see section 40.
 prescribed tribunal, for part 2 (Court rules and forms) and schedule 1 (Subject matter for rules)—see section 6.
 proceeding, for part 4 (Crown proceedings)—see section 20.

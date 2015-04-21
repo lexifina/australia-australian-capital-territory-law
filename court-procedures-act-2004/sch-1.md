@@ -4,7 +4,7 @@
 ## 1 Jurisdiction
 (1) the jurisdiction of ACT courts, including civil, criminal and any appellate jurisdiction
 (2) the jurisdiction of prescribed tribunals
-(3) the jurisdiction of the master, registrars and deputy registrars, including review of their decisions
+(3) the jurisdiction of the associate judge, registrars and deputy registrars, including review of their decisions
 ## 2 Service of documents
 service of documents, including, for example, the following:
   (a) the kinds of service, including personal service and electronic service;
