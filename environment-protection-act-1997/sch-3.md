@@ -2,7 +2,7 @@
 (see pt 14)
 column 1 item | column 2 section | column 3 decision | column 4 entity
 1 | 21 (1) | refuse to exclude document or part of document from public inspection | applicant
-2 | 21A (5) | refuse to remove entry from the register | entity that entry relates to
+2 | 21A (4) | refuse to remove entry from the register | entity that entry relates to
 3 | 43 (1) | notify entity not to conduct, or continue to conduct, stated activity unless person holds environmental authorisation | entity conducting or proposing to conduct stated activity
 4 | 43 (4) | refuse to revoke notice under section 43 (1) | person conducting or proposing to conduct stated activity
 5 | 49 (1) (a), (2) (a), (3) (a) or (4) (a) | grant environmental authorisation (other than authorisation in relation to activity of kind mentioned in schedule 1, table 1.2, item 30) | applicant for authorisation
