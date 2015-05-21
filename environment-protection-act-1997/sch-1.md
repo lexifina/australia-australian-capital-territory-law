@@ -77,7 +77,7 @@ column 1 item | column 2 activity
 6 | the operation of a commercial landfill facility that receives, or is intended by the operator to receive, more than 5 000t of waste per year
 7 | the acceptance of more than 100m3 of soil for placement on land by a lessee or occupier of the land if the land is in—
  | (a) an area identified in the territory plan as land in any of the following zones: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; or
- | (b) a plantation forestry precinct, within the meaning of the territory plan; or
+ | (b) an area identified on a precinct map in the territory plan as an area where plantation forestry is permitted subject to development assessment; or
  | (c) an area identified in the national capital plan as any of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland
 8 | transport activities to which the National Environment Protection (Movement of Controlled Waste between States and Territories) Measure dated 26 June 1998, as in force from time to time, made under the National Environment Protection Council Act 1994, applies
 9 | the transportation, from 1 place in the ACT to another place in the ACT, for fee or reward of— (a) 200kg or more of regulated waste, other than waste consisting only of stabilised asbestos waste in bonded matrix; or (b) 2t or more of used, rejected or unwanted tyres (including shredded tyres and tyre pieces)

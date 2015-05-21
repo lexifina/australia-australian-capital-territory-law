@@ -21,7 +21,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public holiday
 · public servant
 · reviewable decision notice
-· State.
+· State
+· territory plan.
 activity means a current or proposed activity including a process, operation, project, venture or business.
 airgun, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 analyst means an analyst under section 15.
