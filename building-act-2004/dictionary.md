@@ -29,8 +29,7 @@ approved plans—
 approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
-asbestos code means the codes of practice that are approved under section 139B.
-asbestos removal control plan, in relation to building work, means a plan, complying with the asbestos code, that provides for the management of any asbestos disturbance resulting from the building work.
+asbestos removal control plan, in relation to building work, means a plan, complying with the Dangerous Substances Act 2004 and the Work Health and Safety Act 2011, that provides for the management of any asbestos disturbance resulting from the building work.
 authorised insurer means a body corporate authorised to carry on insurance business under the Insurance Act 1973 (Cwlth), section 12.
 basic building work—see section 10.
 builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
