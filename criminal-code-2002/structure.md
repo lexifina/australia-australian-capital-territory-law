@@ -56,6 +56,7 @@
 ## Part 6.2 Trafficking in controlled drugs
 ## Part 6.3 Manufacturing controlled drugs and precursors
 ## Part 6.4 Cultivating controlled plants
+## Part 6.4A Display of drug pipes
 ## Part 6.5 Drug offences involving children
 ## Part 6.6 General provisions for drug offences
 ## Part 6.7 Offences relating to property derived from drug offences
