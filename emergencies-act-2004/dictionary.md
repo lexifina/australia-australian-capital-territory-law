@@ -40,7 +40,6 @@ agency, for part 5.3 (Bushfire prevention)—see section 70.
 ambulance levy, for schedule 1 (Ambulance levy)—see schedule 1, section 1.4.
 ambulance service means the ACT Ambulance Service established under section 40.
 ambulance services, for part 4.6 (Other approved providers)—see section 60.
-annual report, of an agency, for part 5.3 (Bushfire prevention)—see section 70.
 at premises includes in or on the premises.
 basic health benefits, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 built-up area means an area declared to be a built-up area under section 65.
