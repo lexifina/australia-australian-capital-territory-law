@@ -2,27 +2,27 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· AS (see s 164 (1))
-· Commonwealth
-· daily newspaper
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· exercise
-· found guilty
-· function
-· indictable offence (see s 190)
-· Minister (see s 162)
-· national capital plan
-· National Electricity (ACT) Law
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· public employee
-· public holiday
-· public servant
-· reviewable decision notice
-· State
-· territory plan.
+• ACAT
+• AS (see s 164 (1))
+• Commonwealth
+• daily newspaper
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• exercise
+• found guilty
+• function
+• indictable offence (see s 190)
+• Minister (see s 162)
+• national capital plan
+• National Electricity (ACT) Law
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• public employee
+• public holiday
+• public servant
+• reviewable decision notice
+• State
+• territory plan.
 activity means a current or proposed activity including a process, operation, project, venture or business.
 airgun, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 analyst means an analyst under section 15.
