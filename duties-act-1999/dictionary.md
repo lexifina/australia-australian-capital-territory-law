@@ -38,7 +38,7 @@ bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
-charitable organisation means an association, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for the purpose of securing pecuniary benefits to its members.
+charitable organisation means an organisation, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for securing financial benefits to its members.
 commercial lease, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 commercial lease with premium, for chapter 2 (Transactions concerning dutiable property)––see section 6A.
 commercial purposes, for chapter 2 (Transactions concerning dutiable property)––see section 6.
