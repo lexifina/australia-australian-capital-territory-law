@@ -45,7 +45,7 @@ internally reviewable decision, for division 10.2 (Notification and review of de
 market rate component, in relation to interest for a day—see section 26 (2).
 objection means an objection made under section 100.
 premises includes land, a vehicle, a vessel and an aircraft.
-premium component, in relation to interest—see section 26 (4).
+premium component, in relation to interest—see section 26 (3).
 public officer means the public officer of a body appointed under section 117.
 reciprocating jurisdiction means a jurisdiction, being the Commonwealth, a State or another Territory, under a law of which a tax officer of the jurisdiction is authorised to give to the commissioner, for the purposes of the administration of a tax law of the ACT, information within the knowledge of the tax officer.
 record means a record in any form of document.
