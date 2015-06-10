@@ -1,8 +1,8 @@
-# Schedule 4 Modifications in relation to ACTEW Corporation Limited
+# Schedule 4 Modifications in relation to Icon Water Limited
 (see s 4)
 1 Meaning of company
 In this schedule:
-company means ACTEW Corporation Limited.
+company means Icon Water Limited.
 3 Operation of s 14 Section 14 (1)
 substitute
 (1) Subject to subsection (1A), a territory-owned corporation or a subsidiary must not enter into a specified transaction if, as a result of the transaction, a company would or could become a partially owned subsidiary of the territory-owned corporation or subsidiary.
