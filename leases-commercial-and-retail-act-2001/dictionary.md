@@ -3,16 +3,15 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · exercise
-· function
 · GST
+· Magistrates Court
 · territory lease.
 accounting period, for a lessor, means a financial year or other period included in a disclosure notice under section 31 (Form of disclosure statements) or otherwise agreed between the parties.
 bond means an amount paid or payable by a tenant as security for the performance of his or her obligations under a lease.
 certificate of occupancy—see the Building Act 2004, dictionary.
-certified exclusionary clause—see section 111.
 change of use lease—see section 9.
 commencement day means 1 July 2002.
-commercial premises—see section 7 (When are premises commercial or retail premises?).
+commercial premises—see section 7.
 conduct, in relation to a lease or to negotiations for the entering into of a lease, means an act or omission in relation to the lease or negotiations.
 Examples of acts and omissions in relation to leases or negotiations
 1 making a request or demand of a person in relation to the lease or negotiations
@@ -32,7 +31,7 @@ dispute—
   (a) for this Act generally—means a dispute to which this Act applies under section 17; and
   (b) in relation to an application, for part 14 (Dispute resolution)—see section 143.
 entered into, for a lease—see section 5.
-excluded area—see section 11 (What is an excluded area?).
+excluded area—see section 11.
 extend, under an option, includes renew under the option.
 initial rent means the rent set at the beginning of a lease or renewal of a lease.
 key money means an amount paid by or on behalf of a tenant to, or at the direction of, a lessor, or any benefit given to, or at the direction of, a lessor, but does not include—
@@ -43,14 +42,13 @@ key money means an amount paid by or on behalf of a tenant to, or at the directi
   (e) a reasonable amount payable to someone for attendances on the tenant in relation to the preparation of documents that are relevant to a lease; or
   (f) any reasonable amount payable to a lessor for goods and services provided, or to be provided, to the tenant; or
   (g) an amount allowed to be paid under this Act.
-lease means a lease, within the meaning of section 12 (What leases does this Act apply to?), to which this Act applies under that section.
+lease means a lease, within the meaning of section 12, to which this Act applies under that section.
 Note Pt 13 only applies to leases for premises in retail areas of shopping centres.
 lessor, of premises, means a person who grants a right to occupy the premises under a lease, and includes—
   (a) a sublessor; and
   (b) a person who receives the right to lease the premises by assignment from the lessor or by operation of law; and
   (c) in relation to negotiations for a lease—a prospective lessor.
 lettable area, of premises, means the area of the premises worked out in accordance with section 13 (How to work out the lettable area of premises).
-Magistrates Court means the Magistrates Court when exercising jurisdiction under this Act.
 market rent, of premises—see schedule 1 (Working out market rent).
 normal purpose, of leased premises that have been damaged, means the way the premises were ordinarily used by the tenant before they were damaged if the use was allowed under the lease.
 option, for a lease, means a right given under the lease for—
@@ -59,14 +57,13 @@ option, for a lease, means a right given under the lease for—
 party, to an application, for part 14 (Dispute resolution)—see section 143.
 premises, for a lease, are the premises covered by the lease.
 recoverable outgoings means outgoings recoverable under section 70.
-renewal, of a lease—see section 6 (When is a lease taken to be renewed for this Act?).
+renewal, of a lease—see section 6.
 rent includes a component of rent.
 rent review includes a change to rent payable on the exercise of an option under a lease, but does not include a predetermined rent change.
 retail area means the area of a shopping centre other than an excluded area.
 retail premises—see section 7 (2).
 shopping centre—see section 8.
 small commercial premises means commercial premises with a lettable area of no more than 300m2.
-taxable supply—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
 tenant, of premises, means a person who has the right to occupy the premises under a lease, and includes—
   (a) a subtenant; and
   (b) a person who receives the right to occupy the premises by assignment from the tenant or by operation of law; and
