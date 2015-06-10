@@ -104,6 +104,7 @@ firearm, for schedule 1 (Activities requiring environmental authorisation)—see
 fuel-burning equipment, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 general environmental duty means the duty of care described in section 22 (1).
 ground water, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+hazardous component, of electronic waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 information discovery order means an information discovery order under section 133.
 inquiry, for part 10 (Functions of the Minister)—see the Planning and Development Act 2007, section 206 (Definitions—ch 8).
 internally reviewable decision, for part 14 (Notification and review of decisions)—see section 135.
