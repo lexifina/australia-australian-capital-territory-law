@@ -24,10 +24,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · State
 · statutory declaration
 · under.
-account––see section 131.
+account, for an agent, for division 8.2 (Freezing accounts)—see section 131.
 ADI business day, for a trust account, for division 7.2 (Trust money and trust accounts)—see section 104.
 administrator, for part 9 (Appointment of administrators)—see section 138.
-agency agreement—see section 100 (No commission or expenses without agency agreement).
 agent—
   (a) means a person who carries on business as—
     (i) a business agent; or
@@ -51,7 +50,7 @@ carries on business as—
   (c) a real estate agent—see section 8; or
   (d) a stock and station agent—see section 9.
 child, of a person, means the son, daughter, grandson, granddaughter, stepson or stepdaughter of the person, or someone in relation to whom the person is acting in place of a parent.
-claimant, for division 10.2 (Claims against compensation fund)—see section 147.
+claimant, for division 10.2 (Claims against compensation fund)—see section 149.
 compensation fund means the consumer compensation fund kept under section 144.
 corresponding law—see section 174.
 details, of a trust account, for part 7 (Trust accounts)—see section 103.
@@ -73,34 +72,23 @@ family member, of a person, means—
   (b) the person’s parent or child; or
   (c) the person’s brother, sister, half-brother or half-sister; or
   (d) the parent or child of the person’s domestic partner.
-former licensed agent means a person who was, but is no longer a licensed agent.
-former registered salesperson means a person who was, but is no longer a registered salesperson.
 ground for occupational discipline—
-  (a) for a licensed agent—see section 41; and
+  (a) for an agent—see section 41; and
   (b) for a registered salesperson—see section 65.
 investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
-kind of licence means—
-  (a) a business agents licence; or
-  (b) an employment agents licence; or
-  (c) a real estate agents licence; or
-  (d) a stock and station agents licence.
-kind of registration means registration as—
-  (a) a business salesperson; or
-  (b) a real estate salesperson; or
-  (c) a stock and station salesperson.
 land includes an interest in land.
-lessee includes prospective lessee.
 licence means a licence under this Act.
 licensed, for division 3.1 (Agents to be licensed)––see section 17.
-licensed agent, for part 7 (Trust accounts)—see section 101.
+licensed agent—
+  (a) for this Act generally—means an agent who holds a licence; and
+  (b) for division 7.2 (Trust money and trust accounts) and division 7.3 (Periodic returns and quarterly statements)—see section 104A; and
+  (c) for division 10.2 (Claims against compensation fund)—see section 147.
 licensed business agent means a person who holds a licence as a business agent.
 licensed employment agent means a person who holds a licence as an employment agent.
 licensed real estate agent means a person who holds a licence as a real estate agent.
 licensed stock and station agent means a person who holds a licence as a stock and station agent.
-livestock means animals raised or kept for profit.
 main place of business, for a licensed agent, means the place shown in the register as the agent’s main place of business.
 obtains a beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
-owners corporation managing agent means a person appointed as manager of an owners corporation for a units plan under the Unit Titles (Management) Act 2011.
 parent, of a person, means the person’s father, mother, grandfather, grandmother, stepfather or stepmother, or someone acting in place of the person’s parent.
 police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
   (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
@@ -116,7 +104,7 @@ publish—see section 78.
 qualified auditor, for division 7.4 (Audit of trust accounts)—see section 112.
 real estate agent service—see section 8 (2).
 records includes documents and information in electronic form.
-register means the register under section 160.
+register, when used as a noun, means the register under section 160.
 registered, for division 4.1 (Salespeople to be registered)—see section 44.
 registered business salesperson means a person registered under section 57 as a business salesperson.
 registered real estate salesperson means a person registered under section 57 as a real estate salesperson.
@@ -141,6 +129,6 @@ seller includes prospective seller.
 selling price, for division 5.6 (Land—further provisions)—see section 80.
 stock and station agent service—see section 9.
 stop direction, for division 8.2 (Freezing accounts)––see section 131.
-trust account—see section 105 (Opening trust accounts).
+trust account—see section 105.
 trust money—see section 102.
 vehicle includes a ship, train or aircraft.
