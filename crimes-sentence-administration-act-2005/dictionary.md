@@ -170,7 +170,9 @@ sentence means—
     (i) when used as a noun—the penalty imposed for an offence; or
     (ii) when used as a verb—to impose a penalty for an offence; but
   (b) for chapter 12 (Transfer of community-based sentences)—see section 263.
-sentence of imprisonment, for part 7.6 (Interstate transfer of parole orders)—see section 162.
+sentence of imprisonment—
+  (a) for part 7.6 (Interstate transfer of parole orders)—see section 162; and
+  (b) for part 11.1 (Interstate transfer of prisoners)—see section 218.
 sentencing court, for an offender under a sentence, means the court by which the sentence was first imposed, and includes that court differently constituted.
 serve a sentence, for chapter 12 (Transfer of community-based sentences)—see section 263.
 served—a period of imprisonment is served when—
