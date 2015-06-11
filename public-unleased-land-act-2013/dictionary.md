@@ -17,6 +17,7 @@ authorised person means an authorised person mentioned in section 89 (Authorised
 closed road—see section 11 (1) (Director-general may temporarily close public roads).
 closed road approval—see section 12 (1) (Approval to use closed road).
 connected, for part 4 (Enforcement)—see section 88.
+conservator—see the Nature Conservation Act 2014, dictionary.
 damage a protected tree, for division 2.6 (Trees and other plants affecting public unleased land)—see section 30.
 director-general’s direction—see section 100 (2).
 drainage direction—see section 15 (2) (Directions to construct surface water drains).
@@ -58,6 +59,8 @@ registered tree, for division 2.6 (Trees and other plants affecting public unlea
 regulatory action—see section 80.
 removal direction—see section 98 (3) (Direction to remove objects from public unleased land).
 repair damage direction—see section 21 (2) (Directions to repair damage to public unleased land).
+reserve—see the Nature Conservation Act 2014, section 169.
+Note Reserves include wilderness areas, national parks, nature reserves, catchment areas and other areas of public land.
 retention area, for division 4.4 (Removal and disposal of objects on public unleased land by Territory)—see the Uncollected Goods Act 1996, dictionary.
 reviewable decision, for part 5 (Notification and review of decisions)—see section 127.
 risk management plan notice, for part 3 (Public unleased land permits)—see section 55 (2) (Suitability of activities—risk management plan).
@@ -73,5 +76,6 @@ tree protection approval, for division 2.6 (Trees and other plants affecting pub
 use, public unleased land, for part 3 (Public unleased land permits)—see section 41.
 vehicle—see the Road Transport (General) Act 1999, dictionary.
 warrant, for part 4 (Enforcement)—see section 88.
+wilderness area—see the Nature Conservation Act 2014, section 170.
 work, on public unleased land—see section 18.
 work approval—see section 19.

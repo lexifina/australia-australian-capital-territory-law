@@ -4,15 +4,15 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 1 | 12 (4) | refuse to issue closed road approval | applicant for approval
 2 | 12 (5) | impose condition on closed road approval | applicant for approval
 3 | 15 (2) | issue drainage direction | person directed
-4 | 19 (4) | refuse to issue work approval | applicant for approval
-5 | 19 (5) | impose condition on work approval | applicant for approval
+4 | 19 (5) | refuse to issue work approval | applicant for approval
+5 | 19 (6) | impose condition on work approval | applicant for approval
 6 | 21 (2) | issue repair damage direction | person directed
 7 | 25 (4) | refuse to issue sign approval | applicant for approval
 8 | 25 (6) | impose condition on sign approval | applicant for approval
 9 | 31 (2) | issue plant pruning direction | person directed
 10 | 34 (2) | issue plant removal direction | person directed
 11 | 57 (2) | refuse to issue public unleased land permit | applicant for permit
-12 | 57 (3) | issue public unleased land permit—impose condition | permit-holder
+12 | 57 (4) | issue public unleased land permit—impose condition | permit-holder
 13 | 61 (1) | impose financial assurance condition on public unleased land permit | permit-holder
 14 | 66 | decision to claim a financial assurance | permit-holder
 15 | 68 (1) | amend public unleased land permit | permit-holder
