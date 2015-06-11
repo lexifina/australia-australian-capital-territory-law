@@ -6,7 +6,7 @@
 ## Part 6 Registration of places and objects
 ### Division 6.1 Provisional registration
 ### Division 6.2 Registration
-### Division 6.3 Registration of place or object protected under Nature Conservation Act 1980
+### Division 6.3 Registration of place or object protected under Nature Conservation Act 2014
 ## Part 7 Cancellation of registration
 ## Part 8 Management of Aboriginal places and Aboriginal objects
 ## Part 9 Restricted information

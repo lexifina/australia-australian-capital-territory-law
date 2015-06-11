@@ -46,7 +46,6 @@ engage in conduct means—
   (b) omit to do an act.
 excavation application—see section 61E.
 excavation permit—see section 61F.
-Flora and Fauna Committee means the committee established under the Nature Conservation Act 1980, section 13.
 heritage agreement—see section 99.
 heritage decision means a decision under—
   (a) section 32 (Decision about provisional registration); or
@@ -98,6 +97,7 @@ registration details—see section 12.
 representative Aboriginal organisation—see section 14.
 restricted information means information declared to be restricted information under section 54 (Declaration of restricted information).
 reviewable decision—see section 111.
+scientific committee—see the Nature Conservation Act 2014, dictionary.
 statement of heritage effect—see section 61G.
 tree damaging activity, for part 10A (Tree damaging activity etc)—see section 61A.
 tree management plan, for part 10A (Tree damaging activity etc)—see the Tree Protection Act 2005, dictionary.
