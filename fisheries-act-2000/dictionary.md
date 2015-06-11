@@ -25,7 +25,7 @@ but does not include—
 boat means any kind of vessel, however navigated.
 commercial fishing licence means a licence mentioned in section 20.
 commercial quantity of fish of a priority species means the quantity prescribed by regulation as a commercial quantity of the fish.
-conservation officer means a conservation officer under the Nature Conservation Act 1980.
+conservation officer—see the Nature Conservation Act 2014, dictionary.
 conservator means the conservator of flora and fauna.
 corresponding law means a law of a State that regulates fisheries.
 environment—see the Environment Protection Act 1997, dictionary.
