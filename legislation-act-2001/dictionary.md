@@ -110,7 +110,7 @@ Commonwealth DPP means the Director of Public Prosecutions under the Director of
 Commonwealth gazette means the Commonwealth of Australia Gazette or the Australian Government Gazette.
 Note The Australian Government Gazette was published from 1 July 1973 to 30 June 1976.
 confer, in relation to a function, includes impose.
-conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 1980.
+conservator of flora and fauna means the Conservator of Flora and Fauna under the Nature Conservation Act 2014.
 construction occupations registrar means the Australian Capital Territory Construction Occupations Registrar under the Construction Occupations (Licensing) Act 2004.
 contravene includes fail to comply with.
 converted ordinance means an enactment that was an ordinance immediately before self-government day.
