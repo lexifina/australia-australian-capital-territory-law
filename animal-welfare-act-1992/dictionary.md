@@ -70,7 +70,7 @@ licence means a licence granted under section 27.
 licensed premises—see section 27 (Decision about licence application).
 licensee means the holder of a licence.
 mandatory code of practice means a code of practice, or part of a code of practice, approved under section 23 as mandatory.
-native animal—see the Nature Conservation Act 1980, dictionary.
+native animal—see the Nature Conservation Act 2014, section 12.
 occupier, of premises that an inspector or authorised officer is authorised to enter under part 7, for part 7 (Enforcement)—see section 74.
 offence—
   (a) for part 7 (Enforcement)—see section 74; and
