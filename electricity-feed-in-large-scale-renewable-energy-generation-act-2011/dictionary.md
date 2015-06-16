@@ -46,7 +46,7 @@ Australian capital region means the region made up of—
   (b) if a regulation prescribes areas that make up the region—the prescribed areas.
 capacity, of a generating system—see section 7.
 distribution system—see the National Electricity (ACT) Law, section 2.
-eligible electricity—see section 17.
+eligible electricity—see section 17 (1).
 FiT capacity—see section 9.
 FiT capacity release—see section 10 (1).
 FiT entitlement—see section 8.
