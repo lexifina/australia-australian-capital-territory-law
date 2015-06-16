@@ -25,3 +25,5 @@ premium rate, for electricity supplied from a renewable energy generator to an e
   (b) the eligible entity for the generator makes the application for payment mentioned in section 6 (3).
 renewable energy generator—see section 5B.
 renewable energy source—see section 5B.
+reporting entity—see section 11B (3).
+required information—see section 11B (1).
