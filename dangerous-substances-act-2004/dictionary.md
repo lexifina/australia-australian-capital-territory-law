@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · rural fire service
 · SES
 · State.
+affected residential premises register—see section 47N.
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
 analysis, of a dangerous substance or anything else, includes examining or testing the substance or thing.
 approved code of practice means a code of practice approved under section 219 (1).
@@ -83,6 +84,7 @@ internally reviewable decision—see section 186.
 internal reviewer, for chapter 9 (Notification and review of decisions)—see section 188.
 internal review notice, for chapter 9 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 licence means a licence issued under this Act.
+loose-fill asbestos insulation—see section 47M.
 manufacture a dangerous substance or anything else includes—
   (a) make, remake, alter, break-up, process, recondition or treat the substance or thing; and
   (b) change the substance or thing in a way that affects its properties or performance.
