@@ -14,20 +14,19 @@ goods means moveable personal property, including animals and food.
 goods of low value means uncollected goods having a net value of more than $20 but less than $500.
 goods of no value means uncollected goods having a net value of $20 or less.
 goods of significant value means uncollected goods having a net value of $500 or more.
-leased public baths—see the Public Baths and Public Bathing Act 1956, dictionary.
-manager—see the Public Baths and Public Bathing Act 1956, dictionary.
 net value, in relation to goods, means the market value of the goods less the reasonable costs of selling the goods including removal, storage, preservation, transportation and advertising costs.
 off-street parking area means an area of land available for use by the public, whether with or without the payment of money, for the parking of motor vehicles, and includes—
   (a) the entrances to, the exits from and the passageways in such an area; and
   (b) the area of land that is situated between the entrances to and the exits from such an area and a public street and that is used for access to the area.
+operator, of a pool facility––see the Public Pools Act 2015, section 8.
 owner means the owner of goods in the possession of another person.
 perishable goods means—
   (a) animals; or
   (b) perishable foodstuffs; or
   (c) articles that are, or could become, noxious or a danger to public health.
 personal effects includes private and personal papers, official records, bankbooks, certificates and photographs.
+pool facility––see the Public Pools Act 2015, section 10.
 possessor means a person in possession of goods belonging to another person.
-public baths—see the Public Baths and Public Bathing Act 1956, dictionary.
 public place means—
   (a) an off-street parking area; or
   (b) a loading area; or

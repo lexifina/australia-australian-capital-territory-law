@@ -2,7 +2,7 @@
 ## Part 2 Uncollected goods
 ### Division 2.1 Meaning of uncollected goods
 ### Division 2.2 Goods not collected when requested
-### Division 2.3 Goods found at public baths
+### Division 2.3 Goods found at pool facilities
 ### Division 2.4 Goods found on public or unleased land
 ## Part 3 Disposal of uncollected goods
 ### Division 3.1 Mode of disposition
