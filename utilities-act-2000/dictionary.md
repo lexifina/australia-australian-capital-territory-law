@@ -81,6 +81,7 @@ land-holder—
     (ii) if the land is occupied by a person other than the owner—an occupier of the land; and
   (b) in relation to unleased Territory land—means the Territory; and
   (c) in relation to national land—means the Commonwealth, and includes a lessee of the land.
+land sublease—see the Planning and Development Act 2007, dictionary.
 levy, for part 3A (Energy industry levy)—see section 54A.
 levy year, for part 3A (Energy industry levy)—see section 54C (1).
 licence means a licence under this Act.
@@ -109,10 +110,11 @@ occupier, of premises—
   (a) for this Act—means a person who has, or is entitled to, lawful possession or control of the premises (whether alone or together with 1 or more other people); or
   (b) for part 10 (Enforcement)—see section 150.
 offence, for part 10 (Enforcement)—see section 150.
-owner, of premises, means—
-  (a) a person who owns the premises; or
-  (b) a lessee of the premises under a lease granted by or for the Commonwealth; or
-  (c) for a unit under the Unit Titles Act 2001—the unit owner;
+owner, of land or premises, means—
+  (a) a person who owns the land or premises; or
+  (b) a lessee of the land or premises under a lease granted by or for the Commonwealth; or
+  (c) for a unit under the Unit Titles Act 2001—the unit owner; or
+  (d) for land held under a land sublease—the sublessee;
 whether alone or together with 1 or more other people.
 personal information—see the Privacy Act 1988 (Cwlth), section 6 (Interpretation), but does not include information available to a section of the public.
 premises includes land and place.
