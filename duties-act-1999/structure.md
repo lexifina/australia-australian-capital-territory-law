@@ -43,5 +43,3 @@
 ## Part 12.1 Stamping instruments
 ## Part 12.2 Enforcement
 ## Part 12.3 Miscellaneous
-# Chapter 15 Transitional—Duties Amendment Act 2006 (No 2)
-## Part 15.3 Transitional—unquoted marketable securities

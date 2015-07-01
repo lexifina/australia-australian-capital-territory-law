@@ -52,9 +52,9 @@ corporation means a body corporate, whether incorporated in this jurisdiction or
 corresponding Act means an Act of another Australian jurisdiction that corresponds to this Act.
 corresponding law, in relation to a territory law, means a law of a State or another Territory that is similar, or has a similar effect, to that territory law.
 cost, in relation to a lease—see section 136.
-Crown lease includes a lease of land granted by or in the name of the Commonwealth or by the Federal Capital Commission.
-Note The Federal Capital Commission was appointed under the Seat of Government (Administration) Act 1924 (Cwlth) (repealed).
+Crown lease—see the Land Titles Act 1925, dictionary.
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
+declared land sublease—see the Planning and Development Act 2007, section 312C.
 deferral arrangement, for part 2.6A (Deferred payments—home buyers) see section 75AC (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
 determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
@@ -137,7 +137,7 @@ paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—s
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
-partnership interest—see section 10 (1) (e).
+partnership interest—see section 10 (1) (f).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 premium––
   (a) for chapter 2 (Transactions concerning dutiable property)—see section 6; and
