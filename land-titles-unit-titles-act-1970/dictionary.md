@@ -12,6 +12,7 @@ Note 3 Terms defined in the Unit Titles Act 2001 have the same meaning in this A
 · boundary authority (see s 149)
 · cancellation authority (see s 160)
 · common property (see s 13)
+· declared land sublease
 · lease
 · mortgage
 · parcel (see s 5)
