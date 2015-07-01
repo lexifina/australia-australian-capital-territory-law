@@ -18,10 +18,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · function
 · reviewable decision notice
 · State.
+advisory committee, for chapter 4A (School education advisory committee) means an advisory committee established under section 126.
 appointed member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
-  (b) for the school board of a small school, other than a school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 42 (Composition of school boards of small schools); or
-  (c) for the Government Schools Education Council—see section 56 (Membership of council (government)).
+  (b) for the school board of a small school, other than a school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 42 (Composition of school boards of small schools).
 approval statement, for division 2.4.2 (Approval to participate in training and employment alternatives)—see section 13D.
 approved educational course means an approved educational course (government) or approved educational course (non-government).
 approved educational course (government) means an educational course approved under section 31.
@@ -33,25 +33,14 @@ board appointed member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
   (b) for a school board of a small school, other than a school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 42 (Composition of school boards of small schools).
 carer—see section 6.
-community member—
-  (a) for part 3.5 (Government Schools Education Council)—see section 57 (Appointed members of council (government)); and
-  (b) for part 4.4 (Non-government Schools Education Council)—see section 109 (Members of council (government)).
 completes year 10—see section 9B.
 completes year 12—see section 9C.
 compliance notice, for chapter 2 (Compulsory education)—see section 16B.
 compulsory education age, for chapter 2 (Compulsory education)—see section 9.
 corporal punishment means physical force applied to punish or correct, and includes any action designed or likely to cause physical pain or discomfort taken to punish or correct.
-council—
-  (a) for part 3.5—means the Government Schools Education Council; and
-  (b) for part 4.4—means the Non-Government Schools Education Council.
-council (government), for part 3.5—means the Government Schools Education Council.
-council (non-government), for part 4.4—means the Non-government Schools Education Council.
 decision-maker, for part 6.1 (Notification and review of decisions)—see section 140.
 educational course means a course of teaching and learning directed toward acquiring a particular area of knowledge and skills.
 education course—see section 9A.
-education member—
-  (a) for part 3.5 (Government Schools Education Council)—see section 57 (Appointed members of council (government)); and
-  (b) for part 4.4 (Non-government Schools Education Council)—see section 109 (Members of council (government)).
 education provider—see section 9A.
 employment alternative—see section 13B.
 exclusion—
