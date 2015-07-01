@@ -44,11 +44,14 @@ ground, for disciplinary action—see section 60.
 ground water—see section 9.
 incorporated document means an instrument applied, adopted or incorporated by a statutory instrument under this Act.
 land includes a building or structure on land.
+land sublease—see the Planning and Development Act 2007, dictionary.
 licence means a licence under this Act.
 licence to take water means a licence under section 30.
 occupier, of premises, for part 10 (Enforcement)—see section 78.
 offence, for part 10 (Enforcement)—see section 78.
-owner, of land, includes the lessee of the land.
+owner, of land, includes—
+  (a) the lessee of the land; or
+  (b) for land under a land sublease—the sublessee.
 premises, for part 10 (Enforcement)—see section 78.
 recharge licence means a licence under section 49.
 register means the register under section 66.
