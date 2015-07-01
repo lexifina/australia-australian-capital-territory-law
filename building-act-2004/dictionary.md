@@ -76,6 +76,7 @@ land includes—
   (a) a place under, on or above the ground; and
   (b) land that is the subject of a public unleased land permit under the Public Unleased Land Act 2013; and
   (c) land, a building or a structure, the use of which is authorised by a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land).
+land sublease—see the Planning and Development Act 2007, dictionary.
 lease—see the Planning and Development Act 2007, section 235.
 licensed construction practitioner means an entity licensed under the Construction Occupations (Licensing) Act 2004.
 licence number—see the Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
@@ -91,8 +92,10 @@ owner, of land, means—
   (d) if the land is subject to a public unleased land permit under the Public Unleased Land Act 2013—the permit-holder; or
   (e) if the land is subject to a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land)—the licensee; or
   (f) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
-  (g) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth.
+  (g) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth; or
+  (h) if the land is under a land sublease—the sublessee.
 owner-builder means an entity licensed under the Construction Occupations (Licensing) Act 2004 in the occupation class of owner-builder.
+parcel, of land, includes land under a land sublease.
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
