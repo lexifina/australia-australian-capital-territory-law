@@ -10,13 +10,16 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • establish
 • exercise
 • reviewable decision notice.
-chair means the chair of the council appointed under section 32.
-council means the Canberra Institute of Technology Advisory Council established by section 28.
-deputy chair means the deputy chair of the council appointed under section 32.
-director means the director of the institute.
-institute means the Canberra Institute of Technology.
-member means a member of the council.
-para-professional training means training that leads to the award of an associate diploma.
-reviewable decision, for part 9 (Notification and review of decisions)—see section 61.
-staff, in relation to the institute, means people employed by the institute under section 49.
-technical and further education means education provided by way of a course of instruction or training that is, or that is preparatory to, a course of a kind relevant to a trade, technical or other skilled occupation or that otherwise meets the educational needs of individuals and includes para-professional and professional training.
+AQF means the Australian Qualifications Framework under the National Vocational Education and Training Regulator Act 2011 (Cwlth), section 3.
+chair means the chair of the institute board appointed by the Minister under the Financial Management Act 1996, section 79.
+chief executive officer means the chief executive officer of the institute.
+deputy chair means the deputy chair of the institute board appointed by the Minister under the Financial Management Act 1996, section 79.
+higher education means education in relation to which a higher education award, within the meaning of the Tertiary Education Quality and Standards Agency Act 2011 (Cwlth), may be issued.
+institute—see section 5.
+institute board—see section 9.
+non-elected member, of the institute board—see section 10 (2) (g).
+reviewable decision, for part 6 (Notification and review of decisions)—see section 20.
+staff, in relation to the institute, means people employed by the institute under section 15.
+staff member, of the institute board—see section 10 (2) (c).
+student member, of the institute board—see section 10 (2) (d).
+vocational education and training means the education and training and qualifications and statements of attainment under the vocational education and training provisions of the Australian Qualifications Framework (AQF).

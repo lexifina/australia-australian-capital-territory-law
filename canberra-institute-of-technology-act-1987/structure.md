@@ -1,8 +1,10 @@
 ## Part 1 Preliminary
-## Part 2 Establishment, functions and powers of institute
-## Part 3 Director of institute
-## Part 5 Council of institute
-## Part 7 Staff and consultants
-## Part 8 Finance
-## Part 9 Notification and review of decisions
-## Part 10 Miscellaneous
+## Part 2 Canberra Institute of Technology
+### Division 2.1 Establishment and functions of institute
+### Division 2.2 Institute board
+## Part 3 Admission to courses and issuing awards
+## Part 4 Staff and consultants
+## Part 5 Finance
+## Part 6 Notification and review of decisions
+## Part 7 Miscellaneous
+## Part 11 Transitional—Canberra Institute of Technology Amendment Act 2014
