@@ -26,6 +26,7 @@ financial assurance condition, on a public unleased land permit—see section 60
 ground for regulatory action, against a permit-holder, for division 3.9 (Public unleased land permits—regulatory action)—see section 79.
 influential person, for a corporation, for part 3 (Public unleased land permits)—see section 42.
 inspection notice, for part 3 (Public unleased land permits)—see section 56 (2) (Suitability of activities—inspection of object).
+land sublease—see the Planning and Development Act 2007, dictionary.
 location plan, for part 3 (Public unleased land permits)—see section 45 (Public unleased land permit—application).
 movable signs code of practice—see section 27 (Movable signs code of practice).
 object includes any item of movable personal property.
@@ -35,7 +36,7 @@ occupier—
 offence, for part 4 (Enforcement)—see section 88.
 on, public unleased land, includes in, at or across the public unleased land.
 owner––
-  (a) of land, means the lessee of the land; and
+  (a) of land, means the lessee of the land (or for land under a land sublease, the sublessee); and
   (b) of a vehicle, includes anyone who has a legal right to move the vehicle.
 permit means a public unleased land permit.
 permit-holder means a person who is the holder of a permit.
