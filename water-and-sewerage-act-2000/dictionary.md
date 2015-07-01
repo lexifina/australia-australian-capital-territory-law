@@ -39,12 +39,15 @@ irrigation means the supplying of water for—
 irrigation system—
   (a) means the part of water supply pipework from a water network to outlets for irrigation; but
   (b) does not include part of a water network.
+land sublease—see the Planning and Development Act 2007, dictionary.
 licence of a stated kind, means a licence of that kind under the Construction Occupations (Licensing) Act 2004.
 licence number—see Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 licensee, in relation to a service, means a person licensed under the Construction Occupations (Licensing) Act 2004 to provide the service.
 occupier, of premises, for part 4 (Enforcement)—see section 18.
 offence, for part 4 (Enforcement)—see section 18.
-owner, for land, includes the occupier, lessee, tenant or holder of any land on which any sewerage or water service has been, or is to be, installed.
+owner, of premises or land on which a sewerage or water service has been, or is to be, installed includes—
+  (a) the occupier, lessee, tenant or holder of the premises or land; and
+  (b) for land under a land sublease or premises on the land—the sublessee.
 plan approval means a plan approval issued under section 8 (Issue of plan approvals).
 plumbing code—see section 44C.
 premises includes land and place.
