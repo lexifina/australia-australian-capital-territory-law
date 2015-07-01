@@ -75,7 +75,7 @@ column 1 item | column 2 activity
 4 | the sterilisation of clinical waste
 5 | the conduct of a crematorium for the reduction by means of thermal oxidation of human bodies to cremated remains
 6 | the operation of a commercial landfill facility that receives, or is intended by the operator to receive, more than 5 000t of waste per year
-7 | the acceptance of more than 100m3 of soil for placement on land by a lessee or occupier of the land if the land is in—
+7 | the acceptance of more than 100m3 of soil for placement on land by a lessee (or for land under a land sublease, the sublessee) or occupier of the land if the land is in—
  | (a) an area identified in the territory plan as land in any of the following zones: Broadacre; Rural; Hills, Ridges and Buffer Areas; River Corridors; Mountains and Bushlands; or
  | (b) an area identified on a precinct map in the territory plan as an area where plantation forestry is permitted subject to development assessment; or
  | (c) an area identified in the national capital plan as any of the following: Broadacre Areas; Rural Areas; Hills, Ridges and Buffer Spaces; River Corridors; Mountains and Bushland

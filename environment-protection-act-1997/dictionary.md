@@ -109,6 +109,7 @@ information discovery order means an information discovery order under section 1
 inquiry, for part 10 (Functions of the Minister)—see the Planning and Development Act 2007, section 206 (Definitions—ch 8).
 internally reviewable decision, for part 14 (Notification and review of decisions)—see section 135.
 land includes water on or below the surface of land and the bed of such water.
+land sublease—see the Planning and Development Act 2007, dictionary.
 live animal weight, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 logging, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 material environmental harm means environmental harm—
