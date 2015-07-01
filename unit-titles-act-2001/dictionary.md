@@ -39,6 +39,9 @@ class B unit—see section 11.
 common property—see section 13.
 company—see the Unit Titles (Management) Act 2011, dictionary.
 corporate register—see the Unit Titles (Management) Act 2011, section 113.
+Crown lease—see the Land Titles Act 1925, dictionary.
+Crown lessee, in relation to a declared land sublease, means the lessee under the Crown lease under which the sublease is granted.
+declared land sublease—see the Planning and Development Act 2007, section 312C.
 developer means the lessee of a parcel who applies for the approval of the subdivision of the parcel under section 17 (Unit title applications—general requirements).
 development, of a parcel, a unit or common property—
   (a) means the erection, alteration or addition of a building on the parcel, unit or common property; and
@@ -61,7 +64,10 @@ improved value, for calculating the unit entitlement of a unit (whether before o
     (i) the combined value of the land occupied by the unit itself and of all buildings on the land;
     (ii) for any unit subsidiaries annexed to the unit that are buildings or parts of buildings—the value of the buildings or parts of buildings;
     (iii) for any unit subsidiaries annexed to the unit that are constituted by land—the combined value of the land and all buildings on the land.
-interest, in a unit or common property, means a legal or equitable estate or interest (whether registered or unregistered) in the lease of the unit or of the common property, except an interest in a sublease of a unit.
+interest, in a unit or common property—
+  (a) means a legal or equitable estate or interest (whether registered or unregistered) in the lease of the unit or of the common property; and
+  (b) if a units plan subdivides a parcel of land under a declared land sublease—includes the interest of the Crown lessee in the land; but
+  (c) does not include an interest in a lease of a unit.
 interested nonvoter—a person with an interest in a unit or the common property is an interested nonvoter in relation to an application under this Act for amendment of a development statement (under section 30), a boundary authority (under section 149) or a cancellation authority (under section 160) if—
   (a) the interest was shown on the corporate register (or known to an executive member) when the application was made; and
   (b) either—
@@ -77,9 +83,20 @@ internally reviewable decision, for part 14 (Notification and review of decision
 internal reviewer, for part 14 (Notification and review of decisions)—see section 174A.
 internal review notice, for part 14 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 lease means—
-  (a) for a unit—the lease of the unit under section 33 (2) (Leases of units and common property) or section 171 (2) (New unit lease); or
-  (b) for common property—the lease of the common property under section 33 (3) (Leases of units or common property); or
-  (c) for a parcel—the lease of the parcel granted under the Planning and Development Act 2007, or the lease arising under section 162 (Cancellation of units plan—effects) of this Act.
+  (a) for a unit—the lease of the unit under—
+    (i) section 33 (2) (Leases of units and common property); or
+    (ii) section 167AA (Declared land subleases—grant of further leases); or
+    (iii) section 171 (2) (New unit lease); or
+    (iv) the Planning and Development Act 2007, section 254 (Grant of further leases); or
+  (b) for common property—the lease of the common property under—
+    (i) section 33 (3) (Leases of units and common property); or
+    (ii) section 167AA (Declared land subleases—grant of further leases); or
+    (iii) the Planning and Development Act 2007, section 254 (Grant of further leases); or
+  (c) for a parcel—
+    (i) the lease of the parcel—
+      (A) granted under the Planning and Development Act 2007; or
+      (B) arising under section 162 (Cancellation of units plan—effects) of this Act; or
+    (ii) if the parcel is land under a declared land sublease—the declared land sublease.
 lessee means—
   (a) for a unit—the owner of the unit; or
   (b) for the common property—the owners corporation; or
@@ -117,7 +134,9 @@ reviewable decision, for part 14 (Notification and review of decisions)—see se
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
 special resolution—see the Unit Titles (Management) Act 2011, dictionary.
 staged development, in relation to a unit title application—see section 17 (4) (Unit title applications—general requirements).
-termination, of a lease of a unit, does not include the termination of the lease on surrender under the Planning and Development Act 2007, section 254 (Grant of further leases).
+termination, of a lease of a unit, does not include the termination of the lease on surrender under—
+  (a) the Planning and Development Act 2007, section 254 (Grant of further leases); or
+  (b) for leases under a units plan that subdivides land under a declared land sublease—section 167AA.
 unanimous resolution—see the Unit Titles (Management) Act 2011, dictionary.
 unit—see section 9.
 unit entitlement—see section 8.

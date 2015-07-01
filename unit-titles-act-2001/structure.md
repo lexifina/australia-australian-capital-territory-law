@@ -10,6 +10,7 @@
 ## Part 4 Registration of units plans
 ### Division 4.1 Subdivision, unit leases and common property lease
 ### Division 4.2 Easements
+### Division 4.3 Encroachments on public unleased land
 ## Part 10 Amendment of units plans
 ### Division 10.1 Amendment of schedule of unit entitlement
 ### Division 10.2 Minor boundary changes
@@ -19,9 +20,9 @@
 ### Division 11.2 Cancellation orders
 ### Division 11.3 Effects of cancellation
 ## Part 11A Changing 2-unit units plans to subdivisions
-## Part 12 Variation or surrender of leases
+## Part 12 Lease variations and grants of further leases
 ### Division 12.1 Variation of leases
-### Division 12.2 Surrender of leases in units
+### Division 12.2 Grants of further leases
 ## Part 13 Expiry and termination of unit leases
 ## Part 14 Notification and review of decisions
 ## Part 15 Miscellaneous
