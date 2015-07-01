@@ -80,6 +80,13 @@
 ## Part 10.1 Application of care and protection chapters
 ## Part 10.2 Important concepts—care and protection chapters
 ## Part 10.3 Principles and considerations—care and protection chapters
+## Part 10.4 Approved care and protection organisations
+### Division 10.4.1 Important concepts
+### Division 10.4.2 Approved care and protection organisations—ongoing suitability
+### Division 10.4.3 Approved care and protection organisations—complaints
+### Division 10.4.4 Approved care and protection organisations—intervention
+### Division 10.4.5 Approved care and protection organisations—surrendering approval
+### Division 10.4.6 Approved care and protection organisations register
 # Chapter 11 Care and protection—reporting, investigating and appraising abuse and neglect
 ## Part 11.1 Care and protection—reporting abuse and neglect
 ### Division 11.1.1 Definitions
@@ -222,3 +229,4 @@
 ## Part 25.5 Admissibility of evidence
 ## Part 25.6 Protection of people who give information
 # Chapter 26 Miscellaneous
+# Chapter 28 Transitional—Children and Young People Amendment Act 2015 (No 2)

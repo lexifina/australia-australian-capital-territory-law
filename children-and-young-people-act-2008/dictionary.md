@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · adult
 · bankrupt or personally insolvent
 · chief police officer
+· children and young people commissioner
 · Childrens Court
 · corrections officer
 · dentist
@@ -69,7 +70,10 @@ allegation report, for chapter 8 (Criminal matters—discipline at detention pla
 annual review report, for a reviewable care and protection order, for chapter 14 (Care and protection—care and protection orders )—see section 494.
 application, for chapter 19 (Care and protection—provisions applying to all proceedings under care and protection chapters)—see section 695.
 appraisal order, for the care and protection chapters—see section 372.
+approved care and protection organisation—see section 352C.
+approved foster care organisation—see section 510.
 approved research project, for chapter 22 (Research involving children and young people)—see section 805.
+approved residential care organisation—see section 511.
 assessment order, for the care and protection chapters—see section 436.
 at risk of abuse or neglect, in the care and protection chapters—see section 344.
 authorised assessor—see section 438.
@@ -87,7 +91,9 @@ care and protection appraisal, for the care and protection chapters—see sectio
 care and protection assessment, for the care and protection chapters—see section 367.
 care and protection chapters—see section 336.
 care and protection order—see section 422.
+care and protection organisation standards—see section 887 (2) (b).
 care and protection principles—see section 350.
+care and protection purpose, for an organisation—see section 352B.
 care entities, for a child or young person for a placement, for division 15.4.3 (Information and items to be kept by foster carers and residential care services)—see section 526.
 care plan—see section 455.
 case management plan, for chapter 6 (Criminal matters—detention places)—see section 137.
@@ -97,15 +103,16 @@ child—see section 11.
 childcare centre—see section 733.
 childcare service—see section 732.
 childcare service licence, for chapter 20 (Childcare services)—see section 728 (2).
-childcare services standards—see section 887 (2) (e).
+childcare services standards—see section 887 (2) (f).
 childcare worker, for chapter 20 (Childcare services)—see section 728 (1).
 child concern report—see section 353.
-children and young people employment standards—see section 887 (2) (f).
+children and young people employment standards—see section 887 (2) (g).
 children and young people deaths register—see section 727N.
 Children and Youth Services Council means the Children and Youth Services Council established under section 27.
 child welfare law—see section 640 (1).
 child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 638.
 child welfare proceeding, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 639.
+complainant, for division 10.4.3 (Approved care and protection organisations—complaints)—see section 352H.
 compliance notice, for chapter 20 (Childcare services)—see section 760.
 compliance suspension notice, for chapter 20 (Childcare services)—see section 761.
 conduct—see the Criminal Code, section 13.
@@ -128,8 +135,9 @@ divulge, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
 domestic violence, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
 drug, for Part 6.7 (Alcohol and drug testing)—see section 235.
 drug of dependence—see the Drugs of Dependence Act 1989, dictionary.
-drug testing standards—see section 887 (2) (b).
+drug testing standards—see section 887 (2) (c).
 drug use provision, in a care and protection order, for the care and protection chapters—see section 488.
+due date, for a noncompliance notice—see section 352N (3) (e).
 DVPO final protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
 DVPO interim protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
 DVPO protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
@@ -159,7 +167,7 @@ family group conference standards—see section 887 (2) (a).
 family member, of a child or young person—see section 13.
 former caregiver, of a child or young person, for the care and protection chapters—see section 347.
 foster carer, for a child or young person—see section 510.
-foster care service—see section 515.
+foster care service—see section 510.
 frisk search—
   (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (b) for part 16.3 (Children and young people in therapeutic protection)—see section 586.
@@ -182,11 +190,13 @@ high risk employment, for part 21.4 (Employment of children and young people und
 information, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
 information holder, for chapter 25 (Information secrecy and sharing)—see section 843.
 information sharing entity, for part 25.3 (Sharing protected information)—see section 859 (1).
-information sharing standards—see section 887 (2) (i).
+information sharing standards—see section 887 (2) (j).
 in need of care and protection, for the care and protection chapters—see section 345 (1).
 in need of emergency care and protection, for the care and protection chapters—see section 403.
 in need of emergency therapeutic protection, for the care and protection chapters—see section 404.
-intention to cancel notice, for chapter 20 (Childcare services)—see section 764 (2).
+intention to cancel notice—
+  (a) for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352Q; and
+  (b) for chapter 20 (Childcare services)—see section 764 (2).
 interim care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 433.
 interim child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 661.
 interim therapeutic protection order—see section 543.
@@ -214,6 +224,9 @@ Minister of a State, for part 5.2 (Interstate transfers)—see section 114.
 minor behaviour breach, for chapter 8 (Criminal matters—discipline at detention places)—see section 288.
 neglect, of a child or young person—see section 343.
 nominated person, for a young detainee—see section 185 (2) (n).
+noncompliance direction, for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352O.
+noncompliance notice, for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352N.
+noncompliant, for an approved care and protection organisation, for division 10.4.3 (Approved care and protection organisations—complaints)—see section 352G.
 non-treating doctor—
   (a) for chapter 6 (Criminal matters—detention places)—see section 137; and
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
@@ -241,9 +254,9 @@ order, for chapter 24 (Appeals and review), includes a decision.
 ordinary search—
   (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (b) for part 16.3 (Children and young people in therapeutic protection)—see section 587.
+organisation—see section 352A.
 out-of-home carer—see section 508.
-out-of-home carer authorisation—see section 515.
-out-of-home care standards—see section 887 (2) (c).
+out-of-home care standards—see section 887 (2) (d).
 owner, of a thing—
   (a) for part 7.9 (Seizing property)—see section 279; and
   (b) for division 16.3.6 (Seizing dangerous things)—see section 620.
@@ -299,10 +312,12 @@ representative, for a child or young person, means a lawyer or other person repr
 requirement notice, for part 2.4 (Suitable entities for purposes under Act)—see section 68.
 researcher, for a research project, for chapter 22 (Research involving children and young people)—see section 805.
 research project, for chapter 22 (Research involving children and young people)—see section 806.
-research standards—see section 887 (2) (h).
+research standards—see section 887 (2) (i).
 residence provision, for the care and protection chapters—see section 484.
 residential care service—see section 511
-responsible person, for a childcare service, for chapter 20 (Childcare services)—see section 738.
+responsible person—
+  (a) for an approved care and protection organisation, for part 10.4 (Approved care and protection organisations)—see section 352D; and
+  (b) for a childcare service, for chapter 20 (Childcare services)—see section 738.
 review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 reviewable care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 493.
 reviewable decision, for division 24.1.3 (Notification and review of decisions)—see section 839.
@@ -357,7 +372,7 @@ therapeutic protection order—see section 532.
 therapeutic protection person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
 therapeutic protection place—see section 535.
 therapeutic protection plan—see section 536.
-therapeutic protection standards—see section 887 (2) (d).
+therapeutic protection standards—see section 887 (2) (e).
 therapeutic protection transition plan, for a child or young person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 538.
 transfer agreement, for part 5.2 (Interstate transfers)—see section 115.
 transfer arrangement, means a transfer arrangement under section 116 (Transfer arrangements—general) or, if the transfer arrangement has been amended by another transfer arrangement under that section, the transfer arrangement as amended.
@@ -372,7 +387,7 @@ voluntary care agreement—see section 394.
 voluntary report—see section 354.
 welfare body, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 work experience, for chapter 21 (Employment of children and young people)—see section 780.
-work experience standards—see section 887 (2) (g).
+work experience standards—see section 887 (2) (h).
 Working with Vulnerable People Act means the Working with Vulnerable People (Background Checking) Act 2011.
 young adult, for part 15.5 (Transition to adulthood)—see section 529B.
 young detainee—see section 95.
