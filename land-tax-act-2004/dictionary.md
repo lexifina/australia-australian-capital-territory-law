@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · quarter
 · under.
 commissioner means the commissioner for revenue.
+land sublease—see the Planning and Development Act 2007, dictionary.
 land tax includes—
   (a) penalty tax; and
   (b) the total of—
@@ -25,7 +26,8 @@ owner, of a parcel of land means—
   (a) the registered proprietor of an interest in the parcel (other than an interest in a lease granted by a person other than the Territory or the Commonwealth); or
   (b) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the parcel but not yet registered as the proprietor—the new owner; or
   (c) a mortgagee in possession of the parcel; or
-  (d) a person holding the parcel under a sublease from the Territory, if the Territory holds the parcel under a lease from the Commonwealth.
+  (d) a person holding the parcel under a sublease from the Territory, if the Territory holds the parcel under a lease from the Commonwealth; or
+  (e) for a parcel held under a land sublease—the sublessee.
 owners corporation—see the Unit Titles (Management) Act 2011, dictionary.
 parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
 primary production means—
