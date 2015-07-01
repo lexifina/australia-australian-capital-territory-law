@@ -19,8 +19,8 @@ Note See the Children and Young People Act 2008, particularly:
 · pt 3.2 (Family group conferences—facilitators);
 · s 438 (Care and protection assessment—authorisation of assessors);
 · s 509 (Who is a kinship carer?);
-· s 510 (Who is a foster carer?);
-· s 511 (What is a residential care service?);
+· s 510 (Meaning of approved foster care organisation, foster care service and foster carer);
+· s 511 (Meaning of approved residential care organisation and residential care service);
 · pt 16.2 (Therapeutic protection orders);
 · ch 22 (Research involving children and young people).
 ## 1.2 Justice facilities for children
