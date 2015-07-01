@@ -29,6 +29,7 @@ company means a corporation.
 Note Corporation—see the Legislation Act, dictionary, pt 1.
 corporate register—see section 113.
 court includes the ACAT.
+declared land sublease—see the Planning and Development Act 2007, section 312C.
 default rules—see section 106.
 developer—see the Unit Titles Act 2001, section 17.
 developer control period, for a units plan, means the period that—
