@@ -20,7 +20,6 @@ Note For territory authorities with governing boards, see the Financial Manageme
 · clerk of the Legislative Assembly
 · director-general
 · director of public prosecutions
-· director of the Canberra Institute of Technology
 · disability and community services commissioner
 · discrimination commissioner
 · electoral commissioner
