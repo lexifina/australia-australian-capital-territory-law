@@ -25,6 +25,7 @@ average unimproved value, of a parcel of land for a particular year, means the f
 commercial land means rateable land that is not residential land or rural land.
 commissioner means the commissioner for revenue.
 Commonwealth land means land that is the property of the Commonwealth.
+declared land sublease—see the Planning and Development Act 2007, section 312C.
 deferral determination, for part 7 (Deferral and rebates)—see section 45.
 determination, of the unimproved value of a parcel of land, includes redetermination of the unimproved value.
 development lease, of land, means a lease for the development of the land by the lessee, or at the lessee’s expense, by clearing, filling, grading, draining, levelling or excavating the land to make it suitable for subdivision into parcels of land to be leased.
@@ -41,10 +42,13 @@ owner, of a parcel of land, means—
     (i) the registered proprietor of an interest in the parcel (other than an interest in a lease granted by a person other than the Territory or the Commonwealth); or
     (ii) if the registered proprietor has sold the interest to another person (the new owner) and the new owner is in possession of the parcel but not yet registered as the proprietor—the new owner; or
     (iii) a mortgagee in possession of the parcel; or
-    (iv) a person holding the parcel of land under a sublease from the Territory, if the Territory holds the parcel under lease from the Commonwealth; and
+    (iv) a person holding the parcel of land under a sublease from the Territory, if the Territory holds the parcel under lease from the Commonwealth; or
+    (v) for a parcel held under a declared land sublease—the sublessee; and
   (b) for part 7 (Deferral and rebates)—see section 45.
 owners corporation—see the Unit Titles (Management) Act 2011, dictionary.
-parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
+parcel includes—
+  (a) a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner; and
+  (b) land held under a declared land sublease.
 partner, for part 7 (Deferral and rebates)—see section 45.
 partnership, for part 7 (Deferral and rebates)—see section 45.
 pensioner, for part 7 (Deferral and rebates)—see section 45.
