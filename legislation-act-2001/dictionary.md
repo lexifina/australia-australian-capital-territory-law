@@ -70,6 +70,7 @@ Note See also def under, in relation to an Act or statutory instrument.
 by-law, in relation to an Act, means a by-law made or in force under the Act.
 calendar month means one of the 12 months of the year.
 calendar year means a period of 12 months beginning on 1 January.
+Canberra Institute of Technology means the Canberra Institute of Technology under the Canberra Institute of Technology Act 1987.
 change includes change by alteration, omission, substitution or addition.
 chief health officer means the Chief Health Officer under the Public Health Act 1997.
 Chief Justice means the Chief Justice of the Supreme Court.
@@ -234,7 +235,6 @@ in relation to includes the following:
   (e) with reference to;
   (f) relating to;
   (g) for or with respect to.
-institute of technology means the Canberra Institute of Technology under the Canberra Institute of Technology Act 1987.
 instrument—see section 14.
 interest, in relation to land or other property, means—
   (a) a legal or equitable estate in the land or other property; or
@@ -433,7 +433,9 @@ territory lease—
   (a) means—
     (i) a lease granted under the Planning and Development Act 2007; or
     (ii) a lease under the Unit Titles Act 2001; but
-  (b) does not include a sublease.
+  (b) does not include—
+    (i) a sublease of land approved under the Planning and Development Act 2007, section 308; or
+    (ii) any other sublease.
 territory-owned corporation means a Territory owned corporation under the Territory-owned Corporations Act 1990.
 territory plan means the territory plan under the Planning and Development Act 2007.
 the Territory means—
