@@ -27,6 +27,8 @@ member means—
 notifiable amendment, of a notifiable contract, for part 3 (Notifiable contracts)—see section 26.
 notifiable contract, for part 3 (Notifiable contracts)—see section 25.
 notifiable contracts register, for part 3 (Notifiable contracts)—see section 27 (1).
+notifiable invoice, for part 3A (Notifiable invoices)—see section 42A.
+notifiable invoices register, for part 3A (Notifiable invoices)—see section 42B.
 payment date, for a commercial account, for part 4 (Interest on commercial accounts)—see section 44.
 procurement—see section 2A.
 public text, of a notifiable contract, for part 3 (Notifiable contracts)—see section 24.
