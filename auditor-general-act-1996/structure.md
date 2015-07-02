@@ -19,4 +19,3 @@
 ### Division 5.2 Independent financial audit of auditor-general
 ## Part 5A Protected information
 ## Part 6 Miscellaneous
-## Part 10 Transitional—Officers of the Assembly Legislation Amendment Act 2013
