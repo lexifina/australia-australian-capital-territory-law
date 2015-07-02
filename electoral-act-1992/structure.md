@@ -59,4 +59,3 @@
 ### Division 18.1 Injunctions
 ### Division 18.2 Prosecutions
 ## Part 19 Miscellaneous
-## Part 32 Transitional—Officers of the Assembly Legislation Amendment Act 2013
