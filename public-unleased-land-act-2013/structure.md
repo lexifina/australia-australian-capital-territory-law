@@ -31,4 +31,3 @@
 ### Division 4.8 Enforcement—miscellaneous
 ## Part 5 Notification and review of decisions
 ## Part 6 Miscellaneous
-## Part 20 Transitional
