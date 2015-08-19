@@ -53,4 +53,6 @@
 ### Division 14.3 Prohibited liquor products
 ## Part 15 Liquor advisory board
 ## Part 16 Notification and review of decisions
+## Part 16A Criminal intelligence
 ## Part 17 Miscellaneous
+## Part 21 Transitional

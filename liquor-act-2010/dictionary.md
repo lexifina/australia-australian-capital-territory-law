@@ -61,6 +61,7 @@ commissioner means the commissioner for fair trading.
 commissioner’s direction—see section 144 (2).
 complainant, for division 11.2 (Complaints)—see section 177.
 connected, for part 10 (Enforcement)—see section 153.
+criminal intelligence, for part 16A (Criminal intelligence)—see section 222A.
 crowd controller means a person who is a crowd controller for the purposes of the Security Industry Act 2003, section 7.
 CYP director-general, for division 9.3 (Police cautions for children and young people)—see section 149.
 declared training provider—see section 224.
@@ -107,6 +108,7 @@ licensee—
 liquor—see section 11.
 liquor guidelines—see section 223 (1).
 low-alcohol liquor means a drink that is not liquor but contains more than 0.5% by volume of ethanol.
+maintain, for part 16A (Criminal intelligence)—see section 222A.
 nightclub licence—see section 23.
 non-commercial permit—see section 49.
 non-profit organisation means an organisation that—
