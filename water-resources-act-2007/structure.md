@@ -11,6 +11,7 @@
 ### Division 5.6 Licences—general provisions
 ## Part 6 Disciplinary action
 ## Part 7 Administration
+## Part 7A ACT and region catchment management coordination group
 ## Part 8 Assessment of water resources
 ## Part 9 Protection of water resources
 ## Part 9A Offences

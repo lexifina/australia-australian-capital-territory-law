@@ -4,12 +4,16 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · daily newspaper
+· director-general
 · environment protection authority
 · found guilty
 · function
 · home address
 · infringement notice
+· national capital authority
 · national land
+· public employee
+· public servant
 · reviewable decision notice.
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised officer means an authorised officer under the Environment Protection Act 1997, section 14 (3).
@@ -26,6 +30,7 @@ bore work means any of the following:
 bore work licence means a licence under section 39.
 commencement day means the day this Act commences.
 connected with an offence, for part 10 (Enforcement)—see section 78.
+coordination group—see section 67A.
 corresponding water access entitlement—see section 27.
 disciplinary action—see section 61.
 disciplinary notice—see section 62.
