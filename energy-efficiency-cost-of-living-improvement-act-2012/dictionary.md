@@ -8,7 +8,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 abatement factor means the number of tonnes of carbon dioxide equivalent emissions that an eligible activity is taken to save.
 administrator means a person appointed as administrator under section 23.
 approved abatement factor—see section 18.
+approved abatement provider—see section 17A.
 approved code of practice—see section 25.
+approved interstate energy efficiency scheme—see section 10A.
 authorised person means a person appointed as an authorised person under section 30.
 carbon dioxide equivalent, of greenhouse gas emissions, means the mass of carbon dioxide measured in tonnes that has the same global warming potential as the gas emissions.
 compliance information, for part 4A (Information sharing)—see section 28A.
@@ -39,7 +41,7 @@ retailer energy savings result—see section 20.
 retailer priority household result—see section 21.
 reviewable decision, for part 6 (Notification and review of decisions)—see section 52.
 shortfall penalty—see section 22 (1).
-tier 1 NERL retailer means a NERL retailer that—
-  (a) has at least 5 000 customers in the ACT; and
-  (b) sells at least 500 000MWh of electricity to customers in the ACT annually.
+tier 1 NERL retailer, for a compliance period, means a NERL retailer that, in the previous compliance period—
+  (a) had, at any time during that period, at least 5 000 customers in the ACT; and
+  (b) sold at least 500 000MWh of electricity to customers in the ACT.
 tier 2 NERL retailer means a NERL retailer that is not a tier 1 NERL retailer.
