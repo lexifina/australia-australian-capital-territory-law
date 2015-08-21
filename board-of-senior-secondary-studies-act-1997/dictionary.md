@@ -2,14 +2,14 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· appoint
-· director-general (see s 163)
-· establish
-· exercise
-· function
-· month
-· reviewable decision notice.
+• ACAT
+• appoint
+• director-general (see s 163)
+• establish
+• exercise
+• function
+• month
+• reviewable decision notice.
 accreditation guidelines—see section 5A (a) (Additional functions about accreditation of courses).
 accredited course means a course accredited under section 21 (Board may initiate accreditation of course) or section 22 (Application for accreditation of course).
 board means the Board of Senior Secondary Studies.
