@@ -11,9 +11,3 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 8 | 55 | refuse to exempt film, publication, computer game or advertisement | applicant for exemption
 9 | 55 | state provisions of Act from which film, publication, computer game or advertisement is exempt | applicant for exemption
 10 | 55 | state conditions subject to which exemption is given | applicant for exemption
-11 | 56 | refuse to exempt organisation | applicant for exemption
-12 | 56 | state provisions of Act from which organisation is exempt | applicant for exemption
-13 | 56 | state conditions subject to which exemption is given | applicant for exemption
-14 | 57 (1) | refuse to approve organisation | applicant for approval
-15 | 57 (2) | refuse to approve organisation | applicant for approval
-16 | 57 (8) | revoke approval | entity that has approval revoked

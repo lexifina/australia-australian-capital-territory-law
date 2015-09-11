@@ -53,6 +53,7 @@ restricted publications area means any premises, or part of a premises, construc
 reviewable decision, for part 7A (Notification and review of decisions)—see section 58.
 seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
 sell means sell or exchange or let on hire, and includes offer or display for sale or exchange or hire, agree to sell, exchange or hire and cause or permit to be sold or exchanged or hired, whether by retail or wholesale.
+subject to a conditional cultural exemption—for when a publication, film or computer game is subject to a conditional cultural exemption—see the Commonwealth Act, section 6C and section 6E.
 submittable publication—see the Commonwealth Act, section 5 (Definitions).
 X 18+ film—
   (a) means a film classified X 18+; and
