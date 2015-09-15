@@ -9,6 +9,8 @@
 ### Division 2.7 Seizing dogs and dealing with them
 ### Division 2.8 Miscellaneous
 ## Part 3 Dogs and cats
+### Division 3.1 Controlling breeding
+### Division 3.2 Controlling dogs and cats
 ## Part 4 Cats
 ### Division 4.1 Keeping 4 or more cats
 ### Division 4.2 Seizing cats and dealing with them

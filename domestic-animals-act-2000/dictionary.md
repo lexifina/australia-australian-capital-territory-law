@@ -29,12 +29,14 @@ animal welfare offence means an offence against any of the following provisions 
   (m) section 14 (Spurs);
   (n) section 15 (Transport and containment);
   (o) section 15A (Transport of dogs);
-  (p) section 16 (Working etc unfit animals);
-  (q) section 17 (Matches, competitions etc);
-  (r) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
+  (p) section 15B (Intensive breeding of cats or dogs);
+  (q) section 16 (Working etc unfit animals);
+  (r) section 17 (Matches, competitions etc);
+  (s) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
 approved provider, for division 4.2 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
 authorised person means an authorised person under section 123, and includes the registrar and a deputy registrar.
+breeding licence—see section 72A.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
 connected with an offence, for division 9.2 (Powers of authorised people)—see section 126.
 dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Offences of attacking or harassing).
@@ -87,6 +89,7 @@ public place—
 Note A public passenger vehicle is a public bus, taxi, hire car or demand responsive service vehicle.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
 reasonably believes means has reasonable grounds for believing.
+recognised breeding organisation means an organisation declared as a recognised breeding organisation under section 72J.
 register means the register kept by the registrar under section 5.
 registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
 registrar means the registrar under section 121.
