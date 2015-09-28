@@ -15,4 +15,3 @@
 ### Division 3.10 Notification and review of decisions
 ## Part 4 Other offences
 ## Part 5 Miscellaneous provisions
-## Part 8 Transitional—Security Industry Amendment Act 2011
