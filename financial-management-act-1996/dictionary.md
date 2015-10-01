@@ -23,7 +23,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · person
 · reviewable decision notice
 · Self-Government Act
-· territory-owned corporation.
+· territory-owned corporation
+· Treasurer.
 applicable governmental policies, for a territory authority, for part 9 (Governance of territory authorities)—see section 103.
 appropriation means an appropriation of public money by any Act including this Act.
 Appropriation Act means an Act that makes appropriations in relation to a financial year for purposes mentioned in section 8.
@@ -33,16 +34,17 @@ borrowing includes—
   (b) entering into a financing lease;
 but does not include using a credit card or overdraft facility, or otherwise obtaining credit, in a transaction forming part of the day-to-day operations of the Territory or a territory authority.
 budget papers means documents presented to the Legislative Assembly under section 10 or section 13 (1).
-capital injection means an amount provided, or to be provided, to a directorate, a territory authority or a territory-owned corporation for—
-  (a) the purchase of assets to be held by the directorate or to be owned by the authority or corporation; or
-  (b) the development of assets held by the directorate or owned by the authority or corporation; or
-  (c) augmenting the assets held by the directorate or owned by the authority or corporation; or
-  (d) reducing the liabilities of the directorate, the authority or the corporation;
-but does not include an amount provided from an appropriation for a purpose mentioned in section 8 (1) (a) or (c) or (2) (a).
+capital injection—
+  (a) means an amount provided, or to be provided, to a territory entity for—
+    (i) the purchase of assets to be held or owned by the territory entity; or
+    (ii) the development of assets held or owned by the territory entity; or
+    (iii) augmenting the assets held or owned by the territory entity; or
+    (iv) reducing the liabilities of the territory entity; but
+  (b) does not include an amount provided from an appropriation for a purpose mentioned in section 8 (1) (a), (c) or (2) (a).
 CEO—see chief executive officer.
 chief executive officer (or CEO), of a territory authority, means the person (however described) who is responsible for managing the affairs of the authority.
 class of outputs means a group of outputs identified as a class by an Appropriation Act.
-contract includes an agreement or arrangement.
+contract includes an agreement or arrangement, whether or not its term extends for 1 or more years.
 directorate means––
   (a) an administrative unit (excluding any part of an administrative unit prescribed for paragraph (b) and any administrative unit forming part of a group of administrative units prescribed for paragraph (c)); or
   (b) a part of an administrative unit prescribed for this paragraph; or
@@ -67,6 +69,7 @@ input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (C
 interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
+memorandum of understanding includes a memorandum of understanding whether or not its term extends for 1 or more years.
 outputs means goods produced or services provided by a directorate or territory authority or a person producing goods or providing services on behalf of a directorate or territory authority.
 prescribed means prescribed by the financial management guidelines.
 public money means all money received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
@@ -99,10 +102,13 @@ territory authority—
   (c) for division 9.7 (Additional provisions for restructuring of certain territory authorities)—includes a territory authority that has ceased to exist; but
   (d) does not include a body declared under section 3B not to be a territory authority.
 territory banking account means the banking account mentioned in section 33.
+territory entity means a directorate, territory authority or territory-owned corporation.
 the Territory, for division 3.1 (Financial reports of the Territory)—see section 21.
+Treasurer’s advance—see section 18.
 trust money means—
   (a) money deposited with the Territory pending the completion of a transaction or the determination of a dispute and that may become repayable to the depositor or payable to the Territory or anyone else; or
   (b) all money that is paid into a territory court for possible repayment to the payee or a third party because of any Act, order, instruction or authority; or
   (c) money that belongs to or is owing to any person and is collected by the Territory because of an agreement between the Territory and that person; or
   (d) unclaimed money that is owing to or belongs to anyone and is deposited with the Territory; or
   (e) money that is paid to the Territory in trust for any other lawful purpose including interest on trust money.
+under treasurer means the person performing the duties of the under treasurer in the public service.
