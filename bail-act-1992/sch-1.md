@@ -44,4 +44,15 @@ column 1 item | column 2 provision | column 3 description of offence
 column 1 item | column 2 provision | column 3 description of offence
 1 | 231 (1) | assembly for unlawful purposes
 2 | 233AC | master allowing use of ship for smuggling etc narcotic goods
-3 | 233B | special provisions about narcotic goods
+## Part 1.6 Offences against Criminal Code (Cwlth)
+column 1 item | column 2 provision | column 3 description of offence
+1 | 307.1 | importing and exporting commercial quantities of border controlled drugs or border controlled plants
+2 | 307.2 | importing and exporting marketable quantities of border controlled drugs or border controlled plants
+3 | 307.3 | importing and exporting border controlled drugs or border controlled plants
+4 | 307.5 | possessing commercial quantities of unlawfully imported border controlled drugs or border controlled plants
+5 | 307.6 | possessing marketable quantities of unlawfully imported border controlled drugs or border controlled plants
+6 | 307.8 | possessing commercial quantities of border controlled drugs or border controlled plants reasonably suspected of having been unlawfully imported
+7 | 307.9 | possessing marketable quantities of border controlled drugs or border controlled plants reasonably suspected of having been unlawfully imported
+8 | 307.11 | importing and exporting commercial quantities of border controlled precursors
+9 | 307.12 | importing and exporting marketable quantities of border controlled precursors
+10 | 307.13 | importing and exporting border controlled precursors
