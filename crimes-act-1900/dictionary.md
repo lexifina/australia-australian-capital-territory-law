@@ -61,6 +61,8 @@ grievous bodily harm to a person includes—
   (a) any permanent or serious disfiguring of the person; and
   (b) for a pregnant woman—loss of or serious harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
 harm to a pregnancy—see section 48A (6).
+identification material, in relation to a person, for part 10 (Criminal investigation)—see section 185.
+impaired state, for a person, for part 10 (Criminal investigation)—see section 185.
 independent contractor, for part 2A (Industrial manslaughter)—see section 49A.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
 knife includes—
@@ -93,6 +95,7 @@ serious harm—
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
 tainted property, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 10.
+take, identification material, for part 10 (Criminal investigation)—see section 185.
 target material, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 195.
 trustee means a trustee on some express trust howsoever created, and includes the heir or personal representative of such trustee, and every other person on whom the duty of such trust shall have devolved, and also any official manager, assignee, liquidator, or other like officer, acting under any Act relating to joint-stock companies or to bankruptcy or insolvency.
 under restraint, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
