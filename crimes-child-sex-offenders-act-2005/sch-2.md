@@ -8,10 +8,10 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 4 | Crimes Act 1900, section 61 (2) | act of indecency with young person | 
 5 | Crimes Act 1900, section 61A (1) | act of indecency with young person under special care | 
 6 | Crimes Act 1900, section 63 | abduction | (a) the other person (as mentioned in that section) or the third person (as mentioned in that section) is a child; and (b) the person committed the abduction in the course of, or immediately after, the commission or attempted commission by the person (or an accomplice of the person) of a class 1 or class 2 offence against the child or the third person
-7 | Crimes Act 1900, section 64 (1) | using child for production of child pornography etc | 
-8 | Crimes Act 1900, section 64 (3) | using child for production of child pornography etc | 
-9 | Crimes Act 1900, section 64A (1) | trading in child pornography | 
-10 | Crimes Act 1900, section 65 (1) | possessing child pornography | 
+7 | Crimes Act 1900, section 64 (1) | using child for production of child exploitation material etc | 
+8 | Crimes Act 1900, section 64 (3) | using child for production of child exploitation material etc | 
+9 | Crimes Act 1900, section 64A (1) | trading in child exploitation material | 
+10 | Crimes Act 1900, section 65 (1) | possessing child exploitation material | 
 11 | Crimes Act 1900, section 66 (1) | using the internet etc to deprave young person | 
 12 | Crimes Act 1900, section 66 (2) | using the internet etc to deprave young person | 
 13 | Prostitution Act 1992 section 19 (2) | accosting child for commercial sexual services | 
@@ -31,19 +31,19 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 9 | Criminal Code Act 1995 (Cwlth), section 272.15 (1) | groom child for sexual activity outside Australia | 
 10 | Criminal Code Act 1995(Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
 11 | Criminal Code Act 1995 (Cwlth), section 272.20 (2) | prepare or plan offence against Criminal Code (Cwlth), section 272.12 or section 272.13 | 
-12 | Criminal Code Act 1995 (Cwlth), section 273.5 (1) | possess, control, produce, distribute or obtain child pornography material outside Australia | 
+12 | Criminal Code Act 1995 (Cwlth), section 273.5 (1) | possess, control, produce, distribute or obtain child exploitation material outside Australia | 
 13 | Criminal Code Act 1995 (Cwlth), section 273.6 (1) | possess, control, produce, distribute or obtain child abuse material outside Australia | 
 14 | Criminal Code Act 1995 (Cwlth), section 273.7 (1) | commit offence against Criminal Code (Cwlth), section 273.5 or section 273.6 on 3 or more occasions, and involving 2 or more people | 
-15 | Criminal Code Act 1995 (Cwlth), section 471.16 | use postal service for child pornography material | 
-16 | Criminal Code Act 1995 (Cwlth), section 471.17 (1) | possess, control, produce, supply or obtain child pornography material for use through postal service | 
+15 | Criminal Code Act 1995 (Cwlth), section 471.16 | use postal service for child exploitation material | 
+16 | Criminal Code Act 1995 (Cwlth), section 471.17 (1) | possess, control, produce, supply or obtain child exploitation material for use through postal service | 
 17 | Criminal Code Act 1995 (Cwlth), section 471.19 | use postal service for child abuse material | 
 18 | Criminal Code Act 1995 (Cwlth), section 471.20 (1) | possess, control, produce, supply or obtain child abuse material for use through postal service | 
 19 | Criminal Code Act 1995 (Cwlth), section 471.22 (1) | commit offence against Criminal Code (Cwlth), section 471.16, 471.17, 471.19 or 471.20 on 3 or more occasions, and involving 2 or more people | 
 20 | Criminal Code Act 1995 (Cwlth), section 471.24 | use postal service to procure sexual activity with person under 16 years old | 
 21 | Criminal Code Act 1995 (Cwlth), section 471.25 | use postal service to groom person under 16 years old for sexual activity | 
 22 | Criminal Code Act 1995 (Cwlth), section 471.26 (1) | use postal service to send indecent material to person under 16 years old | 
-23 | Criminal Code Act 1995 (Cwlth), section 474.19 (1) | use carriage service for child pornography material | 
-24 | Criminal Code Act 1995 (Cwlth), section 474.20 (1) | possess, control, produce, supply or obtain child pornography material for use through carriage service | 
+23 | Criminal Code Act 1995 (Cwlth), section 474.19 (1) | use carriage service for child exploitation material | 
+24 | Criminal Code Act 1995 (Cwlth), section 474.20 (1) | possess, control, produce, supply or obtain child exploitation material for use through carriage service | 
 25 | Criminal Code Act 1995 (Cwlth), section 474.22 (1) | use carriage service for child abuse material | 
 26 | Criminal Code Act 1995 (Cwlth), section 474.23 (1) | possess, control, produce, supply or obtain child abuse material for use through carriage service | 
 27 | Criminal Code Act 1995 (Cwlth), section 474.24A (1) | commit offence against Criminal Code (Cwlth), section 474.19, 474.20, 474.22 or 474.23 on 3 or more occasions, and involving 2 or more people | 
@@ -53,6 +53,6 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 31 | Criminal Code Act 1995 (Cwlth), section 474.26 (1), (2) or (3) | using carriage service to procure child under 16 | 
 32 | Criminal Code Act 1995 (Cwlth), section 474.27 (1) (2) or (3) | using carriage service to ‘groom’ child under 16 | 
 33 | Criminal Code Act 1995 (Cwlth), section 474.27A (1) | use carriage service to transmit indecent communication to person under 16 years old | 
-34 | Customs Act 1901 (Cwlth) section 233BAB (5) | importing tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
-35 | Customs Act 1901 (Cwlth) section 233BAB (6) | exporting tier 2 goods | the tier 2 goods are items of child pornography or child abuse material (see section 233BAB (1) (h))
+34 | Customs Act 1901 (Cwlth) section 233BAB (5) | importing tier 2 goods | the tier 2 goods are items of child exploitation material or child abuse material (see section 233BAB (1) (h))
+35 | Customs Act 1901 (Cwlth) section 233BAB (6) | exporting tier 2 goods | the tier 2 goods are items of child exploitation material or child abuse material (see section 233BAB (1) (h))
 36 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 2 offence |  | 

@@ -2,6 +2,9 @@
 # Chapter 2 Offenders to whom Act applies
 ## Part 2.1 Who is a registrable offender?
 ## Part 2.2 Child sex offender registration orders
+### Division 2.2.1 Child sex offender registration orders—generally
+### Division 2.2.2 Orders for offenders guilty of offence other than class 1 or class 2 offence
+### Division 2.2.3 Orders for certain previous offenders
 # Chapter 3 Reporting
 ## Part 3.1 Definitions for ch 3
 ## Part 3.2 When initial report must be made
@@ -23,6 +26,13 @@
 ## Part 3.7 Notice of reporting obligations
 ## Part 3.8 Protected witnesses
 ## Part 3.9 Reasonable steps to comply with reporting obligations
+## Part 3.10 Failure to comply with reporting obligations—public notices
+## Part 3.11 Entry and search warrants
+### Division 3.11.1 Preliminary
+### Division 3.11.2 Entry and search warrants—general
+### Division 3.11.3 Executing entry and search warrants
+### Division 3.11.4 Seized things
+### Division 3.11.5 Miscellaneous
 # Chapter 4 Child sex offenders register
 # Chapter 5 Registrable offenders prohibited from child-related employment
 # Chapter 5A Orders prohibiting offender conduct

@@ -28,7 +28,7 @@ application, for an order for a person, for chapter 5A (Orders prohibiting offen
 approved reporting place, for a registrable offender, for a report—see section 64.
 approved way, for the making of a report—see section 63.
 child-related employment, for chapter 5 (Registrable offenders prohibited from child-related employment)—see section 124.
-child sex offender registration order—see section 14.
+child sex offender registration order, in relation to a person—see section 14.
 child sex offenders register—see section 117.
 class 1 offence—see section 10 (2).
 class 2 offence—see section 10 (3).
@@ -51,6 +51,8 @@ daily care responsibility, for chapter 5A (Orders prohibiting offender conduct)�
 disability—see Discrimination Act 1991, section 5AA (1).
 employment, for chapter 5 (Registrable offenders prohibited from child-related employment)—see section 123.
 engaged, in child-related employment, for chapter 5 (Registrable offenders prohibited from child-related employment)—see section 125.
+entry and search warrant, for part 3.11—see section 116B.
+executing officer, of an entry and search warrant, for part 3.11 (Entry and search warrants)—see section 116B.
 fingerprints includes fingerscan.
 fingerscan means fingerprints taken using a device to obtain a record of the fingerprints.
 finding of guilt—see section 7.
@@ -69,24 +71,30 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 interim prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see section 132H (Court may make interim prohibition order).
 long-term care responsibility, for chapter 5A (Orders prohibiting offender conduct)—see the Children and Young People Act 2008, section 20.
 make, an order for a person under this chapter, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
-offender’s reporting month, for a registrable offender—see section 37 (Offence—offender must report annually).
+occupier, of a premises, for part 3.11 (Entry and search warrants)—see section 116B.
+offensive weapon, for part 3.11 (Entry and search warrants)—see the Crimes Act 1900, dictionary.
 parental responsibility, for a child or young person, for chapter 5A (Orders prohibiting offender conduct)—see the Children and Young People Act 2008, section 15.
 parole means parole under the Crimes (Sentence Administration) Act 2005, and includes an equivalent order (however described) made under a foreign law.
 Note A parole order under the Rehabilitation of Offenders (Interim) Act 2001 (repealed) is taken to be a parole order under the Crimes (Sentence Administration) Act 2005 (see that Act, s 343 and s 344).
+person assisting, in relation to an entry and search warrant, for part 3.11 (Entry and search warrants)—see section 116B.
 personal details, for a registrable offender—see s 59.
 personal information means information about an individual whose identity is apparent, or can reasonably be found out, from the information.
 person with a legal disability, for part 5A.6 (People with legal disabilities)—see section 132T.
 person with a mental disability, for part 5A.6 (People with legal disabilities)—see section 132T.
 person with parental responsibility, for a young person—means a person who has parental responsibility for the young person under the Children and Young People Act 2008, division 1.3.2.
+premises, for part 3.11 (Entry and search warrants)—see section 116B.
 prescribed corresponding offender—see section 11.
+previous offender, for div 2.2.3 (Orders for certain previous offenders)—see section 18A.
 prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see section 132D (Court may make prohibition order).
 protected registrable offender—see section 110.
 protected registrable offender declaration—see section 111 (a).
+public official, for part 3.11 (Entry and search warrants)—see the Criminal Code, section 300.
 recognised foreign reporting period, for a prescribed corresponding offender—see section 11.
 registered corresponding prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
 registrable offence—see section 10.
 registrable offender—see section 8 and section 9.
 registration notice, for chapter 5A (Orders prohibiting offender conduct)—see section 132O (Notice of registration of unamended corresponding prohibition order).
+relevant time, for a report by a registrable offender in a year—see section 37 (5).
 reporting obligation—see section 19.
 reporting obligations notice—see section 103.
 reporting offence—see section 20.
