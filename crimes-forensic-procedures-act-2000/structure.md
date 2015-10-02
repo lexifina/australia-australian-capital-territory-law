@@ -1,6 +1,6 @@
 # Chapter 1 Preliminary
 # Chapter 2 Forensic procedures
-## Part 2.1 General concepts
+## Part 2.1 Preliminary
 ## Part 2.2 Circumstances in which forensic procedures on suspects may be authorised
 ## Part 2.3 Forensic procedures by consent of suspect
 ## Part 2.4 Non-intimate forensic procedures on suspect by order of police officer

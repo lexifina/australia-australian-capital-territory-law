@@ -10,6 +10,7 @@ correctional centre
 dentist
 director of public prosecutions
 doctor
+· domestic partner (see s 169)
 entity (see s 184A)
 function
 · health practitioner
@@ -39,6 +40,7 @@ appropriately qualified person—see section 13.
 arrest and removal order—see section 40A.
 authorised applicant—see section 12.
 child—see section 14.
+close associate, for an incapable person—see section 14A.
 correctional centre includes a NSW correctional centre.
 Note Correctional centre and NSW correctional centre are defined in the Legislation Act, dict, pt 1.
 corrections health practitioner, for a correctional centre, means a health practitioner appointed under the Corrections Management Act 2007, section 22 (Health practitioners—non-therapeutic functions) for the centre.
@@ -53,7 +55,7 @@ forensic order means—
   (a) an order of a magistrate under section 33 (Final order for carrying out of forensic procedure); or
   (b) an interim order of a magistrate under section 41 (Interim order for immediate carrying out of forensic procedure); or
   (c) an order of a court under section 77 (Court order for carrying out of forensic procedure on serious offender) or section 78 (Carrying out of forensic procedure following conviction); or
-  (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material by order of magistrate after parent or guardian of child or incapable person withdraws consent).
+  (d) an order of a magistrate under section 83 (Circumstances in which magistrate may order carrying out of forensic procedure on child or incapable person) or section 84 (Retention of forensic material etc by order of magistrate).
 forensic procedure—see section 5.
 incapable person—see section 15.
 in custody—a person is in custody if the person is in the lawful custody of a police officer.
@@ -61,7 +63,7 @@ inform a person of a matter means inform the person of the matter, through an in
 informed consent—
   (a) for a suspect—see section 21 (Informed consent of suspect to forensic procedure); and
   (b) for a serious offender—see section 69 (Informed consent of serious offender to forensic procedure); and
-  (c) for a volunteer or parent or guardian of a volunteer—see section 80 (Informed consent of volunteer or parent or guardian of volunteer).
+  (c) for a volunteer or parent, guardian or close associate of a volunteer—see section 80 (Informed consent of volunteer or parent, guardian or close associate of volunteer).
 infringement notice means—
   (a) an infringement notice under the Road Transport (General) Act 1999; or
   (b) any other notice (however described) served on a person under a territory law that states to the effect that, if the person pays an amount in relation to an offence, no further action will be taken in relation to the offence.
