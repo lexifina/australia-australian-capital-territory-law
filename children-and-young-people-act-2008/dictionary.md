@@ -46,7 +46,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public servant
 · reviewable decision notice
 · State
-· statutory office holder
+· statutory-office holder
 · territory authority
 · territory instrumentality
 · the Territory
