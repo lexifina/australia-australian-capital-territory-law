@@ -27,6 +27,6 @@ item | section | description
 23 | 63 | abduction
 24 | 63A | bestiality
 25 | 64 | employment of young people for pornographic purposes
-26 | 65 | possession of child pornography
+26 | 65 | possession of child exploitation material
 27 | 79 | sexual servitude offences
 28 | 80 | deceptive recruiting for sexual services

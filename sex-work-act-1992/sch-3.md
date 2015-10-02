@@ -6,7 +6,7 @@
   (b) torture, abduction or kidnapping; or
   (c) sexual assault; or
   (d) sexual servitude; or
-  (e) child pornography; or
+  (e) child exploitation material; or
   (f) violence, intimidation or coercion related to prostitution; or
   (g) causing serious physical harm to another person; or
   (h) money laundering; or
