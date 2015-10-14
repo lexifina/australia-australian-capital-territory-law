@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act
 · corporation
 · Corporations Act
-· daily newspaper
 · director-general (see s 163)
 · police officer
 · reviewable decision notice
