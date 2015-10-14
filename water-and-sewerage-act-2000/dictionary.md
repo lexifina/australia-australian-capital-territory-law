@@ -2,23 +2,23 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· appoint
-· Australian citizen
-· construction occupations registrar
-· disallowable instrument (see s 9)
-· document
-· exercise
-· function
-· magistrate
-· penalty unit (see s 133)
-· reviewable decision notice
-· the Territory.
+• ACAT
+• appoint
+• Australian citizen
+• construction occupations registrar
+• disallowable instrument (see s 9)
+• document
+• exercise
+• function
+• magistrate
+• penalty unit (see s 133)
+• reviewable decision notice
+• the Territory.
 Note 3 The Legislation Act, s 164 defines the following terms:
-· AS
-· AS/NZS
-· Australian Standard
-· Australian/New Zealand Standard.
+• AS
+• AS/NZS
+• Australian Standard
+• Australian/New Zealand Standard.
 backflow prevention device means a device to prevent the reverse flow from a potentially polluted source into a water supply system for water suitable for human consumption.
 certifier means a person who holds a licence as a plumbing plan certifier.
 connected, with an offence, for part 4 (Enforcement)—see section 18.
