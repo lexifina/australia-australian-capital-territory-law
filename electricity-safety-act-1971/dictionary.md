@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Australian citizen
 · bankrupt or personally insolvent
 · construction occupations registrar
-· daily newspaper
 · function
 · home address
 · reviewable decision notice
