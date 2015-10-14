@@ -2,10 +2,10 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· commissioner for fair trading
-· Minister (see s 162)
-· person
-· the Territory.
+• commissioner for fair trading
+• Minister (see s 162)
+• person (see s 160)
+• the Territory.
 base wholesale price, in relation to a specified fuel, means the wholesale price payable for that fuel, excluding—
   (a) the amount per litre included in that price on account of freight charges in connection with the supply of that fuel; and
   (b) the amount per litre included in that price on account of any duty payable by the wholesaler under a law of the Commonwealth.
