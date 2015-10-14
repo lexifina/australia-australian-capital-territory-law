@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · chief planning executive
 · commissioner for revenue
 · conservator of flora and fauna
-· daily newspaper
 director-general (see s 163)
 · entity
 · exercise
