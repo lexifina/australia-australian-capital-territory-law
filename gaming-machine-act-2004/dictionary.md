@@ -24,6 +24,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · must (see s 146)
 · penalty unit (see s 133)
 · prescribed
+· public notice
 · regulation
 · reviewable decision notice
 · State
