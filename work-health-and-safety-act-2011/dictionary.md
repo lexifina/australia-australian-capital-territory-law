@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act
 · corporation
 · Corporations Act
-· daily newspaper
 · emergency service
 · found guilty (of an offence)
 · function
