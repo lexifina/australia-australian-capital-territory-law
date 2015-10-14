@@ -136,10 +136,11 @@ amount payable, under an insurance policy in relation to an occupational liabili
 (3) The council may, on the application of an occupational association, approve a scheme prepared under this section.
 (4) A scheme prepared under this section may indicate an intention to operate as a scheme of this jurisdiction only, or of both this jurisdiction and another jurisdiction.
 ## 4.5 Public notification of schemes
-(1) Before approving a scheme, the council must publish a notice in a daily newspaper—
+(1) Before approving a scheme, the council must give public notice—
   (a) explaining the nature and significance of the scheme; and
   (b) stating where a copy of the scheme can be obtained or inspected; and
-  (c) inviting comments and submissions within a stated time, but at least 21 days after the day the notice is published.
+  (c) inviting comments and submissions within a stated time at least 21 days after the day the notice is published.
+Note Public notice means notice on an ACT government website or in a daily newspaper circulating in the ACT (see Legislation Act, dict, pt 1).
 (2) If the scheme indicates an intention to operate as a scheme of both this jurisdiction and another jurisdiction, the council must also publish a similar notice in the other jurisdiction in accordance with the requirements of the corresponding law of that jurisdiction that relates to the approval of a scheme prepared in that jurisdiction.
 ## 4.6 Making of comments and submissions about schemes
 (1) Anyone may make a comment or submission to the council about a scheme for which notice has been published under section 4.5.
