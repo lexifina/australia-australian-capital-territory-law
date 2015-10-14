@@ -2,15 +2,14 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· adult
-· bankrupt or personally insolvent
-· daily newspaper
-· director-general (see s 163)
-· home address
-· police officer
-· reviewable decision notice
-· under.
+• ACAT
+• adult
+• bankrupt or personally insolvent
+• director-general (see s 163)
+• home address
+• police officer
+• reviewable decision notice
+• under.
 carer means a person who works with intoxicated people at a licensed place.
 caring service means a service that provides immediate, short-term care for intoxicated people, but does not include a service provided at a hospital or other medical facility.
 inspector means an inspector under section 27.
