@@ -11,7 +11,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · clerk
 · correctional centre
 · corrections officer
-· daily newspaper
 · Deputy Speaker
 · director-general (see s 163)
 · director of public prosecutions
