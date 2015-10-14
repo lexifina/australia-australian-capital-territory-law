@@ -2,19 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· construction occupations registrar
-· contravene
-· daily newspaper
-· disallowable instrument
-· document
-· magistrate
-· National Gas (ACT) Law
-· notifiable instrument
-· penalty unit (see s 133)
-· reviewable decision notice
-· State
-· the Territory.
+• ACAT
+• construction occupations registrar
+• contravene
+• disallowable instrument
+• document
+• magistrate
+• National Gas (ACT) Law
+• notifiable instrument
+• penalty unit (see s 133)
+• reviewable decision notice
+• State
+• the Territory.
 approved, for part 4 (Regulation of gas appliances)—see section 18.
 AS/NZS 1375 means AS/NZS 1375 (Industrial fuel-fired appliances).
 AS/NZS 3814 means AS/NZS 3814 (Industrial and commercial gas-fired appliances).
