@@ -7,7 +7,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bank
 · chief police officer
 · corrections officer
-· daily newspaper
 · director-general (see s 163)
 · foreign country
 · found guilty
