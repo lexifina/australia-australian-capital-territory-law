@@ -7,12 +7,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · civil partnership
 · civil union
 · civil union partner
-· daily newspaper
 · domestic partner (see s 169 (1))
 · estate
 · interest
 · land
-· person.
+· person
+· public notice.
 personal property includes leasehold property, and a share or interest in personal property.
 real property includes an estate, right or interest in real property.
 registrar means the registrar of the Supreme Court.
