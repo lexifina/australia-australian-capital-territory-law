@@ -11,7 +11,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Commonwealth
 · corporation
 · Corporations Act
-· daily newspaper
 · document
 · entity
 · exercise
@@ -28,6 +27,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · may (see s 146)
 · must (see s 146)
 · power
+· public notice
 · reviewable decision notice
 · State
 · Supreme Court
