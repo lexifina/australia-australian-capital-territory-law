@@ -2,16 +2,15 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· commissioner for fair trading
-· daily newspaper
-· exercise
-· function
-· notifiable instrument
-· property
-· public servant
-· registrar-general
-· under.
+• ACT
+• commissioner for fair trading
+• exercise
+• function
+• notifiable instrument
+• property
+• public servant
+• registrar-general
+• under.
 assets, for division 6.6 (Winding-up of incorporated limited partnership)—see section 76.
 business includes a trade, occupation or profession.
 external partnership—see section 51.
