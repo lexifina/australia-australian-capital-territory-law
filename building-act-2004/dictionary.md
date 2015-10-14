@@ -6,7 +6,6 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · bankrupt or personally insolvent
 · construction occupations registrar
 · contravene
-· daily newspaper
 · exercise
 · function
 · law
