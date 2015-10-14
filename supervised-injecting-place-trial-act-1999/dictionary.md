@@ -20,7 +20,6 @@ drug-dependent person—see the Medicines, Poisons and Therapeutic Goods Act 200
 facility means the place that is declared under section 5 to be the facility.
 internal management protocol means a protocol approved under section 9.
 law enforcement protocol means a protocol approved under section 8.
-newspaper means a daily newspaper published and circulating in the ACT.
 operator, of the facility, means a person who is declared under section 5 to be the operator of the facility.
 staff, of the facility, includes the following persons:
   (a) the operator of the facility;
