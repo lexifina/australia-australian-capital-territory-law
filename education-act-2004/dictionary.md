@@ -2,22 +2,21 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· ACT
-· administrative unit
-· appoint
-· Australian citizen
-· child
-· contravene
-· daily newspaper
-· director-general (see s 163)
-· exercise
-· fail
-· financial year
-· foreign country
-· function
-· reviewable decision notice
-· State.
+• ACAT
+• ACT
+• administrative unit
+• appoint
+• Australian citizen
+• child
+• contravene
+• director-general (see s 163)
+• exercise
+• fail
+• financial year
+• foreign country
+• function
+• reviewable decision notice
+• State.
 advisory committee, for chapter 4A (School education advisory committee) means an advisory committee established under section 126.
 appointed member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
