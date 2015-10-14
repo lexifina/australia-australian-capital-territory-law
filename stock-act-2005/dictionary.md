@@ -2,16 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· contravene
-· director-general (see s 163)
-· exercise
-· financial year
-· function
-· home address
-· public servant
-· reviewable decision notice
-· State.
+• ACAT
+• contravene
+• director-general (see s 163)
+• exercise
+• financial year
+• function
+• home address
+• public servant
+• reviewable decision notice
+• State.
 at premises includes in or on the premises.
 authorised person means an authorised person under section 46.
 bovine means any animal of the bovine group of animals within the bovidae family.
