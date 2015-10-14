@@ -2,18 +2,18 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· conservator of flora and fauna
-· contravene
-· disallowable instrument
-· document
-· function
-· home address
-· magistrate
-· Magistrates Court
-· penalty unit (see s 133)
-· power
-· reviewable decision notice.
+• ACAT
+• conservator of flora and fauna
+• contravene
+• disallowable instrument
+• document
+• function
+• home address
+• magistrate
+• Magistrates Court
+• penalty unit (see s 133)
+• power
+• reviewable decision notice.
 abalone means blacklip and greenlip abalone and includes all other species of abalone.
 aquaculture means—
   (a) cultivating fish or marine vegetation for harvesting the fish or vegetation or their progeny for sale; or
@@ -54,7 +54,6 @@ licence means any of the following licences issued under section 25:
   (d) a priority species licence.
 licensee means the holder of a licence.
 net includes anything attached to a net.
-newspaper means a newspaper published and circulating daily in the ACT.
 noxious fish means a species of fish declared to be noxious under section 14.
 occupier, of a place, for division 7.1 (Powers for places)—see section 53.
 possession includes having a thing in the custody of someone else.
