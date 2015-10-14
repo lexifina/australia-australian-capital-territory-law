@@ -128,7 +128,6 @@ credit union means an authorised deposit-taking institution that is permitted un
   (b) any other term (whether or not in English) similar in meaning.
 Criminal Code means the Criminal Code 2002.
 CrimTrac means the CrimTrac agency established under the Public Service Act 1999 (Cwlth), section 65 (Establishment etc. of Executive Agencies).
-daily newspaper means a daily newspaper circulating generally in the ACT.
 daylight means the period in a day from sunrise to sunset.
 definition—see section 130.
 dental prosthetist—
@@ -364,6 +363,9 @@ public employee means—
 public health officer means a public health officer under the Public Health Act 1997.
 public holiday means a day that is a public holiday in the ACT under the Holidays Act 1958, section 3.
 public money, of the Territory, means revenues, loans and other money received by the Territory.
+public notice, if required by a Territory law, means—
+  (a) a dated notice on an ACT government website; or
+  (b) notice in a daily newspaper circulating generally in the ACT.
 public servant means a person employed in the public service.
 public service means the Australian Capital Territory Public Service.
 Note The Public Sector Management Act 1994, s 12 deals with the constitution of the public service.
