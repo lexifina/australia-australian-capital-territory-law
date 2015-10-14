@@ -14,7 +14,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · conservator of flora and fauna
 · contravene
 · Criminal Code
-· daily newspaper
 · director-general (see s 163)
 · disallowable instrument
 · entity
