@@ -7,11 +7,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bank
 · corporation
 · Corporations Act
-· daily newspaper
 · Executive
 · lawyer
-· Minister
-· person
+· Minister (see s 162)
+· person (see s 160)
 · Supreme Court.
 books—see the Corporations Act, section 9.
 first valuation day, in relation to a common trust fund, means the day determined under section 25B (6) for the purpose of valuing the fund.
