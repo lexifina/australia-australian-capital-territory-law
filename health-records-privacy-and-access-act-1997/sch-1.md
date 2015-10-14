@@ -159,9 +159,9 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
   (a) relocated; or
   (b) permanently closed.
 2 Not later than 30 days before the proposed relocation or closure, the provider must—
-  (a) publish a notice (a transfer notice) of the relocation or closure in a daily newspaper; and
+  (a) give public notice of the relocation or closure (a transfer notice); and
   (b) take other practicable steps to inform each consumer who has attended the health service practice of the matters mentioned in the transfer notice.
-Note Daily newspaper means a daily newspaper circulating generally in the ACT (see Legislation Act, dict, pt 1).
+Note Public notice means notice on an ACT government website or in a daily newspaper circulating in the ACT (see Legislation Act, dict, pt 1).
 3 The transfer notice must state—
   (a) that the consumer may request (a transfer request) that a copy or written summary of the consumer’s health record be given to the consumer or a health service provider nominated by the consumer; and
   (b) that the transfer request must be made not later than 14 days after the day the transfer notice (the transfer request period) is published; and
