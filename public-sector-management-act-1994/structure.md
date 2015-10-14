@@ -10,6 +10,7 @@
 ### Division 3.3 Exercise of head of service powers in relation to certain public employees
 ### Division 3.4 Directors-general
 ### Division 3.5 Powers of delegation
+### Division 3.6 Exercise of certain functions by head of Access Canberra
 ### Division 3.7 Whole-of-government management responsibilities
 ## Part 4 Creation, classification and abolition of offices in the service
 ### Division 4.1 Creation and abolition of executive offices
