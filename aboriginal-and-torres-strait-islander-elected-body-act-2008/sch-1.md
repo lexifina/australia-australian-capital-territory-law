@@ -446,7 +446,8 @@ substitute
 (1) This section applies if—
   (a) the ATSIEB chair tells the commissioner in writing that there is a casual vacancy for a position for an ATSIEB member; and
   (b) the vacancy occurs after the latest ATSIEB election has been declared and before 1 January in the year in which the next ATSIEB election is to be held.
-(1A) If the commissioner is satisfied that it is practicable to fill the vacancy under section 194, the commissioner must publish a notice in a newspaper.
+(1A) If the commissioner is satisfied that it is practicable to fill the vacancy under section 194, the commissioner must give public notice of the vacancy.
+Note Public notice means notice on an ACT government website or in a daily newspaper circulating in the ACT (see Legislation Act, dict, pt 1).
 [1.74] Section 191 (2)
 omit
 subsection (1)
