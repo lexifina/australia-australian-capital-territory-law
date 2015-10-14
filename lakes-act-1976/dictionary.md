@@ -4,7 +4,6 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · contravene
-· daily newspaper
 · director-general (see s 163)
 · doctor
 · entity
