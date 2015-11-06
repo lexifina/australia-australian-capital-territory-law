@@ -5,7 +5,9 @@
 (1) Fire and emergency services levy of the fixed charge is imposed for a parcel of rateable land that is residential or rural land.
 (2) Fire and emergency services levy is imposed for a parcel of rateable land that is commercial land worked out as follows:
 (3) In this section:
-AUV means the average unimproved value of the parcel.
+AUV means—
+  (a) the average unimproved value of the parcel; or
+  (b) for airport land—the AUV of airport land worked out under section 40C.
 FC (or fixed charge) means the fixed charge determined under the Taxation Administration Act, section 139 for the parcel.
 P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different fixed charges, amounts, or percentage rates, may be determined for residential, commercial or rural land (see Legislation Act, s 48).

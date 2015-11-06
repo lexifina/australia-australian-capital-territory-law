@@ -16,22 +16,26 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public employee
 · registrar-general
 · under.
+airport land—see section 40B.
 annual redetermination, of a parcel of land, means a redetermination of the unimproved value of the parcel under section 10.
 assessment notice, in relation to rates, means a notice of assessment under the Taxation Administration Act, section 14 in relation to the rates.
 average unimproved value, of a parcel of land for a particular year, means the following:
   (a) if the parcel has not been rateable previously—the unimproved value of the parcel;
   (b) if the parcel has been rateable for less than 3 years—the average unimproved value of the parcel over those years;
   (c) in any other case—the average unimproved value of the parcel over the 3 years immediately before the particular year.
+Canberra Airport, for part 5A (Airport land)—see section 40A.
 commercial land means rateable land that is not residential land or rural land.
 commissioner means the commissioner for revenue.
 Commonwealth land means land that is the property of the Commonwealth.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
 deferral determination, for part 7 (Deferral and rebates)—see section 45.
 determination, of the unimproved value of a parcel of land, includes redetermination of the unimproved value.
+development index, for part 5A (Airport land)—see section 40D.
 development lease, of land, means a lease for the development of the land by the lessee, or at the lessee’s expense, by clearing, filling, grading, draining, levelling or excavating the land to make it suitable for subdivision into parcels of land to be leased.
 domestic relationship, for part 7 (Deferral and rebates)—see section 45.
 eligible parcel of land, for division 5.2 (Certain proposed unit subdivisions)—see section 30.
 eligible person, for part 7 (Deferral and rebates)—see section 45.
+growth index, for part 5A (Airport land)—see section 40E.
 land tax—see the Land Tax Act 2004, dictionary.
 lease means a lease from the Commonwealth or the Territory, and includes an agreement with the Commonwealth or the Territory—
   (a) for a lease of a parcel of land; or
