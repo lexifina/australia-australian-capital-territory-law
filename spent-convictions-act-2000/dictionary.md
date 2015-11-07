@@ -2,15 +2,23 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+· Act
 · administrative unit
+· chief police officer
 · CrimTrac
+· director-general (see s 163)
+· director of public prosecutions
+· domestic partner (see s 169 (1))
 · entity
 · exercise
 · function
 · law, of the Territory
 · penalty unit (see s 133)
+· police officer
+· public employee
 · State
 · Territory authority
+· territory law
 · the Territory.
 ACT offence means an offence against a Territory law.
 another Territory means a Territory other than this Territory or the Northern Territory.
@@ -28,8 +36,10 @@ control order means an order made under—
 conviction—see section 6.
 court includes a tribunal.
 crime-free period—see section 13.
+extinguished, for a conviction—see section 7A.
 foreign law means a law of a foreign country.
 foreign offence means an offence against a foreign law.
+historical homosexual offence, for part 3A (Extinguishing historical homosexual offence convictions)—see section 19A.
 law enforcement agency means any of the following:
   (a) the Australian Federal Police;
   (b) the police service or force of a State, another Territory or a foreign country;
@@ -47,7 +57,9 @@ law enforcement agency means any of the following:
   (n) an entity prescribed under the regulations.
 prison officer includes a person employed in an entity responsible under the law of the Territory, or of the Commonwealth, a State or a foreign country, for providing correctional services for offenders.
 public authority means an administrative unit or Territory authority, and includes a person exercising functions for the Territory, an administrative unit or Territory authority.
+public morality offence, for part 3A (Extinguishing historical homosexual offence convictions)—see section 19A.
 quash—see section 8.
+reviewable decision, for part 3C (Notification and review of decisions)—see section 19K.
 sexual offence means the following offences:
   (a) an offence against the Crimes Act 1900, part 3 (Sexual Offences) or part 3B (Female Genital Mutilation);
   (b) an offence (such as an offence against the Crimes Act 1900, section 27 (Acts endangering life etc) or the Criminal Code, section 311 (Burglary)) that includes the commission of, or an intention to commit, an offence mentioned in paragraph (a) or (d);
