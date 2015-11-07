@@ -30,7 +30,7 @@ police certificate, for a person, means a written statement by the Australian Fe
     (iii) a State; or
     (iv) another country; and
   (b) if so—particulars of each offence.
-Note A conviction does not include a spent conviction (see Spent Convictions Act 2000, s 16 (c) (i)).
+Note A conviction does not include a spent conviction or an extinguished conviction (see Spent Convictions Act 2000, s 16 (c) (i) and s 19H (1) (c) (i)).
 register means the register of licences kept under part 5.
 representative members, of the advisory committee—see section 41.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 50.
