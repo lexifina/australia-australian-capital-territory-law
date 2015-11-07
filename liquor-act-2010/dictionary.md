@@ -135,7 +135,7 @@ police certificate, for a person, means a written statement by the Australian Fe
     (iii) a State; or
     (iv) another country; and
   (b) if so—particulars of each offence.
-Note A conviction does not include a spent conviction (see Spent Convictions Act 2000, s 16 (c) (i)).
+Note A conviction does not include a spent conviction or an extinguished conviction (see Spent Convictions Act 2000, s 16 (c) (i) and s 19H (1) (c) (i)).
 premises includes land, structure, vehicle or boat.
 premises information notice—see section 79.
 prohibited liquor product—see section 212.
