@@ -22,12 +22,14 @@ Note Different amounts may be determined in relation to different matters or cla
 land rent includes—
   (a) the costs and expenses reasonably incurred by the Territory in attempting to recover the land rent; and
   (b) interest payable in relation to the land rent.
-land rent lease—see section 7 (4).
+land rent lease means a lease mentioned in section 7 (3) or section 7A (3).
 lessee, in relation to a proposed land rent lease, for division 3.1 (Lessees generally)—see section 9.
 own, in relation to real property, includes having a legal or beneficial interest in the property.
 registered affordable housing provider, for part 3 (Land rent—discount)—see section 16A.
 related, for a parcel of land, for part 5 (Land rent—payment and recovery of unpaid rent)—see section 18.
 relevant percentage means the relevant percentage determined under the Taxation Administration Act, section 139.
+single dwelling house—see the territory plan.
+single dwelling house lease means a residential lease that authorises use of the land under the lease for a single dwelling house.
 standard percentage means the standard percentage determined under the Taxation Administration Act, section 139.
 Taxation Administration Act means the Taxation Administration Act 1999.
 tax law—see the Taxation Administration Act, section 4.
