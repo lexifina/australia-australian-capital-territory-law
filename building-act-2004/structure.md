@@ -8,7 +8,7 @@
 ### Division 3.5 Carrying out building work
 ### Division 3.6 Completion of building work
 ### Division 3.7 Offences
-## Part 4 Stop and demolition notices
+## Part 4 Stop and other notices and demolition orders
 ## Part 5 Building occupancy
 ### Division 5.1 Certificates of occupancy and other certificates
 ## Part 6 Residential buildings—statutory warranties, insurance and fidelity certificates

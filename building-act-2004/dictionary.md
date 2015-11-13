@@ -53,12 +53,14 @@ class, of building, means that class of building under the building code.
 complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
 completion day, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 85.
 cost, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 86.
+custodian, for part 4 (Stop and other notices and demolition orders)—see section 52.
 decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
+demolition order—see section 63A (2).
 development—see the Planning and Development Act 2007, section 7.
 development approval means development approval under the Planning and Development Act 2007, chapter 7.
 disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
-easement, for part 4 (Stop and demolition notices)—see section 52.
+easement, for part 4 (Stop and other notices and demolition orders)—see section 52.
 eligible entity, for division 3.2 (Certifiers and government certifiers)—see section 18.
 energy efficiency certificate—see section 139C (1).
 exempt building—see section 12.
