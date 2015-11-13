@@ -50,6 +50,7 @@ conditional termination and possession order means a termination and possession 
 crisis accommodation—see section 126.
 database, for part 7 (Residential tenancy databases)—see section 87.
 database operator, for part 7 (Residential tenancy databases)—see section 87.
+eligible impacted property—see the Civil Law (Sale of Residential Property) Act 2003, section 9A (1).
 energy efficiency rating means the energy efficiency rating contained in an energy efficiency rating statement.
 energy efficiency rating statement—see the Construction Occupations (Licensing) Act 2004, section 123AC.
 fixed term agreement means a residential tenancy agreement under which a tenant has a right of occupation for a fixed term.
