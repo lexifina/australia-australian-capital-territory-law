@@ -17,6 +17,8 @@ building conveyancing inquiry documents, for part 2 (Sale of residential propert
 class A unit, for part 2 (Sale of residential property)—see section 7.
 class B unit, for part 2 (Sale of residential property)—see section 7.
 developer’s holding lease—see section 8 (2) (e).
+eligible impacted property, for part 2 (Sale of residential property)—see section 9A (1).
+eligible impacted property buyback program, for part 2 (Sale of residential property)—see section 9A (1).
 encumbrance, for part 2 (Sale of residential property)—see section 7.
 energy efficiency rating, for part 3 (Energy efficiency ratings)—see section 20.
 energy efficiency rating statement, for part 3 (Energy efficiency ratings)—see the Construction Occupations (Licensing) Act 2004, section 123AC.
