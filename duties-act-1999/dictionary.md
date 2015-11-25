@@ -38,7 +38,6 @@ bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
-charitable organisation means an organisation, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for securing financial benefits to its members.
 commercial lease, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 commercial lease with premium, for chapter 2 (Transactions concerning dutiable property)––see section 6A.
 commercial purposes, for chapter 2 (Transactions concerning dutiable property)––see section 6.
@@ -175,17 +174,20 @@ residential lease means a lease granted for residential purposes only.
 responsible entity—see the Corporations Act, section 9.
 right, in relation to shares or units, means any right (whether actual, prospective or contingent) of a person to have shares or units issued by a company or trust to the person, whether or not on payment of money or for other consideration, but does not include a convertible note.
 scheme includes—
-  (a) an agreement, arrangement, understanding, promise or undertaking, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings; or
-  (b) a plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
+  (a) any plan, action or conduct of a person; and
+  (b) any trust, agreement, arrangement or other understanding between people, whether oral or in writing, whether express or implied and whether or not it is intended to be legally binding; and
+  (c) any series or combination of schemes mentioned in paragraphs (a) and (b).
 shares includes rights to shares.
 significant interest, in a landholder—see section 83.
 stamped—see section 233.
 Taxation Administration Act means the Taxation Administration Act 1999.
-tax avoidance scheme means a scheme if the person who has, or 1 or more of the people who have, entered into or carried out the scheme or a part of the scheme did so for the purpose of securing—
-  (a) that an amount of duty would not be payable by a person that would have been, or might reasonably be expected to have been, payable by the person; or
-  (b) that an amount of duty payable by a person would be less than the amount that would have been, or might reasonably be expected to have been, payable by the person; or
-  (c) that a refund of duty would be payable to a person, that would not have been or might reasonably be expected not to have been, payable to the person;
-if the scheme had not been entered into or carried out, or for purposes of which that purpose was the dominant purpose.
+tax avoidance scheme means a scheme by which a person obtains or seeks to obtain a reduction in, or exemption from, tax that would otherwise be payable and where it would be reasonable to conclude that the person entered into or carried out the scheme principally for the purpose of obtaining the reduction or exemption, having regard to—
+  (a) the way in which the scheme was entered into or carried out; or
+  (b) the form and substance of the scheme; or
+  (c) the time when the scheme was entered into and the length of time during which it was carried out; or
+  (d) the extent to which the scheme reduces the tax that would be otherwise payable; or
+  (e) whether the scheme has resulted in, or can reasonably be expected to result in, a change in any person’s financial position, or in any other consequence for any person; or
+  (f) the nature of any connection (whether of a business, family or any other nature) between the person and a person mentioned in paragraph (e).
 third-party insurance, for chapter 8 (Insurance)—see section 175.
 time, of transfer of dutiable property—see section 8 (2).
 trading stock, for part 9.2 (Exemptions)—see section 208A.
