@@ -81,7 +81,7 @@ TW means the total taxable wages paid or payable by the employer (as a member of
 ## Part 2.2 Charitable organisations
 ## 2.12 Meaning of charitable organisation—pt 2.2
 In this part:
-charitable organisation means an organisation, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for securing financial benefit to its members.
+charitable organisation, for a tax law—see the Taxation Administration Act 1999, section 18B.
 ## 2.13 Exemption from payroll tax—charitable organisations
 Wages are exempt wages if they are paid or payable—
 ## (a) by a charitable organisation (other than a charitable organisation carried on for an educational purpose); or
