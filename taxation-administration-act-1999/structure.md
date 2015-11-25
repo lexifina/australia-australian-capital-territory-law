@@ -1,6 +1,9 @@
 ## Part 1 Preliminary
 ## Part 2 Purpose of Act and relationship with other tax laws
 ## Part 3 Assessment of tax liability
+## Part 3A Charitable organisations
+### Division 3A.1 Preliminary
+### Division 3A.2 Beneficial organisation determinations
 ## Part 4 Refunds of tax
 ## Part 5 Interest and penalty tax
 ### Division 5.1 Interest
@@ -11,6 +14,7 @@
 ## Part 7 Collection of tax
 ### Division 7.1 General
 ### Division 7.2 Recovery of tax from directors of corporations
+### Division 7.3 Tax in arrears—sale of land
 ## Part 8 Record keeping and general offences
 ### Division 8.1 Record keeping
 ### Division 8.2 General offences
@@ -30,3 +34,4 @@
 ### Division 11.4 Notices and service of documents
 ### Division 11.5 Proceedings and evidence
 ### Division 11.6 Miscellaneous
+## Part 20 Transitional—Revenue (Charitable Organisations) Legislation Amendment Act 2015

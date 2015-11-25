@@ -26,6 +26,8 @@ assessment means—
   (b) an assessment substituted by the ACAT on review under part 10.
 assessment amount, for a corporation, for division 7.2 (Recovery of tax from directors of corporations)—see section 56A.
 authorised officer means an authorised officer under section 79.
+beneficial organisation determination means a determination made under section 18F (Beneficial organisation determinations—decision).
+charitable organisation, for a tax law—see section 18B.
 business means—
   (a) a profession or trade; or
   (b) any other activity carried on for fee or reward; or
@@ -37,6 +39,7 @@ commissioner-reviewable decision, for division 10.2 (Notification and review of 
 corporation—see the Corporations Act, section 57A.
 director, in relation to a body corporate, includes a person occupying or acting in a position with responsibility for the direction of the body, by whatever name called and whether or not validly appointed to occupy, or duly authorised to act in, the position.
 Note Document is defined in the Legislation Act, dict, pt 1, and includes information in electronic form.
+excluded organisation, for part 3A (Charitable organisations)—see section 18C.
 identity card means—
   (a) an identity card issued under section 80 (1); or
   (b) an identity card approved under section 80 (2), together with a notice issued under section 79 (3) (b).
@@ -44,6 +47,9 @@ interest rate means the interest rate set under section 26.
 internally reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107.
 market rate component, in relation to interest for a day—see section 26 (2).
 objection means an objection made under section 100.
+organisation, for part 3A (Charitable organisations)—see section 18A.
+owner, of a parcel of land, for division 7.3 (Tax in arrears—sale of land)—see section 56G.
+parcel, of land, for division 7.3 (Tax in arrears—sale of land)—see section 56G.
 premises includes land, a vehicle, a vessel and an aircraft.
 premium component, in relation to interest—see section 26 (3).
 public officer means the public officer of a body appointed under section 117.
@@ -69,3 +75,4 @@ tax officer—
     (iii) anyone else engaged (whether as an officer or employee or otherwise) in the administration or enforcement of a tax law; and
   (b) for division 9.4 (Secrecy)—see section 94.
 taxpayer means a person who has been assessed as liable to pay an amount of tax, who has paid an amount as tax or who is liable or may be liable to pay tax.
+under treasurer means the person exercising the functions of the under treasurer in the public service.
