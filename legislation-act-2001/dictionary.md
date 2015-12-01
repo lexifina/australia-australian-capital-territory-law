@@ -464,8 +464,8 @@ United Kingdom Parliament means—
   (c) the Parliament of the United Kingdom of Great Britain and Ireland; or
   (d) the Parliament of the United Kingdom of Great Britain and Northern Ireland.
 veterinary surgeon—
-  (a) means a person unconditionally registered as a veterinary surgeon under the Health Professionals Act 2004; and
-  (b) for an activity, includes a person conditionally registered as a veterinary surgeon under the Health Professionals Act 2004 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+  (a) means a person unconditionally registered as a veterinary surgeon under the Veterinary Surgeons Act 2015; and
+  (b) for an activity, includes a person conditionally registered as a veterinary surgeon under the Veterinary Surgeons Act 2015 to the extent that the person is allowed to do the activity under the person’s conditional registration.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
 working day means a day that is not—
