@@ -2,15 +2,15 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· dental prosthetist
-· dentist
-· doctor
-· Minister (see s 162)
-· notifiable instrument (see s 10)
-· nurse
-· penalty unit (see s 133)
-· pharmacist.
+• ACT
+• dental prosthetist
+• dentist
+• doctor
+• Minister (see s 162)
+• notifiable instrument (see s 10)
+• nurse
+• penalty unit (see s 133)
+• pharmacist.
 exemption period—see section 5 (2).
 health care services means—
   (a) services ordinarily provided by doctors, nurses, dentists, dental prosthetists, pharmacists, podiatrists, chiropractors, osteopaths, optometrists, physiotherapists or psychologists; or
