@@ -17,7 +17,7 @@
 ### Division 4.3 Conciliation of complaints
 ### Division 4.4 Consideration of complaints
 ### Division 4.5 Closing complaints and reporting
-## Part 5 Health code and health profession boards
+## Part 5 Health code, health profession boards and veterinary surgeons board
 ### Division 5.1 Health code of health rights and responsibilities
-### Division 5.2 Relationship between commission and health profession boards
+### Division 5.2 Relationship between commission, health profession boards and veterinary surgeons board
 ## Part 6 Miscellaneous
