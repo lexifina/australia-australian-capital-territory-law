@@ -49,9 +49,7 @@ engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
 entity, for part 7 (VMO service contracts)—see section 100.
-health board means—
-  (a) a national board under the Health Practitioner Regulation National Law (ACT); or
-  (b) a health profession board under the Health Professionals Act 2004.
+health board means a national board established under the Health Practitioner Regulation National Law (ACT), section 31.
 health facility—see section 6.
 health facility QAC, for a health facility, for part 4 (Quality assurance)—see section 20.
 health professional organisation, for part 4 (Quality assurance)—see section 21.
