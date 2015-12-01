@@ -174,17 +174,14 @@ frisk search—
 general parental authority—see section 515.
 government agency for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 harmful conduct, engaged in by a child or young person—see section 533.
-health care treatment means treatment of an illness, disability, disorder or condition by a health practitioner or health professional.
+health care treatment means treatment of an illness, disability, disorder or condition by a health practitioner.
 health facility means a hospital or other facility where health services are provided.
-health professional means a health professional registered under the Health Professionals Act 2004.
 health segregation direction, for division 6.6.3 (Segregation)—see section 204.
 health service—
   (a) means a service provided to someone (the service user) for any of the following purposes:
     (i) assessing, recording, maintaining or improving the physical, mental or emotional health, comfort or wellbeing of the service user;
     (ii) diagnosing or treating an illness, disability, disorder or condition of the service user; and
-  (b) includes a service provided by—
-    (i) a health practitioner in the practitioner’s capacity as a health practitioner; and
-    (ii) a health professional in the professional’s capacity as a health professional.
+  (b) includes a service provided by a health practitioner in the practitioner’s capacity as a health practitioner.
 hearing, for a review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 high risk employment, for part 21.4 (Employment of children and young people under 15 years old)—see section 794.
 information, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
@@ -232,9 +229,6 @@ non-treating doctor—
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
 non-treating health practitioner—
-  (a) for the criminal matters chapters—see section 98; and
-  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
-non-treating health professional—
   (a) for the criminal matters chapters—see section 98; and
   (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
 non-treating nurse—
