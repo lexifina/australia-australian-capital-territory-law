@@ -13,7 +13,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   · must (see s 146)
   · occupational discipline order
   · public advocate
-  · under.
+  · under
+  · veterinary surgeon.
 act includes omission.
 aggrieved person, in relation to a complaint—see section 43 (1) (a).
 applicable standard, in relation to a service provider, means anything mentioned in any of the following provisions that applies to the provider:
@@ -32,6 +33,9 @@ Commonwealth commission means the Australian Human Rights Commission established
 complainant means—
   (a) in relation to a complaint—the person who made the complaint; but
   (b) in relation to a commission-initiated consideration under section 48 (2)—the commission and not the person who made the complaint (see s 49).
+complaint—
+  (a) about a health practitioner—means a complaint or a notification about the health practitioner that may be made, or is made, under this Act or the Health Practitioner Regulation National Law (ACT), part 8 (Health, performance and conduct); and
+  (b) about a veterinary surgeon—means a complaint about the veterinary surgeon that may be made, or is made, under this Act or the Veterinary Surgeons Act 2015, section 50 (Who may complain?).
 conciliation, of a complaint—see section 55 (1).
 conciliation agreement—see section 62 (1).
 conduct means an act, an omission to do an act or a state of affairs.
@@ -48,8 +52,6 @@ engage in conduct means—
 final report, in relation to a complaint—see section 81.
 funding body means an entity that has a function of paying for services provided to others.
 health code—see section 89.
-health professional—see the Health Professionals Act 2004, section 14.
-health professional report means a report about a health professional that may be made, or is made, under the Health Professionals Act 2004, section 78 (Who may report?).
 health service—see section 7.
 health service complaint means a complaint about a health service that may be made, or is made, under section 39.
 health services commissioner means the Health Services Commissioner under section 24.
@@ -61,13 +63,19 @@ incorporated document means—
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
 provider, of a service—see section 10.
-registered, for a health professional, means registered under the Health Professionals Act 2004.
+registered means—
+  (a) for a health practitioner—registered under the Health Practitioner Regulation National Law (ACT); and
+  (b) for a veterinary surgeon—registered under the Veterinary Surgeons Act 2015.
+registered veterinary surgeon, for division 5.2 (Relationship between commission, health profession boards and veterinary surgeons board)—see section 91.
 related Act—each of the following is a related Act:
   (a) Disability Services Act 1991;
   (b) Discrimination Act 1991;
-  (c) Health Professionals Act 2004;
-  (d) Health Records (Privacy and Access) Act 1997;
-  (e) Human Rights Act 2004.
+  (c) Health Records (Privacy and Access) Act 1997;
+  (d) Human Rights Act 2004;
+  (e) Veterinary Surgeons Act 2015.
+relevant board means—
+  (a) for a health practitioner regulated under the Health Practitioner Regulation National Law (ACT)—the national board for the practitioner under that Act; and
+  (b) for a veterinary surgeon—the veterinary surgeons board.
 service for children and young people—see section 8A.
 service for older people—see section 9.
 third-party report—see section 83 (1).
