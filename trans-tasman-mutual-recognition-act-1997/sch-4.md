@@ -10,5 +10,4 @@ The following laws, to the extent that they deal with the occupation of medical 
   Medical Act 1894 of Western Australia
   Medical Practitioners Act 1983 of South Australia
   Medical Practitioners Registration Act 1996 of Tasmania
-  Health Professionals Act 2004 of the Australian Capital Territory
   Medical Act 1995 of the Northern Territory.
