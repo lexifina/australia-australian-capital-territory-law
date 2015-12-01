@@ -20,7 +20,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · optometrist
 · pharmacist
 · reviewable decision notice
-· under.
+· under
+· veterinary surgeon.
 appendix C substance—see section 13.
 applied provisions, for chapter 10 (Incorporation of Commonwealth therapeutic goods laws)—see section 156.
 applies, in relation to a substance for a schedule or appendix of the medicines and poisons standard—see section 17.
@@ -57,7 +58,6 @@ dosage unit means an individual dose of a medicine or poison for therapeutic use
 drug offence, for part 8.2 (Controlled medicines and prohibited substances—disqualification by courts)—see section 147.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 ground for disciplinary action, against an authorisation holder, for part 8.1 (Authorisations—disciplinary action)—see section 140 (1).
-health professional—see the Health Professionals Act 2004, section 14.
 hospital—
   (a) means a public hospital, private hospital or day hospital; and
 Note A hospice is a hospital (see The Macquarie Dictionary, 3rd ed, def hospice).
@@ -124,6 +124,7 @@ suitable person—
 supply—see section 24.
 supply authority—see section 23.
 vending machine, for division 4.3.5 (Vending machines—offences)—see section 67.
+veterinary surgeons board means the veterinary surgeons board established under the Veterinary Surgeons Act 2015, section 105.
 ward means an area of an institution used to accommodate or treat people, including an operating theatre and an opioid dependency treatment centre.
 wholesale means supply—
   (a) for retail sale; or
