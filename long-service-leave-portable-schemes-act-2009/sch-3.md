@@ -5,7 +5,7 @@ The community sector industry is—
 ## (i) the industry of providing child care services; and
 ## (ii) the industry of providing the following residential care services:
 ## (A) care accommodation or homes for disadvantaged people where nursing or medical care is not provided as a major service;
-## (B) residential corrective services for juvenile offenders; and
+## (B) residential corrective services for young offenders; and
 ## (iii) the industry of providing non-residential care welfare services (including fund-raising services for welfare services) not included in other community sector industries; and
 ## (iv) the industry of providing employment placement services for disabled people; and
 ## (v) the industry of providing community service advocacy services; and

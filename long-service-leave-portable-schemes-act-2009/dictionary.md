@@ -68,11 +68,11 @@ reciprocal agreement—see section 90.
 reciprocal authority means the entity under a corresponding law that administers the scheme of long service benefits established by the law.
 reciprocating State means a State in relation to which a reciprocal agreement is in force.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
-recognised service for a registered worker—
-  (a) in the building and construction industry—see section 1.3; and
-  (b) in the contract cleaning industry—see section 2.3; and
-  (c) in the community sector industry—see section 3.3; and
-  (d) in the security industry—see section 4.3.
+recognised service, for a registered worker—
+  (a) in the building and construction industry—see schedule 1, section 1.3 (1); and
+  (b) in the contract cleaning industry—see schedule 2, section 2.3 (1); and
+  (c) in the community sector industry—see schedule 3, section 3.3 (1); and
+  (d) in the security industry—see schedule 4, section 4.3 (1).
 registered employer means a person who is registered under section 34.
 registered worker means an individual who is registered under section 46.
 registrar means the chief executive officer of the authority within the meaning of the Financial Management Act 1996, dictionary, definition of chief executive officer.
@@ -82,12 +82,11 @@ school-based apprentice means an apprentice to whom a school-based training arra
 security industry—see schedule 4, section 4.1.
 security work—see schedule 4, section 4.2.
 service, for a registered worker for a covered industry, means service in the covered industry.
-service period for a registered worker—
-  (a) in the building and construction industry—see section 1.4A; and
-  (b) in the contract cleaning industry—see section 2.4A; and
-  (c) in the community sector industry—see section 3.5A; and
-  (d) in the security industry—see section 4.5A.
+service period, for a registered worker—
+  (a) in the building and construction industry—see schedule 1, section 1.4A (1); and
+  (b) in the contract cleaning industry—see schedule 2, section 2.4A (1); and
+  (c) in the community sector industry—see schedule 3, section 3.5A (1); and
+  (d) in the security industry—see schedule 4, section 4.5A (1).
+work, in a covered industry—see section 11.
 worker—see section 8.
 workers register—see section 39.
-working director means a person who is both a director and an employee of a company.
-Note For this Act, a working director is taken to be a contractor—see s 10.
