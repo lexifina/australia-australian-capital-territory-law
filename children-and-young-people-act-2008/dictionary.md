@@ -52,7 +52,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory
 · transgender person (see s 169A (1) and (2))
 · working day.
-Aboriginal and Torres Strait Islander organisation means an organisation whose purpose is to represent the interests of Aboriginal and Torres Strait Islander people.
 Aboriginal or Torres Strait Islander person means a person who––
   (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
   (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
@@ -68,6 +67,7 @@ admission, of a young detainee to a detention place, for part 6.4 (Admission to 
 affected child, for division 20.4.3 (Childcare service licences—suspension and cancellation)—see section 759.
 allegation report, for chapter 8 (Criminal matters—discipline at detention places)—see section 293.
 annual review report, for a reviewable care and protection order, for chapter 14 (Care and protection—care and protection orders )—see section 494.
+annual review report order, for part 14.13 (Annual review reports—parental responsibility provisions and supervision provisions)—see section 500 (2).
 application, for chapter 19 (Care and protection—provisions applying to all proceedings under care and protection chapters)—see section 695.
 appraisal order, for the care and protection chapters—see section 372.
 approved care and protection organisation—see section 352C.
@@ -86,7 +86,7 @@ behaviour management framework, for chapter 8 (Criminal matters—discipline at 
 body search—
   (a) of a young detainee, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (b) of a child or young person, for part 16.3 (Children and young people in therapeutic protection)—see section 588.
-cancellation notice, for chapter 20 (Childcare services)—see section 766.
+cancellation notice, for chapter 20 (Childcare services)—see section 766 (2).
 care and protection appraisal, for the care and protection chapters—see section 366.
 care and protection assessment, for the care and protection chapters—see section 367.
 care and protection chapters—see section 336.
@@ -104,10 +104,10 @@ childcare centre—see section 733.
 childcare service—see section 732.
 childcare service licence, for chapter 20 (Childcare services)—see section 728 (2).
 childcare services standards—see section 887 (2) (f).
-childcare worker, for chapter 20 (Childcare services)—see section 728 (1).
+childcare worker, for chapter 20 (Childcare services)—see section 728 (2).
 child concern report—see section 353.
 children and young people employment standards—see section 887 (2) (g).
-children and young people deaths register—see section 727N.
+children and young people deaths register—see section 727N (1).
 Children and Youth Services Council means the Children and Youth Services Council established under section 27.
 child welfare law—see section 640 (1).
 child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 638.
@@ -124,6 +124,7 @@ contrary to the best interests of a child or young person, for chapter 21 (Emplo
 controlled drug—see the Criminal Code, section 600.
 controlling person, for a childcare service or proposed childcare service, for chapter 20 (Childcare services)—see section 736.
 court, for part 25.4 (Courts and investigative entities)—see section 864.
+court-ordered meeting—see section 431 (2) (a).
 criminal matters chapter—see section 91.
 CYP death review committee means the Children and Young People Death Review Committee established under section 727A.
 daily care responsibility—see section 19.
@@ -188,14 +189,15 @@ information, for chapter 25 (Information secrecy and sharing)—see section 842 
 information holder, for chapter 25 (Information secrecy and sharing)—see section 843.
 information sharing entity, for part 25.3 (Sharing protected information)—see section 859 (1).
 information sharing standards—see section 887 (2) (j).
+initial review, for division 16.2.5 (Review of therapeutic protection orders)—see section 553 (2).
 in need of care and protection, for the care and protection chapters—see section 345 (1).
 in need of emergency care and protection, for the care and protection chapters—see section 403.
 in need of emergency therapeutic protection, for the care and protection chapters—see section 404.
 intention to cancel notice—
   (a) for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352Q; and
   (b) for chapter 20 (Childcare services)—see section 764 (2).
-interim care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 433.
-interim child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 661.
+interim care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 433 (1).
+interim child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 661 (1).
 interim therapeutic protection order—see section 543.
 interstate care and protection report—see section 845 (2), definition of interstate care and protection information, paragraph (a).
 interstate child welfare order—see section 666 (1).
@@ -214,7 +216,7 @@ light work, for part 21.4 (Employment of children and young people under 15 year
 long-term care responsibility, for a child or young person—see section 20.
 long-term parental responsibility provision, for the care and protection chapters—see section 479.
 mail means postal mail.
-mandatory report—see section 356.
+mandatory report—see section 356 (1) (e).
 mental dysfunction—see section 530 (1).
 mental illness—see section 530 (1).
 Minister of a State, for part 5.2 (Interstate transfers)—see section 114.
@@ -227,19 +229,20 @@ noncompliant, for an approved care and protection organisation, for division 10.
 non-treating doctor—
   (a) for chapter 6 (Criminal matters—detention places)—see section 137; and
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
+  (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
 non-treating health practitioner—
   (a) for the criminal matters chapters—see section 98; and
-  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
+  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
 non-treating nurse—
   (a) for part 6.7 (Alcohol and drug testing)—see section 235; and
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530.
+  (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
 occupier, for chapter 23 (Enforcement)—see section 812.
 offence—
   (a) includes an offence against a Commonwealth law; and
   (b) for chapter 23 (Enforcement)—see section 812.
-official visitor means an official visitor for this Act appointed under the Official Visitor Act 2012, section 10.
+official visitor means an official visitor for this Act appointed under the Official Visitor Act 2012, section 10 (1) (a).
+ongoing review, for division 16.2.5 (Review of therapeutic protection orders)—see section 554 (2).
 operating entity, for a detention place, therapeutic protection place or place of care, means—
   (a) if the Territory operates the place—the director-general; or
   (b) in any other case—the entity that operates the place.
@@ -283,11 +286,11 @@ possession, of a thing, includes the following:
   (a) receiving or obtaining possession of the thing;
   (b) having control over the disposition of the thing (whether or not having custody of the thing);
   (c) having joint possession of the thing.
-prenatal report—see section 362.
+prenatal report—see section 362 (2).
 privilege, for chapter 8 (Criminal matters—discipline at detention places)—see section 289.
 privileged, in relation to material, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 produce, for part 25.4 (Courts and investigative entities)—see section 864.
-prohibited area, for a criminal matters chapter—see section 147.
+prohibited area, for a criminal matters chapter, means a place declared by the director-general as a prohibited area under section 147.
 prohibited thing—
   (a) for chapter 6 (Criminal matters—detention places)—see section 137; and
   (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
@@ -366,6 +369,7 @@ therapeutic protection order—see section 532.
 therapeutic protection person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
 therapeutic protection place—see section 535.
 therapeutic protection plan—see section 536.
+therapeutic protection register, for chapter 16 (care and protection—therapeutic protection of children and young people)—see section 633 (1).
 therapeutic protection standards—see section 887 (2) (e).
 therapeutic protection transition plan, for a child or young person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 538.
 transfer agreement, for part 5.2 (Interstate transfers)—see section 115.
@@ -378,7 +382,8 @@ visitable place—see section 37.
 visiting conditions, for chapter 6 (Criminal matters—detention places)—see section 137.
 visitor, for chapter 6 (Criminal matters—detention places)—see section 137.
 voluntary care agreement—see section 394.
-voluntary report—see section 354.
+voluntary report—see section 354 (2).
+waiver order, for part 14.13 (Annual review reports—parental responsibility provisions and supervision provisions)—see section 498 (1).
 welfare body, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 work experience, for chapter 21 (Employment of children and young people)—see section 780.
 work experience standards—see section 887 (2) (h).
