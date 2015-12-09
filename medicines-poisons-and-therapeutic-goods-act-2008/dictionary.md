@@ -22,7 +22,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · under
 · veterinary surgeon.
-appendix C substance—see section 13.
 applied provisions, for chapter 10 (Incorporation of Commonwealth therapeutic goods laws)—see section 156.
 applies, in relation to a substance for a schedule or appendix of the medicines and poisons standard—see section 17.
 at premises includes in or on the premises.
@@ -115,6 +114,7 @@ residential disability care facility—
   (a) means a residential facility that provides disability care to people with disabilities; but
   (b) does not include a residential aged care facility.
 reviewable decision, for chapter 9 (Notification and review of decisions)—see section 154.
+schedule 10 substance—see section 13.
 sell—see section 24.
 signs—a person signs something if the person signs with the person’s usual signature, whether electronically or otherwise.
 standing order means a written order authorising the supply or administration of medicines as stated in the order, in stated clinical circumstances.
