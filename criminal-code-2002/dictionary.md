@@ -79,7 +79,7 @@ explosive means a substance or article that—
   (b) a person has with the intention of using it to produce an explosion.
 false document, for part 3.6 (Forgery and related offences)—see section 344.
 fault element—see section 17.
-fault element of basic intent—see section 30.
+fault element of basic intent—see section 30 (1).
 favour, for part 3.7 (Bribery and related offences)—see section 352.
 financial advantage, for part 3.8A (Cheating at gambling)—see section 363A.
 financial disadvantage, for part 3.8A (Cheating at gambling)—see section 363A.
@@ -91,12 +91,13 @@ harm means—
   (a) physical harm to a person, including unconsciousness, pain, disfigurement, infection with a disease and any physical contact with the person that a person might reasonably object to in the circumstances (whether or not the person was aware of it at the time); and
   (b) harm to a person’s mental health, including psychological harm, but not including mere ordinary emotional reactions (for example, distress, grief, fear or anger);
 whether temporary or permanent, but does not include being subjected to any force or impact that is within the limits of what is acceptable as incidental to social interaction or to life in the community.
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 impairment, for part 4.2 (Computer offences)—see section 412.
 in a legal proceeding, for chapter 7 (Administration of justice offences)—see section 701 (3).
 indirectly derived, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 intention—see section 18.
 interpreter, for chapter 7 (Administration of justice offences)—see section 700.
-intoxication—see section 30.
+intoxication—see section 30 (1).
 irreversible means irreversible by natural or artificial means.
 knife includes—
   (a) a knife blade; and
@@ -106,7 +107,7 @@ knowledge—see section 19.
 large commercial quantity, for chapter 6 (Serious drug offences)—see section 601.
 law means an Act or subordinate law, and includes a provision of an Act or subordinate law.
 law enforcement officer, for chapter 7 (Administration of justice offences)—see section 700.
-legal burden—see section 56.
+legal burden—see section 56 (3).
 legal proceeding, for chapter 7 (Administration of justice offences)—see section 701.
 loss, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 manufacture, for chapter 6 (Serious drug offences)—see section 606.
@@ -150,7 +151,7 @@ receiving—see section 313.
 reckless—see section 20.
 required geographical nexus, for part 2.7 (Geographical application)—see section 63.
 robbery—see section 309.
-self-induced intoxication—see section 30.
+self-induced intoxication—see section 30 (2).
 sell, for chapter 6 (Serious drug offences)—see section 600.
 serious computer offence, for part 4.2 (Computer offences)—see section 412.
 serious harm means any harm (including the cumulative effect of more than 1 harm) that—
