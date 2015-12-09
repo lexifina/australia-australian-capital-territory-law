@@ -12,12 +12,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · law, of the Territory
 · Office of the Legislative Assembly
-· officer of the Assembly
 · Speaker
 · territory law
 · territory-owned corporation
 · under.
-appropriation—see the Financial Management Act, dictionary.
 chief executive officer—see the Financial Management Act, dictionary.
 contract—see the Financial Management Act, dictionary.
 controlling interest—see section 5.
