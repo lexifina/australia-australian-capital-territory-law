@@ -10,6 +10,6 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 7 | 90 (2) | refuse to register political party | applicant for registration
 8 | 92 (1) | register political party | person who objects to registration
 9 | 93 (1) or (2) | refuse to change registered particulars applied for under section 95 (2) | applicant for change of registered particulars
-10 | 98 (5) | refuse to cancel registration of political party | registered party
+10 | 98 (5) | cancel registration of political party | registered party
 11 | 237A | give investigations notice | person to whom notice given
 12 | 242 (4) | refuse request to make stated amendment of return | person who gave return
