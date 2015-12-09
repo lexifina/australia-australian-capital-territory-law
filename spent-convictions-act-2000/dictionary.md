@@ -43,7 +43,7 @@ historical homosexual offence, for part 3A (Extinguishing historical homosexual 
 law enforcement agency means any of the following:
   (a) the Australian Federal Police;
   (b) the police service or force of a State, another Territory or a foreign country;
-  (c) the Australian Customs Service;
+  (c) the Department of Immigration and Border Protection (Cwlth);
   (d) the Australian Crime Commission;
   (e) CrimTrac;
   (f) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
@@ -61,8 +61,9 @@ public morality offence, for part 3A (Extinguishing historical homosexual offenc
 quash—see section 8.
 reviewable decision, for part 3C (Notification and review of decisions)—see section 19K.
 sexual offence means the following offences:
-  (a) an offence against the Crimes Act 1900, part 3 (Sexual Offences) or part 3B (Female Genital Mutilation);
-  (b) an offence (such as an offence against the Crimes Act 1900, section 27 (Acts endangering life etc) or the Criminal Code, section 311 (Burglary)) that includes the commission of, or an intention to commit, an offence mentioned in paragraph (a) or (d);
+  (a) an offence against the Crimes Act 1900, part 3 (Sexual Offences) or part 4 (Female Genital Mutilation);
+  (b) an offence (for example, an offence against the Crimes Act 1900, section 27 (Acts endangering life etc) or the Criminal Code, section 311 (Burglary)) that includes the commission of, or an intention to commit, an offence mentioned in paragraph (a) or (d);
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
   (c) an offence of attempting, or of conspiracy or incitement, to commit an offence mentioned in paragraph (a), (b) or (d);
   (d) an offence (including a Commonwealth offence, State offence or foreign offence) prescribed under the regulations;
   (e) an ACT offence committed before the date of commencement of this definition of a similar nature to an offence mentioned in paragraphs (a) to (d);
