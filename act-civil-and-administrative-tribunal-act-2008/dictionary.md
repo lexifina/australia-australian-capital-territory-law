@@ -71,4 +71,4 @@ tribunal means—
   (b) for an application—means the tribunal made up under section 89 for the application; and
   (c) for an appeal—an appeal tribunal.
 tribunal member means a presidential member, non-presidential member or assessor.
-trust amount, for part 9A (ACAT trust account)—see section 115B (1).
+trust amount, for part 9A (ACAT trust account)—see section 115A.
