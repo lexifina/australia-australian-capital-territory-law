@@ -13,7 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · individual
 · planning and land authority.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if provided by the law).
-administration order—see section 136 (Who may apply for an administration order?).
+administration order—see section 136.
 administrative fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 73.
 administrator, of an owners corporation, means a person who is appointed as the administrator of the corporation under part 10 (Administrators).
 appoint includes engage.
@@ -31,7 +31,7 @@ corporate register—see section 113.
 court includes the ACAT.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
 default rules—see section 106.
-developer—see the Unit Titles Act 2001, section 17.
+developer—see the Unit Titles Act 2001, dictionary.
 developer control period, for a units plan, means the period that—
   (a) starts on the day the owners corporation for the units plan is established; and
   (b) ends on the day people other than the developer hold 1/3 or more of the unit entitlements for the units plan.
@@ -70,8 +70,8 @@ maintenance, of a building, a facility for a utility service or a utility condui
   (d) restoration.
 management contract, for division 4.2 (Managers)—see section 49.
 management services, for division 4.2 (Managers)—see section 49.
-manager—see section 49.
-member, of an owners corporation, are the members under section 10.
+manager, for division 4.2 (Managers)—see section 49.
+member, of an owners corporation, is a member under section 10.
 mortgage means a registered mortgage, or a registered encumbrance, within the meaning of the Land Titles Act 1925.
 mortgagee means—
   (a) for a unit—the registered proprietor of a mortgage of the lease of the unit; or
@@ -99,8 +99,8 @@ representative—
 rule, for an owner corporation, means a rule of the corporation under section 106.
 rule infringement notice—see section 109 (2).
 secretary, for an owners corporation, means the secretary of the corporation elected under section 40.
-service contract—see section 59.
-service contractor—see section 59.
+service contract, for division 4.3 (Service contractors)—see section 59.
+service contractor, for division 4.3 (Service contractors)—see section 59.
 service contractor services, for division 4.3 (Service contractors)—see section 59.
 sinking fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 81 (2).
 sinking fund contribution—see section 89 (1).
@@ -132,4 +132,4 @@ unopposed resolution means a resolution of a general meeting passed as required 
 utility conduit—see the Unit Titles Act 2001, dictionary.
 utility infrastructure means infrastructure and equipment necessary for, or related to, the provision of utility services.
 utility services—see the Unit Titles Act 2001, dictionary.
-voting value—see schedule 3, section 3.28 (2) (Value of votes).
+voting value—see schedule 3, section 3.28 (2).
