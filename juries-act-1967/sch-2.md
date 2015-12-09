@@ -2,7 +2,7 @@
 (see s 11)
 ## Part 2.1 Exempt people
 column 1 item | column 2 exempt people
-1 | a person exempt from serving as a juror under— the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or the Navigation Act 1912 (Cwlth), section 147; or the Air Navigation Regulations 1947 (Cwlth), regulation 150
+1 | a person exempt from serving as a juror under— the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or the Navigation Act 2012 (Cwlth), section 89; or the Air Navigation Regulations 1947 (Cwlth), regulation 150
 2 | a magistrate or coroner
 3 | an employee of the government of a foreign country or of an international organisation
 4 | the official secretary to the Governor-General
@@ -23,9 +23,8 @@ column 1 item | column 2 exempt people
 19 | an employee at any of the following places: (a) a place declared to be a detention place under the Children and Young People Act 2008, section 142; (b) a place approved as a place of care under the Children and Young People Act 2008, section 525; (c) a place declared to be a therapeutic protection place under the Children and Young People Act 2008, section 625
 20 | the emergency services commissioner and a chief officer, or deputy chief officer, of an emergency service
 21 | a corrections officer
-22 | an employee at a place declared to be a detention place under the Children and Young People Act 2008, section 142
-23 | a person appointed as 1 of the following: (a) a royal commission under the Royal Commissions Act 1991, section 5; (b) a board of inquiry under the Inquiries Act 1991, section 5; (c) a member of a judicial commission under the Judicial Commissions Act 1994, section 6
-24 | a public servant during the period the public servant is made available to a royal commission, board of inquiry or judicial commission
+22 | a person appointed as 1 of the following: (a) a royal commission under the Royal Commissions Act 1991, section 5; (b) a board of inquiry under the Inquiries Act 1991, section 5; (c) a member of a judicial commission under the Judicial Commissions Act 1994, section 6
+23 | a public servant during the period the public servant is made available to a royal commission, board of inquiry or judicial commission
 ## Part 2.2 People who may claim exemption
 column 1 item | column 2 people who may claim exemption
 1 | a minister of religion
