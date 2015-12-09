@@ -28,7 +28,7 @@ account means any facility or arrangement through which a financial institution 
   (a) a facility or arrangement for a fixed term deposit or a safe-deposit box; and
   (b) a facility or arrangement prescribed by regulation for this definition.
 agent, for an agent that is a corporation, includes an officer, employee or agent of the corporation.
-artistic profits—see section 81.
+artistic profits—see section 81 (1).
 artistic profits restraining order—see section 20.
 associate, for division 12.5 (Examination orders and notices)—see section 164.
 at, for part 13 (Search warrants)—see section 195.
@@ -98,7 +98,7 @@ in relation to—to remove any doubt, in relation to includes—
   (d) in respect of; and
   (e) with respect to.
 Example
-The phrase ‘property used, or intended to be used by an offender, in relation to the commission of an offence’ (in s 3 (d) and elsewhere) refers to all or any of the following:
+The phrase ‘property used, or intended to be used by an offender, in relation to the commission of an offence’ (in s 3 (d) and elsewhere) refers to 1 or more of the following:
 (a) property used in or in relation to the commission of the offence;
 (b) property used for or for the purposes of the commission of the offence;
 (c) property used in connection with the commission of the offence;
@@ -166,7 +166,7 @@ subject to forfeiture, in relation to property—see section 73.
 sufficient consideration, in relation to acquiring or disposing or otherwise dealing with property, means acquiring, disposing of, or otherwise dealing with, the property for a consideration that is sufficient and that appropriately reflects the value of the property having regard only to commercial considerations.
 tainted property—see section 10.
 target material, for part 13 (Search warrants)—see section 195.
-transaction suspension order—see section 152.
+transaction suspension order—see section 152 (1).
 trust fund means the confiscated assets trust fund under section 130.
 unclaimed tainted property—see section 11.
 unclaimed tainted property restraining order—see section 21.
