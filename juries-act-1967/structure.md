@@ -3,7 +3,7 @@
 ## Part 3 Liability for jury service
 ## Part 4 Jury list
 ## Part 5 Jury precepts and summonses
-## Part 6 Striking and impanelling jury
+## Part 6 Empanelling jury for criminal trial
 ## Part 7 Challenge
 ## Part 8 Disagreement of jury
 ## Part 9 Offences
