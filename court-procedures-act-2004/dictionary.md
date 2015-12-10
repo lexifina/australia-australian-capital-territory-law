@@ -34,6 +34,7 @@ long-term care responsibility, for division 7A.1 (General)—see the Children an
 magistrate, for part 5 (Court security)—see section 40.
 offensive weapon, for part 5 (Court security)—see section 40.
 prescribed tribunal, for part 2 (Court rules and forms) and schedule 1 (Subject matter for rules)—see section 6.
+principal registrar—see section 11A.
 proceeding, for part 4 (Crown proceedings)—see section 20.
 relevant legislation, for part 3 (Court and tribunal fees)—see section 12.
 reviewable decision, for division 3.2 (Review of decisions—fees)—see section 18.
