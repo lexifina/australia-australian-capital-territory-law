@@ -71,9 +71,10 @@ annual review report order, for part 14.13 (Annual review reports—parental res
 application, for chapter 19 (Care and protection—provisions applying to all proceedings under care and protection chapters)—see section 695.
 appraisal order, for the care and protection chapters—see section 372.
 approved care and protection organisation—see section 352C.
-approved foster care organisation—see section 510.
+approved carer—see section 514B.
+approved kinship and foster care organisation—see section 502.
 approved research project, for chapter 22 (Research involving children and young people)—see section 805.
-approved residential care organisation—see section 511.
+approved residential care organisation—see section 502.
 assessment order, for the care and protection chapters—see section 436.
 at risk of abuse or neglect, in the care and protection chapters—see section 344.
 authorised assessor—see section 438.
@@ -167,12 +168,11 @@ family group conference outcome report, for chapter 3 (Family group conferences)
 family group conference standards—see section 887 (2) (a).
 family member, of a child or young person—see section 13.
 former caregiver, of a child or young person, for the care and protection chapters—see section 347.
-foster carer, for a child or young person—see section 510.
-foster care service—see section 510.
+foster carer, for a child or young person—see section 518 (2).
 frisk search—
   (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (b) for part 16.3 (Children and young people in therapeutic protection)—see section 586.
-general parental authority—see section 515.
+general parental authority, for a residential care service—see section 520 (2).
 government agency for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 harmful conduct, engaged in by a child or young person—see section 533.
 health care treatment means treatment of an illness, disability, disorder or condition by a health practitioner.
@@ -209,7 +209,7 @@ in therapeutic protection—see section 572.
 investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate and the ombudsman.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 investigator, for part 8.2 (Responding to behaviour breaches)—see section 291.
-kinship carer, for a child or young person—see section 509.
+kinship carer, for a child or young person—see section 516 (2).
 licensed childcare service, for chapter 20 (Childcare services)—see section 728 (2).
 licensed proprietor, of a childcare service, for chapter 20 (Childcare services)—see section 728 (2).
 light work, for part 21.4 (Employment of children and young people under 15 years old)—see section 793.
@@ -252,7 +252,7 @@ ordinary search—
   (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
   (b) for part 16.3 (Children and young people in therapeutic protection)—see section 587.
 organisation—see section 352A.
-out-of-home carer—see section 508.
+out-of-home carer, for a child or young person—see section 508.
 out-of-home care standards—see section 887 (2) (d).
 owner, of a thing—
   (a) for part 7.9 (Seizing property)—see section 279; and
@@ -311,7 +311,7 @@ researcher, for a research project, for chapter 22 (Research involving children 
 research project, for chapter 22 (Research involving children and young people)—see section 806.
 research standards—see section 887 (2) (i).
 residence provision, for the care and protection chapters—see section 484.
-residential care service—see section 511
+residential care service—see section 520 (2).
 responsible person—
   (a) for an approved care and protection organisation, for part 10.4 (Approved care and protection organisations)—see section 352D; and
   (b) for a childcare service, for chapter 20 (Childcare services)—see section 738.
@@ -345,7 +345,9 @@ sibling, of a child or young person, includes a stepbrother or stepsister of the
 significant harm, for the care and protection chapters—see section 341 (2).
 significant person, for a child or young person—see section 14.
 specific issues provision—see section 492.
-specific parental authority—see section 515.
+specific parental authority—
+  (a) for a kinship carer—see section 516 (2); or
+  (b) for a foster carer—see section 518 (2).
 stability proposal, for a child or young person—see section 456.
 State—
   (a) for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637; and
