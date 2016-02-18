@@ -17,7 +17,7 @@ compliance information, for part 4A (Information sharing)—see section 28A.
 compliance period—see section 12.
 connected, with an offence, for part 5 (Enforcement)—see section 29.
 eligible activity—see section 10.
-emissions factor—see section 9.
+emissions multiplier—see section 9.
 energy includes electricity and gas.
 energy savings contribution—see section 11.
 energy savings obligation—see section 13.
