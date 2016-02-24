@@ -126,8 +126,12 @@ licence register—see section 304.
 licensed activity, for a licence—see section 262.
 list, for part 4.4 (Including, transferring and omitting items in list)—see section 80.
 listed migratory species—see the Environment Protection and Biodiversity Conservation Act 1999 (Cwlth), section 528.
-listing advice—see section 86.
-listing assessment—see section 85.
+listing advice—
+  (a) for part 4.3 (Key threatening processes)—see section 79G (2); and
+  (b) for part 4.4 (Including, transferring and omitting items in list)—see section 86 (2).
+listing assessment—
+  (a) for part 4.3 (Key threatening processes)—see section 79F (2); and
+  (b) for part 4.4 (Including, transferring and omitting items in list)—see section 85 (2).
 management agreement, for public land or unleased territory land, for chapter 12 (Management agreements with utility suppliers, land developers and others)—see section 310.
 management objectives, for public land or unleased territory land, for chapter 12 (Management agreements with utility suppliers, land developers and others)—see section 309.
 material harm, to a reserve—
@@ -186,7 +190,9 @@ protected native species list—see section 111 (1).
 protected native species list criteria—see section 113 (1).
 provisionally listed threatened ecological community means an ecological community included in the provisional category on the threatened ecological communities list.
 provisionally listed threatened species means a species included in the provisional category on the threatened native species list.
-public consultation notice—for a nomination, for part 4.4 (Including, transferring and omitting items in list)—see section 84 (2).
+public consultation notice, for a nomination—
+  (a) for part 4.3 (Key threatening processes)—see section 79E (2); and
+  (b) for part 4.4 (Including, transferring and omitting items in list)—see section 84 (2).
 public consultation period—
   (a) for a draft action plan, for part 4.5 (Action plans)—see section 103 (2); and
   (b) for a draft controlled native animal management plan, for chapter 7 (Controlled native species management plans)—see section 162 (2); and
