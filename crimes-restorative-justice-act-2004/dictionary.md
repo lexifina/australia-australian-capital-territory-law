@@ -28,11 +28,12 @@ director-general (children and young people)—see section 22 (2).
 director-general (corrections)—see section 22 (2).
 director-general (restorative justice)—see section 22 (2).
 Note If the Act refers simply to the director-general, this is a reference to the director-general of the administrative unit responsible for the administration of this Act (see Legislation Act, s 163).
-domestic violence offence—see section 12.
 eligible offender—see section 19.
 eligible parent—see section 18.
 eligible victim—see section 17.
+less serious domestic violence offence—see section 12.
 less serious offence— see section 12.
+less serious sexual offence—see section 12.
 objects, of this Act—see section 6.
 offence—see section 12.
 offender—see section 12.
@@ -43,6 +44,8 @@ referring entity—
   (a) see section 22; but
   (b) for part 8 (Restorative justice conferences and agreements)—see section 38; and
   (c) for division 9.2 (Reporting and records)—see section 67.
+relevant person—see the Domestic Violence and Protection Orders Act 2008, section 15 (1).
+relevant relationship—see the Domestic Violence and Protection Orders Act 2008, section 15 (2).
 required participant, in a restorative justice conference, for part 8 (Restorative justice conferences and agreements)—see section 42.
 restorative justice—see section 10.
 restorative justice agreement—see section 50.
@@ -50,7 +53,10 @@ restorative justice conference means a conference called for part 8 (Restorative
 restorative justice guidelines—see section 61.
 section 24 referral conditions—see section 24.
 sentence-related order, for an offender who is found guilty of an offence—see section 13.
+serious domestic violence offence—see section 12.
 serious offence—see section 12.
+serious sexual offence—see section 12.
+sexual offence—see section 12.
 substitute participant, for part 8 (Restorative justice conferences and agreements)—see section 43.
 suitable—section 10.
 suitable parent—see section 35.
