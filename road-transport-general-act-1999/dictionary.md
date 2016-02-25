@@ -98,6 +98,7 @@ National Transport Commission—see the National Transport Commission Act 2003 (
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
+online declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 probationary licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 provisional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
