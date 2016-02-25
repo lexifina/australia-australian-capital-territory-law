@@ -4,4 +4,3 @@
 ## Part 3 Renewable energy premium—determination of rate
 ## Part 3A Reporting
 ## Part 4 Miscellaneous
-## Part 10 Transitional—Planning, Building and Environment Legislation Amendment Act 2016
