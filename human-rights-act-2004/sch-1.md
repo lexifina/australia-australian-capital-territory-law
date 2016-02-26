@@ -30,4 +30,6 @@ column 1 item | column 2 section | column 3 description | column 4 ICCPR article
 27 | 24 | right not to be tried or punished more than once | 14 (7)
 28 | 25 | retrospective criminal laws | 15 (1)
 29 | 26 | freedom from forced work | 8 (1), (2), (3) (a), (3) (c)
-30 | 27 | rights of minorities | 27
+30 | 27 (1) | rights of minorities | 27
+31 | 27 (2) | cultural rights of Aboriginal and Torres Strait Islander peoples | 
+Note The primary source of the rights in s 27 (2) is the United Nations Declaration on the Rights of Indigenous Peoples, art 25 and art 31.
