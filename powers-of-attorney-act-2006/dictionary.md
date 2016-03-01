@@ -34,8 +34,7 @@ health care, for a person who is a principal for a power of attorney—
 Example for par (b)
 a visual examination of a principal’s mouth, throat, nasal cavity, eyes or ears
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-health care facility means a hospital, residential aged care facility or residential disability care facility.
-Note Hospital, residential aged care facility and residential disability care facility are defined in this dictionary.
+health care facility means a hospital, mental health facility, residential aged care facility or residential disability care facility.
 health care matter—see section 12.
 health care provider, for a person who is a principal for a power of attorney, means a health professional who provides health care to the principal.
 health professional means a person who provides health care in the practice of a profession or the ordinary course of business.
@@ -57,6 +56,7 @@ liquidator, of an attorney, includes—
   (b) the receiver of the attorney’s property; or
   (c) the receiver and manager of the attorney’s property; or
   (d) the managing controller of the attorney’s property.
+mental health facility—see the Mental Health Act 2015, dictionary.
 personal care matter—see section 11.
 power of attorney—
   (a) means a general power of attorney or an enduring power of attorney; and
