@@ -66,7 +66,7 @@ entitled person—see section 57.
 escape, for part 12.2 (Interstate leave)—see section 206.
 escort officer, in relation to a person, means—
   (a) a police officer; or
-  (b) a corrections officer whose functions including escorting the person.
+  (b) a corrections officer whose functions include escorting the person.
 family member, of a detainee, means any of the following:
   (a) the detainee’s domestic partner;
   (b) a parent, step-parent or grandparent of the detainee;
