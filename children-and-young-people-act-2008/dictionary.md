@@ -217,7 +217,7 @@ long-term care responsibility, for a child or young person—see section 20.
 long-term parental responsibility provision, for the care and protection chapters—see section 479.
 mail means postal mail.
 mandatory report—see section 356 (1) (e).
-mental dysfunction—see section 530 (1).
+mental disorder—see the Mental Health Act 2015, section 9.
 mental illness—see section 530 (1).
 Minister of a State, for part 5.2 (Interstate transfers)—see section 114.
 minor behaviour breach, for chapter 8 (Criminal matters—discipline at detention places)—see section 288.
