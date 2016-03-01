@@ -19,7 +19,7 @@ close relative or close friend, for part 2A (Consent to medical treatment withou
 decision-making capacity, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 decision-making principles—see section 4.
 domestic partner, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
-electroconvulsive therapy—see the Mental Health (Treatment and Care) Act 1994, section 55.
+electroconvulsive therapy—see the Mental Health Act 2015, section 145.
 enduring power of attorney—see the Powers of Attorney Act 2006, section 8.
 general president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 guardian means someone who is a guardian under any of the following sections:
@@ -39,7 +39,7 @@ manager means a manager under any of the following sections:
 · section 12 (Recognition of interstate etc guardians and managers)
 · section 32 (Surviving or substitute guardians etc).
 medical treatment, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
-mental illness—see the Mental Health (Treatment and Care) Act 1994, dictionary.
+mental illness—see the Mental Health Act 2015, section 10.
 non-regenerative tissue—see the Transplantation and Anatomy Act 1978, dictionary.
 power of attorney, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 prescribed medical procedure means—
@@ -48,11 +48,11 @@ prescribed medical procedure means—
   (c) a hysterectomy; or
   (d) a medical procedure concerned with contraception; or
   (e) removal of non-regenerative tissue for transplantation to the body of another living person; or
-  (f) treatment for mental illness, electroconvulsive therapy or psychiatric surgery; or
+  (f) electroconvulsive therapy or psychiatric surgery; or
   (g) any other medical or surgical procedure prescribed for this definition.
 principal¸ for part 3 (Powers of Attorney and ACAT) —see the Powers of Attorney Act 2006, dictionary.
 priority order, for health attorneys for a protected person, for part 2A—see section 32B (3).
 protected person, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
-psychiatric surgery—see the Mental Health (Treatment and Care) Act 1994, dictionary.
+psychiatric surgery—see the Mental Health Act 2015, section 145.
 remuneration or reward, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 trustee company—see the Trustee Companies Act 1947, dictionary.
