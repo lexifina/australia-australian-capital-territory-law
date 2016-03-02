@@ -30,7 +30,6 @@ CEO—
   (c) of a health facility, for part 5 (Reviewing scope of clinical practice)—see section 53.
 chief executive officer, Calvary means the person engaged to exercise the functions of the position of chief executive officer (however described) of Calvary Health Care ACT Limited (Public Division) under the rules of Calvary Health Care ACT Limited.
 core conditions, for part 7 (VMO service contracts)—see section 100.
-council means the Local Hospital Network Council established under section 13.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 dental technical work means work involving the making, altering, repairing or maintaining of dental prosthetic appliances.
 Example—dental technical work
