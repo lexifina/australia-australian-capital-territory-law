@@ -30,7 +30,7 @@ activity includes education, counselling, personal development and treatment act
 ACT prisoner, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 ACT sentence of imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 additional condition means—
-  (a) of an offender’s periodic detention—see section 40; or
+  (a) of an offender’s intensive correction order—see section 40; or
   (b) of an offender’s good behaviour order—see section 84; or
   (c) of an offender’s parole order—see section 117.
 administrative fee, for chapter 6A (Court imposed fines)––see section 116A.
@@ -52,7 +52,7 @@ contagious disease means—
   (a) a transmissible notifiable condition under the Public Health Act 1997; or
   (b) a disease or medical condition prescribed by regulation.
 core condition means—
-  (a) of an offender’s periodic detention—see section 40; or
+  (a) of an offender’s intensive correction order—see section 40; or
   (b) of an offender’s good behaviour order—see section 84; or
   (c) of an offender’s parole order—see section 117; or
   (d) of an offender’s licence—see section 289.
@@ -68,7 +68,6 @@ default imprisonment, for chapter 11 (Interstate transfer of prisoners)—see se
 default notice, for chapter 6A (Court imposed fines)––see section 116A.
 deputy chair means a deputy chair of the board.
 designated authority, for a State or another Territory, for part 7.6 (Interstate transfer of parole orders)—see section 162.
-detention period, for an offender’s periodic detention—see section 41.
 drug—see the Corrections Management Act 2007, section 132.
 earnings redirection order, for chapter 6A (Court imposed fines)––see section 116Y (2).
 enforcement officer, for chapter 6A (Court imposed fines)––see section 116A.
@@ -82,7 +81,6 @@ examination warrant, for chapter 6A (Court imposed fines)––see section 116R.
 fine, for chapter 6A (Court imposed fines)––see section 116A.
 fine defaulter, for chapter 6A (Court imposed fines)––see section 116A.
 fine enforcement order, for chapter 6A (Court imposed fines)––see section 116A.
-finishing time, for an offender’s detention period—see section 52.
 frisk search—see the Corrections Management Act 2007, dictionary.
 full-time detainee, for chapter 4 (Full-time detention)––see section 22 (1).
 good behaviour obligations, for chapter 6 (Good behaviour orders)—see section 84.
@@ -91,7 +89,10 @@ Governor, of a participating state, for chapter 11 (Interstate transfer of priso
 hearing means a hearing for an inquiry under part 9.2.
 indeterminate sentence, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 inquiry—see section 193.
-interested person, for an offender’s good behaviour order—see section 84.
+intensive correction order—see the Crimes (Sentencing) Act 2005, section 11.
+interested person—
+  (a) for an offender’s good behaviour order—see section 84; and
+  (b) for an offender’s intensive correction order—see section 40.
 interstate authority, for chapter 12 (Transfer of community-based sentences)—see section 268.
 interstate jurisdiction, for chapter 12 (Transfer of community-based sentences)—see section 265.
 interstate law, for chapter 11 (Interstate transfer of prisoners)—see section 217.
@@ -131,9 +132,6 @@ parole release date—see section 117.
 participating jurisdiction, for chapter 11 (Transfer of community-based sentences)—see section 265.
 participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 penalty notice, for chapter 6A (Court imposed fines)––see section 116A.
-periodic detention, for an offender—see section 40.
-periodic detention obligations, of an offender—see section 40.
-periodic detention period, of an offender’s sentence of imprisonment—see section 40.
 person involved, in community service work, for chapter 14 (Community service work—general)—see section 315 (2).
 place restriction order—see the Crimes (Sentencing) Act 2005, section 21.
 police officer includes a member of a police force or service of a State.
@@ -150,7 +148,9 @@ registered victim, of an offender, means—
   (b) for this Act—see section 213.
 registrar, for chapter 6A (Court imposed fines)––see section 116A.
 registration criteria, for chapter 12 (Transfer of community-based sentences)—see section 276.
-rehabilitation program condition, of a good behaviour order for an offender—see the Crimes (Sentencing) Act 2005, section 93.
+rehabilitation program condition—
+  (a) of a good behaviour order for an offender, for this Act generally—see the Crimes (Sentencing) Act 2005, section 93; and
+  (b) of an intensive correction order for an offender, for chapter 5—see the Crimes (Sentencing) Act 2005, section 80G.
 release date, for an offender for a sentence—see section 23 (1).
 release on licence obligations, of an offender—see section 289.
 release on parole, for part 11.1 (Interstate transfer of prisoners)—see section 217.
@@ -161,9 +161,6 @@ remandee means—
 remanding authority—see section 15.
 reminder notice, for chapter 6A (Court imposed fines)––see section 116A.
 remission instrument, for part 11.1 (Interstate transfer of prisoners)—see section 217.
-reporting day, for an offender’s detention period—see section 51.
-reporting place, for an offender’s detention period—see section 50.
-reporting time, for an offender’s detention period—see section 52.
 secretary, of the board, means the secretary of the board under section 191.
 sentence means—
   (a) for the Act—

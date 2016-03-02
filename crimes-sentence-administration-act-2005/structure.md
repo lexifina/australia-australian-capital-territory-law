@@ -8,15 +8,19 @@
 ## Part 4.1 General
 ## Part 4.2 Serving full-time detention
 ## Part 4.3 Full-time detention in NSW
-# Chapter 5 Periodic detention
+# Chapter 5 Intensive correction orders
 ## Part 5.1 Preliminary
-## Part 5.2 Serving periodic detention
-## Part 5.3 Performing periodic detention
-## Part 5.4 Supervising periodic detention
-### Division 5.4.1 Breach of periodic detention obligations
-### Division 5.4.2 Review of decisions about performing periodic detention
-### Division 5.4.3 Periodic detention management
-### Division 5.4.4 Change, suspension and cancellation of periodic detention
+## Part 5.2 Serving intensive correction
+## Part 5.3 Intensive correction order—community service work
+## Part 5.4 Intensive correction order—rehabilitation programs
+## Part 5.5 Intensive correction order—curfew
+## Part 5.6 Supervising intensive correction orders
+### Division 5.6.1 Intensive correction orders—supervision
+### Division 5.6.2 Intensive correction orders—breach
+### Division 5.6.3 Suspension and cancellation of intensive correction order
+## Part 5.7 Intensive correction orders—amendment or discharge
+## Part 5.8 Intensive correction orders—reporting and records
+## Part 5.9 Intensive correction orders—miscellaneous
 # Chapter 6 Good behaviour orders
 ## Part 6.1 Undertaking good behaviour
 ## Part 6.2 Good behaviour—community service work
@@ -84,3 +88,4 @@
 ## Part 14A.1 General
 ## Part 14A.2 Young offenders—accommodation orders
 # Chapter 15 Miscellaneous
+# Chapter 20 Transitional—Crimes (Sentencing and Restorative Justice) Amendment Act 2016
