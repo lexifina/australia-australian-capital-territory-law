@@ -17,7 +17,10 @@
 ## Part 5.1 Imprisonment—start and end of sentences
 ## Part 5.2 Imprisonment—nonparole periods
 ## Part 5.3 Imprisonment—concurrent and consecutive sentences
-## Part 5.4 Periodic detention
+## Part 5.4 Intensive correction orders
+### Division 5.4.1 Intensive correction orders—eligibility and suitability
+### Division 5.4.2 Intensive correction orders—community service conditions
+### Division 5.4.3 Intensive correction orders—rehabilitation program conditions
 ## Part 5.5 Imprisonment—explanation and information
 # Chapter 6 Good behaviour orders
 ## Part 6.1 Good behaviour orders—community service conditions
