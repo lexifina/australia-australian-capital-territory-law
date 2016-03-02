@@ -53,7 +53,6 @@ corresponding director-general, for part 12.2 (Interstate leave)—see section 2
 corresponding leave law, for part 12.2 (Interstate leave)—see section 206.
 court cell, for chapter 4 (Detention in police and court cells etc)—see section 29.
 detainee—see section 6.
-detention period, for an offender’s periodic detention—see the Crimes (Sentence Administration) Act 2005, section 41.
 director-general, for chapter 4 (Detention in police and court cells etc)—see section 29.
 disciplinary action—see section 183.
 disciplinary breach—see section 152.
@@ -100,7 +99,6 @@ official visitor means an official visitor for this Act appointed under the Offi
 operating procedure means an operating procedure under section 14.
 ordinary search—see section 107.
 participating State, for part 12.2 (Interstate leave)—see section 206.
-periodic detention, for an offender—see the Crimes (Sentence Administration) Act 2005, section 40.
 personal monitoring device—see section 101.
 police cell, for Chapter 4 (Detention in police and court cells etc)—see section 29.
 positive, for a test sample for alcohol or a drug—see section 133.
