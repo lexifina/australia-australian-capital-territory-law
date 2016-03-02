@@ -130,30 +130,48 @@ Note Disclosure is allowed under cl 8, cl 9 and cl 10.
     (iii) to ensure that identifiable information is not made publicly available.
   (e) the disclosure is in accordance with guidelines prescribed by regulation for this clause; and
   (f) the record keeper believes, on reasonable grounds, that the recipient of the health information will not disclose the personal health information.
-4 Clause 1 also does not apply to the disclosure of personal health information about a consumer to a person responsible for the consumer’s care (the carer) if—
-  (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is a young person or legally incompetent person; and
+4 Clause 1 also does not apply to the disclosure of personal health information about a consumer to the consumer’s carer if—
+  (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is a—
+    (i) child or a young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access a health record and the nature of the record; or
+    (ii) legally incompetent person; and
   (b) in the record keeper’s opinion, the disclosure is necessary to enable the carer to safely and effectively provide appropriate services to, or care for, the consumer.
 5 In relation to the sharing of information among the treating team under clause 2 (a), unless it is obvious from the circumstances and context of the health service, the person in charge of the treating team must tell the consumer about the identity of each member of the treating team who will have access to the personal health information about the consumer.
 6 However, the treating team leader need not tell the consumer about the identity of individuals who are required to handle health records, or personal health information about the consumer, for the management, funding or quality of the health service received, or being received, by the consumer.
 7 A consent given by a consumer for clause 2 (c) must—
   (a) be in writing and signed—
-    (i) if the consumer is a young person or legally incompetent person—by a guardian of the consumer; or
-    (ii) in any other case—by the consumer; and
+    (i) if the consumer is a child or a young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access a health record and the nature of the record—by a person with parental responsibility for the consumer; or
+    (ii) if the consumer is a legally incompetent person—by a guardian of the consumer; or
+    (iii) in any other case—by the consumer; and
   (b) name the health service provider who made the record.
 Note If a form is approved under s 35 for this provision, the form must be used.
 8 An entity to which information is disclosed under clause 2, clause 3 or clause 4 must not use or disclose the information for a purpose other than the purpose for which the information was given to the entity.
 9 If there is an emergency and a consumer cannot give or withhold consent to the disclosure of personal health information about the consumer, the treating health service provider may discuss relevant personal health information with an immediate family member of the consumer to the extent reasonable and necessary for the proper treatment of the consumer.
-10 A treating health service provider for a consumer may disclose personal health information about the consumer to a person responsible for the consumer’s care (the carer) if—
-  (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is a young person or legally incompetent person; and
-  (b) in the record keeper’s opinion, the disclosure is necessary to enable the carer to safely and effectively provide appropriate services to, or care for, the consumer.
+10 A treating health service provider for a consumer may disclose personal health information about the consumer to the consumer’s carer if—
+  (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is a child, young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access the health record and the nature of the record or legally incompetent person; and
+  (b) in the provider’s opinion, the disclosure is necessary to enable the carer to safely and effectively provide appropriate services to, or care for, the consumer.
 11 A treating health service provider for a consumer may disclose personal health information about the consumer to an immediate family member if—
-  (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is a young person or legally incompetent person; and
+  (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is—
+    (i) a child or a young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access the health record and the nature of the record; or
+    (ii) a legally incompetent person; and
   (b) the disclosure is made for compassionate reasons; and
   (c) the provider believes, on reasonable grounds, that the disclosure would be, or would have been, expected by the consumer; and
   (d) the disclosure is not contrary to any wishes previously expressed by the consumer of which the provider is aware or ought reasonably to be aware.
 Example for par (a)
 Jo has died, and Jo’s daughter who has looked after him for many years cannot understand why he died when he seemed to have recovered from a recent illness. She is extremely distressed. Subject to clause 11 (c) and (d), the treating health service provider may disclose personal health information about Jo’s illness if she considers that the disclosure would help Jo’s daughter.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+12 In this principle:
+carer, of a consumer, means a person who gives care, support or assistance to the consumer but does not include—
+  (a) a person who gives short-term care, support or assistance to the consumer; or
+  (b) a person who gives care, support or assistance to the consumer—
+    (i) under a commercial arrangement, or an arrangement that is substantially commercial; or
+    (ii) in the course of doing voluntary work for a charitable, welfare or community organisation; or
+    (iii) as part of a course of education or training; or
+Examples—people not included as carers
+1 Yiannis is the principal of Haig Park Primary School. Although Yiannis owes a duty of care to the students at Haig Park Primary School, Yiannis is not a carer for the purposes of principle 10.
+2 The ACAT makes an order under the Guardianship and Management of Property Act 1991, s 7 (2) appointing Tash as a guardian for Olympia. Even though Tash has a guardianship order in relation to Olympia, Tash is not a carer for the purposes of principle 10. Tash would need to give Olympia care, support or assistance to be a carer.
+  (c) a person just because the person—
+    (i) is the domestic partner, parent, child or other relative, or guardian of the consumer; or
+    (ii) lives with the consumer.
 ## Principle 11: Relocation and closure of health service practice
 1 This principle applies if a health service practice is or is proposed to be—
   (a) relocated; or
@@ -181,7 +199,7 @@ Note Urgent health services—see cl 11 and cl 12.
 Note 1 If the original or copy of a consumer’s health record is given to another health service provider (the new provider) or other record keeper (the new record keeper)—
 · the consumer may ask the new provider or new record keeper for access to the consumer’s health record (see s 10 and s 12); and
 · the new provider or new record keeper must give the consumer access to the consumer’s health records in accordance with the Act (for example, see s 13 to s 13D).
-Note 2 A fee may be payable by the consumer for certain types of access (see s 10 (5) and s 13 (2) (c) (ii)).
+Note 2 A fee may be payable by the consumer for certain types of access (see s 10 (7) and s 13 (2) (d) (ii)).
 8 If a record keeper holds health records following the relocation or closure of a health service practice, the record keeper must promptly notify the director-general of any change to—
   (a) the record keeper’s contact details; or
   (b) the location of the stored health records.

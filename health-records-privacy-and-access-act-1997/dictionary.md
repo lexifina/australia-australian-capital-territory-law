@@ -10,14 +10,17 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · entity
 · health services commissioner
 · individual.
-child, in relation to a person, includes an adopted child or stepchild of the person.
+child—
+  (a) means a person who is under 12 years old; and
+  (b) in relation to a person, includes an adopted child or stepchild of that person.
 collector means a person who, in the course of his or her profession, employment or official duty, collects personal health information.
 commission means the human rights commission.
 consent includes implied consent.
 consumer means an individual who uses, or has used, a health service, or in relation to whom a health record has been created, and includes—
-  (a) if the consumer is a young person or legally incompetent person—a guardian of the consumer; and
-  (b) if the consumer has died and there is a legal representative of the deceased consumer—a legal representative of the deceased consumer; and
-  (c) if the consumer has died and there is no legal representative of the deceased consumer—an immediate family member of the deceased consumer.
+  (a) if the consumer is a child or young person—a person with parental responsibility for the consumer; and
+  (b) if the consumer is a legally incompetent person—a guardian of the consumer; and
+  (c) if the consumer has died and there is a legal representative of the deceased consumer—a legal representative of the deceased consumer; and
+  (d) if the consumer has died and there is no legal representative of the deceased consumer—an immediate family member of the deceased consumer.
 Note Under s 13A an entity is taken to be the consumer for the purpose of accessing certain information if the consumer has consented to disclosure of the information to the entity.
 deceased consumer means a deceased person who, before his or her death, was a consumer.
 destroy a record includes delete the record.
@@ -29,13 +32,11 @@ factual matter, in relation to a consumer, means—
   (d) a diagnosis, or preliminary diagnosis, of an illness or disability of the consumer; or
   (e) a plan of management, or proposed plan of management, of the treatment or care of an illness or disability of the consumer; or
   (f) any action taken (whether or not in accordance with a plan of management) by or under the direction or referral of a health service provider in relation to the consumer.
-guardian means—
-  (a) for a young person—a parent, a legally appointed guardian of the young person or someone else with parental responsibility for the young person under the Children and Young People Act 2008, division 1.3.2; or
-  (b) for a legally incompetent person—
-    (i) a person who is—
-      (A) a legally appointed guardian of the legally incompetent person; or
-      (B) an attorney, appointed under an enduring power of attorney that has become operative, of the legally incompetent person; and
-    (ii) who has power to make decisions about the medical treatment or health care of the legally incompetent person.
+guardian, for a legally incompetent person, means—
+  (a) a person who is—
+    (i) a legally appointed guardian of the legally incompetent person; or
+    (ii) an attorney, appointed under an enduring power of attorney that has become operative, of the legally incompetent person; and
+  (b) a person who has power to make decisions about the medical treatment or health care of the legally incompetent person.
 health record means any record, or any part of a record—
   (a) held by a health service provider and containing personal information; or
   (b) containing personal health information.
@@ -75,6 +76,7 @@ personal information, in relation to a consumer, means any information, recorded
 personal health information, of a consumer, means any personal information, whether or not recorded in a health record—
   (a) relating to the health, an illness or a disability of the consumer; or
   (b) collected by a health service provider in relation to the health, an illness or a disability of the consumer.
+person with parental responsibility, for a child or young person, means a parent or someone else with parental responsibility for the child or young person under the Children and Young People Act 2008, division 1.3.2.
 privacy principles means the privacy principles under schedule 1.
 record means a record in documentary or electronic form that consists of or includes personal health information in relation to a consumer (other than research material that does not disclose the identity of the consumer), and includes—
   (a) a photograph or other pictorial or digital representation of any part of the consumer; and
@@ -87,6 +89,4 @@ treating health service provider, in relation to a consumer, means a health serv
 treating team, in relation to a consumer, means health service providers involved in diagnosis, care or treatment for the purpose of improving or maintaining the consumer’s health for a particular episode of care, and includes—
   (a) if the consumer named another health service provider as his or her current treating practitioner—that other health service provider; and
   (b) if another health service provider referred the consumer to the treating team for that episode of care—that other health service provider.
-young person means a person under 18 years of age, other than a person who is of sufficient age, and of sufficient mental and emotional maturity, to—
-  (a) understand the nature of a health service; and
-  (b) give consent to a health service.
+young person—see the Children and Young People Act 2008, section 12.
