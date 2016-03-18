@@ -75,7 +75,9 @@ drug awareness course—see the Road Transport (Driver Licensing) Regulation 200
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 Note An external driver licence is a foreign driver licence or an external territory driver licence.
-first offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
+first offender—
+  (a) for section 60 (Police officer or authorised person may require people to disclose identity of driver)—see section 60A; and
+  (b) for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
 heavy vehicle infringement notice offence, for part 3 (Infringement notices for certain offences)—see section 21A.
 illegal user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
@@ -106,7 +108,9 @@ registered operator—see the Road Transport (Vehicle Registration) Act 1999, di
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 relevant circumstances, of a person, for part 3 (Infringement notices for certain offences)—see section 21A.
 reminder notice—see section 27 (2) (Reminder notice—service and contents).
-repeat offender, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
+repeat offender—
+  (a) for section 60 (Police officer or authorised person may require people to disclose identity of driver)—see section 60A; and
+  (b) for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
 responsible director-general, for part 3 (Infringement notices for certain offences)—see section 21A.
 responsible person, for a vehicle—see section 10 and section 11.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
