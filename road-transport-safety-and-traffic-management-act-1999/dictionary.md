@@ -45,7 +45,9 @@ drive a vehicle includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
   (b) if the vehicle is a trailer—draw or tow the vehicle; and
   (c) if the vehicle can be ridden—ride the vehicle.
-first offender, for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
+first offender—
+  (a) for division 2.1 (Speeding and other dangerous driving offences)—see section 5AB; and
+  (b) for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
 indicated on, an image of a vehicle taken by an approved camera detection device or an approved average speed detection system, includes accompanying or reasonably associated with the image.
 installation, of a prescribed traffic control device, includes the painting or formation of any marks or structure that forms, or forms part of, the device.
 loaded unsafely, for part 3 (Unsafe loads)—see section 11.
@@ -55,7 +57,9 @@ red traffic light includes a flashing red traffic light.
 relevant information, for part 6 (Traffic offence detection devices)—
   (a) for an image of a vehicle taken by a camera detection device—see section 22A (1); and
   (b) for an image of a vehicle, or a numberplate or anything else on a vehicle, taken by an average speed detection system—see section 22A (2).
-repeat offender, for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
+repeat offender—
+  (a) for division 2.1 (Speeding and other dangerous driving offences)—see section 5AB; and
+  (b) for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
 retention area—see the Uncollected Goods Act 1996, dictionary.
 road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
 road related area means—
