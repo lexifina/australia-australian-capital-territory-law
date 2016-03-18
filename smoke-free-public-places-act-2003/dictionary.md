@@ -5,10 +5,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · commissioner for fair trading
 · contravene
 · director-general (see s 163)
+· Minister (see s 162)
 · must
 · police officer.
 commissioner means the commissioner for fair trading.
+declared smoke-free public place or event—see section 9O (1).
 designated outdoor smoking area—see section 9F (2).
+designated smoking area—see section 9Q (2).
 enclosed public place means a public place, or part of a public place, that is enclosed as prescribed by regulation.
 Examples of public places
 The following may be public places (see definition of public place):
@@ -27,6 +30,7 @@ The following may be public places (see definition of public place):
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 gaming area—see the Gaming Machine Act 2004, dictionary.
 herbal product—see the Tobacco Act 1927, dictionary.
+manager, in relation to a declared smoke-free public place or event, means the person responsible (whether wholly or in part) for the management of the public place or event.
 occupier, of premises or a part of premises (including an enclosed public place), means a person having the management or control, or otherwise being in charge, of the premises or part of the premises.
 outdoor area, of premises, means any part of the premises that is not an enclosed public place.
 outdoor eating or drinking place—see section 9A.

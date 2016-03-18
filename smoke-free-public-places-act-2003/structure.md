@@ -6,5 +6,6 @@
 ### Division 2A.2 Smoking prohibited—outdoor eating or drinking places
 ### Division 2A.3 Designated outdoor smoking areas
 ## Part 2B Smoking prohibited at underage functions
+## Part 2C Smoking prohibited at declared smoke-free public places or events
 ## Part 3 Enforcement
 ## Part 4 Miscellaneous
