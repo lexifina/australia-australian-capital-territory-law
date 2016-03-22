@@ -9,6 +9,8 @@
 ### Division 4.5 Quality assurance committees—information sharing
 ## Part 5 Reviewing scope of clinical practice
 ## Part 6 Abortions
+### Division 6.1 Abortions—generally
+### Division 6.2 Patient privacy in protected areas
 ## Part 7 VMO service contracts
 ## Part 8 Secrecy
 ## Part 8A Offence—provision of health services by non-health practitioners

@@ -23,7 +23,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · the Territory
 · tribunal.
 abortion, for part 6 (Abortions)—see section 80.
+approved medical facility, for division 6.2 (Patient privacy in protected areas)—see section 85.
 authorised representative, for part 7 (VMO service contracts)—see section 100.
+capture visual data, for division 6.2 (Patient privacy in protected areas)—see section 85.
 CEO—
   (a) of a health facility, for part 4 (Quality assurance)—see section 22; and
   (b) of a health professional organisation, for part 4 (Quality assurance)—see section 23; and
@@ -63,6 +65,8 @@ ministerial report, for part 4 (Quality assurance)—section 41.
 negotiating agent, for part 7 (VMO service contracts)—see section 100.
 negotiating period, for part 7 (VMO service contracts)—see section 103 (2).
 practice corporation, for part 7 (VMO service contracts)—see section 100.
+prohibited behaviour, for division 6.2 (Patient privacy in protected areas)—see section 85.
+protected area, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected information, for part 8 (Secrecy)—see section 123.
 quality assurance committee—see section 24.
 review, in relation to the scope of clinical practice, for part 5 (Reviewing scope of clinical practice)—see section 55.
