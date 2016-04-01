@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · individual
 · Minister
 · property
-· public trustee
+· public trustee and guardian
 · reviewable decision notice
 · Territory.
 company means—
