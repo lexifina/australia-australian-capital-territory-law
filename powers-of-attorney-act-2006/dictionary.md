@@ -9,7 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · civil union
 · corporation
 · domestic partner (see s 169 (1))
-· exercise.
+· exercise
+· public trustee and guardian.
 affinity means affinity derived through marriage or any other domestic partnership.
 attorney—see section 6.
 close friend, of a person, means someone who has a close personal relationship with the person and a personal interest in the person’s welfare.
