@@ -7,7 +7,7 @@
 #### Subdivision 2.2.3 Property not in possession
 #### Subdivision 2.2.4 Insurance
 #### Subdivision 2.2.5 Maintenance, advancement and protective trusts
-#### Subdivision 2.2.6 Appropriation and payment to public trustee
+#### Subdivision 2.2.6 Appropriation and payment to public trustee and guardian
 #### Subdivision 2.2.7 Receipts and compounding
 #### Subdivision 2.2.8 Safe custody, audit and valuation
 #### Subdivision 2.2.9 Agents, banks and others

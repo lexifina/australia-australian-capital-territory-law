@@ -16,14 +16,14 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · power
 · proceeding
 · property
-· public trustee
+· public trustee and guardian
 · registrar-general
 · sign
 · statutory declaration
 · territory lease
 · will
 · year.
-administrator includes anyone to whom administration of the estate of a dead person is granted, and includes the public trustee acting under the Administration and Probate Act 1929, part 6.
+administrator includes anyone to whom administration of the estate of a dead person is granted, and includes the public trustee and guardian acting under the Administration and Probate Act 1929, part 6.
 contingent right, in relation to land, includes—
   (a) a contingent or executory interest or a possibility coupled with an interest, whether or not the object of the gift or limitation of the interest or possibility is known; and
   (b) a right of entry, whether immediate or future and vested or contingent.
@@ -66,7 +66,7 @@ stock includes—
 transfer, of stock, includes the execution of a deed or power of attorney, and anything else done by the transferor, to give title to the transferee.
 trust—see section 4 (Meaning of trust).
 trustee—
-  (a) includes a legal representative, the public trustee and a trustee company; and
+  (a) includes a legal representative, the public trustee and guardian and a trustee company; and
   (b) for part 4 (Payment into court)—see section 94F.
 trustee company, means a trustee company under the Trustee Companies Act 1947.
 trust instrument means the instrument (if any) creating the trust.
