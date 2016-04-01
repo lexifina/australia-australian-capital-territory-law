@@ -20,7 +20,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · police officer
 · present
 · property
-· public trustee
+· public trustee and guardian
 · registrar-general
 · transgender person (see s169A).
 abscond—see section 16.
@@ -87,8 +87,8 @@ Note A registered interstate forfeiture order is taken to be a forfeiture order 
 forfeiture or penalty application, for division 4.3 (Duration of restraining orders)—see section 41.
 frisk search, for part 13 (Search warrants)—see section 195.
 fully satisfied—a forfeiture order or penalty order, or an automatic forfeiture of property, is fully satisfied when—
-  (a) for an automatic forfeiture of property or a forfeiture order—the property that is the subject of the automatic forfeiture or order has vested in law in the Territory and the public trustee has taken control of the property; and
-  (b) for a penalty order—the amount of the order has been paid to, or recovered by, the Territory or realised by the public trustee from the disposal of property.
+  (a) for an automatic forfeiture of property or a forfeiture order—the property that is the subject of the automatic forfeiture or order has vested in law in the Territory and the public trustee and guardian has taken control of the property; and
+  (b) for a penalty order—the amount of the order has been paid to, or recovered by, the Territory or realised by the public trustee and guardian from the disposal of property.
 information order—see section 186.
 inquiry notice—see section 144.
 in relation to—to remove any doubt, in relation to includes—

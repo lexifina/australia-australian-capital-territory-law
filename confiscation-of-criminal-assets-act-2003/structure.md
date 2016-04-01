@@ -21,7 +21,7 @@
 ### Division 7.4 Satisfaction of penalty order
 ### Division 7.5 End of penalty orders
 ## Part 8 Restrained property
-### Division 8.1 Management of restrained property by public trustee
+### Division 8.1 Management of restrained property by public trustee and guardian
 ### Division 8.2 Joint ownership of restrained property
 ## Part 9 Forfeited property
 ### Division 9.1 Preliminary
