@@ -28,6 +28,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · must (see s 146)
 · power
 · public notice
+· public trustee and guardian
 · reviewable decision notice
 · State
 · Supreme Court
