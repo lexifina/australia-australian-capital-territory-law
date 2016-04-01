@@ -23,7 +23,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 administration of justice includes the provision of police services.
 appointed member—see section 22C (1) (c).
 board means the victims advisory board.
-commissioner means the Victims of Crime Commissioner appointed under section 7.
+commissioner means the Victims of Crime Commissioner appointed under the Human Rights Commission Act 2005, section 18D.
+Note The commissioner is a member of the human rights commission (see Human Rights Commission Act 2005, s 12 (1) (g)).
 governing principles means the principles mentioned in section 4.
 guardian—see section 6 (3).
 offence––
