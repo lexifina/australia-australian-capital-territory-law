@@ -12,7 +12,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · interest
 · land
 · person
-· public notice.
+· public notice
+· public trustee and guardian.
 personal property includes leasehold property, and a share or interest in personal property.
 real property includes an estate, right or interest in real property.
 registrar means the registrar of the Supreme Court.
