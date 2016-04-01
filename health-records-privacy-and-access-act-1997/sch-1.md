@@ -197,8 +197,8 @@ Note 3 Notice may be given electronically in certain circumstances (see Electron
 Note Urgent health services—see cl 11 and cl 12.
 7 If a consumer does not make a transfer request within the transfer request period, the provider must, within 30 days after the end of the transfer request period, give a copy of the consumer’s health records to the health service provider or record keeper stated in the transfer notice.
 Note 1 If the original or copy of a consumer’s health record is given to another health service provider (the new provider) or other record keeper (the new record keeper)—
-· the consumer may ask the new provider or new record keeper for access to the consumer’s health record (see s 10 and s 12); and
-· the new provider or new record keeper must give the consumer access to the consumer’s health records in accordance with the Act (for example, see s 13 to s 13D).
+• the consumer may ask the new provider or new record keeper for access to the consumer’s health record (see s 10 and s 12); and
+• the new provider or new record keeper must give the consumer access to the consumer’s health records in accordance with the Act (for example, see s 13 to s 13D).
 Note 2 A fee may be payable by the consumer for certain types of access (see s 10 (7) and s 13 (2) (d) (ii)).
 8 If a record keeper holds health records following the relocation or closure of a health service practice, the record keeper must promptly notify the director-general of any change to—
   (a) the record keeper’s contact details; or

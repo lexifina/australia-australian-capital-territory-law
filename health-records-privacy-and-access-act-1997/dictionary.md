@@ -2,14 +2,15 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· adult
-· Commonwealth
-· contravene
-· director-general (see s 163)
-· domestic partner (s 169)
-· entity
-· health services commissioner
-· individual.
+• adult
+• Commonwealth
+• contravene
+• director-general (see s 163)
+• domestic partner (s 169)
+• entity
+• health services commissioner
+• human rights commission
+• individual.
 child—
   (a) means a person who is under 12 years old; and
   (b) in relation to a person, includes an adopted child or stepchild of that person.
