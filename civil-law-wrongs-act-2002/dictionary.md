@@ -18,6 +18,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Minister (see s 162)
 • proceeding
 • property
+• public trustee and guardian
 • (the) Territory.
 accident means an incident out of which personal injury arises, and includes a motor accident.
 accommodation provider—see section 146.
@@ -144,7 +145,7 @@ personal injury means bodily injury, and includes—
   (a) mental or nervous shock; and
   (b) death.
 personal injury damages, for part 14.1 (Maximum costs for certain personal injury damages claims)—see section 180.
-personal representative, of a dead person, means the person to whom any grant of probate of the will or administration of the estate of the dead person has been made in the ACT, a State or another Territory, and includes an executor by representation or the public trustee.
+personal representative, of a dead person, means the person to whom any grant of probate of the will or administration of the estate of the dead person has been made in the ACT, a State or another Territory, and includes an executor by representation or the public trustee and guardian.
 premises includes any land or building, any fixed or moveable structure erected on any land, and any vehicle, vessel or aircraft.
 property, of a guest—see section 149.
 provable facts, in relation to a lawyer, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
