@@ -2,17 +2,17 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· civil partner
-· civil union
-· civil union partner
-· Commonwealth country
-· domestic partner (see s 169 (1))
-· foreign country
-· land
-· public trustee
-· State
-· Supreme Court.
+• ACT
+• civil partner
+• civil union
+• civil union partner
+• Commonwealth country
+• domestic partner (see s 169 (1))
+• foreign country
+• land
+• public trustee and guardian
+• State
+• Supreme Court.
 administration includes all letters of administration of the real and personal estate of deceased persons whether with or without the will annexed and whether granted for general, special, or limited purposes, exemplification of letters of administration and any other formal evidence of the letters of administration purporting to be under the seal of a court of competent jurisdiction that is in the opinion of the Supreme Court sufficient.
 administration bond means a bond or guarantee, with or without sureties, prescribed under the rules.
 administrator includes any person to whom administration is granted.

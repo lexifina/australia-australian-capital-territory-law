@@ -11,5 +11,5 @@
 ## Part 3C Functions of executors and administrators
 ## Part 3D Liability of certain persons in relation to deceased estates
 ## Part 5 Recognition of foreign grants
-## Part 6 Public trustee
+## Part 6 Public trustee and guardian
 ## Part 9 Miscellaneous
