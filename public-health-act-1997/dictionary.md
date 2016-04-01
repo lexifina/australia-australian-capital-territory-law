@@ -11,6 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • exercise
 • function
 • public servant
+• public trustee and guardian
 • reviewable decision notice.
 abatement notice means a notice under section 69.
 activity accreditation scheme means an activity accreditation scheme determined under section 22.
