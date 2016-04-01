@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · lawyer
 · month
 · occupational discipline order
+· public trustee and guardian
 · reviewable decision notice
 · State
 · statutory declaration
