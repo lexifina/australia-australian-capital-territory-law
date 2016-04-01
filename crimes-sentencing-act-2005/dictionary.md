@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · sentence administration board
 · statutory office-holder
 · territory authority
+· victims of crime commissioner
 · working day.
 accommodation order—see section 133Y.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
