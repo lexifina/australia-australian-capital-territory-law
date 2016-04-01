@@ -2,12 +2,15 @@
 ## Part 2 Objects and important concepts
 ## Part 3 The commission
 ### Division 3.1 Establishment, constitution and functions of commission
+### Division 3.2 President
+### Division 3.2A Appointment of commission members
 ### Division 3.3 Children and young people commissioner
 ### Division 3.4 Disability and community services commissioner
 ### Division 3.5 Discrimination commissioner
 ### Division 3.6 Health services commissioner
 ### Division 3.7 Human rights commissioner
-### Division 3.8 Ending appointments
+### Division 3.7A Public advocate
+### Division 3.7B Victims of crime commissioner
 ### Division 3.9 Commission procedures
 ### Division 3.10 Staff and consultants of commission
 ## Part 4 Complaints
