@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · instrument (see s 14)
 · parent
 · proceeding
+· public trustee and guardian
 · reviewable decision notice
 · Supreme Court.
 Aboriginal or Torres Strait Islander child or young person means a child or young person at least 1 of whose parents is a person who—
