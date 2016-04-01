@@ -12,7 +12,8 @@ approved crisis support organisation means an organisation approved under sectio
 child, of a person, includes—
   (a) a child who normally lives with the person; and
   (b) a child for whom the person is a guardian.
-coordinator means the Domestic Violence Project Coordinator appointed under section 11.
+coordinator—see section 11.
+Note The victims of crime commissioner is the coordinator.
 council means the Domestic Violence Prevention Council established by section 4.
 domestic violence—see the Domestic Violence and Protection Orders Act 2008, section 13 (1).
 domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
