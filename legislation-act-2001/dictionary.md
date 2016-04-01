@@ -355,7 +355,7 @@ proceeding means a legal or other action or proceeding.
 property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
 Note A thing in action is an intangible personal property right recognised and protected by the law. Examples include debts, money held in a bank, shares, rights under a trust, copyright and right to sue for breach of contract.
 provision, of an Act or instrument—see section 16.
-public advocate means the Public Advocate under the Public Advocate Act 2005.
+public advocate means the Public Advocate under the Human Rights Commission Act 2005
 public employee means—
   (a) a public servant; or
   (b) a person employed by a territory instrumentality; or
@@ -369,7 +369,7 @@ public notice, if required by a Territory law, means—
 public servant means a person employed in the public service.
 public service means the Australian Capital Territory Public Service.
 Note The Public Sector Management Act 1994, s 12 deals with the constitution of the public service.
-public trustee means the Public Trustee for the Australian Capital Territory under the Public Trustee Act 1985.
+public trustee and guardian means the Public Trustee and Guardian under the Public Trustee and Guardian Act 1985.
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
 recognised transgender person—see section 169A (3).
 registered surveyor means a surveyor under the Surveyors Act 2007.
@@ -466,6 +466,7 @@ United Kingdom Parliament means—
 veterinary surgeon—
   (a) means a person unconditionally registered as a veterinary surgeon under the Veterinary Surgeons Act 2015; and
   (b) for an activity, includes a person conditionally registered as a veterinary surgeon under the Veterinary Surgeons Act 2015 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+victims of crime commissioner means the Victims of Crime Commissioner under the Human Rights Commission Act 2005.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
 working day means a day that is not—
