@@ -57,7 +57,7 @@ fingerprints includes fingerscan.
 fingerscan means fingerprints taken using a device to obtain a record of the fingerprints.
 finding of guilt—see section 7.
 foreign jurisdiction means a jurisdiction other than the ACT (including a jurisdiction outside Australia).
-forensic patient—see the Public Advocate Act 2005, dictionary.
+forensic patient—see the Public Trustee and Guardian Act 1985, section 19B (2).
 government agency, for part 5A.9 (Obtaining and disclosing particular information)—see section 132ZL.
 government custody means custody, whether in the ACT or elsewhere—
   (a) under a sentence of imprisonment; or
