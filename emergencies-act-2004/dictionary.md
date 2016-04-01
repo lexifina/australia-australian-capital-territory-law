@@ -30,6 +30,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · penalty unit
 · planning and land authority
 · police officer
+· public trustee and guardian
 · reviewable decision notice
 · statutory office-holder
 · territory-owned corporation
