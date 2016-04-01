@@ -26,6 +26,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · State
 · Supreme Court
+· victims of crime commissioner
 · writing.
 ACAT mental health provision, for a child or young person—see the Children and Young People Act 2008, section 491.
 advance agreement—see section 26.
@@ -148,7 +149,6 @@ Examples—rehabilitation support
 1 support to improve social confidence and integration
 2 assistance to improve work skills
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-victims of crime commissioner means the victims of crime commissioner appointed under the Victims of Crime Act 1994, section 7.
 visitable place—see section 208.
 young detainee—see the Children and Young People Act 2008, section 95.
 young offender—see the Children and Young People Act 2008, dictionary.
