@@ -15,10 +15,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · police officer
 · proceeding
 · provision (see s 16)
-· public trustee
+· public trustee and guardian
 · registrar-general.
 Note 3 See also the Legislation Act, s 168 (References to person with interest in land include personal representative etc).
-administrator includes anyone to whom administration of the estate of a deceased person is granted, and includes the public trustee acting under the Administration and Probate Act 1929, part 6.
+administrator includes anyone to whom administration of the estate of a deceased person is granted, and includes the public trustee and guardian acting under the Administration and Probate Act 1929, part 6.
 agent, for part 4.7 (Recovery of leased premises)—see section 437.
 annuity, for part 2.6 (Apportionment)—see section 248.
 assurance includes a conveyance and a disposition made otherwise than by will.
@@ -85,7 +85,7 @@ securities includes stocks, funds and shares.
 settlement—see section 200.
 sublease, for part 4.5 (Forfeiture of leases)—see section 424.
 trust corporation means—
-  (a) the public trustee or a trustee company; or
+  (a) the public trustee and guardian or a trustee company; or
   (b) the Official Trustee in Bankruptcy under the Bankruptcy Act 1966 (Cwlth); or
   (c) the trustee in whom the property of a bankrupt is vested.
 trustee company—see the Trustee Companies Act 1947, dictionary.
