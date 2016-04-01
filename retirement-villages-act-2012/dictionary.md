@@ -17,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · housing commissioner
 · lawyer
 · Magistrates Court
+· public trustee and guardian
 · registrar-general
 · Supreme Court
 · Territory.
