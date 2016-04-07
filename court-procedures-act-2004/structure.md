@@ -10,6 +10,7 @@
 ### Division 4.3 Provisions applying only to the Territory
 ### Division 4.4 Other provisions
 ## Part 5 Court security
+## Part 5A Mediation
 ## Part 6 Procedural provisions—all proceedings
 ## Part 6A Procedural provisions—criminal proceedings
 ## Part 7 Procedural provisions—civil proceedings
