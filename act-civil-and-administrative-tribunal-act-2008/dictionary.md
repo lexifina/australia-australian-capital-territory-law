@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · Australian Consumer Law (ACT)
 · body
 · contravene
+· Corporations Act
 · director-general (see s 163)
 · Executive
 · exercise
@@ -16,6 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · public servant
 · territory authority.
 ACAT trust account, for part 9A (ACAT trust account)—see section 115B (2).
+accredited mediator means a person who is entered as a mediator in the register of nationally accredited mediators maintained by the Mediator Standards Board.
 appeal president means the appeal president appointed under section 94.
 appeal tribunal means a tribunal made up under section 81 to review a decision of the tribunal.
 application—
@@ -49,6 +51,9 @@ general president means the general president appointed under section 94.
 goods application, for part 4 (Civil disputes)—see section 15.
 ground for occupational discipline, for division 6.2 (Powers and decisions in applications for occupational discipline)—see section 64.
 internal review notice—see section 67B (1).
+mediation, for division 5.3 (Case management)—see section 30A.
+mediation material, for division 5.3 (Case management)—see section 30A.
+Mediator Standards Board means the incorporated body registered under the Corporations Act as the Mediator Standards Board Limited (ACN 145 829 812).
 non-disclosure certificate, for part 4A (Administrative review)—see section 22A.
 non-presidential member means a senior member or ordinary member of the tribunal appointed under section 96 (1) or a temporary senior member or temporary ordinary member of the tribunal appointed under section 96 (2).
 nuisance application, for part 4 (Civil disputes)—see section 15.
