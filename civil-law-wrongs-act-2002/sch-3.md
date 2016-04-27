@@ -391,7 +391,7 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
   (c) whether a committee may administer an oath;
   (d) the application or exclusion of the rules of, and practice relating to, evidence;
   (e) the grounds on which a complaint may be made;
-  (f) the verification of complaints by statutory declaration;
+  (f) the verification of complaints by statement;
   (g) the suspension of members from membership or from practice;
   (h) the imposition of fines;
   (i) the making of appeals;
