@@ -2,14 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· appoint
-· director-general (see s 163)
-· exercise
-· function
-· heritage register
-· planning and land authority
-· reviewable decision notice.
+• ACAT
+• appoint
+• director-general (see s 163)
+• exercise
+• function
+• heritage register
+• planning and land authority
+• reviewable decision notice.
 address for correspondence—see the Unit Titles (Management) Act 2011, dictionary.
 administrator—see the Unit Titles (Management) Act 2011, dictionary.
 annexed—see section 12A.
