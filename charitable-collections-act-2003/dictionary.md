@@ -11,7 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · entity
 · individual
 · law
-· person
+· person (see s 160)
 · reviewable decision notice
 · State.
 authorised person—see section 54.
