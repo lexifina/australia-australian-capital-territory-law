@@ -179,13 +179,14 @@ relevant day means—
 required document means, for primary carer leave in relation to—
   (a) a newly born child—
     (i) a birth certificate for the child; and
-    (ii) a statutory declaration stating that the employee is the primary carer for the child; or
-  (b) a child placed for adoption—a statutory declaration stating—
-    (i) that the child has been placed, for adoption, in the care of the adoptive parent; and
-    (ii) the date of the placement; and
+    (ii) a statement to the effect that the employee is the primary carer for the child; or
+  (b) a child placed for adoption—a statement setting out the following:
+    (i) that the child has been placed, for adoption, in the care of the adoptive parent;
+    (ii) the date of the placement;
     (iii) that the employee is the primary carer for the child; or
   (c) any other document prescribed by regulation.
-Note A certificate, statutory declaration or other document must be kept for at least 5 years (unless the commissioner authorises earlier destruction) and produced if the commissioner requires its production (see Taxation Administration Act 1999, s 57 (Requirement to keep proper records), s 62 (Accessibility) and s 64 (Period record to be kept)).
+Note 1 A certificate, statement or other document must be kept for at least 5 years (unless the commissioner authorises earlier destruction) and produced if the commissioner requires its production (see Taxation Administration Act 1999, s 57 (Requirement to keep proper records), s 62 (Accessibility) and s 64 (Period record to be kept)).
+Note 2 It is an offence to make a false or misleading statement, give false or misleading information or produce a false or misleading document (see Criminal Code, pt 3.4).
 ## Part 2.7 Certain unemployed people
 ## 2.19 Certain unemployed people
 (1) Wages are exempt wages if they are paid or payable to a prescribed person, if the wages are in relation to the period of 2 years beginning on the first day of the person’s employment by the employer by whom those wages were paid or are payable.
