@@ -39,7 +39,6 @@ Note 2 For example, the Legislation Act, pt 1 defines the following terms:
 · proceeding
 · sign
 · summary offence (see s 190)
-· statutory declaration
 · territory law
 · under.
 Aboriginal or Torres Strait Islander offender, for chapter 4C (Galambany Court)—see section 291L.
