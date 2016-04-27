@@ -9,7 +9,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 6 | 65 (2) | issue category D adult firearms licence subject to condition required by Minister | licensee
 7 | 72 | refuse to issue replacement adult firearms licence | applicant for replacement
 8 | 73 (1) (e) | refuse to authorise possession of more than prescribed amount of ammunition | person refused authorisation
-9 | 73 (2) | put condition on adult firearms licence | licensee
+9 | 73 (3) | put condition on adult firearms licence | licensee
 10 | 78 (1) (c) | end date less than 12 months after day licence begins | licensee
 11 | 79, 80 | suspend adult firearms licence | licensee
 12 | 81 | cancel adult firearms licence | person who held licence
