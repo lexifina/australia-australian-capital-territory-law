@@ -7,8 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bankrupt or personally insolvent
 · found guilty
 · Minister (see s 162)
-· registrar-general
-· statutory declaration.
+· registrar-general.
 civil union celebrant means—
   (a) the registrar-general; or
   (b) a person who is registered under this Act as a civil union celebrant.
