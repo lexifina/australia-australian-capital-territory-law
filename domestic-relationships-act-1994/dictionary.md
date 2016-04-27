@@ -2,15 +2,15 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· Australian statistician
-· civil partnership
-· civil union
-· Executive
-· lawyer
-· Magistrates Court
-· person (see s 160)
-· Supreme Court.
+• ACT
+• Australian statistician
+• civil partnership
+• civil union
+• Executive
+• lawyer
+• Magistrates Court
+• person (see s 160)
+• Supreme Court.
 agreement, for part 4 (Domestic relationship agreements and termination agreements)—see section 31.
 child, of the parties to a domestic relationship, means each of the following children:
   (a) a child of whom the parties are the parents;
