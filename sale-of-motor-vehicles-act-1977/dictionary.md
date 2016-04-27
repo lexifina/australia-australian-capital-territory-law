@@ -24,9 +24,30 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · State
 · the Territory.
-accessory, in relation to a motor vehicle, means—
-  (a) a car radio, sound reproducing equipment or an airconditioning unit fitted to the vehicle; or
-  (b) a spare wheel or any other thing carried in or attached to the vehicle.
+accessory, in relation to a motor vehicle, means any of the following:
+  (a) a radio;
+  (b) a cassette player;
+  (c) a compact disc player;
+  (d) a telephone and in-car telephone kit;
+  (e) a car aerial;
+  (f) a clock;
+  (g) a cigarette lighter;
+  (h) body hardware that is not standard to the motor vehicle;
+  (i) a power outlet, including a cigarette light socket;
+  (j) tools, other than a jack or wheel brace;
+  (k) a light globe;
+  (l) sealed beam lights;
+  (m) fog lights that are not standard to the motor vehicle;
+  (n) an alarm that is not standard to the motor vehicle;
+  (o) a digital video disc player or video display panel;
+  (p) MP3 or MP4 player and dock;
+  (q) a computerised navigation system;
+Examples
+· global positioning system
+· satellite navigation system
+Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+  (r) a keyless entry system and remote key pad that is not standard to the motor vehicle;
+  (s) anything else prescribed by regulation.
 ACTPLA certificate, for premises to which an application for the grant or renewal of a licence relates, means a certificate by the planning and land authority stating—
   (a) whether the authority considers the carrying on of business at the premises under the licence would not comply with a provision of—
     (i) the lease of the land where premises are located; or
