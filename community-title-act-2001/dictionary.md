@@ -2,12 +2,12 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· function
-· planning and land authority
-· reviewable decision notice
-· Supreme Court
-· the Territory.
+• ACAT
+• function
+• planning and land authority
+• reviewable decision notice
+• Supreme Court
+• the Territory.
 administrative fund means a fund established by a body corporate to meet recurrent and capital expenditure of the body corporate.
 basic scheme, for part 12 (Termination of community title schemes)—see section 87.
 body corporate means a body corporate created under this Act for a community title scheme.
