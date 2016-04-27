@@ -22,7 +22,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public trustee and guardian
 · reviewable decision notice
 · State
-· statutory declaration
 · under.
 account, for an agent, for division 8.2 (Freezing accounts)—see section 131.
 ADI business day, for a trust account, for division 7.2 (Trust money and trust accounts)—see section 104.
