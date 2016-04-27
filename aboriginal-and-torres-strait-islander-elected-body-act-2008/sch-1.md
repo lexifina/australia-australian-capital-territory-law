@@ -448,11 +448,6 @@ substitute
   (b) the vacancy occurs after the latest ATSIEB election has been declared and before 1 January in the year in which the next ATSIEB election is to be held.
 (1A) If the commissioner is satisfied that it is practicable to fill the vacancy under section 194, the commissioner must give public notice of the vacancy.
 Note Public notice means notice on an ACT government website or in a daily newspaper circulating in the ACT (see Legislation Act, dict, pt 1).
-[1.74] Section 191 (2)
-omit
-subsection (1)
-substitute
-subsection (1A)
 [1.75] Publication of candidates’ details Section 193 (1) (b)
 omit
 any suppressed address
