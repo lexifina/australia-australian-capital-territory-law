@@ -35,7 +35,7 @@ Matters relating to hazards and risks including—
 ## 7 Authorisations
 7.1 Matters relating to authorisations (including licences, registrations and permits) and qualifications, and experience for the purposes of part 4 (Authorisations) or a regulation including providing for—
   (a) applications for the grant, issue, renewal, variation, suspension and cancellation of authorisations, including the minimum age to be eligible for an authorisation; and
-  (b) the evidence and information to be provided in relation to applications including the provision of statutory declarations; and
+  (b) the evidence and information to be provided in relation to applications; and
   (c) exemptions; and
   (d) variations of authorisations by the regulator whether on application or otherwise; and
   (e) authorisation of persons as trainers and assessors; and
