@@ -4,8 +4,7 @@ Note 1 The Legislation Act 2001 contains definitions and other provisions releva
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 · commissioner for fair trading
 · CrimTrac
-· police officer
-· statutory declaration.
+· police officer.
 article includes a chattel or goods.
 commissioner means the commissioner for fair trading.
 disqualified—see section 21 (Working out whether person suitable).
