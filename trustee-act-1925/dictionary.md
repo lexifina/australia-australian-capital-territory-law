@@ -19,7 +19,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · public trustee and guardian
 · registrar-general
 · sign
-· statutory declaration
 · territory lease
 · will
 · year.
