@@ -2,32 +2,32 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and provisions that are relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-adult
-auditor-general (see s 163)
-chief police officer
-contravene
-correctional centre
-dentist
-director of public prosecutions
-doctor
-· domestic partner (see s 169)
-entity (see s 184A)
-function
-· health practitioner
-human rights commissioner
-· information privacy commissioner
-intersex person (see s 169B)
-law, of the Territory
-lawyer
-magistrate
-nurse
-ombudsman
-police officer
-State
-summary offence (see s 190)
-· territory law
-transgender person (see s 169A)
-under.
+• adult
+• auditor-general (see s 163)
+• chief police officer
+• contravene
+• correctional centre
+• dentist
+• director of public prosecutions
+• doctor
+• domestic partner (see s 169)
+• entity (see s 184A)
+• function
+• health practitioner
+• human rights commissioner
+• information privacy commissioner
+• intersex person (see s 169B)
+• law, of the Territory
+• lawyer
+• magistrate
+• nurse
+• ombudsman
+• police officer
+• State
+• summary offence (see s 190)
+• territory law
+• transgender person (see s 169A)
+• under.
 Aboriginal or Torres Strait Islander person means a person who—
   (a) is a descendant of an Aboriginal person or Torres Strait Islander person; and
   (b) identifies as an Aboriginal person or Torres Strait Islander person.
