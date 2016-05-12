@@ -31,7 +31,14 @@ cancellation, for part 7 (Cancellation of registration)—see section 50.
 cancellation proposal—see section 43.
 connected, for part 14 (Enforcement)—see section 77.
 conservation includes preservation, protection, maintenance, restoration and reconstruction.
-conservation management plan—see section 61J.
+conservation management plan means a plan that—
+  (a) sets out the conservation measures that must be adopted for, and conditions on future use of, a place or object or Aboriginal place or object to conserve its heritage significance; and
+  (b) identifies any threat, or potential threat, to the heritage significance of the place or object or Aboriginal place or object, and sets out a plan for management of the threats; and
+  (c) includes the following information:
+    (i) a description of the place or object or Aboriginal place or object;
+    (ii) the history of the place or object or Aboriginal place or object;
+    (iii) details about the heritage significance of the place or object or Aboriginal place or object;
+    (iv) any other matter prescribed by regulation.
 conservation requirement means a requirement under any heritage guideline that applies, directly or indirectly, to conservation of the heritage significance of a place or object.
 conservator means the conservator of flora and fauna.
 consultation notice—see section 26.
@@ -49,7 +56,7 @@ heritage agreement—see section 99.
 heritage decision means a decision under—
   (a) section 32 (Decision about provisional registration); or
   (b) section 40 (Decision about registration); or
-  (c) section 47 (Decision about cancellation proposal).
+  (c) section 49 (Decision about cancellation proposal).
 heritage direction—see section 62.
 heritage guidelines—see section 25.
 heritage object, for which a public authority is responsible—see section 107.
