@@ -22,7 +22,9 @@ customer contract, for a regulated utility service, includes—
 dam, for part 8 (Dams safety)—see section 57.
 dams register, for part 8 (Dams safety)—see section 58.
 dangerous incident, for part 4 (Reporting of notifiable incidents)—see section 28.
+electricity distribution network—see the Utilities Act 2000, section 7.
 electricity network—see the Utilities Act 2000, section 7.
+electricity transmission network—see the Utilities Act 2000, section 7.
 further information, for part 8 (Dams safety)—see section 62.
 gas distribution network—see the Utilities Act 2000, section 10.
 gas network—see the Utilities Act 2000, section 10.
