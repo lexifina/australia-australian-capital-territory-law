@@ -47,10 +47,12 @@ data storage device means any article or material (for example, a disk) from whi
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 determined, for part 3A (Energy industry levy)—see section 54A.
 electricity connection service means a connection service within the meaning of the national electricity rules, chapter 5A (Electricity connection for retail customers).
+electricity distribution network—see section 7 (2).
 electricity distributor—
   (a) means a utility licensed for the distribution of electricity through an electricity network; and
   (b) in relation to an electricity connection service for premises—means a utility licensed to provide the service for the premises.
-electricity network—see section 7 (Electricity network).
+electricity network—see section 7.
+electricity transmission network—see section 7 (1).
 energy industry sector, for part 3A (Energy industry levy)—see section 54D (1).
 energy utility, for part 3A (Energy industry levy)—see section 54D (2).
 energy utility service, for part 3A (Energy industry levy)—see section 54D (3).
