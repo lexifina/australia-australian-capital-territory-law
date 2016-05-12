@@ -38,6 +38,7 @@ area of high conservation value means—
   (b) a place, other than a structure or group of structures, registered under the Heritage Act 2004; or
   (c) the area identified in the territory plan as the river corridor zone for the Murrumbidgee River; or
   (d) any other prescribed area.
+AS/NZS 4012, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 AS/NZS 4013, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 assessment means an assessment made under the Land Act, division 4.3.
 assessment order, for part 9 (Environmental protection)—see section 91J.
