@@ -26,6 +26,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
 approved insurer means an insurer approved by the Minister under section 145.
 approved rehabilitation provider—see section 139 (1).
+assessed treatment and care needs, of a participant in the LTCS scheme—see the LTCS Act, section 29.
 auditor means any of the following:
   (a) an auditor registered under the Corporations Act;
   (b) a member of the Institute of Chartered Accountants in Australia;
@@ -87,6 +88,7 @@ employer—
   (c) for chapter 5 (Injury management process)—see section 87; and
   (d) for part 9.2 (Choice of law)—see section 182A (1).
 employment, for part 4.2A (Employment connection with ACT or State)—see section 36A (2).
+excluded treatment and care—see the LTCS Act, section 9.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 full-time student means an individual who—
   (a) is at least 16 years old but younger than 25; and
@@ -119,6 +121,9 @@ liquidator, of an insurer, includes—
   (c) the receiver and manager of the insurer’s property; or
   (d) the managing controller of the insurer’s property.
 loss, for chapter 4 (Entitlement to compensation)—see section 48.
+LTCS Act means the Lifetime Care and Support (Catastrophic Injuries) Act 2014.
+LTCS commissioner—see the LTCS Act, dictionary.
+LTCS scheme—see the LTCS Act, dictionary.
 lump sum claim means a claim for compensation under this Act in relation to a loss to which part 4.4 (Compensation for permanent injuries) or 4.6 (Compensation for death) applies.
 managing controller—see the Corporations Act, section 9.
 maximum loss amount, for part 4.4 (Compensation for permanent injuries)—see section 50.
@@ -147,6 +152,7 @@ offence, for chapter 10 (Inspection)—see section 187.
 official manager—see the Corporations Act, section 9.
 osteopath means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the osteopathy profession (other than as a student).
 partially incapacitated—see section 7.
+participant, in the LTCS scheme—see the LTCS Act, dictionary.
 payment includes a non-monetary payment.
 personal injury plan—see section 85A.
 Petroleum (Submerged Lands) Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
@@ -182,6 +188,7 @@ territory worker means a worker for whom the ACT is the Territory or State of co
 therapeutic treatment includes an examination, test or analysis done for the purpose of diagnosing, or treatment given for the purpose of alleviating, an injury.
 totally incapacitated—see section 6.
 total wages—see section 7A.
+treatment and care needs, of a participant in the LTCS scheme—see the LTCS Act, section 9.
 vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140.
 weekly compensation, for a worker, for part 4.3 (Weekly Compensation)—see section 36G.
 worker—
@@ -190,5 +197,6 @@ worker—
   (c) for part 9.2 (Choice of law)—see section 182A (1).
 workers compensation and safety legislation means this Act and the Work Health and Safety Act 2011.
 workers compensation law means a law of a place that sets up a statutory scheme for the compensation of injuries arising out of or in the course of employment.
+work injury—see the LTCS Act, dictionary.
 workplace injury, for chapter 5 (Injury management process)—see section 86.
 work-related injury, for part 9.2 (Choice of law)—see section 182A (2) and (3).

@@ -17,6 +17,7 @@
 ## Part 5.3 Obligations on injury
 ## Part 5.4 Obligations in relation to personal injury plans
 ## Part 5.5 Other obligations
+## Part 5.5A Obligations in relation to LTCS participants
 ## Part 5.6 Compliance with ch 5
 # Chapter 6 Claims
 ## Part 6.1 Making claims
@@ -40,6 +41,7 @@
 ## Part 9.1 Interpretation and application—ch 9
 ## Part 9.2 Choice of law
 ## Part 9.3 Compensation and common law damages
+## Part 9.4 LTCS scheme participants
 # Chapter 10 Inspection
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 Notification and review of decisions
