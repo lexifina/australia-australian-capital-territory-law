@@ -18,13 +18,23 @@ Note 3 The Road Transport (Third-Party Insurance) Act 2008 contains definitions 
 · CTP premium guidelines (see s 39)
 · CTP regulator (see s 14)
 · insured motor vehicle (see s 15)
-· insurer
 · licensed insurer
 · motor accident (see s 7)
 · motor accident claim
 · non-economic loss (see s 156B)
 · personal injury (see s 6)
 · responsible person, for a vehicle.
+Note 4 The Workers Compensation Act 1951 contains definitions relevant to this Act. For example, the following terms are defined in the Workers Compensation Act 1951, dictionary:
+· claim for payment
+· compulsory insurance policy (see s 144)
+· DI fund
+· DI fund manager
+· gross written premiums
+· notional gross written premium
+· professional sporting activity
+· self-insurer
+· Territory or State of connection (see s 36A)
+· worker.
 approved provider, of a service—see section 29.
 assessed treatment and care needs, of a participant in the LTCS scheme—see section 29.
 attendant care services, for a person who is a participant in the LTCS scheme, means services that aim to give the person assistance with everyday tasks.
@@ -35,10 +45,15 @@ Examples
 · domestic services
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 bulk billing arrangements, for part 9 (Payments to hospitals, doctors and others)—see section 68.
-claims assessment panel, for division 7.2 (Disputes about motor accident injuries)—see section 49 (1).
-claims assessor, for division 7.2 (Disputes about motor accident injuries)—see section 45.
+claim, in relation to an injury, means—
+  (a) for a motor accident injury—a motor accident claim; or
+  (b) for a work injury—a workers compensation claim.
+Note Motor accident claim, for a motor accident—see the CTP Act, s 77.
+claims assessment panel, for division 7.2 (Disputes about injuries)—see section 49 (1).
+claims assessor, for division 7.2 (Disputes about injuries)—see section 45.
 contribution period for which a required fund contribution is determined, for division 10.1 (Funding the LTCS scheme)—see section 73 (1).
 CTP Act means the Road Transport (Third-Party Insurance) Act 2008.
+CTP insurer, in relation to a motor accident claim, means an insurer under the CTP Act.
 eligibility assessment panel, for division 7.1 (Disputes about eligibility)—see section 35.
 eligibility assessor, for division 7.1 (Disputes about eligibility)—see section 36.
 eligibility criteria, for participation in the LTCS scheme, means the criteria stated in the LTCS guidelines for eligibility to participate in the LTCS scheme.
@@ -46,7 +61,12 @@ eligibility review panel, for division 7.1 (Disputes about eligibility)—see se
 excluded treatment and care—see section 9.
 Health Minister, for part 9 (Payments to hospitals, doctors and others)—see section 68.
 injured person—see section 15 (1).
-interested person, for division 7.2 (Disputes about motor accident injuries)—see section 45.
+injury means an injury to which this Act applies.
+Note Section 6 sets out the injuries to which this Act applies.
+insurer, for an injured person’s claim, means—
+  (a) if the injured person has a motor accident injury—a CTP insurer; or
+  (b) if the injured person has a work injury—a workers compensation insurer or self insurer.
+interested person, for division 7.2 (Disputes about injuries)—see section 45.
 interim participation, in the LTCS scheme, means a person accepted as an interim participant in the LTCS scheme under section 20.
 legal costs—see the Legal Profession Act 2006, dictionary.
 legal services—see the Legal Profession Act 2006, dictionary.
@@ -62,9 +82,14 @@ motor accident injury, in relation to a person, means an injury the person has a
 NSW LCS authority means the Lifetime Care and Support Authority of New South Wales, constituted under the Motor Accidents (Lifetime Care and Support) Act 2006 (NSW), section 33.
 participant, in the LTCS scheme, means a person accepted as an interim or lifetime participant in the scheme under section 19.
 present value of the LTCS commissioner’s treatment and care liabilities, for division 10.2 (Recovery of lifetime care and support payments)—see section 88.
-principal claims assessor, for division 7.2 (Disputes about motor accident injuries)—see section 45.
-required fund contribution—see section 83 (1).
+principal claims assessor, for division 7.2 (Disputes about injuries)—see section 45.
+required fund contribution for motor accident injuries, for division 10.1 (Funding the LTCS scheme)—see section 83 (1).
+required fund contribution for work injuries, for division 10.1 (Funding the LTCS scheme)—see section 83 (2).
 treatment and care assessor, for division 7.3 (Disputes about treatment and care needs assessments)—see section 54.
 treatment and care needs, of a participant in the LTCS scheme—see section 9.
 treatment and care needs assessment means an assessment under part 5 (Treatment and care needs assessment) of the treatment and care needs of a participant in relation to the participant’s motor accident injury.
 treatment and care review panel, for division 7.3 (Disputes about treatment and care needs assessments)—see section 62.
+worker, in relation to a work injury—see the Workers Compensation Act 1951, chapter 3 (Meaning of worker).
+workers compensation claim means a claim for compensation for a work injury under the Workers Compensation Act 1951.
+workers compensation insurer, in relation to a workers compensation claim, means an insurer approved by the Minister under the Workers Compensation Act 1951, section 145.
+work injury means an injury to a worker arising out of, or in the course of, the worker’s employment.

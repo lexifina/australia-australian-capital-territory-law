@@ -6,7 +6,7 @@
 ## Part 6 Payments under LTCS scheme
 ## Part 7 Dispute resolution
 ### Division 7.1 Disputes about eligibility
-### Division 7.2 Disputes about motor accident injuries
+### Division 7.2 Disputes about injuries
 ### Division 7.3 Disputes about treatment and care needs assessments
 ## Part 8 Communicating with injured person or LTCS participant
 ## Part 9 Payments to hospitals, doctors and others
