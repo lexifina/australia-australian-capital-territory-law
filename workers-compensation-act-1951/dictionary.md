@@ -22,8 +22,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · reviewable decision notice
 · territory law
 · under
+· work safety commissioner
 · year.
 act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
+annual premium, for an employer, for part 5.4A (Return-to-work coordinators)—see section 103A.
 approved insurer means an insurer approved by the Minister under section 145.
 approved rehabilitation provider—see section 139 (1).
 assessed treatment and care needs, of a participant in the LTCS scheme—see the LTCS Act, section 29.
@@ -169,6 +171,7 @@ receiver and manager—see the Corporations Act, section 9.
 recognised auditor, for the DI fund, means an auditor who is not employed or engaged by the DI fund.
 registered agreement means an agreement registered under section 79.
 rehabilitation services includes training and retraining services.
+return-to-work coordinator, for part 5.4A (Return-to-work coordinators)—see section 103A.
 return-to-work program means a program mentioned in section 109.
 reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199.
 Seas and Submerged Lands Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.

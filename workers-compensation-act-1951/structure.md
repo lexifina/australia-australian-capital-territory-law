@@ -16,6 +16,7 @@
 ## Part 5.2 General obligations
 ## Part 5.3 Obligations on injury
 ## Part 5.4 Obligations in relation to personal injury plans
+## Part 5.4A Return-to-work coordinators
 ## Part 5.5 Other obligations
 ## Part 5.5A Obligations in relation to LTCS participants
 ## Part 5.6 Compliance with ch 5
