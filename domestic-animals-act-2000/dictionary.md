@@ -13,9 +13,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
 animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
-  (a) section 7 (Cruelty);
-  (b) section 7A (Aggravated cruelty);
-  (c) section 8 (Pain);
+  (a) section 6B (Duty to care for animal);
+  (b) section 7 (Cruelty);
+  (c) section 7A (Aggravated cruelty);
   (d) section 9 (Confined animals);
   (e) section 9A (Keeping laying fowls for commercial egg production—appropriate accommodation);
   (f) section 9B (Keeping pigs—appropriate accommodation);
@@ -25,7 +25,7 @@ animal welfare offence means an offence against any of the following provisions 
   (j) section 12 (Administering poison);
   (k) section 12A (Laying poison);
   (l) section 13 (Electrical devices);
-  (m) section 14 (Spurs);
+  (m) section 14 (Use or possession of a prohibited item);
   (n) section 15 (Transport and containment);
   (o) section 15A (Transport of dogs);
   (p) section 15B (Intensive breeding of cats or dogs);
