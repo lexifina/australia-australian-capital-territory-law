@@ -44,6 +44,7 @@ confine, in relation to an animal, includes—
   (b) subject the animal to a device or contrivance for the purpose of hindering, impeding or preventing freedom of movement of the animal; and
   (c) tether the animal.
 connected, for part 7 (Enforcement)—see section 74.
+cruelty, in relation to an animal, for pt 2 (Animal welfare offences)—see section 6A.
 defined offence means—
   (a) an offence against this Act; or
   (b) an offence in relation to animal welfare under another territory law or a Commonwealth or State law.
@@ -97,6 +98,7 @@ premises—
   (b) in relation to the exercise of an inspector’s powers, for division 7.3 (Powers of inspectors)—see section 80.
 private trapping permit means a permit granted under section 64 (Decision about trapping permit application) for domestic or private purposes.
 prohibited animal, for part 5 (Circuses and travelling zoos)—see section 51.
+prohibited item—see section 14.
 regulatory body, for part 6A (Regulatory action)—see section 73A.
 research authorisation means an authorisation granted under section 38 (Decision about authorisation application) to conduct a program of research in relation to licensed premises.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 107.
