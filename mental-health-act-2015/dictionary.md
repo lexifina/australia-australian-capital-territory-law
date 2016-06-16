@@ -74,7 +74,6 @@ forensic community care order means an order made under section 108.
 forensic mental health order means a forensic psychiatric treatment order or a forensic community care order.
 forensic patient, for part 7.2 (Affected people)—see section 127.
 forensic psychiatric treatment order means an order made under section 101.
-general president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 health attorney—see the Guardianship and Management of Property Act 1991, section 32B (1).
 information sharing entity, for part 12.5 (Sharing information—government agencies)—see section 218.
 information sharing protocol, for part 12.5 (Sharing information—government agencies)—see section 219.
@@ -105,6 +104,7 @@ mental impairment—see the Criminal Code, section 27.
 nominated person means a person nominated under section 19.
 non-presidential member, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 official visitor—see section 208.
+president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 presidential member, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 principal official visitor means the principal official visitor appointed under section 210.
 private psychiatric facility, for chapter 13 (Private psychiatric facilities)—see section 222.
