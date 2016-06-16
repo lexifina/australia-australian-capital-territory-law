@@ -21,7 +21,6 @@ decision-making principles—see section 4.
 domestic partner, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 electroconvulsive therapy—see the Mental Health Act 2015, section 145.
 enduring power of attorney—see the Powers of Attorney Act 2006, section 8.
-general president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 guardian means someone who is a guardian under any of the following sections:
 section 7 (Appointment and powers of guardians)
 · section 7A (Appointment of guardians under direction)
@@ -50,6 +49,7 @@ prescribed medical procedure means—
   (e) removal of non-regenerative tissue for transplantation to the body of another living person; or
   (f) electroconvulsive therapy or psychiatric surgery; or
   (g) any other medical or surgical procedure prescribed for this definition.
+president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 principal¸ for part 3 (Powers of Attorney and ACAT) —see the Powers of Attorney Act 2006, dictionary.
 priority order, for health attorneys for a protected person, for part 2A—see section 32B (3).
 protected person, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
