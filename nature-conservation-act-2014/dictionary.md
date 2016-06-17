@@ -25,6 +25,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · reviewable decision notice
 · rural fire service
 · SES
+· State
 · the Territory
 · working day.
 accessing biological resources, for part 8.5 (Access to biological resources in reserves)—see section 207.
@@ -39,6 +40,7 @@ animal—see section 11.
 animal reproductive material means—
   (a) an embryo, an egg or sperm of an animal; or
   (b) any other part, or product, of an animal from which another animal could be produced.
+assessed at a national scale, for an item, for part 4.4 (Including, transferring and omitting items in a list)—see section 80.
 biodiversity—see section 19.
 biodiversity research and monitoring program, for part 2.1 (Conservator of flora and fauna)—see section 24.
 biodiversity research and monitoring program report—see section 26.
@@ -49,19 +51,22 @@ cause, serious harm or material harm—
   (b) for part 9.5 (Reserves—offences about damaging land)—see section 244.
 clearing native vegetation, for part 9.4 (Reserves—offences about clearing native vegetation)—see section 234.
 closed reserve declaration, for a reserve, for part 10.2 (Prohibited and restricted activities)—see section 259.
+coastal sea, of Australia or an external Territory—see the Acts Interpretation Act 1901 (Cwlth), section 15B (4) (Application of Acts in coastal sea).
+common assessment method, for part 4.4 (Including, transferring and omitting items in a list—general)—see section 80.
 connected, for part 14.2 (Enforcement by conservation officers)—see section 337.
 conservation—see section 10.
-conservation advice—see section 92.
-conservation dependent species means a species included in the conservation dependent category on the threatened native species list.
+conservation advice means an advice mentioned in section 90C.
+conservation dependent species means a species included in the conservation dependent category in the threatened native species list.
 conservation officer means a conservation officer mentioned in section 28.
 conservator—see section 20.
 conservator guidelines—see section 23.
 conservator’s direction—see section 331 (2).
+continental shelf—see the Seas and Submerged Lands Act 1973 (Cwlth), section 3.
 controlled native species, for chapter 7 (Controlled native species management plans)—see section 157.
 controlled native species management plan, for a controlled native species—see section 158.
 critical habitat, for a species or ecological community, means a habitat that is critical to the survival of the species or ecological community.
-critically endangered ecological community means an ecological community included in the critically endangered category on the threatened ecological communities list.
-critically endangered species means a species included in the critically endangered category on the threatened native species list.
+critically endangered ecological community means an ecological community included in the critically endangered category in the threatened ecological communities list.
+critically endangered species means a species included in the critically endangered category in the threatened native species list.
 custodian, for an area of land—see the Planning and Development Act 2007, section 333 (What is a custodian?).
 Note Custodian only applies to land that is unleased land or public land.
 damage—
@@ -81,9 +86,10 @@ due date—
 ecological community—see section 17.
 ecosystem means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit.
 eligible species—see section 95 (1).
-endangered ecological community means an ecological community included in the endangered category on the threatened ecological communities list.
-endangered species means a species included in the endangered category on the threatened native species list.
+endangered ecological community means an ecological community included in the endangered category in the threatened ecological communities list.
+endangered species means a species included in the endangered category in the threatened native species list.
 evidence direction—see section 319 (3).
+exclusive economic zone—see the Seas and Submerged Lands Act 1973 (Cwlth), section 3.
 exempt animal—see section 154.
 export an item, means take the item to another place for any purpose.
 Examples—purpose
@@ -91,8 +97,6 @@ Examples—purpose
 · personal use
 · gift
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-extinct in the wild species means a species included in the extinct in the wild category on the threatened native species list.
-extinct species means a species included in the extinct category on the threatened native species list.
 financial assurance condition, on a licence—see section 278.
 financial assurance considerations—see section 279.
 genetic resources, for part 8.5 (Access to biological resources in reserves)—see section 205.
@@ -126,9 +130,6 @@ licence register—see section 304.
 licensed activity, for a licence—see section 262.
 list, for part 4.4 (Including, transferring and omitting items in list)—see section 80.
 listed migratory species—see the Environment Protection and Biodiversity Conservation Act 1999 (Cwlth), section 528.
-listing advice—
-  (a) for part 4.3 (Key threatening processes)—see section 79G (2); and
-  (b) for part 4.4 (Including, transferring and omitting items in list)—see section 86 (2).
 listing assessment—
   (a) for part 4.3 (Key threatening processes)—see section 79F (2); and
   (b) for part 4.4 (Including, transferring and omitting items in list)—see section 85 (2).
@@ -141,9 +142,11 @@ member—
   (a) for a species of animal—see section 18 (a); or
   (b) for a species of plant—see section 18 (b); or
   (c) for an ecological community—see section 18 (c).
-minor amendment, of a list, for part 4.4 (Including, transferring and omitting items in list)—see section 93.
+minor amendment, for division 4.4.6 (Minor amendments of list)—see section 93.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 name and address direction—see section 319 (2).
+national category, in the threatened native species list—see section 63 (2) (Threatened native species list—categories).
+nationally threatened, in relation to an item, for part 4.4 (Including, transferring and omitting items in list)—see section 80.
 native animal—see section 12.
 native plant—see section 14.
 native species—see section 16.
@@ -163,6 +166,7 @@ organism includes—
   (a) a virus; and
   (b) the reproductive material of an organism; and
   (c) an organism that has died.
+participating State, for part 4.4 (Including, transferring and omitting items in list)—see section 80.
 personal information notice—see section 267.
 pest animal—see the Pest Plants and Animals Act 2005, dictionary.
 pest plant—see the Pest Plants and Animals Act 2005, dictionary.
@@ -188,8 +192,6 @@ proposed new licensee, for a licence—see section 289.
 protected native species—see section 110.
 protected native species list—see section 111 (1).
 protected native species list criteria—see section 113 (1).
-provisionally listed threatened ecological community means an ecological community included in the provisional category on the threatened ecological communities list.
-provisionally listed threatened species means a species included in the provisional category on the threatened native species list.
 public consultation notice, for a nomination—
   (a) for part 4.3 (Key threatening processes)—see section 79E (2); and
   (b) for part 4.4 (Including, transferring and omitting items in list)—see section 84 (2).
@@ -206,6 +208,9 @@ public unleased land permit—see the Public Unleased Land Act 2013, section 40.
 Ramsar wetland—see section 190.
 Ramsar wetland management plan, for a Ramsar wetland—see section 191.
 rare species means a species included in the rare category on the protected native species list.
+regional category, in the threatened native species list—see section 63 (3) (Threatened native species list—categories).
+regionally conservation dependent species means a species included in the regionally conservation dependent category in the threatened native species list.
+regionally threatened species means a species included in the regionally threatened category in the threatened native species list.
 regular migratory species—see section 98.
 regulatory action, against a licensee—see section 298.
 relevant ecological community—see section 98.
@@ -221,6 +226,9 @@ restricted trade species means a species included in the restricted trade catego
 reviewable decision, for chapter 15 (Notification and review of decisions)—see section 360.
 risk management plan notice, for a licence—see section 271.
 scientific committee means the scientific committee established under section 31.
+seabed includes—
+  (a) the surface of a coral formation; and
+  (b) subsoil of seabed (including coral beneath the surface of a coral formation).
 sell, for part 6.1 (Offences)—see section 126.
 serious harm, to a reserve—
   (a) for clearing native vegetation, for part 9.4 (Reserves—offences about clearing native vegetation)—see section 235; or
@@ -248,7 +256,7 @@ tree seedling, for division 6.1.3 (Native plants)—see section 139.
 urgent direction, for part 14.1 (Directions)—see section 329.
 vehicle includes vessel.
 vessel includes hovercraft.
-vulnerable ecological community means an ecological community included in the vulnerable category on the threatened ecological communities list.
-vulnerable species means a species included in the vulnerable category on the threatened native species list.
+vulnerable ecological community means an ecological community included in the vulnerable category in the threatened ecological communities list.
+vulnerable species means a species included in the vulnerable category in the threatened native species list.
 warrant, for part 14.2 (Enforcement by conservation officers)—see section 337.
 wilderness area—see section 170.

@@ -14,6 +14,12 @@
 ## Part 4.2 Threatened ecological communities
 ## Part 4.3 Key threatening processes
 ## Part 4.4 Including, transferring and omitting items in list
+### Division 4.4.1 Definitions—pt 4.4
+### Division 4.4.2 Including, transferring and omitting items in list—general
+### Division 4.4.3 Including or transferring certain nationally threatened items
+### Division 4.4.4 Conservation advice
+### Division 4.4.5 Final version of list and notification
+### Division 4.4.6 Minor amendments of list
 ## Part 4.5 Action plans
 # Chapter 5 Protection of native species—conservation plans
 ## Part 5.1 Special protection status
@@ -64,3 +70,4 @@
 # Chapter 15 Notification and review of decisions
 # Chapter 16 Miscellaneous
 # Chapter 20 Transitional
+# Chapter 21 Transitional—Nature Conservation Amendment Act 2016
