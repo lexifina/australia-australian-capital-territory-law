@@ -10,7 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · bankrupt or personally insolvent
 · building code
 · business day
-· chief officer (fire and rescue)
+· chief officer (fire and rescue service)
 · chief police officer
 · commissioner for fair trading
 · corporation
