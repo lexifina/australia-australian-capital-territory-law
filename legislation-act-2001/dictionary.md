@@ -78,7 +78,7 @@ Chief Magistrate means the Chief Magistrate of the Magistrates Court.
 Chief Minister means the Chief Minister for the Territory.
 Note The Chief Minister is elected under the Self-Government Act, s 40.
 chief officer (ambulance service) means the chief officer (ambulance service) under the Emergencies Act 2004.
-chief officer (fire and rescue) means the chief officer (fire and rescue) under the Emergencies Act 2004.
+chief officer (fire and rescue service) means the chief officer (fire and rescue service) under the Emergencies Act 2004.
 chief officer (rural fire service) means the chief officer (rural fire service) under the Emergencies Act 2004.
 chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004.
 chief planning executive means the Chief Planning Executive under the Planning and Development Act 2007.
@@ -160,7 +160,7 @@ driver licence means a driver licence under the Road Transport (Driver Licensing
 Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
 electoral commission means the Australian Capital Territory Electoral Commission established under the Electoral Act 1992.
 electoral commissioner means the Electoral Commissioner under the Electoral Act 1992.
-emergency service means the ambulance service, fire and rescue, the rural fire service or the SES.
+emergency service means the ambulance service, the fire and rescue service, the rural fire service or the SES.
 emergency services commissioner means the ACT Emergency Services Commissioner under the Emergencies Act 2004.
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
 enrolled nurse—
@@ -181,7 +181,7 @@ fail includes refuse.
 Federal Court means the Federal Court of Australia.
 file includes lodge.
 financial year means a period of 12 months beginning on 1 July.
-fire and rescue means ACT Fire and Rescue established under the Emergencies Act 2004.
+fire and rescue service means the ACT Fire and Rescue Service established under the Emergencies Act 2004.
 for, in relation to an Act or statutory instrument, includes for the purposes of the Act or statutory instrument.
 Note Under s 7 (3) and s 13 (3) a reference to an Act or statutory instrument includes a reference to a provision of an Act or statutory instrument.
 foreign country means a country (whether or not an independent sovereign country) outside Australia and the external territories, and includes a state, province or other part of such a country.
