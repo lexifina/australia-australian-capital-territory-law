@@ -117,6 +117,7 @@ register of detainees means the register kept under section 76.
 relevant presiding officer, for division 10.3.5 (Disciplinary action)—see section 182.
 remandee—see the Crimes (Sentence Administration) Act 2005, dictionary.
 scanning search—see section 107.
+secure mental health facility—see the Mental Health (Secure Facilities) Act 2016, section 7.
 security classification, for a detainee, means the detainee’s security classification under section 80.
 segregation, of a detainee—see section 88.
 seizeable item, for division 9.4.3 (Strip searches)—see section 113.
