@@ -39,7 +39,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 agency, for part 5.3 (Bushfire prevention)—see section 70.
 ambulance levy, for schedule 1 (Ambulance levy)—see schedule 1, section 1.4.
 ambulance service means the ACT Ambulance Service established under section 40.
+ambulance service quality assurance committee (or ASQAC) means a committee established under section 195A.
 ambulance services, for part 4.6 (Other approved providers)—see section 60.
+ASQAC—see ambulance service quality assurance committee.
 at premises includes in or on the premises.
 basic health benefits, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 built-up area means an area declared to be a built-up area under section 65.
@@ -52,17 +54,17 @@ bushfire season, for division 5.6.2 (Controlled activities and offences relating
 casual volunteer—see section 59D (2).
 chief officer means—
   (a) for the ambulance service—the chief officer (ambulance service); and
-  (b) for fire and rescue—the chief officer (fire and rescue); and
+  (b) for the fire and rescue service—the chief officer (fire and rescue service); and
   (c) for the rural fire service—the chief officer (rural fire service); and
   (d) for the SES—the chief officer (SES).
 chief officer (ambulance service)—see section 28.
-chief officer (fire and rescue)—see section 29.
+chief officer (fire and rescue service)—see section 29.
 chief officer (rural fire service)—see section 30.
 chief officer (SES)—see section 31.
-city area—see section 66.
 closure notice means a closure notice issued under section 86 (2) (Notices for premises).
 commissioner means the ACT Emergency Services Commissioner.
 commissioner’s guidelines—see section 11 (1) (Commissioner may make guidelines).
+committee, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
 community communication and information plan means the community communication and information plan mentioned in section 149.
 conservator means the conservator of flora and fauna.
 contributor, to a health benefits fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
@@ -87,13 +89,13 @@ emergency risk includes the risk of an emergency arising from—
   (a) civil defence requirements associated with warlike action; or
   (b) mass gatherings of people at sporting and other events; or
   (c) technological problems, including the widespread simultaneous failure of computers.
-emergency service means the ambulance service, fire and rescue, the rural fire service or the SES.
+emergency service means the ambulance service, the fire and rescue service, the rural fire service or the SES.
 emergency services, for part 4.6 (Other approved providers)—see section 60.
 emergency services support volunteer—see section 59CA (Appointment of emergency services support volunteers).
 exempt contribution, for schedule 1 (Ambulance levy)—see schedule 1, section 1.2.
 family rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 fire alarm includes any signalling apparatus for giving notice of a fire.
-fire and rescue means ACT Fire and Rescue established under section 43.
+fire and rescue service means the ACT Fire and Rescue Service established under section 43.
 fire appliance includes—
   (a) any vehicle, equipment, implement or thing used for the prevention, extinguishing or containment of fire or smoke; and
   (b) any fire alarm; and
@@ -107,8 +109,8 @@ hazard means a thing (including an intrinsic property of a thing), or a situatio
 hazardous material means anything that may cause injury or death, or damage to property or the environment, if it is produced, stored, moved, used, or in any other way dealt with, without adequate safeguards.
 hazardous material incident—
   (a) means an incident involving a hazardous material causing, or creating a substantial risk of—
-    (iii) death or serious harm to a person; or
-    (iv) substantial damage to property or the environment; and
+    (i) death or serious harm to a person; or
+    (ii) substantial damage to property or the environment; and
   (b) includes a dangerous occurrence within the meaning of the Dangerous Substances Act 2004.
 Examples of incidents
 1 a spill or other loss of containment of a hazardous material
@@ -118,6 +120,7 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 health benefits fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 health benefits organisation, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 improvement notice means an improvement notice issued under section 86 (2) (Notices for premises).
+information holder, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
 inspector means a person appointed as an inspector under section 99.
 interstate or overseas emergency service means an entity (however described) established under the law of the Commonwealth, a State, another Territory or a foreign country as an ambulance service, fire brigade, rural fire service or emergency service.
 investigator means a person appointed as an investigator under section 100.
@@ -140,7 +143,9 @@ operational unit means a unit of 1 or more people (however described) forming pa
 owner, of land, includes the lessee or occupier of the land.
 person in charge, of land or premises, for part 5.5 (Inspectors and investigators—see section 98.
 premises includes any land, structure or vehicle and any part of an area of land, a structure or vehicle.
+protected information, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
 reference month, for schedule 1 (Ambulance levy)—see schedule 1, section 1.3.
+relevant chief officer, for division 5.4.1 (Notices and directions for premises)—see section 85.
 rescue includes the release or removal to a safe place of any person, animal or property trapped or endangered because of fire, accident, hazardous material incident, explosion, natural disaster or similar event.
 rescue services, for part 4.6 (Other approved providers)—see section 60.
 response operation, for part 4.6 (Other approved providers)—see section 60.
@@ -148,6 +153,7 @@ reviewable decision, for chapter 9 (Notification and review of decisions)—see 
 rural area—see section 65 (4).
 rural fire service means the ACT Rural Fire Service established under section 51.
 SEMSOG––see section 141.
+sensitive information, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
 SES means the ACT State Emergency Service established under section 56.
 single rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 specialist, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
