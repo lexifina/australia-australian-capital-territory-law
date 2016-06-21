@@ -332,6 +332,7 @@ scanning search—
 school means—
   (a) a government or non-government school under the Education Act 2004; or
   (b) an educational institution conducted by the Canberra Institute of Technology.
+secure mental health facility—see the Mental Health (Secure Facilities) Act 2016, section 7.
 security classification, for chapter 6 (Criminal matters—detention places)—see section 137.
 segregation, for division 6.6.3 (Segregation)—see section 204.
 segregation direction—
