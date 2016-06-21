@@ -75,6 +75,7 @@ forensic mental health order means a forensic psychiatric treatment order or a f
 forensic patient, for part 7.2 (Affected people)—see section 127.
 forensic psychiatric treatment order means an order made under section 101.
 health attorney—see the Guardianship and Management of Property Act 1991, section 32B (1).
+health director-general, for part 8.4 (Leave for correctional patients)—see section 142A.
 information sharing entity, for part 12.5 (Sharing information—government agencies)—see section 218.
 information sharing protocol, for part 12.5 (Sharing information—government agencies)—see section 219.
 information statement means an information statement mentioned in section 15 (1) (b).
@@ -115,7 +116,7 @@ psychiatric surgery—see section 145.
 psychiatric treatment order means an order made under section 58.
 psychiatrist means a doctor who—
   (a) is registered under the Health Practitioner Regulation National Law (ACT) to practise in the specialty of psychiatry; or
-  (b) holds limited registration under that Law to practise in the specialty of psychiatry.
+  (b) meets the requirements prescribed by regulation.
 publish, for part 7.2 (Affected people)—see section 127.
 registered affected person, in relation to a forensic patient—see section 129.
 referring officer, in relation to a person, means—
@@ -128,6 +129,7 @@ referring officer, in relation to a person, means—
 Note Under the Bail Act 1992, s 25 (4) and s 26 (2), an adult may be supervised by the corrections director-general and a child may be supervised by the CYP director-general.
 relative, in relation to a person, means a domestic partner, parent, guardian, grandparent, uncle, aunt, brother, sister, half-brother, half-sister, cousin or child (being a child over the age of 18 years) of the person.
 Note Domestic partner—see the Legislation Act, s 169.
+relevant director-general, for part 8.4 (Leave for correctional patients)—see section 142A.
 relevant information, for part 12.5 (Sharing information—government agencies)—see section 218.
 relevant official—
   (a) for a mental health order, for chapter 5 (Mental health orders)—see section 50; or
@@ -139,6 +141,7 @@ representative, of a treating team, for part 3.3 (Advance agreements and advance
 responsible person, for part 3.1 (Rights in relation to information and communication)—see section 14.
 restriction order means an order made under section 60 or section 68.
 reviewable decision, for chapter 16 (Notification and review of decisions)—see section 258.
+secure mental health facility—see the Mental Health (Secure Facilities) Act 2016, section 7.
 subject person, for chapter 11 (ACAT procedural matters)—see section 190.
 transfer direction—see section 136 (3).
 treating team, for a person with a mental disorder or mental illness, for part 3.3 (Advance agreements and advance consent directions)—see section 24.

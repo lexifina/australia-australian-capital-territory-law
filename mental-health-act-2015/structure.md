@@ -33,6 +33,7 @@
 ## Part 8.2 Transfer of correctional patients
 ## Part 8.3 Review of correctional patients
 ## Part 8.4 Leave for correctional patients
+# Chapter 8A Transfer of custody—secure mental health facility
 # Chapter 9 Electroconvulsive therapy and psychiatric surgery
 ## Part 9.1 Preliminary—ch 9
 ## Part 9.2 Electroconvulsive therapy
