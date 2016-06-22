@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · notifiable instrument (see s 10)
 · person (see s 160)
 · public employee
+· territory authority
 · under.
 Note 3 The Road Transport (Third-Party Insurance) Act 2008 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (Third-Party Insurance) Act 2008, dictionary:
 · CTP insured person (see s 16)
@@ -35,6 +36,7 @@ Note 4 The Workers Compensation Act 1951 contains definitions relevant to this A
 · self-insurer
 · Territory or State of connection (see s 36A)
 · worker.
+ACTIA means the Australian Capital Territory Insurance Authority established under the Insurance Authority Act 2005.
 approved provider, of a service—see section 29.
 assessed treatment and care needs, of a participant in the LTCS scheme—see section 29.
 attendant care services, for a person who is a participant in the LTCS scheme, means services that aim to give the person assistance with everyday tasks.
@@ -70,7 +72,7 @@ interested person, for division 7.2 (Disputes about injuries)—see section 45.
 interim participation, in the LTCS scheme, means a person accepted as an interim participant in the LTCS scheme under section 20.
 legal costs—see the Legal Profession Act 2006, dictionary.
 legal services—see the Legal Profession Act 2006, dictionary.
-lifetime participation, in the LTCS scheme, means a person accepted as a lifetime participant in the LTCS scheme under section 21.
+lifetime participant, in the LTCS scheme, means a person accepted as a lifetime participant in the LTCS scheme under section 21.
 LTCS commissioner means the Lifetime Care and Support commissioner appointed under section 10.
 LTCS fund, for division 10.1 (Funding the LTCS scheme)—see section 74.
 LTCS fund banking account, for division 10.1 (Funding the LTCS scheme)—see section 76 (1).
