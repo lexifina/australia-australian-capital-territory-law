@@ -288,6 +288,7 @@ possession, of a thing, includes the following:
   (b) having control over the disposition of the thing (whether or not having custody of the thing);
   (c) having joint possession of the thing.
 prenatal report—see section 362 (2).
+previous out-of-home carer, for a young person or young adult, for part 15.5 (Transition to adulthood)—see section 529BA.
 privilege, for chapter 8 (Criminal matters—discipline at detention places)—see section 289.
 privileged, in relation to material, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 produce, for part 25.4 (Courts and investigative entities)—see section 864.
