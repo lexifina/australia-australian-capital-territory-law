@@ -62,7 +62,7 @@ conveyance, for part 10 (Criminal investigation)—see section 185.
 corresponding law, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 daily care responsibility—see the Children and Young People Act 2008, section 19.
 deal, with money or other property, for division 6.2A (Money laundering and organised fraud)—see section 114A.
-death, for part 2A (Industrial manslaughter)—see the Criminal Code, section 13.
+death, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 defendant, for part 13 (Unfitness to plead and mental impairment)—see the Magistrates Court Act 1930, section 18A.
 detention during pleasure, for part 7 (Escape provisions)—see section 158.
 director of public prosecutions means—
