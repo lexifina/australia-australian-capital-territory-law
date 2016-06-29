@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
 • bankrupt or personally insolvent
+• Corporations Act
 • document
 • home address
 • public holiday
@@ -21,6 +22,7 @@ books—
 certificate of incorporation means a certificate of incorporation issued under section 19, section 27 or section 38 (3).
 committee, in relation to an association, means the committee of the association established under section 60 (1).
 company limited by guarantee, for part 6 (Transfer of incorporation)—see section 81.
+corporation law, for part 6 (Transfer of incorporation)—see section 82 (1).
 court means the Supreme Court or the Magistrates Court.
 financial year, in relation to an incorporated association, means the period, not exceeding 12 months, fixed by the rules of the association as the financial year of the association for this Act.
 inaugural member of a committee means a person who is, under section 61, taken to be an inaugural member of the committee of an incorporated association.
