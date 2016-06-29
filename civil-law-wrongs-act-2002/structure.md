@@ -64,7 +64,7 @@
 ## Part 14.2 Costs in damages claims if no reasonable prospects of success
 # Chapter 15 Miscellaneous
 ## Part 15.1 Mediation and neutral evaluation
-## Part 15.2 General reporting requirements of insurers
 ## Part 15.3 Attachment of insurance money
 ## Part 15.4 Abolition of certain common law actions, rules and remedies
 ## Part 15.5 Other provisions
+# Chapter 17 Transitional—Justice and Community Safety Legislation Amendment Act 2016

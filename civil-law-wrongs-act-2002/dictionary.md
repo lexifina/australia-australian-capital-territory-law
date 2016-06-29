@@ -104,9 +104,7 @@ harm, for chapter 4 (Negligence)—see section 40.
 inherent risks of equine activities, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 innkeeper’s liability, for part 11.1 (Traveller accommodation providers liability)—see section 147.
 insured, for part 15.3 (Attachment of insurance money)—see section 206 (1).
-insurer—
-  (a) of a person in relation to a claim, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
-  (b) for part 15.2 (General reporting requirements of insurers)—see section 202.
+insurer, of a person in relation to a claim, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 interstate scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 intoxicated, for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.
 judgment, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
