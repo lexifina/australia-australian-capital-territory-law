@@ -72,4 +72,3 @@
 # Chapter 5 Miscellaneous
 ## Part 5.1 Offences
 ## Part 5.2 Other
-# Chapter 13 Declaration and validation
