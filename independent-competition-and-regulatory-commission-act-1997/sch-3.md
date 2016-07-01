@@ -4,7 +4,8 @@
 (1) The referring authority must appoint an industry panel of 3 members (1 of whom is declared in the appointment as the president) to hear an application for the review of a price direction.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act s 207).
-Note 3 A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def of appoint).
+Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+Note 4 A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def of appoint).
 (2) The following are not eligible to be members of an industry panel established for the review of a price direction:
   (a) a commissioner;
   (b) a member of the staff of the commission;
