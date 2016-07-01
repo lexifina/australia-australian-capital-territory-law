@@ -3,20 +3,20 @@
 The community sector industry is—
 ## (a) in relation to the ACT—
 ## (i) the industry of providing child care services; and
-## (ii) the industry of providing the following residential care services:
+    (ii) the industry of providing residential aged care services; and
+    (iii) the industry of providing community aged care services; and
+## (iv) the industry of providing the following residential care services:
 ## (A) care accommodation or homes for disadvantaged people where nursing or medical care is not provided as a major service;
 ## (B) residential corrective services for young offenders; and
-## (iii) the industry of providing non-residential care welfare services (including fund-raising services for welfare services) not included in other community sector industries; and
-## (iv) the industry of providing employment placement services for disabled people; and
-## (v) the industry of providing community service advocacy services; and
+## (v) the industry of providing non-residential care welfare services (including fund-raising services for welfare services) not included in other community sector industries; and
+## (vi) the industry of providing employment placement services for disabled people; and
+## (vii) the industry of providing community service advocacy services; and
 ## (b) in relation to a reciprocating State—the community sector industry within the meaning of the corresponding law of the State.
+Note The definition of community sector industry was broadened to include residential aged care services and community aged care services with effect from 1 July 2016.
 ## 3.2 What is community sector work?
 In this Act:
-community sector work—
-  (a) means—
-    (i) work carried out in the community sector industry; or
-    (ii) work, or an activity, declared to be work in the community sector industry under section 12 (Declarations by Minister—additional coverage of Act); but
-  (b) does not include work or an activity declared not to be work under section 13 (Declarations by Minister—limitation to coverage of Act).
+community sector work means work carried out in the community sector industry.
+Note The Minister may declare work or an activity to be community sector work (see s 12 (2) (d)) or to not be community sector work (see s 13 (2) (d)).
 ## 3.3 Recognised service—community sector industry
 ## (1) In this schedule:
 recognised service, for a registered worker in the community sector industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—

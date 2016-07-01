@@ -6,12 +6,15 @@ The contract cleaning industry is—
 ## (b) in relation to a reciprocating State—the contract cleaning industry within the meaning of the corresponding law of the State.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 ## 2.2 What is cleaning work?
-In this Act:
-cleaning work—
-  (a) means—
-    (i) work that has, as its only or main component, bringing premises into, or maintaining premises in, a clean condition; or
-    (ii) work, or an activity, declared to be work in the contract cleaning industry under section 12 (Declarations by Minister—additional coverage of Act); but
-  (b) does not include work or an activity declared not to be work under section 13 (Declarations by Minister—limitation to coverage of Act).
+(1) In this Act:
+cleaning work means—
+  (a) work that has, as its only or main component, bringing premises into, or maintaining premises in, a clean condition; or
+  (b) the collection or sorting of waste at, or for, an identified waste management facility if the employer providing the work through the provision of services does so under a contract with the Territory.
+Note The Minister may declare work or an activity to be cleaning work (see s 12 (2) (d)) or to not be cleaning work (see s 13 (2) (d)).
+(2) The Minister may determine that a facility is an identified waste management facility for subsection (1) (b).
+(3) A determination is a notifiable instrument.
+Note 1 A notifiable instrument must be notified under the Legislation Act.
+Note 2 The definition of cleaning work was broadened to include the collection and sorting of waste with effect from 1 July 2016.
 ## 2.3 Recognised service—contract cleaning industry
 ## (1) In this schedule:
 recognised service, for a registered worker in the contract cleaning industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—

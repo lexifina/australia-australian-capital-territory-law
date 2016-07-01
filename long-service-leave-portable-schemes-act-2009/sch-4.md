@@ -9,11 +9,8 @@ Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 security activity means an activity within the meaning of the Security Industry Act 2003, section 7 (1) (a) to (h).
 ## 4.2 What is security work?
 In this Act:
-security work—
-  (a) means—
-    (i) work carried out in the security industry; or
-    (ii) work, or an activity, declared to be work in the security industry under section 12; but
-  (b) does not include work or an activity declared not to be work under section 13.
+security work means work carried out in the security industry.
+Note The Minister may declare work or an activity to be work in the security industry (see s 12 (2) (d)) or to not be work in the security industry (see s 13 (2) (d)).
 ## 4.3 Recognised service—security industry
 ## (1) In this schedule:
 recognised service, for a registered worker in the security industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
@@ -23,7 +20,7 @@ recognised service, for a registered worker in the security industry, means the 
 ## 4.4 Court or tribunal—not employer
 A court or tribunal is not an employer for the security industry.
 Note A covered industry schedule may prescribe an entity not to be an employer for the covered industry—see s 7 (3) (e).
-## 4.5 Service credit—community sector industry—s 64
+## 4.5 Service credit—security industry—s 64
 ## (1) A registered worker for the security industry is to be credited in the workers register with 1 day of service for each day (including a day when the worker does not carry out security work) in each service period of the worker on or after the worker’s registration day.
 Example
 A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the service period for the worker when the worker does not carry out cleaning work.

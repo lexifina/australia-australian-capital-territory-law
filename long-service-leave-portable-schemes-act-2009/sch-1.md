@@ -24,20 +24,17 @@ Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 ## (d) hard landscaping;
 ## (e) building or construction work undertaken as part of training with a registered training organisation under the National Vocational Education and Training Regulator Act 2011 (Cwlth), section 3.
 ## 1.2 What is building and construction work?
-## (1) In this Act:
-building and construction work—
-  (a) means—
-    (i) work—
-      (A) in the building and construction industry; and
-      (B) covered by a prescribed award; or
-    (ii) work, or an activity, declared to be work in the building and construction industry under section 12 (Declarations by Minister—additional coverage of Act); or
-    (iii) direct supervision of a worker carrying out work mentioned in subparagraph (i) or (ii); but
-  (b) does not include work or an activity declared not to be work under section 13 (Declarations by Minister—limitation to coverage of Act).
+(1) In this Act:
+building and construction work means—
+  (a) work in the building and construction industry; or
+  (b) direct supervision of a worker carrying out work in the building and construction industry.
+Note The Minister may declare work or an activity to be building and construction work (see s 12 (2) (d)) or to not be building and construction work (see s 13 (2) (d)).
 ## (2) In this section:
 direct supervision, of a person, means the oversight by the supervising person of the work of the person by—
   (a) directing, demonstrating, monitoring and checking the person’s work in a way that is appropriate to the person’s level of competency; and
   (b) ensuring the person’s capacity to respond in an emergency situation.
-prescribed award means an award prescribed by regulation.
+(3) This section, as amended by the Long Service Leave (Portable Schemes) Amendment Act 2016, is taken to have effect on and from 1 January 2010.
+(4) This subsection and subsection (3) expire on the day they commence.
 ## 1.3 Recognised service—building and construction industry
 ## (1) In this schedule:
 recognised service, for a registered worker in the building and construction industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
