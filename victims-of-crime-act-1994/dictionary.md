@@ -25,6 +25,7 @@ appointed member—see section 22C (1) (c).
 board means the victims advisory board.
 commissioner means the Victims of Crime Commissioner appointed under the Human Rights Commission Act 2005, section 18D.
 Note The commissioner is a member of the human rights commission (see Human Rights Commission Act 2005, s 12 (1) (g)).
+financial assistance scheme means the scheme established under the Victims of Crime (Financial Assistance) Act 2016 to provide financial assistance for victims.
 governing principles means the principles mentioned in section 4.
 guardian—see section 6 (3).
 offence––
