@@ -6,4 +6,3 @@
 ## Part 4 Land rent—transfers
 ## Part 5 Land rent—payment and recovery of unpaid rent
 ## Part 6 Miscellaneous
-## Part 11 Transitional—Community Housing Providers National Law (ACT) Act 2013
