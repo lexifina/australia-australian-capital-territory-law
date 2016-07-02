@@ -7,4 +7,3 @@
 ## Part 5 Finance
 ## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous
-## Part 11 Transitional—Canberra Institute of Technology Amendment Act 2014
