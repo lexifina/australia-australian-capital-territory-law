@@ -33,8 +33,6 @@ Note The Minister may declare work or an activity to be building and constructio
 direct supervision, of a person, means the oversight by the supervising person of the work of the person by—
   (a) directing, demonstrating, monitoring and checking the person’s work in a way that is appropriate to the person’s level of competency; and
   (b) ensuring the person’s capacity to respond in an emergency situation.
-(3) This section, as amended by the Long Service Leave (Portable Schemes) Amendment Act 2016, is taken to have effect on and from 1 January 2010.
-(4) This subsection and subsection (3) expire on the day they commence.
 ## 1.3 Recognised service—building and construction industry
 ## (1) In this schedule:
 recognised service, for a registered worker in the building and construction industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
