@@ -32,4 +32,3 @@
 ## Part 7 Registration and returns
 ## Part 8A Notification and review of decisions
 ## Part 9 Miscellaneous
-## Part 10 Transitional
