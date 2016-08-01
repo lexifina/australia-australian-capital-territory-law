@@ -50,6 +50,8 @@ occupier, of premises—
   (a) for this Act generally—means a person having the management or control, or otherwise being in charge, of the premises; and
   (b) for part 6 (Enforcement)—see section 31.
 offence for part 6 (Enforcement)—see section 31.
+personal vaporiser—see section 3B.
+personal vaporiser related product—see section 3B.
 point of sale means a place, identified in accordance with the regulations (if any), where smoking products are sold within a retail outlet or wholesale outlet.
 premises includes a vehicle, vessel or aircraft, and a permanent or temporary structure.
 price ticket—see section 4.
@@ -65,7 +67,7 @@ retail tobacconist’s licence, for part 7 (Licences)—see section 43.
 reviewable decision, for division 7.5 (Notification and review of decisions)—see section 68.
 sell—see section 5.
 smoking advertisement—see section 6.
-smoking product means a tobacco product or a herbal product.
+smoking product—see section 3A.
 smoking product package means a package that—
   (a) is of a kind commonly used for smoking products; or
   (b) includes a symbol, design or words that indicate that the package contains a smoking product, or a particular product line of a smoking product.
