@@ -85,7 +85,7 @@ prohibited area means an area declared by the Minister under section 41 (1).
 public place—
   (a) means public unleased land; and
   (b) includes a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
-Note A public passenger vehicle is a public bus, taxi, hire car or demand responsive service vehicle.
+Note A public passenger vehicle is a public bus, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
 reasonably believes means has reasonable grounds for believing.
 recognised breeding organisation means an organisation declared as a recognised breeding organisation under section 72J.
