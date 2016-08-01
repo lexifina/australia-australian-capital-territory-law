@@ -10,12 +10,11 @@ driver—see the Road Transport (General) Act 1999, dictionary.
 driver licence means—
   (a) an Australian driver licence under the Road Transport (Driver Licensing) Act 1999; or
   (b) an external driver licence under the Road Transport (Driver Licensing) Act 1999.
-herbal product—see the Tobacco Act 1927, dictionary.
+personal vaporiser—see the Tobacco and Other Smoking Products Act 1927, section 3B.
 road—see the Road Transport (General) Act 1999, dictionary.
 road related area—see the Road Transport (General) Act 1999, dictionary.
 smoke—see section 6.
-smoking product—see section 6.
-tobacco product—see the Tobacco Act 1927, dictionary.
+smoking product—see the Tobacco and Other Smoking Products Act 1927, section 3A.
 vehicle—
   (a) means a motor vehicle under the Road Transport (General) Act 1999; but
   (b) does not include—
