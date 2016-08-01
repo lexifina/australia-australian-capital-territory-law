@@ -21,11 +21,18 @@ Note 4 If a word or expression is defined in an Act (but not a regulation or ano
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
 accredited demand responsive service operator means accredited under a regulation to operate a demand responsive service.
 accredited hire car service operator means accredited under the regulations to operate a hire car service.
-accredited taxi network provider means accredited under the regulations to operate a taxi network.
+accredited operator, of a public passenger vehicle—see section 110.
+accredited rideshare driver means a person accredited under regulation to operate a rideshare service.
 accredited taxi service operator means accredited under the regulations to operate a taxi service.
-affiliated, in relation to an accredited taxi service operator, means affiliated with an accredited taxi network provider.
+accredited transport booking service means a transport booking service accredited under regulation to operate a transport booking service.
+affiliated driver, for a transport booking service—see section 35.
+affiliated driver agreement—see section 36.
+affiliated operator, for a transport booking service—see section 36B.
+affiliated operator agreement—see section 36C.
 authorisation, in relation to a demand responsive service, means an authorisation under this Act to operate a demand responsive service.
 authorised demand responsive service operator means a person who is authorised under this Act to operate a demand responsive service.
+bookable vehicle—see section 29.
+bookable vehicle driver—see section 29.
 bus—see section 10A.
 bus service—see section 11.
 demand responsive service—see section 80.
@@ -35,12 +42,15 @@ fittings, of a vehicle, includes the seats, seat covers and floor coverings of t
 hire car—see section 67.
 hire car licence—see section 61.
 hire car service—see section 69.
+independent taxi service operator means a taxi service operator approved under regulation as an independent taxi service operator.
 inspect a vehicle includes observe the performance of the vehicle or any of its equipment, with or without the use of instruments.
+licensed rideshare vehicle means a vehicle that is the subject of a rideshare vehicle licence.
 long-distance service—see section 14.
 noncompliance notice—see section 120 (1).
 public bus—see section 10A.
 public passenger service—see section 10.
-public passenger vehicle means a public bus, taxi, hire car or demand responsive service vehicle.
+public passenger vehicle means a public bus, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
+public passenger vehicle policy—see section 110.
 public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 regular route service—see section 12.
 restricted hire car—see section 68.
@@ -49,6 +59,11 @@ restricted hire car service—see section 70.
 restricted taxi—see section 46.
 restricted taxi licence—see section 38.
 restricted taxi service—see section 48.
+rideshare—see section 60A.
+rideshare driver—see section 60A.
+rideshare service—see section 60A.
+rideshare vehicle—see section 60A.
+rideshare vehicle licence—see section 60J.
 road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
 road related area means—
   (a) an area that divides a road; or
@@ -62,11 +77,10 @@ service contract—
   (a) for part 2 (Bus services)—see section 17; and
   (b) for part 8 (Demand responsive services)—see section 89.
 taxi—see section 45.
-taxi booking service—see section 29.
 taxi driver means the person driving a taxi if the person holds a public vehicle licence authorising the person to drive the taxi for hire or reward.
 taxi licence—see section 37.
-taxi network—see section 28.
 taxi service—see section 47.
 taxi zone—see the Australian Road Rules, rule 182.
 time of effect, for a noncompliance notice—see section 120 (2) (b).
 tour and charter service—see section 13.
+transport booking service—see section 28.
