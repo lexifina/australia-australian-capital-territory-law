@@ -21,6 +21,10 @@ Note A disallowable instrument must be notified, and presented to the Legislativ
 AUV means the average unimproved value of the parcel.
 P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
 Note Different percentage rates may be determined for different collection areas or part of a collection area (see Legislation Act, s 48).
+## 1.3 Safer families levy
+(1) Safer families levy is imposed for a parcel of rateable land that is residential or rural land.
+(2) In this section:
+safer families levy means the safer families levy determined under the Taxation Administration Act, section 139.
 ## Part 1.2 Application of Act etc
 ## 2.1 Application of certain provisions—levies generally
 (1) This section applies to the following provisions (the applied provisions):
@@ -44,10 +48,21 @@ Note Different percentage rates may be determined for different collection areas
 (1) This section applies to the following provisions (the applied provisions):
   (a) section 18 (How may rates be paid?);
   (b) section 19 (Payment of rates by instalments);
-  (c) part 7 (Deferral and rebates) (other than section 63 (Rebate of rates—uncapped) and section 64 (Rebate of rates—capped));
+  (c) part 7 (Deferral and rebates) (other than section 63 (Rebate of rates—eligible person since 30 June 1997) and section 64 (Rebate of rates—capped));
   (d) any other provision prescribed by regulation.
 (2) The applied provisions have effect as if—
   (a) a reference to rates included a reference to the fire and emergency services levy imposed under section 1.1; and
+  (b) any other necessary changes were made; and
+  (c) any changes prescribed by regulation were made.
+(3) Sections 18 and 19, as applied by this section, are subject to part 5 (Unit subdivisions).
+## 2.1B Application of further provisions—safer families levy
+(1) This section applies to the following provisions (the applied provisions):
+  (a) section 18 (How may rates be paid?);
+  (b) section 19 (Payment of rates by instalments);
+  (c) part 7 (Deferral and rebates) other than section 63 (Rebates of rates—eligible person since 30 June 1997) and section 64 (Rebate of rates—capped);
+  (d) any other provision prescribed by regulation.
+(2) The applied provisions have effect as if—
+  (a) a reference to rates included a reference to the safer families levy imposed under section 1.3; and
   (b) any other necessary changes were made; and
   (c) any changes prescribed by regulation were made.
 (3) Sections 18 and 19, as applied by this section, are subject to part 5 (Unit subdivisions).
@@ -80,12 +95,13 @@ Note Different percentage rates may be determined for different collection areas
 (2) The person is entitled, on application to the commissioner under section 61, to a rebate of the person’s liability for levy for a parcel of land for a year if—
   (a) this section applies to the person in the year; and
   (b) the parcel is the person’s principal place of residence for all or part of the year.
-(3) The amount of rebate is worked out as follows:
+(3) The amount of the FES rebate that a person is entitled to is worked out as follows:
 (4) Division 7.3 (Rebate of rates) has effect as if it included this section.
 Example
 the definition of eligible person for pt 7 will apply to this section
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (5) In this section:
 D means the number of days in the year when the parcel is the person’s principal place of residence.
-levy, for the year, means levy imposed under this schedule for the year, and includes any levy deferred under a deferral determination.
+FES rebate means the fire and emergency services rebate determined under the Taxation Administration Act, section 139.
+levy, for a parcel for a year, means levy imposed under this schedule for the parcel for the year (other than the safer families levy imposed under section 1.3), and includes any levy deferred under a deferral determination.
 LL means the amount of the person’s liability for levy for the parcel for the year.
