@@ -14,4 +14,5 @@
 ### Division 6.4 Suspending or cancelling registration
 ### Division 6.5 Surrendering registration
 ## Part 7 Notification and review of decisions
+## Part 7A Information sharing
 ## Part 8 Miscellaneous

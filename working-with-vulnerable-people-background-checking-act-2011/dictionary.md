@@ -35,6 +35,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · the Territory
 · working day
 · writing.
+ACT Teacher Quality Institute means the institute established under the ACT Teacher Quality Institute Act 2010, section 10.
 additional risk assessment—see section 54 (2) (a).
 commissioner means the commissioner for fair trading.
 conditional registration means a registration that is subject to conditions.
