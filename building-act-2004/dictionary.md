@@ -16,26 +16,26 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · reviewable decision notice
 · Territory land
 · under.
-actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 alteration, of a building, includes—
   (a) demolition of part of the building; and
   (b) an addition to the building.
-approval criteria, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+approval criteria, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 approval requirement, for plans—see section 29.
 approved plans—
   (a) means plans that relate to building work for which a building approval is in effect; and
   (b) includes amended plans.
-approved scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+approved scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 asbestos removal control plan, in relation to building work, means a plan, complying with the Dangerous Substances Act 2004 and the Work Health and Safety Act 2011, that provides for the management of any asbestos disturbance resulting from the building work.
 authorised insurer means a body corporate authorised to carry on insurance business under the Insurance Act 1973 (Cwlth), section 12.
 basic building work—see section 10.
-builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 builders licence means a licence issued under the Construction Occupations (Licensing) Act 2004 in the construction occupation of builder.
 building—
   (a) for Act—see section 7; but
-  (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+  (b) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 building action, for part 9 (Limitation of liability)—see section 140.
 building approval means a building approval under part 3.
 building code—see section 136 (1).
@@ -43,16 +43,16 @@ building inspector means a person appointed under section 128.
 building surveyor—see the Construction Occupations (Licensing) Act 2004, section 9.
 building work—
   (a) for Act—see section 6; but
-  (b) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+  (b) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 certificate of occupancy means a certificate under section 69.
 certificate of regularisation—see section 75 (1).
 certifier—
   (a) for building work—means an entity appointed to act as certifier under section 19 (Appointment of certifiers—work not begun), section 19A (Appointment of certifiers—work begun) or government certifier under section 20 (Appointment of government certifiers) for the work; but
   (b) for division 3.2 (Certifiers and government certifiers)—see section 17.
 class, of building, means that class of building under the building code.
-complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-completion day, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 85.
-cost, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 86.
+completion day, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 85.
+complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+cost, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 86.
 custodian, for part 4 (Stop and other notices and demolition orders)—see section 52.
 decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 demolition order—see section 63A (2).
@@ -67,8 +67,8 @@ exempt building—see section 12.
 exemption assessment—see section 14.
 exemption assessment B notice—see section 14B.
 exemption assessment D notice—see the Planning and Development Act 2007, section 138D.
-fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 friable asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 government certifier, for division 3.2 (Certifiers and government certifiers)—see section 17.
 handling asbestos—to remove any doubt, handling asbestos (including friable asbestos) includes disturbing the asbestos.
@@ -99,14 +99,15 @@ owner-builder means an entity licensed under the Construction Occupations (Licen
 parcel, of land, includes land under a land sublease.
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
-prudential standards, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+prudential standards, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 recognised standard means a document declared to be a recognised standard under section 139A (1).
-residential building, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
-residential building work, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 84.
+residential building, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+residential building work, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+residential building work contract, for division 6.2A (Standard conditions)—see section 89B.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 site work—see section 7A.
 site work notice, for division 3.3 (Building approvals)—see section 25AA.
-special actuary, for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—see section 122.
+special actuary, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 122.
 specialist building work—see section 9.
 stage, of building work, means a stage prescribed under section 43 (1) (a).
 stop notice—see section 53 (2).
@@ -118,7 +119,7 @@ storey—
     (i) a lift shaft, stairway, meter room;
     (ii) a bathroom, shower room, laundry, toilet or other sanitary compartment;
     (iii) accommodation intended for up to 3 vehicles; and
-  (c) for part 6 (Residential buildings—statutory warranties, insurance and fidelity certificates)—does not include a storey below the ground storey (see section 84).
+  (c) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—does not include a storey below the ground storey (see section 84).
 structure—see section 8.
 waste management plan, in relation to building work that involves the demolition or alteration of a building, means information that includes—
   (a) the extent of work to be undertaken; and

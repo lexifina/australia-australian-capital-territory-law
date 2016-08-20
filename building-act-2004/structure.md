@@ -11,17 +11,21 @@
 ## Part 4 Stop and other notices and demolition orders
 ## Part 5 Building occupancy
 ### Division 5.1 Certificates of occupancy and other certificates
-## Part 6 Residential buildings—statutory warranties, insurance and fidelity certificates
+## Part 6 Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates
 ### Division 6.1 Interpretation—pt 6
 ### Division 6.2 Statutory warranties
+### Division 6.2A Standard conditions
 ### Division 6.3 Residential building insurance
 ### Division 6.4 Approved fidelity fund schemes
 ### Division 6.5 Auditors and actuaries of approved schemes
 ## Part 7 Administration
 ### Division 7.1 Building inspectors
+### Division 7.2 Inspection of building work and authority for required work
+### Division 7.3 Entry and seizure
+### Division 7.4 Search warrants
 ## Part 8 Building code, recognised standards etc
 ### Division 8.1 Building code and recognised standards
-### Division 8.2 Codes of practice
+### Division 8.2 Codes of practice and guidelines
 ### Division 8.3 Energy efficiency certificates
 ## Part 9 Limitation of liability
 ## Part 9A Notification and review of decisions
