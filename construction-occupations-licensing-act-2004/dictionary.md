@@ -33,7 +33,7 @@ building service—see section 8 (2).
 building surveyor—see section 9.
 building work—see the Building Act 2004, section 6.
 class, of a construction occupation, means a class into which the occupation is divided under the regulations (see section 15).
-code of practice means a code of practice approved under section 104A.
+code of practice means a code of practice approved under section 126A.
 compliance auditor, for part 6 (Enforcement)—see section 75.
 conduct means an act or an omission to do an act.
 construction occupation—see section 7.
