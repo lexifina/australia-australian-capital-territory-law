@@ -115,6 +115,7 @@ government agency means—
   (b) a Territory authority; or
   (c) a department or authority of a State or another Territory.
 head, in relation to a government agency, means the director-general who has control of the relevant administrative unit or other person who has administrative control of the agency.
+imitation firearm—see section 23A.
 interim protection order—
   (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of interim order; and
   (b) includes an interim protection order made under the Domestic Violence Agencies Act 1986 and an interim restraining order made under the Magistrates Court Act 1930.
