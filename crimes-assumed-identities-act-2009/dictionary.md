@@ -45,6 +45,9 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 government issuing agency, in relation to an authority, means any of the following stated in the authority that issues evidence of identity:
   (a) an entity that exercises a function of the government of the ACT;
   (b) an entity prescribed by regulation.
+intelligence agency means—
+  (a) the Australian Secret Intelligence Service; or
+  (b) the Australian Security Intelligence Organisation.
 issuing agency means—
   (a) a government issuing agency; or
   (b) a non-government issuing agency.
