@@ -35,7 +35,7 @@ commission agent means a person who does work for another person as the agent of
 committee of management, in relation to a club or organisation, means the group or body of people (however described) that manages the affairs of the club or organisation.
 contract worker means a person (the worker) who does work for someone else (the third person) under a contract between the worker’s employer and the third person.
 disability—see section 5AA.
-discriminate—see section 8.
+discrimination—see section 8.
 doing an act—see section 4A.
 educational authority means a body or person administering an educational institution.
 educational institution means a school, college, university or other institution at which education or training is provided.
@@ -52,7 +52,6 @@ gender identity means—
   (b) the identification on a genuine basis by a person of indeterminate sex as a member of a particular sex (whether or not the person is recognised as such)—
     (i) by assuming characteristics of that sex, whether by way of medical intervention, style of dressing or otherwise; or
     (ii) by living, or seeking to live, as a member of that sex.
-HIV/AIDS status, for part 6 (Racial, sexuality and HIV/AIDS vilification)—see section 65.
 HRC means the human rights commission.
 industrial activity means any of the following:
   (a) being or not being a member of, or joining, not joining or refusing to join, an industrial organisation or industrial association;
@@ -78,7 +77,6 @@ premises includes—
 principal means—
   (a) for a commission agent—a person for whom the commission agent does work as a commission agent; or
   (b) for a contract worker—a person for whom the contract worker does work under a contract between the contract worker’s employer and the person.
-public act, for part 6 (Racial, sexuality and HIV/AIDS vilification)—see section 65.
 race includes—
   (a) colour, descent, ethnic and national origin and nationality; and
   (b) any 2 or more distinct races that are collectively referred to or known as a race.
@@ -110,6 +108,10 @@ sexuality means heterosexuality, homosexuality (including lesbianism) or bisexua
 Territory employee means a person who is—
   (a) a public servant; or
   (b) employed by a Territory authority;
+unlawful act means an act that is unlawful under—
+  (a) part 3 (Unlawful discrimination); or
+  (b) part 5 (Sexual harassment); or
+  (c) part 7 (Other unlawful acts).
 unpaid worker means a person who performs work for an employer for no remuneration.
 voluntary body means an association or other body (whether incorporated or unincorporated) the activities of which are not engaged in for the purpose of making a profit, but does not include—
   (a) a club; or

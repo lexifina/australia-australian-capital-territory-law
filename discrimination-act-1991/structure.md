@@ -12,7 +12,6 @@
 ### Division 4.6 Exceptions relating to age
 ### Division 4.7 Exceptions relating to profession, trade, occupation or calling
 ## Part 5 Sexual harassment
-## Part 6 Racial, sexuality and HIV/AIDS vilification
 ## Part 7 Other unlawful acts
 ## Part 8 General principles about unlawful acts
 ## Part 10 Exemptions
