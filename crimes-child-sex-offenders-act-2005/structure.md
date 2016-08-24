@@ -46,4 +46,5 @@
 ## Part 5A.8 Offences
 ## Part 5A.9 Obtaining and disclosing particular information
 ## Part 5A.10 Appeals to Supreme Court
+# Chapter 5B Notification and review of decisions
 # Chapter 6 Miscellaneous
