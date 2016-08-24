@@ -70,4 +70,5 @@
 ### Division 7.2.4 Perverting the course of justice and related offences
 ## Part 7.3 Summary offences for ch 7
 ## Part 7.4 Procedural matters for ch 7
+# Chapter 7A Other offences
 # Chapter 8 Miscellaneous
