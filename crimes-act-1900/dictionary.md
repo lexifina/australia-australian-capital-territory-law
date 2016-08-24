@@ -75,6 +75,9 @@ employee, for part 2A (Industrial manslaughter)—see section 49A.
 employer, for part 2A (Industrial manslaughter)—see section 49A.
 engage in conduct, for part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
 evidential material, for part 10 (Criminal investigation)—see section 185.
+exclusion direction, for part 9 (Exclusion powers)—see section 175 (3).
+exclusion period, for part 9 (Exclusion powers)—see section 175 (3) (b).
+exclusion zone, for part 9 (Exclusion powers)—see section 175 (3) (a).
 executing officer, in relation to a warrant, for part 10 (Criminal investigation)—see section 185.
 female genital mutilation, for part 4 (Female genital mutilation)—see section 73.
 frisk search, for part 10 (Criminal investigation)—see section 185.
@@ -125,6 +128,7 @@ property—
   (a) for division 6.2A (Money laundering and organised fraud)—see section 114A; and
   (b) for division 6.3 (Criminal damage to property)—see section 115.
 provide services, for part 2A (Industrial manslaughter)—see section 49A.
+public place, for part 9 (Exclusion powers)—see section 174.
 recently used conveyance, in relation to a search of a person, for part 10 (Criminal investigation)—see section 185.
 reciprocating State, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 registrar, for part 20 (Inquiries into convictions)—see section 421.
