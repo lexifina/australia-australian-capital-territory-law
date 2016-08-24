@@ -12,6 +12,7 @@
 ### Division 6.8 Miscellaneous
 ## Part 7 Escape provisions
 ## Part 8 Anabolic steroids
+## Part 9 Exclusion powers
 ## Part 10 Criminal investigation
 ### Division 10.1 Preliminary
 ### Division 10.2 Preventative action
