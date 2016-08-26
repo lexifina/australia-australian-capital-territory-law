@@ -2,6 +2,7 @@
 ## Part 2 Periods of limitation and related matters
 ### Division 2.1 Preliminary
 ### Division 2.2 General
+### Division 2.2A No limitation period
 ### Division 2.3 Mortgages
 ### Division 2.4 Trusts
 ## Part 3 Postponement of bar
