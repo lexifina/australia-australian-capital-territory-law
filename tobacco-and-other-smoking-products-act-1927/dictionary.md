@@ -2,19 +2,19 @@
 (see s 2)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· child
-· contravene
-· domestic partner (see s 169 (1))
-· exercise
-· found guilty (of an offence)
-· function
-· home address
-· occupational discipline order
-· police officer
-· public health officer
-· reviewable decision notice.
+• ACAT
+• bankrupt or personally insolvent
+• child
+• contravene
+• domestic partner (see s 169 (1))
+• exercise
+• found guilty (of an offence)
+• function
+• home address
+• occupational discipline order
+• police officer
+• public health officer
+• reviewable decision notice.
 approved procedures, for part 6A (Tobacco compliance testing)—see section 42A.
 approved program, for part 6A (Tobacco compliance testing)—see section 42A.
 authorised officer—
