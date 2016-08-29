@@ -2,9 +2,9 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· home address
-· police officer
-· proceeding.
+• home address
+• police officer
+• proceeding.
 child means a person who is under 16 years old.
 driver—see the Road Transport (General) Act 1999, dictionary.
 driver licence means—
