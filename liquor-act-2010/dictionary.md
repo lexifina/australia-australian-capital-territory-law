@@ -86,7 +86,7 @@ harm minimisation and community safety principles—see section 10.
 identification document, for a person, means a document that—
   (a) is—
     (i) an Australian driver licence or foreign driver licence; or
-    (ii) a proof of age card or interstate proof of age card; or
+    (ii) a proof of identity card or interstate proof of identity card; or
     (iii) a passport; and
   (b) contains a photograph that could reasonably be taken to be the person; and
   (c) states the person’s date of birth.
@@ -94,7 +94,7 @@ identity card—see the Fair Trading (Australian Consumer Law) Act 1992, diction
 incident, for division 8.6 (Incidents)—see section 130.
 incident register, for division 8.6 (Incidents)—see section 131.
 influential person, for a corporation—see section 15.
-interstate proof of age card means a document corresponding to a proof of age card that has been issued under the law of a State.
+interstate proof of identity card means a document corresponding to a proof of identity card that has been issued under the law of a State.
 intoxicated—see section 104.
 investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 lease—see the Planning and Development Act 2007, section 235.
@@ -139,7 +139,7 @@ Note A conviction does not include a spent conviction or an extinguished convict
 premises includes land, structure, vehicle or boat.
 premises information notice—see section 79.
 prohibited liquor product—see section 212.
-proof of age card, for division 14.2 (Children and young people)—see section 209.
+proof of identity card, for division 14.2 (Children and young people)—see section 209.
 proposed licensee—see section 25.
 proposed new licensee—see section 40.
 proposed permit-holder—see section 50.
