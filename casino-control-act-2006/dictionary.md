@@ -115,7 +115,7 @@ premises includes—
   (a) a structure, building, aircraft, vehicle or vessel; and
   (b) a place (whether or not enclosed or built on).
 prescribed function means a function prescribed by regulation that may be performed by a casino employee in relation to the operation of the casino.
-proof of age card—see section 78.
+proof of identity card—see section 78.
 reviewable decision—see section 137.
 security-related decision means a decision for which a certificate is given under section 140 (1) or (3).
 short-term licence means a casino employee licence given or renewed under section 48.
