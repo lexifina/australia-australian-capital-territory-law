@@ -8,6 +8,8 @@
 ### Division 3.1 Change of name—generally
 ### Division 3.2 Change of name—restricted people
 ## Part 4 Change of sex
+### Division 4.1 People with birth registered in the ACT
+### Division 4.2 ACT residents with birth registered elsewhere
 ## Part 5 Registration of marriages
 ## Part 5A Civil unions
 ## Part 5B Civil partnerships

@@ -7,4 +7,5 @@ column 1 item | column 2 section | column 3 decision | column 4 person
 4 | 22C (1) (b) | refuse approval to make a change of name application in relation to a restricted person | applicant
 5 | 22F | refuse to register change of name in relation to a restricted person | applicant
 6 | 26 (b) | refuse to alter register to record change of sex | applicant
-7 | 68 | refuse to refund or remit payment of fee or part of fee | applicant
+7 | 29C | refuse to issue recognised details certificate | applicant
+8 | 68 | refuse to refund or remit payment of fee or part of fee | applicant
