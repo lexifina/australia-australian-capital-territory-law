@@ -2,17 +2,17 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· civil partner
-· civil partnership
-· civil union
-· civil union partner
-· doctor
-· domestic partner (see s 169 (1))
-· domestic partnership (see s 169 (2))
-· foreign country
-· nurse
-· parent
-· registrar-general.
+• civil partner
+• civil partnership
+• civil union
+• civil union partner
+• doctor
+• domestic partner (see s 169 (1))
+• domestic partnership (see s 169 (2))
+• foreign country
+• nurse
+• parent
+• registrar-general.
 birth parent, of a child, for division 2.5 (Parentage orders)—see section 23.
 birth sibling, of a child, for division 2.5 (Parentage orders)—see section 23.
 commercial substitute parent agreement—see section 40.
