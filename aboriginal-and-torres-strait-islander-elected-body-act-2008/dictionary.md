@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · electoral commissioner
 · Executive
 · financial year
+· head of service
 · indictable offence (see s 190)
 · Minister (see s 162)
 · modification
@@ -20,6 +21,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · notifiable instrument (see s 10)
 · penalty unit (see s 133)
 · public holiday
+· public sector body
 · sign.
 Aboriginal or Torres Strait Islander person means a person who—
   (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
@@ -36,9 +38,9 @@ election start day, for part 3 (ATSIEB elections)—see section 28.
 elector, for part 3 (ATSIEB elections)—see section 28.
 Electoral Act means the Electoral Act 1992.
 government agency means—
-  (a) an administrative unit; or
-  (b) a territory instrumentality; or
-  (c) a statutory office-holder and the staff required to assist the statutory office-holder.
+  (a) the public service; or
+  (b) a public sector body; or
+  (c) a territory instrumentality.
 hour of nomination, for an ATSIEB election––see the Electoral Act, section 108 (3), as applied by section 31.
 Note Sch 1, pt 1.2, mod 1.14 modifies the Electoral Act, s 108 (3) in its application to this Act.
 nomination close day, for an ATSIEB election, means the Monday 33 days before the polling start day.
