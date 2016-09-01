@@ -22,6 +22,7 @@
 ## Part 9 Tax officers, investigation and secrecy provisions
 ### Division 9.1 Tax officers
 ### Division 9.2 Powers of investigation
+### Division 9.2A Authorised valuers
 ### Division 9.3 Cooperation with other jurisdictions
 ### Division 9.4 Secrecy
 ## Part 10 Objections and reviews
