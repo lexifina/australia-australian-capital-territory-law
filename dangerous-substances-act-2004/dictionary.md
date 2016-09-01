@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · instrument (see s 14)
 · notification (see s 63)
 · penalty unit (see s 133)
+· public servant
 · reviewable decision notice
 · rural fire service
 · SES
