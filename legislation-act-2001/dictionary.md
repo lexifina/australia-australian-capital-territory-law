@@ -98,7 +98,6 @@ Note The clerk is appointed under the Legislative Assembly (Office of the Legisl
 commencement, of an Act or statutory instrument—see section 80.
 commencement notice—see section 11.
 commissioner for fair trading means the Commissioner for Fair Trading of the Australian Capital Territory under the Fair Trading (Australian Consumer Law) Act 1992.
-commissioner for public administration means the Commissioner for Public Administration under the Public Sector Management Act 1994.
 commissioner for revenue means the Commissioner for Australian Capital Territory Revenue under the Taxation Administration Act 1999.
 commissioner for sustainability and the environment means the Commissioner for Sustainability and the Environment under the Commissioner for Sustainability and the Environment Act 1993.
 commissioner of police means the Commissioner of Police of the Australian Federal Police.
@@ -138,7 +137,6 @@ dentist—
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 Deputy Speaker means the Deputy Presiding Officer of the Legislative Assembly.
 Note The Deputy Presiding Officer is elected under the Self-Government Act, s 21 (2).
-designation, of a position under the Public Sector Management Act 1994, includes a designation given under that Act.
 detention place—see the Children and Young People Act 2008, section 142.
 director-general—see section 163.
 director of public prosecutions (or DPP) means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1990.
@@ -197,7 +195,7 @@ function includes authority, duty and power.
 gambling and racing commission means the Gambling and Racing Commission established under the Gambling and Racing Control Act 1999.
 gazette means—
   (a) the Australian Capital Territory Gazette; or
-  (b) for a notice or other information that must or may be notified or published in the gazette under the Public Sector Management Act 1994—an internet site approved by the commissioner for public administration.
+  (b) for a notice or other information that must or may be notified or published in the gazette—a place approved by the public sector standards commissioner.
 give, in relation to a function, includes impose.
 government printer includes anyone printing for or by the authority of the Executive.
 government solicitor means the Government Solicitor for the Territory under the Law Officers Act 2011.
@@ -206,6 +204,7 @@ Governor means—
   (b) for the Northern Territory—the Administrator of the Northern Territory, and includes a person administering the Government of the Northern Territory.
 Governor-General means the Governor-General of the Commonwealth, and includes a person administering the Government of the Commonwealth.
 GST—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
+head of service means the head of service under the Public Sector Management Act 1994.
 health practitioner means a person registered under the Health Practitioner Regulation National Law (ACT) to practise a health profession (other than as a student).
 Health Practitioner Regulation National Law (ACT) means the provisions applying because of the Health Practitioner Regulation National Law (ACT) Act 2010, section 6 (Application of Health Practitioner Regulation National Law).
 health services commissioner means the Health Services Commissioner under the Human Rights Commission Act 2005.
@@ -358,14 +357,19 @@ provision, of an Act or instrument—see section 16.
 public advocate means the Public Advocate under the Human Rights Commission Act 2005
 public employee means—
   (a) a public servant; or
-  (b) a person employed by a territory instrumentality; or
-  (c) a statutory office-holder or a person employed by a statutory office-holder.
+  (b) a public sector member; or
+  (c) a person employed by a territory instrumentality.
 public health officer means a public health officer under the Public Health Act 1997.
 public holiday means a day that is a public holiday in the ACT under the Holidays Act 1958, section 3.
 public money, of the Territory, means revenues, loans and other money received by the Territory.
 public notice, if required by a Territory law, means—
   (a) a dated notice on an ACT government website; or
   (b) notice in a daily newspaper circulating generally in the ACT.
+public sector body means—
+  (a) a body made up of public sector members; and
+  (b) includes a body made up of 1 statutory office-holder.
+public sector member means a public sector member under the Public Sector Management Act 1994, section 150.
+public sector standards commissioner means the Public Sector Standards Commissioner under the Public Sector Management Act 1994.
 public servant means a person employed in the public service.
 public service means the Australian Capital Territory Public Service.
 Note The Public Sector Management Act 1994, s 12 deals with the constitution of the public service.
@@ -424,9 +428,7 @@ surveyor-general means the surveyor-general under the Surveyors Act 2007.
 swear an oath includes make an affirmation.
 take an oath includes make an affirmation.
 territory authority means a body established for a public purpose under an Act, but does not include a body declared by regulation not to be a territory authority.
-territory instrumentality means a corporation that—
-  (a) is established under an Act or statutory instrument, or under the Corporations Act; and
-  (b) is a territory instrumentality under the Public Sector Management Act 1994.
+territory instrumentality means a corporation that is a territory instrumentality under the Public Sector Management Act 1994.
 Note Territory instrumentality is defined in the Public Sector Management Act 1994, dict.
 territory land means Territory Land under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 Note The Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), s 28 provides that if land in the ACT is not national land it is territory land.
