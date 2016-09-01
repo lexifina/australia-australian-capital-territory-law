@@ -2,19 +2,19 @@
 (see s 5)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· appoint
-· asset
-· Australia
-· bankrupt or personally insolvent
-· Commonwealth
-· exercise
-· external territory
-· function
-· Jervis Bay Territory
-· land
-· Legislative Assembly
-· power
-· property.
+• appoint
+• asset
+• Australia
+• bankrupt or personally insolvent
+• Commonwealth
+• exercise
+• external territory
+• function
+• Jervis Bay Territory
+• land
+• Legislative Assembly
+• power
+• property.
 agreement means the agreement made on 1 May 1992 between the Commonwealth, the States, the Australian Capital Territory, the Northern Territory and the Australian Local Government Association, a copy of which is set out in schedule 1.
 Australian Local Government Association means the Australian Local Government Association Limited.
 Commonwealth Act means the National Environment Protection Council Act 1994 (Cwlth).
