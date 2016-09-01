@@ -4,13 +4,15 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACT
 · auditor-general
-· commissioner for public administration
 · entity
+· head of service
 · Legislative Assembly
 · Minister (see s 162)
 · Office of the Legislative Assembly
 · officer of the Assembly
 · ombudsman
+· public sector standards commissioner
+· public service
 · statutory office-holder
 · Supreme Court
 · territory authority
@@ -19,20 +21,19 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · territory-owned corporation
 · the Territory.
 ACTPS entity means any of the following:
-  (a) an administrative unit;
+  (a) the public service;
   (b) a territory authority;
   (c) a territory-owned corporation;
   (d) a subsidiary of a territory-owned corporation;
   (e) a territory instrumentality;
   (f) a statutory office-holder.
-commissioner means the commissioner for public administration.
+commissioner means the public service standards commissioner.
 contact details, for a discloser, means details of how a disclosure officer or investigating entity may contact the discloser about the public interest disclosure.
 detrimental action—see section 39.
 disclosable conduct—see section 8.
 discloser means a person who makes a public interest disclosure.
 disclosure officer, for a public interest disclosure—see section 11.
 head, of a public sector entity—see section 13.
-head of service—see the Public Sector Management Act 1994, dictionary.
 investigating entity, for a public interest disclosure, means—
   (a) the head of the public sector entity to whom the disclosure relates; or
   (b) if section 18 (2) (a) or (b) (Investigation of public interest disclosure) applies—the head of service; or
