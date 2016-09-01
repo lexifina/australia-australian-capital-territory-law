@@ -27,7 +27,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · may (see s 146)
 · must (see s 146)
 · power
+· public employee
 · public notice
+· public servant
 · public trustee and guardian
 · reviewable decision notice
 · State
