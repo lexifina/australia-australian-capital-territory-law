@@ -2,23 +2,24 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· administrative unit
-· Australian citizen
-· civil partner
-· civil partnership
-· civil union
-· civil union partner
-· commissioner for revenue
-· contravene
-· corporation
-· exercise
-· fail
-· function
-· penalty unit
-· reviewable decision notice
-· State
-· writing.
+• ACAT
+• administrative unit
+• Australian citizen
+• civil partner
+• civil partnership
+• civil union
+• civil union partner
+• commissioner for revenue
+• contravene
+• corporation
+• exercise
+• fail
+• function
+• penalty unit
+• public servant
+• reviewable decision notice
+• State
+• writing.
 authorised investigation—see section 37.
 authorised officer—see section 34.
 building includes part of a building.
