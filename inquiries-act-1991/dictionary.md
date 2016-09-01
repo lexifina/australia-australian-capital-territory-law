@@ -2,12 +2,14 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· director-general (see s 163)
-· Executive
-· exercise
-· function
-· month
-· under.
+• director-general (see s 163)
+• Executive
+• exercise
+• function
+• head of service
+• month
+• public servant
+• under.
 authorised person means a person declared in writing by the chairperson to be an authorised person for this Act.
 board means—
   (a) a board of inquiry appointed under section 5; and
