@@ -9,6 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · fail
 · function
+· head of service
+· public servant
 · sitting day
 · under.
 authorised person means a person declared in writing by the presiding member to be an authorised person for this Act.
