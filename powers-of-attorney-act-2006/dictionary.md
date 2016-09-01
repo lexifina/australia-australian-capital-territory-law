@@ -12,10 +12,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · public trustee and guardian.
 affinity means affinity derived through marriage or any other domestic partnership.
+approved, for medical research or low-risk research, for part 4.3A (Medical research matters)—see section 41A.
 attorney—see section 6.
 close friend, of a person, means someone who has a close personal relationship with the person and a personal interest in the person’s welfare.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 decision-making capacity—see section 9 (1).
+decision-making principles—see section 41B.
 disability care means care that is provided to a person with a disability in a residential facility in which the person is also provided with accommodation that includes—
   (a) appropriate staffing to meet the nursing and personal care needs of the person; and
   (b) meals and cleaning services; and
@@ -57,6 +59,10 @@ liquidator, of an attorney, includes—
   (b) the receiver of the attorney’s property; or
   (c) the receiver and manager of the attorney’s property; or
   (d) the managing controller of the attorney’s property.
+low-risk research, in relation to a person, for part 4.3A (Medical research matters)—see section 41A.
+medical research, in relation to a person, for part 4.3A (Medical research matters)—see section 41A.
+medical research matter, for a principal—see section 12A.
+medical research power of attorney, for a principal, for part 4.3A (Medical research matters)—see section 41A.
 mental health facility—see the Mental Health Act 2015, dictionary.
 personal care matter—see section 11.
 power of attorney—

@@ -10,6 +10,7 @@
 ## Part 4.3 Things attorneys can and cannot do
 ### Division 4.3.1 Things attorneys can and cannot do generally
 ### Division 4.3.2 Things attorneys can and cannot do under enduring powers of attorney
+## Part 4.3A Medical research matters
 ## Part 4.4 Obligations of attorneys and others
 ### Division 4.4.1 Obligations of all attorneys
 ### Division 4.4.2 Obligations of attorneys under enduring power of attorney—principal with impaired decision-making capacity

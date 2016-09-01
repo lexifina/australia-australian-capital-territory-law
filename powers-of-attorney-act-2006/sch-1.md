@@ -40,10 +40,10 @@ Island custom, known in the Torres Strait as Ailan Kastom—
   (b) includes any traditions, observances, customs and beliefs mentioned in paragraph (a) that relate to particular people, areas, objects or relationships.
 ## 1.10 Confidentiality
 An individual’s right to confidentiality of information about the individual must be respected.
-## 1.11 Health care
-## (1) An individual is entitled to have decisions about health care matters made by an attorney—
+## 1.11 Health care and medical research
+## (1) An individual is entitled to have decisions about a health care matter or a medical research matter made by an attorney—
 ## (a) in the way least restrictive of the individual’s rights and freedom of action; and
 ## (b) only if the exercise of power—
 ## (i) is, in the attorney’s opinion, necessary and appropriate to maintain or promote the individual’s health and wellbeing; or
 ## (ii) is, in all the circumstances, in the individual’s best interests.
-## (2) An individual’s wishes in relation to health care matters, and any information provided by the individual’s health care provider, must be taken into account when an attorney decides what is appropriate in the exercise of power for a health care matter.
+## (2) An individual’s wishes in relation to a health care matter or a medical research matter, and any information provided by the individual’s health care provider, must be taken into account when an attorney decides what is appropriate in the exercise of power for a health care matter or a medical research matter.
