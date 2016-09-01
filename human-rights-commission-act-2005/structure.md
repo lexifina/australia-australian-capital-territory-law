@@ -12,7 +12,7 @@
 ### Division 3.7A Public advocate
 ### Division 3.7B Victims of crime commissioner
 ### Division 3.9 Commission procedures
-### Division 3.10 Staff and consultants of commission
+### Division 3.10 Consultants of commission
 ## Part 4 Complaints
 ### Division 4.1 Making complaints
 ### Division 4.2 Dealing with complaints
