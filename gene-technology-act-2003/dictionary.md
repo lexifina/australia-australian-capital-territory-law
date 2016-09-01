@@ -2,8 +2,10 @@
 (see s 10 (1))
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+· administrative unit
 · exercise
 · function
+· public servant
 · State.
 Note 3 The definitions in this dictionary have equivalent definitions in the Commonwealth Act, s 10 (1).
 accredited organisation means an organisation accredited under division 7.3.
