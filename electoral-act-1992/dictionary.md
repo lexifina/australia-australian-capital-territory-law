@@ -14,11 +14,15 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · exercise
 · fail
 · function
+· head of service
 · home address
 · individual
 · lawyer
 · person (see s 160)
 · public holiday
+· public sector body
+· public sector standards commissioner
+· public service
 · quarter
 · reviewable decision notice
 · Self-Government Act
@@ -124,9 +128,9 @@ former MLA, for part 13 (Casual vacancies)—see section 190.
 general election means a general election of MLAs.
 gift, for part 14 (Election funding, expenditure and financial disclosure)—see section 198AA.
 government agency means—
-  (a) an administrative unit; or
-  (b) a Territory instrumentality; or
-  (c) a statutory office-holder and the staff assisting the statutory office-holder.
+  (a) the public service; or
+  (b) a public sector body; or
+  (c) a territory instrumentality.
 group, in relation to candidates in an election, means candidates whose names are grouped on the ballot papers in accordance with section 115 (Grouping of candidates’ names).
 hospital includes a convalescent home and an institution similar to a hospital or convalescent home.
 hour of nomination—see section 108.
