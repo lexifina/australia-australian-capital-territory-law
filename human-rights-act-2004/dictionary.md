@@ -9,6 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · individual
 · may (see s 146)
 · proceeding
+· public employee
+· public service
 · statutory instrument (see s 13).
 act, for part 5A (Obligations of public authorities), includes fail to act and propose to act.
 commission means the human rights commission.
