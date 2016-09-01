@@ -157,9 +157,11 @@ linked-jackpot arrangement means an arrangement under which 2 or more gaming mac
 local jurisdiction means a State or New Zealand.
 maintain a gaming machine includes repair, adjust or alter the gaming machine.
 maximum number, of authorisations, means the maximum number of authorisations for gaming machines that a licensee may have under an authorisation certificate.
-member, of a club, means—
-  (a) a member who, under the rules of the club, is required to pay fees; or
-  (b) a life member.
+member, of a club—
+  (a) means—
+    (i) a member who, under the rules of the club, is required to pay fees; or
+    (ii) a life member; but
+  (b) does not include a temporary member.
 minor licence amendment application, for part 2B (Licences and authorisations)—see section 31 (1).
 multi-user permit—see section 135.
 net revenue, of a licensee that is a club, means gross revenue derived by the licensee, less—
@@ -194,6 +196,7 @@ required documents, for an authorisation certificate application for class C gam
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
 secretary, in relation to a club, includes a person concerned in the management of the club.
 short-term approval, for a technician—see section 76 (3).
+signed-in guest, for a club—see section 54A.
 social impact assessment, for an authorisation certificate application, authorisation certificate amendment application, or application for an in-principle certificate of approval—see section 12 (1).
 statement of objects of a club, means—
   (a) for a company—the memorandum of the company; or
@@ -206,4 +209,5 @@ stored gaming machine, for division 6A.7 (Storage of authorisations and gaming m
 tax law—see the Taxation Administration Act 1999, section 4.
 technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
+temporary member, of a club—see section 54A.
 warning notice, for an associated organisation, for part 9 (Club administration)—see section 147B.
