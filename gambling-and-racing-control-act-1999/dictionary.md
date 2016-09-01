@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · exercise
 · found guilty
 · function
+· public servant
 · under.
 annual report means the report that the commission is required to prepare under the Annual Reports (Government Agencies) Act 2004.
 authorised officer means a person who is an authorised officer under section 20.
