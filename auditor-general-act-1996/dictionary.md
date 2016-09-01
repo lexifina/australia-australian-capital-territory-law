@@ -10,8 +10,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · exercise
 · fail
 · function
+· head of service
 · law, of the Territory
 · Office of the Legislative Assembly
+· public servant
 · Speaker
 · territory law
 · territory-owned corporation
