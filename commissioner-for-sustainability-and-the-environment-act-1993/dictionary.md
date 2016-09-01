@@ -2,15 +2,17 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· bankrupt or personally insolvent
-· Executive
-· exercise
-· function
-· Minister (see s 162)
-· penalty unit (see s 133)
-· sitting day
-· territory authority
-· the Territory.
+• bankrupt or personally insolvent
+• Executive
+• exercise
+• function
+• head of service
+• Minister (see s 162)
+• penalty unit (see s 133)
+• public servant
+• sitting day
+• territory authority
+• the Territory.
 agency means an administrative unit or a prescribed authority.
 authorised person means a person appointed by the commissioner to be an authorised person for this Act.
 commissioner means the Commissioner for Sustainability and the Environment appointed under section 4.
@@ -41,7 +43,7 @@ prescribed authority means—
   (c) subject to section 3 (2), the person holding or performing the duties of an office, other than the office of ombudsman, established by a law of the Territory; or
   (d) a person holding, or performing the duties of, an office declared by regulation to be an office the holder of which is a prescribed authority for this Act, being an office created by the Executive or by a Minister other than under a law of the Territory.
 principal officer means—
-  (a) in relation to an administrative unit—the Commissioner for Public Administration or the director-general of that unit; or
+  (a) in relation to an administrative unit—the head of service or the director-general of that unit; or
   (b) in relation to a prescribed authority—
     (i) if a regulation declares an office to be the principal office in relation to the authority—the person holding, or performing the duties of, that office; or
     (ii) in any other case—the person who constitutes that authority or a person acting in the person’s office or, if the authority is constituted by 2 or more people, the person who is entitled to preside at any meeting of the authority at which the person is present or a person acting in the person’s office.
