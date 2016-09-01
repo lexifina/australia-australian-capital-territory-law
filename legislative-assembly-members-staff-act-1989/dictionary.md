@@ -2,13 +2,13 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· Chief Minister
-· director-general (see s 163)
-· disallowable instrument
-· domestic partner (see s 169 (1))
-· individual
-· Minister
-· Speaker.
+• Chief Minister
+• director-general (see s 163)
+• disallowable instrument
+• domestic partner (see s 169 (1))
+• individual
+• Minister
+• Speaker.
 Assembly means the Legislative Assembly.
 classification—see the PSM Act, dictionary.
 commissioner—see the PSM Act, dictionary.
