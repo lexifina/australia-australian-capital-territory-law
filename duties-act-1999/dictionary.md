@@ -150,10 +150,6 @@ public unit trust scheme means any of the following unit trust schemes:
   (a) a listed trust;
   (b) a widely held trust.
 receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-recognised stock exchange means—
-  (a) the Australian Stock Exchange; or
-  (b) any other exchange that is a member of the World Federation of Exchanges; or
-  (c) a financial market that is declared to be a recognised stock exchange under section 252A.
 registered insurer means an insurer registered under chapter 8.4.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
