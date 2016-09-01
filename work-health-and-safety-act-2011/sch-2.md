@@ -150,7 +150,7 @@ Note 2 A person’s appointment also ends if the person resigns (see Legislation
 ## (c) to advise the Minister on any matter relevant to the operation of this Act and other laws relating to work safety;
 ## (d) the functions (if any) that are given to the commissioner under any other territory law.
 Note A provision of a law that gives an entity (including a person) a function also gives the entity the powers necessary and convenient to exercise the function (see Legislation Act, s 196 (1) and dict, pt 1, defs entity and function).
-## (2) In exercising a function mentioned in subsection (1) (a) to (c), neither the commissioner nor a member of the staff assisting the commissioner is subject to direction by the director-general.
+## (2) In exercising a function mentioned in subsection (1) (a) to (c), neither the commissioner nor a member of the commissioner’s staff is subject to direction by the director-general.
 ## 2.19 Retirement
 The Executive may, with the consent of the commissioner, retire the commissioner on the ground of physical or mental incapacity.
 ## 2.20 Removal of commissioner
@@ -170,8 +170,6 @@ The Executive may, with the consent of the commissioner, retire the commissioner
 ## (1) The Minister may, in writing, give directions to the commissioner in relation to the exercise of his or her functions, either generally or in relation to a particular matter.
 ## (2) The commissioner must comply with a direction given under subsection (1).
 ## (3) The Minister must present a copy of any direction under subsection (1) to the Legislative Assembly within 5 sitting days after the day it is given to the commissioner.
-## 2.23 Staff
-The staff assisting the commissioner are to be employed under the Public Sector Management Act 1994.
 ## 2.24 Delegation by commissioner
-The commissioner may delegate the commissioner’s functions under a territory law to a member of the staff assisting the commissioner.
+The commissioner may delegate the commissioner’s functions under a territory law to a member of the commissioner’s staff.
 Note For the making of delegations and the exercise of delegated functions, see the Legislation Act, pt 19.4.
