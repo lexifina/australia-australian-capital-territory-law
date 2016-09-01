@@ -15,7 +15,7 @@ authorised deposit-taking institution means an authorised deposit-taking institu
 Chief Minister means the Chief Minister for the ACT.
 COAG means the Council of Australian Governments.
 directorate banking account—see the Financial Management Act, dictionary.
-director-general means the person employed under the Public Sector Management Act 1994, section 28 or section 30 to exercise the functions of director-general in the administrative unit of which the ACT local hospital network directorate is part.
+director-general means the person engaged under the Public Sector Management Act 1994, section 31 (2) to exercise the functions of director-general in the administrative unit of which the ACT local hospital network directorate is part.
 Financial Management Act means the Financial Management Act 1996.
 function includes a power, authority or duty.
 health service—
