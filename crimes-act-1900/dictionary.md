@@ -18,6 +18,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · domestic partner (see s 169)
 · fail
 · fire and rescue service
+· head of service
 · health practitioner
 · indictable offence (see also s 190)
 · intersex person (see s 169B)
