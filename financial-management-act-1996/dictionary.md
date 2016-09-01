@@ -21,6 +21,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Office of the Legislative Assembly
 · officer of the Assembly
 · person
+· public employee
+· public servant
 · reviewable decision notice
 · Self-Government Act
 · territory-owned corporation
