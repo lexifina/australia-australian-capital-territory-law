@@ -8,8 +8,11 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · body
 · Corporations Act
 · director-general (see s 163)
+· head of service
 · Office of the Legislative Assembly
 · officer of the Assembly
+· public employee
+· public servant
 · Territory owned corporation
 · the Territory.
 board means the Australian Capital Territory Government Procurement Board established under section 5.
