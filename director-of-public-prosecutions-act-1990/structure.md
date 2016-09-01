@@ -5,5 +5,5 @@
 ### Division 2.3 Attorney-General
 ## Part 3 Director and members of the staff of the office
 ### Division 3.1 Director
-### Division 3.2 Members of the staff
+### Division 3.2 Staff of the office
 ## Part 4 Miscellaneous
