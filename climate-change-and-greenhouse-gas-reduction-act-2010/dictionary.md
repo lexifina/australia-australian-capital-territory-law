@@ -16,11 +16,17 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · notifiable instrument (see s 10)
 · person (see s 160)
 · public employee
+· public sector body
+· public service
 · regulation
+· territory instrumentality
 · territory law
 · year.
 council means the Climate Change Council established under section 16.
-government agency—see the Public Sector Management Act 1994, dictionary.
+government agency means—
+  (a) the public service; or
+  (b) a public sector body; or
+  (c) a territory instrumentality.
 greenhouse gas emissions means emissions of any of the following gases:
   (a) carbon dioxide;
   (b) methane;
