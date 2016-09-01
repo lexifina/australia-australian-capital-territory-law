@@ -13,7 +13,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · home address
 · month
 · person (see s 160)
-· public employee
 · registrar-general
 · under.
 airport land—see section 40B.
@@ -72,7 +71,6 @@ rates includes the total of—
   (a) costs and expenses reasonably incurred by the commissioner in attempting to recover the rates; and
   (b) interest payable in relation to the rates.
 rebate, for part 7 (Deferral and rebates)—see section 45.
-relevant date, for a parcel of land, means a date when a determination of the unimproved value of the parcel is or is to be made.
 residential land means—
   (a) rateable land leased for residential purposes only; or
   (b) rateable land leased for residential purposes and other purposes but used for residential purposes only; or
