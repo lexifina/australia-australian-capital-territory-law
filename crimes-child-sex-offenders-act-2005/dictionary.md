@@ -18,9 +18,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   · parent
   · police officer
   · prescribed
-· reviewable decision notice
+  · public service
+  · public sector body
+  · reviewable decision notice
   · State
-  · statutory office-holder
   · territory instrumentality.
 act includes omission.
 appealable decision, for part 5A.10 (Appeals to Supreme Court)—see section 132ZS.
