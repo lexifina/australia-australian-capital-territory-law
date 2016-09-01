@@ -4,9 +4,9 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · auditor-general
 · business day
-· commissioner for public administration
 · Executive
 · Legislative Assembly
+· public sector standards commissioner
 · Speaker.
 administration and procedure committee means the standing committee of the Legislative Assembly responsible for the administration and procedure of the Assembly.
 clerk means the person appointed as Clerk of the Legislative Assembly under section 9.
