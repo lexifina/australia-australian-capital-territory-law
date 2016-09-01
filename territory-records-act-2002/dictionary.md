@@ -4,13 +4,15 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · bankrupt or personally insolvent
-· director-general (see s 163)
 · document
 · entity
+· head of service
 · Minister (see s 162)
 · Office of the Legislative Assembly
 · officer of the Assembly
-· person (see s 160).
+· person (see s 160)
+· public servant
+· public service.
 accessible executive record, for part 3A (Executive records—access and release)—see section 31B.
 agency—see section 7.
 appointed member—see section 43 (b) (Membership of council).
