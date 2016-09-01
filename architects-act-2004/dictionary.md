@@ -2,16 +2,17 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· function
-· notifiable instrument (see s 10)
-· occupational discipline order
-· penalty unit (see s 133)
-· reviewable decision order
-· under.
+• ACAT
+• bankrupt or personally insolvent
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• function
+• notifiable instrument (see s 10)
+• occupational discipline order
+• penalty unit (see s 133)
+• public servant
+• reviewable decision order
+• under.
 architect—
   (a) for part 4 (Complaints)—see section 33.
   (b) for part 5 (Occupational discipline—architects)—see section 41.
