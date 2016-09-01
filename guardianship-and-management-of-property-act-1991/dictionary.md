@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · function
 · Magistrates Court
 · oath.
+approved, for medical research or low-risk research—see the Powers of Attorney Act 2006, section 41A.
 carer—
   (a) for the Act generally—see section 6; and
   (b) for part 2A (Consent to medical treatment without formal representation)—see section 32C.
@@ -32,11 +33,13 @@ impaired decision-making ability, for a person—see section 5.
 interested person, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
 interests, of a person—see section 5A.
 judicial officer means a judge of the Supreme Court or a magistrate.
+low-risk research, in relation to a person—see the Powers of Attorney Act 2006, section 41A.
 manager means a manager under any of the following sections:
 · section 8 (Appointment and powers of managers)
 · section 8AA (Manager for missing person’s property)
 · section 12 (Recognition of interstate etc guardians and managers)
 · section 32 (Surviving or substitute guardians etc).
+medical research, in relation to a person—see the Powers of Attorney Act 2006, section 41A.
 medical treatment, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 mental illness—see the Mental Health Act 2015, section 10.
 non-regenerative tissue—see the Transplantation and Anatomy Act 1978, dictionary.
