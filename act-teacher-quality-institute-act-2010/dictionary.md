@@ -23,6 +23,7 @@ director-general (see s 163)
 · penalty unit (see s 133)
 · person (see s 160)
 · police officer
+· public servant
 · reviewable decision notice
 · territory law
 · the Territory
