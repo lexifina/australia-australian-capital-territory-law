@@ -11,7 +11,6 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · function
 · night
 · penalty unit (see s 133)
-· public employee
 · reviewable decision notice
 · Territory land
 · the Territory.
