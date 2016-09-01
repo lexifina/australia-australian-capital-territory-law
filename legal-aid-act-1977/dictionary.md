@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · exercise
 · function
 · property
+· public sector standards commissioner
 · reviewable decision notice
 · sitting day
 · State
