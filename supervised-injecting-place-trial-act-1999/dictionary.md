@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Minister (see s 162)
 · notifiable instrument (see s 10)
 · penalty unit (see s 133)
+· public servant
 · regulations.
 advisory committee means the advisory committee established by section 18.
 chairperson means the chairperson of the advisory committee.
