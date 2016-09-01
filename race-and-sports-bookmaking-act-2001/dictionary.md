@@ -40,7 +40,6 @@ influential shareholder, of a corporation, means a person who—
 internally reviewable decision, for part 10 (Notification and review of decisions)—see section 82.
 internal reviewer, for part 10 (Notification and review of decisions)—see section 83.
 internal review notice, for part 10 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
-issue, of a licence, includes renewal of a licence.
 licence means any of the following licences:
   (a) a race bookmaking licence;
   (b) a race bookmaker’s agent licence;
@@ -68,7 +67,10 @@ racing club means a corporation that promotes or controls horse racing or dog ra
 register means the register kept under section 89 (Commission to keep register).
 reviewable decision, for part 10 (Notification and review of decisions)—see section 82.
 rules for sports bookmaking means the rules determined under section 23 (Rules for sports bookmaking).
-security guarantee—see section 92 (Meaning of suitability requirements and security guarantee).
+security guarantee—
+  (a) for a person who applies for, or holds, a race bookmaking licence—see section 4B; or
+  (b) for a person who applies for, or holds, a sports bookmaking licence—see section 92 (3); or
+  (c) for a person who applies for an approval in relation to a designated sports bookmaking venue under section 49 (Issue or refusal of approval for sports bookmaking venue)—see section 92 (4).
 sports bet means a bet on, or in relation to, a sports bookmaking event.
 sports bookmaker means the holder of a sports bookmaking licence.
 sports bookmaking—
