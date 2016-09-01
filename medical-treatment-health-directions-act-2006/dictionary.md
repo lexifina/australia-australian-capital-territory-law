@@ -2,10 +2,10 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Act
-· doctor
-· nurse
-· power.
+• Act
+• doctor
+• nurse
+• power.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 decision-making capacity—see the Powers of Attorney Act 2006, section 9 (1).
 disability care means care that is provided to a person with a disability in a residential facility in which the person is also provided with accommodation that includes—
