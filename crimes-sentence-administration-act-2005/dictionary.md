@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · fail
 · found guilty
 · function
+· head of service
 · judge
 · lawyer
 · legal practitioner
