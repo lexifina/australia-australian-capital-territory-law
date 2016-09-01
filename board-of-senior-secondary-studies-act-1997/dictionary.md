@@ -8,7 +8,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • establish
 • exercise
 • function
+• head of service
 • month
+• public servant
 • reviewable decision notice.
 accreditation guidelines—see section 5A (a) (Additional functions about accreditation of courses).
 accredited course means a course accredited under section 21 (Board may initiate accreditation of course) or section 22 (Application for accreditation of course).
