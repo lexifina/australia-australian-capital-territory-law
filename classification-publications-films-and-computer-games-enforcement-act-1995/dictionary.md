@@ -2,16 +2,16 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-ACAT
-adult
-· commissioner for fair trading
-director-general (see s 163)
-exercise
-function
-individual
-reviewable decision notice
-the Territory
-under.
+• ACAT
+• adult
+• commissioner for fair trading
+• director-general (see s 163)
+• exercise
+• function
+• individual
+• reviewable decision notice
+• the Territory
+• under.
 acceptable proof of age, in relation to a person, means documentary evidence that might reasonably be accepted as applying to the person and as showing that the person is an adult.
 advertisement—see the Commonwealth Act, section 5 (Definitions).
 advertising scheme means the scheme determined from time to time under the Commonwealth Act, section 31 (1).
