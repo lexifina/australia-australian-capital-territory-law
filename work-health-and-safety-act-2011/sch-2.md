@@ -23,7 +23,8 @@ Note A provision of a law that gives an entity (including a person) a function a
 ## (e) the operation of the Workers Compensation Act 1951;
 ## (f) the approval of a protocol or an amendment to a protocol under the Workers Compensation Act 1951;
 ## (g) the provision of education and training in relation to workers’ compensation;
-## (h) the operation of the Dangerous Substances Act 2004.
+## (h) the operation of the Dangerous Substances Act 2004;
+  (i) the operation of the Workplace Privacy Act 2011.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
 ## Division 2.1.2 Constitution and meetings
 ## 2.3 Membership
