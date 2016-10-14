@@ -11,4 +11,5 @@
 ### Division 4.4 Reporting on covert surveillance authority
 ### Division 4.5 Covert surveillance records
 ## Part 5 Prohibited surveillance
+## Part 5A Enforcement
 ## Part 6 Miscellaneous

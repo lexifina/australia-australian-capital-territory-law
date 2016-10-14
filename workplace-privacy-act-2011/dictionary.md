@@ -31,6 +31,7 @@ tearoom, recreation room
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 optical surveillance device—see section 11.
 prohibited surveillance means surveillance prohibited under part 5.
+regulator—see the Work Health and Safety Act 2011, dictionary.
 surveillance—
   (a) see section 11; or
   (b) for part 3 (Notified surveillance)—see section 12.
