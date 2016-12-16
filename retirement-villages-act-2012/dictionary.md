@@ -44,10 +44,10 @@ community title scheme—see the Community Title Act 2001, dictionary.
 company title scheme means a scheme under which a group of adjoining or adjacent premises (including residential premises) is owned or leased by a corporation each of whose shareholders has, because of the shareholder’s shares, an exclusive right (under a lease or otherwise) to occupy 1 or more of the residential premises.
 condition report—see section 59 (1).
 contract for the sale, of residential premises occupied under a company title scheme—see section 9.
-CPI means the Consumer Price Index (All Groups) for Canberra issued by the Australian statistician.
 departure fee—see section 214.
 development approval—see the Planning and Development Act 2007, dictionary.
 disclosure statement means a statement mentioned in section 24.
+disputes committee—see section 175A.
 end of the settling-in period, for a village contract, for division 5.2 (Settling-in period for residents)—see section 71.
 financial year, for a retirement village, means the period fixed under section 134.
 former occupant, of a retirement village—
@@ -104,7 +104,7 @@ resident, of a retirement village—
     (iii) a person mentioned in section 15A (1) (a), (b) or (c) (Application to residents and operators of former retirement villages);
     (iv) for part 6 (General management of retirement villages)—see section 77A;
     (v) for part 7 (Financial management of retirement villages)—see section 133A;
-    (vi) for part 8 (Disputes)—see section 174A;
+    (vi) for part 8 (except division 8.1A)—see section 174A;
     (vii) for division 10.5 (Sale or letting of premises by certain residents)—see section 221A.
 residential aged care facility means a residential facility that provides residential care within the meaning of the Aged Care Act 1997 (Cwlth), section 41-3 (Meaning of residential care) to residents at the facility.
 residential premises means premises or part of premises (including any land occupied with the premises) used or intended to be used as a place of residence.

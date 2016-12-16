@@ -21,7 +21,8 @@
 ### Division 7.6 Surplus or deficit of accounts
 ## Part 8 Disputes
 ### Division 8.1 Preliminary
-### Division 8.2 Dispute resolution
+### Division 8.1A Dispute resolution—disputes committee
+### Division 8.2 Dispute resolution—ACAT
 ### Division 8.3 The ACAT
 ## Part 9 Ending residence contracts
 ### Division 9.1 General principles about ending residence contracts
@@ -43,3 +44,4 @@
 ## Part 12 Administration
 ## Part 13 Miscellaneous
 ## Part 20 Transitional
+## Part 21 Transitional—Retirement Villages Amendment Act 2016
