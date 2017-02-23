@@ -38,7 +38,7 @@ authorised person means an authorised person under section 123, and includes the
 breeding licence—see section 72A.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
 connected with an offence, for division 9.2 (Powers of authorised people)—see section 126.
-dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Offences of attacking or harassing).
+dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Dog attacks person or animal causing serious injury).
 dangerous dog licence means a licence under section 25 (1) (Dangerous dog licences—approval or refusal).
 deputy registrar means a deputy registrar under section 122.
 de-sex, for part 3 (Dogs and cats)—see section 73.
