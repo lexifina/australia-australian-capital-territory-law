@@ -2,16 +2,17 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Act (see s 7)
-· emergency service
-· entity
-· foreign country
-· individual
-· may (see s 146)
-· proceeding
-· public employee
-· public service
-· statutory instrument (see s 13).
+• Act (see s 7)
+• emergency service
+• entity
+• foreign country
+• individual
+• may (see s 146)
+• Minister (see s 162)
+• proceeding
+• public employee
+• public service
+• statutory instrument (see s 13).
 act, for part 5A (Obligations of public authorities), includes fail to act and propose to act.
 commission means the human rights commission.
 conduct includes omission.
