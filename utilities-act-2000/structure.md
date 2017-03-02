@@ -60,4 +60,3 @@
 ## Part 15 Vicarious liability
 ## Part 16 Miscellaneous
 ## Part 18 Transitional—National Energy Retail Law
-## Part 19 Transitional—Utilities (Technical Regulation) Act 2014
