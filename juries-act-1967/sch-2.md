@@ -2,7 +2,7 @@
 (see s 11)
 ## Part 2.1 Exempt people
 column 1 item | column 2 exempt people
-1 | a person exempt from serving as a juror under— the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or the Navigation Act 2012 (Cwlth), section 89; or the Air Navigation Regulations 1947 (Cwlth), regulation 150
+1 | a person exempt from serving as a juror under— the Jury Exemption Act 1965 (Cwlth), section 4 or regulations under that section; or the Navigation Act 2012 (Cwlth), section 89
 2 | a magistrate or coroner
 3 | an employee of the government of a foreign country or of an international organisation
 4 | the official secretary to the Governor-General
@@ -32,7 +32,8 @@ column 1 item | column 2 people who may claim exemption
 3 | a professor, lecturer, or school principal or teacher, engaged in full-time teaching of organised classes at a university, college or school
 4 | an editor of a newspaper
 5 | a practising nurse, practising enrolled nurse or practising midwife
-6 | a household officer or member of staff of the Governor-General
-7 | a person who is 60 years old or older
-8 | a person who is totally or partially blind
-9 | a person who is totally or partially deaf
+6 | a person regularly employed by an airline in the capacity of operating crew
+7 | a household officer or member of staff of the Governor-General
+8 | a person who is 60 years old or older
+9 | a person who is totally or partially blind
+10 | a person who is totally or partially deaf
