@@ -2,17 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· chief police officer
-· child
-· exercise
-· function
-· home address
-· human rights commissioner
-· in relation to
-· intersex person (see s 169B)
-· legal aid commission
-· public advocate
-· transgender person (see s 169A (1) and (2)).
+• chief police officer
+• child
+• exercise
+• function
+• home address
+• human rights commission
+• human rights commissioner
+• in relation to
+• intersex person (see s 169B)
+• legal aid commission
+• public advocate
+• transgender person (see s 169A (1) and (2)).
 Commonwealth Criminal Code means the Criminal Code Act 1995 (Cwlth), schedule.
 corresponding preventative detention law—see section 9.
 corresponding preventative detention order—see section 9.
