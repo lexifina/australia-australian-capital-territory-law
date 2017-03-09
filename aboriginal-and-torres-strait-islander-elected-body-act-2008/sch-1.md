@@ -143,11 +143,11 @@ substitute
   (b) must include the official mark approved under the Electoral Act, section 340A (Approved forms) for section 114 (3) of that Act; and
   (c) must include the year of the election; and
   (d) must include the following words:
-  · ‘Ballot paper’
-  · ‘Aboriginal and Torres Strait Islander Elected Body ACT’
-  · ‘Election of 7 representatives’
-  · ‘Number seven boxes from 1 to 7 in the order of your choice’
-  · if there are more than 8 candidates—‘You may then show as many further preferences as you wish by writing numbers from 8 onwards in the other boxes’.
+  • ‘Ballot paper’
+  • ‘Aboriginal and Torres Strait Islander Elected Body ACT’
+  • ‘Election of 7 representatives’
+  • ‘Number seven boxes from 1 to 7 in the order of your choice’
+  • if there are more than 8 candidates—‘You may then show as many further preferences as you wish by writing numbers from 8 onwards in the other boxes’.
 Note If a form is approved under s 34 for this provision, the form must be used.
 (3) An approval under subsection (2) (b) is a notifiable instrument.
 Note A notifiable instrument must be notified under the Legislation Act.
@@ -168,7 +168,7 @@ omit
 [1.27] Section 118
 substitute
 ## 118 Draw for positions on ballot papers
-The commissioner must determine by lot the order in which the names of candidates for an ATSIEB election are to appear on the ballot paper, as soon as practicable after 12 noon on the last Wednesday before the polling start day for the election.
+The commissioner must determine by lot the order in which the names of candidates for an ATSIEB election are to appear on the ballot paper, as soon as practicable after the nominations for the candidates are declared.
 Note The commissioner determines the positions by lot if the commissioner determines the positions in accordance with an approval in force under the Electoral Act, s 125.
 [1.28] Polling places and scrutiny centres Section 119 (1) (a)
 substitute
@@ -282,10 +282,10 @@ in division 10.3, insert
   (b) to the commissioner not later than 3 business days after the polling close day for the election.
 Examples—evidence that person lives in the ACT
 one of the following documents, if it states the person’s name and an ACT address for the person:
-· a driver licence
-· vehicle registration
-· a contract of purchase or current lease for place of residence
-· a utility account statement (electricity, gas, telephone or water) paid within 3 months before the relevant ATSIEB election
+• a driver licence
+• vehicle registration
+• a contract of purchase or current lease for place of residence
+• a utility account statement (electricity, gas, telephone or water) paid within 3 months before the relevant ATSIEB election
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) If the person gives the issuing officer evidence that the person lives in the ACT, the issuing officer must—
   (a) record the details of the evidence; and
@@ -428,8 +428,8 @@ Note A notifiable instrument must be notified under the Legislation Act.
   (b) the number of votes received by each candidate.
 (2) The commissioner must make the report available to the public during ordinary office hours.
 Examples
-· at the office of the commissioner
-· on the commissioner’s website
+• at the office of the commissioner
+• on the commissioner’s website
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## Part 1.5 Modifications of pt 13 (Casual vacancies)
 [1.71] Section 190, new definitions

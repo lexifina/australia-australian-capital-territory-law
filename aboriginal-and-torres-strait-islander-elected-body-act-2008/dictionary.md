@@ -2,27 +2,27 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· administrative unit
-· appoint
-· bankrupt or personally insolvent
-· body
-· business day
-· director-general (see s 163)
-· electoral commission
-· electoral commissioner
-· Executive
-· financial year
-· head of service
-· indictable offence (see s 190)
-· Minister (see s 162)
-· modification
-· must (see s 146)
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· public holiday
-· public sector body
-· sign.
+• ACT
+• administrative unit
+• appoint
+• bankrupt or personally insolvent
+• body
+• business day
+• director-general (see s 163)
+• electoral commission
+• electoral commissioner
+• Executive
+• financial year
+• head of service
+• indictable offence (see s 190)
+• Minister (see s 162)
+• modification
+• must (see s 146)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• public holiday
+• public sector body
+• sign.
 Aboriginal or Torres Strait Islander person means a person who—
   (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
   (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
