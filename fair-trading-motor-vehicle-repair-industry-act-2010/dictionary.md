@@ -4,9 +4,10 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · Australian Consumer Law (ACT)
+· Australian Criminal Intelligence Commission
 · Corporations Act
-· CrimTrac
 · entity
+· found guilty
 · Minister (see s 162)
 · occupational discipline order
 · reviewable decision notice
@@ -23,8 +24,8 @@ licence number—see section 14 (d).
 licensee, for part 4 (Occupational discipline)—see section 31.
 motor vehicle—see the Sale of Motor Vehicles Act 1977, dictionary.
 motor vehicle repair work—see section 6 (2) and (3).
-police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
-  (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
+police certificate, for a person, means a written statement by the Australian Federal Police or the Australian Criminal Intelligence Commission indicating—
+  (a) whether, according to the records held by the Australian Federal Police or the Australian Criminal Intelligence Commission, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
