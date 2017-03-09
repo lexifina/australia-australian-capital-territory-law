@@ -6,16 +6,15 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act
 · adult
 · Australian Consumer Law (ACT)
+· Australian Criminal Intelligence Commission
 · Australian driver licence
 · bankrupt or personally insolvent
 · building code
-· business day
 · chief officer (fire and rescue service)
 · chief police officer
 · commissioner for fair trading
 · corporation
 · Corporations Act
-· CrimTrac
 · director-general (see s 163)
 · planning and land authority
 · police officer.
@@ -106,6 +105,7 @@ licensee—
   (a) means a person who holds a licence; or
   (b) for part 11 (Complaints and occupational discipline)—see section 174.
 liquor—see section 11.
+liquor advisory board means the liquor advisory board established under section 215.
 liquor guidelines—see section 223 (1).
 low-alcohol liquor means a drink that is not liquor but contains more than 0.5% by volume of ethanol.
 maintain, for part 16A (Criminal intelligence)—see section 222A.
@@ -123,13 +123,13 @@ on licence—see section 18.
 outdoor eating or drinking place—see the Smoke-Free Public Places Act 2003, section 9A.
 permanent alcohol-free place—see section 198 (1).
 permit—see section 47.
-permit-holder, for part 11 (Complaints and occupational discipline)—see section 175.
+permit-holder means a person who holds a permit mentioned in part 3 (Liquor permits).
 permitted premises means premises that are the subject of a permit.
 permitted times, for the sale of liquor at permitted premises, means the times stated in the permit for the sale of liquor at the premises.
 person—a reference to a person in relation to a non-commercial permit includes a reference to a non-profit organisation.
 personal information notice—see section 71.
-police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
-  (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
+police certificate, for a person, means a written statement by the Australian Federal Police or the Australian Criminal Intelligence Commission indicating—
+  (a) whether, according to the records held by the Australian Federal Police or the Australian Criminal Intelligence Commission, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
@@ -154,7 +154,7 @@ registered training organisation, for division 12.1 (Approval to provide RSA tra
 relevant premises, for division 2.4 (Licences—public consultation)—see section 33.
 responsible person, for premises, for part 4 (Suitability of people and premises for licences and permits)—see section 74.
 restaurant and cafe licence—see section 24.
-reviewable decision, for part 14 (Notification and review of decisions)—see section 220.
+reviewable decision, for part 16 (Notification and review of decisions)—see section 220.
 risk-assessment management plan, for licensed premises or permitted premises—see section 88.
 RSA certificate, for a person—see section 193.
 RSA training course approval, for division 12.1 (Approval to provide RSA training courses)—see section 189.
