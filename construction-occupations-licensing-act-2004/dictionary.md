@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · director-general (see s 163)
 · document
 · entity
+· found guilty
 · Legislation Act
 · occupational discipline order
 · reviewable decision notice
@@ -18,6 +19,7 @@ AS 3500 means the following standards, as in force from time to time:
   (a) AS 3500.1.1;
   (b) AS 3500.2.1;
   (c) AS/NZS 3500.
+Note AS 3500 may be purchased at www.standards.org.au.
 authorised action, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 authorised licensee, for part 4 (Rectification orders and other obligations on licensees)—see section 33.
 builder—see section 8.
@@ -42,7 +44,7 @@ construction service—see section 6 (2).
 corresponding law means—
   (a) a law of a State corresponding, or substantially corresponding, to this Act; or
   (b) a law of a State prescribed by regulation as a corresponding law for this Act.
-demerit disciplinary ground, for part 8 (Demerit points system)—see section 89.
+demerit ground for occupational discipline, for part 8 (Demerit points system)—see section 89.
 demerit points register, for part 8 (Demerit points system)—see section 89.
 disciplinary incident, for part 8 (Demerit points system)—see section 89.
 drainer—see section 10.
@@ -54,7 +56,10 @@ energy efficiency rating statement—see section 123AC.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
+exemption assessment service—see section 9 (2).
 former licensee means an entity that has been a licensee.
+gas appliance service—see section 12A (2).
+gas appliance worker—see section 12A (1).
 gasfitter—see section 12.
 gasfitting service—see section 12 (2).
 ground for occupational discipline—see section 55.
@@ -66,13 +71,14 @@ licensee—
   (a) for division 5.2 (Occupational discipline—licensees)—see section 54; and
   (b) for part 8 (Demerit points system)—see section 89.
 licence number, for a licence—see section 23 (1) (c).
-mandatory requirements, for division 3.2 (Nominees)—see section 27.
-nominee, of a corporation or partnership, means a person who is appointed as a nominee of the corporation or partnership under section 28 (Nominees of corporations and partnerships).
+mandatory requirement, for division 3.2 (Nominees)—see section 27.
+nominee, of a corporation or partnership, means a person who is appointed as a nominee of the corporation or partnership under section 28.
 occupational discipline means—
   (a) something done by the ACAT by an occupational discipline order; or
   (b) something done by the registrar in accordance with an occupational discipline order; or
   (c) something done by the registrar under section 95.
-occupation class means a class into which a construction occupation is divided under section 15.
+occupation class means a class into which a construction occupation is divided under a regulation.
+Note Section 15 provides that a regulation may divide a construction occupation into classes.
 occupier, of premises, includes a person believed on reasonable grounds to be an occupier of the premises.
 officer, for part 6 (Enforcement)—see section 75.
 operational Act—see section 16.
@@ -88,7 +94,6 @@ register means the register kept under section 107.
 registrar—see section 103.
 reviewable decision, for part 11A (Notification and review of decisions)—see section 123A.
 sanitary drainage service—see section 10 (2).
-storey—see the Building Act 2004, dictionary.
 supervise includes direct.
 works assessment service—see section 14A (2).
 works assessment work means—
