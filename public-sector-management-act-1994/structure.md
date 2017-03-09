@@ -26,6 +26,7 @@
 ## Part 8 The public sector
 ### Division 8.1 Public Sector Standards Commissioner
 ### Division 8.2 Public sector members
+### Division 8.3 Calvary public hospital staff
 ## Part 9 Review and appeal
 ## Part 10 Miscellaneous
 ## Part 18 Transitional
