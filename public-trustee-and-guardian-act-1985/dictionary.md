@@ -2,20 +2,21 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· appoint
-· bankrupt or personally insolvent
-· establish
-· exercise
-· function
-· home address
-· liability
-· month
-· power
-· public servant
-· tribunal
-· will.
+• appoint
+• bankrupt or personally insolvent
+• establish
+• exercise
+• found guilty
+• function
+• home address
+• liability
+• month
+• power
+• public servant
+• tribunal
+• will.
 Administration Act means the Administration and Probate Act 1929.
-board means the Public Trustee and Guardian Investment Board.
+board means the Public Trustee and Guardian Investment Board established under section 46.
 common fund means a common fund established under section 55.
 court means the Supreme Court.
 deputy public trustee and guardian means a deputy public trustee and guardian under section 6.
