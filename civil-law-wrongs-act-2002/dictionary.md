@@ -12,7 +12,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • domestic partner (see s 169)
 • entity
 • foreign country
-• home address
 • indictable offence (see s 190)
 • lawyer
 • Minister (see s 162)
@@ -52,7 +51,7 @@ complying notice of claim, for chapter 5 (Personal injuries claims—pre-court p
 concurrent wrongdoer, for chapter 7A (Proportionate liability)—see section 107D.
 consequential mental harm, for part 3.2 (Mental harm)—see section 32.
 consumer claim, for chapter 7A (Proportionate liability)—see section 107C.
-contribution notice, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 57 (Respondent may add someone else as contributor).
+contribution notice, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 57.
 contributor, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 corresponding law, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 costs—
@@ -118,10 +117,11 @@ mediation session, for part 15.1 (Mediation and neutral evaluation)—see sectio
 member, of a dead person’s family, for part 3.1 (Wrongful act or omission causing death)—see section 23.
 mental harm, for part 3.2 (Mental harm)—see section 32.
 motor accident means an accident caused by, or arising out of the use of, a motor vehicle.
-motor vehicle means—
-  (a) a motor vehicle under the Road Transport (General) Act 1999; or
-  (b) a vehicle operated on a railway or other fixed track;
-and, for part 11.1 (Traveller accommodation providers liability), includes a boat, caravan and trailer attached to a motor vehicle.
+motor vehicle—
+  (a) means—
+    (i) a motor vehicle under the Road Transport (General) Act 1999; or
+    (ii) a vehicle operated on a railway or other fixed track; and
+  (b) for part 11.1 (Traveller accommodation providers liability), includes a boat, caravan or trailer attached to a motor vehicle.
 negligence—
   (a) for part 3.2 (Mental harm)—see section 32; and
   (b) for chapter 4 (Negligence)—see section 40.
@@ -155,7 +155,7 @@ reasonable prospects of success, for part 14.2 (Costs in damages claims if no re
 recreational drug means a drug consumed voluntarily for non-medicinal purposes, and includes alcohol.
 respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
-schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1) (Liability of carriers for certain goods worth more than $20).
+schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1).
 scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 substantially true, for chapter 9 (Defamation)—see section 116.
 this jurisdiction—

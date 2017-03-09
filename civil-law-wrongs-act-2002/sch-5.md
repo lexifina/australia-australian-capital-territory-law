@@ -16,7 +16,7 @@ Any person may make a complaint (including the occupational association and the 
 (3) The occupational association must notify the council of each complaint made to it (other than a complaint made by the council).
 ## 5.6 What happens after a complaint is made?
 (1) The occupational association must consider a complaint as soon as practicable after the complaint is made to it or notified to it by the council.
-(2) The association may do any 1 or more of the following:
+(2) The association may do 1 or more of the following:
   (a) require the complainant to provide further particulars of the complaint;
   (b) carry out an investigation into the complaint;
   (c) attempt to resolve the complaint by conciliation;
@@ -25,7 +25,7 @@ Any person may make a complaint (including the occupational association and the 
 Note An example is part of the code, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) The occupational association is bound by the rules of natural justice in conducting a hearing into the complaint.
 ## 5.7 What action may be taken after a hearing into a complaint?
-(1) After an occupational association has conducted a hearing into a complaint against a person, it may, if it finds the complaint substantiated, do any 1 or more of the following:
+(1) After an occupational association has conducted a hearing into a complaint against a person, it may, if it finds the complaint substantiated, do 1 or more of the following:
   (a) caution or reprimand the person;
   (b) impose conditions relating to the carrying out of the person’s occupation;
   (c) require the person to complete specified courses of training or instruction;
@@ -37,6 +37,7 @@ Note An example is part of the code, is not exhaustive and may extend, but does 
 ## 5.8 Notices of decisions
 (1) Within 30 days after the day a decision is made by an occupational association about a complaint, the complainant and the person against whom the complaint is made must be given a written statement of the decision.
 (2) The statement must include the reasons for the decision.
+Note The Legislation Act, s 179 deals with the information that must be included in a statement of reasons.
 ## 5.9 What rights of representation do parties to a complaint have?
 The complainant and the person about whom the complaint is made are not entitled to legal representation during attempts to resolve the complaint by conciliation but are entitled to legal representation during a hearing into the complaint.
 ## 5.10 How may occupational association’s functions under code be exercised?
