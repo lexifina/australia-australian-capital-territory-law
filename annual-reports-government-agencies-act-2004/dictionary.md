@@ -19,14 +19,15 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · public sector standards commissioner
 · public service
 · sitting day
-· Territory owned corporation.
+· territory instrumentality
+· territory-owned corporation
 annual report means—
   (a) a director-general annual report; or
   (b) an Office of the Legislative Assembly annual report; or
   (c) an officer of the Assembly annual report; or
   (d) a public sector body annual report; or
   (e) a state of the service report; or
-  (f) a territory-owned corporation annual report.
+  (f) a territory entity annual report.
 annual report direction—see section 9.
 director-general annual report—see section 6.
 Office of the Legislative Assembly annual report—see section 7B.
@@ -41,7 +42,8 @@ responsible Minister—
   (a) for a director-general annual report—see section 10; or
   (b) for a public sector body annual report—see section 11; or
   (c) for a state of the service report—see section 5; or
-  (d) for a territory-owned corporation annual report—see section 12.
+  (d) for a territory entity annual report—see section 12.
 Speaker—see section 13 (6) (Responsible Minister to present annual report).
 state of the service report—see section 5.
-territory-owned corporation annual report—see section 7C.
+territory entity—see section 7C.
+territory entity annual report—see section 7D.
