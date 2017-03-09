@@ -12,7 +12,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · financial year
 · found guilty
 · in relation to
-· law, of the Territory
 · Magistrates Court
 · penalty unit (see s 133)
 · proceeding
@@ -61,7 +60,6 @@ committee—
   (b) for schedule 3 (DI fund advisory committee)—see schedule 3, section 3.1.
 compensable injury means an injury in relation to which compensation is payable under this Act.
 compensation means an amount payable under this Act in relation to an injury to, or the death of, a person.
-compensation for costs, for a worker, means compensation to which the worker is entitled under part 4.5 (Compensation for medical treatment, damage and other costs).
 compulsory insurance policy—see section 144.
 connected, for chapter 10 (Inspection)—see section 187.
 continental shelf, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
@@ -83,7 +81,6 @@ DI fund manager means the DI fund manager appointed under section 166C.
 disease includes any physical or mental ailment, disorder, defect or morbid condition, whether of sudden or gradual development, and also includes the aggravation, acceleration or recurrence of a pre-existing disease.
 domestic partner, of a worker who has died, means the person who was the worker’s domestic partner when the worker died.
 Note This definition qualifies the meaning of domestic partner given by the Legislation Act, s 169.
-earned premium, for a period, means the total billed underwritten premium for compulsory insurance policies for the period.
 employer—
   (a) for this Act generally—see section 5; and
   (b) for part 4.2A (Employment connection with ACT or State)—see section 36A (2); and
@@ -168,7 +165,6 @@ protocol—
   (a) for this Act generally—means a protocol, approved by regulation, prescribing how certain activities under this Act should be performed; and
   (b) for chapter 7 (Vocational rehabilitation)—see section 141.
 receiver and manager—see the Corporations Act, section 9.
-recognised auditor, for the DI fund, means an auditor who is not employed or engaged by the DI fund.
 registered agreement means an agreement registered under section 79.
 rehabilitation services includes training and retraining services.
 return-to-work coordinator, for part 5.4A (Return-to-work coordinators)—see section 103A.
@@ -200,6 +196,5 @@ worker—
   (c) for part 9.2 (Choice of law)—see section 182A (1).
 workers compensation and safety legislation means this Act and the Work Health and Safety Act 2011.
 workers compensation law means a law of a place that sets up a statutory scheme for the compensation of injuries arising out of or in the course of employment.
-work injury—see the LTCS Act, dictionary.
 workplace injury, for chapter 5 (Injury management process)—see section 86.
 work-related injury, for part 9.2 (Choice of law)—see section 182A (2) and (3).
