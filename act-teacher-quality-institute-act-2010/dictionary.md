@@ -2,32 +2,29 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· adult
-· Australia
-· Australian citizen
-· change
-· contravene
-· Criminal Code
-· CrimTrac
+• ACAT
+• ACT
+• Australia
+• Australian citizen
+• change
+• contravene
+• Criminal Code
 director-general (see s 163)
-· disallowable instrument (see s 9)
-· document
-· entity
-· function
-· home address
-· Legislation Act
-· Minister (see s 162)
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· person (see s 160)
-· police officer
-· public servant
-· reviewable decision notice
-· territory law
-· the Territory
-· writing.
+• disallowable instrument (see s 9)
+• document
+• entity
+• function
+• home address
+• Legislation Act
+• Minister (see s 162)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• person (see s 160)
+• public servant
+• reviewable decision notice
+• territory law
+• the Territory
+• writing.
 accreditation includes renewed accreditation.
 accreditation guidelines––see section 75.
 accredited education program means an education program accredited under division 7.2.
@@ -46,7 +43,7 @@ education programs register––see section 71.
 education provider means a person who provides, or offers to provide, an education program.
 full registration means full registration under part 4.
 government school means a school, pre-school or school-related institution established under the Education Act 2004, section 20.
-institute––see section 10.
+institute means the ACT Teacher Quality Institute established under section 10.
 institute board––see section 14.
 non-government school––see the Education Act 2004, dictionary.
 permit card––see section 40 (2).
