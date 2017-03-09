@@ -22,6 +22,7 @@ Note 3 The Road Transport (Third-Party Insurance) Act 2008 contains definitions 
 · licensed insurer
 · motor accident (see s 7)
 · motor accident claim
+· nominal defendant
 · non-economic loss (see s 156B)
 · personal injury (see s 6)
 · responsible person, for a vehicle.
@@ -79,7 +80,9 @@ LTCS fund banking account, for division 10.1 (Funding the LTCS scheme)—see sec
 LTCS fund investment guidelines, for division 10.1 (Funding the LTCS scheme)—see section 81.
 LTCS guidelines means guidelines made by the LTCS commissioner under section 93.
 LTCS levy, for division 10.1 (Funding the LTCS scheme)—see section 84.
-LTCS scheme means the scheme provided for by this Act for the lifetime care and support of people catastrophically injured in motor accidents.
+LTCS scheme means the scheme provided for by this Act for the lifetime care and support of people who have suffered a catastrophic injury—
+  (a) in a motor accident; or
+  (b) arising out of, or in the course of, their employment.
 motor accident injury, in relation to a person, means an injury the person has as a result of a motor accident.
 NSW LCS authority means the Lifetime Care and Support Authority of New South Wales, constituted under the Motor Accidents (Lifetime Care and Support) Act 2006 (NSW), section 33.
 participant, in the LTCS scheme, means a person accepted as an interim or lifetime participant in the scheme under section 19.
