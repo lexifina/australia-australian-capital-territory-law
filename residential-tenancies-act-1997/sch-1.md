@@ -223,7 +223,7 @@ Access in accordance with tenancy agreement
     (b) the lessor has previously notified the tenant in writing of the lessor’s intention to sell.
 ## Access for making or inspecting repairs
   82 (1) On giving the tenant 1 week notice (or such other agreed period), the lessor may enter the premises at a reasonable time, having regard to the interests of the tenant and the lessor, for the purpose of making or inspecting repairs.
-  (2) For urgent repairs, the lessor must, give reasonable notice and enter the premises at a reasonable time having regard to the interests of the tenant and the lessor.
+  (2) For urgent repairs, the lessor must give reasonable notice and enter the premises at a reasonable time having regard to the interests of the tenant and the lessor.
 ## Notice to vacate by lessor
   83 The notice to vacate must be in writing, in the form required by the Residential Tenancies Act, and must include the following information:
     (a) the address of the premises;
@@ -241,7 +241,7 @@ Access in accordance with tenancy agreement
     (b) the premises are not available or will not be available because of Government action within a period of 4 weeks of the date that notice is given.
   87 (1) In either case the lessor must give not less than 1 week’s notice of termination of the tenancy, and the rent abates from the date that the premises are uninhabitable.
   (2) The tenant may give 2 days notice of termination of the tenancy.
-  (3) If neither the lessor or the tenant give notice of termination of the tenancy, the rent abates for the period that the premises are unable to be used for habitation, but the tenancy resumes when they are able to be used again.
+  (3) If neither the lessor nor the tenant give notice of termination of the tenancy, the rent abates for the period that the premises are unable to be used for habitation, but the tenancy resumes when they are able to be used again.
 Termination of tenancy by tenant
 ## Termination on or after end of fixed term
   88 (1) The tenant may give notice to terminate a periodic tenancy by giving the lessor not less than 3 weeks notice of the date when the tenant intends to vacate the premises.

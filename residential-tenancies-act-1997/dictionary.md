@@ -27,7 +27,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · month
 · must
 · notifiable instrument (see s 10)
-· oath
 · penalty unit (see s 133)
 · police officer
 · prescribed
@@ -67,7 +66,6 @@ occupancy dispute—see section 73.
 occupancy principles—see section 71E.
 occupant—see section 71B.
 out of date, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
-periodic agreement means a residential tenancy agreement that is not a fixed term agreement.
 personal information, for part 7 (Residential tenancy databases)—see section 87.
 premises includes—
   (a) any habitable structure, whether it is fixed to the land or not; and
