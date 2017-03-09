@@ -22,13 +22,9 @@ customer contract, for a regulated utility service, includes—
 dam, for part 8 (Dams safety)—see section 57.
 dams register, for part 8 (Dams safety)—see section 58.
 dangerous incident, for part 4 (Reporting of notifiable incidents)—see section 28.
-electricity distribution network—see the Utilities Act 2000, section 7.
 electricity network—see the Utilities Act 2000, section 7.
-electricity transmission network—see the Utilities Act 2000, section 7.
 further information, for part 8 (Dams safety)—see section 62.
-gas distribution network—see the Utilities Act 2000, section 10.
 gas network—see the Utilities Act 2000, section 10.
-gas transmission network—see the Utilities Act 2000, section 10.
 Googong dam, for part 8 (Dams safety)—see section 57.
 Googong Dam Area, for part 8 (Dams safety)—see section 57.
 ICRC means the independent competition and regulatory commission.
@@ -48,7 +44,6 @@ network—
     (v) a network prescribed for a prescribed utility service under the Utilities Act 2000, section 15; or
   (b) for section 38, section 39 and section 40—see section 41 (Extended meaning of network).
 network facility means any part of the infrastructure of a regulated utility network.
-network protection notice means a notice under section 32 (Network protection notices).
 notifiable incident, for part 4 (Reporting of notifiable incidents)—see section 28.
 occupier, of premises, for part 9 (Enforcement)—see section 76.
 offence, for part 9 (Enforcement)—see section 76.
@@ -75,7 +70,7 @@ show cause notice—
   (d) for section 55 (Technical regulator’s directions—isolated infrastructure)—see section 55 (2); and
   (e) for section 79 (Technical regulator may recommend conditions on licence)—see section 79 (3).
 technical code means a technical code approved under section 14.
-technical code for listed dam, for part 8 (Dams Safety) means a code approved under section 73.
+technical code for listed dam, for part 8 (Dams safety)—see section 57.
 technical inspector’s warning notice—see section 54.
 technical regulator—see section 77.
 technical regulator’s direction—
