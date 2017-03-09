@@ -6,12 +6,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act
 · adult
 · Australian Consumer Law (ACT)
+· Australian Criminal Intelligence Commission
 · authorised deposit-taking institution
 · business day
 · commissioner for fair trading
 · corporation
 · Corporations Act
-· CrimTrac
 · director-general (see s 163)
 · entity
 · financial year
@@ -32,7 +32,8 @@ agent—
     (ii) an employment agent; or
     (iii) a real estate agent; or
     (iv) a stock and station agent; and
-  (b) for division 3.4 (Occupational discipline—agents)—see section 40.
+  (b) for division 3.4 (Occupational discipline—agents)—see section 40; and
+  (c) for division 8.2 (Freezing accounts)––see section 131.
 agents licence means—
   (a) a business agents licence; or
   (b) an employment agents licence; or
@@ -74,7 +75,6 @@ family member, of a person, means—
 ground for occupational discipline—
   (a) for an agent—see section 41; and
   (b) for a registered salesperson—see section 65.
-investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 land includes an interest in land.
 licence means a licence under this Act.
 licensed, for division 3.1 (Agents to be licensed)––see section 17.
@@ -89,8 +89,8 @@ licensed stock and station agent means a person who holds a licence as a stock a
 main place of business, for a licensed agent, means the place shown in the register as the agent’s main place of business.
 obtains a beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
 parent, of a person, means the person’s father, mother, grandfather, grandmother, stepfather or stepmother, or someone acting in place of the person’s parent.
-police certificate, for a person, means a written statement by the Australian Federal Police or CrimTrac indicating—
-  (a) whether, according to the records held by the Australian Federal Police or CrimTrac, the person has been charged with, or convicted of, an offence against a law of—
+police certificate, for a person, means a written statement by the Australian Federal Police or the Australian Criminal Intelligence Commission indicating—
+  (a) whether, according to the records held by the Australian Federal Police or the Australian Criminal Intelligence Commission, the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
