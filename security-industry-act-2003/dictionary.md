@@ -4,9 +4,9 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
 · ACAT
 · ACT
+· Australian Criminal Intelligence Commission
 · commissioner for fair trading
 · contravene
-· CrimTrac
 · exercise
 · foreign country
 · found guilty
@@ -30,7 +30,7 @@ maintain, confidentiality of information, for part 2A (Criminal intelligence)—
 master licence—see section 12.
 master temporary visitor licence—see section 15A.
 police certificate, for a person, means a written statement by the Australian Federal Police or a police force of a State or Territory indicating—
-  (a) whether, according to the records held by that entity or another entity (for example, CrimTrac), the person has been charged with, or convicted of, an offence against a law of—
+  (a) whether, according to the records held by that entity or another entity (for example, the Australian Criminal Intelligence Commission), the person has been charged with, or convicted of, an offence against a law of—
     (i) the Territory; or
     (ii) the Commonwealth; or
     (iii) a State; or
