@@ -27,6 +27,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Self-Government Act
 · territory-owned corporation
 · Treasurer.
+accounting standards means the accounting standards issued by the Australian Accounting Standards Board, as in force or applicable from time to time.
+Note Accounting standards are accessible at www.aasb.gov.au.
 applicable governmental policies, for a territory authority, for part 9 (Governance of territory authorities)—see section 103.
 appropriation means an appropriation of public money by any Act including this Act.
 Appropriation Act means an Act that makes appropriations in relation to a financial year for purposes mentioned in section 8.
@@ -62,9 +64,6 @@ financial year, for a territory authority, for part 9 (Governance of territory a
 general government sector means—
   (a) those organisations whose primary function is to provide services that are mainly not market orientated, are mainly for the consumption of the community generally, involve the transfer or redistribution of income, and are financed mainly through appropriation; and
   (b) those organisations that are controlled by the Territory and provide investment or other financial services.
-generally accepted accounting principles means accounting principles and procedures that are—
-  (a) recognised by the accounting profession as appropriate for reporting financial information relating to government, a directorate or a territory authority; and
-  (b) consistent with this Act and any relevant Appropriation Act.
 governing board, for a territory authority, means the governing board established under the Act that establishes the authority.
 governing board member, for a territory authority with a governing board for part 9 (Governance of territory authorities)—see section 72.
 handover day, for division 9.7 (Additional provisions for restructuring of certain territory authorities)—see section 121.
