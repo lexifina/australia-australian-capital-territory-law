@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · administrative unit
 · bank
 · chief police officer
-· corrections officer
 · director-general (see s 163)
 · foreign country
 · found guilty
@@ -176,7 +175,6 @@ sell includes—
   (f) consign or deliver for sale.
 shooting gallery includes a shooting gallery that is, or if dismantled is, portable.
 starting pistol means a firearm the purpose of which is for use in the starting of racing events in sporting competitions.
-successfully appealed against—an order is successfully appealed against if an appeal against the making of the order is upheld.
 temporarily store—a firearm is temporarily stored by a licensed firearms dealer if—
   (a) for a person who has possession of the firearm because of the death of the individual authorised to possess it—the dealer stores the firearm until the person is authorised, under this Act or another territory law, to otherwise dispose of it; or
   (b) for a person who inherits the firearm and applies for a licence or permit in relation to the firearm—the dealer stores the firearm until the application is finally decided (including any application to the ACAT for review of the decision and any subsequent appeal).
