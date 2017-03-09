@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 activity information notice, for part 3 (Public unleased land permits)—see section 51 (Suitability of activities—further information about activity).
 additional approval notice, for part 3 (Public unleased land permits)—see section 52 (2) (Suitability of activities—other approvals).
 authorised person means an authorised person mentioned in section 89 (Authorised people).
+carries on business as a hawker—see section 9A.
 closed road—see section 11 (1) (Director-general may temporarily close public roads).
 closed road approval—see section 12 (1) (Approval to use closed road).
 connected, for part 4 (Enforcement)—see section 88.
@@ -47,6 +48,7 @@ personal information notice, for part 3 (Public unleased land permits)—see sec
 plant pruning direction—see section 31 (Direction to prune tree etc overhanging public unleased land).
 plant removal direction—see section 34 (Direction to remove tree etc endangering public on unleased land).
 premises includes land, structure, vehicle or boat.
+proposed new permit holder—see section 71 (1) (Public unleased land permit—application to transfer permit).
 public consultation notice, for part 3 (Public unleased land permits)—see section 53 (2) (Suitability of activities—public consultation).
 public consultation period, for part 3 (Public unleased land permits)—see section 53 (3) (a) (iv) (Suitability of activities—public consultation).
 public consultation submission notice, for part 3 (Public unleased land permits)—see section 54 (2) (Suitability of activities—public consultation submissions).
