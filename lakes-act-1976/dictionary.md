@@ -2,18 +2,17 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· contravene
-· director-general (see s 163)
-· doctor
-· entity
-· exercise
-· function
-· night
-· penalty unit (see s 133)
-· reviewable decision notice
-· Territory land
-· the Territory.
+• ACAT
+• contravene
+• director-general (see s 163)
+• doctor
+• entity
+• exercise
+• night
+• penalty unit (see s 133)
+• reviewable decision notice
+• Territory land
+• the Territory.
 associated work includes a wharf or jetty, owned by the Territory or the Commonwealth, erected in a lake area.
 boat includes launch, yacht, canoe, raft, pontoon and anything else that can carry people or goods through or on water.
 commercial activities means—
