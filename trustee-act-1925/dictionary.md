@@ -2,26 +2,26 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· affidavit
-· appoint
-· asset
-· child
-· instrument (see s 14)
-· interest
-· land
-· lawyer
-· month
-· person
-· power
-· proceeding
-· property
-· public trustee and guardian
-· registrar-general
-· sign
-· territory lease
-· will
-· year.
+• ACT
+• affidavit
+• appoint
+• asset
+• child
+• instrument (see s 14)
+• interest
+• land
+• lawyer
+• month
+• person
+• power
+• proceeding
+• property
+• public trustee and guardian
+• registrar-general
+• sign
+• territory lease
+• will
+• year.
 administrator includes anyone to whom administration of the estate of a dead person is granted, and includes the public trustee and guardian acting under the Administration and Probate Act 1929, part 6.
 contingent right, in relation to land, includes—
   (a) a contingent or executory interest or a possibility coupled with an interest, whether or not the object of the gift or limitation of the interest or possibility is known; and
@@ -30,7 +30,6 @@ conveyance, in relation to a person, includes the execution or doing by the pers
 executor means the executor to whom probate has been granted, and includes an executor by right of representation.
 government securities include government stocks, funds, bonds, debentures and Treasury bills.
 instrument includes a deed, a will, an agreement for settlement and a law of the Territory, the Commonwealth or a State.
-joint tenant includes joint owner.
 legal representative includes executor and administrator.
 mortgage—
   (a) for land under the Land Titles Act 1925—see that Act, dictionary; and
