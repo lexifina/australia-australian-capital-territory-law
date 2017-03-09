@@ -5,7 +5,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Act
 · administrative unit
 · chief police officer
-· CrimTrac
 · director-general (see s 163)
 · director of public prosecutions
 · domestic partner (see s 169 (1))
@@ -45,16 +44,15 @@ law enforcement agency means any of the following:
   (b) the police service or force of a State, another Territory or a foreign country;
   (c) the Department of Immigration and Border Protection (Cwlth);
   (d) the Australian Crime Commission;
-  (e) CrimTrac;
-  (f) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
-  (g) the New South Wales Crime Commission or a similar entity established under the law of another State;
-  (h) the Attorney-General for the Territory, the Commonwealth, a State or another Territory;
-  (i) people employed in a government department of the Commonwealth, a State or another Territory and whose primary functions are the beginning or conduct of proceedings for offences;
-  (j) the Office of the Director of Public Prosecutions or a similar entity established under a Commonwealth or State law;
-  (k) the director of public prosecutions, or a person performing a similar function under a Commonwealth or State law;
-  (l) a lawyer to the extent that the lawyer is engaged under a Commonwealth or State law to prosecute offences;
-  (m) prison officers;
-  (n) an entity prescribed under the regulations.
+  (e) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
+  (f) the New South Wales Crime Commission or a similar entity established under the law of another State;
+  (g) the Attorney-General for the Territory, the Commonwealth, a State or another Territory;
+  (h) people employed in a government department of the Commonwealth, a State or another Territory and whose primary functions are the beginning or conduct of proceedings for offences;
+  (i) the Office of the Director of Public Prosecutions or a similar entity established under a Commonwealth or State law;
+  (j) the director of public prosecutions, or a person performing a similar function under a Commonwealth or State law;
+  (k) a lawyer to the extent that the lawyer is engaged under a Commonwealth or State law to prosecute offences;
+  (l) prison officers;
+  (m) an entity prescribed under the regulations.
 prison officer includes a person employed in an entity responsible under the law of the Territory, or of the Commonwealth, a State or a foreign country, for providing correctional services for offenders.
 public authority means an administrative unit or Territory authority, and includes a person exercising functions for the Territory, an administrative unit or Territory authority.
 public morality offence, for part 3A (Extinguishing historical homosexual offence convictions)—see section 19A.
