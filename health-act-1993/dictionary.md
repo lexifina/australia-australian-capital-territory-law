@@ -2,26 +2,26 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· Act
-· ACT
-· appoint
-· Commonwealth
-· Coroner’s Court
-· director-general (see s 163)
-· entity
-· exercise
-· found guilty
-· function
-· health practitioner
-· in relation to
-· interest
-· make
-· pharmacist
-· proceeding
-· territory law
-· the Territory
-· tribunal.
+• ACAT
+• Act
+• ACT
+• appoint
+• Commonwealth
+• Coroner’s Court
+• director-general (see s 163)
+• entity
+• exercise
+• found guilty
+• function
+• health practitioner
+• in relation to
+• interest
+• make
+• pharmacist
+• proceeding
+• territory law
+• the Territory
+• tribunal.
 abortion, for part 6 (Abortions)—see section 80.
 approved medical facility, for division 6.2 (Patient privacy in protected areas)—see section 85.
 authorised representative, for part 7 (VMO service contracts)—see section 100.
@@ -60,7 +60,6 @@ health service provider—see section 7.
 health service report, for part 4 (Quality assurance)—see section 38.
 hospital, for part 5 (Reviewing scope of clinical practice)—see section 50.
 information holder, for part 8 (Secrecy)—see section 122.
-local hospital network—see section 8.
 ministerial report, for part 4 (Quality assurance)—section 41.
 negotiating agent, for part 7 (VMO service contracts)—see section 100.
 negotiating period, for part 7 (VMO service contracts)—see section 103 (2).
