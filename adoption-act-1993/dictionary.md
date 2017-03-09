@@ -2,22 +2,22 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· administrative unit
-· civil union
-· contravene
-· director-general (see s 163)
-· document
-· domestic partner (see s 169 (1))
-· Executive
-· file
-· function
-· instrument (see s 14)
-· parent
-· proceeding
-· public trustee and guardian
-· reviewable decision notice
-· Supreme Court.
+• ACAT
+• administrative unit
+• civil union
+• contravene
+• director-general (see s 163)
+• document
+• domestic partner (see s 169 (1))
+• Executive
+• file
+• function
+• instrument (see s 14)
+• parent
+• proceeding
+• public trustee and guardian
+• reviewable decision notice
+• Supreme Court.
 Aboriginal or Torres Strait Islander child or young person means a child or young person at least 1 of whose parents is a person who—
   (a) is descended from an Aborigine or Torres Strait Islander; and
   (b) identifies as an Aborigine or Torres Strait Islander; and
