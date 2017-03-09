@@ -2,27 +2,26 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· bankrupt or personally insolvent
-· chief police officer
-· director-general (see s 163)
-· exercise
-· function
-· head of service
-· judge
-· legal practitioner
-· magistrate
-· Magistrates Court
-· notifiable instrument (see s 10)
-· person (see s 160)
-· proceeding
-· public servant
-· territory law.
-Commonwealth Act means the Director of Public Prosecutions Act 1983 (Cwlth).
-Commonwealth director means the Director of Public Prosecutions appointed under the Commonwealth Act.
+• bankrupt or personally insolvent
+• chief police officer
+• director-general (see s 163)
+• exercise
+• function
+• head of service
+• judge
+• legal practitioner
+• magistrate
+• Magistrates Court
+• notifiable instrument (see s 10)
+• person (see s 160)
+• proceeding
+• public servant
+• territory law.
+Commonwealth director means the Director of Public Prosecutions appointed under the Director of Public Prosecutions Act 1983 (Cwlth).
 director means the Director of Public Prosecutions appointed under section 22 (1).
 general proceedings means a prosecution, proceedings or appeal referred to in section 6 (1) (a), (b), (c), (e), (f) or (g).
 member of the staff, of the office, means—
-  (a) a member of the staff mentioned in section 30 (Director’s staff); or
+  (a) a member of the staff mentioned in section 30 (Staff of the office); or
   (b) a person engaged under section 31 (Consultants etc); or
   (c) a person whose services are made available to the director in accordance with section 32 (Other arrangements for staff and facilities).
 office means the Office of the Director of Public Prosecutions established by section 4 (1).
