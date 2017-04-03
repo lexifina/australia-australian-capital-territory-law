@@ -11,6 +11,9 @@
 ### Division 4.5 Exceptions relating to disability
 ### Division 4.6 Exceptions relating to age
 ### Division 4.7 Exceptions relating to profession, trade, occupation or calling
+### Division 4.8 Exceptions relating to employment status
+### Division 4.9 Exceptions relating to immigration status
+### Division 4.10 Exceptions relating to physical features
 ## Part 5 Sexual harassment
 ## Part 7 Other unlawful acts
 ## Part 8 General principles about unlawful acts

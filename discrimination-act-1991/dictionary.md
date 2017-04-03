@@ -2,25 +2,31 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· body
-· civil partner
-· civil partnership
-· civil union
-· civil union partner
-· corporation
-· director-general (see s 163)
-· domestic partner (see s 169)
-· domestic partnership (see s 169)
-· fail
-· for
-· in relation to
-· reviewable decision notice
-· State
-· Territory authority
-· the Territory
-· under.
+• ACAT
+• body
+• civil partner
+• civil partnership
+• civil union
+• civil union partner
+• corporation
+• director-general (see s 163)
+• domestic partner (see s 169)
+• domestic partnership (see s 169)
+• fail
+• for
+• in relation to
+• intersex person (see s 169B)
+• reviewable decision notice
+• State
+• Territory authority
+• the Territory
+• under.
 accommodation includes residential and business accommodation.
+accommodation status includes being—
+  (a) a tenant; and
+  (b) an occupant within the meaning of the Residential Tenancies Act 1997; and
+  (c) in receipt of, or waiting to receive, housing assistance within the meaning of the Housing Assistance Act 2007; and
+  (d) homeless.
 carer—a person is a carer of someone else (the dependant) if—
   (a) the dependant is dependent on the person for ongoing care and assistance; and
   (b) the person cares for the dependant otherwise than because of—
@@ -45,14 +51,17 @@ employment includes—
   (b) work as a Territory employee; and
   (c) work as an unpaid worker.
 employment agency means any person who or body that (whether for payment or not) assists people to find employment or other work or assists employers to find employees or workers.
-gender identity means—
-  (a) the identification on a genuine basis by a person of one sex as a member of the other sex (whether or not the person is recognised as such)—
-    (i) by assuming characteristics of the other sex, whether by way of medical intervention, style of dressing or otherwise; or
-    (ii) by living, or seeking to live, as a member of the other sex; or
-  (b) the identification on a genuine basis by a person of indeterminate sex as a member of a particular sex (whether or not the person is recognised as such)—
-    (i) by assuming characteristics of that sex, whether by way of medical intervention, style of dressing or otherwise; or
-    (ii) by living, or seeking to live, as a member of that sex.
+employment status includes—
+  (a) being unemployed; and
+  (b) receiving a pension or another social security benefit; and
+  (c) receiving compensation; and
+  (d) being employed on a part-time, casual or temporary basis; and
+  (e) undertaking shift or contract work.
+gender identity means the gender-related identity, appearance or mannerisms or other gender-related characteristics of a person, with or without regard to the person’s designated sex at birth.
+Note Gender identity includes the gender identity that the person has or has had in the past, or is thought to have or have had in the past (see s 7 (2)).
 HRC means the human rights commission.
+immigration status includes being an immigrant, a refugee or an asylum seeker, or holding any kind of visa under the Migration Act 1958 (Cwlth).
+Note Immigration status includes the immigration status that the person has or has had in the past, or is thought to have or have had in the past (see s 7 (2)).
 industrial activity means any of the following:
   (a) being or not being a member of, or joining, not joining or refusing to join, an industrial organisation or industrial association;
   (b) establishing or being involved in establishing an industrial organisation or forming or being involved in forming an industrial association;
@@ -67,7 +76,24 @@ industrial organisation means any of the following that is registered or recogni
   (a) an organisation of employees;
   (b) an organisation of employers;
   (c) any other organisation established for the purposes of people who carry on a particular industry, trade, profession, business or employment.
+intersex status means status as an intersex person.
+irrelevant criminal record, in relation to a person, means a record relating to an offence, or an alleged offence, if—
+  (a) the person has been charged with the offence but—
+    (i) a proceeding for the alleged offence is not finalised; or
+    (ii) the charge has lapsed, been withdrawn or discharged, or struck out; or
+  (b) the person has been acquitted of the alleged offence; or
+  (c) the person has had a conviction for the alleged offence quashed or set aside; or
+  (d) the person has been served with an infringement notice for the alleged offence; or
+  (e) the person has a conviction for the offence, but the circumstances of the offence are not directly relevant to the situation in which discrimination arises; or
+  (f) the person has a spent conviction or an extinguished conviction, within the meaning of the Spent Convictions Act 2000, for the offence.
+Note The Spent Convictions Act 2000 sets out which convictions can be spent (see that Act, s 11) and when a conviction is spent (see that Act, s 12).
 man means a member of the male sex irrespective of age.
+physical features means a person’s height, weight, size or other bodily features.
+political conviction includes—
+  (a) having a political conviction, belief, opinion or affiliation; and
+  (b) engaging in political activity; and
+  (c) not having a political conviction, belief, opinion or affiliation; and
+  (d) not engaging in political activity.
 potential pregnancy—see section 5A.
 pregnancy includes potential pregnancy.
 premises includes—
@@ -77,6 +103,7 @@ premises includes—
 principal means—
   (a) for a commission agent—a person for whom the commission agent does work as a commission agent; or
   (b) for a contract worker—a person for whom the contract worker does work under a contract between the contract worker’s employer and the person.
+protected attribute—see section 7.
 race includes—
   (a) colour, descent, ethnic and national origin and nationality; and
   (b) any 2 or more distinct races that are collectively referred to or known as a race.
@@ -95,7 +122,14 @@ relationship status means the status or condition of being—
 relative, of a person, means—
   (a) a person who is related to the person by blood, marriage, civil union, civil partnership or any other domestic partnership or adoption; or
   (b) a domestic partner of the person or of a person mentioned in paragraph (a).
-relevant class of people means a class of people whose members are identified by reference to an attribute mentioned in section 7.
+relevant class of people means a class of people whose members are identified by reference to a protected attribute.
+religious conviction includes—
+  (a) having a religious conviction, belief, opinion or affiliation; and
+  (b) engaging in religious activity; and
+  (c) the cultural heritage and distinctive spiritual practices, observances, beliefs and teachings of Aboriginal and Torres Strait Islander people; and
+  (d) engaging in the cultural heritage and distinctive spiritual practices, observances, beliefs and teachings of Aboriginal and Torres Strait Islander peoples; and
+  (e) not having a religious conviction, belief, opinion or affiliation; and
+  (f) not engaging in religious activity.
 services includes—
   (a) services relating to banking, insurance or the provision of grants, loans, credit or finance; and
   (b) services relating to entertainment, recreation or refreshment; and
