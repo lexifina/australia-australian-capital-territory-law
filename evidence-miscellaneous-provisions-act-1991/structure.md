@@ -21,7 +21,8 @@
 ## Part 4.3 Evidence in domestic violence proceedings
 ### Division 4.3.1 Definitions—pt 4.3
 ### Division 4.3.2 Evidence may be given in closed court
-### Division 4.3.3 Recorded statement of police interview admissible as evidence
+### Division 4.3.3 Recorded statement of police interview admissible as evidence—family violence offence proceedings
+### Division 4.3.4 Recorded statement of police interview admissible as evidence—application for protection order
 # Chapter 5 Certain evidence under court rules not admissible
 # Chapter 6 Evidence in criminal proceedings—dangerously ill people
 # Chapter 7 Evidence in any proceedings—other matters
