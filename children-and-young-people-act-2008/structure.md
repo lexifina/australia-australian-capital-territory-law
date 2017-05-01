@@ -111,7 +111,7 @@
 ### Division 14.3.2 Interim care and protection orders
 ### Division 14.3.3 Assessment orders
 ### Division 14.3.4 Care plans
-### Division 14.3.5 Orders under Domestic Violence and Protection Orders Act
+### Division 14.3.5 Protection orders
 ## Part 14.4 Making care and protection orders
 ## Part 14.5 Extending, amending and revoking care and protection orders
 ## Part 14.6 Parental responsibility provisions

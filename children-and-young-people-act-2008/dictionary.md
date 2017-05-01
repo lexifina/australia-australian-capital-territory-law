@@ -136,15 +136,11 @@ decision-maker includes any court exercising jurisdiction under this Act.
 detention place means a place declared to be a detention place under section 142.
 disciplinary action, for chapter 8 (Criminal matters—discipline at detention places)—see section 317.
 divulge, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
-domestic violence, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
 drug, for Part 6.7 (Alcohol and drug testing)—see section 235.
 drug of dependence—see the Drugs of Dependence Act 1989, dictionary.
 drug testing standards—see section 887 (2) (c).
 drug use provision, in a care and protection order, for the care and protection chapters—see section 488.
 due date, for a noncompliance notice—see section 352N (3) (e).
-DVPO final protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
-DVPO interim protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
-DVPO protection order, for division 14.3.5 (Orders under Domestic Violence and Protection Orders Act)—see section 458.
 educational institution, for chapter 21 (Employment of children and young people)—see section 780.
 emergency action—see section 405.
 emergency action release order—see section 416.
@@ -301,10 +297,12 @@ proposed controlling person, for a childcare service, for chapter 20 (Childcare 
 proposed proprietor, for a childcare service, for chapter 20 (Childcare services)—see section 728.
 proprietor, of a childcare service, for chapter 20 (Childcare services)—see section 735.
 protected information—see section 844 (1).
+protection order—see section 458.
 provision, in a care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 421.
 receiving State, for part 5.2 (Interstate transfers)—see section 114.
 registered, for a family group conference agreement, for Chapter 12 (Care and protection—voluntary agreements to transfer or share parental responsibility)—see section 389 (2).
 register of young detainees, for chapter 6 (Criminal matters—detention places)—see section 137.
+relevant Act, for division 14.3.5 (Protection orders)—see section 458.
 relevant conference participant, for a family group conference about a child or young person—see section 73.
 relevant presiding officer, for division 8.4.4 (Disciplinary action generally)—see section 316.
 reporting and investigation procedures means the procedures made by the director-general under section 294.
