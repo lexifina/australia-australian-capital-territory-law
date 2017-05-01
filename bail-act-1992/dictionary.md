@@ -2,25 +2,25 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act (see s 7)
-· adult
-· child
-· Chief Magistrate
-· chief police officer
-· correctional centre
-· director-general (see s 163)
-· domestic partner (see s 169 (1))
-· found guilty
-· indictable offence (see s 190 (1))
-· judge
-· magistrate
-· Magistrates Court
-· penalty unit (see s 133)
-· police officer
-· State
-· Supreme Court
-· the Territory.
+• ACAT
+• Act (see s 7)
+• adult
+• child
+• Chief Magistrate
+• chief police officer
+• correctional centre
+• director-general (see s 163)
+• domestic partner (see s 169 (1))
+• found guilty
+• indictable offence (see s 190 (1))
+• judge
+• magistrate
+• Magistrates Court
+• penalty unit (see s 133)
+• police officer
+• State
+• Supreme Court
+• the Territory.
 accused person includes—
   (a) a person charged with, convicted of, or found guilty of, an offence; and
   (b) a person mentioned in section 8 (1) (c), (d) or (e); and
@@ -31,7 +31,7 @@ accused person includes—
 appeal includes an application for leave to appeal and an appeal proceeding.
 applicable bail criteria, for a decision about bail, means criteria under any of the following provisions applying to the decision:
   (a) section 9D (Bail for serious offence committed while charge for another is pending or outstanding);
-  (b) section 9F (Domestic violence offence—bail by authorised officer);
+  (b) section 9F (Family violence offence—bail by authorised officer);
   (c) section 22 (Criteria for granting bail to adults);
   (d) section 23 (Criteria for granting bail to children).
 authorised officer means—
@@ -46,7 +46,7 @@ child, of a person, includes a child—
   (a) who normally or regularly lives with the person; or
   (b) of whom the person is a guardian.
 court means the Supreme Court or Magistrates Court.
-domestic violence offence—an offence that a person is accused of committing is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
+family violence offence—see the Family Violence Act 2016, dictionary.
 grant, in relation to bail (other than in section 22 (Criteria for granting bail to adults) or section 23 (Criteria for granting bail to children)), includes continue.
 offence includes—
   (a) an alleged offence; and
