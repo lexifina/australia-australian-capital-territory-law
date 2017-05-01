@@ -2,27 +2,27 @@
 (see s 6)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· authorised deposit-taking institution
-· child
-· domestic partner (see s 169)
-· DPP
-· entity
-· fail
-· foreign country
-· found guilty
-· function
-· indictment
-· interest (in relation to land or other property)
-· intersex person (see s 169B)
-· lawyer
-· may (see also s 146)
-· must (see also s 146)
-· police officer
-· present
-· property
-· public trustee and guardian
-· registrar-general
-· transgender person (see s169A).
+• authorised deposit-taking institution
+• child
+• domestic partner (see s 169)
+• DPP
+• entity
+• fail
+• foreign country
+• found guilty
+• function
+• indictment
+• interest (in relation to land or other property)
+• intersex person (see s 169B)
+• lawyer
+• may (see also s 146)
+• must (see also s 146)
+• police officer
+• present
+• property
+• public trustee and guardian
+• registrar-general
+• transgender person (see s169A).
 abscond—see section 16.
 account means any facility or arrangement through which a financial institution accepts deposits or allows withdrawals, and includes—
   (a) a facility or arrangement for a fixed term deposit or a safe-deposit box; and
@@ -76,7 +76,7 @@ finalised, for a confiscation or criminal proceeding—see section 18.
 financial institution means—
   (a) an authorised deposit-taking institution; or
   (b) the Reserve Bank of Australia; or
-  (c) an entity registered or incorporated as a cooperative housing society or similar society under the law of the Territory, a State or another Territory; or
+  (c) an entity registered or incorporated as a co-operative housing society or similar society under the law of the Territory, a State or another Territory; or
   (d) a person who carries on State banking within the meaning of the Commonwealth Constitution, section 51 (13); or
   (e) a corporation that is, or that, if it had been incorporated in Australia, would be, a financial corporation within the meaning of the Commonwealth Constitution, section 51 (20); or
   (f) a person who permits someone else to deposit money with the person for use by the other person in relation to gaming or betting; or
