@@ -43,10 +43,10 @@ CYP director-general means the director-general responsible for the Children and
 deferred sentence obligations, for an offender—see section 120.
 deferred sentence order—see section 27 (2).
 detention place means a detention place under the Children and Young People Act 2008.
-domestic violence offence—see the Domestic Violence and Protection Orders Act 2008, section 13 (2).
 driver licence disqualification order—see section 16 (2).
 education and training condition—see section 133N.
 existing sentence, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 70 (1).
+family violence offence—see the Family Violence Act 2016, dictionary.
 fine, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 69.
 fine order—see section 14 (2).
 good behaviour order—see section 13 (2).
