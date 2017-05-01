@@ -82,17 +82,27 @@ connected—a thing is connected with an offence if—
 corrections officer, for schedule 2 (Exemptions from Act)—see section 2.1.
 corresponding, for part 8 (Temporary recognition of interstate licences and permits)—see section 134.
 corresponding law means a law of a State, another Territory or New Zealand corresponding, or substantially corresponding, to this Act.
-corresponding order, in relation to a protection order or interim protection order, means an order under a law of a State, another Territory or New Zealand that has the same effect or substantially the same effect as a protection order or interim protection order.
 dispose, of a firearm—
   (a) for this Act—see section 9; and
   (b) for division 13.3 (Licensed firearms dealers—records and returns)—see section 192.
-domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
 employed includes engaged.
 employee—
   (a) of a person, includes someone engaged by the person; and
   (b) in relation to a government agency, means a public servant holding office, or a person employed, in the agency.
 executive officer, of a corporation, means a person (however described) who is concerned with, or takes part in, the corporation’s management, whether or not the person is a director of the corporation.
 explosive—see the Dangerous Substances Act 2004, section 73.
+family violence offence means an offence if the conduct making up the offence is family violence under the Family Violence Act 2016.
+final protection order—
+  (a) means a final order under—
+    (i) the Family Violence Act 2016; or
+    (ii) the Personal Violence Act 2016; and
+  (b) includes the following orders, other than an order of an interim nature:
+    (i) a protection order under the Domestic Violence Agencies Act 1986 as in force at any time;
+    (ii) a protection order under the Domestic Violence and Protection Orders Act 2001 as in force at any time;
+    (iii) a protection order under the Domestic Violence and Protection Orders Act 2008 as in force at any time;
+    (iv) a restraining order under the Magistrates Court Act 1930 before 27 March 2002;
+    (v) a recognised FVO;
+    (vi) any other order under a law of a State, another Territory or New Zealand that has or had the same effect, or substantially the same effect, as an order mentioned in paragraph (a).
 firearm—see section 6.
 firearm part includes a barrel, breech, pistol slide, cylinder, trigger mechanism, operating mechanism or magazine designed as, or reasonably capable of forming, part of a firearm.
 firearms dealer—
@@ -116,8 +126,17 @@ government agency means—
 head, in relation to a government agency, means the director-general who has control of the relevant administrative unit or other person who has administrative control of the agency.
 imitation firearm—see section 23A.
 interim protection order—
-  (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of interim order; and
-  (b) includes an interim protection order made under the Domestic Violence Agencies Act 1986 and an interim restraining order made under the Magistrates Court Act 1930.
+  (a) means—
+    (i) an interim order under—
+      (A) the Family Violence Act 2016; or
+      (B) the Personal Violence Act 2016; or
+    (ii) a recognised FVO of an interim nature; and
+  (b) includes an order of an interim nature that has or had the same effect, or substantially the same effect, as an order mentioned in paragraph (a) under the following:
+    (i) the Domestic Violence Agencies Act 1986 as in force at any time;
+    (ii) the Domestic Violence and Protection Orders Act 2001 as in force at any time;
+    (iii) the Domestic Violence and Protection Orders Act 2008 as in force at any time;
+    (iv) the Magistrates Court Act 1930 before 27 March 2002;
+    (v) a law of a State, another Territory or New Zealand.
 interstate licence, for part 8 (Temporary recognition of interstate licences and permits)—see section 134.
 licence means a licence in force under this Act.
 licensee means the holder of a licence.
@@ -147,10 +166,8 @@ principal, of a composite entity—see section 100.
 prohibited firearm—see section 7.
 prohibited person, for part 13 (Firearms dealers)—see section 184.
 prohibited pistol means a prohibited firearm mentioned in schedule 1, item 21, item 22 or item 23.
-protection order—
-  (a) see the Domestic Violence and Protection Orders Act 2008, dictionary, definition of final order; and
-  (b) includes a protection order made under the Domestic Violence Agencies Act 1986 and a restraining order made under the Magistrates Court Act 1930.
 public place means any street, road, public park, reserve or other place that the public are entitled to use or that is open to, or used by, the public, whether on payment of money or otherwise.
+recognised FVO—see the Family Violence Act 2016, section 119 and section 144.
 register means the register of firearms provided for in section 156.
 registered means registered for the time being under this Act.
 registered firearm means a firearm registered under this Act.
