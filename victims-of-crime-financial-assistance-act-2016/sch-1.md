@@ -5,7 +5,7 @@
 In this schedule:
 Crimes Act means the Crimes Act 1900.
 Criminal Code means the Criminal Code 2002.
-Domestic Violence Act means the Domestic Violence and Protection Orders Act 2008.
+Family Violence Act means the Family Violence Act 2016.
 Firearms Act means the Firearms Act 1996.
 Public Order Act means the Public Order (Protection of Persons and Property) Act 1971 (Cwlth).
 RT (S and TM) Act means the Road Transport (Safety and Traffic Management) Act 1999.
@@ -18,7 +18,7 @@ column 1 item | column 2 legislation | column 3 provision | column 4 description
 4 | Crimes Act | an offence against pt 5 | sexual servitude
 5 | Criminal Code | 309 | robbery
 6 | Criminal Code | 310 | aggravated robbery
-## Division 1.2.2 Domestic violence offences
+## Division 1.2.2 Family violence offences
 column 1 item | column 2 legislation | column 3 provision | column 4 description
 1 | Crimes Act | 116 | destroying or damaging property
 2 | Crimes Act | 117 | arson
@@ -38,7 +38,7 @@ column 1 item | column 2 legislation | column 3 provision | column 4 description
 16 | Criminal Code | 406 | threat to cause property damage—fear of death or serious harm
 17 | Criminal Code | 407 | threat to cause property damage
 18 | Criminal Code | 408 | possession of thing with intent to damage property
-19 | Domestic Violence Act | 90 | contravention of protection order
+19 | Family Violence Act | 43 | contravention of family violence order
 20 | Firearms Act | 177 | unregistered firearms
 21 | Firearms Act | 221 | discharge of firearms or possession endangering life
 22 | Public Order Act | 11 | offences on premises in a territory

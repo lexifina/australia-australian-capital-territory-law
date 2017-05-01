@@ -2,23 +2,28 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
+• ACT
 child
-· Criminal Code
-· director-general (see s 163)
-· domestic partner (see s 169 (1))
-· found guilty
-· health practitioner
-· home address
-· human rights commission
-· Minister (see s 162)
-· penalty unit (see s 133)
-· proceeding
-· public servant
+• Criminal Code
+• director-general (see s 163)
+• domestic partner (see s 169 (1))
+• found guilty
+• health practitioner
+• home address
+• human rights commission
+• Minister (see s 162)
+• parent
+• penalty unit (see s 133)
+• proceeding
+• public servant
 public trustee and guardian
-· registrar
-· territory law
-· the Territory.
+• registrar
+• territory law
+• the Territory.
+Aboriginal or Torres Strait Islander person means a person who—
+  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 act of violence—see section 7.
 application for financial assistance means an application to the commissioner under section 31.
 assisted person means a person who receives financial assistance under part 3 (Financial assistance) or a funeral expense payment under part 4 (Funeral expenses).
@@ -48,8 +53,8 @@ dependant, of a primary victim, means—
   (a) a person who is wholly or partly dependent for economic support on the primary victim at the time of the primary victim’s death; or
   (b) a person who would have been wholly or partly dependent for economic support on the primary victim’s income at the time of the primary victim’s death but for the incapacity of the primary victim because of the act of violence that resulted in the death; or
   (c) a child of the primary victim born after the primary victim’s death who would have been a dependant of the primary victim under paragraph (a) or (b) if the child had been born before the death.
-Domestic Violence Act, for schedule 1 (Offences—act of violence)—see schedule 1, section 1.1.
 economic loss payment means a financial payment under section 27.
+Family Violence Act, for schedule 1 (Offences—act of violence)—see schedule 1, section 1.1.
 financial assistance means any of the following:
   (a) an economic loss payment;
   (b) an immediate need payment;
@@ -63,6 +68,7 @@ immediate need payment means a financial payment under section 26.
 injury—see section 9.
 internally reviewable decision, for part 9 (Notification and review of decisions)—see section 90.
 internal review notice, for part 9 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
+intimate partner—see the Family Violence Act 2016, section 10.
 mental disorder—see the Mental Health Act 2015, dictionary.
 mental illness—see the Mental Health Act 2015, dictionary.
 offence, for part 7 (Victims financial assistance levy)—see section 80.
@@ -82,8 +88,30 @@ recovery action, by the commissioner, for part 6 (Recovery from offender)—see 
 recovery intention notice, for part 6 (Recovery from offender)—see section 74.
 recovery notice, for part 6 (Recovery from offender)—see section 69.
 related victim—see section 12.
-relevant person—see the Domestic Violence and Protection Orders Act 2008, section 15.
-relevant relationship—see the Domestic Violence and Protection Orders Act 2008, section 15.
+relative, of a person, means—
+  (a) means the person’s—
+    (i) father, mother, grandfather, grandmother, stepfather, stepmother, father-in-law or mother-in-law; or
+    (ii) son, daughter, grandson, granddaughter, stepson, stepdaughter, son-in-law or daughter-in-law; or
+    (iii) brother, sister, half-brother, half-sister, stepbrother, stepsister, brother-in-law or sister-in-law; or
+    (iv) uncle, aunt, uncle-in-law or aunt-in-law; or
+    (v) nephew, niece or cousin; and
+  (b) if the person has or had a domestic partner (other than a spouse or civil union partner)—includes someone who would have been a relative mentioned in paragraph (a) if the person had been married to or in a civil union with the domestic partner; and
+Note For the meaning of domestic partner, see the Legislation Act, s 169.
+For ACT law, a person acquires relatives through civil union in the same way as they acquire them through marriage (see Civil Unions Act 2012, s 6 (2)).
+  (c) includes—
+    (i) someone who has been a relative mentioned in paragraph (a) or (b) of the person; and
+    (ii) if the person is an Aboriginal or Torres Strait Islander person, the following people:
+      (A) someone the person has responsibility for, or an interest in, in accordance with the traditions and customs of the person’s Aboriginal or Torres Strait Islander community;
+      (B) someone who has responsibility for, or an interest in, the person in accordance with the traditions and customs of the person’s Aboriginal or Torres Strait Islander community; and
+    (iii) someone regarded and treated by the person as a relative; and
+    (iv) anyone else who could reasonably be considered to be, or have been, a relative of the person.
+relevant person, in relation to a person (the original person) means—
+  (a) a domestic partner or former domestic partner of the original person; or
+Note A domestic partner need not be an adult (see Legislation Act, s 169).
+  (b) an intimate partner or former intimate partner of the original person; or
+  (c) a relative of the original person; or
+  (d) a child of a domestic partner or former domestic partner of the original person; or
+  (e) a parent of a child of the original person.
 repayment amount, that applies to an assisted person who has received an associated payment, for part 5 (Repayment of financial assistance and funeral expenses)—see section 62.
 repayment arrangement notice, for part 5 (Repayment of financial assistance and funeral expenses by assisted person)—see section 62.
 repayment direction notice, for part 5 (Repayment of financial assistance and funeral expenses by assisted person)—see section 62.
