@@ -2,19 +2,19 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· Commonwealth
-· Corporations Act
-· individual
-· Minister
-· property
-· public trustee and guardian
-· reviewable decision notice
-· Territory.
+• ACT
+• Commonwealth
+• Corporations Act
+• individual
+• Minister
+• property
+• public trustee and guardian
+• reviewable decision notice
+• Territory.
 company means—
   (a) for part 2 (Unclaimed assets in hands of liquidators)—
     (i) a body corporate that is a foreign company within the meaning of the Corporations Act, section 9; or
-    (ii) a body registered under the Cooperatives Act 2002; or
+    (ii) a body registered under the Co-operatives National Law (ACT); or
     (iii) an association incorporated under the Associations Incorporation Act 1991; and
   (b) for any other provision of the Act—
     (i) an entity mentioned in paragraph (a); and
