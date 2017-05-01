@@ -69,8 +69,8 @@ decision, for chapter 3 (Criminal proceedings)—see section 18A.
 defendant—
   (a) for chapter 3 (Criminal proceedings)—see section 18A; and
   (b) for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
-domestic violence offence—see section 291H.
 driver, of a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
+family violence offence—see the Family Violence Act 2016, dictionary.
 fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 hearing includes the examination of a person charged with an indictable offence.
 illegal user declaration, for part 3.8 (Infringement notices for certain offences)—see section 131D.
