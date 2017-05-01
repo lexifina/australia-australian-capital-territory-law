@@ -15,6 +15,6 @@ child, of a person, includes—
 coordinator—see section 11.
 Note The victims of crime commissioner is the coordinator.
 council means the Domestic Violence Prevention Council established by section 4.
-domestic violence—see the Domestic Violence and Protection Orders Act 2008, section 13 (1).
-domestic violence offence—an offence is a domestic violence offence if the conduct making up the offence is domestic violence under the Domestic Violence and Protection Orders Act 2008.
+family violence—see the Family Violence Act 2016, section 8.
+family violence offence—see the Family Violence Act 2016, dictionary.
 member means a member of the council.
