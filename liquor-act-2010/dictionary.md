@@ -19,26 +19,22 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · planning and land authority
 · police officer.
 ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
-ACTPLA certificate, for a licence or permit at premises, means a certificate by the planning and land authority stating that the authority considers the operation of a business at the premises under the licence or permit either—
-  (a) complies with—
-    (i) the lease where the premises are located; and
-    (ii) the Territory plan; or
-  (b) does not comply with a stated provision of—
-    (i) the lease where the premises are located; or
-    (ii) the Territory plan.
 adults-only area, for licensed premises or permitted premises—see section 93.
 amend, a licence or permit, includes the following:
   (a) amend an existing licence condition;
   (b) impose a new licence condition;
   (c) remove an existing licence condition.
-applicant, for division 2.4 (Licences—public consultation)—see section 33.
+approved procedures, for part 11A (Compliance testing)—see section 187A.
+approved program, for part 11A (Compliance testing)—see section 187A.
 approved risk-assessment management plan, for licensed premises or permitted premises—see section 89.
 approved RSA training course, for an approved RSA training provider, for division 12.1 (Approval to provide RSA training courses)—see section 188.
 approved RSA training provider, for division 12.1 (Approval to provide RSA training courses)—see section 188.
 at premises includes in or on the premises.
-authorised person means—
-  (a) an investigator; or
-  (b) a police officer.
+authorised person—
+  (a) for this Act generally, means—
+    (i) an investigator; or
+    (ii) a police officer; and
+  (b) for part 11A (Compliance testing)—see section 187A.
 bar licence—see section 22.
 breath testing machine, for division 8.7 (Breath testing machines)—see section 133.
 caution offence, for division 9.3 (Police cautions for children and young people)—see section 149.
@@ -59,6 +55,7 @@ commercial permit holder means—
 commissioner means the commissioner for fair trading.
 commissioner’s direction—see section 144 (2).
 complainant, for division 11.2 (Complaints)—see section 177.
+compliance test, for part 11A (Compliance testing)—see section 187B.
 connected, for part 10 (Enforcement)—see section 153.
 criminal intelligence, for part 16A (Criminal intelligence)—see section 222A.
 crowd controller means a person who is a crowd controller for the purposes of the Security Industry Act 2003, section 7.
@@ -150,6 +147,7 @@ public place means any street, road, public park, reserve or other place that th
   (b) a factory, and any place occupied in relation to, a factory; and
   (c) a building or part of a building occupied by a club, and any place occupied in relation to a club; and
   (d) any private property that is commonly used by the public, whether as trespassers or otherwise.
+purchase assistant, for part 11A (Compliance testing)—see section 187B (a).
 registered training organisation, for division 12.1 (Approval to provide RSA training courses)—see section 188.
 relevant premises, for division 2.4 (Licences—public consultation)—see section 33.
 responsible person, for premises, for part 4 (Suitability of people and premises for licences and permits)—see section 74.

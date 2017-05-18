@@ -29,8 +29,10 @@
 ### Division 8.6 Incidents
 ### Division 8.7 Breath testing machines
 ### Division 8.8 Other offences
+### Division 8.9 Excluding people from premises
 ## Part 9 Directions, emergency closure orders and cautions
 ### Division 9.1 Commissioner’s directions
+### Division 9.1A Direction to give security camera images
 ### Division 9.2 Emergency closure orders
 ### Division 9.3 Police cautions for children and young people
 ## Part 10 Enforcement
@@ -43,6 +45,7 @@
 ### Division 11.1 General
 ### Division 11.2 Complaints
 ### Division 11.3 Occupational discipline
+## Part 11A Compliance testing
 ## Part 12 Responsible service of alcohol (RSA) training courses
 ### Division 12.1 Approval to provide RSA training courses
 ### Division 12.2 RSA training course certificates
