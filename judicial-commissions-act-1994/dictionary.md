@@ -21,8 +21,8 @@ commission means—
   (a) a judicial commission appointed under section 17 (3) or section 18; and
   (b) for a complaint—the commission appointed to examine the complaint.
 complaint means—
-  (a) a complaint made in accordance with section 14 (1) and (3); or
-  (b) an allegation, notice of which has been given to the council in accordance with section 14 (4) (b).
+  (a) a complaint made under section 14; or
+  (b) an allegation in relation to which notice has been given to the council under section 14.
 council means the judicial council established under section 5A.
 head of council—the head of council is the Chief Justice (see section 5B (2)).
 head of jurisdiction means—
