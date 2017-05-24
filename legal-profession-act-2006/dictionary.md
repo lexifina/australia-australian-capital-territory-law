@@ -262,7 +262,9 @@ regulatory authority means—
     (i) if there is only 1 regulatory authority for the other jurisdiction—that regulatory authority, unless subparagraph (iii) applies; or
     (ii) if there are separate regulatory authorities for the other jurisdiction for different branches of the legal profession or for people who practise in a particular style of legal practice—the regulatory authority relevant to the branch or style concerned, unless subparagraph (iii) applies; or
     (iii) if a regulation prescribes 1 or more regulatory authorities for the other jurisdiction either generally or for particular purposes—the prescribed regulatory authority or authorities.
-related body corporate, for part 2.6 (Incorporated legal practices and multidisciplinary partnerships)—see section 99.
+related body corporate means—
+  (a) for a company within the meaning of the Corporations Act—a related body corporate within the meaning of that Act, section 50; or
+  (b) for any other corporation prescribed by regulation—a person prescribed by regulation.
 relevant council means—
   (a) in relation to a barrister or former barrister (including an applicant for grant of a barrister practising certificate or an overseas-registered foreign lawyer seeking a local registration certificate)—the bar council; or
   (b) in relation to a solicitor or former solicitor (including an applicant for grant of an unrestricted practising certificate or a restricted practising certificate or an overseas-registered foreign lawyer seeking a local registration certificate)—the law society council; or
