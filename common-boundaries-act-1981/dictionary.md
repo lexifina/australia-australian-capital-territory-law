@@ -2,11 +2,11 @@
 (see s 1A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· director-general (see s 163)
-· national land
-· territory land
-· territory law.
+• ACAT
+• director-general (see s 163)
+• national land
+• territory land
+• territory law.
 basic fence, for division 2.1 (Fences requested by occupiers)—see section 2.
 basic rural fence, for division 2.1 (Fences requested by occupiers)—see section 2.
 basic urban fence, for division 2.1 (Fences requested by occupiers)—see section 2.
