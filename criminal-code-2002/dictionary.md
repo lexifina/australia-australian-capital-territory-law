@@ -22,6 +22,7 @@ agent, for part 3.7 (Bribery and related offences)—see section 353.
 aggravated burglary—see section 312.
 aggravated perjury—see section 702.
 aggravated robbery—see section 310.
+application date—see section 10.
 applied provisions—see section 10.
 belongs, in relation to property, for chapter 3 (Theft, fraud, bribery and related offences)—see section 301.
 benefit includes any advantage and is not limited to property.
@@ -61,7 +62,6 @@ death means—
   (a) the irreversible cessation of all function of a person’s brain (including the brain stem); or
   (b) the irreversible cessation of circulation of blood in a person’s body.
 deception, for part 3.3 (Fraudulent conduct)—see section 325.
-default application date—see section 10.
 detriment includes any disadvantage and is not limited to personal injury or to loss of or damage to property.
 directly derived, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 dishonest, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
