@@ -2,20 +2,21 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· ACT
-· auditor-general
-· bankrupt or personally insolvent
-· Commonwealth
-· document
-· exercise
-· function
-· property
-· public sector standards commissioner
-· reviewable decision notice
-· sitting day
-· State
-· the Territory.
+• ACAT
+• ACT
+• auditor-general
+• bankrupt or personally insolvent
+• Commonwealth
+• document
+• exercise
+• function
+• legal practitioner
+• property
+• public sector standards commissioner
+• reviewable decision notice
+• sitting day
+• State
+• the Territory.
 approved negotiation, for part 5A (Dispute resolution)—see section 35A.
 approved records management program, for division 8.3 (Records management—legal services records)—see section 69A.
 assistant, for part 12 (Inquiry relating to affairs of commission)—see section 84A.
