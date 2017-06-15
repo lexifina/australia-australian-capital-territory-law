@@ -73,7 +73,7 @@ GMO means a genetically modified organism.
 GMO licence means a licence issued under section 55.
 GMO register means the GMO Register established under the Commonwealth Act, section 76.
 GM product means a thing (other than a GMO) derived or produced from a GMO.
-GM record means the Record of GMO and GM Product Dealings mentioned in the Commonwealth Act, section 138.
+GM record means the Record of GMO Dealings mentioned in the Commonwealth Act, section 138.
 inadvertent dealings application means an application for a GMO licence to which division 5.3 or division 5.4 does not apply because of the operation of section 46A or section 49.
 institutional biosafety committee means a committee established as an institutional biosafety committee in accordance with the guidelines issued by the regulator under section 98.
 intentional release of a GMO into the environment—see section 11.

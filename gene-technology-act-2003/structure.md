@@ -38,7 +38,7 @@
 ### Division 9.3 Money
 ### Division 9.4 Staffing
 ### Division 9.5 Reporting requirements
-### Division 9.6 Record of GMO and GM product dealings
+### Division 9.6 Record of GMO dealings
 ### Division 9.7 Reviews of notifiable low risk dealings and exemptions
 ## Part 10 Enforcement
 ## Part 11 Powers of inspection
@@ -59,3 +59,4 @@
 ### Division 12.3 Confidential commercial information
 ### Division 12.4 Acts and omissions of representatives
 ### Division 12.6 Other provisions
+## Part 13 Transitional—Gene Technology Amendment Act 2017
