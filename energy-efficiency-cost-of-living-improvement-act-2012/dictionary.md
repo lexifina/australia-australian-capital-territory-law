@@ -2,9 +2,9 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· commencement
-· disallowable instrument (see s 9)
-· Minister (see s 162).
+• commencement
+• disallowable instrument (see s 9)
+• Minister (see s 162).
 abatement factor means the number of tonnes of carbon dioxide equivalent emissions that an eligible activity is taken to save.
 administrator means a person appointed as administrator under section 23.
 approved abatement factor—see section 18.
