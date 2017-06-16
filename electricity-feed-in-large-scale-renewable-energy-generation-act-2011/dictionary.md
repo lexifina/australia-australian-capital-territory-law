@@ -24,26 +24,8 @@ ACT electricity distribution system means the distribution system component of t
 ACT electricity distributor means the network service provider operating the ACT electricity distribution system.
 AEMO—see the national electricity rules, chapter 10 (Glossary).
 Australian capital region means the region made up of—
-  (a) the following areas:
-    (i) ACT;
-    (ii) Bega Valley Shire;
-    (iii) Bombala Valley Shire;
-    (iv) Boorowa Shire;
-    (v) Cooma-Monaro Shire;
-    (vi) Cootamundra Shire;
-    (vii) Eurobodalla Shire;
-    (viii) Goulburn Mulwaree Council Area;
-    (ix) Gundagai Shire;
-    (x) Harden Shire;
-    (xi) Queanbeyan City Council Area;
-    (xii) Palerang Council Area;
-    (xiii) Snowy River Shire;
-    (xiv) Tumbarumba Shire;
-    (xv) Tumut Shire;
-    (xvi) Upper Lachlan Council Area;
-    (xvii) Yass Valley Local Government Area;
-    (xviii) Young Shire; or
-  (b) if a regulation prescribes areas that make up the region—the prescribed areas.
+  (a) the ACT; and
+  (b) if a regulation prescribes an area that makes up the region—the prescribed area.
 capacity, of a generating system—see section 7.
 distribution system—see the National Electricity (ACT) Law, section 2.
 eligible electricity—see section 17 (1).
