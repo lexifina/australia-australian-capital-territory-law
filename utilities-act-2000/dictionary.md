@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Australian citizen
 · Australian Consumer Law (ACT)
 · commissioner for revenue
+· construction occupations registrar
 · corporation
 · director-general (see s 163)
 · disallowable instrument (see s 9)
@@ -142,7 +143,8 @@ stormwater network boundary, for part 14 (Streetlighting and stormwater)—see s
 stormwater network code, for part 14 (Streetlighting and stormwater)—see section 228.
 streetlighting, for part 14 (Streetlighting and stormwater)—see section 226.
 streetlight network—see section 229.
-streetlight network code, for part 14 (Streetlighting and stormwater)—see section 230.
+streetlight network code, for part 14 (Streetlighting and stormwater)—see section 226.
+streetlight network framework, for part 14 (Streetlighting and stormwater)—see section 229A.
 technical code means a technical code approved under the Utilities (Technical Regulation) Act 2014, section 14.
 technical inspector means a person appointed as a technical inspector under the Utilities (Technical Regulation) Act 2014, section 81.
 technical regulator means the technical regulator under the Utilities (Technical Regulation) Act 2014, section 77.
