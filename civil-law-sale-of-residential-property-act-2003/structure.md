@@ -3,4 +3,3 @@
 ## Part 3 Energy efficiency ratings
 ## Part 4 Public auctions of residential property
 ## Part 5 Miscellaneous
-## Part 8 Transitional—Justice and Community Safety Legislation Amendment Act 2016
