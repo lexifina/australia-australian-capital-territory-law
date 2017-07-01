@@ -6,7 +6,7 @@
 ### Division 2.1 Classes of licences
 ### Division 2.2 On licences—subclasses
 ### Division 2.3 Licences—application and decision
-### Division 2.4 Licences—public consultation
+### Division 2.4 Licences—notification and public consultation
 ### Division 2.5 Licences—amendment, transfer, renewal, etc
 ## Part 3 Liquor permits
 ### Division 3.1 Classes of permits
@@ -54,6 +54,7 @@
 ### Division 14.1 Alcohol-free public places
 ### Division 14.2 Children and young people
 ### Division 14.3 Prohibited liquor products
+### Division 14.4 Authorisation for extended trading
 ## Part 15 Liquor advisory board
 ## Part 16 Notification and review of decisions
 ## Part 16A Criminal intelligence

@@ -37,6 +37,8 @@ authorised person—
   (b) for part 11A (Compliance testing)—see section 187A.
 bar licence—see section 22.
 breath testing machine, for division 8.7 (Breath testing machines)—see section 133.
+catered premises means premises where liquor is authorised to be sold under a catering licence.
+catering licence—see section 20A.
 caution offence, for division 9.3 (Police cautions for children and young people)—see section 149.
 certificate of occupancy, for premises—see the Building Act 2004, dictionary.
 child—see the Children and Young People Act 2008, section 11.
@@ -88,7 +90,6 @@ identification document, for a person, means a document that—
   (c) states the person’s date of birth.
 identity card—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 incident, for division 8.6 (Incidents)—see section 130.
-incident register, for division 8.6 (Incidents)—see section 131.
 influential person, for a corporation—see section 15.
 interstate proof of identity card means a document corresponding to a proof of identity card that has been issued under the law of a State.
 intoxicated—see section 104.
@@ -96,8 +97,8 @@ investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictiona
 lease—see the Planning and Development Act 2007, section 235.
 licence—see section 16.
 licence and permit register—see section 195.
-licensed premises means premises that are the subject of a licence.
-licensed times, for the sale of liquor at licensed premises, means the times stated in the licence for the sale of liquor at the premises.
+licensed premises means premises that are the subject of a licence (other than a catering licence).
+licensed times, for the sale of liquor at licensed premises or catered premises, means the times stated in the licence for the sale of liquor at the premises.
 licensee—
   (a) means a person who holds a licence; or
   (b) for part 11 (Complaints and occupational discipline)—see section 174.
