@@ -29,6 +29,7 @@ administrator, for part 3A (Energy industry levy)—see section 54N.
 annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant financial year.
 approved meter, for division 6.4 (Passing on supply costs)—see section 97.
 authorised person means a person appointed as an authorised person under section 114.
+base amount, for part 3A (Energy industry levy)—see section 54G (3).
 capital contribution charge—see section 101 (Capital contribution charges—network development).
 complainant, for part 12 (Complaints to ACAT about utilities)—see section 172.
 complaint, for part 12 (Complaints to ACAT about utilities)—see section 172.
@@ -59,7 +60,6 @@ energy utility, for part 3A (Energy industry levy)—see section 54D (2).
 energy utility service, for part 3A (Energy industry levy)—see section 54D (3).
 essential service, for part 9A (Shortage of essential services)––see section 149A.
 essential service restriction, for part 9A (Shortage of essential services)––see section 149A.
-fixed net regulatory cost, for part 3A (Energy industry levy)—see section 54G (3).
 franchise customer—see section 17 (Customers).
 gas—see section 8.
 gas connection service means a connection service within the meaning of the national gas rules, part 12A (Gas connection for retail customers).
