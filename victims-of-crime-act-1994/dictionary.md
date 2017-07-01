@@ -2,24 +2,24 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· adult
-· bankrupt or personally insolvent
-· child
-· director-general (see s 163)
-· domestic partner (see s 169 (1))
-· home address
-· human rights commission
-· Magistrates Court
-· Minister (see s 162)
-· ombudsman
-· parent
-· penalty unit (see s 133)
-· police officer
-· public servant
-· Supreme Court
-· territory law
-· the Territory.
+• ACT
+• adult
+• bankrupt or personally insolvent
+• child
+• director-general (see s 163)
+• domestic partner (see s 169 (1))
+• home address
+• human rights commission
+• Magistrates Court
+• Minister (see s 162)
+• ombudsman
+• parent
+• penalty unit (see s 133)
+• police officer
+• public servant
+• Supreme Court
+• territory law
+• the Territory.
 administration of justice includes the provision of police services.
 appointed member—see section 22C (1) (c).
 board means the victims advisory board.
