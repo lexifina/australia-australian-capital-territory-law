@@ -226,6 +226,7 @@
 ## Part 25.3 Sharing protected information
 ### Division 25.3.1 Generally
 ### Division 25.3.2 Sharing safety and wellbeing information
+### Division 25.3.3 Designated entities sharing reportable conduct information
 ## Part 25.4 Courts and investigative entities
 ## Part 25.5 Admissibility of evidence
 ## Part 25.6 Protection of people who give information

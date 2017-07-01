@@ -133,6 +133,7 @@ CYP death review committee means the Children and Young People Death Review Comm
 daily care responsibility—see section 19.
 dangerous thing, for part 16.3 (Children and young people in therapeutic protection)—see section 590.
 decision-maker includes any court exercising jurisdiction under this Act.
+designated entity, for division 25.3.3 (Designated entities sharing reportable conduct information)—see section 863A.
 detention place means a place declared to be a detention place under section 142.
 disciplinary action, for chapter 8 (Criminal matters—discipline at detention places)—see section 317.
 divulge, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
@@ -305,6 +306,7 @@ register of young detainees, for chapter 6 (Criminal matters—detention places)
 relevant Act, for division 14.3.5 (Protection orders)—see section 458.
 relevant conference participant, for a family group conference about a child or young person—see section 73.
 relevant presiding officer, for division 8.4.4 (Disciplinary action generally)—see section 316.
+reportable conduct information, for division 25.3.3 (Designated entities sharing reportable conduct information)—see section 863A.
 reporting and investigation procedures means the procedures made by the director-general under section 294.
 representative, for a child or young person, means a lawyer or other person representing the child or young person, but does not include a child or young person who represents himself or herself.
 requirement notice, for part 2.4 (Suitable entities for purposes under Act)—see section 68.
