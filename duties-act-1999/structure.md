@@ -23,16 +23,6 @@
 ### Division 3.7.1 Exempt transactions—personal relationships
 ### Division 3.7.2 Exempt transactions—‘top hatting’ arrangements
 # Chapter 7 Mortgages
-# Chapter 8 Insurance
-## Part 8.1 Preliminary
-## Part 8.2 General insurance
-## Part 8.3 Life insurance
-## Part 8.4 Payment of duty by insurers
-## Part 8.5 Apportionment
-### Division 8.5.1 Apportionment of premiums and other amounts between Australian jurisdictions
-### Division 8.5.2 Apportionment of premiums and other amounts between different types of insurance
-## Part 8.6 Exempt insurance
-## Part 8.7 Miscellaneous
 # Chapter 9 Motor vehicle registration
 ## Part 9.1 Imposition and rates of duty
 ## Part 9.2 Exemptions

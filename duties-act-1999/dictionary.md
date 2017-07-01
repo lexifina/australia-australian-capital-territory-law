@@ -75,16 +75,11 @@ exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ 
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
 FS (BTGR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-general insurance, for chapter 8 (Insurance)—see section 175.
-general insurer, for chapter 8 (Insurance)—see section 175.
 home buyer concession scheme, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
 instrument includes a document and a written statement.
 insurance includes assurance.
 insurance intermediary—see the Insurance Contracts Act 1984 (Cwlth), section 11.
-insurer—
-  (a) for chapter 8 (Insurance), other than part 8.4—see section 175; and
-  (b) for part 8.4 (Payment of duty by insurers)—see section 188A.
 interest—
   (a) for this Act generally—includes an estate, an interest under a lease or a sublease, a proprietary right and a beneficial interest; and
   (b) in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 83.
@@ -116,8 +111,6 @@ lessee includes—
 lessor includes a person who grants a right of the kind mentioned in the definition of lease, paragraph (b).
 licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles Act 1977, or the holder of a similar licence under a corresponding law.
 life company—see the Life Insurance Act 1995 (Cwlth), schedule.
-life insurance, for chapter 8 (Insurance)—see section 175.
-life insurance rider, for chapter 8 (Insurance)—see section 175.
 listed trust means a unit trust scheme all of the units in which are listed for quotation on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
@@ -132,15 +125,12 @@ motor vehicle means a motor vehicle or trailer within the meaning of the Vehicle
 new motor vehicle means a motor vehicle that has not previously been registered under—
   (a) the Vehicle Registration Act or another territory law; or
   (b) a law of the Commonwealth, a State or another Territory.
-paid, for a premium or an instalment of a premium, for chapter 8 (Insurance)—see section 176.
 partner—a person’s partner is either of the following:
   (a) the person’s spouse;
   (b) someone with whom the person has a domestic relationship.
 partnership interest—see section 10 (1) (f).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
-premium––
-  (a) for chapter 2 (Transactions concerning dutiable property)—see section 6; and
-  (b) in relation to general insurance, for chapter 8 (Insurance)—see section 175.
+premium––for chapter 2 (Transactions concerning dutiable property)—see section 6.
 primary production, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 private company means a company—
   (a) that is not limited by shares; or
@@ -150,7 +140,6 @@ public unit trust scheme means any of the following unit trust schemes:
   (a) a listed trust;
   (b) a widely held trust.
 receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
-registered insurer means an insurer registered under chapter 8.4.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
 related body corporate—see the Corporations Act, section 9.
@@ -184,7 +173,6 @@ tax avoidance scheme means a scheme by which a person obtains or seeks to obtain
   (d) the extent to which the scheme reduces the tax that would be otherwise payable; or
   (e) whether the scheme has resulted in, or can reasonably be expected to result in, a change in any person’s financial position, or in any other consequence for any person; or
   (f) the nature of any connection (whether of a business, family or any other nature) between the person and a person mentioned in paragraph (e).
-third-party insurance, for chapter 8 (Insurance)—see section 175.
 time, of transfer of dutiable property—see section 8 (2).
 trading stock, for part 9.2 (Exemptions)—see section 208A.
 transfer includes any of the following:
