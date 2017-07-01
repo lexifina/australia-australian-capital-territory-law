@@ -68,3 +68,4 @@ item | nature of injury | % of single loss amount payable
  | Disease | 
 51 | HIV infection (Human Immunodeficiency Virus infection) | 100
 52 | AIDS (Acquired Immune Deficiency Syndrome) | 100
+53 | imminently fatal asbestos-related disease | 100

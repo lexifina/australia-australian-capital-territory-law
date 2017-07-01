@@ -27,6 +27,7 @@ act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
 annual premium, for an employer, for part 5.4A (Return-to-work coordinators)—see section 103A.
 approved insurer means an insurer approved by the Minister under section 145.
 approved rehabilitation provider—see section 139 (1).
+asbestos-related disease means a disease caused by exposure to asbestos.
 assessed treatment and care needs, of a participant in the LTCS scheme—see the LTCS Act, section 29.
 auditor means any of the following:
   (a) an auditor registered under the Corporations Act;
@@ -94,6 +95,9 @@ full-time student means an individual who—
   (b) is receiving full-time education at a secondary or tertiary educational institution.
 given to the insurer, for pt 6.2 (Time for accepting or rejecting claims)—see section 127 (2).
 gross written premiums, in relation to an approved insurer, means the total amount of premiums, less GST, for all insurance policies written by the insurer for a policy period.
+imminently fatal asbestos-related disease, in a person, means an asbestos-related disease that is reasonably likely to—
+  (a) substantially contribute to the death of the person; and
+  (b) result in the death of the person within 2 years after a doctor mentioned in section 116 (2) (a) certifies the person has the disease.
 initial incapacity date, for a worker in relation to an injury that causes incapacity or death, for part 4.3 (Weekly compensation)—see section 36G.
 initial loss, for part 4.4 (Compensation for permanent injuries)—see section 61 (1).
 injured worker—see section 85A.
