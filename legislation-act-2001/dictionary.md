@@ -91,6 +91,7 @@ children and young people commissioner means the Children and Young People Commi
 Childrens Court means the Childrens Court under the Magistrates Court Act 1930, section 287.
 city area means the area that was the City Area under the City Area Leases Act 1936 (repealed).
 Note See s 103 for the meaning of references to repealed laws.
+city renewal authority means the City Renewal Authority established under the City Renewal Authority and Suburban Land Agency Act 2017, section 7.
 civil partner—a person who is in a civil partnership with someone else is the civil partner of the other person.
 civil partnership means a civil partnership under the Domestic Relationships Act 1994.
 civil union means a civil union under the Civil Unions Act 2012.
@@ -248,7 +249,6 @@ judge means a resident judge, additional judge or acting judge under the Supreme
 Lake Burley Griffin means Lake Burley Griffin as defined in the Lakes Act 1976.
 land includes messuages, tenements and hereditaments, corporeal or incorporeal, of any tenure or description, whatever the interest in the land.
 Note A number of the terms mentioned in the definition of land have a technical meaning at law. A messuage is a house together with its gardens, orchards and outbuildings. The term tenement signifies land capable of being held in freehold. Hereditament refers to real property that can be inherited. Hereditaments may be corporeal, that is, tangible things such as lands and buildings, or incorporeal, that is, intangible rights attaching to land such as rents, easements, tithes and profits a prendre. (Profits a prendre are the right to take some product of, or part of the soil from, the land of someone else.)
-land development agency means the Land Development Agency established under the Planning and Development Act 2007.
 law, of the Territory, means—
   (a) an Act; or
   (b) a subordinate law; or
@@ -423,6 +423,7 @@ statutory declaration means a statutory declaration made under the Statutory Dec
 statutory instrument—see section 13.
 statutory office-holder means a person occupying a position under an Act or statutory instrument (other than a position in the public service).
 subordinate law—see section 8.
+suburban land agency means the Suburban Land Agency established under the City Renewal Authority and Suburban Land Agency Act 2017, section 37.
 summary offence—see section 190.
 Supreme Court means the Supreme Court of the Australian Capital Territory.
 Note The Supreme Court is established by the Supreme Court Act 1933, s 3. The Self-Government Act, s 48A deals with the jurisdiction and powers of the court.
