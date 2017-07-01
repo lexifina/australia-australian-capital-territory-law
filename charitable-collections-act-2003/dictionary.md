@@ -2,18 +2,19 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· body
-· contravene
-· Corporation Act
-· director-general (see s 163)
-· entity
-· individual
-· law
-· person (see s 160)
-· reviewable decision notice
-· State.
+• ACAT
+• bankrupt or personally insolvent
+• body
+• contravene
+• Corporations Act
+• director-general (see s 163)
+• entity
+• individual
+• law
+• person (see s 160)
+• reviewable decision notice
+• State.
+ACNC registered entity means a registered entity under the Australian Charities and Not-for-profits Commission Act 2012 (Cwlth).
 authorised person—see section 54.
 benefit—see section 11.
 charitable purpose includes any benevolent, philanthropic or patriotic purpose.
