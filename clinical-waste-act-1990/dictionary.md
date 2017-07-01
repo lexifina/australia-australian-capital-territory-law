@@ -2,13 +2,13 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· magistrate
-· Minister (see s 162)
-· person
-· public servant
-· reviewable decision notice
-· State.
+• ACAT
+• magistrate
+• Minister (see s 162)
+• person
+• public servant
+• reviewable decision notice
+• State.
 clinical waste means any of the following, other than waste the treatment of which is completed in accordance with the manual:
   (a) waste consisting of a catheter, hypodermic needle, intravenous set, pipette or scalpel;
   (b) waste consisting of any other instrument or object that has been used in the taking of blood, the testing, processing or handling of blood or blood products, the investigation of human or animal diseases or in analysis or research that involves the use of tissue or fluid specimens, whether human or animal;
