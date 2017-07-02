@@ -17,4 +17,3 @@
 ### Division 7.4 Auditing and compliance
 ## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous
-## Part 20 Transitional
