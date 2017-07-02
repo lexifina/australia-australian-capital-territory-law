@@ -2,20 +2,20 @@
 (see s 5)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· bankrupt or personally insolvent
-· director-general (see s 163)
-· doctor
-· environment protection authority
-· exercise
-· found guilty
-· function
-· public servant
-· reviewable decision notice
-· territory law
-· the Territory
-· under.
+• ACAT
+• ACT
+• bankrupt or personally insolvent
+• director-general (see s 163)
+• doctor
+• environment protection authority
+• exercise
+• found guilty
+• function
+• public servant
+• reviewable decision notice
+• territory law
+• the Territory
+• under.
 approved code of practice means a code of practice approved under section 116.
 at premises includes in or on the premises.
 authorised dealing, for a licence, means a dealing with a radiation source that is authorised under the licence.
