@@ -59,5 +59,4 @@
 ### Division 14.3 Protection of territory networks
 ## Part 15 Vicarious liability
 ## Part 16 Miscellaneous
-## Part 18 Transitional—National Energy Retail Law
 ## Part 20 Transitional—Red Tape Reduction Legislation Amendment Act 2017
