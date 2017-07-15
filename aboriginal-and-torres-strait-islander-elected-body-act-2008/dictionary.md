@@ -3,7 +3,6 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACT
-• administrative unit
 • appoint
 • bankrupt or personally insolvent
 • body
@@ -13,7 +12,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • electoral commissioner
 • Executive
 • financial year
-• head of service
 • indictable offence (see s 190)
 • Minister (see s 162)
 • modification
@@ -32,11 +30,15 @@ ATSIEB chair—see section 15.
 ATSIEB deputy chair—see section 16.
 ATSIEB election, for part 3 (ATSIEB elections)—see section 28.
 ATSIEB member means a person elected under part 3 (ATSIEB elections) to be a member of ATSIEB.
+ATSIEB term means the period between ATSIEB elections.
 commissioner means the electoral commissioner.
-community forum means a community forum under section 11.
 election start day, for part 3 (ATSIEB elections)—see section 28.
 elector, for part 3 (ATSIEB elections)—see section 28.
 Electoral Act means the Electoral Act 1992.
+executive officer, of a government agency, means—
+  (a) the director-general; or
+  (b) for a public sector body—the person responsible for the management of the public sector body; or
+  (c) for a territory instrumentality—the head (however described) of the instrumentality.
 government agency means—
   (a) the public service; or
   (b) a public sector body; or
@@ -48,4 +50,4 @@ nominee, for an ATSIEB election, means a person nominated as a candidate for the
 polling close day, for part 3 (ATSIEB elections)—see section 28.
 polling period, for part 3 (ATSIEB elections)—see section 28.
 polling start day, for part 3 (ATSIEB elections)—see section 28.
-UNEC means the United Ngunnawal Elders Council.
+representative Aboriginal organisation—see the Heritage Act 2004, section 14.
