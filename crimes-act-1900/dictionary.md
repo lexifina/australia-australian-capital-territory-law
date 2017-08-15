@@ -101,6 +101,8 @@ knife includes—
   (c) any other blade; but
   (d) does not include a knife of a class or description excluded from this definition by regulation.
 lawful custody, for part 7 (Escape provisions)—see section 157.
+light rail—see the Road Transport (General) Act 1999, dictionary.
+light rail vehicle—see the Road Transport (General) Act 1999, dictionary.
 loaded arms means any firearm, airgun or air pistol that is loaded with any projectile or missile, whether or not the firearm, airgun or air pistol is capable of being discharged.
 long-term care responsibility—see the Children and Young People Act 2008, section 20.
 Magistrates Court, for part 13—see section 300 (2).
@@ -130,6 +132,7 @@ property—
   (b) for division 6.3 (Criminal damage to property)—see section 115.
 provide services, for part 2A (Industrial manslaughter)—see section 49A.
 public place, for part 9 (Exclusion powers)—see section 174.
+railway includes light rail.
 recently used conveyance, in relation to a search of a person, for part 10 (Criminal investigation)—see section 185.
 reciprocating State, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 registrar, for part 20 (Inquiries into convictions)—see section 421.
