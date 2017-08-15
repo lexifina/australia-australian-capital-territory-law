@@ -2,7 +2,7 @@
 (see dict, def work)
 1 The construction, erection, alteration, repair, renovation, demolition, maintenance or removal of a building or structure.
 2 The construction, alteration or repair of a road, street parking area, footpath, thoroughfare (for pedestrians or vehicles), kerbing, guttering, roundabout, median strip, or the performance of other road works.
-3 The construction, alteration, repair, demolition or removal of a railway or part of a railway, or of any platform, signal or other structure connected with a railway.
+3 The construction, alteration, repair, demolition or removal of light rail or any other railway, or part of light rail or other railway, or of any platform, signal or other structure connected with light rail or other railway.
 4 The construction, alteration, repair, demolition or removal of an aircraft runway or a helicopter landing pad.
 5 The construction, alteration, repair, demolition or removal of a bridge, viaduct, aqueduct or tunnel.
 6 The construction, alteration, repair, demolition or removal of a harbour, breakwater, retaining wall or marina.

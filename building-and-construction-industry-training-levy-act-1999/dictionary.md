@@ -2,16 +2,16 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· appoint
-· document
-· entity
-· exercise
-· function
-· Minister (see s 162)
-· penalty unit (see s 133)
-· State
-· the Territory
-· year.
+• appoint
+• document
+• entity
+• exercise
+• function
+• Minister (see s 162)
+• penalty unit (see s 133)
+• State
+• the Territory
+• year.
 authority means the Building and Construction Industry Training Fund Authority established under section 4.
 Building Act, for part 3 (Levy on building and construction work)—see section 15.
 building approval, for part 3 (Levy on building and construction work)—see section 15.
@@ -22,6 +22,7 @@ council means the ACT Regional Building & Construction Industry Training Council
 exempt work, for part 3 (Levy on building and construction work)—see section 15.
 fund means the fund established under section 23 (1).
 governing board means the governing board of the authority.
+light rail—see the Road Transport (General) Act 1999, dictionary.
 owner, of land, for part 3 (Levy on building and construction work)—see section 15.
 project owner, for work, for part 3 (Levy on building and construction work)—see section 15.
 public authority, for part 3 (Levy on building and construction work)—see section 15.
