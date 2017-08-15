@@ -120,7 +120,8 @@ motor accident means an accident caused by, or arising out of the use of, a moto
 motor vehicle—
   (a) means—
     (i) a motor vehicle under the Road Transport (General) Act 1999; or
-    (ii) a vehicle operated on a railway or other fixed track; and
+Note A light rail vehicle is a motor vehicle under the Road Transport (General) Act 1999.
+    (ii) another vehicle operated on a railway or other fixed track; and
   (b) for part 11.1 (Traveller accommodation providers liability), includes a boat, caravan or trailer attached to a motor vehicle.
 negligence—
   (a) for part 3.2 (Mental harm)—see section 32; and
