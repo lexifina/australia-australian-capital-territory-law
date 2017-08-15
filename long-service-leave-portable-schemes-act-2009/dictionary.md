@@ -2,23 +2,23 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· contravene
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· document
-· Executive
-· exercise
-· function
-· head of service
-· in relation to
-· public holiday
-· public servant
-· quarter
-· reviewable decision notice
-· State
-· the Territory.
+• ACAT
+• ACT
+• contravene
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• document
+• Executive
+• exercise
+• function
+• head of service
+• in relation to
+• public holiday
+• public servant
+• quarter
+• reviewable decision notice
+• State
+• the Territory.
 apprentice means an apprentice other than a school-based apprentice.
 at premises, for part 8 (Enforcement)—see section 70.
 authority means the Long Service Leave Authority established under section 79A.

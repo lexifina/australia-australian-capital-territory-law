@@ -100,8 +100,8 @@ Note If a form is approved under s 92 for this provision, the form must be used.
 Example
 Trevor has 5 years of service in the security industry giving him an entitlement to 4.335 weeks long service leave. He first worked in the industry as a registered employee and accrued 2 weeks of the entitlement in that capacity. Trevor then worked as a registered contractor and accrued 2.335 weeks of the entitlement in that capacity.
 Trevor decides to take 4.335 weeks long service leave. The payment for the leave is the total of the following amounts:
-· the amount calculated under s 4.13 where ‘D’ is 842 (ie it took 842 days of service as a registered employee to accrue the first 2 weeks of his long service leave entitlement);
-· the amount calculated under s 4.14 which is the total of the amounts paid to the authority under s 56 for his 983 days work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2.335 weeks of his long service leave entitlement) and the interest under s 4.14 on those amounts.
+• the amount calculated under s 4.13 where ‘D’ is 842 (ie it took 842 days of service as a registered employee to accrue the first 2 weeks of his long service leave entitlement);
+• the amount calculated under s 4.14 which is the total of the amounts paid to the authority under s 56 for his 983 days work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2.335 weeks of his long service leave entitlement) and the interest under s 4.14 on those amounts.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 4.13 Leave payments for service as registered employee—security industry
 For section 4.12, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the security industry is the amount worked out as follows:

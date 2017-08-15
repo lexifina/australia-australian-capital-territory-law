@@ -105,8 +105,8 @@ Note If a form is approved under s 92 for an application, the form must be used.
 Example
 Patricia has 10 years of service in the contact cleaning industry giving her an entitlement to 8.3 weeks long service leave. She first worked in the industry as a registered employee and accrued 5 weeks of the entitlement in that capacity. Patricia then worked as a registered contractor and accrued 3.3 weeks of the entitlement in that capacity.
 Patricia decides to take 7 weeks long service leave. The payment for the leave is the total of the following amounts:
-· the amount calculated under s 2.12 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 5 weeks of her long service leave entitlement);
-· the amount calculated under s 2.13 which is the total of the amounts paid to the authority under s 57 for her first 2.41 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of her long service leave entitlement) and the interest under s 2.13 on those amounts.
+• the amount calculated under s 2.12 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 5 weeks of her long service leave entitlement);
+• the amount calculated under s 2.13 which is the total of the amounts paid to the authority under s 57 for her first 2.41 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of her long service leave entitlement) and the interest under s 2.13 on those amounts.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 2.12 Leave payments for service as registered employee—contract cleaning industry
 ## (1) For section 2.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the contract cleaning industry is the amount worked out as follows:

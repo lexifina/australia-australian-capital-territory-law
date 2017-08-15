@@ -4,7 +4,7 @@
 ## (1) The building and construction industry is—
 ## (a) in relation to the ACT—the industry of constructing, reconstructing, renovating, repairing, altering, demolishing or maintaining the following:
 ## (i) buildings, fences or swimming pools;
-## (ii) roadworks, railways, airfields or other works for the carriage of people, animals or vehicles;
+## (ii) roadworks, light rail and other railways, airfields or other works for the carriage of people, animals or vehicles;
 ## (iii) breakwaters, docks, jetties, piers, wharves or works for the improvement or alteration of a harbour, river or watercourse for the purpose of navigation;
 ## (iv) works for the storage or supply of water or the irrigation of land;
 ## (v) works for the carriage, treatment or disposal of sewage or the effluent from any premises;
@@ -23,6 +23,8 @@ Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 ## (c) laying floor coverings;
 ## (d) hard landscaping;
 ## (e) building or construction work undertaken as part of training with a registered training organisation under the National Vocational Education and Training Regulator Act 2011 (Cwlth), section 3.
+(3) In this section:
+light rail—see the Road Transport (General) Act 1999, dictionary.
 ## 1.2 What is building and construction work?
 (1) In this Act:
 building and construction work means—
@@ -120,8 +122,8 @@ Note If a form is approved under s 92 for an application, the form must be used.
 Example
 John has 10 years of service in the building and construction industry giving him an entitlement to 13 weeks long service leave. He first worked in the industry as a registered employee and accrued 7 weeks of the entitlement in that capacity. John then worked as a registered contractor and accrued 6 weeks of the entitlement in that capacity.
 John decides to take 9 weeks long service leave. The payment for the leave is the total of the following amounts:
-· the amount calculated under section 1.12 where ‘D’ is 1540 (ie it took 1540 days of service as a registered employee to accrue the first 7 weeks of his long service leave entitlement);
-· the amount calculated under section 1.13 which is the total of the amounts paid to authority under section 56 for his first 2.6 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of his long service leave entitlement) and the interest under section 1.13 on those amounts.
+• the amount calculated under section 1.12 where ‘D’ is 1540 (ie it took 1540 days of service as a registered employee to accrue the first 7 weeks of his long service leave entitlement);
+• the amount calculated under section 1.13 which is the total of the amounts paid to authority under section 56 for his first 2.6 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of his long service leave entitlement) and the interest under section 1.13 on those amounts.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.12 Leave payments for service as registered employee—building and construction industry
 ## (1) For section 1.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the building and construction industry is the amount worked out as follows:
