@@ -377,6 +377,7 @@ public service means the Australian Capital Territory Public Service.
 Note The Public Sector Management Act 1994, s 12 deals with the constitution of the public service.
 public trustee and guardian means the Public Trustee and Guardian under the Public Trustee and Guardian Act 1985.
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
+Rail Safety National Law (ACT) means the provisions applying in the ACT because of the Rail Safety National Law (ACT) Act 2014, section 6 (Application of Rail Safety National Law).
 recognised transgender person—see section 169A (3).
 registered surveyor means a surveyor under the Surveyors Act 2007.
 registrar means—
