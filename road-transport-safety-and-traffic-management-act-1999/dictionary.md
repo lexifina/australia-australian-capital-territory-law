@@ -16,6 +16,7 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · illegal user declaration
 · infringement notice
 · known user declaration
+· light rail vehicle
 · motor vehicle
 · National Transport Commission
 · registered operator
