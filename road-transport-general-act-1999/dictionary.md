@@ -27,7 +27,7 @@ Note 4 If a word or expression is defined in an Act (but not a regulation or ano
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
 alcohol awareness course—see the Road Transport (Driver Licensing) Regulation 2000, section 73I.
 all reasonable steps—
-  (a) for division 3.3 (Infringement notice offences involving registrable vehicles—responsible person’s liability)—see section 32; and
+  (a) for division 3.3 (Infringement notice offences involving registrable and rail vehicles)—see section 32; and
   (b) for division 3.3A (Demerit points offences—corporation’s liability)—see section 41.
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
@@ -95,16 +95,28 @@ internal review notice for part 7 (Notification and review of decisions)—see t
 jurisdiction means a State, the Commonwealth or an internal territory, including the ACT.
 known user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 learner licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle.
+light rail—
+  (a) means a system of transport for public passengers using lightweight rail and rolling stock; and
+  (b) includes tracks, catenaries, supports for tracks and catenaries, stops, pedestrian access to stops, signalling facilities and signalling equipment.
+light rail vehicle means a motor vehicle built to be used on light rail.
+motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle, but does not include a personal mobility device.
 National Transport Commission—see the National Transport Commission Act 2003 (Cwlth), section 5.
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
 online declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
+personal mobility device means a vehicle that—
+  (a) is designed to be self-balancing while a person travels in or on the vehicle; and
+  (b) is propelled by an electric motor; and
+  (c) has 2 wheels that operate on a single axis; and
+  (d) has a platform anywhere between the 2 wheels for the person’s feet; and
+  (e) has handles mounted on an upright post.
 probationary licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 provisional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+rail transport operator—see the Rail Safety National Law (ACT), section 4.
 registered, for a vehicle, means registered under the Road Transport (Vehicle Registration) Act 1999.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
+registrable or rail vehicle, for part 3 (Infringement notices for certain offences)—see section 21A.
 registrable vehicle—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 relevant circumstances, of a person, for part 3 (Infringement notices for certain offences)—see section 21A.
 reminder notice—see section 27 (2) (Reminder notice—service and contents).
@@ -144,9 +156,12 @@ traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
 unknown user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 use a vehicle includes drive, park or stop the vehicle on a road or road related area.
-vehicle means—
-  (a) any vehicle, including a tracked vehicle, other than a vehicle that is used exclusively on railways or tramways; or
-  (b) anything else prescribed as a vehicle by regulation.
+vehicle—
+  (a) means any vehicle, including—
+    (i) a tracked vehicle; and
+    (ii) a light rail vehicle; and
+    (iii) anything else prescribed by regulation to be a vehicle; but
+  (b) does not include a vehicle (other than a light rail vehicle) that is used exclusively on a railway or tramway.
 vehicle identifier, for division 5.3 (Written-off vehicles register)—see section 83B.
 written-off vehicle, for division 5.3 (Written-off vehicles register)—see section 83B.
 written-off vehicles register, for division 5.3 (Written-off vehicles register)—see section 83B.
