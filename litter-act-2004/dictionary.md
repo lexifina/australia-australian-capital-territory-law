@@ -2,16 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· contravene
-· director-general (see s 163)
-· Executive
-· fail
-· function
-· home address
-· public servant
-· reviewable decision notice
-· the Territory.
+• ACAT
+• contravene
+• director-general (see s 163)
+• Executive
+• fail
+• function
+• home address
+• public servant
+• reviewable decision notice
+• the Territory.
 authorised person means an authorised person appointed under section 14.
 collection area, for part 4A (Shopping trolleys)—see section 24H (2) (c).
 collection day, for part 4A (Shopping trolleys)—see section 24H (2) (b).
