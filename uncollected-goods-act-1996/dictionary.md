@@ -13,6 +13,7 @@ goods means moveable personal property, including animals and food.
 goods of low value means uncollected goods having a net value of more than $20 but less than $500.
 goods of no value means uncollected goods having a net value of $20 or less.
 goods of significant value means uncollected goods having a net value of $500 or more.
+light rail vehicle—see the Road Transport (General) Act 1999, dictionary.
 net value, in relation to goods, means the market value of the goods less the reasonable costs of selling the goods including removal, storage, preservation, transportation and advertising costs.
 off-street parking area means an area of land available for use by the public, whether with or without the payment of money, for the parking of motor vehicles, and includes—
   (a) the entrances to, the exits from and the passageways in such an area; and
@@ -39,4 +40,8 @@ retention area means an area declared under section 17 to be a retention area fo
 trust bank account means a trust bank account opened by the Minister or the director-general and maintained under the Financial Management Act 1996, section 51.
 uncollected goods—see section 5.
 value means the price goods would attract in the market where no special or extraordinary effort would be expended in selling them, irrespective of a particular contract.
-vehicle means any means of conveyance which runs on wheels, but does not include any vehicle used on a railway or a wheelchair.
+vehicle—
+  (a) means any means of conveyance which runs on wheels, including a light rail vehicle; but
+  (b) does not include—
+    (i) a wheelchair; or
+    (ii) a vehicle (other than a light rail vehicle) that is used on a railway.
