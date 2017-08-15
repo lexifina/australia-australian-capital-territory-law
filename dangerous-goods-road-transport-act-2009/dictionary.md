@@ -84,6 +84,7 @@ involvement in the transport of dangerous goods includes—
   (h) being the consignee of dangerous goods transported; and
   (i) being involved as a director, secretary or manager of a corporation, or other person who takes part in the management of a corporation, that takes part in an activity covered by this definition.
 jurisdiction means the Commonwealth, a State, an external territory or internal territory.
+light rail—see the Road Transport (General) Act 1999, dictionary.
 loader, of goods for transport—see section 13.
 loads, goods for transport—see section 13.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
@@ -132,7 +133,7 @@ road infrastructure—
     (ii) anything under or supporting a road, or road related area, or its surface or pavement and maintained by the Territory or Commonwealth; and
     (iii) any bridge, tunnel, causeway, ford or other work or structure forming part of a road system, or road related area system, or supporting a road or road related area; and
     (iv) any bridge or other work or structure located above, in or on a road or road related area and maintained by the Territory or Commonwealth; and
-    (v) any traffic control devices, railway or tramway equipment, electricity equipment, emergency telephone systems or any other facilities (whether of the same or a different kind) in, on, over, under or connected with anything mentioned in subparagraphs (i) to (iv); and
+    (v) any traffic control devices, railway (including light rail) or tramway equipment, electricity equipment, emergency telephone systems or any other facilities (whether of the same or a different kind) in, on, over, under or connected with anything mentioned in subparagraphs (i) to (iv); and
     (vi) anything else prescribed by regulation as road infrastructure; but
   (b) does not include anything prescribed by regulation as not road infrastructure.
 road related area—see the Australian Road Rules, rule 13.
