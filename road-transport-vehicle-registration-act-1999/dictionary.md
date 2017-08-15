@@ -11,6 +11,7 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · Australian Transport Council
 · driver
 · jurisdiction
+· light rail vehicle
 · motor vehicle
 · National Transport Commission
 · ride
@@ -42,7 +43,9 @@ gross vehicle mass (or GVM), of a vehicle, means the maximum loaded mass of the 
   (a) specified by the manufacturer on an identification plate on the vehicle; or
   (b) if there is no specification by the manufacturer on an identification plate on the vehicle or if the specification is not appropriate because the vehicle has been modified—certified by the road transport authority.
 GVM––see gross vehicle mass.
-heavy vehicle means a motor vehicle or trailer with a GVM more than 4.5t.
+heavy vehicle—
+  (a) means a motor vehicle or trailer with a GVM more than 4.5t; but
+  (b) does not include a light rail vehicle.
 inspect, in relation to a registrable vehicle, includes observe the vehicle’s performance, with or without the use of instrumentation.
 premises means any place.
 register—see registrable vehicles register.
@@ -52,7 +55,7 @@ registered operator means—
   (b) for a vehicle registered under the law of another jurisdiction—a person recorded in the register of the other jurisdiction corresponding to the registrable vehicles register as a registered operator of the vehicle.
 Note A reference to the registered operator includes each registered operator (see s 29).
 registrable vehicle means—
-  (a) any motor vehicle; or
+  (a) any motor vehicle except a light rail vehicle; or
   (b) any trailer; or
   (c) any other vehicle prescribed under the regulations for this definition.
 registrable vehicles register (or register) means the registrable vehicles register required to be kept under section 6.
