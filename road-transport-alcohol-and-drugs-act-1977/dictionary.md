@@ -15,7 +15,9 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 · combination
 · driver
 · jurisdiction
+· light rail vehicle
 · motor vehicle
+personal mobility device
 · ride
 · road
 · road related area
