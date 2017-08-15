@@ -115,10 +115,11 @@ licence means a vehicle sale licence or a car market operator licence and, if th
 licensed car market operator means a person who holds a car market operator licence.
 licensed dealer means a dealer who holds a vehicle sale licence.
 licensed wholesaler means a person who holds a vehicle sale licence to carry on business as a wholesaler.
+light rail vehicle—see the Road Transport (General) Act 1999, dictionary.
 manufacturer means a person who carries on the business of making or assembling motor vehicles.
 model designation means, in relation to a motor vehicle of a particular model, the words, figures, letters or other symbols (if any) applied by the manufacturer of that motor vehicle to describe or identify a motor vehicle of that model.
 motorcycle means a motor vehicle that has less than 4 wheels and is steered by means of handlebars.
-motor vehicle means any motor car, motorcycle, or other vehicle used on land that is propelled wholly or partly by any volatile spirit, steam, gas, oil or electricity, or by any means other than human or animal power, whether or not that vehicle is in working condition or is incomplete but does not include any vehicle used on a railway or tramway or a vehicle included in a class of vehicles that the Minister has, under section 92, declared not to be a motor vehicle for this Act.
+motor vehicle means any motor car, motorcycle, or other vehicle used on land that is propelled wholly or partly by any volatile spirit, steam, gas, oil or electricity, or by any means other than human or animal power, whether or not that vehicle is in working condition or is incomplete but does not include a light rail vehicle or any other vehicle used on a railway or tramway or a vehicle included in a class of vehicles that the Minister has, under section 92, declared not to be a motor vehicle for this Act.
 new motor vehicle means a motor vehicle other than a second-hand motor vehicle.
 occupier, of premises, for part 10A (Enforcement)—see section 70.
 odometer means an instrument or device that measures and records the distance travelled by a motor vehicle, but does not include an instrument or device that is designed so as to permit, as part of its normal functioning, manual alteration of the distance so recorded.
