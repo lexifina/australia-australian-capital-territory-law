@@ -116,6 +116,7 @@ manufactures, for chapter 6 (Serious drug offences)—see section 606.
 menace, for part 3.5 (Blackmail)—see section 340.
 mental impairment—see section 27.
 modification, for part 4.2 (Computer offences)—see section 412.
+motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 negligent—see section 21.
 obtain—
   (a) for chapter 3 (Theft, fraud, bribery and related offences) other than part 3.8A (Cheating at gambling)—see section 300; and
