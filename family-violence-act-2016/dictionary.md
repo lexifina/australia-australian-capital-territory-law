@@ -43,19 +43,19 @@ consent order means a protection order made under section 33.
 copy, in relation to a document to be served in a proceeding, means—
   (a) if the document has been entered into the record of the Magistrates Court—a true copy sealed or stamped with the seal of the court; or
   (b) in any other case—a true copy.
-U corresponding law, for part 9 (National recognition of FVOs)—see section 115.
+corresponding law, for part 9 (National recognition of FVOs)—see section 115.
 court, for division 9.3 (Amendment and revocation of recognised non-local FVOs)—see section 122.
 disability guardian, of a person—see the Guardianship and Management of Property Act 1991, dictionary, definition of guardian.
 family member, of a person—see section 9.
 family violence—see section 8.
-U family violence concern, for part 9 (National recognition of FVOs)—see section 116.
+family violence concern, for part 9 (National recognition of FVOs)—see section 116.
 family violence offence means an offence if the conduct making up the offence is family violence.
 family violence order means—
   (a) for this Act generally—
     (i) a protection order; or
     (ii) an after-hours order; and
-  U (b) for part 9 (National recognition of FVOs)—see section 115.
-U final FVO, for part 9 (National recognition of FVOs)—see section 115.
+  (b) for part 9 (National recognition of FVOs)—see section 115.
+final FVO, for part 9 (National recognition of FVOs)—see section 115.
 finalised—an outstanding related charge is finalised if—
   (a) the charge is withdrawn; or
   (b) the director of public prosecutions declines to proceed further with the prosecution of the offences and causes it to be brought to an end; or
@@ -66,40 +66,40 @@ Note Found guilty, of an offence—see the Legislation Act, dictionary, pt 1.
 final order means a protection order that is not an interim order or after-hours order, and includes an order amending a final order.
 firearm—see the Firearms Act 1996, section 6.
 firearms licence—see the Firearms Act 1996, dictionary, definition of licence.
-U foreign order, for part 9 (National recognition of FVOs)—see section 115.
-U FVO, for part 9 (National recognition of FVOs)—see section 115.
+foreign order, for part 9 (National recognition of FVOs)—see section 115.
+FVO, for part 9 (National recognition of FVOs)—see section 115.
 general interim order—
   (a) means a protection order (including a consent order) made under section 22 (Interim orders—general interim orders and special interim orders); and
   (b) includes an order (other than a final order) that amends or revokes a general interim order.
-U general violence order, for part 9 (National recognition of FVOs)—see section 115.
+general violence order, for part 9 (National recognition of FVOs)—see section 115.
 impaired decision-making ability—see section 74.
-U interim FVO, for part 9 (National recognition of FVOs)—see section 115.
+interim FVO, for part 9 (National recognition of FVOs)—see section 115.
 interim order means—
   (a) a general interim order; or
   (b) a special interim order.
-U interstate FVO, for part 9 (National recognition of FVOs)—see section 115.
-U interstate law enforcement agency, for part 9 (National recognition of FVOs)—see section 115.
-U issuing authority, for part 9 (National recognition of FVOs)—see section 115.
-U issuing jurisdiction, for part 9 (National recognition of FVOs)—see section 115.
+interstate FVO, for part 9 (National recognition of FVOs)—see section 115.
+interstate law enforcement agency, for part 9 (National recognition of FVOs)—see section 115.
+issuing authority, for part 9 (National recognition of FVOs)—see section 115.
+issuing jurisdiction, for part 9 (National recognition of FVOs)—see section 115.
 judicial officer means any of the following:
   (a) a magistrate;
   (b) if a territory law provides for the exercise of the Magistrates Court’s jurisdiction by the registrar—the registrar;
   (c) if a territory law provides for the exercise of the Magistrates Court’s jurisdiction by a deputy registrar—a deputy registrar.
 Note The Court Procedures Rules 2006 may provide for the jurisdiction of the Magistrates Court otherwise exercisable by a magistrate to be exercised by the registrar or deputy registrar, in the cases and subject to the conditions prescribed under the rules (see Magistrates Court Act 1930, s 4 (4)).
-U jurisdiction, for part 9 (National recognition of FVOs)—see section 115.
+jurisdiction, for part 9 (National recognition of FVOs)—see section 115.
 litigation guardian, of a person, means a person appointed in accordance with section 78.
-U local FVO, for part 9 (National recognition of FVOs)—see section 115.
-U local law enforcement agency, for part 9 (National recognition of FVOs)—see section 115.
-U make, for part 9 (National recognition of FVOs)—see section 115.
-U New Zealand FVO, for part 9 (National recognition of FVOs)—see section 115.
-U non-local FVO, for part 9 (National recognition of FVOs)—see section 115.
+local FVO, for part 9 (National recognition of FVOs)—see section 115.
+local law enforcement agency, for part 9 (National recognition of FVOs)—see section 115.
+make, for part 9 (National recognition of FVOs)—see section 115.
+New Zealand FVO, for part 9 (National recognition of FVOs)—see section 115.
+non-local FVO, for part 9 (National recognition of FVOs)—see section 115.
 outstanding—a charge against a person for an offence is outstanding until the charge is finally dealt with in any of the following ways:
   (a) the charge is withdrawn;
   (b) the charge is dismissed by a court;
   (c) the person is discharged by a court following a committal hearing;
   (d) the person is acquitted, convicted or found guilty by a court of the offence.
 Note Found guilty, of an offence—see the Legislation Act, dictionary, pt 1.
-U participating jurisdiction, for part 9 (National recognition of FVOs)—see section 115.
+participating jurisdiction, for part 9 (National recognition of FVOs)—see section 115.
 personal violence—see the Personal Violence Act 2016, section 8.
 proceeding, for a family violence order, means—
   (a) a proceeding for a protection order; or
@@ -107,7 +107,7 @@ Note As a protection order includes an order amending a protection order (see de
   (b) a proceeding to amend or revoke an after-hours order; or
   (c) a proceeding to review a family violence order under part 6; or
   (d) for part 8 (Court-initiated actions)—the family violence proceeding to the extent that the proceeding relates to the exercise of jurisdiction under this Act.
-U properly notified, for part 9 (National recognition of FVOs)—see section 117.
+properly notified, for part 9 (National recognition of FVOs)—see section 117.
 protection order—
   (a) means—
     (i) an interim order; or
@@ -116,9 +116,9 @@ protection order—
     (i) an order about the seizure of a firearms licence, firearm or ammunition; and
     (ii) an order amending a protection order, including an order for a temporary amendment under section 84.
 protected person means the person protected under a family violence order.
-U recognised amendment, for part 9 (National recognition of FVOs)—see section 120.
-U recognised FVO, for part 9 (National recognition of FVOs)—see section 119 and section 144.
-U registered foreign order, for part 9 (National recognition of FVOs)—see section 115.
+recognised amendment, for part 9 (National recognition of FVOs)—see section 120.
+recognised FVO, for part 9 (National recognition of FVOs)—see section 119 and section 144.
+registered foreign order, for part 9 (National recognition of FVOs)—see section 115.
 related—a charge against a person for an offence is related to an application for a final order and, if an interim order is made on the application, an interim order if—
   (a) the person charged is—
     (i) the respondent to the application; and
