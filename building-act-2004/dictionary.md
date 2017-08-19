@@ -73,6 +73,8 @@ friable asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 government certifier, for division 3.2 (Certifiers and government certifiers)—see section 17.
 handling asbestos—to remove any doubt, handling asbestos (including friable asbestos) includes disturbing the asbestos.
 information includes documents.
+insurable residential building, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+insurable residential building work, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 land includes—
   (a) a place under, on or above the ground; and
   (b) land that is the subject of a public unleased land permit under the Public Unleased Land Act 2013; and
