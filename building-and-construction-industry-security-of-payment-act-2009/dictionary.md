@@ -2,12 +2,12 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· business day
+• business day
 director-general (see s 163)
-· exercise
-· found guilty
-· function
-· law, of the Territory.
+• exercise
+• found guilty
+• function
+• law, of the Territory.
 adjudicated amount—see section 24.
 adjudication application—see section 19 (1).
 adjudication certificate means a certificate provided by an authorised nominating authority under section 26.
