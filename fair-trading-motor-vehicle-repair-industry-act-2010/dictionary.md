@@ -2,36 +2,31 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Australian Consumer Law (ACT)
-· Australian Criminal Intelligence Commission
-· Corporations Act
-· entity
-· found guilty
-· Minister (see s 162)
-· occupational discipline order
-· reviewable decision notice
-· State.
+• ACAT
+• Australian Consumer Law (ACT)
+• Australian Criminal Intelligence Commission
+• entity
+• found guilty
+• Minister (see s 162)
+• occupational discipline order
+• reviewable decision notice
+• State.
 advisory committee—see section 39.
-carries on business as a motor vehicle repairer—see section 6 (1).
 commissioner means the commissioner for fair trading.
 consumer—see the Australian Consumer Law (ACT), section 2 (1).
-corporation—see the Corporations Act.
-disqualified person—see section 10.
-ground for occupational discipline—see section 32.
-licence means a motor vehicle repair licence issued under section 12.
-licence number—see section 14 (d).
-licensee, for part 4 (Occupational discipline)—see section 31.
 motor vehicle—see the Sale of Motor Vehicles Act 1977, dictionary.
-motor vehicle repair work—see section 6 (2) and (3).
-police certificate, for a person, means a written statement by the Australian Federal Police or the Australian Criminal Intelligence Commission indicating—
-  (a) whether, according to the records held by the Australian Federal Police or the Australian Criminal Intelligence Commission, the person has been charged with, or convicted of, an offence against a law of—
-    (i) the Territory; or
-    (ii) the Commonwealth; or
-    (iii) a State; or
-    (iv) another country; and
-  (b) if so—particulars of each offence.
-Note A conviction does not include a spent conviction or an extinguished conviction (see Spent Convictions Act 2000, s 16 (c) (i) and s 19H (1) (c) (i)).
-register means the register of licences kept under part 5.
+motor vehicle repair work—
+  (a) means—
+    (i) any of the following work performed on a motor vehicle, motor vehicle part or motor vehicle system:
+      (A) examining or assessing condition or performance improvement;
+      (B) diagnosing and detecting of faults;
+      (C) overhauling;
+      (D) dismantling and assembling;
+      (E) servicing and maintenance;
+      (F) replacing and adjusting of objects for performance improvement;
+      (G) painting and treatment;
+      (H) modifying, altering, installing or fitting work; and
+    (ii) giving advice on any of the work mentioned in subparagraph (i); and
+    (iii) any other work prescribed by regulation to be motor vehicle repair work; but
+  (b) does not include any work prescribed by regulation not to be motor vehicle repair work.
 representative members, of the advisory committee—see section 41.
-reviewable decision, for part 8 (Notification and review of decisions)—see section 50.
