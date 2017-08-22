@@ -39,7 +39,8 @@ fair trading legislation means—
   (g) the Plastic Shopping Bags Ban Act 2010; or
   (h) the Retirement Villages Act 2012; or
   (i) the Security Industry Act 2003; or
-  (j) the Working with Vulnerable People (Background Checking) Act 2011.
+  (j) the Traders (Licensing) Act 2016; or
+  (k) the Working with Vulnerable People (Background Checking) Act 2011.
 goods—see the Australian Consumer Law (ACT), section 2 (1).
 identity card means an identity card issued to an investigator under section 37.
 instrument, for part 2 (The Australian Consumer Law)—see section 5 (1).
