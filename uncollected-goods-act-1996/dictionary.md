@@ -2,11 +2,11 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACT
-· Commonwealth
-· director-general (see s 163)
-· State
-· the Territory.
+• ACT
+• Commonwealth
+• director-general (see s 163)
+• State
+• the Territory.
 authorised officer means an authorised officer under section 16.
 carriageway, in relation to a public street, includes the gutter (if any) of the public street.
 goods means moveable personal property, including animals and food.
@@ -24,7 +24,6 @@ perishable goods means—
   (a) animals; or
   (b) perishable foodstuffs; or
   (c) articles that are, or could become, noxious or a danger to public health.
-personal effects includes private and personal papers, official records, bankbooks, certificates and photographs.
 pool facility––see the Public Pools Act 2015, section 10.
 possessor means a person in possession of goods belonging to another person.
 public place means—
