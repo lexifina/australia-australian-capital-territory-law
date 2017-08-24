@@ -26,6 +26,8 @@
 ### Division 6.3 Jurisdiction of ACAT—this Act, standard residential tenancy terms and standard occupancy terms
 ### Division 6.4 Applications to ACAT
 ### Division 6.5 Powers and decisions of ACAT
+### Division 6.5A Powers and decisions of ACAT—protection orders
 ### Division 6.6 Enforcement of ACAT orders
 ## Part 7 Residential tenancy databases
 ## Part 9 Miscellaneous
+## Part 13 Transitional—Residential Tenancies Legislation Amendment Act 2016

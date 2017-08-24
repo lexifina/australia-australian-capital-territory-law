@@ -46,6 +46,10 @@ If the lessor and tenant agree that the tenant is to lodge the bond
   22 (1) The tenant must examine the report and indicate on the report the tenant’s agreement or disagreement with the items.
   (2) Within 2 weeks after the day the tenant receives the report, the tenant must return 1 copy of the report to the lessor, signed by the tenant and indicating the tenant’s agreement or disagreement with the report or parts of the report.
   23 The lessor must keep the condition report for a period of not less than 1 year after the end of the tenancy.
+## End of tenancy—inspection and condition report
+  23A (1) At the end of the tenancy, an inspection of the premises must be carried out in the presence of the lessor and tenant.
+  (2) A condition report based on the inspection must be completed in the presence of, and signed by, the lessor and tenant.
+  (3) A party may complete and sign a condition report in the absence of the other party if the party has given the other party a reasonable opportunity to be present when the report is completed and signed.
 Rent and other charges
 ## Rent and bond only as payment for the tenancy
   24 The lessor must not require any payment other than rent or bond for the following:
@@ -116,6 +120,10 @@ Rent and other charges
   51 The lessor guarantees that there is no legal impediment to the use of the premises for residential purposes by the tenant.
   52 The lessor must not cause or permit any interference with the reasonable peace, comfort or privacy of the tenant in the use by the tenant of the premises.
   53 Unless otherwise agreed in writing, the tenant has exclusive possession of the premises, as described in the agreement, from the date of commencement of the tenancy agreement provided for in the agreement.
+Lessor to install and maintain smoke alarms
+## Lessor to install and maintain smoke alarms
+  53A (1) The lessor must install and maintain smoke alarms in the premises.
+  (2) The installation of the smoke alarms must comply with the building code, volume 2, part 3.7.2.
 Lessor to make repairs
 Lessor to provide premises in a reasonable state at the start of the tenancy
   54 (1) At the start of the tenancy, the lessor must ensure that the premises, including furniture, fittings and appliances (unless excluded from the tenancy agreement), are—
@@ -126,7 +134,8 @@ Lessor to provide premises in a reasonable state at the start of the tenancy
   (2) An exclusion must be in writing and may, but need not, be included in the tenancy agreement (if in writing).
   (3) The lessor or the tenant may change locks (at his or her own cost unless otherwise agreed) with the agreement of the other party (which will not be unreasonably withheld).
   (4) The lessor or the tenant may change locks (at his or her own cost) in an emergency without the agreement of the other party.
-  (5) If a lock is changed, a copy of the key to the changed lock must be provided to the other party as soon as possible.
+  (5) If the tenant, or a person living at the premises, is a protected person in relation to an interim or final order made under the Family Violence Act 2016 or the Personal Violence Act 2016, the tenant or person may change locks (at his or her own cost) without the agreement of the other party.
+  (6) If a lock is changed, a copy of the key to the changed lock must be provided to the other party as soon as possible unless doing so would affect the safety of a protected person.
 ## Lessor to make repairs
   55 (1) The lessor must maintain the premises in a reasonable state of repair having regard to their condition at the commencement of the tenancy agreement.
   (2) The tenant must notify the lessor of any need for repairs.
@@ -164,6 +173,7 @@ The tenant must take reasonable care of the premises and keep the premises reaso
     (a) not intentionally or negligently damage the premises or permit such damage; and
     (b) notify the lessor of any damage as soon as possible; and
     (c) take reasonable care of the premises and their contents, and keep them reasonably clean, having regard to their condition at the time of the commencement of the tenancy and the normal incidents of living.
+  63A The tenant must replace the battery in a smoke alarm installed in the premises whenever necessary.
   64 The tenant must leave the premises—
     (a) in substantially the same state of cleanliness, removing all the tenant’s belongings and any other goods brought onto the premises during the duration of the tenancy agreement; and
     (b) in substantially the same condition as the premises were in at the commencement of the tenancy agreement, fair wear and tear excepted.

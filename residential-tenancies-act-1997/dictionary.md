@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · administrative unit
 · adult
+· building code
 · calendar month
 · child
 · commissioner for fair trading
@@ -33,7 +34,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · public holiday
 · sign
 · statutory instrument
-· under.
+· under
+· working day.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
 affected residential premises means premises, or a part of premises—
   (a) that—
@@ -43,6 +45,7 @@ affected residential premises means premises, or a part of premises—
 affected residential premises register—see the Dangerous Substances Act 2004, section 47N.
 agent, for part 7 (Residential tenancy databases)—see section 87.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
+bond release application, for division 3.4 (Release of bond money)—see section 32.
 class, of building—see the Building Act 2004, dictionary.
 commissioner means the commissioner for fair trading.
 conditional termination and possession order means a termination and possession order under section 49 (4).
@@ -55,6 +58,7 @@ energy efficiency rating statement—see the Construction Occupations (Licensing
 fixed term agreement means a residential tenancy agreement under which a tenant has a right of occupation for a fixed term.
 former lessor, in relation to a residential tenancy agreement that has been terminated, means the person who was the lessor while the agreement was in force.
 former tenant, in relation to a residential tenancy agreement that has been terminated, means the person who was the tenant while the agreement was in force.
+FV Act, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
 grantor—see section 71A.
 inaccurate, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 lessor—see section 5.
@@ -71,10 +75,14 @@ premises includes—
   (a) any habitable structure, whether it is fixed to the land or not; and
   (b) part of any premises; and
   (c) any land, buildings or structures belonging to the premises.
+protected person, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
+protection order, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
+PV Act, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
 registrar means the registrar of the ACAT.
 rental bond, for a residential tenancy agreement, for part 7 (Residential tenancy databases)—see section 87.
 residential tenancy agreement—see section 6A.
 residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
+respondent, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
 standard occupancy terms means the standard occupancy terms (if any) prescribed by regulation.
 standard residential tenancy terms means the terms mentioned in schedule 1.
 tenancy dispute—see section 72.
