@@ -47,6 +47,7 @@ alternative offence, for an offence—
 anabolic steroid, for part 8 (Anabolic steroids)—see section 170.
 appropriate authority, in relation to a State or another Territory, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 assisting officer, in relation to a warrant, for part 10 (Criminal investigation)—see section 185.
+breasts, for part 3A (Intimate image abuse)—see section 72A.
 causes death, for part 2A (Industrial manslaughter)—see section 49A.
 child—
   (a) for the Act generally—
@@ -70,11 +71,13 @@ director of public prosecutions means—
   (a) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1990; or
   (b) the director of public prosecutions appointed under the Director of Public Prosecutions Act 1983 (Cwlth);
 as the case requires.
+distribute, for part 3A (Intimate image abuse)—see section 72B.
 domestic partner includes former domestic partner.
 economic loss, caused through public awareness of the contamination of goods, or the possibility of contamination, for part 6 (Offences relating to property)—see section 136.
 employee, for part 2A (Industrial manslaughter)—see section 49A.
 employer, for part 2A (Industrial manslaughter)—see section 49A.
 engage in conduct, for part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
+engaged in a private act, for part 3A (Intimate image abuse)—see section 72A.
 evidential material, for part 10 (Criminal investigation)—see section 185.
 exclusion direction, for part 9 (Exclusion powers)—see section 175 (3).
 exclusion period, for part 9 (Exclusion powers)—see section 175 (3) (b).
@@ -83,6 +86,7 @@ executing officer, in relation to a warrant, for part 10 (Criminal investigation
 female genital mutilation, for part 4 (Female genital mutilation)—see section 73.
 frisk search, for part 10 (Criminal investigation)—see section 185.
 Full Court, for part 20 (Inquiries into convictions)—see section 421.
+genital or anal region, for part 3A (Intimate image abuse)—see section 72A.
 goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
 government, for part 2A (Industrial manslaughter)—see the Legislation Act, section 121 (6).
 government entity, for part 2A (Industrial manslaughter)—see section 49A.
@@ -94,6 +98,7 @@ impaired state, for a person, for part 10 (Criminal investigation)—see section
 independent contractor, for part 2A (Industrial manslaughter)—see section 49A.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
 inquiry, for part 20 (Inquiries into convictions)—see section 421.
+intimate image, for part 3A (Intimate image abuse)—see section 72A.
 issuing officer, in relation to a warrant to search premises or a person or a warrant for arrest, for part 10 (Criminal investigation)—see section 185.
 knife includes—
   (a) a knife blade; and
