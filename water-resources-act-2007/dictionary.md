@@ -2,18 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· director-general
-· environment protection authority
-· found guilty
-· function
-· home address
-· infringement notice
-· national capital authority
-· national land
-· public employee
-· public servant
-· reviewable decision notice.
+• ACAT
+• director-general
+• environment protection authority
+• found guilty
+• function
+• home address
+• infringement notice
+• national capital authority
+• national land
+• public employee
+• public servant
+• reviewable decision notice.
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised officer means an authorised officer under the Environment Protection Act 1997, section 14 (3).
 authority means the environment protection authority.
