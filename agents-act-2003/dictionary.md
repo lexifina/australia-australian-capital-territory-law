@@ -2,27 +2,27 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act
-· adult
-· Australian Consumer Law (ACT)
-· Australian Criminal Intelligence Commission
-· authorised deposit-taking institution
-· business day
-· commissioner for fair trading
-· corporation
-· Corporations Act
-· director-general (see s 163)
-· entity
-· financial year
-· found guilty
-· lawyer
-· month
-· occupational discipline order
-· public trustee and guardian
-· reviewable decision notice
-· State
-· under.
+• ACAT
+• Act
+• adult
+• Australian Consumer Law (ACT)
+• Australian Criminal Intelligence Commission
+• authorised deposit-taking institution
+• business day
+• commissioner for fair trading
+• corporation
+• Corporations Act
+• director-general (see s 163)
+• entity
+• financial year
+• found guilty
+• lawyer
+• month
+• occupational discipline order
+• public trustee and guardian
+• reviewable decision notice
+• State
+• under.
 account, for an agent, for division 8.2 (Freezing accounts)—see section 131.
 ADI business day, for a trust account, for division 7.2 (Trust money and trust accounts)—see section 104.
 administrator, for part 9 (Appointment of administrators)—see section 138.
