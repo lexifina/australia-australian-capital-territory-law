@@ -2,21 +2,21 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Australian statistician
-· Commonwealth
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· Executive
-· exercise
-· function
-· High Court
-· land
-· reviewable decision notice
-· territory authority
-· territory land
-· the Territory
-· working day.
+• ACAT
+• Australian statistician
+• Commonwealth
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• Executive
+• exercise
+• function
+• High Court
+• land
+• reviewable decision notice
+• territory authority
+• territory land
+• the Territory
+• working day.
 acquiring authority—
   (a) for this Act generally—means any of the following:
     (i) the Executive;
