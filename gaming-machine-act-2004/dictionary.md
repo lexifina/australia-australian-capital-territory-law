@@ -40,6 +40,9 @@ associated organisation, for a club, means an entity declared to be an associate
 associated organisation declaration, for part 9 (Club administration)—see section 144A.
 association number, for a licensee that is an associated incorporation, means the association number on the licensee’s certificate of incorporation under the Associations Incorporation Act 1991.
 authorisation means an authorisation under an authorisation certificate to operate a gaming machine at the premises stated in the authorisation certificate.
+authorisation certificate means—
+  (a) for class B gaming machines—an authorisation certificate issued under section 29; and
+  (b) for class C gaming machines—an authorisation certificate issued under section 23.
 authorisation certificate amendment application, for part 2B (Licences and authorisations)—see section 33 (1).
 authorisation certificate application, for class C gaming machines, for part 2B (Licences and authorisations)—see section 21 (1).
 authorisation certificate number—
@@ -54,6 +57,12 @@ authorisation schedule—
 authorised officer means an authorised officer under the Control Act, section 20.
 authorised premises means premises for which an authorisation certificate is in force.
 cancelled, for part 4 (Disciplinary action)—see section 56.
+cash facility—
+  (a) means—
+    (i) an automatic teller machine; or
+    (ii) an EFTPOS facility; or
+    (iii) any other facility for gaining access to cash or credit; but
+  (b) does not include a facility where cash is exchanged for other denominations of cash, tokens, tickets or cards for the purpose of playing machines.
 centralised monitoring system (or CMS)—see section 66.
 class B gaming machine—
   (a) means a gaming machine consisting of the game of draw poker, or a game derived from draw poker, that requires player interaction or intervention as part of the fundamental game operation; but
@@ -76,7 +85,8 @@ class C gaming machine—
 class C licence, for part 2B (Licences and authorisations)—see section 11.
 class C licence application, for part 2B (Licences and authorisations)—see section 15.
 class C licensee, for division 6A.6 (Trading of authorisations and gaming machines)—see section 127B.
-club means a corporation or associated incorporation established for the benefit of members to achieve eligible objects.
+club means a corporation or incorporated association established for the benefit of members to achieve eligible objects.
+club group, for part 11 (Finance)—see section 157B.
 CMS—see centralised monitoring system.
 commission means the gambling and racing commission.
 community contribution means a contribution made by a licensee that is approved as a community contribution under section 164.
@@ -124,6 +134,7 @@ gaming machine tax means the tax imposed by section 159.
 gaming rules, for an entity, means the rules mentioned in section 22 (2) (c).
 general licence—see the Liquor Act 2010, section 17.
 general purpose, for a storage permit, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127N (a).
+GMT rebate, for part 11 (Finance)—see section 162A.
 gross revenue, of a licensee or person, means all revenue derived by the licensee or person from the operation of gaming machines, other than—
   (a) the amount of winnings for playing the gaming machines paid or payable under the gaming machines’ indicated prize scales (excluding linked jackpots); and
   (b) any amount set aside under a linked-jackpot arrangement for the payment of linked jackpots.
@@ -197,6 +208,8 @@ reviewable decision, for part 13 (Notification and review of decisions)—see se
 secretary, in relation to a club, includes a person concerned in the management of the club.
 short-term approval, for a technician—see section 76 (3).
 signed-in guest, for a club—see section 54A.
+small or medium club, for a financial year, for part 11 (Finance)—see section 157A.
+small or medium club group, for a financial year, for part 11 (Finance)—see section 157A.
 social impact assessment, for an authorisation certificate application, authorisation certificate amendment application, or application for an in-principle certificate of approval—see section 12 (1).
 statement of objects of a club, means—
   (a) for a company—the memorandum of the company; or
@@ -206,7 +219,7 @@ storage permit—see section 127L.
 storage rules, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored authorisation, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
-tax law—see the Taxation Administration Act 1999, section 4.
+tax period, for part 11 (Finance)—see section 157A.
 technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
 temporary member, of a club—see section 54A.
