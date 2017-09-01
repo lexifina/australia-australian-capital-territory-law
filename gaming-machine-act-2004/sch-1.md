@@ -49,4 +49,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 46 | 147C (2) (b) | repeal declaration of associated organisation | entity given warning notice
 47 | 148B (2) | give direction to amend club’s constitution | club given direction
 48 | 153 (2) | give direction about separate parts of authorised premises | licensee given direction
-49 | 164 | refuse to approve contributions as community contributions | applicant for approval
+49 | 157C (2) | refuse to determine that licensee not part of club group | licensee who seeks determination
+50 | 157C (4) | revoke determination that licensee is not part of club group | licensee who has determination revoked
+51 | 162C (3) | claim for GMT rebate not accepted | licensee who claims GMT rebate
+52 | 164 | refuse to approve contributions as community contributions | applicant for approval
