@@ -6,6 +6,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACT
 · Australia
 · bankrupt or personally insolvent
+· child
 · civil partnership
 · civil union
 · commissioner for revenue
@@ -36,6 +37,7 @@ associated person—
 Australian Stock Exchange means ASX Limited, ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+cancelled, for chapter 2 (Transactions concerning dutiable property)—see section 6.
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
 commercial lease, for chapter 2 (Transactions concerning dutiable property)––see section 6.
@@ -54,6 +56,7 @@ cost, in relation to a lease—see section 136.
 Crown lease—see the Land Titles Act 1925, dictionary.
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
+de facto relationship, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
 deferral arrangement, for part 2.6A (Deferred payments—home buyers) see section 75AC (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
 determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
@@ -122,6 +125,7 @@ marriage includes a void marriage.
 matrimonial property, of a marriage, means property of the parties to the marriage or of either of them.
 mortgage means any charge on land created merely for securing a debt.
 motor vehicle means a motor vehicle or trailer within the meaning of the Vehicle Registration Act, but does not include a caravan or camper trailer.
+motor vehicle transfer application, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
 new motor vehicle means a motor vehicle that has not previously been registered under—
   (a) the Vehicle Registration Act or another territory law; or
   (b) a law of the Commonwealth, a State or another Territory.
@@ -164,7 +168,7 @@ scheme includes—
   (c) any series or combination of schemes mentioned in paragraphs (a) and (b).
 shares includes rights to shares.
 significant interest, in a landholder—see section 83.
-stamped—see section 233.
+spouse party, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
 Taxation Administration Act means the Taxation Administration Act 1999.
 tax avoidance scheme means a scheme by which a person obtains or seeks to obtain a reduction in, or exemption from, tax that would otherwise be payable and where it would be reasonable to conclude that the person entered into or carried out the scheme principally for the purpose of obtaining the reduction or exemption, having regard to—
   (a) the way in which the scheme was entered into or carried out; or
@@ -175,6 +179,7 @@ tax avoidance scheme means a scheme by which a person obtains or seeks to obtain
   (f) the nature of any connection (whether of a business, family or any other nature) between the person and a person mentioned in paragraph (e).
 time, of transfer of dutiable property—see section 8 (2).
 trading stock, for part 9.2 (Exemptions)—see section 208A.
+transaction, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
 transfer includes any of the following:
   (a) assignment;
   (b) exchange;
