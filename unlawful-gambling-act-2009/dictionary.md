@@ -2,18 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· Executive
-· fail
-· function
-· gambling and racing commission
-· public servant
-· the Territory.
+• ACAT
+• ACT
+• Executive
+• fail
+• function
+• gambling and racing commission
+• public servant
+• the Territory.
 approval means an approval under part 3.
 authorised officer means an authorised officer under the Control Act, section 20.
 betting––see section 6.
-charitable organisation—see the Duties Act 1999, dictionary.
+charitable organisation means an organisation, society, institution or body carried on for a religious, educational, benevolent or charitable purpose, other than one carried on for securing financial benefits to its members.
 charitable purpose includes any benevolent, philanthropic or patriotic purpose.
 commission means the gambling and racing commission.
 Control Act means the Gambling and Racing Control Act 1999.
