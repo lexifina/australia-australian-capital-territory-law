@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · civil union partner
 · director of public prosecutions
 · domestic partner (see s 169)
+· found guilty
 · lawyer
 · magistrate
 · Magistrates Court
@@ -44,7 +45,7 @@ copy, in relation to a document to be served in a proceeding, means—
   (a) if the document has been entered into the record of the Magistrates Court—a true copy sealed or stamped with the seal of the court; or
   (b) in any other case—a true copy.
 corresponding law, for part 9 (National recognition of FVOs)—see section 115.
-court, for division 9.3 (Amendment and revocation of recognised non-local FVOs)—see section 122.
+court, for division 9.3 (Amendment and revocation of recognised non-local FVOs)—see section 131.
 disability guardian, of a person—see the Guardianship and Management of Property Act 1991, dictionary, definition of guardian.
 family member, of a person—see section 9.
 family violence—see section 8.
@@ -55,6 +56,7 @@ family violence order means—
     (i) a protection order; or
     (ii) an after-hours order; and
   (b) for part 9 (National recognition of FVOs)—see section 115.
+family violence proceeding, for part 8 (Court-initiated actions)—see section 111.
 final FVO, for part 9 (National recognition of FVOs)—see section 115.
 finalised—an outstanding related charge is finalised if—
   (a) the charge is withdrawn; or
