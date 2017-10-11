@@ -69,7 +69,6 @@ business day means a day that is not—
   (b) a public holiday or bank holiday in the ACT.
 by regulation includes under a regulation.
 Note See also def under, in relation to an Act or statutory instrument.
-by-law, in relation to an Act, means a by-law made or in force under the Act.
 calendar month means one of the 12 months of the year.
 calendar year means a period of 12 months beginning on 1 January.
 Canberra Institute of Technology means the Canberra Institute of Technology under the Canberra Institute of Technology Act 1987.
@@ -478,7 +477,7 @@ word includes any drawing, figure, number and symbol.
 working day means a day that is not—
   (a) a Saturday or Sunday; or
   (b) a public holiday in the ACT.
-work safety commissioner means the work safety commissioner under the Work Health and Safety Act 2011.
+work safety commissioner means the Work Safety Commissioner under the Work Health and Safety Act 2011, schedule 2, part 2.2.
 writing includes any way of representing or reproducing words in visible form.
 Examples
 printing, photocopying, photography, typewriting
