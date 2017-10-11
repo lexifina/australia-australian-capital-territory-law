@@ -28,11 +28,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · Supreme Court
 · victims of crime commissioner
 · writing.
-ACAT mental health provision, for a child or young person—see the Children and Young People Act 2008, section 491.
 advance agreement—see section 26.
 advance consent direction—see section 27.
 affected person, in relation to a forensic patient—see section 128.
-affected person register—see section 130.
+affected person register, for part 7.2 (Affected people)—see section 130.
 approved community care facility means a facility approved under section 262.
 approved mental health facility means a facility approved under section 261.
 assessment means a psychiatric or psychological assessment.
