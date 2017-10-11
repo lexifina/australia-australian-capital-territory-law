@@ -2,22 +2,21 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· authorised deposit-taking institution
-· bankrupt or personally insolvent
-· child
-· civil partnership
-· civil union
-· corporation
-· domestic partner (see s 169 (1))
-· exercise
-· public trustee and guardian.
+• authorised deposit-taking institution
+• bankrupt or personally insolvent
+• child
+• civil partnership
+• civil union
+• corporation
+• domestic partner (see s 169 (1))
+• exercise
+• public trustee and guardian.
 affinity means affinity derived through marriage or any other domestic partnership.
 approved, for medical research or low-risk research, for part 4.3A (Medical research matters)—see section 41A.
 attorney—see section 6.
 close friend, of a person, means someone who has a close personal relationship with the person and a personal interest in the person’s welfare.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 decision-making capacity—see section 9 (1).
-decision-making principles—see section 41B.
 disability care means care that is provided to a person with a disability in a residential facility in which the person is also provided with accommodation that includes—
   (a) appropriate staffing to meet the nursing and personal care needs of the person; and
   (b) meals and cleaning services; and
@@ -54,11 +53,6 @@ Examples of use of legal services
 2 use of legal services to make a transaction
 3 use of legal services to bring or defend a proceeding before a court, tribunal or other entity
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-liquidator, of an attorney, includes—
-  (a) the official manager of the attorney; or
-  (b) the receiver of the attorney’s property; or
-  (c) the receiver and manager of the attorney’s property; or
-  (d) the managing controller of the attorney’s property.
 low-risk research, in relation to a person, for part 4.3A (Medical research matters)—see section 41A.
 medical research, in relation to a person, for part 4.3A (Medical research matters)—see section 41A.
 medical research matter, for a principal—see section 12A.
@@ -82,4 +76,3 @@ residential disability care facility—
   (b) does not include a residential aged care facility.
 special health care matter, for a principal—see section 37.
 special personal matter, for a principal—see section 36.
-will includes a codicil.
