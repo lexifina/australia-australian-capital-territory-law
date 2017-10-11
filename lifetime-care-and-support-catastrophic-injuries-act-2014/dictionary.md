@@ -2,50 +2,50 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· corporation
-· disallowable instrument (see s 9)
-· financial year
-· health practitioner
-· legal practitioner
-· notifiable instrument (see s 10)
-· person (see s 160)
-· public employee
-· territory authority
-· under.
+• corporation
+• disallowable instrument (see s 9)
+• financial year
+• health practitioner
+• legal practitioner
+• notifiable instrument (see s 10)
+• person (see s 160)
+• public employee
+• territory authority
+• under.
 Note 3 The Road Transport (Third-Party Insurance) Act 2008 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (Third-Party Insurance) Act 2008, dictionary:
-· CTP insured person (see s 16)
-· CTP policy (see s 18)
-· CTP premium
-· CTP premium guidelines (see s 39)
-· CTP regulator (see s 14)
-· insured motor vehicle (see s 15)
-· licensed insurer
-· motor accident (see s 7)
-· motor accident claim
-· nominal defendant
-· non-economic loss (see s 156B)
-· personal injury (see s 6)
-· responsible person, for a vehicle.
+• CTP insured person (see s 16)
+• CTP policy (see s 18)
+• CTP premium
+• CTP premium guidelines (see s 39)
+• CTP regulator (see s 14)
+• licensed insurer
+• motor accident (see s 7)
+• motor accident claim
+• nominal defendant
+• non-economic loss (see s 156B)
+• personal injury (see s 6)
+• responsible person, for a vehicle
+• uninsured motor vehicle (see s 60)
 Note 4 The Workers Compensation Act 1951 contains definitions relevant to this Act. For example, the following terms are defined in the Workers Compensation Act 1951, dictionary:
-· claim for payment
-· compulsory insurance policy (see s 144)
-· DI fund
-· DI fund manager
-· gross written premiums
-· notional gross written premium
-· professional sporting activity
-· self-insurer
-· Territory or State of connection (see s 36A)
-· worker.
+• claim for payment
+• compulsory insurance policy (see s 144)
+• DI fund
+• DI fund manager
+• gross written premiums
+• notional gross written premium
+• professional sporting activity
+• self-insurer
+• Territory or State of connection (see s 36A)
+• worker.
 ACTIA means the Australian Capital Territory Insurance Authority established under the Insurance Authority Act 2005.
 approved provider, of a service—see section 29.
 assessed treatment and care needs, of a participant in the LTCS scheme—see section 29.
 attendant care services, for a person who is a participant in the LTCS scheme, means services that aim to give the person assistance with everyday tasks.
 Examples
-· personal assistance
-· nursing
-· home maintenance
-· domestic services
+• personal assistance
+• nursing
+• home maintenance
+• domestic services
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 bulk billing arrangements, for part 9 (Payments to hospitals, doctors and others)—see section 68.
 claim, in relation to an injury, means—
