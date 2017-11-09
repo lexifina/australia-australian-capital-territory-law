@@ -2,24 +2,26 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Act
-· ACT
-· Commonwealth
-· disallowable instrument (see s 9)
-· Executive
-· in relation to
-· may (see s 146)
-· Minister (see s 162)
-· month
-· must (see s 146)
-· notifiable instrument (see s 10)
-· person (see s 160)
-· quarter
-· regulation
-· territory law
-· the Territory
-· under
-· writing.
+• ACAT
+• Act
+• ACT
+• Commonwealth
+• disallowable instrument (see s 9)
+• Executive
+• in relation to
+• may (see s 146)
+• Minister (see s 162)
+• month
+• must (see s 146)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• person (see s 160)
+• quarter
+• regulation
+• territory law
+• the Territory
+• under
+• writing.
 ACT electricity distribution system means the distribution system component of the interconnected national electricity system in the ACT.
 ACT electricity distributor means the network service provider operating the ACT electricity distribution system.
 AEMO—see the national electricity rules, chapter 10 (Glossary).
@@ -43,6 +45,7 @@ National Electricity (ACT) Law means the provisions applying in the ACT because 
 national electricity market—see the National Electricity (ACT) Law, section 2.
 national electricity rules means the national electricity rules under the National Electricity (ACT) Law.
 network service provider—see the National Electricity (ACT) Law, section 2.
+reasonable costs determination—see section 20B (1).
 renewable energy source—see section 6.
 spot market—see the national electricity rules, chapter 10 (Glossary).
 spot price value, for eligible electricity, means the amount that would have been paid for the electricity by the AEMO if the electricity had been sold on the spot market.
