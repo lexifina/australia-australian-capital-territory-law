@@ -2,35 +2,35 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· administrative unit
-· adult
-· Australian citizen
-· Australian statistician
-· Commonwealth
-· director-general (see s 163)
-· doctor
-· Executive
-· exercise
-· fail
-· function
-· head of service
-· home address
-· individual
-· lawyer
-· person (see s 160)
-· public holiday
-· public sector body
-· public sector standards commissioner
-· public service
-· quarter
-· reviewable decision notice
-· Self-Government Act
-· Speaker (except for parts 13 and 16)
-· State
-· statutory office-holder
-· territory instrumentality
-· territory lease.
+• ACAT
+• administrative unit
+• adult
+• Australian citizen
+• Australian statistician
+• Commonwealth
+• director-general (see s 163)
+• doctor
+• Executive
+• exercise
+• fail
+• function
+• head of service
+• home address
+• individual
+• lawyer
+• person (see s 160)
+• public holiday
+• public sector body
+• public sector standards commissioner
+• public service
+• quarter
+• reviewable decision notice
+• Self-Government Act
+• Speaker (except for parts 13 and 16)
+• State
+• statutory office-holder
+• territory instrumentality
+• territory lease.
 abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
   (a) of a person, for this Act generally—means the person’s principal place of residence (including a place of residence from which a person who is an elector is temporarily absent and to which the person intends to return to live in); and
