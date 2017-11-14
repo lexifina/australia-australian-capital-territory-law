@@ -2,31 +2,31 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act
-· administrative unit
-· auditor-general
-· authorised deposit-taking institution
-· bankrupt or personally insolvent
-· director-general (see s 163)
-· electoral commission
-· electoral commissioner
-· exercise
-· found guilty
-· function
-· GST
-· may (see s 146)
-· Minister (see s 162)
-· must (see s 146)
-· Office of the Legislative Assembly
-· officer of the Assembly
-· person
-· public employee
-· public servant
-· reviewable decision notice
-· Self-Government Act
-· territory-owned corporation
-· Treasurer.
+• ACAT
+• Act
+• administrative unit
+• auditor-general
+• authorised deposit-taking institution
+• bankrupt or personally insolvent
+• director-general (see s 163)
+• electoral commission
+• electoral commissioner
+• exercise
+• found guilty
+• function
+• GST
+• may (see s 146)
+• Minister (see s 162)
+• must (see s 146)
+• Office of the Legislative Assembly
+• officer of the Assembly
+• person
+• public employee
+• public servant
+• reviewable decision notice
+• Self-Government Act
+• territory-owned corporation
+• Treasurer.
 accounting standards means the accounting standards issued by the Australian Accounting Standards Board, as in force or applicable from time to time.
 Note Accounting standards are accessible at www.aasb.gov.au.
 applicable governmental policies, for a territory authority, for part 9 (Governance of territory authorities)—see section 103.
@@ -67,7 +67,7 @@ general government sector means—
 governing board, for a territory authority, means the governing board established under the Act that establishes the authority.
 governing board member, for a territory authority with a governing board for part 9 (Governance of territory authorities)—see section 72.
 handover day, for division 9.7 (Additional provisions for restructuring of certain territory authorities)—see section 121.
-input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), dictionary.
+input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), section 195-1 (Dictionary).
 interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
