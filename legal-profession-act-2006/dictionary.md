@@ -2,40 +2,40 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· authorised deposit-taking institution (or ADI)
-· business day
-· change
-· contravene
-· Commonwealth
-· corporation
-· Corporations Act
-· document
-· entity
-· exercise
-· external territory
-· financial year
-· for
-· foreign country
-· found guilty (of an offence)
-· function
-· home address
-· indictable offence
-· individual
-· in relation to
-· may (see s 146)
-· must (see s 146)
-· power
-· public employee
-· public notice
-· public servant
-· public trustee and guardian
-· reviewable decision notice
-· State
-· Supreme Court
-· territory law
-· under.
+• ACAT
+• ACT
+• authorised deposit-taking institution (or ADI)
+• business day
+• change
+• contravene
+• Commonwealth
+• corporation
+• Corporations Act
+• document
+• entity
+• exercise
+• external territory
+• financial year
+• for
+• foreign country
+• found guilty (of an offence)
+• function
+• home address
+• indictable offence
+• individual
+• in relation to
+• may (see s 146)
+• must (see s 146)
+• power
+• public employee
+• public notice
+• public servant
+• public trustee and guardian
+• reviewable decision notice
+• State
+• Supreme Court
+• territory law
+• under.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
 admissions board means the Legal Practitioners Admissions Board established by section 558.
 admission rules means rules relating to the admission of lawyers and associated matters made under the Court Procedures Act 2004 for part 2.3 (Admission of local lawyers), and includes any forms approved under that Act for those rules or that part.
