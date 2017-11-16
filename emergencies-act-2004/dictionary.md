@@ -2,40 +2,40 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· ACT
-· administrative unit
-· adult
-· appoint
-· bankrupt or personally insolvent
-· chief health officer
-· Chief Minister
-· chief police officer
-· conservator of flora and fauna
-· contravene
-· Criminal Code
-· director-general (see s 163)
-· disallowable instrument
-· entity
-· Executive
-· exercise
-· fail
-· function
-· give
-· home address
-· may
-· Minister (see s 162)
-· must
-· notifiable instrument
-· penalty unit
-· planning and land authority
-· police officer
-· public trustee and guardian
-· reviewable decision notice
-· statutory office-holder
-· territory-owned corporation
-· the Territory
-· under.
+• ACAT
+• ACT
+• administrative unit
+• adult
+• appoint
+• bankrupt or personally insolvent
+• chief health officer
+• Chief Minister
+• chief police officer
+• conservator of flora and fauna
+• contravene
+• Criminal Code
+• director-general (see s 163)
+• disallowable instrument
+• entity
+• Executive
+• exercise
+• fail
+• function
+• give
+• home address
+• may
+• Minister (see s 162)
+• must
+• notifiable instrument
+• penalty unit
+• planning and land authority
+• police officer
+• public trustee and guardian
+• reviewable decision notice
+• statutory office-holder
+• territory-owned corporation
+• the Territory
+• under.
 agency, for part 5.3 (Bushfire prevention)—see section 70.
 ambulance levy, for schedule 1 (Ambulance levy)—see schedule 1, section 1.4.
 ambulance service means the ACT Ambulance Service established under section 40.
