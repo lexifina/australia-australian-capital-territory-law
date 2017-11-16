@@ -39,7 +39,8 @@ the following matters:
   (g) rules about the reckoning of time and anything else about time;
   (h) confidentiality for mediators, neutral evaluators and expert witnesses;
   (i) protection from liability for mediators, neutral evaluators and expert witnesses;
-  (j) transitional arrangements
+  (j) security of court premises, including the use of electronic devices in court premises;
+  (k) transitional arrangements
 ## Part 1.2 Civil proceedings
 ## 7 Beginning proceedings
 beginning proceedings, including, for example, the following:
