@@ -8,7 +8,7 @@
 # Chapter 4 Detention in police and court cells etc
 # Chapter 5 Escorting detainees
 # Chapter 6 Living conditions at correctional centres
-# Chapter 7 Inspection of correctional centres
+# Chapter 7 Access to and inspection of correctional centres
 # Chapter 8 Admission to correctional centres
 # Chapter 9 Management and security
 ## Part 9.1 Management and security—general

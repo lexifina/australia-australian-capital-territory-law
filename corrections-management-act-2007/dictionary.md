@@ -30,10 +30,11 @@ accredited person, in relation to a detainee, means each of the following:
   (a) if the detainee is a sentenced offender—anyone involved in relation to the administration of the sentence;
   (b) a lawyer representing the detainee;
   (c) an official visitor;
-  (d) the human rights commissioner;
-  (e) the public advocate;
-  (f) the ombudsman;
-  (g) a person prescribed by regulation.
+  (d) the inspector of correctional services;
+  (e) the human rights commissioner;
+  (f) the public advocate;
+  (g) the ombudsman;
+  (h) a person prescribed by regulation.
 Note Territory laws apply to a delegate of a person in the exercise of a delegation as if the delegate were the person who appointed the delegate (see Legislation Act, s 239 (2)).
 accused—see section 151.
 activity—see the Crimes (Sentence Administration) Act 2005, dictionary.
@@ -83,6 +84,7 @@ health service—
 hearing, for an inquiry—see section 151.
 initial report—see section 156 (2) (e).
 inquiry—see section 151.
+inspector of correctional services—means the inspector of correctional services appointed under the Inspector of Correctional Services Act 2017, section 9.
 interstate detainee, for part 12.2 (Interstate leave)—see section 206.
 interstate escort officer—see section 213.
 interstate leave permit—see section 208.
