@@ -2,22 +2,22 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· appointment
-· bankrupt or personally insolvent
-· director-general (see s 163)
-· entity
-· Executive
-· exercise
-· fail
-· function
-· head of service
-· law, of the Territory
-· Office of the Legislative Assembly
-· public servant
-· Speaker
-· territory law
-· territory-owned corporation
-· under.
+• appointment
+• bankrupt or personally insolvent
+• director-general (see s 163)
+• entity
+• Executive
+• exercise
+• fail
+• function
+• head of service
+• law, of the Territory
+• Office of the Legislative Assembly
+• public servant
+• Speaker
+• territory law
+• territory-owned corporation
+• under.
 chief executive officer—see the Financial Management Act, dictionary.
 contract—see the Financial Management Act, dictionary.
 controlling interest—see section 5.
