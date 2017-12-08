@@ -2,19 +2,19 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-  · ACAT
-  · ACT
-  · bankrupt or personally insolvent
-  · director-general (see s 163)
-  · document
-  · entity
-  · health practitioner
-  · may (see s 146)
-  · must (see s 146)
-  · occupational discipline order
-  · public advocate
-  · under
-  · veterinary surgeon.
+  • ACAT
+  • ACT
+  • bankrupt or personally insolvent
+  • director-general (see s 163)
+  • document
+  • entity
+  • health practitioner
+  • may (see s 146)
+  • must (see s 146)
+  • occupational discipline order
+  • public advocate
+  • under
+  • veterinary surgeon.
 act includes omission.
 aggrieved person, in relation to a complaint—see section 43 (1) (a).
 applicable standard, in relation to a service provider, means anything mentioned in any of the following provisions that applies to the provider:
