@@ -112,6 +112,7 @@ child concern report—see section 353.
 children and young people employment standards—see section 887 (2) (g).
 children and young people deaths register—see section 727N (1).
 Children and Youth Services Council means the Children and Youth Services Council established under section 27.
+child safety information sharing entity, for division 25.3.3 (Sharing reportable conduct information)—see section 863A (1).
 child welfare law—see section 640 (1).
 child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 638.
 child welfare proceeding, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 639.
@@ -133,7 +134,7 @@ CYP death review committee means the Children and Young People Death Review Comm
 daily care responsibility—see section 19.
 dangerous thing, for part 16.3 (Children and young people in therapeutic protection)—see section 590.
 decision-maker includes any court exercising jurisdiction under this Act.
-designated entity, for division 25.3.3 (Designated entities sharing reportable conduct information)—see section 863A.
+designated entity, for division 25.3.3 (Sharing reportable conduct information)—see section 863A (1).
 detention place means a place declared to be a detention place under section 142.
 disciplinary action, for chapter 8 (Criminal matters—discipline at detention places)—see section 317.
 divulge, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
@@ -174,6 +175,7 @@ frisk search—
 general parental authority, for a residential care service—see section 520 (2).
 government agency for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 harmful conduct, engaged in by a child or young person—see section 533.
+head, of a designated entity, for division 25.3.3 (Sharing reportable conduct information)—see the Ombudsman Act 1989, section 17D (1).
 health care treatment means treatment of an illness, disability, disorder or condition by a health practitioner.
 health facility means a hospital or other facility where health services are provided.
 health segregation direction, for division 6.6.3 (Segregation)—see section 204.
@@ -306,7 +308,7 @@ register of young detainees, for chapter 6 (Criminal matters—detention places)
 relevant Act, for division 14.3.5 (Protection orders)—see section 458.
 relevant conference participant, for a family group conference about a child or young person—see section 73.
 relevant presiding officer, for division 8.4.4 (Disciplinary action generally)—see section 316.
-reportable conduct information, for division 25.3.3 (Designated entities sharing reportable conduct information)—see section 863A.
+reportable conduct information, for division 25.3.3 (Sharing reportable conduct information)—see section 863A (1).
 reporting and investigation procedures means the procedures made by the director-general under section 294.
 representative, for a child or young person, means a lawyer or other person representing the child or young person, but does not include a child or young person who represents himself or herself.
 requirement notice, for part 2.4 (Suitable entities for purposes under Act)—see section 68.
