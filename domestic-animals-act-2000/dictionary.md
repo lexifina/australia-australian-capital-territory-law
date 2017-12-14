@@ -10,7 +10,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 · person (see s 160)
 · police officer
 · reviewable decision notice
-· the Territory.
+· the Territory
+· veterinary surgeon.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
 animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
   (a) section 6B (Duty to care for animal);
@@ -38,6 +39,11 @@ authorised person means an authorised person under section 123, and includes the
 breeding licence—see section 72A.
 carer, for an animal at a particular time, means an individual over 14 years old who is in charge of the animal at that time.
 connected with an offence, for division 9.2 (Powers of authorised people)—see section 126.
+control order, for a dog, means an order issued to the dog’s keeper by the registrar requiring 1 or more of the following:
+  (a) the property where the dog is kept to have secure fencing to properly confine the dog to the premises;
+  (b) fencing at the property where the dog is kept to be inspected by the registrar every 6 months;
+  (c) the keeper and the dog to complete a course approved by the registrar in writing in behavioural or socialisation training for the dog;
+  (d) any other thing the registrar considers appropriate.
 dangerous dog means a dog that is declared to be a dangerous dog under section 22 (1) or (2) (Declarations—dangerous dogs) or section 50 (Dog attacks person or animal causing serious injury).
 dangerous dog licence means a licence under section 25 (1) (Dangerous dog licences—approval or refusal).
 deputy registrar means a deputy registrar under section 122.
@@ -92,9 +98,12 @@ recognised breeding organisation means an organisation declared as a recognised 
 register means the register kept by the registrar under section 5.
 registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
 registrar means the registrar under section 121.
-registration certificate means a registration certificate issued under section 11 (1) or (4).
-registration tag means a registration tag issued under section 11 (1) or (4).
+registration certificate means a registration certificate issued under section 11 (1) or (3).
 release a dog to a person includes permit the dog to be collected by the person.
 residential premises means premises used exclusively or mainly for residential purposes, and includes a private room in, but not any other part of, a motel, hotel, hostel or guesthouse.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 118.
+sell, a seized cat or dog, includes give the animal to an entity responsible for animal welfare or rehousing abandoned or seized animals.
+serious injury, to a person or animal, means any injury (including the cumulative effect of more than 1 injury) that—
+  (a) endangers, or is likely to endanger, the person or animal’s life; or
+  (b) is, or is likely to be, a significant or longstanding injury.
 special licence, for division 2.4 (General provisions about multiple dog and dangerous dog licences)—see section 29.

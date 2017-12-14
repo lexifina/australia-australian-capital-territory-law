@@ -5,7 +5,7 @@
 ### Division 2.3 Dangerous dogs
 ### Division 2.4 General provisions about multiple dog and dangerous dog licences
 ### Division 2.5 Control of dogs
-### Division 2.6 Attacking or harassing dogs
+### Division 2.6 Attacking, harassing and menacing dogs
 ### Division 2.7 Seizing dogs and dealing with them
 ### Division 2.8 Miscellaneous
 ## Part 3 Dogs and cats
@@ -22,4 +22,3 @@
 ### Division 9.1 Officers
 ### Division 9.2 Powers of authorised people
 ## Part 10 Miscellaneous
-## Part 11 Transitional provisions
