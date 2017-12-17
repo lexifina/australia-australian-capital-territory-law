@@ -44,4 +44,3 @@
 ## Part 12 Administration
 ## Part 13 Miscellaneous
 ## Part 20 Transitional
-## Part 21 Transitional—Retirement Villages Amendment Act 2016
