@@ -1,5 +1,5 @@
 # Schedule 1 Reviewable decisions
-(see pt 16)
+(see pt 17)
 column 1 item | column 2 section | column 3 decision | column 4 person | column 5 decision-maker
 1 | 20 (2) | refuse to consider application until additional information provided | applicant for licence | waste manager
 2 | 22 (1) | decision about application for licence | applicant for licence | waste manager
