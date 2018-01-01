@@ -2,18 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· chief police officer
-· Commonwealth
-· financial year
-· found guilty
-· function
-· in relation to
-· Legislative Assembly
-· Minister (see s 162)
-· police officer
-· position
-· territory law.
+• ACT
+• chief police officer
+• Commonwealth
+• financial year
+• found guilty
+• function
+• in relation to
+• Legislative Assembly
+• Minister (see s 162)
+• police officer
+• position
+• territory law.
 assumed name, for an operative—see section 12 (1) (a) (i).
 Australian Crime Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth).
 chief officer means—
