@@ -2,20 +2,20 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· chief police officer
-· Commonwealth
-· entity
-· exercise, a function
-· financial year
-· function
-· in relation to
-· Legislative Assembly
-· Minister (see s 162)
-· police officer
-· position
-· registrar-general
-· territory law.
+• ACT
+• chief police officer
+• Commonwealth
+• entity
+• exercise, a function
+• financial year
+• function
+• in relation to
+• Legislative Assembly
+• Minister (see s 162)
+• police officer
+• position
+• registrar-general
+• territory law.
 acquire an assumed identity, means acquire evidence of the identity, and includes taking steps towards acquiring evidence of the identity.
 agency means—
   (a) an issuing agency; or
