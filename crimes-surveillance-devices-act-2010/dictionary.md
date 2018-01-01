@@ -2,16 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· Commonwealth
-· coroner
-· function
-· in relation to
-· judge
-· Legislative Assembly
-· magistrate
-· territory law
-· working day.
+• ACT
+• Commonwealth
+• coroner
+• function
+• in relation to
+• judge
+• Legislative Assembly
+• magistrate
+• territory law
+• working day.
 applicant, for a warrant, means the law enforcement officer who applies, or on whose behalf an application is made, for the warrant.
 Australian Crime Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth).
 chief officer means—
