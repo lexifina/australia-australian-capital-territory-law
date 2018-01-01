@@ -2,12 +2,12 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· chief police officer
-· function
-· Legislative Assembly
-· ombudsman
-· territory law
-· the Territory.
+• chief police officer
+• function
+• Legislative Assembly
+• ombudsman
+• territory law
+• the Territory.
 Australian Crime Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth).
 authorised operation means a controlled operation for which an authority is in force.
 authority means an authority in force under part 2 (Authorisation of controlled operations).
