@@ -2,17 +2,17 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· document
-· entity
-· head of service
-· Minister (see s 162)
-· Office of the Legislative Assembly
-· officer of the Assembly
-· person (see s 160)
-· public servant
-· public service.
+• ACAT
+• bankrupt or personally insolvent
+• document
+• entity
+• head of service
+• Minister (see s 162)
+• Office of the Legislative Assembly
+• officer of the Assembly
+• person (see s 160)
+• public servant
+• public service.
 accessible executive record, for part 3A (Executive records—access and release)—see section 31B.
 agency—see section 7.
 appointed member—see section 43 (b) (Membership of council).
@@ -22,6 +22,7 @@ approved standard means a standard approved under section 18 (Approved standards
 arrangement includes a contract.
 Assembly, for part 3A (Executive records—access and release)—see section 31B.
 Canberra Day, in any year, means the day that is Canberra Day under the Holidays Act 1958.
+contrary to the public interest information—see the FOI Act, section 16.
 control, of a record—see section 11.
 council means the Territory Records Advisory Council.
 director means the Director of Territory Records.
@@ -29,13 +30,12 @@ disposal, of a record, includes the deletion or destruction of the record from a
 earliest release day, for part 3A (Executive records—access and release)—see section 31B.
 entitled to control, of a record—see section 11.
 Executive, for part 3A (Executive records—access and release)—see section 31B.
-FOI Act means the Freedom of Information Act 1989.
+FOI Act means the Freedom of Information Act 2016.
 health record—see the Health Records (Privacy and Access) Act 1997, dictionary.
 Health Records Act means the Health Records (Privacy and Access) Act 1997.
 later release day, for part 3A (Executive records—access and release)—see section 31B.
 member means a member of the council.
 normal administrative practices—see section 24 (Normal administrative practice).
-prescribed authority—see the Freedom of Information Act 1989, dictionary.
 principal officer—see section 8.
 protected private information, for part 3A (Executive records—access and release)—see section 31B.
 public body means a body established for a public purpose.
