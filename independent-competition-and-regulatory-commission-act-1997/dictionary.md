@@ -2,19 +2,19 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· Act
-· bankrupt or personally insolvent
-· director-general (see s 163)
-· exercise
-· function
-· National Electricity (ACT) Law
-· National Electricity (ACT) Regulation
-· National Energy Retail Law (ACT)
-· National Energy Retail Regulation (ACT)
-· National Gas (ACT) Law
-· National Gas (ACT) Regulation
-· subordinate law (see s 8)
-· territory law.
+• Act
+• bankrupt or personally insolvent
+• director-general (see s 163)
+• exercise
+• function
+• National Electricity (ACT) Law
+• National Electricity (ACT) Regulation
+• National Energy Retail Law (ACT)
+• National Energy Retail Regulation (ACT)
+• National Gas (ACT) Law
+• National Gas (ACT) Regulation
+• subordinate law (see s 8)
+• territory law.
 access agreement means an agreement under an access regime for the granting of access to services provided by means of the infrastructure facilities to which the access regime relates.
 access provider, for part 6 (Arbitration of access regime disputes)—see section 30.
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
@@ -31,7 +31,7 @@ competitive neutrality complaint means a complaint that the conduct of a governm
 competitive neutrality principles means the competitive neutrality policy and principles under the competition principles agreement, clause 3 (1) and (4) to (7), as set out in schedule 1.
 confidential information means information given to the commission that was, when it was given—
   (a) stated by the person giving it to be confidential or commercially sensitive; or
-  (b) contained in an exempt document within the meaning of the Freedom of Information Act 1989.
+  (b) determined to be contrary to the public interest information under the Freedom of Information Act 2016.
 current reset principles—see section 20B (2).
 declared fee means a fee declared under section 4C.
 determination means an arbitration determination under section 35.
