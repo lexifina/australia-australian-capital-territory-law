@@ -2,9 +2,9 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act, pt 1 and pt 6.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· commencement
-· territory law
-· transitional.
+• commencement
+• territory law
+• transitional.
 ACT means the Australian Capital Territory.
 ACT auditor-general means the Auditor-General for the ACT under the Auditor-General Act.
 ACT local hospital network directorate—see section 14.
