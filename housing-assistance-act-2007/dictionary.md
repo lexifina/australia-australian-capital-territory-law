@@ -2,16 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· director-general (see s 163)
-· entity
-· exercise
-· function
-· Minister (see s 162)
-· planning and land authority
-· reviewable decision notice
-· territory land
-· year.
+• ACAT
+• director-general (see s 163)
+• entity
+• exercise
+• function
+• Minister (see s 162)
+• planning and land authority
+• reviewable decision notice
+• territory land
+• year.
 affordable housing means housing that is affordable by people on low or moderate incomes.
 approved housing assistance program means a housing assistance program approved under section 19.
 Commonwealth-Territory funding agreement—see section 30.
