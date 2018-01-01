@@ -1,26 +1,26 @@
 # Schedule 1 Territory privacy principles
 (see s 13)
 Note 1 This schedule sets out the TPPs.
-· Pt 1.1 sets out principles that require public sector agencies to consider the privacy of personal information, including ensuring that public sector agencies manage personal information in an open and transparent way.
-· Pt 1.2 sets out principles that deal with the collection of personal information, including unsolicited personal information.
-· Pt 1.3 sets out principles about how public sector agencies deal with personal information. The part includes principles about the use and disclosure of personal information.
-· Pt 1.4 sets out principles about the integrity of personal information. The part includes principles about the quality and security of personal information.
-· Pt 1.5 sets out principles that deal with requests for access to, and the correction of, personal information.
+• Pt 1.1 sets out principles that require public sector agencies to consider the privacy of personal information, including ensuring that public sector agencies manage personal information in an open and transparent way.
+• Pt 1.2 sets out principles that deal with the collection of personal information, including unsolicited personal information.
+• Pt 1.3 sets out principles about how public sector agencies deal with personal information. The part includes principles about the use and disclosure of personal information.
+• Pt 1.4 sets out principles about the integrity of personal information. The part includes principles about the quality and security of personal information.
+• Pt 1.5 sets out principles that deal with requests for access to, and the correction of, personal information.
 Note 2 The TPPs are:
-· TPP 1—open and transparent management of personal information
-· TPP 2—anonymity and pseudonymity
-· TPP 3—collection of solicited personal information
-· TPP 4—dealing with unsolicited personal information
-· TPP 5—notification of the collection of personal information
-· TPP 6—use or disclosure of personal information
-· TPP 8—cross-border disclosure of personal information
-· TPP 10—quality of personal information
-· TPP 11—security of personal information
-· TPP 12—access to personal information
-· TPP 13—correction of personal information.
+• TPP 1—open and transparent management of personal information
+• TPP 2—anonymity and pseudonymity
+• TPP 3—collection of solicited personal information
+• TPP 4—dealing with unsolicited personal information
+• TPP 5—notification of the collection of personal information
+• TPP 6—use or disclosure of personal information
+• TPP 8—cross-border disclosure of personal information
+• TPP 10—quality of personal information
+• TPP 11—security of personal information
+• TPP 12—access to personal information
+• TPP 13—correction of personal information.
 Note 3 The TPPs do not include provisions equivalent to the Commonwealth APPs relating to certain private sector and other entities. To maintain consistent numbering between the TPPs and the Commonwealth APPs—
-· if the Commonwealth APPs contain a provision that is not included in this Act—the relevant TPP in this schedule is numbered to maintain consistency in numbering between provisions common to both Acts; and
-· a note appears under the relevant TPP in this schedule describing the omitted provision of the Commonwealth APPs.
+• if the Commonwealth APPs contain a provision that is not included in this Act—the relevant TPP in this schedule is numbered to maintain consistency in numbering between provisions common to both Acts; and
+• a note appears under the relevant TPP in this schedule describing the omitted provision of the Commonwealth APPs.
 The TPPs also contain minor textual and formatting differences to the Commonwealth APPs.
 ## Part 1.1 Consideration of personal information privacy
 ## 1 TPP 1—open and transparent management of personal information
@@ -45,7 +45,6 @@ Availability of TPP privacy policy etc
   (b) in an appropriate form.
 Example
 on the agency’s website
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 1.6 If a person requests a copy of the TPP privacy policy of a public sector agency in a particular form, the agency must take reasonable steps to give the person a copy in that form.
 Note Person includes a reference to a corporation as well as an individual (see Legislation Act, s 160).
 ## 2 TPP 2—anonymity and pseudonymity
@@ -69,8 +68,8 @@ Note The equivalent provision in the Commonwealth APPs also applies to certain p
 Note The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 3, s 3.4 (c)).
   (d) the public sector agency is an enforcement body and the agency reasonably believes that the collection of the information is reasonably necessary for, or directly related to, 1 or more of the agency’s functions or activities.
 Note The equivalent provision in the Commonwealth APPs includes a provision applying to—
-· the Commonwealth Immigration Department (see Commonwealth APP 3, s 3.4 (d) (i)); and
-· non-profit organisations (see Commonwealth APP 3, s 3.4 (e)).
+• the Commonwealth Immigration Department (see Commonwealth APP 3, s 3.4 (d) (i)); and
+• non-profit organisations (see Commonwealth APP 3, s 3.4 (e)).
 Means of collection
 3.5 A public sector agency must collect personal information only by lawful and fair means.
 3.6 A public sector agency must collect personal information about an individual only from the individual unless—
@@ -184,7 +183,7 @@ Access
 12.1 If a public sector agency holds personal information about an individual, the agency must, on request by the individual, give the individual access to the information.
 Exception to access—agency
 12.2 If the public sector agency is required or authorised to refuse to give the individual access to the personal information by or under—
-  (a) the Freedom of Information Act 1989; or
+  (a) the Freedom of Information Act 2016; or
   (b) another law in force in the ACT that provides for access by people to documents;
 then, despite TPP 12.1, the agency is not required to give access to the extent that the agency is required or authorised to refuse to give access.
 Note The equivalent provision in the Commonwealth APPs includes a provision applying to certain private sector entities (see Commonwealth APP 12, s 12.3).

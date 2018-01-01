@@ -2,31 +2,32 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· administrative unit
-· Coroner’s Court
-· corporation
-· Corporations Act
-· document
-· DPP
-· exercise (a function)
-· external territory
-· function
-· human rights commission
-· individual
-· judge
-· magistrate
-· Magistrates Court
-· Minister (see s 162)
-· Office of the Legislative Assembly
-· officer of the Assembly
-· State
-· statutory office-holder
-· Supreme Court
-· territory authority
-· territory instrumentality
-· tribunal
-· working day.
+• ACT
+• administrative unit
+• Coroner’s Court
+• corporation
+• Corporations Act
+• document
+• DPP
+• exercise (a function)
+• external territory
+• function
+• human rights commission
+• individual
+• integrity commission
+• judge
+• magistrate
+• Magistrates Court
+• Minister (see s 162)
+• Office of the Legislative Assembly
+• officer of the Assembly
+• State
+• statutory office-holder
+• Supreme Court
+• territory authority
+• territory instrumentality
+• tribunal
+• working day.
 act—see section 10.
 ACT court—
   (a) means the Supreme Court, Magistrates Court, Coroner’s Court or a tribunal; and
