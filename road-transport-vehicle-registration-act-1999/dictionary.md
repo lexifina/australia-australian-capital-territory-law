@@ -2,24 +2,24 @@
 (see s 3)
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
-· ACT
-· exercise
-· function
-· instrument (see s 14).
+• ACT
+• exercise
+• function
+• instrument (see s 14).
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
-· another jurisdiction
-· Australian Transport Council
-· driver
-· jurisdiction
-· light rail vehicle
-· motor vehicle
-· National Transport Commission
-· ride
-· road transport authority (or authority) (see s 16)
-· road transport legislation (see s 6)
-· trailer
-· use (in relation to a vehicle)
-· vehicle.
+• another jurisdiction
+• Australian Transport Council
+• driver
+• jurisdiction
+• light rail vehicle
+• motor vehicle
+• National Transport Commission
+• ride
+• road transport authority (or authority) (see s 16)
+• road transport legislation (see s 6)
+• trailer
+• use (in relation to a vehicle)
+• vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 approved premises—see section 15 (3) (b).
 authorised person, for a provision of this Act, means—
