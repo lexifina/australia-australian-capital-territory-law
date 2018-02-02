@@ -2,24 +2,24 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· auditor-general
-· entity
-· head of service
-· Legislative Assembly
-· Minister (see s 162)
-· Office of the Legislative Assembly
-· officer of the Assembly
-· ombudsman
-· public sector standards commissioner
-· public service
-· statutory office-holder
-· Supreme Court
-· territory authority
-· territory instrumentality
-· territory law
-· territory-owned corporation
-· the Territory.
+• ACT
+• auditor-general
+• entity
+• head of service
+• Legislative Assembly
+• Minister (see s 162)
+• Office of the Legislative Assembly
+• officer of the Assembly
+• ombudsman
+• public sector standards commissioner
+• public service
+• statutory office-holder
+• Supreme Court
+• territory authority
+• territory instrumentality
+• territory law
+• territory-owned corporation
+• the Territory.
 ACTPS entity means any of the following:
   (a) the public service;
   (b) a territory authority;
