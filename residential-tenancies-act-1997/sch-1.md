@@ -29,17 +29,17 @@ Lodgment of the bond with the Office of Rental Bonds
 18 Either party may lodge the bond with the Office of Rental Bonds.
 If the lessor and tenant agree that the tenant is to lodge the bond
 19 If the parties agree that the tenant is to lodge the bond, the following applies:
-(a) the tenant must complete and sign the bond lodgment form provided by the Office of Rental Bonds and the lessor must do the same;
-(b) the tenant must lodge the bond and bond lodgment form with the Office of Rental Bonds;
-(i) the tenant must lodge the bond whether or not the lessor signs the bond lodgment form; and
-(ii) payment of the bond to the Office of Rental Bonds must be in cash, by bank cheque or by other means permitted by that office;
-(c) the lessor may require lodgment of the bond before the lessor gives possession of the premises to the tenant and if this is the case, the tenant must be able to take possession of the premises and receive the keys to the premises as soon as the tenant provides the lessor with evidence of lodgment of the bond (such evidence includes the receipt of the Office of Rental Bonds).
+(a) the tenant, or the lessor on the tenant’s behalf, must complete the bond lodgment form provided by the Office of Rental Bonds and lodge the form with the Office;
+(b) the tenant must lodge the bond with the Office of Rental Bonds in the way permitted by the Office;
+(c) the lessor may require lodgment of the bond before the lessor gives possession of the premises to the tenant and if this is the case, the tenant must be able to take possession of the premises and receive the keys to the premises as soon as the tenant provides the lessor with evidence of lodgment of the bond or the Office of Rental Bonds notifies the lessor that the bond was received by the Office.
 If the lessor is to lodge the bond
 20 If the lessor is to lodge the bond, the following applies:
 (a) on receiving the bond, the lessor must give the tenant a receipt for the bond;
-(b) the lessor must complete and sign the bond lodgment form and the tenant must do the same;
-(c) the lessor must lodge the bond and bond lodgment form with the Office of Rental Bonds within 2 weeks of receiving the bond, or the commencement of the tenancy, whichever date is the later. If the lessor has a real estate agent, the agent has 4 weeks to lodge the bond;
-(d) the lessor must lodge the bond whether or not the tenant completes the bond lodgment form.
+(b) the lessor must complete the bond lodgment form provided by the Office of Rental Bonds and lodge the form with the Office;
+Note Under the Electronic Transactions Act 2001, s 8 (1), information required to be in writing may be given electronically in certain circumstances.
+(c) the lessor must lodge the bond with the Office of Rental Bonds in the way permitted by the Office within—
+(i) the later of 2 weeks after receiving the bond and the commencement of the tenancy; or
+(ii) if the lessor’s real estate agent lodges the bond—the later of 4 weeks after receiving the bond and the commencement of the tenancy.
 Condition Report
 21 (1) Within 1 day of the tenant taking possession of the premises, the lessor must give 2 copies of a condition report completed by the lessor to the tenant.
 (2) The condition report must be on, or to the effect of, the condition report form published by the Territory.
