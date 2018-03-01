@@ -2,15 +2,15 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· commissioner for revenue
-· domestic partner (see s 169 (1))
-· financial year
-· person (see s 160)
-· planning and land authority
-· quarter
-· territory authority
-· territory plan.
+• ACAT
+• commissioner for revenue
+• domestic partner (see s 169 (1))
+• financial year
+• person (see s 160)
+• planning and land authority
+• quarter
+• territory authority
+• territory plan.
 commissioner means the commissioner for revenue.
 Community Housing Providers National Law (ACT), for part 3 (Land rent—discount)—see section 16A.
 discounted land rent means land rent discounted under part 3 (Land rent—discount).
