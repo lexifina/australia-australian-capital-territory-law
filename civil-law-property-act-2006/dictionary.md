@@ -2,21 +2,21 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· adult
-· child
-· corporation
-· Corporations Act
-· domestic partnership (see s 169 (2))
-· individual
-· instrument (see s 14)
-· interest
-· land
-· person
-· police officer
-· proceeding
-· provision (see s 16)
-· public trustee and guardian
-· registrar-general.
+• adult
+• child
+• corporation
+• Corporations Act
+• domestic partnership (see s 169 (2))
+• individual
+• instrument (see s 14)
+• interest
+• land
+• person
+• police officer
+• proceeding
+• provision (see s 16)
+• public trustee and guardian
+• registrar-general.
 Note 3 See also the Legislation Act, s 168 (References to person with interest in land include personal representative etc).
 administrator includes anyone to whom administration of the estate of a deceased person is granted, and includes the public trustee and guardian acting under the Administration and Probate Act 1929, part 6.
 agent, for part 4.7 (Recovery of leased premises)—see section 437.
