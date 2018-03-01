@@ -2,20 +2,20 @@
 (see s 2A)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· ACT
-· Australia
-· bankrupt or personally insolvent
-· child
-· civil partnership
-· civil union
-· commissioner for revenue
-· Corporations Act
-· doctor
-· document
-· external territory
-· in relation to
-· land.
+• ACAT
+• ACT
+• Australia
+• bankrupt or personally insolvent
+• child
+• civil partnership
+• civil union
+• commissioner for revenue
+• Corporations Act
+• doctor
+• document
+• external territory
+• in relation to
+• land.
 acquires, an interest in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 84.
 acquisition statement, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 Act imposing duty means—
