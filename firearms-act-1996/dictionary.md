@@ -2,24 +2,24 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· administrative unit
-· bank
-· chief police officer
-· director-general (see s 163)
-· foreign country
-· found guilty
-· home address
-· indictable offence (see s 190)
-· Minister (see s 162)
-· National Credit Code
-· nurse
-· penalty unit (see s 133)
-· person
-· reviewable decision notice
-· State
-· territory authority
-· veterinary surgeon.
+• ACAT
+• administrative unit
+• bank
+• chief police officer
+• director-general (see s 163)
+• foreign country
+• found guilty
+• home address
+• indictable offence (see s 190)
+• Minister (see s 162)
+• National Credit Code
+• nurse
+• penalty unit (see s 133)
+• person
+• reviewable decision notice
+• State
+• territory authority
+• veterinary surgeon.
 acquire—
   (a) a firearm or ammunition, for this Act—see section 8; and
   (b) a firearm, for division 13.3 (Licensed firearms dealers—records and returns)—see section 192.
@@ -192,6 +192,7 @@ sell includes—
   (f) consign or deliver for sale.
 shooting gallery includes a shooting gallery that is, or if dismantled is, portable.
 starting pistol means a firearm the purpose of which is for use in the starting of racing events in sporting competitions.
+suppressor—see the Prohibited Weapons Act 1996, dictionary.
 temporarily store—a firearm is temporarily stored by a licensed firearms dealer if—
   (a) for a person who has possession of the firearm because of the death of the individual authorised to possess it—the dealer stores the firearm until the person is authorised, under this Act or another territory law, to otherwise dispose of it; or
   (b) for a person who inherits the firearm and applies for a licence or permit in relation to the firearm—the dealer stores the firearm until the application is finally decided (including any application to the ACAT for review of the decision and any subsequent appeal).

@@ -11,7 +11,7 @@ column 1 item | column 2 description
 8 | a firearm that substantially duplicates in appearance (regardless of calibre or manner of operation) a firearm referred to in item 1, 5 or 6
 9 | a firearm (other than a pistol) of the Uberti or Armi-Jager brands, or any similar firearm fitted with a revolving ammunition cylinder (other than a firearm manufactured before 1920)
 10 | a shotgun fitted with or designed to be fitted with a drum magazine of the ‘Striker 12’ assault shotgun type or any similar firearm
-11 | a firearm to which there is attached any article or device capable of muffling, reducing or stopping the noise created by firing the firearm
+11 | a firearm with a suppressor attached if there is no permit to possess or use the suppressor in relation to the firearm under the Prohibited Weapons Act 1996, section 9
 12 | a firearm, other than a pistol, fitted with a pistol grip or stock that is specially designed so as to be readily detachable, or to operate on a swivel, folding or telescopic basis
 13 | a firearm made up in the form of a stylographic or propelling pen or pencil, capable of being used for the discharge of gas, bullets, shot, dye or pyrotechnic flares
 14 | a firearm capable of discharging by any means— (a) any irritant matter in liquid, powder, gas or chemical form; or (b) any pyrotechnic flare or dye.
