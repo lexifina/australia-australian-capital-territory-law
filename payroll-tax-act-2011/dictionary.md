@@ -2,26 +2,26 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· Corporations Act
-· domestic partner (see s 169 (1))
-· domestic partnership (see s 169 (2))
-· exercise (a function)
-· financial year
-· function
-· GST
-· individual
-· in relation to
-· liability
-· person
-· reviewable decision notice
-· rural fire service
-· SES
-· State
-· territory authority
-· the Territory
-· under.
+• ACAT
+• ACT
+• Corporations Act
+• domestic partner (see s 169 (1))
+• domestic partnership (see s 169 (2))
+• exercise (a function)
+• financial year
+• function
+• GST
+• individual
+• in relation to
+• liability
+• person
+• reviewable decision notice
+• rural fire service
+• SES
+• State
+• territory authority
+• the Territory
+• under.
 ABN means the ABN (Australian Business Number) for an entity under the A New Tax System (Australian Business Number) Act 1999 (Cwlth).
 agent includes—
   (a) a person who, in the ACT, on behalf of someone else outside the ACT, holds or has the management or control of the business of the other person, and
