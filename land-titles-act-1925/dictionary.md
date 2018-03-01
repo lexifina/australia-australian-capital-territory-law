@@ -2,26 +2,26 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· change
-· civil partnership
-· civil union
-· Commonwealth
-· Corporations Act
-· estate
-· exercise
-· fail
-· function
-· GST
-· home address
-· instrument (see s 14)
-· interest
-· land
-· penalty unit (see s 133)
-· registrar-general
-· territory lease
-· under.
+• ACAT
+• ACT
+• change
+• civil partnership
+• civil union
+• Commonwealth
+• Corporations Act
+• estate
+• exercise
+• fail
+• function
+• GST
+• home address
+• instrument (see s 14)
+• interest
+• land
+• penalty unit (see s 133)
+• registrar-general
+• territory lease
+• under.
 administrative interest—see section 69A.
 authorised entity, for part 8A (Record of administrative interests)—see section 69B.
 building sublease—see the Planning and Development Act 2007, dictionary.
