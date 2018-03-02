@@ -2,26 +2,26 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· administrative unit
-· adult
-· director-general (see s 163)
-· director of public prosecutions
-· doctor
-· entity
-· found guilty
-· head of service
-· law (of the Territory)
-· lawyer
-· may (see s 146)
-· must (see s 146)
-· oath
-· police officer
-· road transport authority
-· sentence administration board
-· statutory office-holder
-· territory authority
-· victims of crime commissioner
-· working day.
+• administrative unit
+• adult
+• director-general (see s 163)
+• director of public prosecutions
+• doctor
+• entity
+• found guilty
+• head of service
+• law (of the Territory)
+• lawyer
+• may (see s 146)
+• must (see s 146)
+• oath
+• police officer
+• road transport authority
+• sentence administration board
+• statutory office-holder
+• territory authority
+• victims of crime commissioner
+• working day.
 accommodation order—see section 133Y.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
 assessor, for part 4.2 (Pre-sentence reports)—see section 41 (8).
