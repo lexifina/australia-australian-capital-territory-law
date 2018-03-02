@@ -2,32 +2,32 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· adult
-· child
-· correctional centre
-· corrections officer
-· detention place
-· director-general (see s 163)
-· director of public prosecutions
-· discrimination commissioner
-· doctor
-· domestic partner (see s 169 (1))
-· expire
-· lawyer
-· Magistrates Court
-· nurse
-· nurse practitioner
-· parent
-· police officer
-· proceeding
-· public advocate
-· registrar
-· reviewable decision notice
-· State
-· Supreme Court
-· victims of crime commissioner
-· writing.
+• ACAT
+• adult
+• child
+• correctional centre
+• corrections officer
+• detention place
+• director-general (see s 163)
+• director of public prosecutions
+• discrimination commissioner
+• doctor
+• domestic partner (see s 169 (1))
+• expire
+• lawyer
+• Magistrates Court
+• nurse
+• nurse practitioner
+• parent
+• police officer
+• proceeding
+• public advocate
+• registrar
+• reviewable decision notice
+• State
+• Supreme Court
+• victims of crime commissioner
+• writing.
 advance agreement—see section 26.
 advance consent direction—see section 27.
 affected person, in relation to a forensic patient—see section 128.

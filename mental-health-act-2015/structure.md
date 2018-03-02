@@ -63,13 +63,3 @@
 ## Part 15.5 Interstate operation of certain orders
 # Chapter 16 Notification and review of decisions
 # Chapter 17 Miscellaneous
-# Chapter 40 Transitional
-## Part 40.1 General
-## Part 40.2 Transitional—rights of people with mental disorder or mental illness
-## Part 40.3 Transitional—mental health orders
-### Division 40.3.1 Applications
-### Division 40.3.2 Psychiatric treatment orders
-### Division 40.3.3 Community care orders
-### Division 40.3.4 Other matters
-## Part 40.4 Transitional—emergency detention
-## Part 40.5 Transitional—interstate application of mental health laws
