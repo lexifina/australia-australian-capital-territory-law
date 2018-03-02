@@ -2,15 +2,15 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Australian citizen
-· bankrupt or personally insolvent
-· construction occupations registrar
-· function
-· home address
-· reviewable decision notice
-· State
-· under.
+• ACAT
+• Australian citizen
+• bankrupt or personally insolvent
+• construction occupations registrar
+• function
+• home address
+• reviewable decision notice
+• State
+• under.
 approved first seller, for part 3 (Prescribed articles of electrical equipment)—see section 9.
 article of electrical equipment means—
   (a) a wire, cable, fitting, meter, insulator, switchboard, or apparatus designed or intended for use in an electrical installation; or
@@ -34,6 +34,7 @@ electrical installation—
     (iii) a lamp; or
     (iv) an electricity network or part of a network; or
     (v) telecommunications cabling or equipment that operates or is intended to operate at a voltage of 90V a.c. or lower.
+electrical wiring rules—see section 3B.
 electrical wiring work—
   (a) means the installation, replacement, augmentation, curtailing, maintenance, repair, or alteration of the location of all or part of, an electrical installation, other than—
     (i) an electrical installation that operates at extra low voltage; or
