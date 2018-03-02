@@ -66,6 +66,7 @@ ground for occupational discipline—see section 55.
 information requirement, for part 6A (Information requirements)—see section 80D.
 infringement notice—see Magistrates Court Act 1930, section 117.
 inspector, for part 6 (Enforcement)—see section 75.
+law of another jurisdiction, for part 11AA (Information sharing)—see section 123AA.
 licence means a licence under this Act.
 licensee—
   (a) for division 5.2 (Occupational discipline—licensees)—see section 54; and
@@ -73,6 +74,7 @@ licensee—
 licence number, for a licence—see section 23 (1) (c).
 mandatory requirement, for division 3.2 (Nominees)—see section 27.
 nominee, of a corporation or partnership, means a person who is appointed as a nominee of the corporation or partnership under section 28.
+non-territory agency, for part 11AA (Information sharing)—see section 123AA.
 occupational discipline means—
   (a) something done by the ACAT by an occupational discipline order; or
   (b) something done by the registrar in accordance with an occupational discipline order; or
