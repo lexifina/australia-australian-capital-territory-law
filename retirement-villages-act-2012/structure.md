@@ -43,4 +43,3 @@
 ## Part 11 Protection of ingoing contributions paid by residents other than registered interest holders
 ## Part 12 Administration
 ## Part 13 Miscellaneous
-## Part 20 Transitional

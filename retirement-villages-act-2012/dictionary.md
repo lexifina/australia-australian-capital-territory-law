@@ -2,25 +2,25 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Australian statistician
-· authorised deposit-taking institution
-· bankrupt or personally insolvent
-· commissioner for fair trading
-· Corporations Act
-· director-general (see s 163)
-· doctor
-· domestic partner (see s 169 (1))
-· exercise
-· fail
-· function
-· housing commissioner
-· lawyer
-· Magistrates Court
-· public trustee and guardian
-· registrar-general
-· Supreme Court
-· Territory.
+• ACAT
+• Australian statistician
+• authorised deposit-taking institution
+• bankrupt or personally insolvent
+• commissioner for fair trading
+• Corporations Act
+• director-general (see s 163)
+• doctor
+• domestic partner (see s 169 (1))
+• exercise
+• fail
+• function
+• housing commissioner
+• lawyer
+• Magistrates Court
+• public trustee and guardian
+• registrar-general
+• Supreme Court
+• Territory.
 accounts, of a retirement village, means the accounts mentioned in division 7.5 (Annual accounts).
 administrator means an administrator appointed under an order made under division 6.6 (Administrators, receivers and managers).
 annual management meeting means the meeting mentioned in section 107.
@@ -61,8 +61,8 @@ general services—
   (a) means services provided, or made available, by or on behalf of the operator of a retirement village, to all residents of the village; and
   (b) includes services prescribed by regulation.
 Examples
-· management and administration
-· gardening and general maintenance
+• management and administration
+• gardening and general maintenance
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 holding deposit, for part 4 (Entry into retirement villages)—see section 32.
 ingoing contribution—see section 11.
