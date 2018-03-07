@@ -62,6 +62,8 @@ conduct, for part 2A (Industrial manslaughter) and part 13 (Unfitness to plead a
 contaminate, for goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
 conveyance, for part 10 (Criminal investigation)—see section 185.
 corresponding law, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
+crime scene, for division 10.4A (Crime scene powers)—see section 210A.
+crime scene power, for division 10.4A (Crime scene powers)—see section 210A.
 daily care responsibility—see the Children and Young People Act 2008, section 19.
 deal, with money or other property, for division 6.2A (Money laundering and organised fraud)—see section 114A.
 death, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
@@ -131,12 +133,15 @@ police station, for part 10 (Criminal investigation)—see section 185.
 premises—
   (a) for part 10 (Criminal investigation)—see section 185; and
   (b) for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
+private premises, for division 10.4A (Crime scene powers)—see section 210A.
 proceeds of crime, for division 6.2A (Money laundering and organised fraud)—see section 114A.
 property—
   (a) for division 6.2A (Money laundering and organised fraud)—see section 114A; and
   (b) for division 6.3 (Criminal damage to property)—see section 115.
 provide services, for part 2A (Industrial manslaughter)—see section 49A.
-public place, for part 9 (Exclusion powers)—see section 174.
+public place—
+  (a) for part 9 (Exclusion powers)—see section 174; or
+  (b) for division 10.4A (Crime scene powers)—see section 210B.
 railway includes light rail.
 recently used conveyance, in relation to a search of a person, for part 10 (Criminal investigation)—see section 185.
 reciprocating State, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
@@ -153,8 +158,9 @@ senior officer, for part 2A (Industrial manslaughter)—see section 49A.
 serious harm, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 serious offence—
   (a) for part 10 (Criminal investigation)—see section 185; and
-  (b) for part 13 (Unfitness to plead and mental health impairment)—see section 300 (1); and
-  (c) for division 13.4 (Magistrates Court—finding of not guilty because of mental impairment)—see section 325.
+  (b) for division 10.4A (Crime scene powers)—see section 210A; and
+  (c) for part 13 (Unfitness to plead and mental health impairment)—see section 300 (1); and
+  (d) for division 13.4 (Magistrates Court—finding of not guilty because of mental impairment)—see section 325.
 sexual intercourse, for part 3 (Sexual offences)—see section 50 (1).
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.

@@ -19,6 +19,7 @@
 ### Division 10.2 Preventative action
 ### Division 10.3 Search warrants
 ### Division 10.4 Powers to stop and search
+### Division 10.4A Crime scene powers
 ### Division 10.5 Arrest and related matters
 ### Division 10.6 General
 ### Division 10.7 Particular provisions for children
