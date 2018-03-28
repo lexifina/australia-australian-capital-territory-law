@@ -2,13 +2,13 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Corporations Act
-· correctional centre
-· Executive
-· exercise
-· function
-· Magistrates Court
-· Minister (see s 162).
+• Corporations Act
+• correctional centre
+• Executive
+• exercise
+• function
+• Magistrates Court
+• Minister (see s 162).
 adverse action—see the Fair Work Act 2009 (Cwlth), section 342.
 business or undertaking—see section 9.
 computer means an electronic device for storing or processing information.
