@@ -11,6 +11,7 @@ column 1 item | column 2 description
 7 | a knife that can discharge a blade as a projectile by a spring mechanism or other means (known as a ballistic knife)
 8 | a blade, knife or axe that is either made or modified to be thrown
 9 | a claw (known as a hand or foot claw) made or modified to be attached to or worn on the hand or foot to cause injury to someone else
+10 | an article or other thing that— (a) because of its appearance is capable of being mistaken for something else that is not a weapon; and (b) disguises or conceals within it a single-edged or multi-edged blade or spike Example credit card knife
 ## Part 1.2 Prohibited hand weapons
 column 1 item | column 2 description
 1 | a knuckle-duster or other similar device, made or modified to be fitted over the knuckles of the hand of the user— (a) to protect the knuckles; and (b) to increase the effect of a punch or other blow

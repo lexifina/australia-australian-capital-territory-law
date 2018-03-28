@@ -2,18 +2,18 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· corrections officer
-· Criminal Code
-· director-general (see s 163)
-· exercise
-· found guilty
-· function
-· police officer
-· registrar of firearms
-· reviewable decision notice
-· under.
+• ACAT
+• ACT
+• corrections officer
+• Criminal Code
+• director-general (see s 163)
+• exercise
+• found guilty
+• function
+• police officer
+• registrar of firearms
+• reviewable decision notice
+• under.
 anti-ballistic means resistant to the penetration of a projectile discharged from a firearm.
 anti-fragmentation means resistant to the penetration of material discharged when an explosive device is detonated.
 body armour means—
