@@ -4,6 +4,7 @@
 ## Part 2.2 Important terms
 ## Part 2.3 Complying with Act
 # Chapter 3 Safety duties for dangerous substances
+## Part 3.1A Application—ch 3
 ## Part 3.1 Safety duties
 ### Division 3.1.1 General safety duty of everyone
 ### Division 3.1.2 Handling of dangerous substances in trade or commerce

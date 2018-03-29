@@ -2,33 +2,34 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· administrative unit
-· ambulance service
-· contravene
-· director-general (see s 163)
-· fail
-· fire and rescue service
-· found guilty
-· home address
-· instrument (see s 14)
-· notification (see s 63)
-· penalty unit (see s 133)
-· public servant
-· reviewable decision notice
-· rural fire service
-· SES
-· State.
+• ACAT
+• ACT
+• administrative unit
+• ambulance service
+• contravene
+• director-general (see s 163)
+• fail
+• fire and rescue service
+• found guilty
+• home address
+• instrument (see s 14)
+• notification (see s 63)
+• penalty unit (see s 133)
+• public servant
+• reviewable decision notice
+• rural fire service
+• SES
+• State.
+ADG Code (or Australian Dangerous Goods Code) means the Australian Code for the Transport of Dangerous Goods by Road and Rail, published by the Commonwealth, as in force from time to time.
 affected residential premises register—see section 47N.
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
 analysis, of a dangerous substance or anything else, includes examining or testing the substance or thing.
 approved code of practice means a code of practice approved under section 219 (1).
 asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 at premises includes in or on the premises.
-Australian Dangerous Goods Code—see section 10 (3).
-Australian Explosives Code—see section 10 (3).
-Australian Standard 1940—see section 10 (3).
+Australian Dangerous Goods Code—see ADG Code.
+Australian Explosives Code means the Australian Code for the Transport of Explosives by Road and Rail, published by the Commonwealth, as in force from time to time.
+Note The Australian Explosives Code is accessible at www.safeworkaustralia.gov.au.
 authorised analyst means a person appointed as an authorised analyst under section 210.
 authorised person, for part 5.2 (Preservation of site of dangerous occurrence)—see section 85.
 basis, for giving a prohibition notice—see section 108.
@@ -74,9 +75,10 @@ handling authority—see section 56 (1) (d).
 hazard—see section 15.
 import a dangerous substance or anything else means import the substance or thing into the ACT.
 improvement notice—see section 100.
-incorporated document means—
-  (a) a document mentioned in section 10 (3); or
-  (b) an instrument applied, adopted or incorporated by regulation.
+incorporated document means any of the following documents:
+  (a) the ADG Code;
+  (b) the Australian Explosives Code;
+  (c) an instrument applied, adopted or incorporated by regulation.
 infringement notice—see the Magistrates Court Act 1930, section 117.
 infringement notice offence—see the Magistrates Court Act 1930, section 117.
 inspector means an inspector under section 207.
@@ -89,8 +91,6 @@ loose-fill asbestos insulation—see section 47M.
 manufacture a dangerous substance or anything else includes—
   (a) make, remake, alter, break-up, process, recondition or treat the substance or thing; and
   (b) change the substance or thing in a way that affects its properties or performance.
-NOHSC approved criteria—see section 10 (3).
-NOHSC List of Designated Hazardous Substances—see section 10 (3).
 non-commercial, for the handling of a dangerous substance—see section 12.
 offence, for chapter 7 (Enforcement powers)—see section 141.
 officer, of a corporation, means—
@@ -132,6 +132,7 @@ safety duty, for part 3.2 (Failure to comply with safety duties)—see section 4
 safety management system, for handling a dangerous substance—see section 19.
 safety undertaking, for part 6.5 (Enforceable undertakings)—see section 123 (2).
 search warrant, for chapter 7 (Enforcement powers)—see section 141.
+security sensitive substance—see section 10A.
 sell includes—
   (a) barter or offer or attempt to sell; and
   (b) possess for sale; and
