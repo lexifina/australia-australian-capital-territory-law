@@ -2,13 +2,13 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Corporations Act
-· fail
-· found guilty
-· home address
-· magistrate
-· Magistrates Court
-· police officer.
+• Corporations Act
+• fail
+• found guilty
+• home address
+• magistrate
+• Magistrates Court
+• police officer.
 advertise, for division 4.2 (Clean zones)—see section 31.
 authorised person means—
   (a) a police officer; or
