@@ -2,28 +2,28 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· doctor
-· exercise
-· fail
-· found guilty (of an offence)
-· function
-· nurse
-· nurse practitioner.
+• doctor
+• exercise
+• fail
+• found guilty (of an offence)
+• function
+• nurse
+• nurse practitioner.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
-· another jurisdiction
-· bicycle
-· combination
-· driver
-· jurisdiction
-· light rail vehicle
-· motor vehicle
+• another jurisdiction
+• bicycle
+• combination
+• driver
+• jurisdiction
+• light rail vehicle
+• motor vehicle
 personal mobility device
-· ride
-· road
-· road related area
-· road transport authority (or authority) (see s 16)
-· road transport legislation (see s 6)
-· vehicle.
+• ride
+• road
+• road related area
+• road transport authority (or authority) (see s 16)
+• road transport legislation (see s 6)
+• vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accident means an accident on a road or road related area, whether within or outside the ACT, that involves a motor vehicle.
 alcohol screening device—see section 7.
@@ -89,7 +89,7 @@ prescribed concentration—
 prescribed drug means—
   (a) methylamphetamine; or
   (b) delta-9-tetrahydrocannabinol; or
-  (c) N,á-Dimethyl-3,4-(Methylenedioxy)phenylethylamine (MDMA); or
+  (c) N,α-Dimethyl-3,4-(Methylenedioxy)phenylethylamine (MDMA); or
   (d) any other drug prescribed by regulation.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 repeat offender—see section 4F.
