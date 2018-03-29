@@ -1,10 +1,16 @@
 # Schedule 1 Application of Act to dangerous goods and high risk plant
+(see s 12AA)
 1 This Act applies to the storage and handling of dangerous goods even if the dangerous goods are not at a workplace or for use in carrying out work.
 Note A reference to an Act includes a reference to statutory instruments made or in force under the Act, including a regulation and any law or instrument applied, adopted or incorporated by the Act (see Legislation Act, s 104).
-2 For the purposes of section 1—
-  (a) a reference in this Act to carrying out work includes a reference to the storage or handling of dangerous goods; and
-  (b) a reference in this Act to a workplace includes a reference to the premises at or in which the dangerous goods are stored or handled; and
-  (c) a reference in this Act to work health and safety (however expressed) includes a reference to public health and safety.
+2 For the purposes of section 1, a reference in this Act to—
+  (aa) a person conducting a business or undertaking includes a reference to a person in control of premises where the dangerous goods are stored or handled; and
+  (ab) a business or undertaking, or the conduct of a business or undertaking, includes a reference to the storage or handling of dangerous goods; and
+  (ac) a worker includes a reference to a person at the premises at or in which the dangerous goods are stored or handled; and
+  (a) carrying out work includes a reference to the storage or handling of dangerous goods; and
+  (b) a workplace includes a reference to the premises at or in which the dangerous goods are stored or handled; and
+  (ba) a work environment includes a reference to the environment at the premises at or in which the dangerous goods are stored or handled; and
+  (c) work health and safety (however expressed) includes a reference to public health and safety; and
+  (d) a business address includes a reference to the address of the premises where the dangerous goods are stored or handled.
 3 This Act applies to the operation or use of high risk plant, affecting public safety, even if the plant is not situated, operated or used at a workplace or for use in carrying out work.
 4 For the purposes of section 3—
   (a) a reference in this Act to carrying out work includes a reference to the operation and use of high risk plant affecting public safety; and
@@ -14,3 +20,4 @@ Note A reference to an Act includes a reference to statutory instruments made or
 6 In this schedule:
 dangerous goods means anything prescribed by regulation as dangerous goods.
 high risk plant means plant prescribed by regulation as high risk plant.
+premises includes a vehicle, vessel, aircraft or other mobile structure.

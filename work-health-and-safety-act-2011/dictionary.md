@@ -2,18 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act
-· corporation
-· Corporations Act
-· emergency service
-· found guilty (of an offence)
-· function
-· home address
-· medical practitioner
-· police officer
-· the Territory
-· working day.
+• ACAT
+• Act
+• corporation
+• Corporations Act
+• emergency service
+• found guilty (of an offence)
+• function
+• home address
+• medical practitioner
+• police officer
+• the Territory
+• working day.
 approved code of practice means a code of practice approved under division 14 2 (Codes of practice).
 authorised, for part 4 (Authorisations)—see section 40.
 category 1 offence—see section 31.
