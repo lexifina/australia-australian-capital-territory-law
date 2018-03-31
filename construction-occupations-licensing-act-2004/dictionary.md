@@ -2,19 +2,19 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· building code
-· director-general (see s 163)
-· document
-· entity
-· found guilty
-· Legislation Act
-· occupational discipline order
-· reviewable decision notice
-· State
-· under
-· working day.
+• ACAT
+• bankrupt or personally insolvent
+• building code
+• director-general (see s 163)
+• document
+• entity
+• found guilty
+• Legislation Act
+• occupational discipline order
+• reviewable decision notice
+• State
+• under
+• working day.
 AS 3500 means the following standards, as in force from time to time:
   (a) AS 3500.1.1;
   (b) AS 3500.2.1;
