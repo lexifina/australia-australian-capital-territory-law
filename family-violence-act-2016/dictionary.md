@@ -2,25 +2,25 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· adult
-· chief police officer
-· child
-· civil union
-· civil union partner
-· director of public prosecutions
-· domestic partner (see s 169)
-· found guilty
-· lawyer
-· magistrate
-· Magistrates Court
-· parent
-· police officer
-· prescribed
-· proceeding
-· public advocate
-· registrar
-· registrar of firearms
-· Supreme Court.
+• adult
+• chief police officer
+• child
+• civil union
+• civil union partner
+• director of public prosecutions
+• domestic partner (see s 169)
+• found guilty
+• lawyer
+• magistrate
+• Magistrates Court
+• parent
+• police officer
+• prescribed
+• proceeding
+• public advocate
+• registrar
+• registrar of firearms
+• Supreme Court.
 affected person means a person against whom family violence has been, or is likely to be, committed.
 Note An affected person includes any child who hears, witnesses or is otherwise exposed to family violence committed against another person (see s 8 (1), def family violence, par (b)).
 after-hours order means an order made under section 102, and includes an order amending or revoking an after-hours order.
