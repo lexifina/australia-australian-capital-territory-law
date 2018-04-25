@@ -326,7 +326,7 @@ A scheme in force under this schedule applies to proceedings relating to acts or
 (4) The Minister may extend the period for which the scheme is in force.
 (5) An instrument under subsection (4) is a notifiable instrument.
 Note A notifiable instrument must be notified under the Legislation Act.
-(6) An instrument under subsection (4) is effective to extend the period for which a scheme is in force only if it is notified under the Legislation Act before the day the period ends.
+(6) To remove any doubt, an instrument under subsection (4) is effective to extend the period for which a scheme is in force even if the instrument is notified after the day the scheme ends.
 (7) The period for which a scheme is in force may be extended only once, and for not longer than 12 months.
 ## 4.29 Notification of limitation of liability
 (1) A person commits an offence if—
