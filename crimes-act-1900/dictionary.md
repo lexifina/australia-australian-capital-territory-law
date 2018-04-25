@@ -2,38 +2,38 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act
-· adult
-· ambulance service
-· chief police officer
-· civil partnership
-· civil union
-· commissioner of police
-· contravene
-· correctional centre
-· director-general (see s 163)
-· director of public prosecutions
-· doctor
-· domestic partner (see s 169)
-· fail
-· fire and rescue service
-· head of service
-· health practitioner
-· indictable offence (see also s 190)
-· intersex person (see s 169B)
-· judge
-· lawyer
-· magistrate
-· medical practitioner
-· midwife
-· penalty unit (see also s 133)
-· police officer
-· rural fire service
-· SES
-· summary offence (see also s 190)
-· the Territory
-· transgender person (see s169A).
+• ACAT
+• Act
+• adult
+• ambulance service
+• chief police officer
+• civil partnership
+• civil union
+• commissioner of police
+• contravene
+• correctional centre
+• director-general (see s 163)
+• director of public prosecutions
+• doctor
+• domestic partner (see s 169)
+• fail
+• fire and rescue service
+• head of service
+• health practitioner
+• indictable offence (see also s 190)
+• intersex person (see s 169B)
+• judge
+• lawyer
+• magistrate
+• medical practitioner
+• midwife
+• penalty unit (see also s 133)
+• police officer
+• rural fire service
+• SES
+• summary offence (see also s 190)
+• the Territory
+• transgender person (see s169A).
 ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 accused, for a person before the Magistrates Court, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
