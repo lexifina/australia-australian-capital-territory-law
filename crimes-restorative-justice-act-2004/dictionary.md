@@ -2,23 +2,23 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACT
-· adult
-· amend
-· chief police officer
-· child
-· Childrens Court
-· director-general (see s 163)
-· director of public prosecutions (or DPP)
-· domestic partner (see s 169 (1))
-· found guilty (of an offence)
-· Legislative Assembly
-· Magistrates Court
-· property
-· quarter
-· sentence administration board
-· Supreme Court
-· the Territory.
+• ACT
+• adult
+• amend
+• chief police officer
+• child
+• Childrens Court
+• director-general (see s 163)
+• director of public prosecutions (or DPP)
+• domestic partner (see s 169 (1))
+• found guilty (of an offence)
+• Legislative Assembly
+• Magistrates Court
+• property
+• quarter
+• sentence administration board
+• Supreme Court
+• the Territory.
 adult offender—see section 12.
 child victim—see section 11.
 commission, of an offence that is alleged to have been committed—see section 12.
