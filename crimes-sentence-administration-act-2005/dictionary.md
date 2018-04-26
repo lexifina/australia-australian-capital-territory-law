@@ -2,30 +2,30 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· bankrupt or personally insolvent
-· breach
-· detention place
-· director-general (see s 163)
-· director of public prosecutions
-· document
-· entity
-· Executive
-· fail
-· found guilty
-· function
-· head of service
-· judge
-· lawyer
-· legal practitioner
-· magistrate
-· may (see s 146)
-· Minister (see s 162)
-· must (see s 146)
-· NSW correctional centre
-· police officer
-· public servant
-· State
-· under.
+• bankrupt or personally insolvent
+• breach
+• detention place
+• director-general (see s 163)
+• director of public prosecutions
+• document
+• entity
+• Executive
+• fail
+• found guilty
+• function
+• head of service
+• judge
+• lawyer
+• legal practitioner
+• magistrate
+• may (see s 146)
+• Minister (see s 162)
+• must (see s 146)
+• NSW correctional centre
+• police officer
+• public servant
+• State
+• under.
 accommodation order—see the Crimes (Sentencing) Act 2005, section 133Y.
 activity includes education, counselling, personal development and treatment activities and programs.
 ACT prisoner, for chapter 11 (Interstate transfer of prisoners)—see section 217.
