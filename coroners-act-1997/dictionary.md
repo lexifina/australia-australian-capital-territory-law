@@ -2,53 +2,54 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Act
-· ACT
-· appoint
-· Attorney-General
-· Chief Magistrate
-· child
-· clerk
-· correctional centre
-· corrections officer
-· Deputy Speaker
-· director-general (see s 163)
-· director of public prosecutions
-· doctor
-· domestic partner (see s 169 (1))
-· establish
-· Executive
-· exercise
-· function
-· give
-· indictable offence
-· individual
-· in relation to
-· instrument
-· law
-· lawyer
-· magistrate
-· Minister (see s 162)
-· oath
-· occupy
-· parent
-· person (see s 160)
-· police officer
-· power
-· proceeding
-· property
-· public servant
-· registrar-general
-· regulation
-· sitting day
-· Speaker
-· Supreme Court
-· the Territory
-· under.
+• Act
+• ACT
+• appoint
+• Attorney-General
+• Chief Magistrate
+• child
+• clerk
+• correctional centre
+• corrections officer
+• Deputy Speaker
+• director-general (see s 163)
+• director of public prosecutions
+• doctor
+• domestic partner (see s 169 (1))
+• establish
+• Executive
+• exercise
+• function
+• give
+• indictable offence
+• individual
+• in relation to
+• instrument
+• law
+• lawyer
+• magistrate
+• Minister (see s 162)
+• oath
+• occupy
+• parent
+• person (see s 160)
+• police officer
+• power
+• proceeding
+• property
+• public servant
+• registrar-general
+• regulation
+• sitting day
+• Speaker
+• Supreme Court
+• the Territory
+• under.
 Aboriginal or Torres Strait Islander person means a person who—
   (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
   (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
   (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
+ancillary examination, for part 4 (Post-mortem examinations and exhumations)—see section 19A.
 body includes part of a body, and the remains of a body.
 Chief Coroner means the person who is Chief Coroner under section 6.
 chief psychiatrist—see the Mental Health Act 2015, dictionary.
@@ -80,8 +81,8 @@ mental health officer—see the Mental Health Act 2015, dictionary.
 place includes a vehicle, a vessel or an aircraft.
 post-mortem examination means the inspection of a body to determine the cause of death and may, but need not, include dissection of the body.
 Examples
-· external post-mortem examination, including taking skin or other samples
-· post-mortem examination using computed tomography (CT)
-· post-mortem examination using magnetic resonance imaging (MRI)
+• external post-mortem examination, including taking skin or other samples
+• post-mortem examination using computed tomography (CT)
+• post-mortem examination using magnetic resonance imaging (MRI)
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 registrar means the registrar of the Coroner’s Court appointed under section 11, and includes a deputy registrar.
