@@ -2,30 +2,30 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· chief police officer
-· civil partnership
-· civil union
-· director-general (see s 163)
-· doctor
-· domestic partner (see s 169 (1))
-· found guilty
-· Governor
-· health practitioner
-· human rights commissioner
-· in relation to
-· intersex person (see s 169B)
-· judge
-· Legislative Assembly
-· magistrate
-· NSW correctional centre
-· nurse
-· ombudsman
-· police officer
-· public advocate
-· public servant
-· sentence administration board
-· transgender person (see s 169A (1) and (2))
-· tribunal.
+• chief police officer
+• civil partnership
+• civil union
+• director-general (see s 163)
+• doctor
+• domestic partner (see s 169 (1))
+• found guilty
+• Governor
+• health practitioner
+• human rights commissioner
+• in relation to
+• intersex person (see s 169B)
+• judge
+• Legislative Assembly
+• magistrate
+• NSW correctional centre
+• nurse
+• ombudsman
+• police officer
+• public advocate
+• public servant
+• sentence administration board
+• transgender person (see s 169A (1) and (2))
+• tribunal.
 accredited person, in relation to a detainee, means each of the following:
   (a) if the detainee is a sentenced offender—anyone involved in relation to the administration of the sentence;
   (b) a lawyer representing the detainee;
