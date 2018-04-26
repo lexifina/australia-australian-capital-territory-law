@@ -2,16 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· appoint
-· bankrupt or personally insolvent
-· contravene
-· corporation
-· director-general
-· exercise
-· function
-· individual
-· planning and land authority.
+• ACAT
+• appoint
+• bankrupt or personally insolvent
+• contravene
+• corporation
+• director-general
+• exercise
+• function
+• individual
+• planning and land authority.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if provided by the law).
 administration order—see section 136.
 administrative fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 73.
@@ -107,7 +107,7 @@ sinking fund contribution—see section 89 (1).
 sinking fund plan, for division 5.2 (Administrative, special purpose and sinking funds)—see section 82 (2).
 special purpose fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 74 (1).
 special resolution means a resolution of a general meeting passed as required by schedule 3, section 3.16.
-staged development—see the Unit Titles Act 2001, section 17 (3) (Unit title applications—general requirements).
+staged development—see the Unit Titles Act 2001, section 17 (4) (Unit title applications—general requirements).
 standard quorum—see schedule 3, section 3.9 (Quorum at a general meeting—owners corporations with 3 or more members).
 sustainability infrastructure, installed in relation to a units plan—
   (a) means infrastructure and equipment that—

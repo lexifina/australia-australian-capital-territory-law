@@ -4,8 +4,8 @@ Note The executive committee exercises the functions of the owners corporation (
 Who are the members of the executive committee and how many members there must be depends on whether the owners corporation has had its first annual general meeting and how many members of the owners corporation there are (see s 38 and s 39).
 The executive committee must elect a chairperson, secretary and treasurer (see s 40). The functions of those office-holders are set out in ss 41 to 43.
 The executive committee may—
-· be helped in the exercise of its functions by a person employed or engaged under s 45; and
-· delegate its functions to 1 or more executive members (see s 44 (1) or a manager (see s 58 (2)).
+• be helped in the exercise of its functions by a person employed or engaged under s 45; and
+• delegate its functions to 1 or more executive members (see s 44 (1) or a manager (see s 58 (2)).
 An executive committee member is protected from civil liability in relation to the exercise of the member’s functions if the member acts honestly and without recklessness (see s 47).
 ## Part 2.1 What the executive committee must, may and cannot do
 ## 2.1 Executive committee must keep minutes, and records and accounts
