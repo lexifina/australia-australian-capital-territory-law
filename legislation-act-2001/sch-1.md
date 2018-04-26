@@ -26,12 +26,12 @@ column 1 item | column 2 name of NSW Act | column 3 applying Territory Act
 3 | Trustee Act 1925 | Trustee Act 1957 (repealed)
 4 | Anglican Church of Australia Constitution Act 1961 | Anglican Church of Australia Trust Property Act 1928
 Note The written law of the ACT also includes the following Acts that may not be amended or repealed by the Assembly (see Self-Government Act, s 34):
-Life, Fire and Marine Insurance Act 1902 (NSW)
-Demise of the Crown Act 1760 (UK)
-Naval Prize Act 1864 (UK)
-Naval Prize (Procedure) Act 1916 (UK)
-Prize Act (1939) (UK)
-Prize Courts Act 1894 (UK)
-Prize Courts Act 1915 (UK)
-Prize Courts (Procedure) Act 1914 (UK)
-Territorial Waters Jurisdiction Act 1878 (UK).
+• Life, Fire and Marine Insurance Act 1902 (NSW)
+• Demise of the Crown Act 1760 (UK)
+• Naval Prize Act 1864 (UK)
+• Naval Prize (Procedure) Act 1916 (UK)
+• Prize Act (1939) (UK)
+• Prize Courts Act 1894 (UK)
+• Prize Courts Act 1915 (UK)
+• Prize Courts (Procedure) Act 1914 (UK)
+• Territorial Waters Jurisdiction Act 1878 (UK).
