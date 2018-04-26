@@ -2,45 +2,45 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, pt 1 defines the following terms:
-· ACAT
-· ACT
-· adult
-· Attorney-General
-· child
-· correctional centre
-· Commonwealth
-· Criminal Code
-· director-general (see s 163)
-· director of public prosecutions
-· disallowable instrument (see s 9)
-· document
-· Executive
-· exercise, a function
-· external territory
-· fail
-· file
-· function
-· home address
-· individual
-· in relation to
-· instrument (see s 14)
-· judge
-· lawyer
-· may (see s 146)
-· month
-· must
-· notifiable instrument (see s 10)
-· NSW correctional centre
-· oath
-· parent
-· penalty unit (see s 133)
-· police officer
-· prescribed
-· proceeding
-· sign
-· summary offence (see s 190)
-· territory law
-· under.
+• ACAT
+• ACT
+• adult
+• Attorney-General
+• child
+• correctional centre
+• Commonwealth
+• Criminal Code
+• director-general (see s 163)
+• director of public prosecutions
+• disallowable instrument (see s 9)
+• document
+• Executive
+• exercise, a function
+• external territory
+• fail
+• file
+• function
+• home address
+• individual
+• in relation to
+• instrument (see s 14)
+• judge
+• lawyer
+• may (see s 146)
+• month
+• must
+• notifiable instrument (see s 10)
+• NSW correctional centre
+• oath
+• parent
+• penalty unit (see s 133)
+• police officer
+• prescribed
+• proceeding
+• sign
+• summary offence (see s 190)
+• territory law
+• under.
 Aboriginal or Torres Strait Islander offender, for chapter 4C (Galambany Court)—see section 291L.
 ACT court, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 administering authority, for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
