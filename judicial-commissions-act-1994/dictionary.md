@@ -2,17 +2,17 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· chief police officer
-· director-general (see s 163)
-· Executive
-· exercise
-· fail
-· function
-· head of service
-· public servant
-· sitting day
-· under.
+• ACAT
+• chief police officer
+• director-general (see s 163)
+• Executive
+• exercise
+• fail
+• function
+• head of service
+• public servant
+• sitting day
+• under.
 approved protocol means a protocol approved under section 16A (Protocol—complaints in relation to ACAT).
 authorised person means—
   (a) for an inquiry or proceeding of the council—a person declared in writing by the head of council to be an authorised person for this Act; and
