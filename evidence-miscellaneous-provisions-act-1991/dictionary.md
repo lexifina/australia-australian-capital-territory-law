@@ -2,26 +2,26 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· adult
-· child
-· Childrens Court
-· Commonwealth country
-· Coroner’s Court
-· doctor
-· document
-· DPP
-· entity
-· Executive
-· foreign country
-· found guilty
-· Governor-General
-· lawyer
-· may (see s 146)
-· Minister (see s 162)
-· must (see s 146)
-· oath
-· sentence administration board
-· take (an oath).
+• adult
+• child
+• Childrens Court
+• Commonwealth country
+• Coroner’s Court
+• doctor
+• document
+• DPP
+• entity
+• Executive
+• foreign country
+• found guilty
+• Governor-General
+• lawyer
+• may (see s 146)
+• Minister (see s 162)
+• must (see s 146)
+• oath
+• sentence administration board
+• take (an oath).
 ACT court—see the Evidence Act 2011, dictionary, part 1.
 Note ACT court means the Supreme Court or Magistrates Court, and includes an entity that, in exercising a function under a territory law, is required to apply the laws of evidence.
 audio link, for chapter 3 (Use of audiovisual links and audio links)—see section 16.

@@ -4,9 +4,9 @@
 ## Part 3.1 Preliminary—ch 3
 ## Part 3.2 Use of audiovisual links or audio links with participating States in ACT proceedings
 ## Part 3.3 Use of interstate audiovisual links or audio links in proceedings in participating States
-## Part 3.4 Use of audiovisual links or audio links with places other than participating States in ACT proceedings
+## Part 3.4 Use of audiovisual links or audio links with other places in ACT proceedings
 ## Part 3.5 Protection of certain communications and documents in criminal proceedings
-## Part 3.6 Costs and expenses
+## Part 3.6 General matters
 # Chapter 4 Evidence in sexual, violent and family violence offence proceedings
 ## Part 4.1 Preliminary—ch 4
 ## Part 4.2 Evidence in sexual and violent offence proceedings
