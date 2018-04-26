@@ -2,25 +2,25 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Australian statistician
-· child
-· Corporations Act
-· domestic partner (see s 169 (1))
-· entity
-· exercise (a function)
-· external territory
-· fail
-· foreign country
-· function
-· gazette
-· government printer
-· indictable offence (see s 190)
-· individual
-· Minister (see s 162)
-· office
-· parent
-· police officer
-· territory law.
+• Australian statistician
+• child
+• Corporations Act
+• domestic partner (see s 169 (1))
+• entity
+• exercise (a function)
+• external territory
+• fail
+• foreign country
+• function
+• gazette
+• government printer
+• indictable offence (see s 190)
+• individual
+• Minister (see s 162)
+• office
+• parent
+• police officer
+• territory law.
 Part 1 Definitions
 ACT court means the Supreme Court or Magistrates Court, and includes an entity that, in exercising a function under a territory law, is required to apply the laws of evidence.
 Note This definition differs from the definition in the Commonwealth Act.
