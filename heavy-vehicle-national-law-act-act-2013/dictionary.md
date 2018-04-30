@@ -2,15 +2,15 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to the local application provisions of this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· auditor-general
-· chief police officer
-· entity
-· magistrate
-· police officer
-· road transport authority
-· territory authority
-· territory law.
+• ACAT
+• auditor-general
+• chief police officer
+• entity
+• magistrate
+• police officer
+• road transport authority
+• territory authority
+• territory law.
 Heavy Vehicle National Law (ACT) means the provisions applying because of section 7.
 local application provisions of this Act means the provisions of this Act other than—
   (a) the Heavy Vehicle National Law (ACT); and
