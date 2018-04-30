@@ -9,7 +9,6 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 · the Territory.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
 · another jurisdiction
-· Australian Road Rules
 · driver
 · jurisdiction
 · motor vehicle
@@ -80,7 +79,7 @@ taxi—see section 45.
 taxi driver means the person driving a taxi if the person holds a public vehicle licence authorising the person to drive the taxi for hire or reward.
 taxi licence—see section 37.
 taxi service—see section 47.
-taxi zone—see the Australian Road Rules, rule 182.
+taxi zone—see the Road Transport (Road Rules) Regulation 2017, section 182.
 time of effect, for a noncompliance notice—see section 120 (2) (b).
 tour and charter service—see section 13.
 transport booking service—see section 28.
