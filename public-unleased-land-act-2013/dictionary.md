@@ -2,14 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act
-· corporation
-· Corporations Act
-· director-general (see s 163)
-· police officer
-· reviewable decision notice
-· working day.
+• ACAT
+• Act
+• corporation
+• Corporations Act
+• director-general (see s 163)
+• police officer
+• reviewable decision notice
+• working day.
 activity information notice, for part 3 (Public unleased land permits)—see section 51 (Suitability of activities—further information about activity).
 additional approval notice, for part 3 (Public unleased land permits)—see section 52 (2) (Suitability of activities—other approvals).
 authorised person means an authorised person mentioned in section 89 (Authorised people).
