@@ -2,18 +2,18 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· body
-· corporation
-· found guilty
-· gambling and racing commission
-· individual
-· Minister (see s 162)
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· person (see s 160)
-· police officer.
+• ACAT
+• ACT
+• body
+• corporation
+• found guilty
+• gambling and racing commission
+• individual
+• Minister (see s 162)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• person (see s 160)
+• police officer.
 bet means any stake, pledge or wager in money between a person and the licensee on any event or contingency relating to—
   (a) a race; or
   (b) a computer simulated racing event; or
@@ -38,10 +38,11 @@ on-course totalisator means a totalisator that enables a person to place a bet o
   (b) the race is held on a racecourse; and
   (c) the person is at the racecourse.
 race means—
-  (a) a thoroughbred race; or
-  (b) a harness race; or
-  (c) a greyhound race; or
-  (d) a race of a kind prescribed by regulation.
+  (a) any of the following, whether conducted within or outside the ACT:
+    (i) a thoroughbred race;
+    (ii) a harness race; or
+  (b) a greyhound race conducted outside the ACT; or
+  (c) a race of a kind prescribed by regulation.
 racecourse means land, whether in or outside the ACT, that is used for races and to which admission is obtainable by payment of money, by ticket or otherwise.
 rectification direction, for division 6.3 (Disciplinary action against licensee)—see section 52.
 reviewable decision, for part 7 (Notification and review of decisions)—see section 65.
