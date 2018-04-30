@@ -8,9 +8,10 @@ Note 3 Certain Ministerial appointments require consultation with an Assembly co
 (2) The president and deputy president must be lawyers of not less than 5 years standing.
 (3) A person is not eligible to be a member of the tribunal if the person is—
   (a) an officer or employee of a controlling body;
-  (b) registered with or licensed by a controlling body under the approved rules (otherwise than as the owner of a horse or dog that is so registered or licensed); or
-  (c) registered with or licensed by a corresponding body (otherwise than as the owner of a horse or dog that is so registered or licensed), if the registration or licence is of a kind recognised by a controlling body for the approved rules.
+  (b) registered with or licensed by a controlling body under the approved rules (otherwise than as the owner of a horse that is so registered or licensed); or
+  (c) registered with or licensed by a corresponding body (otherwise than as the owner of a horse that is so registered or licensed), if the registration or licence is of a kind recognised by a controlling body for the approved rules.
 Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
+(4) A regulation may prescribe other eligibility requirements for subsection (3).
 ## 1.3 Tribunal members—term
 A member of the tribunal must be appointed for a term not longer than 3 years.
 ## 1.4 Tribunal members—ending of appointment

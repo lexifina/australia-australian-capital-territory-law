@@ -5,7 +5,6 @@
 ## Part 3 Controlling bodies
 ### Division 3.1 Controlling body for thoroughbred racing
 ### Division 3.2 Controlling body for harness racing
-### Division 3.3 Controlling body for greyhound racing
 ## Part 4 Approved racing organisations
 ## Part 5 The Racing Appeals Tribunal
 ### Division 5.1 The tribunal
@@ -17,3 +16,4 @@
 ### Division 5B.3 Other matters
 ## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous
+## Part 11 Transitional—Racing (Greyhounds) Amendment Act 2017
