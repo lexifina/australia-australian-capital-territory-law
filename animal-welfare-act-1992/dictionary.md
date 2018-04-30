@@ -2,15 +2,15 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· chief police officer
-· director-general (see s 163)
-· found guilty
-· maximum penalty
-· Minister (see s 162)
-· person
-· reviewable decision notice
-· veterinary surgeon.
+• ACAT
+• chief police officer
+• director-general (see s 163)
+• found guilty
+• maximum penalty
+• Minister (see s 162)
+• person
+• reviewable decision notice
+• veterinary surgeon.
 animal means—
   (a) a live member of a vertebrate species, including—
     (i) an amphibian; and
