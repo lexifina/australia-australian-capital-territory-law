@@ -3,7 +3,8 @@
 ### Division 2.1 Registration of dogs
 ### Division 2.2 Keeping 4 or more dogs
 ### Division 2.3 Dangerous dogs
-### Division 2.4 General provisions about multiple dog and dangerous dog licences
+### Division 2.4 General provisions about special licences
+### Division 2.4A Racing greyhounds
 ### Division 2.5 Control of dogs
 ### Division 2.6 Attacking, harassing and menacing dogs
 ### Division 2.7 Seizing dogs and dealing with them
@@ -21,4 +22,6 @@
 ## Part 9 Administration
 ### Division 9.1 Officers
 ### Division 9.2 Powers of authorised people
+### Division 9.3 Cooperation with other jurisdictions—racing greyhounds
 ## Part 10 Miscellaneous
+## Part 12 Transitional—Domestic Animals (Racing Greyhounds) Amendment Act 2017
