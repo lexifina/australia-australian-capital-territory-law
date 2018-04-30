@@ -35,8 +35,6 @@ approved camera detection device—see the Road Transport (Safety and Traffic Ma
 approved community work or social development program, for part 3 (Infringement notices for certain offences)—see section 21A.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-Australian Road Rules—see the Road Transport (Safety and Traffic Management) Regulation 2000, section 5.
-Note The Australian Road Rules are applied in the ACT under the Road Transport (Safety and Traffic Management) Regulation 2000. They are to be read with, and as if they formed part of, that regulation (see s 6 (1)).
 Australian Transport Council—see the National Transport Commission Act 2003 (Cwlth), section 4.
 authorised person means—
   (a) for part 3 (Infringement notices for certain offences)—see section 53A (3); and
@@ -51,9 +49,7 @@ bicycle means a vehicle with 2 or more wheels that is built to be propelled by h
     (i) a wheelchair, wheeled recreational device or wheeled toy; or
     (ii) a vehicle (other than a vehicle mentioned in paragraph (b)) with an electric motor capable of generating a power output over 200W (whether or not the motor is operating); or
     (iii) a vehicle that has an internal combustion engine.
-Note 1 Power-assisted pedal cycle is defined in the Vehicle Standard (Australian Design Rule–Definitions and Vehicle Categories) 2005 which are vehicle standards determined under the Motor Vehicles Standards Act 1989 (Cwlth), s 7. The definition includes a vehicle referred to as a pedalec.
-Note 2 Wheelchair, wheeled recreational device and wheeled toy—see the Australian Road Rules, dictionary.
-Note 3 This definition is not consistent with the definition of bicycle in the Australian Road Rules, dictionary. The Australian Road Rules are not completely self-contained and need to be read with associated laws of each jurisdiction.
+Note Power-assisted pedal cycle is defined in the Vehicle Standard (Australian Design Rule–Definitions and Vehicle Categories) 2005 which are vehicle standards determined under the Motor Vehicles Standards Act 1989 (Cwlth), s 7. The definition includes a vehicle referred to as a pedalec.
 camera-detected offence means an offence detected by an approved camera detection device or an approved average speed detection system.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -163,5 +159,8 @@ vehicle—
     (iii) anything else prescribed by regulation to be a vehicle; but
   (b) does not include a vehicle (other than a light rail vehicle) that is used exclusively on a railway or tramway.
 vehicle identifier, for division 5.3 (Written-off vehicles register)—see section 83B.
+wheelchair—see the Road Transport (Road Rules) Regulation 2017, dictionary.
+wheeled recreational device—see the Road Transport (Road Rules) Regulation 2017, dictionary.
+wheeled toy—see the Road Transport (Road Rules) Regulation 2017, dictionary.
 written-off vehicle, for division 5.3 (Written-off vehicles register)—see section 83B.
 written-off vehicles register, for division 5.3 (Written-off vehicles register)—see section 83B.
