@@ -2,14 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· contravene
-· corporation
-· fail
-· found guilty
-· gambling and racing commission
-· individual
-· reviewable decision notice.
+• ACAT
+• contravene
+• corporation
+• fail
+• found guilty
+• gambling and racing commission
+• individual
+• reviewable decision notice.
 agent, for division 6.2 (Betting disputes referred to commission)—see section 56.
 application, for a licence, includes an application for renewal of a licence.
 authorised officer—see the Gambling and Racing Control Act 1999, section 20.
@@ -22,7 +22,6 @@ bookmaker, for division 6.2 (Betting disputes referred to commission)—see sect
 chief executive officer means the chief executive officer of the gambling and racing commission.
 code of practice means a code of practice prescribed under the regulations under the Gambling and Racing Control Act 1999.
 commission means the gambling and racing commission.
-controlling body—see the Racing Act 1999, dictionary.
 corporation includes an entity that is, in relation to the corporation, a related body corporate (as defined in the Corporations Act, section 9).
 corresponding law means a State law regulating bookmaking or any similar activity.
 designated sports bookmaking venue means a sports bookmaking venue designated by the commission under section 47 (Designation of sports bookmaking venues etc).
@@ -53,10 +52,11 @@ operative day, for a change of the conditions of a licence, means the day after�
 person includes a syndicate.
 proprietary company—see the Corporations Act, section 9.
 race means—
-  (a) a thoroughbred race; or
-  (b) a harness race; or
-  (c) a greyhound race; or
-  (d) a race of a kind prescribed under the regulations.
+  (a) any of the following, whether conducted within or outside the ACT:
+    (i) a thoroughbred race;
+    (ii) a harness race; or
+  (b) a greyhound race conducted outside the ACT; or
+  (c) a race of a kind prescribed by regulation.
 race bookmaker means a person who holds a race bookmaking licence.
 race bookmaker’s agent means a person who holds a race bookmaker’s agent licence.
 race bookmaking—
