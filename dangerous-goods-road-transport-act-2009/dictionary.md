@@ -2,22 +2,21 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Corporations Act
-· exercise (a function)
-· external territory
-· function
-· infringement notice
-· internal territory
-· public employee
-· State
-· the Territory
-· working day.
+• Corporations Act
+• exercise (a function)
+• external territory
+• function
+• infringement notice
+• internal territory
+• public employee
+• State
+• the Territory
+• working day.
 action, for division 3.6.2 (Formal warnings)—see section 115.
 another jurisdiction means the Commonwealth, a State, an external territory or internal territory (other than the Territory).
 appointing competent authority—see section 23 (2).
 associate, for part 3.8 (General court-based penalties)—see section 127.
 at premises, for part 3.5 (Enforcement)—see section 68.
-Australian Road Rules—see the Road Transport (Safety and Traffic Management) Regulation 2000, section 5.
 authorised, to drive a vehicle or run its engine—see section 17.
 authorised person—see section 23 (1).
 broken-down vehicle or trailer—see section 19.
@@ -126,7 +125,7 @@ responsible person—
     (ii) for a police officer—a senior police officer; and
   (b) for division 3.5.6 (Dealing with seized things)—see section 96.
 reviewable decision, for chapter 4 (Notification and review of decisions)—see section 169.
-road—see the Australian Road Rules, rule 12.
+road—see the Road Transport (General) Act 1999, dictionary.
 road infrastructure—
   (a) includes—
     (i) a road, or road related area, including its surface or pavement; and
@@ -136,7 +135,7 @@ road infrastructure—
     (v) any traffic control devices, railway (including light rail) or tramway equipment, electricity equipment, emergency telephone systems or any other facilities (whether of the same or a different kind) in, on, over, under or connected with anything mentioned in subparagraphs (i) to (iv); and
     (vi) anything else prescribed by regulation as road infrastructure; but
   (b) does not include anything prescribed by regulation as not road infrastructure.
-road related area—see the Australian Road Rules, rule 13.
+road related area—see the Road Transport (General) Act 1999, dictionary.
 roads compensation order, for part 3.9 (Compensation orders)—see section 142.
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
 senior police officer means the chief police officer or another police officer of or above the rank of superintendent.
