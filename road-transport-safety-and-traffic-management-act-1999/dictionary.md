@@ -2,33 +2,33 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· exercise
-· found guilty
-· function
-· instrument.
+• ACT
+• exercise
+• found guilty
+• function
+• instrument.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
-· Australian driver
-· Australian Transport Council
-· driver
-· driver licence
-· external driver licence
-· illegal user declaration
-· infringement notice
-· known user declaration
-· light rail vehicle
-· motor vehicle
-· National Transport Commission
-· registered operator
-· responsible person
-· ride
-· rider
-· road transport authority (or authority) (see s 16)
-· road transport legislation (see s 6)
-· sold vehicle declaration
-· traffic
-· trailer
-· vehicle.
+• Australian driver
+• Australian Transport Council
+• driver
+• driver licence
+• external driver licence
+• illegal user declaration
+• infringement notice
+• known user declaration
+• light rail vehicle
+• motor vehicle
+• National Transport Commission
+• registered operator
+• responsible person
+• ride
+• rider
+• road transport authority (or authority) (see s 16)
+• road transport legislation (see s 6)
+• sold vehicle declaration
+• traffic
+• trailer
+• vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 aggravated offence, against section 7 (Furious, reckless or dangerous driving)—see section 7A.
 approved average speed detection system means an average speed detection system approved under a regulation.
@@ -71,8 +71,7 @@ road related area means—
   (e) a shoulder of a road; or
   (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
 but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
-road user—see the Australian Road Rules, rule 14.
-Note The Australian Road Rules are accessible at www.legislation.act.gov.au.
+road user—see the Road Transport (Road Rules) Regulation 2017, section 14.
 shortest practicable distance, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 22AA.
 shortest practicable route, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 23B (a).
 speeding offence, for part 6 (Traffic offence detection devices)—see section 22AA.
