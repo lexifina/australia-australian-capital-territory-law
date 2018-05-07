@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 · ACAT
 · administrative unit
 · adult
+· Australian Consumer Law (ACT)
 · building code
 · calendar month
 · child
@@ -47,7 +48,7 @@ agent, for part 7 (Residential tenancy databases)—see section 87.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
 bond release application, for division 3.4 (Release of bond money)—see section 32.
 class, of building—see the Building Act 2004, dictionary.
-commissioner means the commissioner for fair trading.
+commercial guarantee—see section 102.
 conditional termination and possession order means a termination and possession order under section 49 (4).
 crisis accommodation—see section 126.
 database, for part 7 (Residential tenancy databases)—see section 87.
@@ -83,6 +84,7 @@ rental bond, for a residential tenancy agreement, for part 7 (Residential tenanc
 residential tenancy agreement—see section 6A.
 residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 respondent, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
+standard guarantee contract—see section 102.
 standard occupancy terms means the standard occupancy terms (if any) prescribed by regulation.
 standard residential tenancy terms means the terms mentioned in schedule 1.
 tenancy dispute—see section 72.
