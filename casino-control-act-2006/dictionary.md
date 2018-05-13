@@ -40,6 +40,10 @@ authorised person means any of the following:
 casino means the area designated under section 62 (1).
 casino employee means the holder of a casino employee licence.
 casino employee licence means a licence given or renewed under part 4 authorising the licence-holder to perform a prescribed function stated in the licence in relation to the casino.
+casino FATG authorisation certificate—see the Casino (Electronic Gaming) Act 2017, dictionary.
+casino FATG terminal—see the Casino (Electronic Gaming) Act 2017, dictionary.
+casino gaming machine—see the Casino (Electronic Gaming) Act 2017, dictionary.
+casino gaming machine authorisation certificate—see the Casino (Electronic Gaming) Act 2017, dictionary.
 casino lease means a lease of the casino entered into by the owner in accordance with an approval under section 16 (1), as amended from time to time in accordance with approvals under section 18 (1).
 casino lessee means the lessee under a casino lease.
 casino licence means a casino licence granted under section 21.
@@ -116,6 +120,7 @@ premises includes—
   (b) a place (whether or not enclosed or built on).
 prescribed function means a function prescribed by regulation that may be performed by a casino employee in relation to the operation of the casino.
 proof of identity card—see section 78.
+restricted authorisation—see the Casino (Electronic Gaming) Act 2017, dictionary.
 reviewable decision—see section 137.
 security-related decision means a decision for which a certificate is given under section 140 (1) or (3).
 short-term licence means a casino employee licence given or renewed under section 48.
