@@ -1,6 +1,5 @@
 ## Part 1 Preliminary
 ## Part 2 Important concepts
-## Part 2A Gaming machine authorisation numbers
 ## Part 2B Licences and authorisations
 ### Division 2B.1 Definitions and important concepts
 ### Division 2B.2 Class C licences—application and issue

@@ -63,6 +63,7 @@ cash facility—
     (ii) an EFTPOS facility; or
     (iii) any other facility for gaining access to cash or credit; but
   (b) does not include a facility where cash is exchanged for other denominations of cash, tokens, tickets or cards for the purpose of playing machines.
+casino licensee—see the Casino Control Act 2006, dictionary.
 centralised monitoring system (or CMS)—see section 66.
 class B gaming machine—
   (a) means a gaming machine consisting of the game of draw poker, or a game derived from draw poker, that requires player interaction or intervention as part of the fundamental game operation; but
