@@ -12,4 +12,6 @@
 ### Division 4.4 Secrecy
 ## Part 5 Inquiries
 ## Part 6 Tax administration
+## Part 6A Authorisation numbers for electronic gaming
 ## Part 7 Miscellaneous
+## Part 20 Transitional—Casino (Electronic Gaming) Act 2017
