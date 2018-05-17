@@ -2,20 +2,20 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· construction occupations registrar
-· contravene
-· exercise
-· function
-· law
-· may (see s 146)
-· must (see s 146)
-· national land
-· planning and land authority
-· reviewable decision notice
-· Territory land
-· under.
+• ACAT
+• bankrupt or personally insolvent
+• construction occupations registrar
+• contravene
+• exercise
+• function
+• law
+• may (see s 146)
+• must (see s 146)
+• national land
+• planning and land authority
+• reviewable decision notice
+• Territory land
+• under.
 actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 alteration, of a building, includes—
   (a) demolition of part of the building; and
