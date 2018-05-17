@@ -16,4 +16,7 @@ Section 1.1 applies to a decision—
   (h) under section 43 refusing an application for special arrangements for lodgment of returns or methods of payment; or
   (i) under section 44 imposing conditions on an approval under section 43; or
   (j) under section 45 varying or cancelling an approval under section 43; or
-  (k) under section 103 refusing permission to lodge a late objection.
+  (k) under section 103 refusing permission to lodge a late objection; or
+  (l) under the Planning and Development Act 2007, section 279AB (1); or
+  (m) under the Planning and Development Act 2007, section 279AB (2) and this Act, section 52 in relation to the conditions of a deferral arrangement; or
+  (n) under the Planning and Development Act 2007, section 279AD (3) and this Act, section 52 in relation to the variation of a deferral arrangement.

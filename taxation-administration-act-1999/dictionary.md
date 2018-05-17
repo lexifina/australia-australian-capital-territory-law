@@ -2,24 +2,24 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· Australian statistician
-· commissioner for fair trading
-· Commonwealth
-· director-general (see s 163)
-· Executive
-· found guilty
-· home address
-· individual
-· Magistrates Court
-· penalty unit (see s 133)
-· reviewable decision notice
-· State
-· Supreme Court
-· Legislative Assembly
-· Minister (see s 162)
-· the Territory.
+• ACAT
+• ACT
+• Australian statistician
+• commissioner for fair trading
+• Commonwealth
+• director-general (see s 163)
+• Executive
+• found guilty
+• home address
+• individual
+• Magistrates Court
+• penalty unit (see s 133)
+• reviewable decision notice
+• State
+• Supreme Court
+• Legislative Assembly
+• Minister (see s 162)
+• the Territory.
 arrangement, for payment of an assessment amount, for division 7.2 (Recovery of tax from directors of corporations)—see section 56A.
 assessment means—
   (a) an assessment, reassessment or compromise assessment of the tax liability of a person under a tax law, made by the commissioner under part 3; or
