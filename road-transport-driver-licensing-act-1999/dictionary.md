@@ -2,24 +2,24 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· exercise
-· found guilty (of an offence)
-· function
-· instrument.
+• ACT
+• exercise
+• found guilty (of an offence)
+• function
+• instrument.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
-· another jurisdiction
-· Australian Transport Council
-· driver
-· jurisdiction
-· motor vehicle
-· National Transport Commission
-· ride
-· road transport authority (or authority) (see s 16)
-· road transport legislation (see s 6)
-· trailer
-· use (in relation to a vehicle)
-· vehicle.
+• another jurisdiction
+• Australian Transport Council
+• driver
+• jurisdiction
+• motor vehicle
+• National Transport Commission
+• ride
+• road transport authority (or authority) (see s 16)
+• road transport legislation (see s 6)
+• trailer
+• use (in relation to a vehicle)
+• vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 additional provisional class, in relation to an Australian driver licence (including a provisional licence) of a particular class, means any other class of licence that is shown on the licence as a provisional class.
 administering authority, for a demerit points offence, means the entity that, under the regulations made under the Road Transport (General) Act 1999, is the administering authority for the offence.
@@ -66,8 +66,10 @@ probationary licence means—
   (c) an equivalent Australian driver licence issued under a corresponding law.
 proof of identity card means a proof of identity card issued under the Liquor Act 2010, section 210 (Proof of identity cards).
 provisional licence means an Australian driver licence issued as a provisional licence, but does not include an Australian driver licence that includes an additional provisional class merely because it includes the additional provisional class.
-public vehicle means a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
-Note A public passenger vehicle is a public bus, taxi, rideshare vehicle, hire car or demand responsive service vehicle
+public vehicle—
+  (a) means a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001; but
+Note A public passenger vehicle is a public bus, light rail vehicle, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
+  (b) does not include a light rail vehicle.
 public vehicle licence means a driver licence that authorises the person to drive a public vehicle for hire or reward.
 restricted licence means an Australian driver licence, issued under the authority of a court in Australia, that authorises the holder to drive only in the course of his or her employment or in other restricted circumstances.
 road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
