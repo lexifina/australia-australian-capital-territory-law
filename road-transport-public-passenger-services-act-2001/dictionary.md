@@ -2,20 +2,23 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· exercise
-· function
-· home address
-· the Territory.
+• ACT
+• exercise
+• function
+• home address
+• the Territory.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
-· another jurisdiction
-· driver
-· jurisdiction
-· motor vehicle
-· road transport authority (or authority) (see s 16)
-· road transport legislation (see s 6)
-· use (in relation to a vehicle)
-· vehicle.
+• another jurisdiction
+• driver
+• jurisdiction
+• light rail
+• light rail vehicle
+• motor vehicle
+• rail transport operator
+• road transport authority (or authority) (see s 16)
+• road transport legislation (see s 6)
+• use (in relation to a vehicle)
+• vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 accredited, in relation to a kind of public passenger service, means accredited under the regulations to operate that kind of public passenger service.
 accredited demand responsive service operator means accredited under a regulation to operate a demand responsive service.
@@ -44,11 +47,12 @@ hire car service—see section 69.
 independent taxi service operator means a taxi service operator approved under regulation as an independent taxi service operator.
 inspect a vehicle includes observe the performance of the vehicle or any of its equipment, with or without the use of instruments.
 licensed rideshare vehicle means a vehicle that is the subject of a rideshare vehicle licence.
+light rail service—see section 27A (1).
+light rail service operator—see section 27A (2).
 long-distance service—see section 14.
 noncompliance notice—see section 120 (1).
 public bus—see section 10A.
-public passenger service—see section 10.
-public passenger vehicle means a public bus, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
+public passenger vehicle means a public bus, light rail vehicle, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
 public passenger vehicle policy—see section 110.
 public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 regular route service—see section 12.
