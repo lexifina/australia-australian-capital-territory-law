@@ -2,26 +2,26 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· administrative unit
-· Australian citizen
-· chief police officer
-· Commonwealth
-· director-general (see s 163)
-· entity
-· exercise
-· found guilty (of an offence)
-· function
-· home address
-· instrument
-· internal territory
-· public employee
-· registrar
-· reviewable decision notice
-· State
-· statutory declaration
-· the Territory.
+• ACAT
+• ACT
+• administrative unit
+• Australian citizen
+• chief police officer
+• Commonwealth
+• director-general (see s 163)
+• entity
+• exercise
+• found guilty (of an offence)
+• function
+• home address
+• instrument
+• internal territory
+• public employee
+• registrar
+• reviewable decision notice
+• State
+• statutory declaration
+• the Territory.
 Note 3 This dictionary defines some key words and expressions that may not be used in this Act but are used in other road transport legislation.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see s 8).
 administering authority, for an infringement notice offence, means the entity that, under the regulations, is the administering authority for the offence.
