@@ -15,14 +15,14 @@
 ## (viii) another person administering, or exercising a function under, the Act; or
 ## (b) under a therapeutic protection order.
 Note See the Children and Young People Act 2008, particularly:
-· pt 2.2 (Children and Youth Services Council);
-· pt 3.2 (Family group conferences—facilitators);
-· s 438 (Care and protection assessment—authorisation of assessors);
-· s 516 (Kinship carer—specific parental authority);
-· s 518 (Foster carer—specific parental authority);
-· s 520 (Residential care service—general parental authority);
-· pt 16.2 (Therapeutic protection orders);
-· ch 22 (Research involving children and young people).
+• pt 2.2 (Children and Youth Services Council);
+• pt 3.2 (Family group conferences—facilitators);
+• s 438 (Care and protection assessment—authorisation of assessors);
+• s 516 (Kinship carer—specific parental authority);
+• s 518 (Foster carer—specific parental authority);
+• s 520 (Residential care service—general parental authority);
+• pt 16.2 (Therapeutic protection orders);
+• ch 22 (Research involving children and young people).
 ## 1.2 Justice facilities for children
 ## (1) An activity or service is a regulated activity if—
 ## (a) any of the usual functions of the activity or service are carried out in relation to a child at a justice facility; or
@@ -178,7 +178,7 @@ An activity or service is a regulated activity if the activity is conducted, or 
 ## (b) a person acting on behalf of an emergency service.
 ## Part 1.3 Other activities or services for vulnerable people
 ## 1.20 Transport
-An activity or service is a regulated activity if any of the usual functions of the activity or service include providing public or private transport that is—
+## (1) An activity or service is a regulated activity if any of the usual functions of the activity or service include providing public or private transport that is—
 ## (a) specifically for, or mainly used by, children; or
 ## (b) specifically for people accessing a regulated activity mentioned in part 1.2.
 Example—par (a)
@@ -190,8 +190,22 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 ## (2) To remove any doubt, an activity or service is a regulated activity if a person must have 1 or both of the following to conduct the activity or provide the service:
 ## (a) a public vehicle licence;
 ## (b) a driving instructor certificate of accreditation.
-Note 1 Public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-Note 2 For certificates of accreditation for driving instructors, see the Road Transport (Driver Licensing) Regulation 2000, pt 7 (Accreditation of driving instructors).
+## (3) An activity or service is a regulated activity if—
+## (a) the activity or service relates to a light rail service; and
+## (b) the person conducting the activity or providing the service is—
+## (i) a light rail driver; or
+## (ii) a light rail driving assessor; or
+## (iii) a light rail driving instructor; or
+## (iv) appointed under the Road Transport (General) Act 1999—
+## (A) section 19 (Authorised people); or
+## (B) section 53A (Authorised people for infringement notice offences).
+## (4) In this section:
+accreditation—see Road Transport (Driver Licensing) Regulation 2000, section 103A.
+light rail driver—see Road Transport (Public Passenger Services) Regulation 2002, section 70AA.
+light rail driving assessor—see Road Transport (Public Passenger Services) Regulation 2002, section 70AA.
+light rail driving instructor—see Road Transport (Public Passenger Services) Regulation 2002, section 70AA.
+light rail service—see Road Transport (Public Passenger Services) Act 2001, section 27A.
+public vehicle licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 ## 1.21 Coaching and tuition
 An activity or service is a regulated activity if—
 ## (a) any of the usual functions of the activity or service include coaching or tuition specifically for—

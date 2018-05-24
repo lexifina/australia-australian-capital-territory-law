@@ -2,39 +2,39 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· adult
-· Australia
-· change
-· chief police officer
-· child
-· commissioner for fair trading
-· contravene
-· Corporations Act
-· correctional centre
-· Criminal Code
-· detention place
-· disallowable instrument (see s 9)
-· document
-· domestic partner (see s 169 (1))
-· emergency service
-· entity
-· found guilty
-· function
-· health practitioner
-· home address
-· lawyer
-· Legislation Act
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· person (see s 160)
-· police officer
-· reviewable decision notice
-· territory law
-· the Territory
-· working day
-· writing.
+• ACAT
+• ACT
+• adult
+• Australia
+• change
+• chief police officer
+• child
+• commissioner for fair trading
+• contravene
+• Corporations Act
+• correctional centre
+• Criminal Code
+• detention place
+• disallowable instrument (see s 9)
+• document
+• domestic partner (see s 169 (1))
+• emergency service
+• entity
+• found guilty
+• function
+• health practitioner
+• home address
+• lawyer
+• Legislation Act
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• person (see s 160)
+• police officer
+• reviewable decision notice
+• territory law
+• the Territory
+• working day
+• writing.
 ACT Teacher Quality Institute means the institute established under the ACT Teacher Quality Institute Act 2010, section 10.
 additional risk assessment—see section 54 (2) (a).
 commissioner means the commissioner for fair trading.
