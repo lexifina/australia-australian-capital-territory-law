@@ -2,16 +2,16 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· contravene
-· director-general (see s 163)
-· found guilty
-· function
-· person (see s 160)
-· police officer
-· reviewable decision notice
-· the Territory
-· veterinary surgeon.
+• ACAT
+• contravene
+• director-general (see s 163)
+• found guilty
+• function
+• person (see s 160)
+• police officer
+• reviewable decision notice
+• the Territory
+• veterinary surgeon.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
 animal welfare law, for division 9.3 (Cooperation with other jurisdictions—racing greyhounds)—see section 134AA.
 animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
@@ -99,7 +99,7 @@ prohibited area means an area declared by the Minister under section 41 (1).
 public place—
   (a) means public unleased land; and
   (b) includes a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
-Note A public passenger vehicle is a public bus, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
+Note A public passenger vehicle is a public bus, light rail vehicle, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
 racing greyhound—see section 39A.
 racing greyhound controller licence—see section 39H.
