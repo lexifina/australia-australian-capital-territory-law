@@ -2,22 +2,22 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Act
-· adult
-· Australian Consumer Law (ACT)
-· Australian Criminal Intelligence Commission
-· Australian driver licence
-· bankrupt or personally insolvent
-· building code
-· chief officer (fire and rescue service)
-· chief police officer
-· commissioner for fair trading
-· corporation
-· Corporations Act
-· director-general (see s 163)
-· planning and land authority
-· police officer.
+• ACAT
+• Act
+• adult
+• Australian Consumer Law (ACT)
+• Australian Criminal Intelligence Commission
+• Australian driver licence
+• bankrupt or personally insolvent
+• building code
+• chief officer (fire and rescue service)
+• chief police officer
+• commissioner for fair trading
+• corporation
+• Corporations Act
+• director-general (see s 163)
+• planning and land authority
+• police officer.
 ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
 adults-only area, for licensed premises or permitted premises—see section 93.
 amend, a licence or permit, includes the following:
