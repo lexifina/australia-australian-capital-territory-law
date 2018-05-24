@@ -59,8 +59,8 @@ Note Material interest is defined in s (4). The definition of indirect interest 
 Example
 Jane, Jerome and Kimberley are members of the committee. They have an interest in an issue being considered at a committee meeting and they disclose the interest as soon as they become aware of it. Jerome’s and Kimberley’s interests are minor but Jane has a direct financial interest in the issue.
 The committee considers the disclosures and decides that because of the nature of the interests:
-· Jerome may be present when the committee considers the issue but not take part in the decision
-· Kimberley may be present for the consideration and take part in the decision.
+• Jerome may be present when the committee considers the issue but not take part in the decision
+• Kimberley may be present for the consideration and take part in the decision.
 The committee does not make a decision allowing Jane to be present or take part in the committee’s decision. Accordingly, because Jane has a material interest, she cannot be present for the consideration of the issue or take part in the decision.
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) Any other member who also has a material interest in the issue must not be present when the committee is considering its decision under subsection (2).

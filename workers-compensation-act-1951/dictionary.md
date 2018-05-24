@@ -2,27 +2,27 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· ACT
-· Australian statistician
-· contravene
-· director-general (see s 163)
-· doctor
-· fail
-· financial year
-· found guilty
-· in relation to
-· Magistrates Court
-· penalty unit (see s 133)
-· proceeding
-· public notice
-· public servant
-· quarter
-· reviewable decision notice
-· territory law
-· under
-· work safety commissioner
-· year.
+• ACAT
+• ACT
+• Australian statistician
+• contravene
+• director-general (see s 163)
+• doctor
+• fail
+• financial year
+• found guilty
+• in relation to
+• Magistrates Court
+• penalty unit (see s 133)
+• proceeding
+• public notice
+• public servant
+• quarter
+• reviewable decision notice
+• territory law
+• under
+• work safety commissioner
+• year.
 act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
 annual premium, for an employer, for part 5.4A (Return-to-work coordinators)—see section 103A.
 approved insurer means an insurer approved by the Minister under section 145.
