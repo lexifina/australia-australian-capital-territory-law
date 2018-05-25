@@ -2,17 +2,17 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to the local application provisions of this Act (see s 8 (4)).
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· chief police officer
-· Criminal Code
-· doctor
-· DPP
-· Magistrates Court
-· nurse
-· proceeding
-· State
-· territory law.
+• ACAT
+• ACT
+• chief police officer
+• Criminal Code
+• doctor
+• DPP
+• Magistrates Court
+• nurse
+• proceeding
+• State
+• territory law.
 alcohol screening device, for part 3 (Alcohol and drug testing) and the testing provisions—see section 10 (1).
 alcohol screening test, for a person, for part 3 (Alcohol and drug testing) and the testing provisions—see section 10 (1).
 analyst, for part 3 (Alcohol and drug testing) and the testing provisions—see section 10 (1).
