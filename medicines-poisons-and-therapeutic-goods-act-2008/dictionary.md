@@ -2,28 +2,30 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· bankrupt or personally insolvent
-· chief health officer
-· contravene
-· corporation
-· dentist
-· doctor
-· found guilty
-· function
-· health practitioner
-· home address
-· midwife
-· Minister (see s 162)
-· nurse
-· nurse practitioner
-· optometrist
-· pharmacist
-· reviewable decision notice
-· under
-· veterinary surgeon.
+• ACAT
+• bankrupt or personally insolvent
+• chief health officer
+• contravene
+• corporation
+• dentist
+• doctor
+• found guilty
+• function
+• health practitioner
+• home address
+• midwife
+• Minister (see s 162)
+• nurse
+• nurse practitioner
+• optometrist
+• pharmacist
+• reviewable decision notice
+• under
+• veterinary surgeon.
+another jurisdiction, for chapter 6A (Monitored medicines database)—see section 97B.
 applied provisions, for chapter 10 (Incorporation of Commonwealth therapeutic goods laws)—see section 156.
 applies, in relation to a substance for a schedule or appendix of the medicines and poisons standard—see section 17.
+approved data source entity, for chapter 6A (Monitored medicines database)—see section 97B.
 at premises includes in or on the premises.
 authorisation holder, for part 8.1 (Authorisations—disciplinary action)—see section 139.
 authorised—
@@ -81,6 +83,8 @@ medicines advisory committee means the Medicines Advisory Committee established 
 medicines and poisons inspector—see section 99.
 medicines and poisons standard—see section 15.
 moderate harm poison—see section 12.
+monitored medicine—see section 97A.
+monitored medicines database, for chapter 6A (Monitored medicines database)—see section 97B.
 must keep, a register for a regulated substance, for division 4.2.2 (Registers for regulated substances)—see section 48.
 occupier, of premises, for part 7.1 (Inspection and seizure powers)—see section 98.
 offence, for part 7.1 (Inspection and seizure powers)—see section 98.
@@ -103,7 +107,9 @@ register, for a regulated substance, means a register that a person is required 
 regulated substance—see section 10.
 regulated therapeutic good—see section 14.
 regulated thing, for chapter 12 (Regulations about regulated substances and regulated therapeutic goods)—see section 183.
+relevant health practitioner, for chapter 6A (Monitored medicines database)—see section 97B.
 relevant person, for part 8.2 (Controlled medicines and prohibited substances—disqualification by courts)—see section 147.
+required information, about the supply of a monitored medicine, for chapter 6A (Monitored medicines database)—see section 31 (4).
 requisition means an oral or written request for the supply of a medicine—
   (a) from a pharmacy in an institution to a ward or another pharmacy in the institution; or
   (b) to a pharmacy in an institution from a ward in the institution; or
