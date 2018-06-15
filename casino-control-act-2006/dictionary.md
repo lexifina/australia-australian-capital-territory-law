@@ -2,33 +2,38 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-  · ACAT
-  · ACT
-  · adult
-  · amend
-  · appoint
-  · authorised deposit-taking institution
-  · bankrupt or personally insolvent
-  · child
-  · disallowable instrument (see s 9)
-  · document
-  · Executive
-  · fail
-  · found guilty
-  · gambling and racing commission
-  · individual
-  · may (see s 146)
-  · must (see s 146)
-  · penalty unit (see s 133)
-  · police officer
-  · prescribed
-  · public holiday
-  · regulation
-  · reviewable decision notice
-  · territory law
-  · territory plan
-  · the Territory
-  · under.
+  • ACAT
+  • ACT
+  • adult
+  • amend
+  • appoint
+  • authorised deposit-taking institution
+  • bankrupt or personally insolvent
+  • chief police officer
+  • child
+  • Commonwealth
+  • disallowable instrument (see s 9)
+  • document
+  • domestic partner (see s 169 (1))
+  • Executive
+  • fail
+  • found guilty
+  • gambling and racing commission
+  • individual
+  • may (see s 146)
+  • must (see s 146)
+  • penalty unit (see s 133)
+  • planning and land authority
+  • police officer
+  • prescribed
+  • public holiday
+  • regulation
+  • reviewable decision notice
+  • State
+  • territory law
+  • territory plan
+  • the Territory
+  • under.
 approved banking account means a banking account approved by the commission under section 131 (2).
 approved rules, for an authorised game—see section 90.
 authorised game—see section 90.
@@ -38,6 +43,7 @@ authorised person means any of the following:
   (b) a casino employee;
   (c) anyone else who exercises a function for the Territory or commission in relation to this Act.
 casino means the area designated under section 62 (1).
+casino advisory panel—see section 136B.
 casino employee means the holder of a casino employee licence.
 casino employee licence means a licence given or renewed under part 4 authorising the licence-holder to perform a prescribed function stated in the licence in relation to the casino.
 casino FATG authorisation certificate—see the Casino (Electronic Gaming) Act 2017, dictionary.
@@ -103,6 +109,7 @@ ground for disciplinary action—
   (b) against the casino employee, for division 4.4 (Disciplinary action against casino employees)—see section 56.
 influential person, for a corporation—see section 9.
 local jurisdiction means a State or New Zealand.
+Ministerial decision, for part 8A (Casino advisory panels)—see section 136A.
 offence, for part 7 (Enforcement)—see section 117.
 operation, in relation to the casino, means any of the following:
   (a) the conduct of gaming in the casino;

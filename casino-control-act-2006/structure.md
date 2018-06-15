@@ -35,5 +35,6 @@
 ## Part 8 Finance
 ### Division 8.1 Tax
 ### Division 8.2 Accounts and records
+## Part 8A Casino advisory panels
 ## Part 9 Notification and review of decisions
 ## Part 10 Miscellaneous
