@@ -2,41 +2,41 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· administrative unit
-· adult
-· Australian Consumer Law (ACT)
-· building code
-· calendar month
-· child
-· commissioner for fair trading
-· corporation
-· Criminal Code
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· document
-· domestic partner (see s 169 (1))
-· entity
-· Executive
-· expire
-· fail
-· housing commissioner
-· individual
-· in relation to
-· instrument (see s 14)
-· may (see s 146)
-· Minister
-· month
-· must
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· police officer
-· prescribed
-· public holiday
-· sign
-· statutory instrument
-· under
-· working day.
+• ACAT
+• administrative unit
+• adult
+• Australian Consumer Law (ACT)
+• building code
+• calendar month
+• child
+• commissioner for fair trading
+• corporation
+• Criminal Code
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• document
+• domestic partner (see s 169 (1))
+• entity
+• Executive
+• expire
+• fail
+• housing commissioner
+• individual
+• in relation to
+• instrument (see s 14)
+• may (see s 146)
+• Minister
+• month
+• must
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• police officer
+• prescribed
+• public holiday
+• sign
+• statutory instrument
+• under
+• working day.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
 affected residential premises means premises, or a part of premises—
   (a) that—

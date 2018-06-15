@@ -33,3 +33,4 @@
 ## Part 9 Miscellaneous
 ## Part 13 Transitional—Residential Tenancies Legislation Amendment Act 2016
 ## Part 14 Transitional—Statute Law Amendment Act 2017 (No 2)
+## Part 15 Transitional—Residential Tenancies Amendment Act 2018
