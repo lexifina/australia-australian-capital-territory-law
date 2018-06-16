@@ -2,22 +2,22 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· Criminal Code
-· Executive
-· gambling and racing commission
-· Legislation Act
-· may (see s 146)
-· must (see s 146)
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· planning and land authority
-· prescribed
-· public notice
-· regulation
-· the Territory
-· under.
+• ACAT
+• ACT
+• Criminal Code
+• Executive
+• gambling and racing commission
+• Legislation Act
+• may (see s 146)
+• must (see s 146)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• planning and land authority
+• prescribed
+• public notice
+• regulation
+• the Territory
+• under.
 authorisation means an authorisation under—
   (a) a casino gaming machine authorisation certificate to operate a casino gaming machine at the premises stated in the certificate; or
   (b) a casino FATG authorisation certificate to operate a casino FATG terminal at the premises stated in the certificate.
