@@ -2,23 +2,23 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· appoint
-· Australian Consumer Law (ACT)
-· body
-· Chief Magistrate
-· contravene
-· Corporations Act
-· director-general (see s 163)
-· Executive
-· exercise
-· function
-· interest
-· lawyer
-· magistrate
-· proceeding
-· public servant
-· territory authority
-· territory instrumentality.
+• appoint
+• Australian Consumer Law (ACT)
+• body
+• Chief Magistrate
+• contravene
+• Corporations Act
+• director-general (see s 163)
+• Executive
+• exercise
+• function
+• interest
+• lawyer
+• magistrate
+• proceeding
+• public servant
+• territory authority
+• territory instrumentality.
 ACAT trust account, for part 9A (ACAT trust account)—see section 115B (2).
 accredited mediator means a person who is entered as a mediator in the register of nationally accredited mediators maintained by the Mediator Standards Board.
 appeal tribunal means a tribunal made up under section 81 to review a decision of the tribunal.

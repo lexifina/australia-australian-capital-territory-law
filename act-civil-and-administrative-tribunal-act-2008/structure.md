@@ -28,4 +28,3 @@
 ### Division 9.3 Registrar
 ## Part 9A ACAT trust account
 ## Part 10 Miscellaneous
-## Part 32 Transitional—ACT Civil and Administrative Tribunal Amendment Act 2016 (No 2)
