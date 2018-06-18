@@ -70,4 +70,3 @@
 ### Division 14.2.5 Enforcement—damage and compensation
 # Chapter 15 Notification and review of decisions
 # Chapter 16 Miscellaneous
-# Chapter 21 Transitional—Nature Conservation Amendment Act 2016

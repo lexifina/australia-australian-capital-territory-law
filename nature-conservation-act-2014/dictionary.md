@@ -2,32 +2,32 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT legislation register
-· ambulance service
-· Australia
-· chief officer (ambulance service)
-· chief officer (fire and rescue)
-· chief officer (rural fire service)
-· chief officer (SES)
-· commissioner for sustainability and the environment
-· contravene
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· Executive
-· exercise
-· external territory
-· fire and rescue
-· function
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· police officer
-· reviewable decision notice
-· rural fire service
-· SES
-· State
-· the Territory
-· working day.
+• ACAT
+• ACT legislation register
+• ambulance service
+• Australia
+• chief officer (ambulance service)
+• chief officer (fire and rescue)
+• chief officer (rural fire service)
+• chief officer (SES)
+• commissioner for sustainability and the environment
+• contravene
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• Executive
+• exercise
+• external territory
+• fire and rescue
+• function
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• police officer
+• reviewable decision notice
+• rural fire service
+• SES
+• State
+• the Territory
+• working day.
 accessing biological resources, for part 8.5 (Access to biological resources in reserves)—see section 207.
 access provider, for biological resources in a reserve, for part 8.5 (Access to biological resources in reserves)—see section 206.
 action plan, for a relevant species, relevant ecological community or key threatening process, for part 4.5 (Action plans)—see section 99.
@@ -93,9 +93,9 @@ exclusive economic zone—see the Seas and Submerged Lands Act 1973 (Cwlth), sec
 exempt animal—see section 154.
 export an item, means take the item to another place for any purpose.
 Examples—purpose
-· sale or trade
-· personal use
-· gift
+• sale or trade
+• personal use
+• gift
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 financial assurance condition, on a licence—see section 278.
 financial assurance considerations—see section 279.
@@ -106,9 +106,9 @@ habitat means an area—
   (b) once occupied (continuously, periodically or occasionally) by an organism, or group of organisms, and into which organisms of that kind have the potential to be reintroduced.
 import an item, means bring in the item from another place for any purpose.
 Examples—purpose
-· sale or trade
-· personal use
-· gift
+• sale or trade
+• personal use
+• gift
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 in, a vehicle, includes on the vehicle.
 ineligible species—see section 95 (1).
@@ -172,8 +172,8 @@ pest animal—see the Pest Plants and Animals Act 2005, dictionary.
 pest plant—see the Pest Plants and Animals Act 2005, dictionary.
 planning and development management objectives, for an area of public land, means the management objectives under the Planning and Development Act 2007, section 317 (Management objectives for areas of public land).
 Note The management objectives are stated in the following:
-· the Planning and Development Act 2007, sch 3;
-· determinations made by the conservator under the Planning and Development Act 2007, s 317 (2).
+• the Planning and Development Act 2007, sch 3;
+• determinations made by the conservator under the Planning and Development Act 2007, s 317 (2).
 plant—see section 13.
 plant reproductive material means—
   (a) a seed or spore of a plant; or
