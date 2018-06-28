@@ -2,25 +2,25 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACT
-· Australian citizen
-· Chief Minister
-· Commonwealth
-· exercise
-· fail
-· function
-· gazette
-· Legislative Assembly
-· Northern Territory
-· occupy
-· Office of the Legislative Assembly
-· position
-· power
-· public employee
-· public servant
-· state
-· statutory office-holder
-· the Territory.
+• ACT
+• Australian citizen
+• Chief Minister
+• Commonwealth
+• exercise
+• fail
+• function
+• gazette
+• Legislative Assembly
+• Northern Territory
+• occupy
+• Office of the Legislative Assembly
+• position
+• power
+• public employee
+• public servant
+• state
+• statutory office-holder
+• the Territory.
 administrative arrangements means a determination made under see section 14 (1).
 administrative unit means a unit of the service established under section 13 (1).
 appeal means—
