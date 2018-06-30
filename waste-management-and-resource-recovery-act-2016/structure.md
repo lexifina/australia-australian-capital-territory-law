@@ -8,6 +8,16 @@
 ## Part 8 Financial assurances
 ## Part 9 Codes of practice
 ## Part 10 Waste storage and collection
+## Part 10A Container deposit scheme
+### Division 10A.1 General
+### Division 10A.2 Scheme administration
+### Division 10A.3 Scheme coordinator agreement
+### Division 10A.4 Network operator agreements
+### Division 10A.5 Scheme compliance
+### Division 10A.6 Supply and collection of containers
+#### Subdivision 10A.6.1 Supply of approved containers
+#### Subdivision 10A.6.2 Collection of containers
+### Division 10A.7 Miscellaneous
 ## Part 11 Reporting
 ## Part 12 Exemptions
 ## Part 13 Enforcement
