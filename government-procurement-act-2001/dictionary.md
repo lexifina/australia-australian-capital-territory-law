@@ -2,19 +2,19 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· administrative unit
-· auditor-general
-· bankrupt or personally insolvent
-· body
-· Corporations Act
-· director-general (see s 163)
-· head of service
-· Office of the Legislative Assembly
-· officer of the Assembly
-· public employee
-· public servant
-· Territory owned corporation
-· the Territory.
+• administrative unit
+• auditor-general
+• bankrupt or personally insolvent
+• body
+• Corporations Act
+• director-general (see s 163)
+• head of service
+• Office of the Legislative Assembly
+• officer of the Assembly
+• public employee
+• public servant
+• Territory owned corporation
+• the Territory.
 board means the Australian Capital Territory Government Procurement Board established under section 5.
 chairperson means the chairperson of the board.
 commercial account, for part 4 (Interest on commercial accounts)—see section 44.
