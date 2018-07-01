@@ -11,6 +11,11 @@
 ### Division 5.2 General interference
 ### Division 5.3 Contamination of water or sewerage networks
 ### Division 5.4 Miscellaneous
+## Part 5A Vegetation and electrical infrastructure management
+### Division 5A.1 General
+### Division 5A.2 Vegetation management
+### Division 5A.3 Electrical infrastructure management
+### Division 5A.4 Performance of management operations
 ## Part 6 Operating certificates
 ### Division 6.1 General
 ### Division 6.2 Operating certificates—unlicensed regulated utilities
