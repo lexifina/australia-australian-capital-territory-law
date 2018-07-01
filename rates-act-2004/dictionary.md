@@ -2,19 +2,19 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· calendar year
-· civil partner
-· civil union partner
-· commissioner for revenue
-· contravene
-· financial year
-· function
-· home address
-· month
-· person (see s 160)
-· registrar-general
-· under.
+• ACAT
+• calendar year
+• civil partner
+• civil union partner
+• commissioner for revenue
+• contravene
+• financial year
+• function
+• home address
+• month
+• person (see s 160)
+• registrar-general
+• under.
 airport land—see section 40B.
 annual redetermination, of a parcel of land, means a redetermination of the unimproved value of the parcel under section 10.
 assessment notice, in relation to rates, means a notice of assessment under the Taxation Administration Act, section 14 in relation to the rates.

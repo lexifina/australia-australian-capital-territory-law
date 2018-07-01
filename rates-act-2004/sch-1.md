@@ -84,7 +84,7 @@ Note Different fixed charges, amounts, or percentage rates, may be determined fo
 (1) This section applies to a parcel of land that is a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions).
 (2) In its application to the imposition of city centre marketing and improvements levy to the parcel of land, section 1.2 has effect as if subsections (3) and (4) of this section were substituted for section 1.2 (1) and (4).
 (3) City centre marketing and improvements levy is imposed for a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions), worked out as follows:
-(AUV CP) P
+(AUV × CP) × P
 (4) In this section:
 AUV means the average unimproved value of the parcel.
 CP means the percentage, as determined under section 32, of the intended development that is to be used for commercial purposes.
