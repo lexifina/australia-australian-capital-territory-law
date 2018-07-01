@@ -1,6 +1,5 @@
 # Schedule 1 Modification—Heavy Vehicle National Law (ACT)
 (see s 7)
-## Part 1.1 Modifications—general
 [1.1] Section 5, definition of previous corresponding law, new paragraph 4
 insert
 4 For the purposes of paragraph 1, if a provision of this Law does not apply in a participating jurisdiction on the day the provision of its Application Act corresponding to section 4 of the Heavy Vehicle National Law Act 2012 of Queensland commences, and the provision later applies in the jurisdiction, the participation day for the jurisdiction in relation to the provision is taken to be the day the provision applies.
@@ -104,93 +103,6 @@ after
 section)
 insert
 other than an offence mentioned in section 567A or section 567B
-## Part 1.2 Modifications—ch 2
-[1.12] Section 4
-omit
-The object
-substitute
-(1) The object
-[1.13] New section 4 (2)
-insert
-(2) In this section:
-registration means registration under this Law.
-[1.14] Section 5, new definition of corresponding registration law
-insert
-corresponding registration law means a law of a participating jurisdiction that substantially corresponds to the Road Transport (Vehicle Registration) Act 1999.
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act 2001, s 104 and Heavy Vehicle National Law (ACT) Act 2013, s 8 (3)).
-[1.15] Section 5, definition of GCM
-substitute
-GCM (gross combination mass), of a motor vehicle, means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at the same time—
-  (a) specified by the manufacturer on an identification plate on the motor vehicle; or
-  (b) if there is no specification by the manufacturer on an identification plate on the motor vehicle or if the specification is not appropriate because the motor vehicle has been modified—certified by the road transport authority or an authority under a corresponding registration law.
-[1.16] Section 5, definition of GVM
-substitute
-GVM (gross vehicle mass), of a vehicle, means the maximum loaded mass of the vehicle—
-  (a) specified by the manufacturer on an identification plate on the vehicle; or
-  (b) if there is no specification by the manufacturer on an identification plate on the vehicle or if the specification is not appropriate because the vehicle has been modified—certified by the road transport authority or an authority under a corresponding registration law.
-[1.17] Section 5, definition of registration
-substitute
-registration, of a heavy vehicle, means registration of the vehicle under the Road Transport (Vehicle Registration) Act 1999 or a corresponding registration law.
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act 2001, s 104 and Heavy Vehicle National Law (ACT) Act 2013, s 8 (3)).
-[1.18] Section 5, definition of registration number
-substitute
-registration number, for a heavy vehicle—
-  (a) has the same meaning as in the Road Transport (Vehicle Registration) Regulation 2000; or
-  (b) means the identifying registration number (however described) given to the vehicle under a corresponding registration law.
-[1.19] Section 5, definition of unregistered heavy vehicle permit
-substitute
-unregistered heavy vehicle permit means—
-  (a) an unregistered vehicle permit under the Road Transport (Vehicle Registration) Act 1999; or
-  (b) an unregistered heavy vehicle permit (however described) under a corresponding registration law.
-[1.20] Section 5, definition of vehicle register
-substitute
-vehicle register means—
-  (a) the registrable vehicles register under the Road Transport (Vehicle Registration) Act 1999; or
-  (b) the register of vehicles (however described) under a corresponding registration law.
-[1.21] Section 5, definitions of wrecked and written-off
-omit
-[1.22] Section 60 (3) and (4)
-substitute
-(3) A person does not commit an offence against subsection (1) in relation to a heavy vehicle’s noncompliance with a heavy vehicle standard if, and to the extent, the noncompliance relates to a noncompliance—
-  (a) if the vehicle is registered under the Road Transport (Vehicle Registration) Act 1999—known to the road authority when the vehicle was registered under the Act; or
-  (b) if the vehicle is registered under a corresponding registration law—known to the government entity of the participating jurisdiction responsible for administering the law when the vehicle was registered under that law.
-(4) For the purposes of subsection (3), the road authority, or the government entity, is taken to know of a heavy vehicle’s noncompliance with a heavy vehicle standard when the vehicle was registered under the Road Transport (Vehicle Registration) Act 1999 or corresponding registration law if the noncompliance is mentioned in—
-  (a) an operations plate that was installed on the vehicle when it was registered; or
-  (b) a certificate of approved operations issued for the vehicle and in force when the vehicle was registered; or
-  (c) a document obtained by the road authority under the Road Transport (Vehicle Registration) Act 1999, or the government entity under the corresponding registration law, in connection with the registration of the vehicle.
-[1.23] Section 458 (a)
-omit
-under this Law
-[1.24] Section 520 (2) (b)
-substitute
-  (b) without limiting paragraph (a), look for, check the details of, or film a number plate, label or other thing required to be displayed on the heavy vehicle under this Law, the Road Transport (Vehicle Registration) Act 1999 or a corresponding registration law; and
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act 2001, s 104 and Heavy Vehicle National Law (ACT) Act 2013, s 8 (3)).
-[1.25] Section 521 (3) (c)
-substitute
-  (c) without limiting paragraph (b), look for, check the details of, or film a number plate, label or other thing required to be displayed on the heavy vehicle under this Law, the Road Transport (Vehicle Registration) Act 1999 or a corresponding registration law; and
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act 2001, s 104 and Heavy Vehicle National Law (ACT) Act 2013, s 8 (3)).
-[1.26] Section 522 (6)
-after
-ground for
-insert
-cancelling or
-[1.27] Section 527 (1) (i)
-substitute
-  (i) that, if the notice is not cleared by the Regulator under section 530, the law under which the vehicle is registered may provide for sanctions (for example, suspension or cancellation of registration);
-[1.28] Section 598 (5)
-omit
-Regulator is
-substitute
-Regulator and the road authority are
-[1.29] New section 598 (6)
-insert
-(6) In this section:
-registration, of a heavy vehicle, means registration of the vehicle under the Road Transport (Vehicle Registration) Act 1999.
-Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including any regulation (see Legislation Act 2001, s 104 and Heavy Vehicle National Law (ACT) Act 2013, s 8 (3)).
-[1.30] New section 653 (4)
-insert
-(4) In this section:
-registration means registration under this Law.
 [1.31] New section 712 (ca) to (ch)
 insert
   (ca) a stated vehicle was or was not registered under the Road Transport (Vehicle Registration) Act 1999 on the basis of it being a heavy vehicle; or
