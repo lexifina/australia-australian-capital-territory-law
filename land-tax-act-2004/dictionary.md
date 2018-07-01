@@ -2,23 +2,41 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· ACAT
-· commissioner for revenue
-· corporation
-· financial year
-· function
-· interest
-· month
-· person (see s 160)
-· quarter
-· under.
+• ACAT
+• Australia
+• commissioner for revenue
+• corporation
+• domestic partnership (see s 169 (2))
+• external territory
+• financial year
+• function
+• interest
+• month
+• person (see s 160)
+• quarter
+• territory law
+• under.
+associated person—see the Duties Act 1999, dictionary.
+Australian citizen, for part 2A (Foreign ownership surcharge)—see section 17A.
 commissioner means the commissioner for revenue.
-land sublease—see the Planning and Development Act 2007, dictionary.
-land tax includes—
+foreign corporation, for part 2A (Foreign ownership surcharge)—see section 17B.
+foreign individual, for part 2A (Foreign ownership surcharge)—see section 17A.
+foreign ownership surcharge includes—
   (a) penalty tax; and
   (b) the total of—
-    (i) the costs and expenses reasonably incurred by the Territory in attempting to recover the land tax; and
-    (ii) interest payable in relation to the land tax.
+    (i) the costs and expenses reasonably incurred by the Territory in attempting to recover the foreign ownership surcharge; and
+    (ii) interest payable in relation to the foreign ownership surcharge.
+foreign person, for part 2A (Foreign ownership surcharge)—see section 17A.
+foreign trust, for part 2A (Foreign ownership surcharge)—see section 17C.
+land sublease—see the Planning and Development Act 2007, dictionary.
+land tax—
+  (a) for this Act generally, includes—
+    (i) penalty tax; and
+    (ii) the total of—
+      (A) the costs and expenses reasonably incurred by the Territory in attempting to recover the land tax; and
+      (B) interest payable in relation to the land tax; and
+  (b) for part 3 (Enforcement)—see section 18A; and
+  (c) for part 5 (Exemptions, remissions and certain interest payments)—see section 33.
 lease means a lease from the Commonwealth or the Territory, and includes an agreement with the Commonwealth or the Territory—
   (a) for a lease of a parcel of land; or
   (b) for the tenancy or occupation of a parcel of land.
@@ -30,6 +48,10 @@ owner, of a parcel of land means—
   (e) for a parcel held under a land sublease—the sublessee.
 owners corporation—see the Unit Titles (Management) Act 2011, dictionary.
 parcel includes a part of a parcel of land that is separately held by an occupier, tenant, lessee or owner.
+permanent resident, for part 2A (Foreign ownership surcharge)—see section 17A.
+personal representative, in relation to a deceased person, means—
+  (a) an executor of the deceased person’s will; or
+  (b) an administrator of the deceased person’s estate.
 primary production means—
   (a) production resulting directly from—
     (i) cultivation of land; or
@@ -47,8 +69,8 @@ residential land means—
   (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if—
     (i) at least 1 parcel of land in the scheme is residential land under paragraph (a) or (b); and
     (ii) no parcel of land in the scheme is leased for a commercial purpose.
+residential tenancy agreement, for part 2 (Imposition and payment of land tax)—see section 7.
 Taxation Administration Act means the Taxation Administration Act 1999.
-tenancy agreement, for part 2 (Imposition and payment of land tax)—see section 7.
 tenant, for part 2 (Imposition and payment of land tax)—see section 7.
 trustee, for part 2 (Imposition and payment of land tax)—see section 7.
 unit means a unit under the Unit Titles Act, section 9.
