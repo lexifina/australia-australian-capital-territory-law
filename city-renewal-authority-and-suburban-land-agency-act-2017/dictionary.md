@@ -2,19 +2,19 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· entity
-· housing commissioner
-· Minister (see s 162)
-· national capital authority
-· national capital plan
-· notifiable instrument (see s 10)
-· public employee
-· public sector member
-· public service
-· territory authority
-· territory land
-· territory plan
-· the Territory.
+• entity
+• housing commissioner
+• Minister (see s 162)
+• national capital authority
+• national capital plan
+• notifiable instrument (see s 10)
+• public employee
+• public sector member
+• public service
+• territory authority
+• territory land
+• territory plan
+• the Territory.
 agency means the Suburban Land Agency established under section 37.
 agency board means the suburban land agency governing board established under section 45.
 agency CEO means the chief executive officer of the agency appointed under section 56.
