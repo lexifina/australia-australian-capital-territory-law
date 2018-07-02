@@ -2,29 +2,29 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· Australian citizen
-· Australian Consumer Law (ACT)
-· commissioner for revenue
-· construction occupations registrar
-· corporation
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· exercise
-· function
-· magistrate
-· Magistrates Court
-· Minister (see s 162)
-· National Electricity (ACT) Law
-· National Energy Retail Law (ACT)
-· National Gas (ACT) Law
-· National Gas (ACT) Regulation
-· national land
-· notifiable instrument (see s 10)
-· public servant
-· reviewable decision notice
-· State
-· the Territory.
+• ACAT
+• Australian citizen
+• Australian Consumer Law (ACT)
+• commissioner for revenue
+• construction occupations registrar
+• corporation
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• exercise
+• function
+• magistrate
+• Magistrates Court
+• Minister (see s 162)
+• National Electricity (ACT) Law
+• National Energy Retail Law (ACT)
+• National Gas (ACT) Law
+• National Gas (ACT) Regulation
+• national land
+• notifiable instrument (see s 10)
+• public servant
+• reviewable decision notice
+• State
+• the Territory.
 administrator, for part 3A (Energy industry levy)—see section 54N.
 annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant financial year.
 approved meter, for division 6.4 (Passing on supply costs)—see section 97.
