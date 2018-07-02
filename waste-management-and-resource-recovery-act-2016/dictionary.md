@@ -2,25 +2,25 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· administrative unit
-· appoint
-· chief officer (fire and rescue)
-· Criminal Code
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· fail
-· function
-· give
-· may (see s 146)
-· Minister (see s 162)
-· must (see s 146)
-· notifiable instrument (see s 10)
-· penalty unit (see s 133)
-· person
-· police officer
-· under.
+• ACAT
+• ACT
+• administrative unit
+• appoint
+• chief officer (fire and rescue)
+• Criminal Code
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• fail
+• function
+• give
+• may (see s 146)
+• Minister (see s 162)
+• must (see s 146)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
+• person
+• police officer
+• under.
 affected person, for an original decision, for part 16 (Reconsideration of decisions)—see section 114.
 approved container means a container, or a container within a class of containers, that is the subject of a container approval.
 authorised person means a person appointed under section 74.
