@@ -55,4 +55,3 @@
 ## Part 13A Notifiable actions
 ## Part 14 Miscellaneous
 ## Part 20 Transitional—Gaming Machine (Reform) Amendment Act 2015
-## Part 21 Transitional—Gaming Machine Amendment Act 2017

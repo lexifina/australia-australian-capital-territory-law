@@ -2,34 +2,34 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· adult
-· appoint
-· business day
-· child
-· contravene
-· Corporations Act
-· Criminal Code
-· daily newspaper
-· disallowable instrument (see s 9)
-· Executive
-· fail
-· found guilty
-· gambling and racing commission
-· individual
-· law, of the Territory
-· Legislation Act
-· may (see s 146)
-· must (see s 146)
-· penalty unit (see s 133)
-· prescribed
-· public notice
-· regulation
-· reviewable decision notice
-· State
-· the Territory
-· under.
+• ACAT
+• ACT
+• adult
+• appoint
+• business day
+• child
+• contravene
+• Corporations Act
+• Criminal Code
+• daily newspaper
+• disallowable instrument (see s 9)
+• Executive
+• fail
+• found guilty
+• gambling and racing commission
+• individual
+• law, of the Territory
+• Legislation Act
+• may (see s 146)
+• must (see s 146)
+• penalty unit (see s 133)
+• prescribed
+• public notice
+• regulation
+• reviewable decision notice
+• State
+• the Territory
+• under.
 acquire a gaming machine, means take possession of the gaming machine for the purpose of using it for gaming.
 approval, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 approval certificate, for an approved technician—see section 80 (2) (a).
