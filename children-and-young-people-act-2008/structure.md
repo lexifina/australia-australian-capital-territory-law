@@ -94,7 +94,7 @@
 ### Division 11.1.3 Prenatal reporting of anticipated abuse and neglect
 ## Part 11.2 Care and protection—appraisals
 ### Division 11.2.1 Definitions
-### Division 11.2.2 Appraisal with agreement or order
+### Division 11.2.2 Appraisal by director-general
 ### Division 11.2.3 Appraisal orders
 # Chapter 12 Care and protection—voluntary agreements to transfer or share parental responsibility
 ## Part 12.1 Definitions
@@ -232,3 +232,4 @@
 ## Part 25.6 Protection of people who give information
 # Chapter 26 Miscellaneous
 # Chapter 29 Transitional—Children and Young People Amendment Act 2015 (No 3)
+# Chapter 31 Transitional—Children and Young People Amendment Act 2018
