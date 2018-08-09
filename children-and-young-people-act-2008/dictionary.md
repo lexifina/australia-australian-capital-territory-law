@@ -2,58 +2,58 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· administrative unit
-· adult
-· bankrupt or personally insolvent
-· chief police officer
-· children and young people commissioner
-· Childrens Court
-· corrections officer
-· dentist
-· director-general (see s 163)
-· disallowable instrument (see s 9)
-· doctor
-· domestic partner (see s 169 (1))
-· entity
-· Executive
-· found guilty
-· function
-· head of service
-· health practitioner
-· home address
-· human rights commission
-· indictable offence (s 190)
-· individual
-· information privacy commissioner
-· in relation to
-· intersex person (see s 169B)
-· judge
-· lawyer
-· legal aid commission
-· magistrate
-· midwife
-· Minister (see s 162)
-· notifiable instrument (see s 10)
-· nurse
-· ombudsman
-· parent
-· penalty unit (see s 133)
-· police officer
-· public advocate
-· public employee
-· public holiday
-· public servant
-· public trustee and guardian
-· reviewable decision notice
-· State
-· statutory-office holder
-· territory authority
-· territory instrumentality
-· the Territory
-· transgender person (see s 169A (1) and (2))
-· working day.
+• ACAT
+• ACT
+• administrative unit
+• adult
+• bankrupt or personally insolvent
+• chief police officer
+• children and young people commissioner
+• Childrens Court
+• corrections officer
+• dentist
+• director-general (see s 163)
+• disallowable instrument (see s 9)
+• doctor
+• domestic partner (see s 169 (1))
+• entity
+• Executive
+• found guilty
+• function
+• head of service
+• health practitioner
+• home address
+• human rights commission
+• indictable offence (s 190)
+• individual
+• information privacy commissioner
+• in relation to
+• intersex person (see s 169B)
+• judge
+• lawyer
+• legal aid commission
+• magistrate
+• midwife
+• Minister (see s 162)
+• notifiable instrument (see s 10)
+• nurse
+• ombudsman
+• parent
+• penalty unit (see s 133)
+• police officer
+• public advocate
+• public employee
+• public holiday
+• public servant
+• public trustee and guardian
+• reviewable decision notice
+• State
+• statutory-office holder
+• territory authority
+• territory instrumentality
+• the Territory
+• transgender person (see s 169A (1) and (2))
+• working day.
 Aboriginal or Torres Strait Islander person means a person who––
   (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
   (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
