@@ -2,15 +2,15 @@
 (see s 2)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· director-general (see s 163)
-· document
-· interest
-· land
-· Magistrates Court
-· Minister (see s 162)
-· National Credit Code
-· prescribed.
+• ACAT
+• director-general (see s 163)
+• document
+• interest
+• land
+• Magistrates Court
+• Minister (see s 162)
+• National Credit Code
+• prescribed.
 advisory committee means a committee established under section 28.
 annual percentage rate, for part 6 (Maximum annual percentage rate and disclosure)—see section 62.
 application law, for part 2 (The Australian Consumer Law)—see section 5 (1).
