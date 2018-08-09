@@ -2,23 +2,23 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· Act
-· administrative unit
-· chief police officer
-· director-general (see s 163)
-· director of public prosecutions
-· domestic partner (see s 169 (1))
-· entity
-· exercise
-· function
-· law, of the Territory
-· penalty unit (see s 133)
-· police officer
-· public employee
-· State
-· Territory authority
-· territory law
-· the Territory.
+• Act
+• administrative unit
+• chief police officer
+• director-general (see s 163)
+• director of public prosecutions
+• domestic partner (see s 169 (1))
+• entity
+• exercise
+• function
+• law, of the Territory
+• penalty unit (see s 133)
+• police officer
+• public employee
+• State
+• Territory authority
+• territory law
+• the Territory.
 ACT offence means an offence against a Territory law.
 another Territory means a Territory other than this Territory or the Northern Territory.
 Commonwealth law means—
