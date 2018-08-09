@@ -2,27 +2,27 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-  · ACT
-  · administrative unit
-  · Australia
-  · Australian driver licence
-  · change
-  · chief police officer
-  · child
-  · director-general (see s 163)
-  · entity
-  · external territory
-  · fail
-  · function
-  · parent
-  · police officer
-  · prescribed
-  · public service
-  · public sector body
-  · reviewable decision notice
-  · State
-  · territory instrumentality.
+• ACAT
+  • ACT
+  • administrative unit
+  • Australia
+  • Australian driver licence
+  • change
+  • chief police officer
+  • child
+  • director-general (see s 163)
+  • entity
+  • external territory
+  • fail
+  • function
+  • parent
+  • police officer
+  • prescribed
+  • public service
+  • public sector body
+  • reviewable decision notice
+  • State
+  • territory instrumentality.
 act includes omission.
 appealable decision, for part 5A.10 (Appeals to Supreme Court)—see section 132ZS.
 application, for an order for a person, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.

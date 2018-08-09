@@ -14,10 +14,10 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 10 | Crimes Act 1900, section 65 (1) | possessing child exploitation material | 
 11 | Crimes Act 1900, section 66 (1) | using the internet etc to deprave young person | 
 12 | Crimes Act 1900, section 66 (2) | using the internet etc to deprave young person | 
-13 | Prostitution Act 1992 section 19 (2) | accosting child for commercial sexual services | 
-14 | Prostitution Act 1992 section 20 (1) | causing child under 12 to provide commercial sexual services | 
-15 | Prostitution Act 1992 section 20 (3) | causing child 12 or older to provide commercial sexual services | 
-16 | Prostitution Act 1992 section 21 (1) | proceeds of child prostitution | 
+13 | Sex Work Act 1992, section 19 (2) | accosting child for commercial sexual services | 
+14 | Sex Work Act 1992, section 20 (1) | causing child under 12 to provide commercial sexual services | 
+15 | Sex Work Act 1992, section 20 (3) | causing child 12 or older to provide commercial sexual services | 
+16 | Sex Work Act 1992, section 21 (1) | proceeds of commercial sexual services by child | 
 ## Part 2.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
 1 | Criminal Code Act 1995 (Cwlth) section 270.7 (1) and section 270.8 (1) | deceptive recruiting for sexual services | aggravated offence
