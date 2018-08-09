@@ -7,7 +7,7 @@
   (c) sexual assault; or
   (d) sexual servitude; or
   (e) child exploitation material; or
-  (f) violence, intimidation or coercion related to prostitution; or
+  (f) violence, intimidation or coercion related to provision of commercial sexual services; or
   (g) causing serious physical harm to another person; or
   (h) money laundering; or
   (i) illegal immigration; or

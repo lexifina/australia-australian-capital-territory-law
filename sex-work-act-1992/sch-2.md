@@ -6,8 +6,8 @@ item | section | description
 2 | 18 | brothel operating other than in prescribed location
 3 | 19 (2) | accost a child for the purpose of offering or getting commercial sexual services
 4 | 20 | cause or permit child to provide commercial sexual services
-5 | 21 | receive proceeds of child prostitution
+5 | 21 | receive proceeds of commercial sexual services by child
 6 | 23 | permit child on premises
-7 | 24 | obligations when prostitute infected with sexually transmissible infection
-8 | 26 | obligations in relation to medical test and medical examination of prostitute
+7 | 26 | obligations in relation to medical test and medical examination of sex worker
+8 | 26A | obligation to supply health and safety equipment
 9 | 27 | obligations about use of prophylactics
