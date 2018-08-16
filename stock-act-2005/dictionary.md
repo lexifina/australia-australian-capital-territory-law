@@ -31,6 +31,7 @@ equine means a horse, donkey, mule or hinny.
 Note A reference to an animal of a particular kind is a reference to an animal of that kind irrespective of age or sex (see s 67).
 holding means any parcel or parcels of land worked as a single property, whether held under the same or different titles.
 impound, for part 5 (Impounding stock)—see section 32.
+impoundment area, for part 5 (Impounding stock)—see section 32.
 large stock means an equine, bovine, alpaca, or any other animal declared by regulation to be large stock.
 maintenance fee, for impounded stock, means the fee determined under section 68 for maintaining the stock.
 mark means an earmark or permanent brand.
@@ -50,7 +51,9 @@ small stock means a sheep, goat, pig, or any other animal declared by regulation
 stock means large stock or small stock.
 stock levy—see section 8.
 stock unit means a stock unit determined under section 6.
-travel, for stock, means drive or transport the stock outside the holding where they are normally kept.
+travel—
+  (a) for this Act generally—in relation to stock, means drive or transport the stock outside the holding where the stock is normally kept; and
+  (b) for part 4 (Travelling stock)—see section 26A.
 travelling fee, for impounded stock, means the fee determined under section 68 for travelling the stock.
 vehicle—
   (a) see the Road Transport (General) Act 1999, dictionary; and
