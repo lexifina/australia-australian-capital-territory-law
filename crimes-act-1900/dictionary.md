@@ -58,6 +58,7 @@ child—
   (b) for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
 committed an offence, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
 Commonwealth Crimes Act, for part 10 (Criminal investigation)—see section 185.
+compliance period, for division 10.9 (Fortification of premises)—see section 252M.
 conduct, for part 2A (Industrial manslaughter) and part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
 contaminate, for goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
 conveyance, for part 10 (Criminal investigation)—see section 185.
@@ -86,6 +87,10 @@ exclusion period, for part 9 (Exclusion powers)—see section 175 (3) (b).
 exclusion zone, for part 9 (Exclusion powers)—see section 175 (3) (a).
 executing officer, in relation to a warrant, for part 10 (Criminal investigation)—see section 185.
 female genital mutilation, for part 4 (Female genital mutilation)—see section 73.
+fortification, of premises, for division 10.9 (Fortification of premises)—see section 252M.
+fortification inspection order, for division 10.9 (Fortification of premises)—see section 252U.
+fortification offence, for division 10.9 (Fortification of premises)—see section 252M.
+fortification removal order, for division 10.9 (Fortification of premises)—see section 252N.
 frisk search, for part 10 (Criminal investigation)—see section 185.
 Full Court, for part 20 (Inquiries into convictions)—see section 421.
 genital or anal region, for part 3A (Intimate image abuse)—see section 72A.
@@ -117,6 +122,7 @@ mental health order, for part 13 (Unfitness to plead and mental impairment)—se
 mental impairment—see the Criminal Code, section 27.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 night, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
+occupier, of premises, for division 10.9 (Fortification of premises)—see section 252M.
 offence, for part 10 (Criminal investigation)—see section 185.
 offence to which this Act applies, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 offensive weapon means—
