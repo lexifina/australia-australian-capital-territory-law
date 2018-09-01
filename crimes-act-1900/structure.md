@@ -26,6 +26,7 @@
 #### Subdivision 10.7.1 Arrest of children under 10 years old
 #### Subdivision 10.7.2 Preliminary procedures in relation to children and young people
 ### Division 10.8 Investigations relating to acquittals
+### Division 10.9 Fortification of premises
 ## Part 11 Investigation of extraterritorial offences
 ## Part 12 Procedure, evidence, verdict etc
 ## Part 13 Unfitness to plead and mental impairment
