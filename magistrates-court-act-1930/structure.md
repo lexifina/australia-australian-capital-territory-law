@@ -61,6 +61,7 @@
 ## Part 4A.1 The Childrens Court
 ## Part 4A.2 Childrens Court Magistrate
 ## Part 4A.3 Criminal proceedings
+## Part 4A.4 Warrumbul Court
 # Chapter 4B The Family Violence Court
 ## Part 4B.1 Preliminary
 ## Part 4B.2 The Family Violence Court
