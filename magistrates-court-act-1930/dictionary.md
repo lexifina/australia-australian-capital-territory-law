@@ -41,7 +41,10 @@ Note 2 For example, the Legislation Act, pt 1 defines the following terms:
 • summary offence (see s 190)
 • territory law
 • under.
-Aboriginal or Torres Strait Islander offender, for chapter 4C (Galambany Court)—see section 291L.
+Aboriginal or Torres Strait Islander offender means an offender who—
+  (a) is a descendant of an Aboriginal or Torres Strait Islander person; and
+  (b) identifies as an Aboriginal or Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal or Torres Strait Islander person by an Aboriginal or Torres Strait Islander community.
 ACT court, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 administering authority, for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 another jurisdiction, for part 3.8 (Infringement notices for certain offences)—see section 117.
@@ -53,7 +56,7 @@ authorised person—
 back-up offence, in relation to an indictable offence––see the Supreme Court Act 1933, section 68CA.
 bailiff means a bailiff under this Act.
 certified copy, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
-circle sentencing, for chapter 4C (Galambany Court)—see section 291L.
+circle sentencing means the step in a sentencing proceeding for an Aboriginal or Torres Strait Islander offender that includes members of the Aboriginal or Torres Strait Islander community.
 claim means a claim under the rules.
 committal order—see the Crimes (Sentence Administration) Act 2005, section 10.
 conviction—
