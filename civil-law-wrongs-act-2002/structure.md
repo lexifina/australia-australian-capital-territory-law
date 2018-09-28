@@ -28,6 +28,7 @@
 ## Part 7.3 Contributory negligence
 # Chapter 7A Proportionate liability
 # Chapter 8 Liability of public and other authorities
+# Chapter 8A Institutional child abuse
 # Chapter 9 Defamation
 ## Part 9.1 Preliminary—defamation
 ## Part 9.2 General principles

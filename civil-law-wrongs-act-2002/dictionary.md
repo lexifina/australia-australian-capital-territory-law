@@ -5,8 +5,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Australian Consumer Law (ACT)
 • Australian statistician
 • bankrupt or personally insolvent
+• body
+• child
 • civil partner
 • civil union partner
+• corporation
 • Corporations Act
 • doctor
 • domestic partner (see s 169)
@@ -38,6 +41,8 @@ business assets, for schedule 4 (Professional standards)—see schedule 4, secti
 child—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
+child abuse, for chapter 8A (Institutional child abuse)—see section 114A (1).
+child abuse claim, by or on behalf of a person, for chapter 8A (Institutional child abuse)—see section 114A (1).
 claim—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
   (b) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.
@@ -154,6 +159,7 @@ publisher, for division 9.3.1 (Offers to make amends)—see section 124.
 pure mental harm, for part 3.2 (Mental harm)—see section 32.
 reasonable prospects of success, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
 recreational drug means a drug consumed voluntarily for non-medicinal purposes, and includes alcohol.
+related trust, in relation to an unincorporated body, for chapter 8A (Institutional child abuse)—see section 114B.
 respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1).
