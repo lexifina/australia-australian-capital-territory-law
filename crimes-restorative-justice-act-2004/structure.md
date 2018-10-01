@@ -7,6 +7,7 @@
 ### Division 6.1 Preliminary
 ### Division 6.2 General
 ### Division 6.3 Referral by courts
+### Division 6.4 Referrals not requiring offender notification
 ## Part 7 Suitability for restorative justice
 ## Part 8 Restorative justice conferences and agreements
 ### Division 8.1 General

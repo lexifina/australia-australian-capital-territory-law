@@ -38,7 +38,7 @@ objects, of this Act—see section 6.
 offence—see section 12.
 offender—see section 12.
 parent—see section 11.
-personal characteristics, of a victim, parent of a victim, or offender, for part 7 (Suitability for restorative justice)—see section 29.
+personal characteristics, of a victim, or a parent of a child victim, or offender—see section 29.
 referred—see section 10.
 referring entity—
   (a) see section 22; but
