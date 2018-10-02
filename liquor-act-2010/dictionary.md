@@ -16,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • corporation
 • Corporations Act
 • director-general (see s 163)
+• document
 • planning and land authority
 • police officer.
 ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
@@ -81,13 +82,16 @@ ground for occupational discipline, for division 11.3 (Occupational discipline)�
   (a) in relation to a licensee—see section 183; or
   (b) in relation to a commercial permit-holder—see section 184.
 harm minimisation and community safety principles—see section 10.
-identification document, for a person, means a document that—
-  (a) is—
-    (i) an Australian driver licence or foreign driver licence; or
-    (ii) a proof of identity card or interstate proof of identity card; or
-    (iii) a passport; and
-  (b) contains a photograph that could reasonably be taken to be the person; and
-  (c) states the person’s date of birth.
+identification document, for a person, means—
+  (a) a document that—
+    (i) is—
+      (A) an Australian driver licence or foreign driver licence; or
+      (B) a proof of identity card or interstate proof of identity card; or
+      (C) a passport; and
+    (ii) contains a photograph that could reasonably be taken to be the person; and
+    (iii) states the person’s date of birth; or
+  (b) any other document prescribed by regulation.
+Note A document may be in electronic form (see Legislation Act, dict, pt 1, def document).
 identity card—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 incident, for division 8.6 (Incidents)—see section 130.
 influential person, for a corporation—see section 15.
