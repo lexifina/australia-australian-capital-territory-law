@@ -32,7 +32,6 @@ Crown land includes all land belonging to the Commonwealth.
 Crown lease means—
   (a) a territory lease; and
   (b) includes a lease granted by the Commonwealth or the Federal Capital Commission.
-daily newspaper means a daily newspaper circulating generally in the ACT.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
 encumbrance means any charge on land created for the purpose of securing the payment of an annuity or sum of money other than a debt.
 encumbrancee means the proprietor of an encumbrance.
