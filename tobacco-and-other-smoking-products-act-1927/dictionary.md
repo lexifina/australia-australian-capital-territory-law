@@ -3,11 +3,14 @@
 Note 1 The Legislation Act 2001 contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the following terms:
 • ACAT
+• Australian driver licence
 • bankrupt or personally insolvent
 • child
 • contravene
+• document
 • domestic partner (see s 169 (1))
 • exercise
+• external territory
 • found guilty (of an offence)
 • function
 • home address
