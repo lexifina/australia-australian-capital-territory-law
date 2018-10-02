@@ -11,7 +11,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • occupational discipline order
 • reviewable decision notice
 • working day.
-car market operator—see section 8.
 commissioner means the commissioner for fair trading.
 decision-making period means—
   (a) 60 days; or
