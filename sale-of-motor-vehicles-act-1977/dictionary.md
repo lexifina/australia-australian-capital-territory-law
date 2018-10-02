@@ -56,8 +56,6 @@ body number, in relation to a motor vehicle, means the figures, letters or other
 business, in relation to—
   (a) a person who is the holder of a licence—means the business carried on under the licence; or
   (b) a person who is an applicant for a licence—means the business that the person would be entitled to carry on if the person were granted that licence.
-car market operator means a person who carries on the business of providing a site for a market for the sale by other persons of second-hand motor vehicles, whether or not that site is used for any other purpose.
-Note A person must not carry on the activities of a car market operator unless the person is licensed as a motor vehicle dealer under the Traders (Licensing) Act 2016.
 cash price—
   (a) in relation to a motor vehicle (including all accessories fitted, carried in or attached to the vehicle at the time of the offer or display) offered or displayed for sale—means the price at which the vendor is willing to sell the vehicle for cash; and
   (b) in relation to the sale of a motor vehicle—
@@ -87,9 +85,8 @@ dealer—
   (b) does not include—
     (i) a person whose business consists exclusively of buying motor vehicles for the purpose of demolishing or dismantling those vehicles; or
     (ii) a wholesaler; or
-    (iii) a car market operator; or
-    (iv) a financier; or
-    (v) a person who is exempted by the commissioner by written notice.
+    (iii) a financier; or
+    (iv) a person who is exempted by the commissioner by written notice.
 Note A person must not carry on the activities of a dealer unless the person is licensed as a motor vehicle dealer under the Traders (Licensing) Act 2016.
 dealings register, of a licensed dealer, means a dealings register maintained by the dealer under section 15 (Licensees to maintain dealings register).
 demonstrator, in relation to a motor vehicle, means a vehicle—
@@ -148,5 +145,5 @@ sell, in relation to a motor vehicle, means to sell as principal or agent.
 trade owner means—
   (a) a dealer; or
   (b) a financier.
-wholesaler means a person who carries on the business of buying motor vehicles from any person and selling those vehicles to, or exchanging those vehicles with, persons who are financiers or holders of licences (other than car market operators’ licences) and only those persons.
+wholesaler means a person who carries on the business of buying motor vehicles from any person and selling those vehicles to, or exchanging those vehicles with, persons who are financiers or holders of licences and only those persons.
 Note A person must not carry on the activities of a wholesaler unless the person is licensed as a motor vehicle dealer under the Traders (Licensing) Act 2016.
