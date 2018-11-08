@@ -355,7 +355,7 @@ proceeding means a legal or other action or proceeding.
 property means any legal or equitable estate or interest (whether present or future, vested or contingent, or tangible or intangible) in real or personal property of any description (including money), and includes a thing in action.
 Note A thing in action is an intangible personal property right recognised and protected by the law. Examples include debts, money held in a bank, shares, rights under a trust, copyright and right to sue for breach of contract.
 provision, of an Act or instrument—see section 16.
-public advocate means the Public Advocate under the Human Rights Commission Act 2005
+public advocate means the Public Advocate under the Human Rights Commission Act 2005.
 public employee means—
   (a) a public servant; or
   (b) a public sector member; or
