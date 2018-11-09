@@ -112,7 +112,6 @@ knife includes—
   (b) a razor blade; and
   (c) any other blade; but
   (d) does not include a knife of a class or description excluded from this definition by regulation.
-lawful custody, for part 7 (Escape provisions)—see section 157.
 light rail—see the Road Transport (General) Act 1999, dictionary.
 light rail vehicle—see the Road Transport (General) Act 1999, dictionary.
 loaded arms means any firearm, airgun or air pistol that is loaded with any projectile or missile, whether or not the firearm, airgun or air pistol is capable of being discharged.
