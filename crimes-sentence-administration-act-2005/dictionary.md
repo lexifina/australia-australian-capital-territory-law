@@ -90,6 +90,7 @@ Governor, of a participating state, for chapter 11 (Interstate transfer of priso
 hearing means a hearing for an inquiry under part 9.2.
 indeterminate sentence, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 inquiry—see section 193.
+intensive correction assessment, for chapter 5 (Intensive correction orders)—see section 40.
 intensive correction order—see the Crimes (Sentencing) Act 2005, section 11.
 interested person—
   (a) for an offender’s good behaviour order—see section 84; and
