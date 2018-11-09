@@ -10,6 +10,7 @@
 # Chapter 4 Sentencing procedures generally
 ## Part 4.1 General principles
 ## Part 4.2 Pre-sentence reports
+## Part 4.2A Intensive correction assessments
 ## Part 4.3 Victim impact statements
 ## Part 4.4 Taking additional offences into account
 ## Part 4.5 Correction and adjustment of penalties
@@ -18,6 +19,7 @@
 ## Part 5.2 Imprisonment—nonparole periods
 ## Part 5.3 Imprisonment—concurrent and consecutive sentences
 ## Part 5.4 Intensive correction orders
+### Division 5.4.1A General
 ### Division 5.4.1 Intensive correction orders—eligibility and suitability
 ### Division 5.4.2 Intensive correction orders—community service conditions
 ### Division 5.4.3 Intensive correction orders—rehabilitation program conditions

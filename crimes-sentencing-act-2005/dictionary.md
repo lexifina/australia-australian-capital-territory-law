@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • head of service
 • law (of the Territory)
 • lawyer
+• Magistrates Court
 • may (see s 146)
 • must (see s 146)
 • oath
@@ -19,12 +20,15 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • road transport authority
 • sentence administration board
 • statutory office-holder
+• Supreme Court
 • territory authority
 • victims of crime commissioner
 • working day.
 accommodation order—see section 133Y.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
-assessor, for part 4.2 (Pre-sentence reports)—see section 41 (8).
+assessor—
+  (a) for part 4.2 (Pre-sentence reports)—see section 39A; and
+  (b) for part 4.2A (Intensive correction assessments)—see section 46A.
 at, in relation to a correctional centre or detention place, includes in the correctional centre or detention place.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
@@ -52,6 +56,7 @@ fine order—see section 14 (2).
 good behaviour order—see section 13 (2).
 harm, for part 4.3 (Victim impact statements)—see section 47.
 intensive correction means intensive correction in the community under an intensive correction order.
+intensive correction assessment means an assessment prepared under part 4.2A by the director-general about whether an intensive correction order is suitable for an offender.
 intensive correction order—see section 11.
 list of additional offences, for part 4.4 (Taking additional offences into account)—see section 55.
 non-association order—see section 21.
