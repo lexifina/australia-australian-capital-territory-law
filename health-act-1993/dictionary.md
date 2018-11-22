@@ -30,7 +30,7 @@ CEO—
   (a) of a health facility, for part 4 (Quality assurance)—see section 22; and
   (b) of a health professional organisation, for part 4 (Quality assurance)—see section 23; and
   (c) of a health facility, for part 5 (Reviewing scope of clinical practice)—see section 53.
-chief executive officer, Calvary means the person engaged to exercise the functions of the position of chief executive officer (however described) of Calvary Health Care ACT Limited (Public Division) under the rules of Calvary Health Care ACT Limited.
+chief executive officer, Calvary, for part 5 (Reviewing scope of clinical practice)—see section 50.
 core conditions, for part 7 (VMO service contracts)—see section 100.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 dental technical work means work involving the making, altering, repairing or maintaining of dental prosthetic appliances.
@@ -45,7 +45,7 @@ dental technician means a person who does dental technical work and either—
 dentist, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
 divulge, for part 8 (Secrecy)—see section 121.
 doctor, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
-eligible midwife, for part 5 (Reviewing scope of clinical practice)—see section 52.
+eligible midwife, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
@@ -75,5 +75,5 @@ scope of clinical practice executive decision notice, for part 5 (Reviewing scop
 scope of clinical practice report, for part 5 (Reviewing scope of clinical practice)—see section 67.
 sensitive information—see section 124.
 service contract, for part 7 (VMO service contracts)—see section 100.
-special purpose QAC, for part 4 (Quality assurance), for a purpose stated in the approval—see section 20.
+special purpose QAC, for part 4 (Quality assurance)—see section 20.
 VMO, or visiting medical officer, for part 7 (VMO service contracts)—see section 100.
