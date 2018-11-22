@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ACAT
   • ACT
   • administrative unit
+  • adult
   • Australia
   • Australian driver licence
   • change
@@ -90,7 +91,6 @@ prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see se
 protected registrable offender—see section 110.
 protected registrable offender declaration—see section 111 (a).
 public official, for part 3.11 (Entry and search warrants)—see the Criminal Code, section 300.
-recognised foreign reporting period, for a prescribed corresponding offender—see section 11.
 registered corresponding prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
 registrable offence—see section 10.
 registrable offender—see section 8 and section 9.
@@ -102,6 +102,7 @@ reporting offence—see section 20.
 reporting offence provision—see section 20.
 reporting period, for a registrable offender, means the period, worked out under part 3.5 (Reporting period), during which the offender must comply with the offender’s reporting obligations.
 return date, for an application, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
+reviewable decision, for chapter 5B (Notification and review of decisions)—see section 132ZV.
 same incident—offences arise from the same incident only if they are committed within a single period of 24 hours and are committed against the same person.
 sentence means—
   (a) when used as a noun—the penalty imposed for an offence; or
