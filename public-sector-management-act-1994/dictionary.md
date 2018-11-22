@@ -13,7 +13,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Legislative Assembly
 • Northern Territory
 • occupy
-• Office of the Legislative Assembly
 • position
 • power
 • public employee
@@ -27,7 +26,7 @@ appeal means—
   (a) if an industrial instrument applies to the employee or officer and includes an appeal process—appeal in accordance with the appeal process in the industrial instrument; or
   (b) in any other case—appeal in accordance with the prescribed appeal process.
 appellable classification, for part 5 (Employment of officers and employees)—see section 63.
-appellable decision—see section 223.
+appellable decision, for part 9 (Review and appeal)—see section 223.
 authorised doctor means a doctor authorised by the head of service to—
   (a) perform medical examinations under this Act; and
   (b) make recommendations under this Act in relation to redeployment or retirement; and
@@ -39,7 +38,7 @@ classification—
   (b) for an office, means—
     (i) if a classification in an industrial instrument applies to the office—the classification; or
     (ii) in any other case—a prescribed classification.
-commissioner means the Commissioner for Public Administration appointed under section 142 (1).
+commissioner means the Public Sector Standards Commissioner appointed under section 142 (1).
 confirmed officer, for part 6 (Redeployment, underperformance and end of employment of officers)—see section 120.
 declaration, of the result of an election, for part 7 (Re-entry to the service)—see section 128.
 director-general means a person engaged as a director-general under section 31 (2).
@@ -56,7 +55,7 @@ eligible person, for appointment, engagement or employment as a public servant, 
   (c) holds all qualifications required to lawfully exercise every function that the person is, or will be, appointed, engaged or employed to exercise.
 employ, for division 8.2 (Public sector members)—see section 150 (2).
 employee means—
-  (a) a person engaged under division 5.7 (Temporary employment); or
+  (a) a person engaged under division 5.8 (Temporary employment); or
   (b) a person who is an employee because of the Public Sector Management (Consequential and Transitional Provisions) Act 1994.
 engager means—
   (a) for the engagement of the head of service—the Chief Minister; and
@@ -125,13 +124,13 @@ relevant union, for an office, means an employee organisation—
   (a) registered under the Fair Work (Registered Organisations) Act 2009 (Cwlth); and
   (b) entitled to represent the industrial interests of 1 or more people working in the administrative unit in which the office exists; and
   (c) covered by an industrial agreement that applies to 1 or more people working in the administrative unit in which the office exists.
-reviewable decision—see section 223.
+reviewable decision, for part 9 (Review and appeal)—see section 223.
 senior executive service—see section 12 (3) (a).
 service means the ACT Public Service established under section 12 (1).
 SES member means a member of the service in the senior executive service.
 SES position, for an SES member, means the position in which the member is engaged, as set out in the member’s contract.
 SETs, for part 4 (Engagement of senior executive service)—see statutory employment terms.
-statutory employment terms or (SETs), for an SES position, for part 4 (Engagement of senior executive service)—see section 30.
+statutory employment terms or (SETs), for an SES member, for part 4 (Engagement of senior executive service)—see section 30.
 territory instrumentality—
   (a) means a corporation established under an Act or statutory instrument, or under the Corporations Act, that is—
     (i) comprised of people, or has a governing body comprised of people, a majority of whom are appointed by—
@@ -145,7 +144,6 @@ territory instrumentality—
     (ii) a body that is prescribed.
 transfer, in relation to an officer, means a permanent or temporary movement of an officer within the service between 2 offices, other than by promotion.
 unattached officer means an officer who does not hold an office.
-underperformance, for part 6 (Retirement and redeployment of officers)—see section 139.
 unsuccessful election candidate, for part 7 (Re-entry to the service)—see section 128.
 unsuitability criteria, for part 5 (Employment of officers and employees)—see section 70 (4).
 vacant office—
