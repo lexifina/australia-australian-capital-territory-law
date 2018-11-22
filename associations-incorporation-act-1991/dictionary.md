@@ -23,6 +23,7 @@ books—
 certificate of incorporation means a certificate of incorporation issued under section 19, section 27 or section 38 (3).
 committee, in relation to an association, means the committee of the association established under section 60 (1).
 company limited by guarantee, for part 6 (Transfer of incorporation)—see section 81.
+constitution, for part 6 (Transfer of incorporation)—see section 81.
 corporation law, for part 6 (Transfer of incorporation)—see section 82 (1).
 court means the Supreme Court or the Magistrates Court.
 financial year, in relation to an incorporated association, means the period, not exceeding 12 months, fixed by the rules of the association as the financial year of the association for this Act.
@@ -31,7 +32,6 @@ inaugural public officer means the person who is, under section 58, taken to be 
 incorporated means incorporated under this Act or the repealed Act.
 incorporation, in relation to a nonexistent incorporated association, for division 3.6 (Contracts)—see section 42.
 member, in relation to membership of an incorporated association whether as an individual or as a body corporate, includes associate member or any other class of member.
-memorandum, for part 6 (Transfer of incorporation)—see section 81.
 model rules means the rules prescribed under section 127 (2) (a).
 objects, in relation to an incorporated association, means the objects that are, under section 29, the objects of the association.
 officer, in relation to an incorporated association, means—
