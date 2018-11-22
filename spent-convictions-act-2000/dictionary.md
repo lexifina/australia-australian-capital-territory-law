@@ -42,7 +42,7 @@ historical homosexual offence, for part 3A (Extinguishing historical homosexual 
 law enforcement agency means any of the following:
   (a) the Australian Federal Police;
   (b) the police service or force of a State, another Territory or a foreign country;
-  (c) the Department of Immigration and Border Protection (Cwlth);
+  (c) the Department of Home Affairs (Cwlth);
   (d) the Australian Crime Commission;
   (e) the New South Wales Independent Commission Against Corruption or a similar entity established under the law of another State;
   (f) the New South Wales Crime Commission or a similar entity established under the law of another State;
