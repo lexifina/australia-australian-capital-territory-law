@@ -18,7 +18,7 @@ company means—
     (iii) an association incorporated under the Associations Incorporation Act 1991; and
   (b) for any other provision of the Act—
     (i) an entity mentioned in paragraph (a); and
-    (ii) a body corporate that is a company or recognised company within the meaning of the Corporations Act, section 9.
+    (ii) a body corporate that is a company within the meaning of the Corporations Act, section 9.
 corresponding law means a law of a State or another Territory declared under section 3 (Declaration of corresponding law) to be a law that corresponds with this Act.
 data processing device means any article or material (including a disk) from which information can be reproduced with or without the aid of any other article or device.
 half year means a period of 6 months ending on 30 June or 31 December.
