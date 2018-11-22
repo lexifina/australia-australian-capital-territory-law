@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
   • ACAT
   • ACT
+  • adult
   • bankrupt or personally insolvent
   • director-general (see s 163)
   • document
@@ -40,7 +41,7 @@ commission-initiated consideration—see section 48 (1) and (2).
 Commonwealth commission means the Australian Human Rights Commission established by the Australian Human Rights Commission Act 1986 (Cwlth).
 complainant means—
   (a) in relation to a complaint—the person who made the complaint; but
-  (b) in relation to a commission-initiated consideration under section 48 (2)—the commission and not the person who made the complaint (see s 49).
+  (b) in relation to a commission-initiated consideration under section 48 (2)—the commission and not the person who made the complaint (see section 49).
 complaint—
   (a) about a health practitioner—means a complaint or a notification about the health practitioner that may be made, or is made, under this Act or the Health Practitioner Regulation National Law (ACT), part 8 (Health, performance and conduct); and
   (b) about a veterinary surgeon—means a complaint about the veterinary surgeon that may be made, or is made, under this Act or the Veterinary Surgeons Act 2015, section 50 (Who may complain?).
@@ -57,7 +58,7 @@ discrimination referral statement—see section 88.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
-final report, in relation to a complaint—see section 81.
+final report—see section 80 (1).
 funding body means an entity that has a function of paying for services provided to others.
 health code—see section 89.
 health service—see section 7.
@@ -70,13 +71,15 @@ incorporated document means—
   (c) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
+prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
 provider, of a service—see section 10.
 public advocate means the commission member exercising the functions under section 27B.
 registered means—
   (a) for a health practitioner—registered under the Health Practitioner Regulation National Law (ACT); and
   (b) for a veterinary surgeon—registered under the Veterinary Surgeons Act 2015.
-registered veterinary surgeon, for division 5.2 (Relationship between commission, health profession boards and veterinary surgeons board)—see section 91.
+registered health practitioner, in relation to a complaint, for division 5.2 (Relationship between commission, health profession boards and veterinary surgeons board)—see section 91.
+registered veterinary surgeon, in relation to a complaint, for division 5.2 (Relationship between commission, health profession boards and veterinary surgeons board)—see section 91.
 related Act—each of the following is a related Act:
   (a) Disability Services Act 1991;
   (b) Discrimination Act 1991;
