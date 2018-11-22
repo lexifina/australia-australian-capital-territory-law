@@ -11,7 +11,7 @@
 ### Division 3.1.1 Preliminary—liability for death
 ### Division 3.1.2 Liability and damages for death
 ## Part 3.2 Mental harm
-## Part 3.3 Temporary exclusion of liability for terrorism-associated risks
+## Part 3.3 Exclusion of liability for terrorism-associated risks
 # Chapter 4 Negligence
 ## Part 4.1 Preliminary—negligence
 ## Part 4.2 Duty of care

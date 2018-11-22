@@ -25,7 +25,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 accident means an incident out of which personal injury arises, and includes a motor accident.
 accommodation provider—see section 146.
 accommodation unit, for part 11.1 (Traveller accommodation providers liability)—see section 144.
-act of terrorism, for part 3.3 (Temporary exclusion of liability for terrorism-associated risks)—see section 37.
+act of terrorism, for part 3.3 (Exclusion of liability for terrorism-associated risks)—see section 37.
 agent, of an accommodation provider, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 aggrieved person, for division 9.3.1 (Offers to make amends)—see section 124.
 amount payable, under an insurance policy in relation to an occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2A.
