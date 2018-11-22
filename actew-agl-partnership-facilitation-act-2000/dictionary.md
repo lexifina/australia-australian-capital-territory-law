@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • asset
 • corporation
+• Corporations Act
 • entity
 • exercise
 • function
@@ -39,7 +40,7 @@ network facility, for part 2 (Rights concerning certain network facilities)—se
 non-ACTEW land, for part 2 (Rights concerning certain network facilities)—see section 8.
 non-AGL land, for part 2 (Rights concerning certain network facilities)—see section 8.
 partnership means 1 of the partnerships mentioned in section 5.
-subsidiary—see the Corporations Act.
+subsidiary—see the Corporations Act, section 9.
 transferee means a person in whom an asset, right or liability vests under a declaration under section 11 or 13.
 transferor, in relation to an asset, right or liability that vests in a transferee under section 11 or 13, means the person in whom the asset, right or liability had vested immediately before the vesting day.
 utility service, for part 2 (Rights concerning certain network facilities)—see section 8.
