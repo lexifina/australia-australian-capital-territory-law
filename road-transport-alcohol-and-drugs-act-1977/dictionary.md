@@ -32,7 +32,6 @@ analyst means a person appointed by the road transport authority under section 5
 another jurisdiction means a jurisdiction other than the ACT.
 approved laboratory means a laboratory or other entity approved by the road transport authority under section 6.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-authorised nurse practitioner means a nurse practitioner who is the occupant of a nurse practitioner position acting within the scope of practice for the position.
 authorised operator means the following:
   (a) for breath analysis—a police officer who has been authorised under section 5 to carry out breath analysis for this Act;
   (b) for oral fluid analysis—a police officer who has been authorised under section 5 to carry out oral fluid analysis for this Act.
@@ -75,8 +74,7 @@ first offender—see section 4F.
 GCM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 GVM—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 level, for a concentration of alcohol in blood or breath—see section 4E.
-medical examination means an examination by a doctor or authorised nurse practitioner.
-nurse practitioner position—see the Health Act 1993, section 195 (2).
+medical examination means an examination by a doctor or nurse practitioner.
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving of motor vehicle); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
@@ -105,5 +103,4 @@ Examples––sampling facility
 1 a police station
 2 a police vehicle equipped for the purpose of taking blood samples
 Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-scope of practice—see the Health Act 1993, section 195 (2).
 special driver—see section 4B.
