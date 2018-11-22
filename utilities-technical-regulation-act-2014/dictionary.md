@@ -2,13 +2,22 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+• ACAT
+• amend
+• appoint
 • AS (see s 164 (1))
 • AS/NZS (see s 164 (2))
+• change
 • conservator of flora and fauna
 • director-general (see s 163)
 • disallowable instrument (see s 9)
+• fail
+• function
 • independent competition and regulatory commission
+• Minister (see s 162)
 • national land
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
 • territory land
 • the Territory.
 aerial cable, for division 5A.2 (Vegetation management)—see section 41C.
