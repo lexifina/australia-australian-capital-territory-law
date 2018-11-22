@@ -49,7 +49,7 @@ responsible director-general means—
 special financial audit means an audit conducted under section 11.
 strategic review, of the auditor-general, for division 5.1 (Strategic review of auditor-general)—see section 23.
 strategic reviewer, for division 5.1 (Strategic review of auditor-general)—see section 25 (2).
-subsidiary, of a territory-owned corporation—see the Territory-owned Corporations Act 1990, section 3 (1).
+subsidiary, of a territory-owned corporation—see the Territory-owned Corporations Act 1990, dictionary.
 territory authority—see the Financial Management Act, dictionary.
 territory entity means—
   (a) a territory authority; or
