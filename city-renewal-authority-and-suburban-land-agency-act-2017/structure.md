@@ -15,3 +15,4 @@
 ### Division 3.4 Agency financial matters
 ### Division 3.5 Agency CEO, staff and consultants
 ## Part 4 Miscellaneous
+## Part 12 Transitional—City Renewal Authority and Suburban Land Agency Amendment Act 2018
