@@ -92,6 +92,7 @@ emergency risk includes the risk of an emergency arising from—
 emergency service means the ambulance service, the fire and rescue service, the rural fire service or the SES.
 emergency services, for part 4.6 (Other approved providers)—see section 60.
 emergency services support volunteer—see section 59CA (Appointment of emergency services support volunteers).
+emergency sub-plan—see section 148.
 exempt contribution, for schedule 1 (Ambulance levy)—see schedule 1, section 1.2.
 family rate, for contributions, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 fire alarm includes any signalling apparatus for giving notice of a fire.
