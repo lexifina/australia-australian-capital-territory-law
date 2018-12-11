@@ -57,6 +57,7 @@ authorisation schedule—
 authorised officer means an authorised officer under the Control Act, section 20.
 authorised premises means premises for which an authorisation certificate is in force.
 cancelled, for part 4 (Disciplinary action)—see section 56.
+cap on authorisations, for division 2A.3 (Compulsory surrenders)—see section 10I.
 cash facility—
   (a) means—
     (i) an automatic teller machine; or
@@ -64,6 +65,7 @@ cash facility—
     (iii) any other facility for gaining access to cash or credit; but
   (b) does not include a facility where cash is exchanged for other denominations of cash, tokens, tickets or cards for the purpose of playing machines.
 casino licensee—see the Casino Control Act 2006, dictionary.
+census day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 centralised monitoring system (or CMS)—see section 66.
 class B gaming machine—
   (a) means a gaming machine consisting of the game of draw poker, or a game derived from draw poker, that requires player interaction or intervention as part of the fundamental game operation; but
@@ -92,6 +94,8 @@ CMS—see centralised monitoring system.
 commission means the gambling and racing commission.
 community contribution means a contribution made by a licensee that is approved as a community contribution under section 164.
 community contribution shortfall tax—see section 172 (1).
+compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
+compulsory surrender period, for division 2A.4 (Miscellaneous)—see section 10Q.
 computer cabinet means the sealable part of a gaming machine that contains the game storage medium and the random access memory.
 computer cabinet access register—see section 71 (1).
 constitution means—
@@ -102,12 +106,13 @@ Control Act means the Gambling and Racing Control Act 1999.
 control procedures, for an entity, means the procedures under section 97.
 corporation includes a club.
 Note Corporation—see the Legislation Act, dictionary, pt 1.
-disciplinary action, for part 4 (Disciplinary action)—see section 58.
+disciplinary action—see section 58.
 disciplinary notice, for part 4 (Disciplinary action)—see section 61.
-dispose of a gaming machine includes the following:
-  (a) lease or hire the gaming machine to a person;
-  (b) destroy the gaming machine;
-  (c) make the gaming machine inoperable.
+dispose of, a gaming machine, includes the following:
+  (a) to sell or give the gaming machine to a person in the ACT or a local jurisdiction;
+  (b) to sell or return the gaming machine to an approved supplier;
+  (c) to destroy the gaming machine;
+  (d) to lease or hire the gaming machine to a person.
 eligible club—see section 146.
 eligible object—see section 145.
 eligible person—
@@ -117,6 +122,7 @@ employ includes engage.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external administrator, for a licensee, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 final, for part 4 (Disciplinary action)—see section 56.
+first compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 game, in relation to a gaming machine, means a play, or a series of plays, initiated by the application of a single stake registered on the gaming machine.
 gaming area—
   (a) for an authorisation certificate under a class B licence—see section 30 (3) (h); and
@@ -136,14 +142,16 @@ gaming rules, for an entity, means the rules mentioned in section 22 (2) (c).
 general licence—see the Liquor Act 2010, section 17.
 general purpose, for a storage permit, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127N (a).
 GMT rebate, for part 11 (Finance)—see section 162A.
+GM undertaking, for part 3A (Enforceable undertakings)—see section 55B.
 gross revenue, of a licensee or person, means all revenue derived by the licensee or person from the operation of gaming machines, other than—
   (a) the amount of winnings for playing the gaming machines paid or payable under the gaming machines’ indicated prize scales (excluding linked jackpots); and
   (b) any amount set aside under a linked-jackpot arrangement for the payment of linked jackpots.
-ground for disciplinary action against a licensee, for part 4 (Disciplinary action)—see section 57.
+ground for disciplinary action—see section 57.
 incoming licensee, for division 2B.6 (Transfer and surrender of licences and authorisation certificates)—see section 37E (1).
 incorporated association means an association incorporated under the Associations Incorporation Act 1991.
 increase maximum amendment, for part 2B (Licences and authorisations)—see section 33 (1) (c).
 influential person, for a corporation—see section 8.
+inoperable, in relation to a gaming machine, means to switch off and to secure the gaming machine so it cannot be played.
 in-principle authorisation certificate—see section 38A.
 inspection notice, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127ZE (1).
 interim purpose, for a storage permit, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127N (b).
@@ -159,6 +167,7 @@ Note Licensee has a meaning corresponding to the meaning of licence (see Legisla
 licence number—
   (a) of a class B licence—see section 30 (2) (b) (vii); and
   (b) of a class C licence—see section 20 (1) (b) (vi).
+licensee, for division 2A.3 (Compulsory surrenders)—see section 10I.
 licensee’s name, in relation to a class C licensee, means the name of the licensee’s legal entity.
 life member, of a club, means a person who is elected to membership of the club for life under the rules of the club.
 linked jackpot means winnings under a linked-jackpot arrangement operated under an approval or permit under part 8.
@@ -190,22 +199,18 @@ Note The Liquor Act 2010, div 2.2 deals with subclasses of on licences.
 outgoing licensee, for division 2B.6 (Transfer and surrender of licences and authorisation certificates)—see section 37E (1).
 percentage payout, for a gaming machine, means the percentage payout allowed for the gaming machine under the authorisation.
 peripheral equipment, for a gaming machine—see section 68.
-permit, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 permit-holder means the holder of a multi-user permit.
 premises relocation amendment, for part 2B (Licences and authorisations)—see section 33 (1) (b).
 prescribed number of days, in relation to a notifiable action—see section 173D (5).
 problem gambling assistance fund—see section 163B.
 properly completed, for an application—see section 9 (1).
 proposed gaming area, in relation to an authorisation certificate application for a class C licence—see section 22 (2) (b) (ii).
-quarantined authorisation, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
-quarantined gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
-quarantine period, for a gaming machine and authorisation to which a quarantine permit applies, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
-quarantine permit, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127Q.
 registered party—see the Electoral Act 1992, dictionary.
 repossession, of a gaming machine, includes taking possession of the gaming machine under a default provision in a financial agreement.
 required community contribution, for a licensee that is a club—see section 169 (1).
 required documents, for an authorisation certificate application for class C gaming machines—see section 22 (2).
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
+second compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 secretary, in relation to a club, includes a person concerned in the management of the club.
 short-term approval, for a technician—see section 76 (3).
 signed-in guest, for a club—see section 54A.
@@ -220,8 +225,14 @@ storage permit—see section 127L.
 storage rules, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored authorisation, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
+surrendered authorisation, for division 2A.2 (Voluntary surrenders)—see section 10A.
+surrender obligation, of a licensee, for division 2A.3 (Compulsory surrenders)—see section 10I.
 tax period, for part 11 (Finance)—see section 157A.
 technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
 temporary member, of a club—see section 54A.
+undertaking, for part 3A (Enforceable undertakings)—see section 55A.
+voluntary surrender agreement, for division 2A.2 (Voluntary surrenders)—see section 10C.
+voluntary surrender day, for a licensee, for division 2A.2 (Voluntary surrenders)—see section 10A.
+voluntary surrender notice, for division 2A.2 (Voluntary surrenders)—see section 10B.
 warning notice, for an associated organisation, for part 9 (Club administration)—see section 147B.

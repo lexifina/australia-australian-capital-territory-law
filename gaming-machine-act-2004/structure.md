@@ -1,5 +1,11 @@
 ## Part 1 Preliminary
 ## Part 2 Important concepts
+## Part 2A Reducing cap on authorisations in ACT to 4 000 or fewer
+### Division 2A.1 Preliminary
+### Division 2A.2 Voluntary surrenders
+### Division 2A.3 Compulsory surrenders
+### Division 2A.4 Miscellaneous
+### Division 2A.5 Expiry—pt 2A
 ## Part 2B Licences and authorisations
 ### Division 2B.1 Definitions and important concepts
 ### Division 2B.2 Class C licences—application and issue
@@ -17,6 +23,7 @@
 ### Division 3.1 Compliance with licence conditions
 ### Division 3.2 General licence and authorisation certificate conditions
 ### Division 3.3 Club licence conditions
+## Part 3A Enforceable undertakings
 ## Part 4 Disciplinary action
 ## Part 5 Centralised monitoring system
 ## Part 6 Approval of gaming machines, peripherals, suppliers and technicians
@@ -37,12 +44,11 @@
 ### Division 6A.7 Storage of authorisations and gaming machines
 #### Subdivision 6A.7.1 Interpretation
 #### Subdivision 6A.7.2 Storage permits—application and decision
-#### Subdivision 6A.7.3 Quarantine permits
-#### Subdivision 6A.7.4 Permits—form
-#### Subdivision 6A.7.5 Permits—conditions
-#### Subdivision 6A.7.6 Permits—amendment
-#### Subdivision 6A.7.7 Permits—trading authorisations under permits
-#### Subdivision 6A.7.8 Permits—miscellaneous
+#### Subdivision 6A.7.4 Storage permits—form
+#### Subdivision 6A.7.5 Storage permits—conditions
+#### Subdivision 6A.7.6 Storage permits—amendment
+#### Subdivision 6A.7.7 Storage permits—trading authorisations under permits
+#### Subdivision 6A.7.8 Storage permits—miscellaneous
 ## Part 7 Regulation of gaming machines generally
 ## Part 8 Linked-jackpot arrangements
 ## Part 9 Club administration
@@ -54,4 +60,4 @@
 ## Part 13 Notification and review of decisions
 ## Part 13A Notifiable actions
 ## Part 14 Miscellaneous
-## Part 20 Transitional—Gaming Machine (Reform) Amendment Act 2015
+## Part 22 Transitional—Gaming Machine Legislation Amendment Act 2018
