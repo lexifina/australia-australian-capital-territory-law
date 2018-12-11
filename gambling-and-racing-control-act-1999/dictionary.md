@@ -3,11 +3,13 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • ACT
+• administrative unit
 • Australian statistician
 • director-general (see s 163)
 • exercise
 • found guilty
 • function
+• Minister (see s 162)
 • public servant
 • under.
 annual report means the report that the commission is required to prepare under the Annual Reports (Government Agencies) Act 2004.
