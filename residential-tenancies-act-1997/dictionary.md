@@ -49,7 +49,6 @@ bond means an amount paid or payable by a tenant as security for the performance
 bond release application, for division 3.4 (Release of bond money)—see section 32.
 class, of building—see the Building Act 2004, dictionary.
 commercial guarantee—see section 102.
-conditional termination and possession order means a termination and possession order under section 49 (4).
 crisis accommodation—see section 126.
 database, for part 7 (Residential tenancy databases)—see section 87.
 database operator, for part 7 (Residential tenancy databases)—see section 87.
@@ -71,6 +70,7 @@ occupancy dispute—see section 73.
 occupancy principles—see section 71E.
 occupant—see section 71B.
 out of date, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
+payment order—see section 49A (2).
 personal information, for part 7 (Residential tenancy databases)—see section 87.
 premises includes—
   (a) any habitable structure, whether it is fixed to the land or not; and
