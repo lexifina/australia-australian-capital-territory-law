@@ -73,4 +73,3 @@
 # Chapter 5 Miscellaneous
 ## Part 5.1 Offences
 ## Part 5.2 Other
-# Chapter 14 Transitional—ACT Civil and Administrative Tribunal Amendment Act 2016 (No 2)
