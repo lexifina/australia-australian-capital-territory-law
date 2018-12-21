@@ -15,7 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • occupational discipline order
   • public advocate
   • under
-  • veterinary surgeon.
+  • veterinary practitioner.
 act includes omission.
 aggrieved person, in relation to a complaint—see section 43 (1) (a).
 applicable standard, in relation to a service provider, means anything mentioned in any of the following provisions that applies to the provider:
@@ -44,7 +44,7 @@ complainant means—
   (b) in relation to a commission-initiated consideration under section 48 (2)—the commission and not the person who made the complaint (see section 49).
 complaint—
   (a) about a health practitioner—means a complaint or a notification about the health practitioner that may be made, or is made, under this Act or the Health Practitioner Regulation National Law (ACT), part 8 (Health, performance and conduct); and
-  (b) about a veterinary surgeon—means a complaint about the veterinary surgeon that may be made, or is made, under this Act or the Veterinary Surgeons Act 2015, section 50 (Who may complain?).
+  (b) about a veterinary practitioner—means a complaint about the veterinary practitioner that may be made, or is made, under this Act or the Veterinary Practice Act 2018, section 43 (Who may complain?).
 conciliation, of a complaint—see section 55 (1).
 conciliation agreement—see section 62 (1).
 conduct means an act, an omission to do an act or a state of affairs.
@@ -77,21 +77,21 @@ provider, of a service—see section 10.
 public advocate means the commission member exercising the functions under section 27B.
 registered means—
   (a) for a health practitioner—registered under the Health Practitioner Regulation National Law (ACT); and
-  (b) for a veterinary surgeon—registered under the Veterinary Surgeons Act 2015.
-registered health practitioner, in relation to a complaint, for division 5.2 (Relationship between commission, health profession boards and veterinary surgeons board)—see section 91.
-registered veterinary surgeon, in relation to a complaint, for division 5.2 (Relationship between commission, health profession boards and veterinary surgeons board)—see section 91.
+  (b) for a veterinary practitioner—registered under the Veterinary Practice Act 2018.
+registered health practitioner, in relation to a complaint, for division 5.2 (Relationship between commission, health profession boards and veterinary practitioners board)—see section 91.
+registered veterinary practitioner, for division 5.2 (Relationship between commission, health profession boards and veterinary practitioners board)—see section 91.
 related Act—each of the following is a related Act:
   (a) Disability Services Act 1991;
   (b) Discrimination Act 1991;
   (c) Domestic Violence Agencies Act 1986;
   (d) Health Records (Privacy and Access) Act 1997;
   (e) Human Rights Act 2004;
-  (f) Veterinary Surgeons Act 2015;
+  (f) Veterinary Practice Act 2018;
   (g) Victims of Crime Act 1994;
   (h) Victims of Crime (Financial Assistance) Act 1983.
 relevant board means—
   (a) for a health practitioner regulated under the Health Practitioner Regulation National Law (ACT)—the national board for the practitioner under that Act; and
-  (b) for a veterinary surgeon—the veterinary surgeons board.
+  (b) for a veterinary practitioner—the veterinary practitioners board.
 service for children and young people—see section 8A.
 service for older people—see section 9.
 service for victims of crime—see section 9A.
