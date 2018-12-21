@@ -19,7 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • State
 • territory authority
-• veterinary surgeon.
+• veterinary practitioner.
 acquire—
   (a) a firearm or ammunition, for this Act—see section 8; and
   (b) a firearm, for division 13.3 (Licensed firearms dealers—records and returns)—see section 192.
