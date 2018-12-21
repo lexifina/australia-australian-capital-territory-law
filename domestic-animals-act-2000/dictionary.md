@@ -11,7 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • police officer
 • reviewable decision notice
 • the Territory
-• veterinary surgeon.
+• veterinary practitioner.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
 animal welfare law, for division 9.3 (Cooperation with other jurisdictions—racing greyhounds)—see section 134AA.
 animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
@@ -33,7 +33,7 @@ animal welfare offence means an offence against any of the following provisions 
   (p) section 15B (Intensive breeding of cats or dogs);
   (q) section 16 (Working etc unfit animals);
   (r) section 17 (Matches, competitions etc);
-  (s) section 19 (Medical and surgical procedures—people other than veterinary surgeons).
+  (s) section 19 (Medical and surgical procedures—people other than veterinary practitioners).
 approved animal welfare entity means an entity approved by the registrar under section 137.
 approved provider, for division 4.2 (Seizing cats and dealing with them)—see section 85.
 assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
