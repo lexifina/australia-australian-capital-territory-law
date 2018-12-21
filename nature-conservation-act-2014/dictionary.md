@@ -7,7 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ambulance service
 • Australia
 • chief officer (ambulance service)
-• chief officer (fire and rescue)
+• chief officer (fire and rescue service)
 • chief officer (rural fire service)
 • chief officer (SES)
 • commissioner for sustainability and the environment
@@ -17,7 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Executive
 • exercise
 • external territory
-• fire and rescue
+• fire and rescue service
 • function
 • notifiable instrument (see s 10)
 • penalty unit (see s 133)
