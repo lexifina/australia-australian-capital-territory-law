@@ -21,7 +21,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • pharmacist
 • reviewable decision notice
 • under
-• veterinary surgeon.
+• veterinary practitioner.
 another jurisdiction, for chapter 6A (Monitored medicines database)—see section 97B.
 applied provisions, for chapter 10 (Incorporation of Commonwealth therapeutic goods laws)—see section 156.
 applies, in relation to a substance for a schedule or appendix of the medicines and poisons standard—see section 17.
@@ -130,7 +130,7 @@ suitable person—
 supply—see section 24.
 supply authority—see section 23.
 vending machine, for division 4.3.5 (Vending machines—offences)—see section 67.
-veterinary surgeons board means the veterinary surgeons board established under the Veterinary Surgeons Act 2015, section 105.
+veterinary practitioners board means the veterinary practitioners board established under the Veterinary Practice Act 2018, section 90.
 ward means an area of an institution used to accommodate or treat people, including an operating theatre and an opioid dependency treatment centre.
 wholesale means supply—
   (a) for retail sale; or
