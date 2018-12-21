@@ -10,7 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Minister (see s 162)
 • person
 • reviewable decision notice
-• veterinary surgeon.
+• veterinary practitioner.
 animal means—
   (a) a live member of a vertebrate species, including—
     (i) an amphibian; and
@@ -116,10 +116,10 @@ travelling zoo permit means a travelling zoo permit granted under section 55.
 travelling zoo permit-holder means the holder of a travelling zoo permit.
 vehicle includes a caravan, trailer or vessel.
 veterinary treatment, in relation to an animal, means—
-  (a) a medical procedure of a prophylactic or therapeutic nature carried out on the animal by a veterinary surgeon; or
-  (b) a medical procedure of a prophylactic nature carried out on the animal in accordance with directions given by a veterinary surgeon; or
-  (c) a surgical procedure of a prophylactic or therapeutic nature, or sterilisation, carried out on the animal by a veterinary surgeon; or
-  (d) any other medical or surgical procedure carried out on the animal by a veterinary surgeon.
+  (a) a medical procedure of a prophylactic or therapeutic nature carried out on the animal by a veterinary practitioner; or
+  (b) a medical procedure of a prophylactic nature carried out on the animal in accordance with directions given by a veterinary practitioner; or
+  (c) a surgical procedure of a prophylactic or therapeutic nature, or sterilisation, carried out on the animal by a veterinary practitioner; or
+  (d) any other medical or surgical procedure carried out on the animal by a veterinary practitioner.
 welfare, in relation to animals, means the health, safety and welfare of—
   (a) animals in general; or
   (b) 1 or more animals in particular.

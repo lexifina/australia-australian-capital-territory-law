@@ -19,10 +19,10 @@
 ### Division 7.2 Inspectors and authorised officers
 ### Division 7.3 Powers of inspectors
 ### Division 7.4 Powers of authorised officers
-### Division 7.5 Powers of veterinary surgeons
-### Division 7.6 Alleviation of suffering—powers of inspectors, authorised officers and veterinary surgeons
+### Division 7.5 Powers of veterinary practitioners
+### Division 7.6 Alleviation of suffering—powers of inspectors, authorised officers and veterinary practitioners
 ### Division 7.7 Consent to entry, reports and search warrants
-### Division 7.8 Offences in relation to veterinary surgeons
+### Division 7.8 Offences in relation to veterinary practitioners
 ### Division 7.9 Compensation for animal injury and death
 ### Division 7.10 Evidence
 ### Division 7.11 Court orders and corporate penalties
