@@ -468,9 +468,7 @@ United Kingdom Parliament means—
   (b) the Parliament of Great Britain; or
   (c) the Parliament of the United Kingdom of Great Britain and Ireland; or
   (d) the Parliament of the United Kingdom of Great Britain and Northern Ireland.
-veterinary surgeon—
-  (a) means a person unconditionally registered as a veterinary surgeon under the Veterinary Surgeons Act 2015; and
-  (b) for an activity, includes a person conditionally registered as a veterinary surgeon under the Veterinary Surgeons Act 2015 to the extent that the person is allowed to do the activity under the person’s conditional registration.
+veterinary practitioner means a person registered as a veterinary practitioner under the Veterinary Practice Act 2018.
 victims of crime commissioner means the Victims of Crime Commissioner under the Human Rights Commission Act 2005.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
