@@ -19,6 +19,7 @@
 ### Division 5.1 Consultation, cooperation and coordination between duty-holders
 ### Division 5.2 Consultation with workers
 ### Division 5.3 Health and safety representatives
+#### Subdivision 5.3.1A Definitions
 #### Subdivision 5.3.1 Request for election of health and safety representatives
 #### Subdivision 5.3.2 Determination of work groups
 #### Subdivision 5.3.3 Multiple-business work groups

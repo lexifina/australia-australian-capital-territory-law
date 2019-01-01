@@ -35,6 +35,7 @@ disclose, in relation to information, includes divulge or communicate to any per
 discriminatory conduct, for part 6 (Discriminatory, coercive and misleading conduct)—see section 105.
 document includes record.
 eligible person, for part 12 (Review of decisions)—see section 223.
+eligible union, for a major construction project, for division 5.3 (Health and safety representatives)—see section 49C.
 employee record, in relation to an employee—see the Privacy Act 1988 (Cwlth), section 6 (1).
 employer organisation means an organisation of employers.
 engage in conduct means doing an act or omitting to do an act.
@@ -53,6 +54,7 @@ internal review—see section 224.
 internal reviewer means—
   (a) the regulator; or
   (b) a person appointed by the regulator under section 225.
+major construction project, for part 5 (Consultation, representation and participation)—see section 49A.
 notice—
   (a) for division 10.4 (General requirements applying to notices)—see section 202; or
   (b) for division 10.6 (Injunctions)—see section 214.
@@ -70,6 +72,7 @@ plant includes—
   (a) any machinery, equipment, appliance, container, implement and tool; and
   (b) any component of any of the things referred to in paragraph (a); and
   (c) anything fitted or connected to any of the things referred to in paragraph (a).
+principal contractor, for a major construction project, for part 5 (Consultation, representation and participation)—see section 49B.
 prohibited reason, for part 6 (Discriminatory, coercive and misleading conduct)—see section 106.
 prohibition notice—see section 195.
 public authority means a territory authority.
