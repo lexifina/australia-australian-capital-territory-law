@@ -29,13 +29,13 @@ at premises, for division 9.2A (Authorised valuers)—see section 90A.
 authorised officer means an authorised officer under section 79.
 authorised valuer means an authorised valuer appointed under section 90B.
 beneficial organisation determination means a determination made under section 18F (Beneficial organisation determinations—decision).
-charitable organisation, for a tax law—see section 18B.
 business means—
   (a) a profession or trade; or
   (b) any other activity carried on for fee or reward; or
   (c) the activity of employing people to perform duties in connection with another business; or
   (d) the carrying on of a trust;
 whether carried on by 1 person or 2 or more people together.
+charitable organisation, for a tax law—see section 18B.
 commissioner means the Commissioner for Australian Capital Territory Revenue mentioned in section 73.
 commissioner-reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107.
 corporation—see the Corporations Act, section 57A.
