@@ -20,4 +20,3 @@
 ### Division 8.4 Costs of review by ACAT or appeal to Supreme Court
 ## Part 9 Offences
 ## Part 10 Miscellaneous
-## Part 20 Transitional
