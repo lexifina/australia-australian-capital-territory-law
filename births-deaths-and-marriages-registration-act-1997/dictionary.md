@@ -22,6 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 adult—see section 4.
 birth includes a stillbirth.
 birth certificate means a certificate issued under section 27 (2) or section 45 certifying particulars contained in an entry in the register of a person’s birth.
+birth parent, of a child, for part 2 (Registration of births)—see section 4B.
 birth registration statement, for division 2.2 (Registration of births)—see section 6.
 change of name application, in relation to a restricted person, for division 3.2 (Change of name—restricted people)—see section 22A.
 child—see section 4.
@@ -52,6 +53,4 @@ repealed Act means the Registration of Births, Deaths and Marriages Act 1963.
 restricted person, for division 3.2 (Change of name—restricted people)—see section 22A.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 53.
 stillbirth means the birth of a stillborn child.
-stillborn child means—
-  (a) a child of at least 20 weeks gestation; or
-  (b) if it cannot be established reliably whether the period of gestation is more or less than 20 weeks—a child with a body mass of at least 400g at birth, who shows no sign of respiration or heart beat, or other sign of life, immediately after birth.
+stillborn child means a child of at least 20 weeks gestation who shows no sign of respiration or heartbeat, or other sign of life, immediately after birth.
