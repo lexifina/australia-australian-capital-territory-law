@@ -74,6 +74,7 @@ material interest, for part 9 (Governance of territory authorities)—see sectio
 memorandum of understanding includes a memorandum of understanding whether or not its term extends for 1 or more years.
 outputs means goods produced or services provided by a directorate or territory authority or a person producing goods or providing services on behalf of a directorate or territory authority.
 prescribed means prescribed by the financial management guidelines.
+PSWC fund banking account—see the Public Sector Workers Compensation Fund Act 2018, section 9.
 public money means all money received by the Territory, including the proceeds of all loans raised on behalf of the Territory, but does not include—
   (a) money held by the Territory as trust money; or
   (b) money received by a territory-owned corporation or subsidiary of a territory-owned corporation; or
