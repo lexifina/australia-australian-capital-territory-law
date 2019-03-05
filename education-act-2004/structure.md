@@ -39,4 +39,5 @@
 ## Part 5.2 Registration—home education
 # Chapter 6 Miscellaneous
 ## Part 6.1 Notification and review of decisions
+## Part 6.1A Information sharing
 ## Part 6.2 Other provisions
