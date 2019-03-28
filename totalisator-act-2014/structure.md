@@ -15,4 +15,3 @@
 ### Division 6.5 Offences relating to totalisator
 ## Part 7 Notification and review of decisions
 ## Part 8 Administration
-## Part 20 Transitional
