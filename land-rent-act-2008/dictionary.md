@@ -31,6 +31,7 @@ relevant percentage means the relevant percentage determined under the Taxation 
 single dwelling house—see the territory plan.
 single dwelling house lease means a residential lease that authorises use of the land under the lease for a single dwelling house.
 standard percentage means the standard percentage determined under the Taxation Administration Act, section 139.
+tax, for part 5 (Land rent—payment and recovery of unpaid rent)—see section 18.
 Taxation Administration Act means the Taxation Administration Act 1999.
 tax law—see the Taxation Administration Act, section 4.
 year means a financial year.
