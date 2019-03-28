@@ -25,7 +25,7 @@ application to register a motor vehicle means—
   (a) an application under the Vehicle Registration Act to register a motor vehicle; or
   (b) an application under the Vehicle Registration Act to transfer the registration of a motor vehicle.
 approved means approved by the commissioner.
-asset, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+asset, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 associated person—
   (a) for this Act generally—means a person who is associated with another person in accordance with any of the following provisions:
     (i) people are associated people if they are related people;
@@ -36,7 +36,7 @@ associated person—
   (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A.
 Australian Stock Exchange means ASX Limited, ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
-business, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+business, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 cancelled, for chapter 2 (Transactions concerning dutiable property)—see section 6.
 chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
 charge includes impose.
@@ -77,7 +77,7 @@ entity, for part 3.2 (Acquisition of interests in certain landholders)—see sec
 exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
-FS (BTGR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+FS (TR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 home buyer concession scheme, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
 instrument includes a document and a written statement.
@@ -143,7 +143,7 @@ property transferred, by a dutiable transaction—see section 8 (2).
 public unit trust scheme means any of the following unit trust schemes:
   (a) a listed trust;
   (b) a widely held trust.
-receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
 related body corporate—see the Corporations Act, section 9.
@@ -201,7 +201,7 @@ unit, in relation to a unit trust scheme, means—
 unit trust scheme means any arrangements made for the purpose, or having the effect, of providing, for people having funds available for investment, facilities for the participation by them, as beneficiaries under a trust, in any profits, income or distribution of assets arising from the acquisition, holding, management or disposal of any property whatever under the trust.
 Vehicle Registration Act means the Road Transport (Vehicle Registration) Act 1999.
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
-voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth))—see section 115A.
+voluntary transfer, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 widely held trust means a unit trust scheme that has not less than 300 unit holders none of whom, individually or with an associated person, is entitled to more than 20% of the units in the trust, and for the purposes of this definition—
   (a) if a registered unit holder in a unit trust scheme holds units as a trustee for 2 or more trusts the unit holder is treated as a separate registered unit holder in relation to each of those trusts and the units held under each trust are to be treated as a separate unit holding; but
   (b) a trustee is not treated as a separate registered unit holder in relation to 2 or more trusts if, as separate registered unit holders in relation to those trusts, they would be associated persons.

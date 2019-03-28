@@ -17,7 +17,7 @@
 ### Division 3.2.3 Charging of duty
 ### Division 3.2.4 General and supplemental
 ## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
-## Part 3.6 Voluntary transfers under Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cwlth)
+## Part 3.6 Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth)
 ## Part 3.7 Exemptions—ch 3 transactions
 ### Division 3.7.1 Exempt transactions—general
 ### Division 3.7.2 Exempt transactions—‘top hatting’ arrangements
