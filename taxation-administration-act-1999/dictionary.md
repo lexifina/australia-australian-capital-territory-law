@@ -48,8 +48,8 @@ market rate component, in relation to interest for a day—see section 26 (2).
 objection means an objection made under section 100.
 occupier, of premises, for division 9.2A (Authorised valuers)—see section 90A.
 organisation, for part 3A (Charitable organisations)—see section 18A.
-owner, of a parcel of land, for division 7.3 (Tax in arrears—sale of land)—see section 56G.
-parcel, of land, for division 7.3 (Tax in arrears—sale of land)—see section 56G.
+owner, of a parcel of land, for division 7.3 (Tax in arrears—recovery measures)—see section 56G.
+parcel, of land, for division 7.3 (Tax in arrears—recovery measures)—see section 56G.
 premises includes land, a vehicle, a vessel and an aircraft.
 premium component, in relation to interest—see section 26 (3).
 public officer means the public officer of a body appointed under section 117.

@@ -14,7 +14,7 @@
 ## Part 7 Collection of tax
 ### Division 7.1 General
 ### Division 7.2 Recovery of tax from directors of corporations
-### Division 7.3 Tax in arrears—sale of land
+### Division 7.3 Tax in arrears—recovery measures
 ## Part 8 Record keeping and general offences
 ### Division 8.1 Record keeping
 ### Division 8.2 General offences
