@@ -23,7 +23,8 @@ gaming Act means—
   (a) the Casino Control Act 2006; and
   (b) the Casino (Electronic Gaming) Act 2017; and
   (c) the Gaming Machine Act 2004; and
-  (d) the Lotteries Act 1964.
+  (d) the Lotteries Act 1964; and
+  (e) the Pool Betting Act 1964.
 net ACT betting revenue, for a financial year—see section 7.
 return period means the period of time to which a betting operations return relates.
 threshold amount—see section 8.
