@@ -18,6 +18,7 @@
 ## Part 6 Regulatory action
 ### Division 6.1 Suspension or cancellation of registration or permits to teach
 ### Division 6.2 Other regulatory action
+### Division 6.3 Disclosure of information
 ## Part 7 Accreditation––education programs
 ### Division 7.1 Register of accredited education programs
 ### Division 7.2 Accreditation of education programs
