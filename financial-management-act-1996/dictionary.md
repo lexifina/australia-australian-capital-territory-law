@@ -45,6 +45,7 @@ capital injection—
     (iii) augmenting the assets held or owned by the territory entity; or
     (iv) reducing the liabilities of the territory entity; but
   (b) does not include an amount provided from an appropriation for a purpose mentioned in section 8 (1) (a), (c) or (2) (a).
+capital works advance—see section 18E.
 CEO—see chief executive officer.
 chief executive officer (or CEO), of a territory authority, means the person (however described) who is responsible for managing the affairs of the authority.
 class of outputs means a group of related outputs.

@@ -1,6 +1,10 @@
 ## Part 1 Preliminary
 ## Part 2 Budget management
 ### Division 2.1 Appropriations and budgets
+#### Subdivision 2.1.1 Appropriations and budgets—generally
+#### Subdivision 2.1.2 Treasurer’s advances
+#### Subdivision 2.1.3 Capital works reserve
+#### Subdivision 2.1.4 Appropriations and budgets—other matters
 ### Division 2.2 Budget reviews and pre-election updates
 ## Part 3 Financial reports
 ### Division 3.1 Financial reports of the Territory
