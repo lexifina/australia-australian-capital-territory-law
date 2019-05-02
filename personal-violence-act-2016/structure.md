@@ -26,4 +26,3 @@
 ## Part 8 Miscellaneous
 ### Division 8.1 Public access and publication
 ### Division 8.2 Other matters
-## Part 20 Transitional
