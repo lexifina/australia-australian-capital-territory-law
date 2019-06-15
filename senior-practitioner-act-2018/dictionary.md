@@ -38,10 +38,11 @@ harm to a person, means—
   (c) damage to property involving a serious risk of physical harm to the person.
 panel means a positive behaviour support panel.
 person with parental responsibility, for a child, means a parent or someone else with parental responsibility for the child under the Children and Young People Act 2008, division 1.3.2.
-positive behaviour support panel means a panel registered under section 21.
+positive behaviour support panel means a panel registered under section 22.
 positive behaviour support plan—see section 11.
 provider—see section 8.
 registered, in relation to a positive behaviour support plan, means registered under section 15.
+relevant person, for a provider, means an employee, agent, contractor or other person acting under the direction or on behalf of the provider.
 restrictive practice—see section 7.
 reviewable decision, for part 7 (Notification and review of decisions)—see section 43.
 senior practitioner means the Senior Practitioner appointed under section 24.
