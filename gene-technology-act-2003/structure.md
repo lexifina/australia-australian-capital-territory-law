@@ -59,4 +59,3 @@
 ### Division 12.3 Confidential commercial information
 ### Division 12.4 Acts and omissions of representatives
 ### Division 12.6 Other provisions
-## Part 13 Transitional—Gene Technology Amendment Act 2017
