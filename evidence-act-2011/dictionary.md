@@ -119,7 +119,6 @@ legal counsel means an Australian lawyer employed in or by a government agency o
 Examples
 1 in-house counsel
 2 government solicitor
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 Legislative Assembly, of another Territory, includes any present or former Legislative Assembly of that Territory.
 Note Legislative Assembly is also defined in the Legislation Act, dictionary, pt 1.
 member of the Australian Federal Police includes a special member or staff member of the Australian Federal Police.
