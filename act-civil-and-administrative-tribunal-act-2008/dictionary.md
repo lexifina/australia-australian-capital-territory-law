@@ -30,7 +30,6 @@ application—
 Examples—authorising laws under which a matter may be referred to the tribunal
 1 Crimes Act 1900, s 331 (Referral to ACAT)
 2 Human Rights Commission Act 2005, s 53A (Referral of discrimination complaints)
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 appropriate court, for part 7 (Enforcement and offences)—see section 69A.
 assessor means a person appointed under section 97.
 authorising law means—
