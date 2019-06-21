@@ -7,6 +7,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • administrative unit
 • adult
 • appoint
+• AS (see s 164 (1))
+• AS/NZS (see s 164 (2))
 • bankrupt or personally insolvent
 • chief health officer
 • Chief Minister
@@ -77,7 +79,6 @@ Examples of events
 2 accident or explosion
 3 epidemic or animal disease
 4 shortage of electricity, gas, fuel or water
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 emergency controller means—
   (a) for a declared state of emergency—the person appointed under section 159; and
   (b) in any other case—the person appointed under section 150A.
@@ -117,7 +118,6 @@ Examples of incidents
 1 a spill or other loss of containment of a hazardous material
 2 an uncontrolled emission of a hazardous material
 3 a fire, explosion or release of energy
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 health benefits fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 health benefits organisation, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 improvement notice means an improvement notice issued under section 86 (2) (Notices for premises).
