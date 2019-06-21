@@ -84,5 +84,4 @@ Examples
 • external post-mortem examination, including taking skin or other samples
 • post-mortem examination using computed tomography (CT)
 • post-mortem examination using magnetic resonance imaging (MRI)
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 registrar means the registrar of the Coroner’s Court appointed under section 11, and includes a deputy registrar.
