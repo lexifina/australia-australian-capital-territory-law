@@ -62,7 +62,6 @@ dealing, with property of a person, includes, for example—
   (d) creating or assigning an interest in the property; and
   (e) using the property to obtain or extend credit; and
   (f) using credit secured against the property.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 derived—see section 12.
 distributable funds, for part 10 (Confiscated assets trust fund)—see section 128.
 effective control, of property—see section 14.
@@ -104,7 +103,6 @@ The phrase ‘property used, or intended to be used by an offender, in relation 
 (c) property used in connection with the commission of the offence;
 (d) property used in respect of the commission of the offence;
 (e) property used with respect to the commission of the offence.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 interested person, for part 8 (Forfeited property)—see section 107.
 interstate automatic forfeiture decision means a corresponding law order prescribed by regulation for this definition.
 interstate civil forfeiture order means a corresponding law order prescribed by regulation for this definition.
@@ -161,7 +159,6 @@ statutory property register means a register kept under a territory law, or a la
   (b) the owner of an interest in the property may lose the interest if the interest is not registered in the register.
 Example
 the register of land titles kept under the Land Titles Act 1925, section 43
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 subject to forfeiture, in relation to property—see section 73.
 sufficient consideration, in relation to acquiring or disposing or otherwise dealing with property, means acquiring, disposing of, or otherwise dealing with, the property for a consideration that is sufficient and that appropriately reflects the value of the property having regard only to commercial considerations.
 tainted property—see section 10.
