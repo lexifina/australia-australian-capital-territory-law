@@ -115,7 +115,7 @@ relationship status means the status or condition of being—
   (f) in a civil partnership; or
   (g) in a civil partnership but living separately and apart from one’s civil partner; or
   (h) divorced; or
-  (i) widowed; or
+  (i) the surviving spouse; or
   (j) the domestic partner (other than the spouse, civil union partner or civil partner) of someone else.
   Note For the meaning of domestic partner, see Legislation Act, s 169.
 relative, of a person, means—
