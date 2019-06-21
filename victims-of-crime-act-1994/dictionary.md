@@ -8,6 +8,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • child
 • director-general (see s 163)
 • domestic partner (see s 169 (1))
+• DPP
 • home address
 • human rights commission
 • Magistrates Court
@@ -21,7 +22,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • territory law
 • the Territory.
 administration of justice includes the provision of police services.
-appointed member—see section 22C (1) (c).
+appointed member—see section 22C (d).
 board means the victims advisory board.
 commissioner means the Victims of Crime Commissioner appointed under the Human Rights Commission Act 2005, section 18D.
 Note The commissioner is a member of the human rights commission (see Human Rights Commission Act 2005, s 12 (1) (g)).
