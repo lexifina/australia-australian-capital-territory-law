@@ -9,7 +9,6 @@ Examples
 1 board of inquiry under the Inquiries Act 1991
 2 commission under the Judicial Commissions Act 1994
 3 royal commission under the Royal Commissions Act 1991
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (c) infringe the privileges of—
 ## (i) the Legislative Assembly; or
 ## (ii) a house of the Commonwealth parliament; or
@@ -25,7 +24,9 @@ court includes—
 Information that would be privileged from production or admission into evidence in a legal proceeding on the ground of legal professional privilege.
 ## 1.3 Information disclosure of which is prohibited under law
 (1) Information that is confidential under the Adoption Act 1993, section 60.
-(2) Information that is protected information under the Children and Young People Act 2008, section 844, other than information disclosed to a person to whom it relates.
+(2) Information that is protected information under the Children and Young People Act 2008, section 844, other than information that—
+  (a) is disclosed to a person to whom it relates; and
+  (b) is not sensitive information under that Act, section 845.
 (3) Information that is protected information under the Crimes (Child Sex Offenders) Act 2005, section 133A.
 (4) Information that is protected information under the Crimes (Restorative Justice) Act 2004, section 64.
 (5) Information that is protected information under the Housing Assistance Act 2007, section 28 other than information disclosed to a person to whom the information relates.
