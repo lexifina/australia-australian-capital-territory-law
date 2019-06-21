@@ -37,7 +37,7 @@ judge—
 judicial officer means—
   (a) a judge of the Supreme Court, other than a person who is an additional judge appointed under the Supreme Court Act 1933, section 4A; or
   (b) the associate judge of the Supreme Court; or
-  (c) a magistrate; or
+  (c) a magistrate (including coroner); or
   (d) a presidential member of the ACAT.
 magistrate does not include a registrar.
 member means—
