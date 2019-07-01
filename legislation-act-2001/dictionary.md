@@ -57,7 +57,6 @@ Examples
 4 a partnership
 5 a joint venture
 6 a corporation sole
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 breach includes contravene.
 building code means the building code under the Building Act 2004, section 136.
 Note The building code is the Building Code of Australia, as amended from time to time by the Australian Building Codes Board and the Australian Capital Territory Appendix to the Building Code of Australia.
@@ -240,6 +239,8 @@ instrument—see section 14.
 interest, in relation to land or other property, means—
   (a) a legal or equitable estate in the land or other property; or
   (b) a right, power or privilege over, or in relation to, the land or other property.
+integrity commission means the ACT Integrity Commission established under the Integrity Commission Act 2018.
+integrity commissioner means the ACT Integrity Commissioner appointed under the Integrity Commission Act 2018.
 internal territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
 intersex person—see section 169B.
 Jervis Bay Territory means the Territory accepted by the Commonwealth under the Jervis Bay Territory Acceptance Act 1915 (Cwlth).
@@ -279,7 +280,6 @@ month means a period beginning at the start of any day of one of the calendar mo
 Examples
 1 The period beginning at the start of 8 May 2014 and ending at midnight on 7 June 2014 is a month.
 2 The period beginning at the start of 30 January 2014 and ending at midnight on 28 February 2014 is a month. The month ends on the last day of February because in that year, February does not have a day corresponding to 29 January (because 2014 is not a leap year). If the period began at the start of 30 January 2016 (ie a leap year), the month would end at midnight on 29 February 2016.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 must—see section 146.
 name includes—
   (a) for an Act—the Act’s short title; and
@@ -325,7 +325,9 @@ Office of the Legislative Assembly means the Office of the Legislative Assembly 
 officer of the Assembly means—
   (a) the auditor-general; or
   (b) the electoral commissioner; or
-  (c) the ombudsman.
+  (c) the integrity commissioner; or
+  (d) the inspector of the integrity commission under the Integrity Commission Act 2018; or
+  (e) the ombudsman.
 official visitor means an official visitor appointed under the Official Visitor Act 2012, section 10.
 ombudsman means the Ombudsman under the Ombudsman Act 1989.
 omit, in relation to a provision of an Act or statutory instrument, includes repeal.
@@ -479,7 +481,6 @@ work safety commissioner means the Work Safety Commissioner under the Work Healt
 writing includes any way of representing or reproducing words in visible form.
 Examples
 printing, photocopying, photography, typewriting
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see s 126 and s 132).
 year, without specifying the kind of year, means calendar year.
 Part 2 Terms for Legislation Act 2001 only
 Note Terms that apply to all Acts and statutory instruments are set out in pt 1.
