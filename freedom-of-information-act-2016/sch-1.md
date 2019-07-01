@@ -20,6 +20,8 @@ Examples
 court includes—
   (a) a registry or other office of a court or tribunal; and
   (b) the staff of the registry or office.
+## 1.1B Information in possession of integrity commission or inspector of the integrity commission
+Information in the possession of the integrity commission, or the integrity commission inspector, unless the information is administrative in nature.
 ## 1.2 Information subject to legal professional privilege
 Information that would be privileged from production or admission into evidence in a legal proceeding on the ground of legal professional privilege.
 ## 1.3 Information disclosure of which is prohibited under law

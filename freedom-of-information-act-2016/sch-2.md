@@ -45,7 +45,7 @@ The following are factors favouring nondisclosure in the public interest:
 ## (xi) prejudice trade secrets, business affairs or research of an agency or person;
 ## (xii) prejudice an agency’s ability to obtain confidential information;
 ## (xiii) prejudice the competitive commercial activities of an agency;
-## (xiv) prejudice the conduct of considerations, investigations, audits or reviews by the ombudsman, auditor-general or human rights commission;
+## (xiv) prejudice the conduct of considerations, investigations, audits or reviews by the ombudsman, auditor-general, integrity commission, integrity commission inspector or human rights commission;
 ## (xv) prejudice the management function of an agency or the conduct of industrial relations by an agency;
 ## (xvi) prejudice a deliberative process of government;
 ## (xvii) prejudice the effectiveness of testing or auditing procedures;

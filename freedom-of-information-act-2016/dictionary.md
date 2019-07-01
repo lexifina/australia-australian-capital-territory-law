@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • auditor-general
 • document
 • human rights commission
+• integrity commission
 • law
 • officer of the Assembly
 • ombudsman
@@ -23,6 +24,7 @@ eligible family member, of a deceased person, for schedule 2 (Factors to be cons
 government information—see section 14.
 held, in relation to information—see section 14.
 information officer, of an agency, means the person appointed as the agency’s information officer under section 18.
+integrity commission inspector means the inspector of the integrity commission under the Integrity Commission Act 2018.
 ombudsman review—see section 73.
 open access information, of an agency or a Minister—see section 23.
 personal information—
