@@ -63,7 +63,6 @@ general services—
 Examples
 • management and administration
 • gardening and general maintenance
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 holding deposit, for part 4 (Entry into retirement villages)—see section 32.
 ingoing contribution—see section 11.
 investigator means an investigator appointed under the Fair Trading (Australian Consumer Law) Act 1992, section 36.
@@ -74,7 +73,6 @@ optional services—
   (b) includes services prescribed by regulation.
 Examples
 laundry, meals, cleaning residential premises
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 owners corporation, for a units plan—see the Unit Titles (Management) Act 2011, dictionary.
 permanently vacated, residential premises—
   (a) for this Act generally—see section 14; and
