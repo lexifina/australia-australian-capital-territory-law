@@ -70,7 +70,9 @@ incorporated document means—
   (b) the standards mentioned in section 40 (b) (i) or (iv) (When may someone complain about a disability service?); or
   (c) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
+operator, of a retirement village—see the Retirement Villages Act 2012, section 7.
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
+person complained about, for division 4.2B (Certain older people service complaints to ACAT)—see section 53F.
 prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
 provider, of a service—see section 10.
@@ -92,6 +94,8 @@ related Act—each of the following is a related Act:
 relevant board means—
   (a) for a health practitioner regulated under the Health Practitioner Regulation National Law (ACT)—the national board for the practitioner under that Act; and
   (b) for a veterinary practitioner—the veterinary practitioners board.
+retirement village complaint, for division 4.2B (Certain older people service complaints to ACAT)—see section 53G.
+retirement village referral statement—see section 88A.
 service for children and young people—see section 8A.
 service for older people—see section 9.
 service for victims of crime—see section 9A.
