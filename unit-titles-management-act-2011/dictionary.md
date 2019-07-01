@@ -96,6 +96,7 @@ representative—
   (a) for the part-owners of a unit—see section 11 (Part-owners of units—authorisation of representatives); or
   (b) for a company that is the owner or a part-owner of a unit—see section 13 (Company-owned units—authorisation of representatives); or
   (c) for a mortgagee that has given a mortgagee voting notice to an owners corporation—see schedule 3, section 3.23 (Voting by mortgagees).
+retirement village—see the Retirement Villages Act 2012, section 10.
 rule, for an owner corporation, means a rule of the corporation under section 106.
 rule infringement notice—see section 109 (2).
 secretary, for an owners corporation, means the secretary of the corporation elected under section 40.
@@ -116,7 +117,6 @@ sustainability infrastructure, installed in relation to a units plan—
   (b) includes related utility service connections and equipment.
 Examples—par (a)
 solar panels, clothes lines, rainwater tanks
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 total general fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 75 (2) (a).
 total sinking fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 82 (3) (b).
 treasurer, for an owners corporation, means the treasurer of the corporation elected under section 40.

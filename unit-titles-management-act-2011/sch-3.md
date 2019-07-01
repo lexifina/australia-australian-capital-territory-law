@@ -30,6 +30,9 @@ At the first annual general meeting of an owners corporation for a units plan, t
 ## (2) The executive committee must give notice of the general meeting—
 ## (a) so that the notice would reasonably be expected to be received at least 14 days before the date fixed for the meeting; or
 ## (b) if a motion is to be moved that requires an unopposed or unanimous resolution—so that the notice would reasonably be expected to be received at least 21 days before the date fixed for the meeting.
+(3) However, if the notice of the annual general meeting is for a units plan that is a retirement village—
+  (a) subsection (2) does not apply; and
+  (b) the executive committee of the owners corporation must give the notice in the time mentioned in the Retirement Villages Act 2012, section 159 (1) (Proposed annual budget).
 ## 3.7 Requirements for notice of general meetings
 ## (1) A notice of a general meeting for an owners corporation must state—
 ## (a) the time, date and place fixed for the meeting; and
@@ -42,7 +45,8 @@ Note Section 3.20 explains who is entitled to vote on which kinds of motion. For
 ## (b) an absentee voting paper for the motion in a form approved by the executive committee.
 ## (3) For a notice of an annual general meeting, the notice must include a copy of the following:
 ## (a) the annual financial statements of the corporation to be presented at the meeting;
-## (b) the general fund budget.
+## (b) the general fund budget;
+## (c) if the notice is for the annual general meeting of a units plan that is a retirement village—the proposed annual budget and the statements required under the Retirement Villages Act 2012, section 159.
 ## 3.8 Defective notice of meetings
 ## (1) The proceedings at a general meeting are not invalid only because a person did not receive proper notice of the meeting.
 ## (2) However, if a person did not receive notice of the meeting in accordance with section 3.6 (2), the person may make a request for the adjournment of the meeting by written notice to the executive committee before the day or time fixed for the start of the meeting.
@@ -53,7 +57,9 @@ Note Section 3.20 explains who is entitled to vote on which kinds of motion. For
 ## (b) in the circumstances it would be unfair to allow the meeting to go ahead at present.
 ## 3.9 Quorum at a general meeting—owners corporation with 3 or more members
 ## (1) A motion may be considered at a general meeting of an owners corporation with 3 or more members only if there is present—
-## (a) a quorum (a standard quorum) made up by people entitled to vote (on the motion) in relation to not less than ½ the total number of units; or
+  (a) a quorum (a standard quorum) made up by 1 of the following:
+    (i) for a units plan that is a retirement village—people entitled to vote (on the motion) in relation to not less than 1/3 the total number of units;
+    (ii) in any other case—people entitled to vote (on the motion) in relation to not less than 1/2 the total number of units; or
 ## (b) a quorum (a reduced quorum) made up under subsection (2).
 ## (2) If a standard quorum is not present within ½ an hour after the motion arises for consideration, a reduced quorum for the motion and any subsequent motion considered at the meeting is made up by 2 or more people present at the meeting who are entitled to vote on the motion.
 ## (3) If a reduced quorum is not present ½ an hour after the motion arises for consideration, the meeting is adjourned to the same day in the next week at the same place and time.

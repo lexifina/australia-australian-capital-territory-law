@@ -43,7 +43,6 @@ Maximum penalty: 20 penalty units.
 ## (d) a summary of the type of cover under the policy;
 Examples
 public liability insurance, building insurance, personal property insurance
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (e) the amount of the premium;
 ## (f) the amount of any excess payable on the happening of an event for which the insurance gives cover;
 ## (g) the date the cover expires;
@@ -61,7 +60,6 @@ The executive committee of an owners corporation may approve an application by a
 ## (b) the use will not unreasonably interfere with the reasonable use and enjoyment of the common property by other members of the corporation.
 Example—minor use
 installation of airconditioner or awning on unit that extends over common property
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 2.5 Decisions about taking legal action
 ## (1) This section applies if the executive committee proposes to take legal action.
 ## (2) The executive committee of an owners corporation must not take legal action on behalf of the owners corporation unless—

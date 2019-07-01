@@ -15,7 +15,6 @@ A unit owner must pay all rates, taxes and any other amount payable for the unit
 (1) A unit owner may erect or alter any structure in or on the unit or the common property only—
   (a) in accordance with the express permission of the owners corporation by unopposed resolution; and
   (b) in accordance with the requirements of any applicable territory law (for example, a law requiring development approval to be obtained for the erection or alteration).
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (2) Permission may be given subject to conditions stated in the resolution.
 ## 5 Use of common property
 A unit owner must not use the common property, or permit it to be used, to interfere unreasonably with the use and enjoyment of the common property by an owner, occupier or user of another unit.

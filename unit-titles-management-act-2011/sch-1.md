@@ -22,7 +22,6 @@ An executive member must not engage in unconscionable conduct in exercising the 
 Examples
 1 improperly using the executive member’s position on the executive committee to gain, directly or indirectly, an advantage personally or for someone else
 2 exerting undue influence on, or using unfair tactics against, the owner of a unit in the units plan
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 8 Conflict of interest
 An executive member must disclose to the executive committee any conflict of interest the member may have in a matter before the committee.
 ## Part 1.2 Managers—code of conduct
@@ -48,7 +47,6 @@ Examples
 2 requiring the owners corporation to comply with conditions that are unlawful or not reasonably necessary
 3 improperly using the executive member’s position on the executive committee to gain, directly or indirectly, an advantage personally or for someone else
 4 exerting undue influence on, or using unfair tactics against, the owners corporation or the owner of a unit in the units plan
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 9 Conflict of duty or interest
 A manager for an owners corporation (the first corporation) must not accept an engagement for another owners corporation if accepting the engagement may place the manager’s duty to, or the interests of, the first corporation in conflict with the manager’s duty to, or the interests of, the other owners corporation.
 ## 10 Goods and services to be supplied at competitive prices
