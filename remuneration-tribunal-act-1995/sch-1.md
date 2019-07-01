@@ -27,5 +27,7 @@ Note For territory authorities with governing boards, see the Financial Manageme
 • health services commissioner
 • human rights commissioner
 • inspector of correctional services
+• integrity commission CEO
+• integrity commissioner
 • public advocate
 • victims of crime commissioner
