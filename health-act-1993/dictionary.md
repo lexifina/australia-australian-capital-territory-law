@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • Commonwealth
 • Coroner’s Court
 • director-general (see s 163)
+• doctor
 • entity
 • exercise
 • found guilty
@@ -17,13 +18,17 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • in relation to
 • interest
 • make
+• Minister (see s 162)
+• notifiable instrument (see s 10)
+• penalty unit (see s 133)
 • pharmacist
 • proceeding
 • territory law
 • the Territory
 • tribunal.
-abortion, for part 6 (Abortions)—see section 80.
-approved medical facility, for division 6.2 (Patient privacy in protected areas)—see section 85.
+abortifacient, for part 6 (Abortions)—see section 80 (1).
+abortion, for part 6 (Abortions)—see section 80 (1).
+approved medical facility, for part 6 (Abortions)—see section 80 (1).
 authorised representative, for part 7 (VMO service contracts)—see section 100.
 capture visual data, for division 6.2 (Patient privacy in protected areas)—see section 85.
 CEO—
@@ -36,7 +41,6 @@ day hospital means a facility where a person is admitted for surgical or medical
 dental technical work means work involving the making, altering, repairing or maintaining of dental prosthetic appliances.
 Example—dental technical work
 shade-taking for dental prosthetic appliances
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 dental technician means a person who does dental technical work and either—
   (a) is a graduate of a course of education in dental technical work accredited by the Council of Regulating Authorities for Dental Technicians and Dental Prosthetists (CORA); or
   (b) has—
@@ -66,6 +70,7 @@ negotiating period, for part 7 (VMO service contracts)—see section 103 (2).
 practice corporation, for part 7 (VMO service contracts)—see section 100.
 prohibited behaviour, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected area, for division 6.2 (Patient privacy in protected areas)—see section 85.
+protected facility, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected information, for part 8 (Secrecy)—see section 123.
 quality assurance committee—see section 24.
 review, in relation to the scope of clinical practice, for part 5 (Reviewing scope of clinical practice)—see section 55.
@@ -76,4 +81,5 @@ scope of clinical practice report, for part 5 (Reviewing scope of clinical pract
 sensitive information—see section 124.
 service contract, for part 7 (VMO service contracts)—see section 100.
 special purpose QAC, for part 4 (Quality assurance)—see section 20.
+surgical abortion, for part 6 (Abortions)—see section 80 (1).
 VMO, or visiting medical officer, for part 7 (VMO service contracts)—see section 100.
