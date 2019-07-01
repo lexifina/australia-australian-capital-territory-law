@@ -22,6 +22,7 @@ casino means the casino under the Casino Control Act 2006.
 casino FATG terminal, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Casino (Electronic Gaming) Act 2017, dictionary.
 casino gaming machine, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Casino (Electronic Gaming) Act 2017, dictionary.
 chief executive officer means the chief executive officer of the commission.
+club licensee means a licensee that is a club under the Gaming Machine Act 2004.
 code of practice—see section 18.
 commission means the ACT Gambling and Racing Commission established under section 5.
 electronic gaming, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see section 51.
@@ -48,3 +49,9 @@ quarantine permit, for part 6B (Licences, authorisation certificates and authori
 racing means racing conducted for the purpose of betting.
 reciprocating jurisdiction means a jurisdiction, being the Commonwealth, a State, another Territory or New Zealand, under a law of which an officer of the jurisdiction is authorised to give to the commission, for the purposes of the administration of a gaming law, information within the knowledge of the officer.
 storage permit, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Gaming Machine Act 2004, section 127L.
+workplace rights training means training on rights and obligations under laws in force in the ACT that apply in relation to workers at premises of club licensees.
+Examples—rights and obligations
+• employment agreements
+• minimum wages and employment conditions
+• termination of employment agreements
+• workplace safety
