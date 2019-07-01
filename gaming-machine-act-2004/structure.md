@@ -55,7 +55,11 @@
 ## Part 10 Promoting responsible practices at authorised premises
 ## Part 11 Finance
 ### Division 11.1 General
-### Division 11.2 Problem gambling assistance fund
+### Division 11.2 Gambling harm prevention and mitigation fund
+### Division 11.3 Diversification and sustainability support fund
+#### Subdivision 11.3.1 Preliminary
+#### Subdivision 11.3.2 Payments to and from diversification and sustainability support fund
+#### Subdivision 11.3.3 Advisory board for diversification and sustainability support fund
 ## Part 12 Community contributions
 ## Part 13 Notification and review of decisions
 ## Part 13A Notifiable actions

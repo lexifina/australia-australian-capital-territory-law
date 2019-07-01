@@ -6,21 +6,27 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • ACT
 • adult
 • appoint
+• authorised deposit-taking institution
 • business day
+• Chief Minister
 • child
 • contravene
 • Corporations Act
 • Criminal Code
 • daily newspaper
 • disallowable instrument (see s 9)
+• entity
 • Executive
 • fail
+• financial year
 • found guilty
 • gambling and racing commission
 • individual
 • law, of the Territory
 • Legislation Act
+• Legislative Assembly
 • may (see s 146)
+• Minister (see s 162)
 • must (see s 146)
 • penalty unit (see s 133)
 • prescribed
@@ -29,8 +35,10 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • reviewable decision notice
 • State
 • the Territory
+• Treasurer
 • under.
 acquire a gaming machine, means take possession of the gaming machine for the purpose of using it for gaming.
+advisory board, for division 11.3 (Diversification and sustainability support fund)—see section 163E.
 approval, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 approval certificate, for an approved technician—see section 80 (2) (a).
 approval-holder—see section 38A.
@@ -67,6 +75,7 @@ cash facility—
 casino licensee—see the Casino Control Act 2006, dictionary.
 census day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 centralised monitoring system (or CMS)—see section 66.
+Chief Minister’s Charitable Fund, for part 12 (Community contributions)—see section 164.
 class B gaming machine—
   (a) means a gaming machine consisting of the game of draw poker, or a game derived from draw poker, that requires player interaction or intervention as part of the fundamental game operation; but
   (b) does not include a gaming machine prescribed by regulation.
@@ -92,8 +101,9 @@ club means a corporation or incorporated association established for the benefit
 club group, for part 11 (Finance)—see section 157B.
 CMS—see centralised monitoring system.
 commission means the gambling and racing commission.
-community contribution means a contribution made by a licensee that is approved as a community contribution under section 164.
-community contribution shortfall tax—see section 172 (1).
+community, for part 12 (Community contributions)—see section 165.
+community purpose, for part 12 (Community contributions)—see section 166.
+community purpose contribution, for part 12 (Community contributions)—see section 166.
 compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 compulsory surrender period, for division 2A.4 (Miscellaneous)—see section 10Q.
 computer cabinet means the sealable part of a gaming machine that contains the game storage medium and the random access memory.
@@ -101,7 +111,8 @@ computer cabinet access register—see section 71 (1).
 constitution means—
   (a) for a club that is a company—the memorandum, and any articles of association, of the company; or
   (b) for a club that is an incorporated association—the statement of objects and the rules of the association.
-contribution means any money, benefit, valuable consideration or security.
+contribution, for part 12 (Community contributions)—see section 164.
+contribution information, for a community purpose contribution, for part 12 (Community contributions)—see section 171.
 Control Act means the Gambling and Racing Control Act 1999.
 control procedures, for an entity, means the procedures under section 97.
 corporation includes a club.
@@ -113,6 +124,7 @@ dispose of, a gaming machine, includes the following:
   (b) to sell or return the gaming machine to an approved supplier;
   (c) to destroy the gaming machine;
   (d) to lease or hire the gaming machine to a person.
+diversification and sustainability support fund, for division 11.3 (Diversification and sustainability support fund)—see section 163F.
 eligible club—see section 146.
 eligible object—see section 145.
 eligible person—
@@ -123,6 +135,7 @@ executive officer, of a corporation, means a person, however described and wheth
 external administrator, for a licensee, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 final, for part 4 (Disciplinary action)—see section 56.
 first compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
+gambling harm prevention and mitigation fund—see section 163B.
 game, in relation to a gaming machine, means a play, or a series of plays, initiated by the application of a single stake registered on the gaming machine.
 gaming area—
   (a) for an authorisation certificate under a class B licence—see section 30 (3) (h); and
@@ -183,6 +196,7 @@ member, of a club—
     (i) a member who, under the rules of the club, is required to pay fees; or
     (ii) a life member; but
   (b) does not include a temporary member.
+minimum community contribution, for a licensee for a financial year, for part 12 (Community contributions)—see section 164.
 minor licence amendment application, for part 2B (Licences and authorisations)—see section 31 (1).
 multi-user permit—see section 135.
 net revenue, of a licensee that is a club, means gross revenue derived by the licensee, less—
@@ -202,12 +216,12 @@ peripheral equipment, for a gaming machine—see section 68.
 permit-holder means the holder of a multi-user permit.
 premises relocation amendment, for part 2B (Licences and authorisations)—see section 33 (1) (b).
 prescribed number of days, in relation to a notifiable action—see section 173D (5).
-problem gambling assistance fund—see section 163B.
 properly completed, for an application—see section 9 (1).
 proposed gaming area, in relation to an authorisation certificate application for a class C licence—see section 22 (2) (b) (ii).
+recipient, of a community purpose contribution, for part 12 (Community contributions)—see section 164.
 registered party—see the Electoral Act 1992, dictionary.
+reporting year, for a licensee, for part 12 (Community contributions)—see section 164.
 repossession, of a gaming machine, includes taking possession of the gaming machine under a default provision in a financial agreement.
-required community contribution, for a licensee that is a club—see section 169 (1).
 required documents, for an authorisation certificate application for class C gaming machines—see section 22 (2).
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
 second compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
@@ -227,7 +241,7 @@ stored authorisation, for division 6A.7 (Storage of authorisations and gaming ma
 stored gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 surrendered authorisation, for division 2A.2 (Voluntary surrenders)—see section 10A.
 surrender obligation, of a licensee, for division 2A.3 (Compulsory surrenders)—see section 10I.
-tax period, for part 11 (Finance)—see section 157A.
+tax period, for part 11 (Finance) and part 12 (Community contributions)—see section 157A.
 technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
 temporary member, of a club—see section 54A.
