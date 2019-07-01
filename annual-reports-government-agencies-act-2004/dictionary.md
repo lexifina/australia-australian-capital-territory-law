@@ -11,16 +11,16 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • electoral commissioner
 • entity
 • financial year
+• integrity commissioner
 • Minister (see s 162)
 • notifiable instrument (see s 10)
 • Office of the Legislative Assembly
 • officer of the Assembly
 • public sector body
-• public sector standards commissioner
 • public service
 • sitting day
 • territory instrumentality
-• territory-owned corporation
+• territory-owned corporation.
 annual report means—
   (a) a director-general annual report; or
   (b) an Office of the Legislative Assembly annual report; or
