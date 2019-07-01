@@ -52,4 +52,3 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 49 | 157C (2) | refuse to determine that licensee not part of club group | licensee who seeks determination
 50 | 157C (4) | revoke determination that licensee is not part of club group | licensee who has determination revoked
 51 | 162C (3) | claim for GMT rebate not accepted | licensee who claims GMT rebate
-52 | 164 | refuse to approve contributions as community contributions | applicant for approval
