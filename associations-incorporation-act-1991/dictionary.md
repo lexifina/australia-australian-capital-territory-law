@@ -5,8 +5,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ACAT
 • bankrupt or personally insolvent
 • Corporations Act
+• disallowable instrument (see s 9)
 • document
+• entity
+• financial year
+• function
 • home address
+• notifiable instrument (see s 10)
 • public holiday
 • registrar-general
 • reviewable decision notice.
@@ -15,6 +20,7 @@ ACNC registered entity means a registered entity under the Australian Charities 
 annual general meeting, in relation to an incorporated association, means a meeting of the association held under section 68 or 69.
 annual return means a statement referred to in section 79 (1) (a).
 approved form means a form approved by the registrar-general under section 126 (Approved forms).
+auditor, of an association’s statement of accounts, for part 5 (Record keeping and reporting)—see section 70B.
 authorised person means a person authorised to apply for the incorporation of an association or proposed association under section 16 (a).
 banking corporation means a bank, building society or credit union.
 books—
@@ -31,6 +37,8 @@ inaugural member of a committee means a person who is, under section 61, taken t
 inaugural public officer means the person who is, under section 58, taken to be the inaugural public officer of an incorporated association.
 incorporated means incorporated under this Act or the repealed Act.
 incorporation, in relation to a nonexistent incorporated association, for division 3.6 (Contracts)—see section 42.
+large association, for a financial year, for part 5 (Record keeping and reporting)—see section 70B.
+medium association, for a financial year, for part 5 (Record keeping and reporting)—see section 70B.
 member, in relation to membership of an incorporated association whether as an individual or as a body corporate, includes associate member or any other class of member.
 model rules means the rules prescribed under section 127 (2) (a).
 objects, in relation to an incorporated association, means the objects that are, under section 29, the objects of the association.
@@ -44,12 +52,15 @@ public officer, in relation to an incorporated association, means the person app
 purport—
   (a) to enter into a contract, for division 3.6 (Contracts)—see section 42; and
   (b) to execute a contract, for division 3.6 (Contracts)—see section 42.
+register of members—means the register kept under section 67.
 repealed Act means the Associations Incorporation Act 1953 as in force from time to time before 1 January 1992.
 reproduction, in relation to a document, means—
   (a) a machine-copy of the document; or
   (b) a print made from the negative of the document; or
   (c) if an image of the document has been stored by means of a computer or by other electronic means—a print-out of the image.
+required statement, for part 5 (Record keeping and reporting)—see section 70B.
 reviewable decision, for part 10 (Notification and review of decisions)—see section 118.
+reviewer, of an association’s statement of accounts, for part 5 (Record keeping and reporting)—see section 70B.
 rules, in relation to an incorporated association, means the rules that are, under section 31 (1), the rules of the association.
+small association, for a financial year, for part 5 (Record keeping and reporting)—see section 70B.
 special resolution means a resolution passed in accordance with section 70.
-trade—see section 4.

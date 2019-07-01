@@ -10,7 +10,11 @@
 ### Division 3.7 Rights and liabilities of members and officers
 ### Division 3.8 Miscellaneous
 ## Part 4 Management
-## Part 5 Accounts, audit and annual returns
+### Division 4.1 Appointment of public officer and committee
+### Division 4.2 Duties of officers
+### Division 4.3 Register of members
+### Division 4.4 General meetings
+## Part 5 Record keeping and reporting
 ## Part 6 Transfer of incorporation
 ## Part 7 Winding-up
 ## Part 8 Investigation of association’s affairs
