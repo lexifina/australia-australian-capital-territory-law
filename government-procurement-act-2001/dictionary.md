@@ -15,6 +15,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • establish
 • fail
 • head of service
+• integrity commissioner
 • may (see s 146)
 • Minister (see s 162)
 • must (see s 146)

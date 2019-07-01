@@ -10,6 +10,7 @@
   (d) is generally available to the public; or
   (e) is in the possession of the Territory without restriction in relation to disclosure before the date of receipt from [insert the name of the party or the party’s representative]; or
   (f) is disclosed by the responsible Minister in reporting to the Legislative Assembly or its committees; or
-  (g) is disclosed to the ombudsman or for a purpose in relation to the protection of the public revenue.
+  (g) is disclosed to the ombudsman or for a purpose in relation to the protection of the public revenue; or
+  (h) is disclosed to the integrity commissioner.
 (4) The Government Procurement Act 2001, part 3 (Notifiable contracts) applies to this contract.
 (5) The following grounds mentioned in that Act, section 35 (1) apply to this clause: [list relevant grounds].
