@@ -14,4 +14,3 @@
 ## Part 7 Recourse against award
 ## Part 8 Recognition and enforcement of awards
 ## Part 9 Miscellaneous
-## Part 20 Transitional
