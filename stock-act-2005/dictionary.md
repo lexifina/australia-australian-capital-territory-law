@@ -20,8 +20,7 @@ Examples of bovine
 2 Brahman (genus Bos indicus)
 3 buffalo (genus Bubalus bubalis)
 4 Hereford (genus Bos taurus)
-Note 1 A reference to an animal of a particular kind is a reference to an animal of that kind irrespective of age or sex (see s 67).
-Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+Note A reference to an animal of a particular kind is a reference to an animal of that kind irrespective of age or sex (see s 67).
 connected, for part 6 (Enforcement)—see section 45.
 earmark means a shape cut into the ear of an animal.
 engage in conduct means—
