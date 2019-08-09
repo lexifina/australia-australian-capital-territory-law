@@ -96,7 +96,6 @@ Examples—purpose
 • sale or trade
 • personal use
 • gift
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 financial assurance condition, on a licence—see section 278.
 financial assurance considerations—see section 279.
 genetic resources, for part 8.5 (Access to biological resources in reserves)—see section 205.
@@ -109,9 +108,9 @@ Examples—purpose
 • sale or trade
 • personal use
 • gift
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 in, a vehicle, includes on the vehicle.
 ineligible species—see section 95 (1).
+influential person, for a corporation, for chapter 11 (Nature conservation licences)—see section 262A.
 information direction—see section 323 (2).
 inspection notice, for a licence—see section 272.
 interfere with an item, for division 6.1.2 (Native animals)—see section 127.
