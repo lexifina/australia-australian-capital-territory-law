@@ -68,7 +68,6 @@ EIS, for part 10—see the definition of environmental impact statement.
 electronic equipment means equipment that requires an electric current or electromagnetic field to function.
 Examples—electronic equipment
 televisions, fridges, computers, mobile phones, drills, remote control cars
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 electronic waste means waste electronic equipment.
 emergency plan means an emergency plan described in section 81.
 enforceable undertaking, for part 14A (Enforceable undertakings)—see section 136E.
