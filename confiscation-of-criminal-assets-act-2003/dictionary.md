@@ -42,17 +42,23 @@ benefit includes service or advantage.
 benefits, derived by an offender—see section 80.
 buyback order—see section 124.
 civil forfeiture order—see section 65.
+CJC subcommittee, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135E.
 cleared, of an offence—see section 17.
 commission—
   (a) of a serious offence, for part 7 (Penalty orders)—see section 79; and
   (b) of an offence by a person who has absconded—includes the alleged commission of the offence by the person.
 confiscation proceeding—see section 236.
+contributing jurisdiction, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135A.
+contribution, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135A.
 convicted—see section 15 (1).
 conviction forfeiture order—see section 52.
+cooperating jurisdiction committee, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135A.
+cooperating State, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135A.
 corresponding law means a law of the Commonwealth, a State or another Territory that is declared by regulation to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act.
 corresponding law order means an order, notice or decision (however described) made under a corresponding law, whether or not the order, notice or decision—
   (a) is made by a court; or
   (b) corresponds, or substantially corresponds, to an order, notice or decision under this Act.
+corresponding proceeds, of a State or the Territory, for part 10 (Confiscated assets trust fund)—see section 127A.
 data, for part 13 (Search warrants)—see section 195.
 data storage device, for part 13 (Search warrants)—see section 195.
 dealing, with property of a person, includes, for example—
@@ -62,11 +68,12 @@ dealing, with property of a person, includes, for example—
   (d) creating or assigning an interest in the property; and
   (e) using the property to obtain or extend credit; and
   (f) using credit secured against the property.
+decision-making period, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135B.
 derived—see section 12.
-distributable funds, for part 10 (Confiscated assets trust fund)—see section 128.
+distributable funds, for division 10.2 (Establishment and payments into and out of the trust fund)—see section 128.
 effective control, of property—see section 14.
 encumbrance, in relation to property, includes any interest, mortgage, charge, right, claim or demand in relation to the property.
-equitable sharing program, for part 10 (Confiscated assets trust fund)—see section 129.
+equitable sharing program, for division 10.2 (Establishment and payments into and out of the trust fund)—see section 129.
 examination notice—see section 171.
 examination order—see section 166.
 exclusion order—see section 72.
@@ -119,13 +126,18 @@ money laundering offence means—
   (b) an offence against a law of the Commonwealth, a State or another Territory that is declared by regulation to be a corresponding offence, whether or not the offence corresponds, or substantially corresponds, to an offence mentioned in paragraph (a).
 monitoring order—see section 148.
 narcotic substance, for division 7.3 (Value of benefits)—see section 90.
+national cooperative scheme, for part 10 (Confiscated assets trust fund)—see section 127A.
+national cooperative scheme on unexplained wealth, for part 10 (Confiscated assets trust fund)—see section 127A.
+NCSUW agreement, for part 10 (Confiscated assets trust fund)—see section 127A.
 non-disclosable information order—see section 191.
+non-participating State, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135A.
 occupier, of premises, for part 13 (Search warrants)—see section 195.
 offence—see section 13 (1).
 offender, in relation to an offence, means a person (including a corporation) who committed, or is alleged to have committed, the offence.
 Note A reference to a person generally includes a reference to a corporation as well as an individual, see the Legislation Act, s 160. (See also the Legislation Act, dict, pt 1, def person.)
 ordinary offence—see section 13 (2).
 ordinary search, for part 13 (Search warrants)—see section 195.
+participating State, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135A.
 party, to an offence, means a person who—
   (a) commits or participates in the offence; or
   (b) is an accessory before or after the fact to the offence.
@@ -134,6 +146,7 @@ Note An interstate penalty charge is taken to be a penalty charge under this Act
 penalty order—see section 82.
 person assisting, in relation to a search warrant, for part 13 (Search warrants)—see section 195.
 premises, for part 13 (Search warrants)—see section 195.
+proceeds of confiscated assets, for part 10 (Confiscated assets trust fund)—see section 127A.
 production order—see section 156.
 property—
   (a) of an offender, for division 7.3 (Value of benefits)—see section 90; and
@@ -147,13 +160,14 @@ registered property interest means an interest in property recorded in a statuto
 related offence—see section 13 (3).
 relevant court—see section 238.
 relevant offence—see section 13 (2).
-reserved funds, for part 10 (Confiscated assets trust fund)—see section 128.
+reserved funds, for division 10.2 (Establishment and payments into and out of the trust fund)—see section 128.
 restrained, in relation to property, means property subject to a restraining order.
 restraining order—see section 19.
 Note A registered interstate restraining order is taken to be a restraining order under this Act (see s 139).
 return or compensation order—see section 121.
 search warrant, for part 13 (Search warrants)—see section 195.
 serious offence—see section 13 (2).
+shareable, in relation to proceeds of confiscated assets or corresponding proceeds under the national cooperative scheme, for part 10 (Confiscated assets trust fund)—see section 127A.
 statutory property register means a register kept under a territory law, or a law of the Commonwealth, a State or another Territory, for recording ownership of property (including interests in property) if—
   (a) title to the property is passed by registration in the register of ownership of the property; or
   (b) the owner of an interest in the property may lose the interest if the interest is not registered in the register.
