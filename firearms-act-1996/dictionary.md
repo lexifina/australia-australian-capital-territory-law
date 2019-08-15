@@ -62,7 +62,6 @@ barrel length, for a pistol, means—
 blank fire firearm means a device that is designed for firing blank cartridges only.
 Example
 a starting pistol
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 buy includes—
   (a) buy by wholesale, retail, auction or tender; and
   (b) obtain by barter or exchange.
