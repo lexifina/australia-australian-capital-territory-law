@@ -102,5 +102,4 @@ sampling facility means a facility prescribed by regulation to which a person ma
 Examples––sampling facility
 1 a police station
 2 a police vehicle equipped for the purpose of taking blood samples
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 special driver—see section 4B.
