@@ -92,7 +92,6 @@ harm means—
   (a) physical harm to a person, including unconsciousness, pain, disfigurement, infection with a disease and any physical contact with the person that a person might reasonably object to in the circumstances (whether or not the person was aware of it at the time); and
   (b) harm to a person’s mental health, including psychological harm, but not including mere ordinary emotional reactions (for example, distress, grief, fear or anger);
 whether temporary or permanent, but does not include being subjected to any force or impact that is within the limits of what is acceptable as incidental to social interaction or to life in the community.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 impairment, for part 4.2 (Computer offences)—see section 412.
 in a legal proceeding, for chapter 7 (Administration of justice offences)—see section 701 (3).
 indirectly derived, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
