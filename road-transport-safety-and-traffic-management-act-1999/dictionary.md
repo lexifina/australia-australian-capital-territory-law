@@ -23,6 +23,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • responsible person
 • ride
 • rider
+• road
+• road related area
 • road transport authority (or authority) (see s 16)
 • road transport legislation (see s 6)
 • sold vehicle declaration
@@ -62,15 +64,6 @@ repeat offender—
   (a) for division 2.1 (Speeding and other dangerous driving offences)—see section 5AB; and
   (b) for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
 retention area—see the Uncollected Goods Act 1996, dictionary.
-road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
-road related area means—
-  (a) an area that divides a road; or
-  (b) a footpath or nature strip adjacent to a road; or
-  (c) an area that is open to the public and is designated for use by cyclists or animals; or
-  (d) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles; or
-  (e) a shoulder of a road; or
-  (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
-but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 road user—see the Road Transport (Road Rules) Regulation 2017, section 14.
 shortest practicable distance, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 22AA.
 shortest practicable route, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 23B (a).
