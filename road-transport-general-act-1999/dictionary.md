@@ -100,13 +100,10 @@ National Transport Commission—see the National Transport Commission Act 2003 (
 offence of culpable driving, for a person, means—
   (a) an offence against the Crimes Act 1900, section 29 (Culpable driving); or
   (b) any other offence against the Crimes Act 1900 if a necessary fact to constitute the offence is that someone dies or is injured because of, or as a result of, the way a person drove a motor vehicle.
-online declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
-personal mobility device means a vehicle that—
-  (a) is designed to be self-balancing while a person travels in or on the vehicle; and
-  (b) is propelled by an electric motor; and
-  (c) has 2 wheels that operate on a single axis; and
-  (d) has a platform anywhere between the 2 wheels for the person’s feet; and
-  (e) has handles mounted on an upright post.
+permanent resident means—
+  (a) a person who holds a permanent visa for the Migration Act 1958 (Cwlth), section 30; or
+  (b) a New Zealand citizen who holds a special category visa under the Migration Act 1958 (Cwlth), section 32.
+personal mobility device—see the Road Transport (Road Rules) Regulation 2017, section 18A.
 probationary licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 provisional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 rail transport operator—see the Rail Safety National Law (ACT), section 4.
@@ -126,15 +123,18 @@ reviewable decision, for part 7 (Notification and review of decisions)—see sec
 revocation notice, for part 6 (Fine defaulters)—see section 84A.
 ride, for the rider of a motorbike or an animal-drawn vehicle, includes be in control of the vehicle.
 rider, of a vehicle that can be ridden, means the person who is riding the vehicle.
-road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
-road related area means—
-  (a) an area that divides a road; or
-  (b) a footpath or nature strip adjacent to a road; or
-  (c) an area that is open to the public and is designated for use by cyclists or animals; or
-  (d) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles; or
-  (e) a shoulder of a road; or
-  (f) any other area that is open to or used by the public so far as a declaration under section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
-but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
+road, for the road transport legislation or a provision of the road transport legislation (the relevant legislation)—
+  (a) means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles; but
+  (b) does not include an area that would otherwise be a road so far as a declaration under section 12 (Power to include or exclude areas in road transport legislation) declares that the relevant legislation does not apply to the area.
+road related area, for the road transport legislation or a provision of the road transport legislation (the relevant legislation)—
+  (a) means—
+    (i) an area that divides a road; or
+    (ii) a footpath or nature strip adjacent to a road; or
+    (iii) an area that is open to the public and is designated for use by cyclists or animals; or
+    (iv) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles; or
+    (v) a shoulder of a road; or
+    (vi) any other area that is open to or used by the public so far as a declaration under section 12 (Power to include or exclude areas in road transport legislation) declares that the relevant legislation applies to the area; but
+  (b) does not include an area that would otherwise be a road related area so far as a declaration under that section declares that the relevant legislation does not apply to the area.
 road transport authority (or authority)—see section 16.
 road transport legislation—see section 6.
 sold vehicle declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
@@ -146,7 +146,6 @@ total loss, in relation to a vehicle for division 5.3 (Written-off vehicles regi
 tracked vehicle means a vehicle that moves on wheels inside endless tracks.
 Example—tracked vehicle
 bulldozer
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 trader’s plate—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 traffic includes vehicle and pedestrian traffic.
 trailer means a vehicle being towed, or built to be towed, by a motor vehicle, but does not include a motor vehicle being towed.
