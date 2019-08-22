@@ -15,6 +15,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • motor vehicle
 • National Transport Commission
 • ride
+• road
+• road related area
 • road transport authority (or authority) (see s 16)
 • road transport legislation (see s 6)
 • trailer
@@ -36,18 +38,24 @@ garage address, of a vehicle, means—
   (a) if the vehicle is normally kept at a depot or base of operations when not in use—the main depot or base of operations of the vehicle; or
   (b) if the vehicle is normally kept at a place (other than a depot or base of operations) when not in use—the place where the vehicle is normally kept.
 GCM––see gross combination mass.
-gross combination mass (or GCM), of a motor vehicle, means the greatest possible sum of the maximum loaded mass of the motor vehicle and of any vehicles that may lawfully be towed by it at the same time—
-  (a) specified by the manufacturer on an identification plate on the motor vehicle; or
-  (b) if there is no specification by the manufacturer on an identification plate on the motor vehicle or if the specification is not appropriate because the motor vehicle has been modified—certified by the road transport authority.
+gross combination mass (or GCM), of a motor vehicle, means the greatest possible sum of the maximum loaded mass of the motor vehicle and any vehicle that may be towed by the motor vehicle at the same time—
+  (a) stated on the RAV for the motor vehicle; or
+  (b) if the GCM is not stated on the RAV for the motor vehicle—
+    (i) stated by the motor vehicle’s manufacturer on the identification plate on the vehicle; or
+    (ii) if there is no GCM stated on the identification plate or the GCM stated on the plate is not appropriate because the motor vehicle has been modified—certified by the road transport authority.
 gross vehicle mass (or GVM), of a vehicle, means the maximum loaded mass of the vehicle—
-  (a) specified by the manufacturer on an identification plate on the vehicle; or
-  (b) if there is no specification by the manufacturer on an identification plate on the vehicle or if the specification is not appropriate because the vehicle has been modified—certified by the road transport authority.
+  (a) stated on the RAV for the vehicle; or
+  (b) if the GVM is not stated on the RAV for the vehicle—
+    (i) stated by the vehicle’s manufacturer on the identification plate on the vehicle; or
+    (ii) if there is no GVM stated on the identification plate or the GVM stated on the plate is not appropriate because the vehicle has been modified—certified by the road transport authority.
 GVM––see gross vehicle mass.
 heavy vehicle—
   (a) means a motor vehicle or trailer with a GVM more than 4.5t; but
   (b) does not include a light rail vehicle.
+identification plate means a plate approved to be placed on a vehicle, or taken to have been placed on a vehicle, under the Motor Vehicle Standards Act 1989 (Cwlth), section 10 (1) as in force immediately before the repeal of that Act.
 inspect, in relation to a registrable vehicle, includes observe the vehicle’s performance, with or without the use of instrumentation.
 premises means any place.
+RAV means the Register of Approved Vehicles kept under the Road Vehicle Standards Act 2018 (Cwlth), section 14.
 register—see registrable vehicles register.
 registered, for a vehicle, means registered under this Act.
 registered operator means—
@@ -60,15 +68,6 @@ registrable vehicle means—
   (c) any other vehicle prescribed under the regulations for this definition.
 registrable vehicles register (or register) means the registrable vehicles register required to be kept under section 6.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
-road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
-road related area means—
-  (a) an area that divides a road; or
-  (b) a footpath or nature strip adjacent to a road; or
-  (c) an area that is open to the public and is designated for use by cyclists or animals; or
-  (d) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles; or
-  (e) a shoulder of a road; or
-  (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
-but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 trader’s plate means a numberplate issued by the road transport authority to a person engaged in a relevant trade to move unregistered registrable vehicles for short-term purposes.
 unregistered vehicle permit means a permit mentioned in section 7 (d) (Powers of road transport authority).
 vehicle standard—
