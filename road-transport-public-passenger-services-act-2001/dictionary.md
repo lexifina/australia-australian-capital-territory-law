@@ -15,6 +15,8 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • light rail vehicle
 • motor vehicle
 • rail transport operator
+• road
+• road related area
 • road transport authority (or authority) (see s 16)
 • road transport legislation (see s 6)
 • use (in relation to a vehicle)
@@ -67,15 +69,6 @@ rideshare driver—see section 60A.
 rideshare service—see section 60A.
 rideshare vehicle—see section 60A.
 rideshare vehicle licence—see section 60J.
-road means an area that is open to or used by the public and is developed for, or has as 1 of its main uses, the driving or riding of motor vehicles, but does not include an area that would otherwise be a road so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act does not apply to the area.
-road related area means—
-  (a) an area that divides a road; or
-  (b) a footpath or nature strip adjacent to a road; or
-  (c) an area that is open to the public and is designated for use by cyclists or animals; or
-  (d) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles; or
-  (e) a shoulder of a road; or
-  (f) any other area that is open to or used by the public so far as a declaration under the Road Transport (General) Act 1999, section 12 (Power to include or exclude areas in road transport legislation) declares that this Act applies to the area;
-but does not include an area that would otherwise be a road related area so far as a declaration under that section declares that this Act does not apply to the area.
 service contract—
   (a) for part 2 (Bus services)—see section 17; and
   (b) for part 8 (Demand responsive services)—see section 89.
