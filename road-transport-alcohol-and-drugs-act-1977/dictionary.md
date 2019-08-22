@@ -17,7 +17,6 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • jurisdiction
 • light rail vehicle
 • motor vehicle
-personal mobility device
 • ride
 • road
 • road related area
@@ -81,6 +80,7 @@ offence of culpable driving, for a person, means—
 one-way box means a locked box, with a hole capable of receiving containers of blood samples, from which the containers cannot be removed unless the box is unlocked with a key kept by an approved analyst.
 oral fluid analysis, in relation to a person, means an analysis of a sample of the person’s oral fluid carried out for this Act using an oral fluid analysis instrument.
 oral fluid analysis instrument—see section 7C.
+personal mobility device—see the Road Transport (Road Rules) Regulation 2017, section 18A.
 prescribed concentration—
   (a) for a special driver—see section 4C (a); and
   (b) for any other person—see section 4C (b).
@@ -93,9 +93,6 @@ registered operator—see the Road Transport (Vehicle Registration) Act 1999, di
 repeat offender—see section 4F.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.
 restricted licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-road related area—
-  (a) means an area that is a road related area under the Road Transport (General) Act 1999; and
-  (b) includes an area prescribed by regulation as a road related area for this Act.
 sampling facility means a facility prescribed by regulation to which a person may be taken for the purpose of having—
   (a) a blood sample taken by a doctor or nurse for analysis under part 2 (Examination of people for alcohol or drugs); or
   (b) a medical examination under part 2.
