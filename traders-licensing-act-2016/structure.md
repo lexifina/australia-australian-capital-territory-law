@@ -9,4 +9,3 @@
 ## Part 5 Offences
 ## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous
-## Part 20 Transitional
