@@ -11,6 +11,7 @@ base wholesale price, in relation to a specified fuel, means the wholesale price
   (b) the amount per litre included in that price on account of any duty payable by the wholesaler under a law of the Commonwealth.
 commissioner means the commissioner for fair trading.
 determination means a determination by the Minister under section 4 (1).
+discounted fuel price, of a specified fuel, means the price per litre payable on the sale of the fuel by retail after any discount is applied.
 fuel means leaded petrol, unleaded petrol or distillate.
 leaded petrol means petrol other than unleaded petrol.
 price includes a charge of any description.
@@ -20,7 +21,7 @@ regulated transfer means a single consignment of a fuel that is—
   (a) at least 2 000L; and
   (b) delivered to or withdrawn from a place in the Territory under, or because of, an agreement for the sale, purchase or exchange of fuel.
 retail margin, in relation to a specified fuel, means the amount included in the retail price that is equal to the difference between that price and the base wholesale price of that fuel, excluding the amount per litre included in the retail price on account of the freight charges in connection with the supply of that fuel.
-retail price, of a specified fuel, means the price per litre payable on the sale of the fuel by retail.
+retail price, of a specified fuel, means the price per litre payable on the sale of the fuel by retail without any discount applied.
 specified fuel means the fuel that is specified in a recommendation or a determination, as the case requires.
 unleaded petrol means petrol that—
   (a) contains not more than 0.013g of lead per L; and
