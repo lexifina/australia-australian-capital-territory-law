@@ -5,13 +5,13 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • Executive
 • may (see s 146)
 • must (see s 146)
-• person
+• person (see s 60)
 • Territory law.
-barn egg means an egg laid by a hen kept in the conditions described in schedule 1, item 2, column 3.
-cage egg means an egg laid by a hen kept in the conditions described in schedule 1, item 1, column 3.
-code means the Model Code of Practice for the Welfare of Animals: Domestic Poultry, made by the Animal Welfare Committee of the Standing Committee on Agriculture and Resource Management, as in force from time to time.
-egg labelling requirements—see section 5 (What are the egg labelling requirements).
-free-range egg means an egg laid by a hen kept in the conditions described in schedule 1, item 4, column 3.
+aviary eggs means eggs laid by hens kept in conditions stated in the regulation.
+barn eggs means eggs laid by hens kept in conditions stated in the regulation.
+cage eggs means eggs laid by hens kept in conditions stated in the regulation.
+egg labelling requirements—see section 5 (What are the egg labelling requirements?).
+free-range eggs means eggs laid by hens kept in conditions stated in the regulation.
 hen means a domestic fowl (Gallus gallus).
 packaging, for hen eggs, includes any container or wrapper in or by which eggs are completely or partly enclosed, contained or packed.
 sell, for hen eggs, includes—
@@ -24,3 +24,4 @@ sell, for hen eggs, includes—
   (g) dispose of by any method for valuable consideration; or
   (h) dispose of to an agent for sale on consignment; or
   (i) sell for the purpose of resale.
+stocking density, for hens, means the maximum number of hens per hectare that have access to an outdoor range on any day during the laying cycle.
