@@ -1,6 +1,6 @@
 # Schedule 1 Reviewable decisions
 (see pt 8)
-column 1 item | column 2 section | column 3 section | column 4 section
+column 1 item | column 2 section | column 3 decision | column 4 entity
 1 | 27 (1) (a) and 30 | grant or renew licence for period less than 3 years | applicant for licence or renewal
 2 | 27 (1) (b) | refuse to grant or renew licence | applicant for licence or renewal
 3 | 28 (b) | put condition on licence | licensee

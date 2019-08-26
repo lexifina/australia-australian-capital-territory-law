@@ -111,7 +111,6 @@ travelling zoo does not include—
   (b) a zoo (however described) the main purpose of which is to make animals available for contact with members of the public.
 Example—par (b)
 a zoo known as a petting zoo that contains animals such as livestock, poultry and rabbits
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 travelling zoo permit means a travelling zoo permit granted under section 55.
 travelling zoo permit-holder means the holder of a travelling zoo permit.
 vehicle includes a caravan, trailer or vessel.
