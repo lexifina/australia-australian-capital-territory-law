@@ -19,8 +19,13 @@
 ### Division 6.1 Suspension or cancellation of registration or permits to teach
 ### Division 6.2 Other regulatory action
 ### Division 6.3 Disclosure of information
+## Part 6A Professional experience
+### Division 6A.1 Preliminary
+### Division 6A.2 Approval for professional experience
+### Division 6A.3 Pre-service teachers register
 ## Part 7 Accreditation––education programs
 ### Division 7.1 Register of accredited education programs
 ### Division 7.2 Accreditation of education programs
 ## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous
+## Part 16 Transitional—ACT Teacher Quality Institute Amendment Act 2019
