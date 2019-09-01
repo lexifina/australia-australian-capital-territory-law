@@ -208,7 +208,6 @@ interstate officer, for chapter 17 (Care and protection—interstate transfer of
 interstate proceedings transfer order—see section 672 (1).
 in therapeutic protection—see section 572.
 investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate and the ombudsman.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 investigator, for part 8.2 (Responding to behaviour breaches)—see section 291.
 kinship carer, for a child or young person—see section 516 (2).
 licensed childcare service, for chapter 20 (Childcare services)—see section 728 (2).
