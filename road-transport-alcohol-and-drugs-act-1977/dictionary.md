@@ -55,9 +55,6 @@ drive a motor vehicle includes—
   (c) be in, and in charge of, the vehicle; and
   (d) be in control of the steering, movement or propulsion of the vehicle; and
   (e) if the vehicle can be ridden—ride the vehicle.
-driver involved in an accident means a driver of a motor vehicle that is involved in an accident who—
-  (a) appears to be at least 15 years old; and
-  (b) attends, or is admitted to, a hospital for the purpose of examination or treatment as a consequence of the accident.
 driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 driver trainer––see section 4BA.
 drug means—
