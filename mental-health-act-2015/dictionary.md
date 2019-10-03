@@ -106,7 +106,6 @@ non-presidential member, of the ACAT—see the ACT Civil and Administrative Trib
 official visitor—see section 208.
 president, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 presidential member, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
-principal official visitor means the principal official visitor appointed under section 210.
 private psychiatric facility, for chapter 13 (Private psychiatric facilities)—see section 222.
 psychiatric facility means—
   (a) a hospital or other facility conducted by the Territory for the treatment, care, support, rehabilitation or accommodation of people who have a mental illness; or
@@ -150,7 +149,6 @@ treatment, care or support, for a mental disorder or mental illness—
 Examples—rehabilitation support
 1 support to improve social confidence and integration
 2 assistance to improve work skills
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 visitable place—see section 208.
 young detainee—see the Children and Young People Act 2008, section 95.
 young offender—see the Children and Young People Act 2008, dictionary.
