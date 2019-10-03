@@ -241,7 +241,7 @@ occupier, for chapter 23 (Enforcement)—see section 812.
 offence—
   (a) includes an offence against a Commonwealth law; and
   (b) for chapter 23 (Enforcement)—see section 812.
-official visitor means an official visitor for this Act appointed under the Official Visitor Act 2012, section 10 (1) (a).
+official visitor, for a visitable place—see the Official Visitor Act 2012, section 6.
 ongoing review, for division 16.2.5 (Review of therapeutic protection orders)—see section 554 (2).
 operating entity, for a detention place, therapeutic protection place or place of care, means—
   (a) if the Territory operates the place—the director-general; or
