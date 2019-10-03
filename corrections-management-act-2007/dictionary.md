@@ -97,7 +97,7 @@ local leave permit—see section 205.
 mail means postal mail.
 nonsmoking area, at a correctional centre—see section 86.
 offender—see the Crimes (Sentence Administration) Act 2005, dictionary.
-official visitor means an official visitor for this Act appointed under the Official Visitor Act 2012, section 10.
+official visitor means an official visitor for a visitable place under the Official Visitor Act 2012, section 6.
 operating procedure means an operating procedure under section 14.
 ordinary search—see section 107.
 participating State, for part 12.2 (Interstate leave)—see section 206.
