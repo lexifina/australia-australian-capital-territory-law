@@ -90,7 +90,6 @@ Example—precinct
 1 a brick furnace, chimney and adjoining clay quarry
 2 a powerhouse with adjoining railway track and rail yard
 3 a homestead with associated structures, sheds and surrounding property
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 premises includes land.
 public authority, for part 16 (Heritage and public authorities)—see section 106.
 public consultation period—

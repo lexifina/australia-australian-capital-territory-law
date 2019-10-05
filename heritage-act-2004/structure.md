@@ -27,4 +27,3 @@
 ## Part 16 Heritage and public authorities
 ## Part 17 Notification and review of decisions
 ## Part 18 Miscellaneous
-## Part 20 Transitional—Heritage Legislation Amendment Act 2014
