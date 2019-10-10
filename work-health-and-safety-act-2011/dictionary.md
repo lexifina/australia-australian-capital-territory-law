@@ -14,7 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • police officer
 • the Territory
 • working day.
-approved code of practice means a code of practice approved under division 14 2 (Codes of practice).
+approved code of practice means a code of practice approved under division 14.2 (Codes of practice).
 authorised, for part 4 (Authorisations)—see section 40.
 category 1 offence—see section 31.
 category 2 offence—see section 32.
