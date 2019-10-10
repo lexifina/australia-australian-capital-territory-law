@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • appoint
 • Commonwealth
 • Coroner’s Court
+• dentist
 • director-general (see s 163)
 • doctor
 • entity
@@ -18,8 +19,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • in relation to
 • interest
 • make
+• midwife
 • Minister (see s 162)
 • notifiable instrument (see s 10)
+• nurse practitioner
 • penalty unit (see s 133)
 • pharmacist
 • proceeding
@@ -46,10 +49,7 @@ dental technician means a person who does dental technical work and either—
   (b) has—
     (i) completed a course of education or training in dental prosthetic work outside Australia that is accredited by CORA; and
     (ii) passed an exam in dental prosthetic work accredited by CORA.
-dentist, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
 divulge, for part 8 (Secrecy)—see section 121.
-doctor, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
-eligible midwife, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 52.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
@@ -68,13 +68,14 @@ ministerial report, for part 4 (Quality assurance)—section 41.
 negotiating agent, for part 7 (VMO service contracts)—see section 100.
 negotiating period, for part 7 (VMO service contracts)—see section 103 (2).
 practice corporation, for part 7 (VMO service contracts)—see section 100.
+practitioner, for a health facility—see section 52.
 prohibited behaviour, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected area, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected facility, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected information, for part 8 (Secrecy)—see section 123.
 quality assurance committee—see section 24.
 review, in relation to the scope of clinical practice, for part 5 (Reviewing scope of clinical practice)—see section 55.
-scope of clinical practice, of a doctor, dentist or eligible midwife, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 54.
+scope of clinical practice, of a practitioner, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 54.
 scope of clinical practice committee—see section 51.
 scope of clinical practice executive decision notice, for part 5 (Reviewing scope of clinical practice)—see section 70.
 scope of clinical practice report, for part 5 (Reviewing scope of clinical practice)—see section 67.
