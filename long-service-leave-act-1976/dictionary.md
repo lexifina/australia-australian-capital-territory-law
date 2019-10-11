@@ -7,6 +7,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • function
 • month
 • notifiable instrument (see s 10)
+• public employee
 • public holiday
 • public servant
 • reviewable decision notice.
@@ -21,10 +22,14 @@ continuous service, in relation to an employee, includes—
   (b) a period of leave, not exceeding 2 weeks in any 1 year, taken because of illness or injury; and
   (c) a period during which the service of the employee is interrupted or ended by his or her employer with the intention of avoiding the granting of long service leave; and
   (d) for an employee who begins service with an employer within 1 year after the day the employee’s apprenticeship, or an approved training contract, with the employer ends—the period of the apprenticeship or approved training contract.
-employee includes—
-  (a) a person who is remunerated at piecework rates; and
-  (b) a part-time employee; and
-  (c) a casual employee.
+employee—
+  (a) includes—
+    (i) a person who is remunerated at piecework rates; and
+    (ii) a part-time employee; and
+    (iii) a casual employee; but
+  (b) does not include—
+    (i) a public employee; or
+    (ii) a person employed by a member of the Legislative Assembly under the Legislative Assembly (Members’ Staff) Act 1989, section 10.
 ordinary remuneration, in relation to an employee, means the sum of—
   (a) the salary or wages payable to the employee; and
   (b) any allowances payable to the employee in respect of skill, qualifications, board and lodging; and
