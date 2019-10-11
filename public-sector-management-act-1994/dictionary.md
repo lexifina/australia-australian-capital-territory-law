@@ -20,7 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • state
 • statutory office-holder
 • the Territory.
-administrative arrangements means a determination made under see section 14 (1).
+administrative arrangements means a determination made under section 14 (1).
 administrative unit means a unit of the service established under section 13 (1).
 appeal means—
   (a) if an industrial instrument applies to the employee or officer and includes an appeal process—appeal in accordance with the appeal process in the industrial instrument; or
@@ -43,7 +43,7 @@ confirmed officer, for part 6 (Redeployment, underperformance and end of employm
 declaration, of the result of an election, for part 7 (Re-entry to the service)—see section 128.
 director-general means a person engaged as a director-general under section 31 (2).
 election candidate, for part 7 (Re-entry to the service)—see section 128.
-eligible person, for appointment, engagement or employment as a public servant, means a person who—
+eligible person, for appointment, secondment, engagement or employment as a public servant, means a person who—
   (a) satisfies any of the following:
     (i) is an Australian citizen;
     (ii) is a permanent resident of Australia;
@@ -70,7 +70,6 @@ equitable employer means an employer that—
   (b) complies with and models commitment to anti-discrimination legislation.
 Example—par (b)
 including a reasonable adjustment guide in procedures for staff management
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 excess officer includes—
   (a) an officer employed in an administrative unit in which there is a greater number of officers than is necessary for the efficient and economical working of the unit; or
   (b) an officer whose services cannot be effectively used because of—
@@ -102,6 +101,9 @@ officer means a person who is—
   (a) an officer because of the Public Sector Management (Consequential and Transitional Provisions) Act 1994; or
   (b) appointed as an officer under division 5.3 (Appointment of officers) or part 7 (Re-entry to the service).
 part-time office means an office in relation to which a declaration under section 66 is in force.
+permanent resident means—
+  (a) a person who holds a permanent visa for the Migration Act 1958 (Cwlth), section 30; or
+  (b) a New Zealand citizen who holds a special category visa under the Migration Act 1958 (Cwlth), section 32.
 prescribed means prescribed by the management standards.
 principal union, for an office, means the relevant union with the largest number of members in the service occupying positions at the same classification level as the office.
 promotion, in relation to an officer, means a permanent movement of an officer within the service to an office with a higher classification than the office that the officer was appointed to immediately before the promotion.
