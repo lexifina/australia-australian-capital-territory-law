@@ -13,9 +13,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ombudsman
 • reviewable decision notice
 • territory law
-• territory-owned corporation.
+• territory-owned corporation
+• working day.
 access application means an application under section 30 for access to government information.
 agency—see section 15.
+clarification request—see section 34 (3).
 contrary to the public interest information—see section 16.
 decision-maker, for a reviewable decision, for part 8 (Notification and review of decisions)—see section 70.
 decision notice—see section 51 (1).
