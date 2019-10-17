@@ -4,11 +4,14 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
 • chief police officer
+• Corporations Act
 • director-general (see s 163)
+• fail
 • found guilty
 • maximum penalty
 • Minister (see s 162)
 • person
+• public servant
 • reviewable decision notice
 • veterinary practitioner.
 animal means—
@@ -25,24 +28,19 @@ animal ethics committee means—
   (b) in relation to a licence—the animal ethics committee whose functions relate to the licence; and
   (c) in relation to an application for an authorisation—the animal ethics committee to which the application is made; and
   (d) in relation to an authorisation or an authorisation holder—the animal ethics committee that gave the authorisation.
-animal welfare means the health, safety and welfare of—
-  (a) animals in general; or
-  (b) 1 or more animals in particular.
+animal welfare entity—see section 86A.
 approval, for part 6A (Regulatory action)—see section 73A.
 approved code of practice means a code of practice approved under section 22, as in force under this Act.
 approved person, for part 6A (Regulatory action)—see section 73A.
 authorisation means a research authorisation or teaching authorisation.
-authorisation holder means the holder of an authorisation.
+authorisation holder means a person granted a research authorisation or a teaching authorisation under section 38 (1) (a).
 authorised officer means an authorised officer under section 77.
+authorised staff member, of a corporation, for division 4.2 (Authorisations)—see section 37 (2).
 authority means the Animal Welfare Authority under section 5.
 business premises, for division 7.3 (Powers of inspectors)—see section 80.
 circus permit means a circus permit granted under section 55.
-circus permit-holder means the holder of a circus permit.
-commercial trapping permit means a permit granted under section 64 (Decision about trapping permit application) for the purposes of a commercial trapping operation.
-confine, in relation to an animal, includes—
-  (a) pinion, mutilate or maim the animal for the purpose of hindering, impeding or preventing the freedom of movement of the animal; and
-  (b) subject the animal to a device or contrivance for the purpose of hindering, impeding or preventing freedom of movement of the animal; and
-  (c) tether the animal.
+circus permit-holder means a person granted a circus permit under section 55 (1) (a).
+confine, an animal, for part 2 (Animal welfare offences)—see section 6A.
 connected, for part 7 (Enforcement)—see section 74.
 cruelty, in relation to an animal, for pt 2 (Animal welfare offences)—see section 6A.
 defined offence means—
@@ -69,7 +67,7 @@ interstate research authorisation means an authorisation (however described) to 
 interstate researcher means a person who holds an interstate research authorisation.
 licence means a licence granted under section 27.
 licensed premises—see section 27 (Decision about licence application).
-licensee means the holder of a licence.
+licensee means a person granted a licence under section 27 (1) (a).
 mandatory code of practice means a code of practice, or part of a code of practice, approved under section 23 as mandatory.
 native animal—see the Nature Conservation Act 2014, section 12.
 occupier, of premises that an inspector or authorised officer is authorised to enter under part 7, for part 7 (Enforcement)—see section 74.
@@ -88,7 +86,7 @@ person in charge, in relation to an animal, means—
   (c) if a person mentioned in paragraph (b) is acting as the employee or agent of someone else—the other person; or
   (d) if the animal is confined in a saleyard—the occupier of the saleyard.
 pest does not include a domestic animal or native animal.
-poison includes glass or anything else that, if ingested, is likely to kill or injure an animal.
+poison, for part 2 (Animal welfare offences)—see section 6A.
 premises—
   (a) for this Act generally, includes—
     (i) a building or part of a building; and
@@ -96,23 +94,23 @@ premises—
     (iii) land (including water on land) whether or not appurtenant to a building; and
     (iv) a vehicle; and
   (b) in relation to the exercise of an inspector’s powers, for division 7.3 (Powers of inspectors)—see section 80.
-private trapping permit means a permit granted under section 64 (Decision about trapping permit application) for domestic or private purposes.
 prohibited animal, for part 5 (Circuses and travelling zoos)—see section 51.
 prohibited item—see section 14.
 regulatory body, for part 6A (Regulatory action)—see section 73A.
 research authorisation means an authorisation granted under section 38 (Decision about authorisation application) to conduct a program of research in relation to licensed premises.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 107.
-steel-jawed trap means an animal trap fitted with metal jaws, a pressure plate and a spring-operated mechanism, designed so that the metal jaws close against each other when the trap is activated by the application of weight to the pressure plate.
 teaching authorisation means an authorisation granted under section 38 (Decision about authorisation application) to conduct a program of teaching in relation to licensed premises.
-trapping permit means a commercial trapping permit or private trapping permit.
-trapping permit-holder means the holder of a trapping permit.
+trapping permit means a permit granted under section 64 (Decision about trapping permit application) for—
+  (a) domestic or private purposes; or
+  (b) the purposes of a commercial trapping operation.
+trapping permit-holder means a person granted a trapping permit under section 64 (1) (a).
 travelling zoo does not include—
   (a) for a zoo located in the ACT—the display of the zoo’s animals at a place other than the place where the zoo is permanently located; or
   (b) a zoo (however described) the main purpose of which is to make animals available for contact with members of the public.
 Example—par (b)
 a zoo known as a petting zoo that contains animals such as livestock, poultry and rabbits
 travelling zoo permit means a travelling zoo permit granted under section 55.
-travelling zoo permit-holder means the holder of a travelling zoo permit.
+travelling zoo permit-holder means a person granted a travelling zoo permit under section 55 (1) (a).
 vehicle includes a caravan, trailer or vessel.
 veterinary treatment, in relation to an animal, means—
   (a) a medical procedure of a prophylactic or therapeutic nature carried out on the animal by a veterinary practitioner; or

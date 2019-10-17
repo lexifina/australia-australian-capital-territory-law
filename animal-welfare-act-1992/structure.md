@@ -21,6 +21,7 @@
 ### Division 7.4 Powers of authorised officers
 ### Division 7.5 Powers of veterinary practitioners
 ### Division 7.6 Alleviation of suffering—powers of inspectors, authorised officers and veterinary practitioners
+### Division 7.6A Dealing with seized animals
 ### Division 7.7 Consent to entry, reports and search warrants
 ### Division 7.8 Offences in relation to veterinary practitioners
 ### Division 7.9 Compensation for animal injury and death

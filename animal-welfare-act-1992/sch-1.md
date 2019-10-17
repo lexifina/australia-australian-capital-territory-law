@@ -27,5 +27,8 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 24 | 71 (1) | refuse to amend trapping permit | applicant for amendment
 25 | 73D | take regulatory action | approved person against whom action taken
 26 | 73E | suspend approval immediately | approved person whose approval suspended
-27 | 95 (2) (a) | approve claim for compensation for particular amount | claimant for compensation
-28 | 95 (2) (b) | refuse to approve claim for compensation | claimant for compensation
+27 | 86B | condition on accommodation of seized animal | person in charge of animal
+28 | 86C | sell or rehome seized animal | person in charge of animal
+29 | 86E | prohibit animal ownership | person prohibited
+30 | 95 (2) (a) | approve claim for compensation for particular amount | claimant for compensation
+31 | 95 (2) (b) | refuse to approve claim for compensation | claimant for compensation
