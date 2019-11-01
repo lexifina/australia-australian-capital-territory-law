@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ACAT
 • contravene
 • director-general (see s 163)
+• entity
 • Executive
 • fail
 • function
@@ -21,20 +22,28 @@ commercial waste means—
   (b) waste collected and transported in the course of business.
 deposit means the act of parting with possession of litter.
 driver—see the Road Transport (General) Act 1999, dictionary.
-escape, into or onto a public place, includes fall, descend and percolate, and be blown or washed, into or onto the place.
+escape, into or onto a public place or an open private place, includes fall, descend and percolate, and be blown or washed, into or onto the place.
 lake—see the Lakes Act 1976, dictionary.
+level, for a volume of litter—see section 7A.
 litter––see section 7.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 occupier, of premises, includes the person in charge of the premises.
+open private place means—
+  (a) a private place that is situated in or on land and that is not within a building on the land; or
+  (b) a private place that is situated in or on waters.
 public place means—
   (a) a road, road related area or any other unleased Territory land; or
   (b) a place to which the public, or a section of the public, has access, whether by payment or not.
+removal direction—see section 24P (2).
 removal notice, for part 4A (Shopping trolleys)—see section 24C.
 removal notice location, for part 4A (Shopping trolleys)—see section 24C.
+removal direction—see section 24P (2).
+responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10 and section 11.
 retailer, for part 4A (Shopping trolleys)—see section 24C.
 retailer collection notice, for part 4A (Shopping trolleys)—see section 24K (2).
 retailer’s shopping centre precinct, for part 4A (Shopping trolleys)—see section 24C.
-retention area, for part 4A (Shopping trolleys)—see the Uncollected Goods Act 1996, dictionary.
+retention area—see the Uncollected Goods Act 1996, dictionary.
+reviewable decision, for part 4C (Review and appeals)—see section 24W.
 rider—see the Road Transport (General) Act 1999, dictionary.
 road—see the Road Transport (General) Act 1999, dictionary.
 road related area—see the Road Transport (General) Act 1999, dictionary.
@@ -42,6 +51,10 @@ shopping centre, for part 4A (Shopping trolleys)—see section 24C.
 shopping centre precinct, for part 4A (Shopping trolleys)—see section 24C.
 shopping trolley, for part 4A (Shopping trolleys)—see section 24C.
 unleased Territory land includes a waterway.
+vehicle includes a boat or trailer.
+waste—see the Waste Management and Resource Recovery Act 2016, section 10.
+waste collection service—see the Waste Management and Resource Recovery Act 2016, section 63.
+waste facility—see the Waste Management and Resource Recovery Act 2016, section 14.
 waterway means—
   (a) a river, creek, stream or other natural channel in which water flows (whether permanently or intermittently); or
   (b) the stormwater system and any other channel formed (whether in whole or part) by altering or relocating a waterway mentioned in paragraph (a); or
