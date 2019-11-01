@@ -181,7 +181,13 @@ The tenant must take reasonable care of the premises and keep the premises reaso
 Tenant of unit to comply with owners corporation’s rules
 66 If the premises are a unit under the Unit Titles Act 2001, the tenant must comply with the owners corporation’s rules, and with any notice served in accordance with the rules, to the extent that they are not inconsistent with the standard residential tenancy terms in this agreement.
 Tenant must make no alterations and must not add any fixtures or fittings without the consent of lessor
-67 The tenant must not make any additions or alterations to the premises without the written consent of the lessor.
+67 (1) The tenant must not, without the lessor’s written consent, make any renovation, alteration or addition to the premises (time limits for the lessor to refuse consent to special modifications are set out in the Residential Tenancies Act).
+(2) The lessor may give consent subject to a reasonable condition, including a requirement that the tenant use a suitably qualified tradesperson to undertake—
+(a) the renovation, alteration, or addition; and
+(b) any restoration at the end of the tenancy.
+(3) Unless otherwise agreed, the tenant is liable for the cost of any renovation, alteration or addition to the premises.
+(4) Unless otherwise agreed, at the end of the tenancy the tenant is responsible for restoring the premises to substantially the same condition as the premises were in at the commencement of the residential tenancy agreement, fair wear and tear excepted.
+(5) The lessor and tenant may agree that any renovation, alteration or addition to the premises remains in place at the end of the residential tenancy agreement.
 68 (1) The tenant must not add any fixtures or fittings to the premises without the consent of the lessor.
 (2) The lessor’s consent must not be unreasonably withheld.
 (3) The tenant must make good any damage to the premises on removal of any fixtures and fittings.
@@ -205,6 +211,10 @@ Tenant may be responsible for damage or other breach of tenancy agreement by vis
 (a) at the request of the lessor; or
 (b) to assist the lessor perform any of the duties of the lessor under this tenancy agreement (whether at the request of the lessor or the tenant); or
 (c) without the consent of the tenant.
+Keeping animals on premises
+74A (1) The tenant may keep an animal, or allow an animal to be kept, on the premises.
+(2) The residential tenancy agreement may require the tenant to obtain the lessor’s prior written consent to keep an animal, or allow an animal to be kept, on the premises (time limits for the lessor to refuse consent are set out in the Residential Tenancies Act).
+74B The tenant is responsible for any repairs or additional maintenance to the premises required as a consequence of keeping an animal on the premises.
 Lessor’s access to premises
 Lessor cannot enter premises except as provided in tenancy agreement
 75 (1) The lessor must not require access to the premises during the tenancy except as provided by the law, this tenancy agreement, the Residential Tenancies Act, or an order of the tribunal.
@@ -290,8 +300,10 @@ Termination of tenancy without cause
 94 The lessor may serve a notice to vacate during the term of a tenancy requiring the tenant to vacate the premises at the end of the notice provided that—
 (a) the notice is for 26 weeks; and
 (b) the notice does not require the tenant to vacate the premises during a fixed term.
-95 (1) If a tenant is required to vacate the premises in accordance with clause 94, the tenant may vacate the premises at any time during the 2 weeks before the date specified in the notice to vacate provided the tenant gives the lessor 4 days notice of intention to vacate.
-(2) In this case, the tenancy terminates on the date that the tenant vacates the premises.
+95 (1) If the lessor serves a notice on the tenant under clause 94 requiring the tenant to vacate the premises at the end of the notice, the tenant may vacate the premises before that day without breaching the residential tenancy agreement by giving the lessor a notice of intention to vacate—
+(a) if the term of the tenancy ends in less than 2 weeks—at least 4 days before vacating the premises; and
+(b) in any other case—at least 3 weeks before vacating the premises.
+(2) If subclause (1) applies, the tenancy terminates on the day the tenant vacates the premises.
 Termination of periodic tenancy
 96 (1) If there is a periodic tenancy, the lessor may serve on the tenant a notice to vacate for the following periods on the following grounds:
 (a) 4 weeks notice if the lessor genuinely intends to live in the premises;
@@ -299,6 +311,7 @@ Termination of periodic tenancy
 (c) 4 weeks notice if the lessor genuinely believes an interested person intends to live in the premises;
 (d) 8 weeks notice if the lessor genuinely intends to sell the premises;
 (e) 12 weeks notice if the lessor genuinely intends to reconstruct, renovate or make major repairs to the premises and the reconstruction, renovation or repairs cannot reasonably be carried out with the tenant living in the premises.
+(1A) If the lessor serves a notice to vacate on the ground of an intention or belief mentioned in subclause (1) (a), (b) or (c), the lessor must also give the tenant a statutory declaration about the intention or belief.
 (2) In this clause:
 immediate relative means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
 interested person, for a lessor, means a person who is not an immediate relative of the lessor but who has a close family or personal relationship with the lessor and who has a reasonable expectation arising from that relationship that the lessor would provide accommodation for that person.

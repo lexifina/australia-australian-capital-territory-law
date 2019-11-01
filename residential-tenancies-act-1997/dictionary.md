@@ -20,6 +20,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • Executive
 • expire
 • fail
+• health practitioner
 • housing commissioner
 • individual
 • in relation to
@@ -35,6 +36,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • public holiday
 • sign
 • statutory instrument
+• territory law
 • under
 • working day.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
@@ -63,6 +65,7 @@ grantor—see section 71A.
 inaccurate, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 lessor—see section 5.
 list, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
+minor modification, to premises under a residential tenancy agreement, for part 5AA—see section 71AA.
 mobile home means a dwelling (whether on wheels or not) that can be transferred from place to place and re-erected.
 mobile home park means land lawfully used for the purpose of accommodating mobile homes or caravans, and includes a caravan park or camping ground.
 occupancy agreement—see section 71C.
@@ -84,12 +87,13 @@ rental bond, for a residential tenancy agreement, for part 7 (Residential tenanc
 residential tenancy agreement—see section 6A.
 residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 respondent, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85 (1).
+special modification, to premises under a residential tenancy agreement, for part 5AA—see section 71AA.
 standard guarantee contract—see section 102.
 standard occupancy terms means the standard occupancy terms (if any) prescribed by regulation.
 standard residential tenancy terms means the terms mentioned in schedule 1.
 tenancy dispute—see section 72.
 tenant—see section 6.
-termination and possession order means an order of the tribunal terminating a residential tenancy agreement and granting vacant possession of the relevant premises to the applicant for the order.
+termination and possession order means an order of the tribunal terminating a residential tenancy agreement and granting vacant possession of the relevant premises to the lessor.
 termination notice means a notice in the form approved under section 133 (Approved forms—Minister) served on the lessor or tenant giving notice of the intention of the tenant or lessor to terminate the residential tenancy agreement.
 tribunal, for schedule 1, means the ACAT.
 trust account means the trust bank account maintained by the director-general of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.

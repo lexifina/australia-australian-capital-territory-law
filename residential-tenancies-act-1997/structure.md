@@ -19,6 +19,7 @@
 ### Division 4.6 Abandonment of premises
 ### Division 4.7 Miscellaneous
 ## Part 5 Rental rate increases
+## Part 5AA Lessor’s consent in certain matters
 ## Part 5A Occupancy agreements
 ## Part 6 Resolution of residential tenancy and occupancy disputes
 ### Division 6.1 Important concepts
