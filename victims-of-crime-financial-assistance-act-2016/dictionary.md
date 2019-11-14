@@ -119,12 +119,12 @@ reviewable decision, for part 9 (Notification and review of decisions)—see sec
 RT (S and TM) Act, for schedule 1 (Offences—act of violence)—see schedule 1, section 1.1.
 schedule 1 offence means—
   (a) an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3 of an Act mentioned in the item, column 2; and
-  (b) if the victim of an offence is a relevant person in relation to the person who carried out the offence—an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.2 (Domestic violence offences), column 3 of an Act mentioned in the item, column 2.
+  (b) if the victim of an offence is a relevant person in relation to the person who carried out the offence—an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.2 (Domestic violence offences), column 3 of an Act mentioned in the item, column 2.
 sexual offence means an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3, item 2, 3 or 4.
 very serious injury means an injury that results in at least 1 of the following:
   (a) a physical bodily impairment that is very serious;
   (b) a disfigurement that is very serious;
   (c) a mental illness or mental disorder that is very serious;
-  (d) the death of a foetus.
+  (d) the death of a fetus.
 victims services scheme means the victims service scheme established under the Victims of Crime Act 1994, section 19.
 workers’ compensation law means the Workers Compensation Act 1951, or any other law applying in the ACT that provides for the payment of compensation for injuries arising out of or in the course of employment.
