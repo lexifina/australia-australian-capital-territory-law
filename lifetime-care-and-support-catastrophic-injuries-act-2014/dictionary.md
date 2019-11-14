@@ -46,7 +46,6 @@ Examples
 • nursing
 • home maintenance
 • domestic services
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 bulk billing arrangements, for part 9 (Payments to hospitals, doctors and others)—see section 68.
 claim, in relation to an injury, means—
   (a) for a motor accident injury—a motor accident claim; or
@@ -90,6 +89,7 @@ present value of the LTCS commissioner’s treatment and care liabilities, for d
 principal claims assessor, for division 7.2 (Disputes about injuries)—see section 45.
 required fund contribution for motor accident injuries, for division 10.1 (Funding the LTCS scheme)—see section 83 (1).
 required fund contribution for work injuries, for division 10.1 (Funding the LTCS scheme)—see section 83 (2).
+returns, in relation to an investment, for division 10.1 (Funding the LTCS scheme)—see section 72.
 treatment and care assessor, for division 7.3 (Disputes about treatment and care needs assessments)—see section 54.
 treatment and care needs, of a participant in the LTCS scheme—see section 9.
 treatment and care needs assessment means an assessment under part 5 (Treatment and care needs assessment) of the treatment and care needs of a participant in relation to the participant’s motor accident injury.
