@@ -19,9 +19,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • Supreme Court.
 Aboriginal or Torres Strait Islander child or young person means a child or young person at least 1 of whose parents is a person who—
-  (a) is descended from an Aborigine or Torres Strait Islander; and
-  (b) identifies as an Aborigine or Torres Strait Islander; and
-  (c) is accepted as an Aborigine or Torres Strait Islander by an Aboriginal or Torres Strait Islander community.
+  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
+  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
+  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
 adoption compliance certificate means—
   (a) in division 4A.2—a certification (however described) issued in accordance with the Convention, article 23; or
   (b) in division 4A.3—a document issued in accordance with the Commonwealth Bilateral Arrangements Regulations.
@@ -73,8 +73,8 @@ relative, of a child or young person, means a grandparent, brother, sister, uncl
 relevant administrative unit means the administrative unit that is the responsibility of the Minister for the time being administering this Act.
 relevant authority, for part 5 (Access to information)—see section 58.
 responsible person, in relation to an Aboriginal or Torres Strait Islander child or young person, means—
-  (a) a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the child or young person is a member, has responsibility for, or an interest in, the wellbeing of the child or young person; or
-  (b) if the child or young person is not in the custody of any person or is in the custody of a person who is not either a parent of the child or young person or a member of an Aboriginal or Torres Strait Island community—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which a parent of the child or young person is or was a member, has responsibility for, or an interest in, the wellbeing of the child or young person.
+  (a) a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Islander community of which the child or young person is a member, has responsibility for, or an interest in, the wellbeing of the child or young person; or
+  (b) if the child or young person is not in the custody of any person or is in the custody of a person who is not either a parent of the child or young person or a member of an Aboriginal or Torres Strait Islander community—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Islander community of which a parent of the child or young person is or was a member, has responsibility for, or an interest in, the wellbeing of the child or young person.
 reunion information register means the register established under section 80.
 reviewable decision, for part 7A (Notification and review of decisions)—see section 102.
 service means the adoption information service maintained under section 77.
