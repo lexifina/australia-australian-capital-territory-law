@@ -14,9 +14,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 appropriation—see the Financial Management Act, dictionary.
 directorate—see the Financial Management Act, dictionary.
 Financial Management Act means the Financial Management Act 1996.
-interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
-prescribed means prescribed by a superannuation management guideline.
+returns, in relation to an investment—see the Financial Management Act 1996, dictionary.
 securities—see the Financial Management Act, dictionary.
 superannuation appropriation means an appropriation to the superannuation directorate declared by the Act by which it is made to be for superannuation, and includes—
   (a) an appropriation made before 1 July 2000 to—
