@@ -75,7 +75,7 @@ inquest means an inquest concerning the death of a person.
 inquiry means an inquiry concerning a disaster or fire.
 member of the immediate family, for a deceased person the subject of an inquest, means—
   (a) a person who was the domestic partner of the deceased person, or a parent, grandparent, child, brother or sister, or guardian or ward, of the deceased person; and
-  (b) if the deceased person was an Aboriginal or Torres Strait Islander person—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Island community of which the deceased person was a member, had the responsibility for, or an interest in, the welfare of the deceased person.
+  (b) if the deceased person was an Aboriginal or Torres Strait Islander person—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Islander community of which the deceased person was a member, had the responsibility for, or an interest in, the welfare of the deceased person.
 Note For the meaning of domestic partner, see the Legislation Act, s 169.
 mental health officer—see the Mental Health Act 2015, dictionary.
 place includes a vehicle, a vessel or an aircraft.
