@@ -83,7 +83,6 @@ Examples
 • launch a boat
 • anchor a boat
 • moor a boat
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
   (c) for part 4 (Use of a lake)—see section 13.
 owner, of a boat, includes a person who—
   (a) is registered as an owner of the boat in a certificate of registry or in a certificate or unique identifier issued for the boat under a law of a State or of the Commonwealth; and
