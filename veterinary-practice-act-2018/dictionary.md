@@ -41,11 +41,6 @@ declared professional body means an entity declared by the Minister under sectio
 deemed registration—see section 34.
 deputy president means the person elected deputy president under section 95 (2).
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
-exempt entity means any of the following:
-  (a) a corporation or entity whose principal business is the supply of goods or materials used in connection with agriculture that also provides veterinary services at the same place the goods and materials are supplied;
-  (b) a government agency;
-  (c) a charitable organisation that provides veterinary services;
-  (d) a person prescribed by regulation.
 general registration means registration as a veterinary practitioner permitted to carry out a restricted act of veterinary science other than an act that requires specialist registration.
 ground for occupational discipline, in relation to a veterinary practitioner—see section 64.
 immediate action, in relation to a registered veterinary practitioner, for subdivision 5.3.1 (Immediate action)—see section 51.
