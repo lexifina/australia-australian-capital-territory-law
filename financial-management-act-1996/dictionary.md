@@ -69,7 +69,6 @@ governing board, for a territory authority, means the governing board establishe
 governing board member, for a territory authority with a governing board for part 9 (Governance of territory authorities)—see section 72.
 handover day, for division 9.7 (Additional provisions for restructuring of certain territory authorities)—see section 121.
 input tax credit—see the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth), section 195-1 (Dictionary).
-interest includes a dividend and any other financial return on a deposit, loan or other investment.
 invest includes enter into a transaction or arrangement for the protection or enhancement of investments.
 material interest, for part 9 (Governance of territory authorities)—see section 88 (4).
 memorandum of understanding includes a memorandum of understanding whether or not its term extends for 1 or more years.
@@ -84,7 +83,7 @@ public money means all money received by the Territory, including the proceeds o
   (e) money received by the Territory from a territory authority for investment for the authority; or
   (f) money received by the Territory—
     (i) in repayment of an investment made by the Territory for a territory authority; or
-    (ii) as interest on such an investment.
+    (ii) as returns on such an investment.
 public trading enterprise sector means those organisations whose primary function is to provide goods and services that are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
 relevant territory authority, for part 9 (Governance of territory authorities)—see section 72.
 responsible director-general, in relation to a directorate, means—
@@ -95,6 +94,7 @@ responsible Minister means—
   (b) in relation to a directorate that is constituted by a group of 2 or more administrative units—the Minister prescribed as the responsible Minister in relation to the directorate; and
   (c) in relation to a territory authority—the Minister administering the Act under which the authority is established; and
   (d) in relation to a territory-owned corporation—the Minister administering the Territory-owned Corporations Act 1990.
+returns, in relation to an investment, includes interest, dividends, capital gains, distributions and any other financial return on the investment.
 securities includes stocks, debentures, notes, bonds, promissory notes, bills of exchange, and any other securities approved in writing by the Treasurer.
 statement of intent, for a territory authority—see section 61 (1).
 subsidiary—see the Territory-owned Corporations Act 1990, dictionary.
