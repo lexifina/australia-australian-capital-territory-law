@@ -67,6 +67,7 @@ controlled native species management plan, for a controlled native species—see
 critical habitat, for a species or ecological community, means a habitat that is critical to the survival of the species or ecological community.
 critically endangered ecological community means an ecological community included in the critically endangered category in the threatened ecological communities list.
 critically endangered species means a species included in the critically endangered category in the threatened native species list.
+cultural resource management plan—see section 168A.
 custodian, for an area of land—see the Planning and Development Act 2007, section 333 (What is a custodian?).
 Note Custodian only applies to land that is unleased land or public land.
 damage—
@@ -98,6 +99,7 @@ Examples—purpose
 • gift
 financial assurance condition, on a licence—see section 278.
 financial assurance considerations—see section 279.
+fisheries management plan—see the Fisheries Act 2000, section 5.
 genetic resources, for part 8.5 (Access to biological resources in reserves)—see section 205.
 ground for regulatory action, against a licensee—see section 297.
 habitat means an area—

@@ -33,6 +33,7 @@
 ### Division 6.1.4 Exceptions to offences
 ## Part 6.2 Other matters
 # Chapter 7 Controlled native species management plans
+# Chapter 7A Cultural resource management plan
 # Chapter 8 Reserves—management planning
 ## Part 8.1 Definitions
 ## Part 8.2 IUCN categories for reserves
