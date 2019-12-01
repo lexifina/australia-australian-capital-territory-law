@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • found guilty
 • home address
 • individual
+• integrity commissioner
 • Magistrates Court
 • penalty unit (see s 133)
 • reviewable decision notice
