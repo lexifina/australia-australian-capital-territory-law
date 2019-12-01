@@ -9,6 +9,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • found guilty
 • function
 • in relation to
+• integrity commission
+• integrity commissioner
 • Legislative Assembly
 • Minister (see s 162)
 • police officer
@@ -18,19 +20,22 @@ assumed name, for an operative—see section 12 (1) (a) (i).
 Australian Crime Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth).
 chief officer means—
   (a) in relation to the Australian Federal Police—the chief police officer; and
-  (b) in relation to the Australian Crime Commission—the chief executive officer of the Australian Crime Commission.
+  (b) in relation to the Australian Crime Commission—the chief executive officer of the Australian Crime Commission; and
+  (c) in relation to the integrity commission––the integrity commissioner.
 conduct includes an act or omission.
 corresponding law means a law of another jurisdiction that corresponds to the provisions of this Act, and includes a law of another jurisdiction that is declared by regulation to correspond to this Act.
+corrupt conduct—see the Integrity Commission Act 2018, dictionary.
 court includes a tribunal or person authorised to receive evidence by law or consent of parties to a proceeding.
 court name, for an operative in relation to a relevant proceeding, means a code or name, other than the operative’s real name, used to identify the operative in the proceeding.
 criminal activity means conduct that involves the commission of an offence by 1 or more people.
 investigation—
-  (a) means an investigation in relation to criminal activity; and
+  (a) means an investigation in relation to criminal activity or corrupt conduct; and
   (b) includes an investigation extending beyond the ACT.
 jurisdiction means the Commonwealth or a State or Territory of the Commonwealth.
 law enforcement agency means—
   (a) the Australian Federal Police; or
-  (b) the Australian Crime Commission.
+  (b) the Australian Crime Commission; or
+  (c) the integrity commission.
 operative means a person who is, or was—
   (a) authorised to acquire and use an assumed identity under the Crimes (Assumed Identities) Act 2009; or
   (b) a participant in an authorised operation under the Crimes (Controlled Operations) Act 2008.
