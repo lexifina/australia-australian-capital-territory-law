@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • human rights commission
 • human rights commissioner
 • in relation to
+• integrity commissioner
 • intersex person (see s 169B)
 • legal aid commission
 • public advocate
