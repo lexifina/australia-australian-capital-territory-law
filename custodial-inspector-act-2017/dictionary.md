@@ -12,6 +12,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Executive
 • function
 • human rights commissioner
+• integrity commission
+• integrity commissioner
 • Legislative Assembly
 • Minister (see s 162)
 • official visitor
