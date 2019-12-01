@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • exercise
 • found guilty
 • function
+• integrity commission
 • Minister (see s 162)
 • public servant
 • under.
