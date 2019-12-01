@@ -7,6 +7,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • coroner
 • function
 • in relation to
+• integrity commission
+• integrity commissioner
 • judge
 • Legislative Assembly
 • magistrate
@@ -16,11 +18,13 @@ applicant, for a warrant, means the law enforcement officer who applies, or on w
 Australian Crime Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth).
 chief officer means—
   (a) in relation to the Australian Federal Police—the chief police officer; and
-  (b) in relation to the Australian Crime Commission—the chief executive officer of the Australian Crime Commission.
+  (b) in relation to the Australian Crime Commission—the chief executive officer of the Australian Crime Commission; and
+  (c) in relation to the integrity commission—the integrity commissioner.
 computer means an electronic device for storing or processing information.
 corresponding emergency authorisation means an authorisation given under the provisions of a corresponding law that correspond to part 3 (Emergency authorisations).
 corresponding law means a law of another jurisdiction that corresponds to this Act, and includes a law of another jurisdiction that is declared by regulation to correspond to this Act.
 corresponding warrant means a warrant issued under the provisions of a corresponding law that correspond to part 2 (Warrants).
+corrupt conduct—see the Integrity Commission Act 2018, dictionary.
 data surveillance device—
   (a) means a device or program capable of being used to record or monitor the input of information into or the output of information from a computer; but
   (b) does not include an optical surveillance device.
@@ -33,11 +37,13 @@ judge includes the associate judge.
 jurisdiction means a State or Territory of the Commonwealth.
 law enforcement agency means—
   (a) the Australian Federal Police; or
-  (b) the Australian Crime Commission.
+  (b) the Australian Crime Commission; or
+  (c) the integrity commission.
 law enforcement officer—
   (a) means—
     (i) a police officer; or
-    (ii) a member of staff of the Australian Crime Commission; and
+    (ii) a member of staff of the Australian Crime Commission; or
+    (iii) an investigator under the Integrity Commission Act 2018; and
   (b) includes a person who is seconded to a law enforcement agency, including (but not limited to) a member of the police force or police service, and a police officer (however described), of another jurisdiction.
 listening device—
   (a) means a device capable of being used to overhear, record, monitor or listen to a conversation or words spoken to or by any person in conversation; but
@@ -73,14 +79,15 @@ relevant proceeding means any of the following:
   (c) a proceeding for the protection of a child or intellectually impaired person;
   (d) a proceeding concerning the validity of a warrant, emergency authorisation, corresponding warrant or corresponding emergency authorisation;
   (e) a disciplinary proceeding against a public officer;
-  (f) a coronial inquest or inquiry if, in the opinion of the coroner, the event that is the subject of the inquest or inquiry may have resulted from the commission of a relevant offence;
-  (g) a proceeding under the Mutual Assistance in Criminal Matters Act 1987 (Cwlth), section 13 in relation to a criminal matter that concerns an offence—
+  (f) an examination before the integrity commission;
+  (g) a coronial inquest or inquiry if, in the opinion of the coroner, the event that is the subject of the inquest or inquiry may have resulted from the commission of a relevant offence;
+  (h) a proceeding under the Mutual Assistance in Criminal Matters Act 1987 (Cwlth), section 13 in relation to a criminal matter that concerns an offence—
     (i) against the laws of the foreign country that made the request resulting in the proceeding; and
     (ii) punishable by imprisonment of 3 years or more.
-  (h) a proceeding for the taking of evidence under the Extradition Act 1988 (Cwlth), section 43 to the extent that the proceeding relates to a relevant offence;
-  (i) a proceeding for the extradition of a person from another jurisdiction to the ACT, to the extent that the proceeding relates to a relevant offence;
-  (j) a proceeding under the International War Crimes Tribunals Act 1995 (Cwlth), part 4.1;
-  (k) a proceeding of the International Criminal Court.
+  (i) a proceeding for the taking of evidence under the Extradition Act 1988 (Cwlth), section 43 to the extent that the proceeding relates to a relevant offence;
+  (j) a proceeding for the extradition of a person from another jurisdiction to the ACT, to the extent that the proceeding relates to a relevant offence;
+  (k) a proceeding under the International War Crimes Tribunals Act 1995 (Cwlth), part 4.1;
+  (l) a proceeding of the International Criminal Court.
 remote application for a warrant, means an application mentioned in section 12 or section 20.
 report, of a conversation or activity, includes a report of the substance, meaning or purport of the conversation or activity.
 retrieval warrant means a warrant issued under division 2.3 (Retrieval warrants).
