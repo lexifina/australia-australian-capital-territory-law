@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • director-general (see s 163)
 • doctor
 • health practitioner
+• integrity commissioner
 • Minister (see s 162)
 • notifiable instrument (see s 10)
 • nurse
@@ -40,15 +41,15 @@ accredited person, in relation to a patient, means each of the following:
   (f) the health services commissioner;
   (g) the human rights commissioner;
   (h) the public advocate;
-  (i) a police officer acting in a professional capacity;
-  (j) a member of the Commonwealth Parliament;
-  (k) a member of the Legislative Assembly;
-  (l) a person prescribed by regulation.
+  (i) the integrity commissioner;
+  (j) a police officer acting in a professional capacity;
+  (k) a member of the Commonwealth Parliament;
+  (l) a member of the Legislative Assembly;
+  (m) a person prescribed by regulation.
 authorised health practitioner means a health practitioner providing care or treatment for patients who is authorised by the director-general for this Act.
 Examples—health practitioner
 • nurse
 • nurse practitioner
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 authorised person means a person appointed under section 69.
 child—see the Children and Young People Act 2008, section 11.
 contact, between a patient and another person—see section 14.
