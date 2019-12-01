@@ -6,12 +6,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • auditor-general
 • entity
 • head of service
+• integrity commissioner
 • Legislative Assembly
 • Minister (see s 162)
 • Office of the Legislative Assembly
 • officer of the Assembly
 • ombudsman
-• public sector standards commissioner
 • public service
 • statutory office-holder
 • Supreme Court
