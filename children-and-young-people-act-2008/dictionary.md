@@ -28,6 +28,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • individual
 • information privacy commissioner
 • in relation to
+• integrity commission
+• integrity commissioner
 • intersex person (see s 169B)
 • judge
 • lawyer
@@ -207,7 +209,7 @@ interstate leave permit—see section 242 (1).
 interstate officer, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 642 (1).
 interstate proceedings transfer order—see section 672 (1).
 in therapeutic protection—see section 572.
-investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate and the ombudsman.
+investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate, the ombudsman and the integrity commission.
 investigator, for part 8.2 (Responding to behaviour breaches)—see section 291.
 kinship carer, for a child or young person—see section 516 (2).
 licensed childcare service, for chapter 20 (Childcare services)—see section 728 (2).
