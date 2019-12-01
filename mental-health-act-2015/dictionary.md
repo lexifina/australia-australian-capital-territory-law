@@ -14,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • doctor
 • domestic partner (see s 169 (1))
 • expire
+• integrity commission
 • lawyer
 • Magistrates Court
 • nurse
