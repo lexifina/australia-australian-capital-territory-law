@@ -11,6 +11,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • DPP
 • home address
 • human rights commission
+• integrity commission
 • Magistrates Court
 • Minister (see s 162)
 • ombudsman
