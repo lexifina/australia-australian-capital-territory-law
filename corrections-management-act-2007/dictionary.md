@@ -13,6 +13,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • health practitioner
 • human rights commissioner
 • in relation to
+• integrity commission
+• integrity commissioner
 • intersex person (see s 169B)
 • judge
 • Legislative Assembly
@@ -114,7 +116,15 @@ presiding officer—
 privilege, in relation to a detainee—see section 154.
 prohibited area, at a correctional centre—see section 85.
 prohibited thing means a thing declared to be a prohibited thing under section 81.
-protected mail—see section 104 (4).
+protected mail means mail between a detainee and any of the following:
+  (a) a lawyer representing the detainee;
+  (b) an official visitor;
+  (c) the inspector of correctional services;
+  (d) the human rights commissioner;
+  (e) the public advocate;
+  (f) the ombudsman;
+  (g) the integrity commissioner;
+  (h) a person prescribed by regulation.
 register of detainees means the register kept under section 76.
 relevant presiding officer, for division 10.3.5 (Disciplinary action)—see section 182.
 remandee—see the Crimes (Sentence Administration) Act 2005, dictionary.
