@@ -11,6 +11,7 @@
 ## Part 4.1 General principles
 ## Part 4.2 Pre-sentence reports
 ## Part 4.2A Intensive correction assessments
+## Part 4.2B Drug and alcohol treatment assessments
 ## Part 4.3 Victim impact statements
 ## Part 4.4 Taking additional offences into account
 ## Part 4.5 Correction and adjustment of penalties
@@ -23,6 +24,16 @@
 ### Division 5.4.1 Intensive correction orders—eligibility and suitability
 ### Division 5.4.2 Intensive correction orders—community service conditions
 ### Division 5.4.3 Intensive correction orders—rehabilitation program conditions
+## Part 5.4A Drug and alcohol treatment orders
+### Division 5.4A.1 Preliminary
+### Division 5.4A.2 Drug and alcohol treatment orders—general
+### Division 5.4A.3 Drug and alcohol treatment orders—eligibility and suitability
+### Division 5.4A.4 Drug and alcohol treatment orders—content
+### Division 5.4A.5 Drug and alcohol treatment orders—custodial part
+### Division 5.4A.6 Drug and alcohol treatment orders—treatment and supervision part
+### Division 5.4A.7 Drug and alcohol treatment orders—breaches
+### Division 5.4A.8 Drug and alcohol treatment orders—review by court
+### Division 5.4A.9 Drug and alcohol treatment orders—miscellaneous
 ## Part 5.5 Imprisonment—explanation and information
 # Chapter 6 Good behaviour orders
 ## Part 6.1 Good behaviour orders—community service conditions

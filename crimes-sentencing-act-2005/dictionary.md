@@ -28,7 +28,8 @@ accommodation order—see section 133Y.
 additional offence, for part 4.4 (Taking additional offences into account)—see section 55.
 assessor—
   (a) for part 4.2 (Pre-sentence reports)—see section 39A; and
-  (b) for part 4.2A (Intensive correction assessments)—see section 46A.
+  (b) for part 4.2A (Intensive correction assessments)—see section 46A; and
+  (c) for part 4.2B (Drug and alcohol treatment assessments)—see section 46H.
 at, in relation to a correctional centre or detention place, includes in the correctional centre or detention place.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
@@ -38,16 +39,22 @@ community service condition—
   (b) of an intensive correction order for an offender, for division 5.4.2 (Intensive correction orders—community service conditions)—see section 80A.
 community service work—see the Crimes (Sentence Administration) Act 2005, section 316.
 controlled drug means a controlled drug under the Criminal Code, chapter 6 (Serious drug offences).
+core conditions, of a treatment order, for part 5.4A (Drug and alcohol treatment orders)—see section 80Y.
 correctional centre means—
   (a) a correctional centre under the Corrections Management Act 2007; or
   (b) a NSW correctional centre.
 corrections officer—see the Corrections Management Act 2007, section 20.
-court—if a court has sentenced an offender, made an order or given a direction, means the same court, however constituted.
+court means—
+  (a) for this Act generally, if a court has sentenced an offender, made an order or given a direction—the same court, however constituted; and
+  (b) for part 4.2B (Drug and alcohol treatment assessments) and part 5.4A (Drug and alcohol treatment orders)—the Supreme Court.
+custodial part, of a treatment order—see section 80W.
 CYP director-general means the director-general responsible for the Children and Young People Act 2008.
 deferred sentence obligations, for an offender—see section 120.
 deferred sentence order—see section 27 (2).
 detention place means a detention place under the Children and Young People Act 2008.
 driver licence disqualification order—see section 16 (2).
+drug and alcohol treatment assessment—see section 46J.
+drug and alcohol treatment order—see section 12A.
 education and training condition—see section 133N.
 existing sentence, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see section 70 (1).
 family violence offence—see the Family Violence Act 2016, dictionary.
@@ -55,10 +62,14 @@ fine, for part 5.3 (Imprisonment—concurrent and consecutive sentences)—see s
 fine order—see section 14 (2).
 good behaviour order—see section 13 (2).
 harm, for part 4.3 (Victim impact statements)—see section 47.
+health director-general means the director-general responsible for the Health Records (Privacy and Access) Act 1997.
 intensive correction means intensive correction in the community under an intensive correction order.
 intensive correction assessment means an assessment prepared under part 4.2A by the director-general about whether an intensive correction order is suitable for an offender.
 intensive correction order—see section 11.
 list of additional offences, for part 4.4 (Taking additional offences into account)—see section 55.
+member—
+  (a) in relation to the treatment and supervision team, for part 5.4A (Drug and alcohol treatment orders)—see section 80M; and
+  (b) in relation to the treatment order team, for part 5.4A (Drug and alcohol treatment orders)—see section 80M.
 non-association order—see section 21.
 non-conviction order—see section 17 (2).
 nonparole period, for a sentence of imprisonment—
@@ -102,6 +113,13 @@ supervision condition—see section 133U.
 surety, for a good behaviour order for an offender, means a person other than the offender who gives security for complying with the order.
 suspended sentence order—see section 12 (2).
 term—if the term of a sentence is amended under the Crimes (Sentence Administration) Act 2005, the term of the sentence as amended.
+treatment and supervision part, of a treatment order—see section 80X.
+treatment and supervision team, for part 5.4A (Drug and alcohol treatment orders)—see section 80M.
+treatment order, means a drug and alcohol treatment order.
+treatment order obligations, of an offender subject to a treatment order, for part 5.4A (Drug and alcohol treatment orders)—see section 80P.
+treatment order team, for part 5.4A (Drug and alcohol treatment orders)—see section 80M.
+treatment program, for part 5.4A (Drug and alcohol treatment orders)—see section 80Z.
+treatment program conditions, of a treatment order, for part 5.4A (Drug and alcohol treatment orders)—see section 80Z.
 victim, of an offence, for part 4.3 (Victim impact statements)—see section 47.
 victim impact statement, for an offence, for part 4.3 (Victim impact statements)—see section 47.
 young offender—see section 133B.
