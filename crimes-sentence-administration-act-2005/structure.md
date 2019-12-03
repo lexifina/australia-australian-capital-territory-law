@@ -21,6 +21,11 @@
 ## Part 5.7 Intensive correction orders—amendment or discharge
 ## Part 5.8 Intensive correction orders—reporting and records
 ## Part 5.9 Intensive correction orders—miscellaneous
+# Chapter 5A Drug and alcohol treatment orders
+## Part 5A.1 Preliminary
+## Part 5A.2 Drug and alcohol treatment orders—undertaking treatment
+## Part 5A.3 Drug and alcohol treatment orders—effect of cancellation
+## Part 5A.4 Drug and alcohol treatment orders—reporting and records
 # Chapter 6 Good behaviour orders
 ## Part 6.1 Undertaking good behaviour
 ## Part 6.2 Good behaviour—community service work

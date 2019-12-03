@@ -70,6 +70,7 @@ default notice, for chapter 6A (Court imposed fines)––see section 116A.
 deputy chair means a deputy chair of the board.
 designated authority, for a State or another Territory, for part 7.6 (Interstate transfer of parole orders)—see section 162.
 drug—see the Corrections Management Act 2007, section 132.
+drug and alcohol treatment order—see the Crimes (Sentencing) Act 2005, section 12A.
 earnings redirection order, for chapter 6A (Court imposed fines)––see section 116Y (2).
 enforcement officer, for chapter 6A (Court imposed fines)––see section 116A.
 engage in conduct means—
