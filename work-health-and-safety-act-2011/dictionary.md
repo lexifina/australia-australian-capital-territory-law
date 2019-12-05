@@ -14,18 +14,21 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • police officer
 • the Territory
 • working day.
+appointed member, of the council, for schedule 2, division 2.1.2 (Constitution and meetings)—see section 2.3A.
 approved code of practice means a code of practice approved under division 14.2 (Codes of practice).
 authorised, for part 4 (Authorisations)—see section 40.
 category 1 offence—see section 31.
 category 2 offence—see section 32.
 category 3 offence—see section 33.
 cease work under this division, for division 5.6 (Right to cease or direct cessation of unsafe work)—see section 83.
+commissioner—see work health and safety commissioner.
+compliance and enforcement policy, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.37.
 compliance powers means the functions and powers conferred on an inspector under this Act.
 condition includes limitation and restriction.
 construct includes assemble, erect, reconstruct, reassemble and re-erect.
 corresponding regulator means the holder of a public office, or a public authority, of the Commonwealth, or of a State, who or which is responsible for administering a corresponding WHS law.
 corresponding WHS law means a law prescribed by regulation as a corresponding WHS law.
-council means the Work Safety Council established under schedule 2, section 2.1.
+council means the Work Health and Safety Council established under schedule 2, section 2.1.
 dangerous incident, for part 3 (Incident notification)—see section 37.
 demolition includes deconstruction.
 design, in relation to plant, a substance or a structure includes—
@@ -87,8 +90,12 @@ representative, in relation to a worker, means—
   (c) any other person the worker authorises to represent him or her.
 reviewable decisions, for part 12 (Review of decisions)—see section 223.
 serious injury or illness, for part 3 (Incident notification)—see section 36.
+staff of the office, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.30.
 State includes Territory.
+statement of expectations, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.39.
+statement of operational intent, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.40.
 State or Territory industrial law—see the Fair Work Act, section 26 (2).
+strategic plan, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.38.
 structure means anything that is constructed, whether fixed or moveable, temporary or permanent, and includes—
   (a) buildings, masts, towers, framework, pipelines, transport infrastructure and underground works (shafts or tunnels); and
   (b) any component of a structure; and
@@ -100,10 +107,12 @@ union means—
   (b) an association of employees or independent contractors, or both, that is registered or recognised as such an association (however described) under a State or Territory industrial law.
 volunteer means a person who is acting on a voluntary basis (whether or not the person receives out-of-pocket expenses).
 WHS civil penalty provision—see section 254.
+WHS commissioner—see work health and safety commissioner.
 WHS entry permit means a WHS entry permit issued under part 7 (Workplace entry by WHS entry permit-holders).
 WHS entry permit-holder means a person who holds a WHS entry permit.
 WHS undertaking means an undertaking given under section 216 (1).
 worker—see section 7.
 work group means a work group determined under part 5 (Consultation, representation and participation).
+work health and safety commissioner means the Work Health and Safety Commissioner appointed under schedule 2, section 2.21.
 workplace—see section 8.
 work safety commissioner—means the Work Safety Commissioner under schedule 2, part 2.2.

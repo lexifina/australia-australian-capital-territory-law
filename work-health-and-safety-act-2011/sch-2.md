@@ -1,25 +1,29 @@
 # Schedule 2 The regulator and local tripartite consultation arrangements and other local arrangements
-## Part 2.1 Work safety council
+## Part 2.1 Work health and safety council
 ## Division 2.1.1 Establishment, functions and powers
 ## 2.1 Establishment
-The Work Safety Council is established.
+The Work Health and Safety Council is established.
 ## 2.2 Functions
 ## (1) The council has the following functions:
 ## (a) to advise the Minister on matters relating to—
-## (i) work safety; or
+## (i) work health and safety; or
 ## (ii) workers compensation; or
     (iii) bullying in the workplace and other workplace psychosocial issues; or
 ## (b) to inquire into and report to the Minister on matters referred to the council by the Minister in relation to—
-## (i) work safety; or
+## (i) work health and safety; or
 ## (ii) workers compensation; or
     (iii) bullying in the workplace and other workplace psychosocial issues; or
-## (c) any other function prescribed by regulation.
-Note A provision of a law that gives an entity (including a person) a function also gives the entity the powers necessary and convenient to exercise the function (see Legislation Act, s 196 (1) and dict, pt 1, defs entity and function).
+## (c) at the first council meeting that happens after the publication of the annual report required under section 2.41 (Annual report)—
+## (i) review and consider the annual report; and
+## (ii) advise the Minister and the WHS commissioner on any matters arising from the review and consideration; or
+## (d) any other function prescribed by regulation.
+Note A provision of a law that gives an entity (including a person) a function also gives the entity powers necessary and convenient to exercise the function (see Legislation Act, s 196 and dict, pt 1, defs entity and function).
 ## (2) Without limiting subsection (1) (a), the matters on which the council may advise the Minister include the following matters:
 ## (a) the operation of this Act and the associated laws;
+## (aa) the performance of the office of the work health and safety commissioner and the WHS commissioner;
 ## (b) the approval of codes of practice, and the variation of codes of practice, under section 274 (Approved codes of practice);
-## (c) the provision of education and training in relation to work safety;
-## (d) the promotion of work safety;
+## (c) the provision of education and training in relation to work health and safety;
+## (d) the promotion of work health and safety;
 ## (e) the operation of the Workers Compensation Act 1951;
 ## (f) the approval of a protocol or an amendment to a protocol under the Workers Compensation Act 1951;
 ## (g) the provision of education and training in relation to workers’ compensation;
@@ -28,20 +32,28 @@ Note A provision of a law that gives an entity (including a person) a function a
 Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act, including a regulation (see Legislation Act, s 104).
 ## Division 2.1.2 Constitution and meetings
 ## 2.3 Membership
-The council consists of—
-## (a) 4 members appointed by the Minister after consultation with the people or bodies that the Minister considers represent the interests of employees; and
-## (b) 4 members appointed by the Minister after consultation with the people or bodies that the Minister considers represent the interests of employers; and
-## (c) 4 other members appointed by the Minister; and
-## (d) the commissioner.
-Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
-Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
-Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+## (1) The council consists of—
+## (a) 5 members appointed by the Minister after consultation with the people or bodies that the Minister considers represent the interests of employees; and
+## (b) 5 other members appointed by the Minister after consultation with the people or bodies that the Minister considers represent the interests of employers; and
+## (c) the WHS commissioner; and
+## (d) the public sector workers compensation commissioner.
+## (2) The Minister must not appoint more than 1 public servant as a member under subsection (1).
+## (3) In this section:
+public sector workers compensation commissioner means the PSWC commissioner under the Public Sector Workers Compensation Fund Act 2018.
+## 2.3A Meaning of appointed member—div 2.1.2
+In this division:
+appointed member, of the council, means a member of the council appointed by the Minister under section 2.3 (1) (a) or (b).
 ## 2.4 Terms of appointment
 ## (1) The appointed members of the council must be appointed as part-time members.
-## (2) An appointed member of the council must be appointed for not longer than 3 years.
+## (2) An appointed member of the council must be appointed for not longer than 4 years.
+## (3) A person who has been an appointed member of the council for 8 consecutive years is not eligible for reappointment.
 Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
-## 2.5 Appointment of chair and deputy chair
-The Minister must appoint a member of the council appointed under section 2.3 (c) or (d) as chair of the council and another member as deputy chair of the council.
+## 2.5 Chair and deputy chair
+## (1) The appointed members of the council must elect a chair of the council, and a deputy chair of the council.
+Note The appointed members must elect a chair and deputy chair of the council as soon as possible and as often as needed (see Legislation Act, s 151B).
+## (2) The chair and the deputy chair must be elected for not longer than 2 years.
+## (3) If the chair is elected from the members appointed under section 2.3 (1) (a)—the deputy chair must be elected from the members appointed under section 2.3 (1) (b).
+## (4) If the chair is elected from the members appointed under section 2.3 (1) (b)—the deputy chair must be elected from the members appointed under section 2.3 (1) (a).
 ## 2.6 Leave
 ## (1) The Minister may grant leave to the chair or deputy chair on the conditions (if any) about remuneration or other matters that the Minister decides.
 ## (2) The council may grant leave to a member (other than the chair or deputy chair) on the conditions (if any) about remuneration or other matters that the council decides.
@@ -81,15 +93,12 @@ relevant committee means—
   (a) a standing committee of the Legislative Assembly nominated by the Speaker for subsection (3); or
   (b) if no nomination under paragraph (a) is in effect—the standing committee of the Legislative Assembly responsible for public accounts.
 ## 2.9 Ending appointment of council member
-## (1) This section applies to a member of the council other than the commissioner.
-## (2) The Minister must end the appointment of a member of the council if—
+## (2) The Minister must end the appointment of an appointed member of the council if—
 ## (a) the member has become bankrupt or personally insolvent; or
-## (b) the member was appointed under section 2.3 (a) and the Minister is satisfied that the member no longer represents the interests of employees; or
-## (c) the member was appointed under section 2.3 (b) and the Minister is satisfied that the member no longer represents the interests of employers; or
 ## (d) the Minister becomes aware that the member has failed to comply with section 2.7 (Disclosure of interest) without reasonable excuse; or
 ## (e) the Minister becomes aware that the member has at any time been convicted, in Australia, of an offence punishable by imprisonment for 1 year or longer; or
 ## (f) the Minister becomes aware that the member has at any time been convicted, outside Australia, of an offence that, if it had been committed in the ACT, would be punishable by imprisonment for 1 year or longer.
-## (3) The Minister may end the appointment of a member of the council—
+## (3) The Minister may end the appointment of an appointed member of the council—
 ## (a) if the member is absent from 3 consecutive meetings of the council, otherwise than on leave approved under section 2.6; or
 ## (b) if the member contravenes a territory law; or
 ## (c) for misbehaviour; or
@@ -110,12 +119,11 @@ Note A person’s appointment also ends if the person resigns (see Legislation A
 ## (3) If the chair and the deputy chair are absent, the member chosen by the members present presides.
 ## 2.12 Quorum at council meetings
 Business may be carried on at a meeting of the council only if the meeting is constituted by 7 members including—
-## (a) 2 members, at least 1 of whom is not an acting member, mentioned in section 2.3 (a); and
-## (b) 2 members, at least 1 of whom is not an acting member, mentioned in section 2.3 (b); and
-## (c) 2 members, at least 1 of whom is not an acting member, mentioned in section 2.3 (c).
+## (a) 3 members appointed under section 2.3 (1) (a), at least 2 of whom are not acting members; and
+## (b) 3 members appointed under section 2.3 (1) (b), at least 2 of whom are not acting members.
 ## 2.13 Voting at council meetings
-## (1) At a meeting of the council each member (other than the chair) has a vote on each question to be decided.
-## (2) A question is decided by a majority of the votes of the members present and voting but, if the votes are equal, the member presiding has the deciding vote.
+## (1) At a meeting of the council each appointed member has a vote on each question to be decided.
+## (2) A question is decided by a majority of the votes of the appointed members present and voting.
 ## 2.14 Conduct of council meetings etc
 ## (1) The council may conduct its proceedings (including its meetings) as it considers appropriate.
 ## (2) A meeting may be held using a method of communication, or a combination of methods of communication, that allows a council member taking part to hear what each other member taking part says without the members being in each other’s presence.
@@ -134,7 +142,7 @@ email
 ## Division 2.1.3 Advisory committees
 ## 2.16 Establishment
 ## (1) The council may establish the advisory committees that it considers necessary to assist in the exercise of its functions.
-## (2) The council must, if asked to do so by the Minister, constitute an advisory committee to assist it in the exercise of its functions in relation to any matter stated by the Minister about work safety.
+## (2) The council must, if asked to do so by the Minister, constitute an advisory committee to assist it in the exercise of its functions in relation to any matter stated by the Minister about work health and safety.
 ## (3) Subject to any direction by the council, an advisory committee may decide how it is to exercise its functions.
 ## Part 2.2 Work safety commissioner
 ## 2.17 Appointment of commissioner
