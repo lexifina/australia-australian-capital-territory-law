@@ -196,6 +196,7 @@ initial review, for division 16.2.5 (Review of therapeutic protection orders)—
 in need of care and protection, for the care and protection chapters—see section 345 (1).
 in need of emergency care and protection, for the care and protection chapters—see section 403.
 in need of emergency therapeutic protection, for the care and protection chapters—see section 404.
+inspector of correctional services—see the Inspector of Correctional Services Act 2017, dicftionary.
 intention to cancel notice—
   (a) for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352Q; and
   (b) for chapter 20 (Childcare services)—see section 764 (2).

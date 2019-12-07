@@ -30,7 +30,7 @@
 ## Part 6.1 Detention places—general
 ## Part 6.2 Administration
 ### Division 6.2.1 Administration—general
-## Part 6.3 Inspection at detention places
+## Part 6.3 Access to and inspection of detention places
 ## Part 6.4 Admission to detention places
 ## Part 6.5 Living conditions at detention places
 ## Part 6.6 Management and security
