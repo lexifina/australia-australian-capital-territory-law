@@ -28,7 +28,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • tribunal.
 correctional centre—see section 7.
 correctional service—see section 8.
-detainee—see the Corrections Management Act 2007, dictionary.
+detainee—
+  (a) for the Corrections Management Act 2007—see that Act, dictionary; or
+  (b) for the Children and Young People Act 2008—means a young detainee as defined in that Act, section 95.
 inspector means the inspector of correctional services appointed under section 9.
 relevant director-general means, for a matter that relates to—
   (a) a correctional centre under the Corrections Management Act 2007 or a correctional service provided in relation to a correctional centre—the director-general responsible for administering that Act; or
