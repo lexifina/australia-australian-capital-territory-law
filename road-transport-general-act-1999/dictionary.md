@@ -44,12 +44,11 @@ authorised person means—
 automatic disqualification provision, for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 bicycle means a vehicle with 2 or more wheels that is built to be propelled by human power through a belt, chain or gears (whether or not it has an auxiliary motor) and—
   (a) includes a pedicab, penny-farthing and tricycle; and
-  (b) includes a power-assisted pedal cycle within the meaning of vehicle standards determined under the Motor Vehicle Standards Act 1989 (Cwlth), section 7; but
+  (b) includes a power-assisted pedal cycle within the meaning of the national road vehicle standards determined under the Road Vehicle Standards Act 2018 (Cwlth), section 12; but
   (c) does not include—
     (i) a wheelchair, wheeled recreational device or wheeled toy; or
     (ii) a vehicle (other than a vehicle mentioned in paragraph (b)) with an electric motor capable of generating a power output over 200W (whether or not the motor is operating); or
     (iii) a vehicle that has an internal combustion engine.
-Note Power-assisted pedal cycle is defined in the Vehicle Standard (Australian Design Rule–Definitions and Vehicle Categories) 2005 which are vehicle standards determined under the Motor Vehicles Standards Act 1989 (Cwlth), s 7. The definition includes a vehicle referred to as a pedalec.
 camera-detected offence means an offence detected by an approved camera detection device or an approved average speed detection system.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
