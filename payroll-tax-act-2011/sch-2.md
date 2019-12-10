@@ -171,8 +171,7 @@ Examples—leave of another kind
 1 sick leave
 2 annual leave
 3 long service leave
-Note 1 For the meaning of domestic partner, see the Legislation Act, s 169.
-Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+Note For the meaning of domestic partner, see the Legislation Act, s 169.
 relevant day means—
   (a) for a birth—the day 6 months after the day of the birth; or
   (b) for an adoption—the day 6 months after the day that the child is placed, for the purpose of adoption, in the care of the adoptive parent.
