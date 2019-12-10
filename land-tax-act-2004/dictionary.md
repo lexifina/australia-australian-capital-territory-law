@@ -69,8 +69,8 @@ residential land means—
   (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if—
     (i) at least 1 parcel of land in the scheme is residential land under paragraph (a) or (b); and
     (ii) no parcel of land in the scheme is leased for a commercial purpose.
-residential tenancy agreement, for part 2 (Imposition and payment of land tax)—see section 7.
 Taxation Administration Act means the Taxation Administration Act 1999.
+tenancy agreement, for part 2 (Imposition and payment of land tax)—see section 7.
 tenant, for part 2 (Imposition and payment of land tax)—see section 7.
 trustee, for part 2 (Imposition and payment of land tax)—see section 7.
 unit means a unit under the Unit Titles Act, section 9.
