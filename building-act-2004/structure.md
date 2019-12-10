@@ -21,6 +21,7 @@
 ## Part 7 Administration
 ### Division 7.1 Building inspectors
 ### Division 7.2 Inspection of building work and authority for required work
+### Division 7.2A Non-compliant buildings and building work
 ### Division 7.3 Entry and seizure
 ### Division 7.4 Search warrants
 ## Part 8 Building code, recognised standards etc
