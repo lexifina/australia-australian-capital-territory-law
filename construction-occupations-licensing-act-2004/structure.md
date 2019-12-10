@@ -3,7 +3,10 @@
 ## Part 3 Construction practitioners licences
 ### Division 3.1 General
 ### Division 3.2 Nominees
-## Part 4 Rectification orders and other obligations on licensees
+## Part 4 Rectification orders, enforceable undertakings and other obligations on licensees
+### Division 4.1 Preliminary
+### Division 4.2 Rectification orders and other obligations on licensees
+### Division 4.3 Rectification undertakings
 ## Part 5 Automatic licence suspension and occupational discipline
 ### Division 5.1 Automatic licence suspension
 ### Division 5.2 Occupational discipline—licensees
