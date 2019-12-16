@@ -99,7 +99,6 @@ Note Different percentage rates may be determined for different collection areas
 (4) Division 7.3 (Rebate of rates) has effect as if it included this section.
 Example
 the definition of eligible person for pt 7 will apply to this section
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (5) In this section:
 D means the number of days in the year when the parcel is the person’s principal place of residence.
 FES rebate means the fire and emergency services rebate determined under the Taxation Administration Act, section 139.
