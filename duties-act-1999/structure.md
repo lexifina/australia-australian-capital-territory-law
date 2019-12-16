@@ -8,7 +8,9 @@
 ### Division 2.5.1 Trusts
 ### Division 2.5.2 Superannuation
 ### Division 2.5.3 Miscellaneous
-## Part 2.6A Deferred payments—home buyers
+## Part 2.6A Deferred payment of duty
+### Division 2.6A.1 First home owner grant scheme and home buyer concession scheme
+### Division 2.6A.2 Other duty deferral schemes
 # Chapter 3 Certain transactions treated as transfers
 ## Part 3.1 Preliminary
 ## Part 3.2 Acquisition of interests in certain landholders

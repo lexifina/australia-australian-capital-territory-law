@@ -57,7 +57,9 @@ Crown lease—see the Land Titles Act 1925, dictionary.
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
 de facto relationship, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
-deferral arrangement, for part 2.6A (Deferred payments—home buyers) see section 75AC (2).
+deferral arrangement—
+  (a) for division 2.6A.1 (First home owner grant scheme and home buyer concession scheme)—see section 75AC (2); or
+  (b) for division 2.6A.2 (Other duty deferral schemes)—see section 75AI (2).
 demonstrator, for part 9.2 (Exemptions)—see section 208A.
 determined rate, in relation to duty, means a rate determined by the Minister under the Taxation Administration Act, section 139 for the provision where the expression occurs.
 discretionary trust means a trust under which the vesting of the whole or any part of the capital of the trust estate, or the whole or any part of the income from that capital, or both—
@@ -70,15 +72,19 @@ dutiable transaction—see section 7 (2).
 dutiable value—
   (a) of a motor vehicle for part 9.1 (Imposition and rates of duty)—see section 203; and
   (b) of other dutiable property—see section 20.
-eligible person, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
-eligible property, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
+duty deferral scheme, for division 2.6A.2 (Other duty deferral schemes)—see section 75AG (1).
+eligible person—
+  (a) for division 2.6A.1 (First home owner grant scheme and home buyer concession scheme)—see section 75; or
+  (b) for a duty deferral scheme, for division 2.6A.2 (Other duty deferral schemes)—see section 75AG (2) (a).
+eligible property, for division 2.6A.1 (First home owner grant scheme and home buyer concession scheme)—see section 75A.
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
+eligible transaction, for a duty deferral scheme, for division 2.6A.2 (Other duty deferral schemes)—see section 75AG (2) (b).
 entity, for part 3.2 (Acquisition of interests in certain landholders)—see section 78A.
 exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
 FS (TR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
-home buyer concession scheme, for part 2.6A (Deferred payments—home buyers)—see section 75AA.
+home buyer concession scheme, for division 2.6A.1 (First home owner grant scheme and home buyer concession scheme)—see section 75.
 hospital means a recognised hospital within the meaning of the Health Insurance Act 1973 (Cwlth).
 instrument includes a document and a written statement.
 insurance includes assurance.
@@ -107,7 +113,6 @@ land use entitlement means an entitlement to occupy land within the ACT conferre
 lease means—
   (a) a lease of land in the ACT or an agreement for a lease of land in the ACT; or
   (b) an agreement (for example, a licence) by which a right to use land in the ACT at any time and for any purpose is given to or acquired by a person.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 lessee includes—
   (a) any assignee for the time being of the rights of the lessee under a lease; and
   (b) a person who has a right of the kind mentioned in the definition of lease, paragraph (b).
