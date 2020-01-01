@@ -43,7 +43,7 @@ recognised service, for a registered worker in the building and construction ind
 ## (2) A registered worker for the building and construction industry is taken to have completed a year of recognised service for each 220 days of recognised service.
 ## 1.4 Service credit—building and construction industry—s 64
 ## (1) A registered worker for the building and construction industry is to be credited in the workers register with 1 day of service for each day that the worker carries out building and construction work in each service period on or after the worker’s registration day.
-Note Prior service is also credited in the workers register in accordance with, for employees, s 47, and for contractors, s 48.
+Note Prior service is also credited in the workers register in accordance with, for employees, s 47, and for voluntary members, s 48.
 ## (2) However, the registrar must not enter more than 220 days of service in the workers register for the worker for the financial year.
 ## 1.4A Service period—building and construction industry
 ## (1) A service period for a person who is a registered worker for the building and construction industry is a continuous period—
@@ -55,9 +55,11 @@ Note Prior service is also credited in the workers register in accordance with, 
 ## (3) Despite subsection (1), a registered worker’s service period is not taken to end if a person stops being a worker because—
 ## (a) of incapacity for an injury for which the worker is entitled to compensation under the Workers Compensation Act 1951; or
 ## (b) if the worker is an employee—the employee has been dismissed by an employer to ensure that the employee does not take long service leave while in the employer’s employment; or
-## (c) if the worker is a contractor—the contractor’s engagement by the employer is ended to ensure that the contractor does not take long service leave while engaged by the employer.
+## (c) if the worker is a voluntary member—the voluntary member’s engagement by the employer is ended to ensure that the voluntary member does not take long service leave while engaged by the employer.
 ## 1.5 Long service leave formula—building and construction industry
-The following is the long service leave formula for the building and construction industry:
+The long service leave formula for the building and construction industry is—
+  (a) for service before 20 December 1996—
+  (b) for service on or after 20 December 1996—
 RS means the registered worker’s number of days recognised service.
 W means the number of weeks long service leave held by the registered worker.
 ## 1.6 Amount of leave—building and construction industry
@@ -98,7 +100,7 @@ prescribed retiring age means—
   (a) in relation to a registered worker who has been granted a service pension under the Veterans’ Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 1.9 Payment for leave—building and construction industry
-## (1) A registered employee for the building and construction industry who has been granted long service leave under section 1.7, or a registered contractor for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.
+## (1) A registered employee for the building and construction industry who has been granted long service leave under section 1.7, or a registered voluntary member for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.
 (2) The authority must pay to the applicant the amount payable under section 1.11 (How are leave payments worked out for the building and construction industry?) if the registrar is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the building and construction industry; and
@@ -115,16 +117,15 @@ Note If a form is approved under s 92 for an application, the form must be used.
 ## 1.11 How are leave payments worked out for the building and construction industry?
 ## (1) For section 1.9 (Payment for leave—building and construction industry) and section 1.10 (Payment instead of leave—building and construction industry), the amount payable to a registered worker for, or instead of, long service leave is—
 ## (a) for any part of the entitlement to long service leave accrued as an employee—the amount worked out in accordance with section 1.12; and
-## (b) for any part of the entitlement to long service leave accrued as a contractor—the amount worked out in accordance with section 1.13.
+## (b) for any part of the entitlement to long service leave accrued as a voluntary member—the amount worked out in accordance with section 1.13.
 ## (2) For subsection (1)—
 ## (a) long service leave must be taken in the reverse order in which it accrued; and
 ## (b) if payment instead of long service leave is being made—the payment is made in relation to the leave in the order in which it accrued.
 Example
-John has 10 years of service in the building and construction industry giving him an entitlement to 13 weeks long service leave. He first worked in the industry as a registered employee and accrued 7 weeks of the entitlement in that capacity. John then worked as a registered contractor and accrued 6 weeks of the entitlement in that capacity.
+John has 10 years of service in the building and construction industry, giving him an entitlement to 13 weeks long service leave. He first worked in the industry as a registered employee and accrued 7 weeks of the entitlement in that capacity. John then worked as a registered voluntary member and accrued 6 weeks of the entitlement in that capacity.
 John decides to take 9 weeks long service leave. The payment for the leave is the total of the following amounts:
-• the amount calculated under section 1.12 where ‘D’ is 1540 (ie it took 1540 days of service as a registered employee to accrue the first 7 weeks of his long service leave entitlement);
-• the amount calculated under section 1.13 which is the total of the amounts paid to authority under section 56 for his first 2.6 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of his long service leave entitlement) and the interest under section 1.13 on those amounts.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+• the amount calculated under section 1.12 where ‘D’ is 1185 (ie it took 1185 days of service as a registered employee to accrue the first 7 weeks of his long service leave entitlement);
+• the amount calculated under section 1.13 which is the total of the amounts paid to the authority under section 56 for his first 1.54 years work as a registered voluntary member (ie it took 338 days of service as a registered voluntary member to accrue the next 2 weeks of his long service leave entitlement) and the interest under section 1.13 on those amounts.
 ## 1.12 Leave payments for service as registered employee—building and construction industry
 ## (1) For section 1.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the building and construction industry is the amount worked out as follows:
 ## (2) In this section:
@@ -140,9 +141,9 @@ R is—
   (b) in any other case—the highest of the weekly averages of the ordinary remuneration received by the registered worker during each of the following periods that applies to the worker:
     (i) the most recent 2 quarters of service as a registered employee before the designated day;
     (ii) the most recent 4 quarters of service as a registered employee before the designated day.
-## 1.13 Leave payments for service as registered contractor—building and construction industry
-## (1) For section 1.11 (How are leave payments worked out for the building and construction industry?), the amount payable to a registered worker for the building and construction industry for long service leave for service accrued as a contractor is the total of the following for the service:
-## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
+## 1.13 Leave payments for service as registered voluntary member—building and construction industry
+## (1) For section 1.11 (How are leave payments worked out for the building and construction industry?), the amount payable to a registered worker for the building and construction industry for long service leave for service accrued as a voluntary member is the total of the following for the service:
+## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—voluntary members);
 ## (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 ## (2) The governing board must determine an interim rate of interest from time to time prior to the determination of the rate under subsection (1).
 (3) The determined rate of interest must be determined at the end of each financial year for the previous financial year, and is—
@@ -150,10 +151,6 @@ R is—
   (b) if the fund did not make a return or made a loss—nil.
 ## (4) In this section:
 designated day—see section 1.12.
-FB means the amount of the total equity of the authority at the end of the financial year immediately before the financial year for which the rate is being determined.
-FE means the amount of the total equity of the authority at the end of the financial year for which the rate is being determined.
-I is the income derived from the investment of the authority’s money in the financial year for which the rate is being determined.
-total equity, in relation to the authority, means the total assets less the total liabilities of the authority worked out from the audited balance sheet of the authority for the relevant financial year.
 ## 1.14 Payment by authority on reciprocal authority’s behalf—building and construction industry
 ## (1) This section applies to a registered worker for the building and construction industry who has a long service leave entitlement under this Act and a corresponding law.
 ## (2) The worker may apply to the authority for payment of a long service leave entitlement worked out in accordance with the corresponding law.

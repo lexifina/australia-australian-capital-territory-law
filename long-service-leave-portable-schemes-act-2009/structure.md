@@ -4,6 +4,7 @@
 ### Division 4.1 Registration of employers
 ### Division 4.2 Registration of workers
 ## Part 5 Quarterly returns and payments
+## Part 5A Liability of company directors to pay levy
 ## Part 6 Entries in workers register
 ## Part 7 Access to long service leave register information
 ## Part 8 Enforcement

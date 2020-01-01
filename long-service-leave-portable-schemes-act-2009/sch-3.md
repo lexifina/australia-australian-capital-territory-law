@@ -1,18 +1,21 @@
 # Schedule 3 Long service leave payments—community sector industry
 ## 3.1 What is the community sector industry?
-The community sector industry is—
-## (a) in relation to the ACT—
-## (i) the industry of providing child care services; and
-    (ii) the industry of providing residential aged care services; and
-    (iii) the industry of providing community aged care services; and
-## (iv) the industry of providing the following residential care services:
-## (A) care accommodation or homes for disadvantaged people where nursing or medical care is not provided as a major service;
-## (B) residential corrective services for young offenders; and
-## (v) the industry of providing non-residential care welfare services (including fund-raising services for welfare services) not included in other community sector industries; and
-## (vi) the industry of providing employment placement services for disabled people; and
-## (vii) the industry of providing community service advocacy services; and
+(1) The community sector industry is—
+  (a) in relation to the ACT, any of the following:
+    (i) the industry of providing education and care services;
+    (ii) the industry of providing residential aged care services;
+    (iii) the industry of providing community aged care services;
+    (iv) the industry of providing employment placement services for disabled people;
+    (v) the industry of providing the following residential care services:
+      (A) care accommodation or homes for disadvantaged people where nursing or medical care is not provided as a major service;
+      (B) residential corrective services for young offenders;
+    (vi) the industry of providing community service advocacy services;
+    (vii) the industry of providing non-residential care welfare services (including fund-raising services for welfare services) not included in subparagraphs (i) to (vi); and
 ## (b) in relation to a reciprocating State—the community sector industry within the meaning of the corresponding law of the State.
 Note The definition of community sector industry was broadened to include residential aged care services and community aged care services with effect from 1 July 2016.
+(2) In this section:
+education and care service means an approved education and care service under the Education and Care Services National Law (ACT), section 5 (1).
+Note The Education and Care Services National Law (ACT) Act 2011, s 6 applies the Education and Care Services National Law set out in the Education and Care Services National Law Act 2010 (Vic), schedule as if it were an ACT law called the Education and Care Services National Law (ACT).
 ## 3.2 What is community sector work?
 In this Act:
 community sector work means work carried out in the community sector industry.
@@ -27,11 +30,10 @@ recognised service, for a registered worker in the community sector industry, me
 A court or tribunal is not an employer for the community sector industry.
 Note A covered industry schedule may prescribe an entity not to be an employer for the covered industry—see s 7 (3).
 ## 3.5 Service credit—community sector industry—s 64
-## (1) A registered worker for the community sector industry is to be credited in the workers register with 1 day of service for each day (including a day when the worker does not carry out community sector industry work) in each service period of the worker on or after the worker’s registration day.
+## (1) A registered worker for the community sector industry is to be credited in the workers register with 1 day of service for each day (including a day when the worker does not carry out community sector work) in each service period of the worker on or after the worker’s registration day.
 Example
-A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the service period for the worker when the worker does not carry out cleaning work.
-Note 1 Prior service is also credited in the workers register in accordance with, for employees, s 47, and for contractors, s 48.
-Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the service period for the worker when the worker does not carry out community sector work.
+Note Prior service is also credited in the workers register in accordance with, for employees, s 47, and for voluntary members, s 48.
 ## (2) However, the registrar must not enter more than 365 days of service in the workers register for the worker for the financial year.
 ## 3.5A Service period—community sector industry
 ## (1) A service period for a person who is a registered worker for the community sector industry is a continuous period—
@@ -43,7 +45,7 @@ Note 2 An example is part of the Act, is not exhaustive and may extend, but does
 ## (3) Despite subsection (1), a registered worker’s service period is not taken to end if a person stops being a worker because—
 ## (a) of incapacity for an injury for which the worker is entitled to compensation under the Workers Compensation Act 1951; or
 ## (b) if the worker is an employee—the employee has been dismissed by an employer to ensure that the employee does not take long service leave while in the employer’s employment; or
-## (c) if the worker is a contractor—the contractor’s engagement by the employer is ended to ensure that the contractor does not take long service leave while engaged by the employer.
+## (c) if the worker is a voluntary member—the voluntary member’s engagement by the employer is ended to ensure that the voluntary member does not take long service leave while engaged by the employer.
 ## 3.6 Long service leave formula—community sector industry
 The following is the long service leave formula for the community sector industry:
 RS means the registered worker’s number of days recognised service.
@@ -82,7 +84,7 @@ prescribed retiring age means—
   (a) for a registered worker who has been granted a service pension under the Veterans’ Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 3.10 Payments for leave—community sector industry
-(1) A registered employee for the community sector industry who has been granted long service leave under section 3.7, or a registered contractor who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
+(1) A registered employee for the community sector industry who has been granted long service leave under section 3.7, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.
 (2) The authority must pay to the applicant the amount payable under section 3.12 (How are leave payments worked out for the community sector industry?) if the registrar is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the community sector industry; and
@@ -99,16 +101,15 @@ Note If a form is approved under s 92 for an application, the form must be used.
 ## 3.12 How are leave payments worked out for the community sector industry?
 (1) For section 3.10 (Payments for leave—community sector industry) and section 3.11 (Payments instead of leave—community sector industry), the amount payable to a registered worker for, or instead of, long service leave is—
   (a) for any part of the entitlement to long service leave accrued as an employee—the amount worked out in accordance with section 3.13; and
-  (b) for any part of the entitlement to long service leave accrued as a contractor—the amount worked out in accordance with section 3.14.
+  (b) for any part of the entitlement to long service leave accrued as a voluntary member—the amount worked out in accordance with section 3.14.
 (2) For subsection (1)—
   (a) long service leave must be taken in the reverse order in which it accrued; and
   (b) if payment instead of long service leave is being made—the payment is made in relation to the leave in the order in which it accrued.
 Example
-Darla has 5 years of service in the community sector industry giving her an entitlement to 4.335 weeks long service leave. She first worked in the industry as a registered employee and accrued 2 weeks of the entitlement in that capacity. Darla then worked as a registered contractor and accrued 2.335 weeks of the entitlement in that capacity.
+Darla has 5 years of service in the community sector industry giving her an entitlement to 4.335 weeks long service leave. She first worked in the industry as a registered employee and accrued 2 weeks of the entitlement in that capacity. Darla then worked as a registered voluntary member and accrued 2.335 weeks of the entitlement in that capacity.
 Darla decides to take 4.335 weeks long service leave. The payment for the leave is the total of the following amounts:
 • the amount calculated under s 3.13 where ‘D’ is 842 (ie it took 842 days of service as a registered employee to accrue the first 2 weeks of her long service leave entitlement);
-• the amount calculated under s 3.14 which is the total of the amounts paid to the authority under s 57 for her 983 days work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2.335 weeks of her long service leave entitlement) and the interest under s 3.14 on those amounts.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+• the amount calculated under s 3.14 which is the total of the amounts paid to the authority under s 57 for her 983 days work as a registered voluntary member (ie it took that period of service as a registered voluntary member to accrue the next 2.335 weeks of her long service leave entitlement) and the interest under s 3.14 on those amounts.
 ## 3.13 Leave payments for service as registered employee—community sector industry
 (1) For section 3.12, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the community sector industry is the amount worked out as follows:
 (2) In this section:
@@ -116,17 +117,18 @@ D means the number of days of service credited to the registered worker in the w
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
   (b) if the registered worker is being paid instead of taking long service leave—the day the payment is made.
-R is the highest of the weekly averages of the ordinary remuneration received by the registered worker during each of the following periods that applies to the worker:
-  (a) the most recent 2 quarters of service as a registered worker before the designated day;
-  (b) the most recent 4 quarters of service as a registered worker before the designated day;
-  (c) the most recent 20 quarters of service as a registered worker before the designated day.
-Example—R
-Harry has worked in the community sector industry for 5 years. The periods in par (a), (b) and (c) apply to Harry because he has completed more than 20 quarters (or 5 years) relevant service.
-Harry’s average weekly income for the 2 quarters before the designated day is $283. His weekly averages for the 4 and 20 quarters before the designated day are $427 and $375, respectively. Accordingly, R is $427 because it is the highest of the weekly averages.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-## 3.14 Leave payments for service as registered contractor—community sector industry
-(1) For section 3.12 (How are leave payments worked out for the community sector industry?), the amount payable to a registered worker for the community sector industry for long service leave for service accrued as a registered contractor is the total of the following for the service:
-  (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
+R is—
+  (a) if the registered worker is receiving compensation under the Workers Compensation Act 1951—the weekly average of the ordinary remuneration received by the worker during the 4 quarters before the injury to which the compensation relates happened; or
+  (b) in any other case—the highest of the weekly averages of the ordinary remuneration received by the registered worker during each of the following periods that applies to the worker:
+    (i) the most recent 2 quarters of service as a registered employee before the designated day;
+    (ii) the most recent 4 quarters of service as a registered employee before the designated day;
+    (iii) the most recent 20 quarters of service as a registered worker before the designated day.
+Example—R, par (b)
+Harry has worked in the community sector industry for 5 years. The periods in par (b) (i), (ii) and (iii) apply to Harry because he has completed more than 20 quarters (or 5 years) relevant service.
+Harry’s average weekly income for the 2 quarters before the designated day is $283. His weekly averages for the 4 and 20 quarters before the designated day are $427 and $375, respectively. Accordingly, ‘R’ is $427 because it is the highest of the weekly averages.
+## 3.14 Leave payments for service as registered voluntary member—community sector industry
+(1) For section 3.12 (How are leave payments worked out for the community sector industry?), the amount payable to a registered worker for the community sector industry for long service leave for service accrued as a registered voluntary member is the total of the following for the service:
+  (a) amounts paid by the worker to the authority under section 56 (Determination of levy—voluntary members);
   (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 (2) The governing board must determine an interim rate of interest from time to time before the determination of the rate under subsection (1).
 (3) The determined rate of interest must be determined at the end of each financial year for the previous financial year, and is—
@@ -136,10 +138,6 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
   (b) if the registered worker is being paid instead of taking long service leave—the day the payment is made.
-FB means the amount of the total equity of the authority at the end of the financial year immediately before the financial year for which the rate is being determined.
-FE means the amount of the total equity of the authority at the end of the financial year for which the rate is being determined.
-I is the income derived from the investment of the authority’s money in the financial year for which the rate is being determined.
-total equity, in relation to the authority, means the total assets less the total liabilities of the authority worked out from the audited balance sheet of the authority for the relevant financial year.
 ## 3.15 Payments by authority on reciprocal authority’s behalf—community sector industry
 (1) This section applies to a registered worker for the community sector industry who has a long service leave entitlement under this Act and a corresponding law.
 (2) The worker may apply to the authority for payment of a long service leave entitlement worked out in accordance with the corresponding law.

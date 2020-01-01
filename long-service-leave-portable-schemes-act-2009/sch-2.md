@@ -25,8 +25,7 @@ recognised service, for a registered worker in the contract cleaning industry, m
 ## (1) A registered worker for the contract cleaning industry is to be credited in the workers register with 1 day of service for each day (including a day when the worker does not carry out cleaning work) in each service period of the worker on or after the worker’s registration day.
 Example
 A day when a worker attends a court in accordance with a summons to serve as a juror or a subpoena to give evidence or produce documents is a day in the service period for the worker when the worker does not carry out cleaning work.
-Note 1 Prior service is also credited in the workers register in accordance with, for employees, s 47, and for contractors, s 48.
-Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+Note Prior service is also credited in the workers register in accordance with, for employees, s 47, and for voluntary members, s 48.
 ## (2) However, the registrar must not enter more than 365 days of service in the workers register for the worker for the financial year.
 ## 2.4A Service period—contract cleaning industry
 ## (1) A service period for a person who is a registered worker for the contract cleaning industry is a continuous period—
@@ -38,7 +37,7 @@ Note 2 An example is part of the Act, is not exhaustive and may extend, but does
 ## (3) Despite subsection (1), a registered worker’s service period is not taken to end if a person stops being a worker because—
 ## (a) of incapacity for an injury for which the worker is entitled to compensation under the Workers Compensation Act 1951; or
 ## (b) if the worker is an employee—the employee has been dismissed by an employer to ensure that the employee does not take long service leave while in the employer’s employment; or
-## (c) if the worker is a contractor—the contractor’s engagement by the employer is ended to ensure that the contractor does not take long service leave while engaged by the employer.
+## (c) if the worker is a voluntary member—the voluntary member’s engagement by the employer is ended to ensure that the voluntary member does not take long service leave while engaged by the employer.
 ## 2.5 Long service leave formula—contract cleaning industry
 The following is the long service leave formula for the contract cleaning industry:
 RS means the registered worker’s number of days recognised service.
@@ -81,7 +80,7 @@ prescribed retiring age means—
   (a) for a registered worker who has been granted a service pension under the Veterans’ Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 2.9 Payments for leave—contract cleaning industry
-## (1) A registered employee for the contract cleaning industry who has been granted long service leave under section 2.7, or a registered contractor who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
+## (1) A registered employee for the contract cleaning industry who has been granted long service leave under section 2.7, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.
 (2) The authority must pay to the applicant the amount payable under section 2.11 (How are leave payments worked out for the contract cleaning industry?) if the governing board is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the contract cleaning industry; and
@@ -98,16 +97,15 @@ Note If a form is approved under s 92 for an application, the form must be used.
 ## 2.11 How are leave payments worked out for the contract cleaning industry?
 ## (1) For section 2.9 (Payments for leave—contract cleaning industry) and section 2.10 (Payments instead of leave—contract cleaning industry), the amount payable to a registered worker for, or instead of, long service leave is—
 ## (a) for any part of the entitlement to long service leave accrued as an employee—the amount worked out in accordance with section 2.12; and
-## (b) for any part of the entitlement to long service leave accrued as a contractor—the amount worked out in accordance with section 2.13.
+## (b) for any part of the entitlement to long service leave accrued as a voluntary member—the amount worked out in accordance with section 2.13.
 ## (2) For subsection (1)—
 ## (a) long service leave must be taken in the reverse order in which it accrued; and
 ## (b) if payment instead of long service leave is being made—the payment is made in relation to the leave in the order in which it accrued.
 Example
-Patricia has 10 years of service in the contact cleaning industry giving her an entitlement to 8.3 weeks long service leave. She first worked in the industry as a registered employee and accrued 5 weeks of the entitlement in that capacity. Patricia then worked as a registered contractor and accrued 3.3 weeks of the entitlement in that capacity.
+Patricia has 10 years of service in the contact cleaning industry giving her an entitlement to 8.3 weeks long service leave. She first worked in the industry as a registered employee and accrued 5 weeks of the entitlement in that capacity. Patricia then worked as a registered voluntary member and accrued 3.3 weeks of the entitlement in that capacity.
 Patricia decides to take 7 weeks long service leave. The payment for the leave is the total of the following amounts:
 • the amount calculated under s 2.12 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 5 weeks of her long service leave entitlement);
-• the amount calculated under s 2.13 which is the total of the amounts paid to the authority under s 57 for her first 2.41 years work as a registered contractor (ie it took that period of service as a registered contractor to accrue the next 2 weeks of her long service leave entitlement) and the interest under s 2.13 on those amounts.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+• the amount calculated under s 2.13 which is the total of the amounts paid to the authority under s 57 for her first 2.41 years work as a registered voluntary member (ie it took that period of service as a registered voluntary member to accrue the next 2 weeks of her long service leave entitlement) and the interest under s 2.13 on those amounts.
 ## 2.12 Leave payments for service as registered employee—contract cleaning industry
 ## (1) For section 2.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the contract cleaning industry is the amount worked out as follows:
 ## (2) In this section:
@@ -115,18 +113,19 @@ D means the number of days of service credited to the registered worker in the w
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
   (b) if the registered worker is being paid instead of taking long service leave—the day the payment is made.
-R is the highest of the weekly averages of the ordinary remuneration received by the registered worker during each of the following periods that applies to the worker:
-  (a) the most recent 2 quarters of service as a registered worker before the designated day;
-  (b) the most recent 4 quarters of service as a registered worker before the designated day;
-  (c) the most recent 20 quarters of service as a registered worker before the designated day;
-  (d) the most recent 40 quarters of service as a registered worker before the designated day.
-Example—R
-Henry has worked in the cleaning industry for 7 years. The periods in par (a), (b) and (c) apply to Henry because he has completed more than 20 quarters (or 5 years), but less than 40 quarters (or 10 years), relevant service.
-Henry’s average weekly income for the 2 quarters before the designated day is $283. His weekly averages for the 4 and 20 quarters before the designated day are $427 and $375, respectively. Accordingly, R is $427 because it is the highest of the weekly averages.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
-## 2.13 Leave payments for service as registered contractor—contract cleaning industry
-## (1) For section 2.11 (How are leave payments worked out for the contract cleaning industry?), the amount payable to a registered worker for the contract cleaning industry for long service leave for service accrued as a registered contractor is the total of the following for the service:
-## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—contractors);
+R is—
+  (a) if the registered worker is receiving compensation under the Workers Compensation Act 1951—the weekly average of the ordinary remuneration received by the worker during the 4 quarters before the injury to which the compensation relates happened; or
+  (b) in any other case—the highest of the weekly averages of the ordinary remuneration received by the registered worker during each of the following periods that applies to the worker:
+    (i) the most recent 2 quarters of service as a registered employee before the designated day;
+    (ii) the most recent 4 quarters of service as a registered employee before the designated day;
+    (iii) the most recent 20 quarters of service as a registered worker before the designated day;
+    (iv) the most recent 40 quarters of service as a registered worker before the designated day.
+Example—R, par (b)
+Henry has worked in the cleaning industry for 7 years. The periods in par (b) (i), (ii) and (iii) apply to Henry because he has completed more than 20 quarters (or 5 years), but less than 40 quarters (or 10 years), relevant service.
+Henry’s average weekly income for the 2 quarters before the designated day is $283. His weekly averages for the 4 and 20 quarters before the designated day are $427 and $375, respectively. Accordingly, ‘R’ is $427 because it is the highest of the weekly averages.
+## 2.13 Leave payments for service as registered voluntary member—contract cleaning industry
+## (1) For section 2.11 (How are leave payments worked out for the contract cleaning industry?), the amount payable to a registered worker for the contract cleaning industry for long service leave for service accrued as a registered voluntary member is the total of the following for the service:
+## (a) amounts paid by the worker to the authority under section 56 (Determination of levy—voluntary members);
 ## (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 ## (2) The governing board must determine an interim rate of interest from time to time before the determination of the rate under subsection (1).
 (3) The determined rate of interest must be determined at the end of each financial year for the previous financial year, and is—
@@ -136,10 +135,6 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 designated day means—
   (a) if the registered worker is taking long service leave—the day the leave begins; and
   (b) if the registered worker is being paid instead of taking long service leave—the day the payment is made.
-FB means the amount of the total equity of the authority at the end of the financial year immediately before the financial year for which the rate is being determined.
-FE means the amount of the total equity of the authority at the end of the financial year for which the rate is being determined.
-I is the income derived from the investment of the authority’s money in the financial year for which the rate is being determined.
-total equity, in relation to the authority, means the total assets less the total liabilities of the authority worked out from the audited balance sheet of the authority for the relevant financial year.
 ## 2.14 Payments by authority on reciprocal authority’s behalf—contract cleaning industry
 ## (1) This section applies to a registered worker for the contract cleaning industry who has a long service leave entitlement under this Act and a corresponding law.
 ## (2) The worker may apply to the authority for payment of a long service leave entitlement worked out in accordance with the corresponding law.
