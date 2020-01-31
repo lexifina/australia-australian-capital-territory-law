@@ -44,7 +44,6 @@ Examples
 2 judicial commission
 3 remuneration tribunal
 4 sentence administration board
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 external place, for a proceeding, means a place other than the courtroom where the proceeding is heard.
 family member, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
 family violence offence proceeding, for chapter 4 (Sexual, violent and family violence offence proceedings)––see section 38.
@@ -53,6 +52,7 @@ give evidence, in a proceeding by audiovisual link—
   (b) for division 4.3.5 (Giving evidence by audiovisual link)—see section 67.
 harm, for division 4.4.3 (Sexual offence proceedings—protection of counselling communications)––see section 79.
 intellectually impaired, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
+intermediaries administrator, for chapter 1B (Witness intermediaries—criminal proceedings)—see section 4AG.
 less serious violent offence proceeding, for chapter 4 (Sexual, violent and family violence offence proceedings)––see section 39.
 Magistrates Court, for part 2.2 (Evidence of children—audiovisual links)—see section 5.
 participating State, for chapter 3 (Use of audiovisual links and audio links)––see section 16.
