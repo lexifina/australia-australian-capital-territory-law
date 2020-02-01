@@ -18,7 +18,6 @@ Examples for par (a)
 4 polo
 5 showjumping
 6 steeplechasing
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 equine activity sponsor means—
   (a) an entity that (whether or not it operates for profit) sponsors, organises or provides a facility for an equine activity; or
   (b) an operator, instructor or promoter of an equine facility.
@@ -351,7 +350,6 @@ document includes an item of official correspondence ordinarily used by the pers
 (3) The occupational association may set the standards with which the insurance must comply.
 Example
 The occupational association may set the amount of the insurance.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (4) The occupational association may set different standards of insurance for different classes of members.
 (5) The standards are in addition to other statutory requirements and must not be inconsistent with them.
 ## 4.31 Monitoring claims by occupational associations
@@ -359,7 +357,6 @@ Note An example is part of the Act, is not exhaustive and may extend, but does n
 (2) Not all committee members need to be members of the occupational association or associations concerned.
 Example
 An insurer representative may be a committee member.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) An occupational association may, through the committee or otherwise, issue practice advice to its members to minimise claims for occupational liability.
 (4) A committee may ask an insurer to give it any information or a copy of any document that the committee considers will assist it in carrying out its function.
 ## Part 4.4 Risk management

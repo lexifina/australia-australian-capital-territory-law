@@ -122,6 +122,9 @@ mediation session, for part 15.1 (Mediation and neutral evaluation)—see sectio
 member, of a dead person’s family, for part 3.1 (Wrongful act or omission causing death)—see section 23.
 mental harm, for part 3.2 (Mental harm)—see section 32.
 motor accident means an accident caused by, or arising out of the use of, a motor vehicle.
+motor accident claim—
+  (a) means a claim for damages for personal injury caused by a motor accident; and
+  (b) includes, for a fatal injury, a claim by the dead person’s dependants or estate.
 motor vehicle—
   (a) means—
     (i) a motor vehicle under the Road Transport (General) Act 1999; or
