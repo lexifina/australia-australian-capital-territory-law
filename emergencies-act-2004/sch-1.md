@@ -79,5 +79,5 @@ A health benefits organisation must, for a return lodged by it for a month under
 (4) Section 1.6 (2) applies to the return.
 (5) In the application of—
   (a) section 1.6 (2) to the return in relation to a month (the payment month); and
-  (b) the Road Transport (Third-Party Insurance) Act 2008, chapter 2 (Compulsory third-party insurance (CTP insurance));
+  (b) the Motor Accident Injuries Act 2019, chapter 6 (Motor accident injuries insurance);
 contributions paid into the health benefits fund that have not previously been required to be taken into account as contributions in relation to a reference month for working out the ambulance levy payable by the organisation are taken to have been paid into the fund in the reference month for the payment month.
