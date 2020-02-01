@@ -12,20 +12,19 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public employee
 • territory authority
 • under.
-Note 3 The Road Transport (Third-Party Insurance) Act 2008 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (Third-Party Insurance) Act 2008, dictionary:
-• CTP insured person (see s 16)
-• CTP policy (see s 18)
-• CTP premium
-• CTP premium guidelines (see s 39)
-• CTP regulator (see s 14)
-• licensed insurer
-• motor accident (see s 7)
-• motor accident claim
-• nominal defendant
-• non-economic loss (see s 156B)
-• personal injury (see s 6)
-• responsible person, for a vehicle
-• uninsured motor vehicle (see s 60)
+Note 3 The Motor Accident Injuries Act 2019 contains definitions relevant to this Act. For example, the following terms are defined in the Motor Accident Injuries Act 2019, dictionary:
+• MAI commission
+• MAI commissioner
+• MAI guidelines
+• MAI insured person (see s 286)
+• MAI insurer (see s 287)
+• MAI policy (see s 286)
+• MAI premium (see s 314)
+• motor accident (see s 10)
+• motor accident claim (see s 228)
+• nominal defendant (see s 16)
+• personal injury (see s 9)
+• uninsured motor vehicle (see s 325)
 Note 4 The Workers Compensation Act 1951 contains definitions relevant to this Act. For example, the following terms are defined in the Workers Compensation Act 1951, dictionary:
 • claim for payment
 • compulsory insurance policy (see s 144)
@@ -50,12 +49,10 @@ bulk billing arrangements, for part 9 (Payments to hospitals, doctors and others
 claim, in relation to an injury, means—
   (a) for a motor accident injury—a motor accident claim; or
   (b) for a work injury—a workers compensation claim.
-Note Motor accident claim, for a motor accident—see the CTP Act, s 77.
+Note Motor accident claim, for a motor accident—see the MAI Act, s 228.
 claims assessment panel, for division 7.2 (Disputes about injuries)—see section 49 (1).
 claims assessor, for division 7.2 (Disputes about injuries)—see section 45.
 contribution period for which a required fund contribution is determined, for division 10.1 (Funding the LTCS scheme)—see section 73 (1).
-CTP Act means the Road Transport (Third-Party Insurance) Act 2008.
-CTP insurer, in relation to a motor accident claim, means an insurer under the CTP Act.
 eligibility assessment panel, for division 7.1 (Disputes about eligibility)—see section 35.
 eligibility assessor, for division 7.1 (Disputes about eligibility)—see section 36.
 eligibility criteria, for participation in the LTCS scheme, means the criteria stated in the LTCS guidelines for eligibility to participate in the LTCS scheme.
@@ -66,7 +63,7 @@ injured person—see section 15 (1).
 injury means an injury to which this Act applies.
 Note Section 6 sets out the injuries to which this Act applies.
 insurer, for an injured person’s claim, means—
-  (a) if the injured person has a motor accident injury—a CTP insurer; or
+  (a) if the injured person has a motor accident injury—an MAI insurer; or
   (b) if the injured person has a work injury—a workers compensation insurer or self insurer.
 interested person, for division 7.2 (Disputes about injuries)—see section 45.
 interim participation, in the LTCS scheme, means a person accepted as an interim participant in the LTCS scheme under section 20.
@@ -82,6 +79,7 @@ LTCS levy, for division 10.1 (Funding the LTCS scheme)—see section 84.
 LTCS scheme means the scheme provided for by this Act for the lifetime care and support of people who have suffered a catastrophic injury—
   (a) in a motor accident; or
   (b) arising out of, or in the course of, their employment.
+MAI Act means the Motor Accident Injuries Act 2019.
 motor accident injury, in relation to a person, means an injury the person has as a result of a motor accident.
 NSW LCS authority means the Lifetime Care and Support Authority of New South Wales, constituted under the Motor Accidents (Lifetime Care and Support) Act 2006 (NSW), section 33.
 participant, in the LTCS scheme, means a person accepted as an interim or lifetime participant in the scheme under section 19.
