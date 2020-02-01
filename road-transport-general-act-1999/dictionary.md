@@ -54,7 +54,6 @@ combination means a group consisting of a motor vehicle connected to 1 or more o
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 corporation’s vehicle, for division 3.3A (Demerit points offences—corporation’s liability)—see section 40.
 credit card includes a debit card.
-CTP arbitrator, for part 7 (Notification and review of decisions)—see section 90.
 date of service, of an infringement notice or reminder notice that has been, or is to be, served on a person, means the date the notice is served on the person.
 decision-maker, for part 7 (Notification and review of decisions)—see section 90.
 demerit points offence—see the Road Transport (Driver Licensing) Act 1999, section 13.
