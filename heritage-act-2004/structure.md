@@ -14,6 +14,7 @@
 ## Part 10A Tree damaging activity etc
 ## Part 10B Permissions and approvals
 ## Part 11 Heritage directions
+## Part 11A Repair damage directions
 ## Part 12 Civil protection of heritage
 ## Part 13 Heritage offences
 ## Part 14 Enforcement

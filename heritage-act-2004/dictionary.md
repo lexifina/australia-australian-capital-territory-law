@@ -99,6 +99,7 @@ register amendment application—see section 24 (3).
 registered—see section 11.
 registered proprietor, of a lease, means the person registered under the Land Titles Act 1925 as the proprietor of the lease.
 registration details—see section 12.
+repair damage direction—see section 67A (2).
 representative Aboriginal organisation—see section 14.
 restricted information means information declared to be restricted information under section 54 (Declaration of restricted information).
 reviewable decision—see section 111.

@@ -6,4 +6,6 @@ column 1 item | column 2 section | column 3 decision | column 4 decision-maker
 3 | 56 | to approve, or not approve, publication of restricted information | council
 4 | 62 | to make, or not make, heritage direction | council
 5 | 62 | revoke, or not revoke, heritage direction | council
-6 | 95 | give information discovery order | council
+6 | 67A | give a repair damage direction | council
+7 | 67B | refuse to give extension of time to comply with repair damage direction | council
+8 | 95 | give information discovery order | council
