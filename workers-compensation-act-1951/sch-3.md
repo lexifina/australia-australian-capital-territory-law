@@ -62,7 +62,6 @@ The committee considers the disclosures and decides that because of the nature o
 • Jerome may be present when the committee considers the issue but not take part in the decision
 • Kimberley may be present for the consideration and take part in the decision.
 The committee does not make a decision allowing Jane to be present or take part in the committee’s decision. Accordingly, because Jane has a material interest, she cannot be present for the consideration of the issue or take part in the decision.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) Any other member who also has a material interest in the issue must not be present when the committee is considering its decision under subsection (2).
 (4) In this section:
 associate, of a person, means—
@@ -120,7 +119,6 @@ Business may be carried on at a meeting of the committee only if the following m
 (2) A meeting may be held using a method of communication, or a combination of methods of communication, that allows a committee member taking part to hear what each other member taking part says without the members being in each other’s presence.
 Examples
 a phone link, a satellite link, an internet or intranet link
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) A member who takes part in a meeting conducted under subsection (2) is taken, for all purposes, to be present at the meeting.
 (4) A resolution is a valid resolution of the committee, even if it is not passed at a meeting of the committee, if all members agree to the proposed resolution in writing or by electronic communication.
 Example of electronic communication
