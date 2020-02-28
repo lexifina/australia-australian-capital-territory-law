@@ -47,3 +47,4 @@
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 Notification and review of decisions
 # Chapter 13 Miscellaneous
+# Chapter 20 Transitional—Workers Compensation Amendment Act 2020
