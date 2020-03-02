@@ -80,6 +80,7 @@ escort officer—see the Corrections Management Act 2007, dictionary.
 examination hearing, for chapter 6A (Court imposed fines)––see section 116A.
 examination notice, for chapter 6A (Court imposed fines)––see section 116P.
 examination warrant, for chapter 6A (Court imposed fines)––see section 116R.
+family violence offence, for part 7.5A (Parole time credit)—see section 161B.
 fine, for chapter 6A (Court imposed fines)––see section 116A.
 fine defaulter, for chapter 6A (Court imposed fines)––see section 116A.
 fine enforcement order, for chapter 6A (Court imposed fines)––see section 116A.
@@ -111,6 +112,8 @@ local authority, for chapter 12 (Transfer of community-based sentences)—see se
 local register, for chapter 12 (Transfer of community-based sentences)—see section 271.
 local sentence, for chapter 12 (Transfer of community-based sentences)—see section 266 (1).
 member, of the board, includes the chair and a deputy chair.
+non-ACT family violence offence, for part 7.5A (Parole time credit)—see section 161B.
+non-ACT offence—see section 117.
 non-association order—see the Crimes (Sentencing) Act 2005, section 21.
 non-judicial member, of the board, means a member other than the chair or a deputy chair.
 nonparole period—
@@ -118,6 +121,7 @@ nonparole period—
   (b) for a full-time detainee whose nonparole period is subject to reduction or remission under a NSW law—includes the nonparole period less the period of reduction or remission.
 Note Reduction or remission under a NSW law may apply to full-time detainees serving sentences at a NSW correctional centre (see s 36 (2) (b)).
 non-participating territory, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+non-serious offence, for part 7.5A (Parole time credit)—see section 161B.
 offender—
   (a) means a person convicted or found guilty of an offence by a court, and includes a young offender; but
   (b) for chapter 4 (Full-time detention)—see section 22; and
@@ -128,10 +132,13 @@ originating jurisdiction, for a community based sentence, for chapter 12 (Transf
 outstanding fine, in relation to a person, for chapter 6A (Court imposed fines)––see section 116A.
 parole eligibility date, for an offender, means the day the offender’s nonparole period ends.
 parole obligations, of an offender—see section 117.
+parole offence, of an offender, for part 7.5A (Parole time credit)—see section 161A (a).
 parole order means—
   (a) for this Act—see section 117; but
   (b) for part 7.6 (Interstate transfer of parole orders)—see section 162.
 parole release date—see section 117.
+parole sentence, of an offender, for part 7.5A (Parole time credit)—see section 161B.
+parole time credit, of an offender, for part 7.5A (Parole time credit)—see section 161B.
 participating jurisdiction, for chapter 11 (Transfer of community-based sentences)—see section 265.
 participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 penalty notice, for chapter 6A (Court imposed fines)––see section 116A.
@@ -174,10 +181,15 @@ sentence of imprisonment—
   (a) for part 7.6 (Interstate transfer of parole orders)—see section 162; and
   (b) for part 11.1 (Interstate transfer of prisoners)—see section 218.
 sentencing court, for an offender under a sentence, means the court by which the sentence was first imposed, and includes that court differently constituted.
+serious drug offence, for part 7.5A (Parole time credit)—see section 161B.
+serious non-ACT offence, for part 7.5A (Parole time credit)—see section 161B.
+serious offence, for part 7.5A (Parole time credit)—see section 161B.
+serious violent offence, for part 7.5A (Parole time credit)—see section 161B.
 serve a sentence, for chapter 12 (Transfer of community-based sentences)—see section 263.
 served—a period of imprisonment is served when—
   (a) the person is discharged from the imprisonment; or
   (b) the person would have been discharged from the imprisonment if the person were not serving (or to serve) another sentence of imprisonment.
+sexual offence, for part 7.5A (Parole time credit)—see section 161B.
 special parole application—see section 121.
 subject to a sentence of imprisonment, for part 11.1 (Interstate transfer of prisoners)—see section 219.
 supervisory functions, of the board—see section 180.

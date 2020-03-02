@@ -56,6 +56,10 @@
 ### Division 7.4.2 Breach of parole obligations
 ### Division 7.4.3 Parole management
 ## Part 7.5 Change or cancellation of parole
+## Part 7.5A Parole time credit
+### Division 7.5A.1 Preliminary
+### Division 7.5A.2 Parole time credit—rules for applying
+### Division 7.5A.3 Parole time credit—how to apply
 ## Part 7.6 Interstate transfer of parole orders
 # Chapter 8 Sentence administration board
 ## Part 8.1 Establishment, functions and constitution of board
@@ -93,3 +97,4 @@
 ## Part 14A.1 General
 ## Part 14A.2 Young offenders—accommodation orders
 # Chapter 15 Miscellaneous
+# Chapter 22 Transitional—Sentencing (Parole Time Credit) Legislation Amendment Act 2019
