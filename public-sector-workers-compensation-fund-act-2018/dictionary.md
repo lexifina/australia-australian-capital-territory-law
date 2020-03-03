@@ -30,4 +30,5 @@ PSWC fund—see section 7.
 PSWC fund banking account—see section 9.
 PSWC fund directorate means the directorate established under section 8.
 public sector workers compensation appropriation means an appropriation to the PSWC fund directorate declared by the Act by which it is made to be for public sector workers compensation.
+returns, in relation to an investment—see the Financial Management Act 1996, dictionary.
 SRC Act means the Safety, Rehabilitation and Compensation Act 1988 (Cwlth).
