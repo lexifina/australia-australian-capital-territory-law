@@ -50,9 +50,11 @@ family violence offence proceeding, for chapter 4 (Sexual, violent and family vi
 give evidence, in a proceeding by audiovisual link—
   (a) for part 2.2 (Evidence of children—audiovisual links)—see section 6; and
   (b) for division 4.3.5 (Giving evidence by audiovisual link)—see section 67.
+ground rules hearing, for chapter 1A (Ground rules hearings—criminal proceedings)—see section 4AA.
 harm, for division 4.4.3 (Sexual offence proceedings—protection of counselling communications)––see section 79.
 intellectually impaired, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
 intermediaries administrator, for chapter 1B (Witness intermediaries—criminal proceedings)—see section 4AG.
+intermediary, for a witness in a criminal proceeding—see section 4AG.
 less serious violent offence proceeding, for chapter 4 (Sexual, violent and family violence offence proceedings)––see section 39.
 Magistrates Court, for part 2.2 (Evidence of children—audiovisual links)—see section 5.
 participating State, for chapter 3 (Use of audiovisual links and audio links)––see section 16.
@@ -75,5 +77,8 @@ State, for chapter 3 (Use of audiovisual links and audio links)––see section
 territory court, for chapter 3 (Use of audiovisual links and audio links)—see section 16.
 tribunal, in relation to a State, for chapter 3 (Use of audiovisual links and audio links)––see section 16.
 vulnerable adult, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
-witness, for part 4.3 (Special requirements—general)—see section 46.
+witness—
+  (a) for chapter 1A (Ground rules hearings—criminal proceedings)—see section 4AA; and
+  (b) for chapter 1B (Witness intermediaries—criminal proceedings)—see section 4AG; and
+  (c) for part 4.3 (Special requirements—general)—see section 46.
 witness with disability, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
