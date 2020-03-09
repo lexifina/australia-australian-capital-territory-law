@@ -102,6 +102,7 @@ identification evidence means evidence that is—
 at or about the time at which the offence was committed or act was done, that is an assertion based completely or partly on what the person making the assertion saw, heard or otherwise perceived at that place and time; or
   (b) a report (whether oral or in writing) of the assertion.
 informant, for division 3.10.1C (Journalist privilege)—see section 126J.
+intermediary, in relation to a proceeding, means a person appointed as an intermediary for a witness in the proceeding under the Evidence (Miscellaneous Provisions) Act 1991 chapter 1B (Witness intermediaries—criminal proceedings).
 investigating official means—
   (a) a police officer (other than a police officer who is engaged in covert investigations under the orders of a superior); or
   (b) a person appointed by or under an Australian law (other than a person who is engaged in covert investigations under the orders of a superior) whose functions include functions in relation to the prevention or investigation of offences.
