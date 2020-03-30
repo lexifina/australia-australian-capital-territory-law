@@ -194,6 +194,19 @@ prescribed person, in relation to an employer, means a person who was, for longe
   (a) unemployed; and
   (b) receiving an allowance under the Social Security Act 1991 (Cwlth) for that unemployment.
 (3) For subsection (2), definition of prescribed person, a period of not longer than 4 weeks, or periods totalling not longer than 4 weeks, when a person was employed, or was not receiving an allowance under the Social Security Act 1991 (Cwlth) for unemployment, must be disregarded in working out whether a period is a period of longer than 12 months mentioned in the definition.
+## Part 2.7A Jobkeeper payments
+## 2.19A Jobkeeper payments
+## (1) Wages that do not exceed the jobkeeper payment amount are exempt wages if they are paid or payable to an eligible employee.
+(2) The exemption does not apply to any part of wages paid or payable to the eligible employee that exceeds the jobkeeper payment amount.
+(3) In this section:
+eligible employee—see the Coronavirus Economic Response Package (Payments and Benefits) Rules 2020 (Cwlth), section 4.
+jobkeeper payment amount, in relation to wages paid or payable to an eligible employee—
+  (a) means an amount an employer is entitled to under the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 (Cwlth) for the employee; but
+  (b) does not include an overpayment mentioned in the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 (Cwlth), section 9 for the employee.
+## 2.19C Expiry—pt 2.7A
+(1) This part expires 12 months after the day the prescribed period ends.
+(2) In this section:
+prescribed period—see the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 (Cwlth), section 6.
 ## Part 2.8 Certain bank accounts
 ## 2.20 Certain bank accounts
 (1) Wages are exempt wages if they are paid or payable from a bank account kept under the Financial Management Act 1996, part 5, unless—
