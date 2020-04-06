@@ -66,7 +66,7 @@ Payment of rent
 (4) The tenant and lessor may agree that rent is to be paid electronically.
 27 The lessor must not require the tenant to pay rent by postdated cheque.
 Maximum rent in advance
-28 The lessor must not require an amount of rent paid in advance greater than 1 calendar month.
+28 The lessor must not require an amount of rent paid in advance greater than 2 weeks or a longer period nominated by the tenant.
 Rent receipts
 29 If rent is paid in person to the lessor or a real estate agent, a receipt must be given at that time.
 30 In other circumstances where rent is paid to the lessor, a receipt must be provided or sent by post within 1 week of its receipt.
