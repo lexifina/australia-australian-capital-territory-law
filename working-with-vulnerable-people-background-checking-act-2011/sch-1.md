@@ -40,7 +40,6 @@ Examples—par (b)
 1 babysitting service
 2 nanny service
 3 a service conducted by a hotel or resort to provide childcare to children who are short term guests
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (2) In this section:
 childcare service—see the Children and Young People Act 2008, section 732.
 Note Childcare service means—
@@ -65,7 +64,6 @@ Examples—child accommodation service
 1 school group accommodation
 2 a home stay, including as part of a student exchange
 3 a school boarding facility
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.6 Counselling and support services for children
 An activity or service is a regulated activity if the activity is conducted, or the service is provided, as part of—
 ## (a) a counselling service for children; or
@@ -84,7 +82,6 @@ An activity or service is a regulated activity if any of the usual functions of 
 Examples
 1 an activity or service that provides personal care, assessment or referral of support needs, education, training and skill development, information services, recreation, counselling, community access, accommodation support, rehabilitation, or employment services, specifically for people who are mentally impaired, mentally dysfunctional or mentally ill
 2 an activity or service provided in association with the use of premises for the care, treatment or accommodation of people who are mentally impaired, mentally dysfunctional or mentally ill
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.9 Migrants, refugees and asylum seekers
 An activity or service is a regulated activity if the activity is conducted, or the service is provided, to support—
 ## (a) migrants, or
@@ -92,14 +89,12 @@ An activity or service is a regulated activity if the activity is conducted, or 
 ## (c) people who cannot communicate, or who have difficulty communicating, in English.
 Examples
 an activity or service that provides assistance settling in the ACT, including mentoring, employment services, transport or accommodation support, specifically for migrants, refugees, asylum seekers or people from non-English speaking backgrounds
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.10 Homeless people
 An activity or service is a regulated activity if the activity is conducted, or the service is provided, to support people who are homeless.
 Examples
 1 an activity or service that provides food, transport, coordination or referral of support needs for people who are homeless
 2 a drop in centre
 3 a soup kitchen
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.11 Housing and accommodation
 A service or activity is a regulated activity if any of the usual functions of the service or activity include providing public or community housing or accommodation to people suffering social or financial hardship.
 Examples
@@ -110,7 +105,6 @@ Examples
 5 social housing
 6 crisis accommodation
 7 refuges
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.12 Justice facilities
 ## (1) An activity or service is a regulated activity if—
 ## (a) any of the usual functions of the activity or service are carried out in relation to an adult at a justice facility; or
@@ -127,13 +121,11 @@ An activity or service is a regulated activity if the activity is conducted, or 
 Examples
 1 a program to keep police informed of the whereabouts and other personal details about a person who has committed a crime to reduce the likelihood that the person will reoffend
 2 a mentoring program
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.14 Victims of crime
 An activity or service is a regulated activity if the activity is conducted, or the service is provided, to assist or support victims of crime.
 Example
 an activity or service that provides counselling and support, therapeutic intervention, financial assistance, information or advice for victims of crime
-Note 1 Victims of crime are eligible for assistance under the victims services scheme (see Victims of Crime Act 1994, pt 4).
-Note 2 An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+Note Victims of crime are eligible for assistance under the victims services scheme (see Victims of Crime Act 1994, pt 4).
 ## 1.15 Services for addictions
 ## (1) An activity or service is a regulated activity if any of the usual functions of the activity or service include providing treatment, care, rehabilitation or protection to people who are—
 ## (a) addicted to, or misuse, a substance (whether alcohol, a medicine, a prohibited substance or another substance); or
@@ -143,7 +135,6 @@ Examples
 2 a needle and syringe exchange program
 3 a methadone treatment and withdrawal program
 4 a gambling addiction telephone help-line
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (2) In this section:
 prohibited substance—see the Medicines, Poisons and Therapeutic Goods Act 2008, section 13.
 ## 1.16 Community services
@@ -154,13 +145,11 @@ Examples
 1 an activity or service that provides crisis intervention, emergency relief, parenting support, assessment or referral of support needs, education, training and skill development, information services, counselling, community access, or employment services, for people and families suffering social or financial hardship
 2 an activity or service that provides home help, home maintenance or modification, allied health care, personal care, food services, assessment or referral of support needs, information services, coordination, case management, recreation, counselling, community access, rehabilitation, or employment services, to people who need support to live independently
 3 an activity or service provided in association with the use of premises for the care, treatment or accommodation of people who need support to live independently
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.17 Disability services
 ## (1) An activity or service is a regulated activity if the activity is conducted, or the service is provided, specifically for people with a disability.
 Examples
 1 an activity or service that provides home help, home maintenance or modification, personal care, food services, assessment or referral of support needs, information services, coordination, case management, recreation, counselling, community access, rehabilitation, or employment services, to people with a disability
 2 an activity or service provided in association with the use of premises for the care, treatment or accommodation of people with a disability
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (2) In this section:
 disability—see the Human Rights Commission Act 2005, section 8 (2).
 Note For the Human Rights Commission Act 2005, s 8 (2), disability means a disability that—
@@ -186,7 +175,6 @@ a school bus service
 Examples—par (b)
 1 a minibus transporting detainees to or from a remand centre
 2 a taxi for mobility impaired people
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (2) To remove any doubt, an activity or service is a regulated activity if a person must have 1 or both of the following to conduct the activity or provide the service:
 ## (a) a public vehicle licence;
 ## (b) a driving instructor certificate of accreditation.
@@ -220,7 +208,6 @@ Examples
 1 a pathways to employment program
 2 an adult English language, literacy and numeracy skills program
 3 an industry training service
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.23 Religious organisations
 An activity or service is a regulated activity if—
 ## (a) the activity is conducted, or the service is provided, by—
@@ -233,7 +220,6 @@ Example—par (a)
 Sunday school
 Example—par (b)
 counselling provided by a minister of religion
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 1.24 Clubs, associations and movements
 An activity or service is a regulated activity if—
 ## (a) the activity is conducted, or the service is provided, by a club, association or movement (including of a cultural, recreational or sporting nature); and
@@ -243,4 +229,3 @@ An activity or service is a regulated activity if—
 Examples
 1 a children’s football team
 2 an art class for people who require assistance to live independently
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
