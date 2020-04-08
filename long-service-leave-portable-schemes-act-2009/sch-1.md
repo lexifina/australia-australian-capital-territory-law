@@ -67,6 +67,11 @@ W means the number of weeks long service leave held by the registered worker.
 ## (2) A registered worker for the building and construction industry who has 10 years or more recognised service is entitled to additional long service leave worked out in accordance with the long service leave formula for the building and construction industry if the worker—
 ## (a) becomes entitled to long service leave under this Act for work done in the industry; and
 ## (b) is credited in the workers register with an additional period of service in the industry commencing on the date on which the worker became entitled to the long service leave.
+## (3) A registered worker for the building and construction industry is entitled to the number of days of workers long service leave worked out in accordance with the criteria determined by the Minister if—
+## (a) a state of emergency, declared under the Emergencies Act 2004, section 156, exists; or
+## (b) an emergency declaration made under the Public Health Act 1997, section 119 (including any extension or further extension) is in force.
+## (4) A determination under subsection (3) is a disallowable instrument.
+Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
 ## 1.7 Grant of leave by employers—building and construction industry
 ## (1) The employer of a registered employee for the building and construction industry commits an offence if—
 ## (a) the employee’s long service leave accrues; and
@@ -90,12 +95,27 @@ prescribed period, for long service leave accrued by a registered employee for t
 ## (a) the worker has permanently left the industry; and
 ## (b) 20 weeks have passed since the day the worker permanently left the industry; and
 ## (c) the worker has not been credited with service in the workers register for any of the days in the 20-week period.
-(2) Also, this section applies to a registered worker for the building and construction industry if the worker has 5 years recognised service and any of the following apply to the worker:
+## (2) However, subsection (1) (b) and (c) does not apply to a registered worker if—
+## (a) the worker has permanently left the building and construction industry; and
+## (b) the worker has not been credited with service in the workers register for any of the days after the worker permanently left the building and construction industry; and
+## (c) either—
+## (i) a state of emergency, declared under the Emergencies Act 2004, section 156, exists; or
+## (ii) an emergency declaration made under the Public Health Act 1997, section 119 (including any extension or further extension) is in force.
+## (3) Also, this section applies to a registered worker for the building and construction industry if the worker—
+## (a) has left the industry during—
+## (i) a state of emergency declared under the Emergencies Act 2004, section 156; or
+## (ii) a public health emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension); and
+## (b) satisfies the criteria determined by the Minister.
+(4) Also, this section applies to a registered worker for the building and construction industry if the worker has 5 years recognised service and any of the following apply to the worker:
 ## (a) the worker has left the industry because of total incapacity;
 ## (b) the worker has reached the prescribed retiring age;
 ## (c) the worker has died.
-## (3) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave credited to the worker in the workers register.
-## (4) In this section:
+## (5) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for—
+## (a) if subsection (1) or (4) applies to the worker—the amount of long service leave credited to the worker in the workers register; or
+## (b) if subsection (3) applies to the worker—the amount of long service leave determined by the Minister.
+## (6) A determination under this section is a disallowable instrument.
+Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+## (7) In this section:
 prescribed retiring age means—
   (a) in relation to a registered worker who has been granted a service pension under the Veterans’ Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
