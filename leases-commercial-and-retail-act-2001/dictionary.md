@@ -2,10 +2,10 @@
 (see s 4)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-· exercise
-· GST
-· Magistrates Court
-· territory lease.
+• exercise
+• GST
+• Magistrates Court
+• territory lease
 accounting period, for a lessor, means a financial year or other period included in a disclosure notice under section 31 (Form of disclosure statements) or otherwise agreed between the parties.
 bond means an amount paid or payable by a tenant as security for the performance of his or her obligations under a lease.
 certificate of occupancy—see the Building Act 2004, dictionary.
@@ -17,7 +17,6 @@ Examples of acts and omissions in relation to leases or negotiations
 1 making a request or demand of a person in relation to the lease or negotiations
 2 taking action to enforce the terms of the lease
 3 an action or omission that causes a breach of the lease
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 continuous occupation lease—see section 10.
 core trading hours, for a shopping centre, means the hours when retail premises in the shopping centre are generally required to be open for business, whether the requirement is imposed by or under the lease or by or under another agreement or arrangement between the lessor and tenant or is imposed in another way.
 demolition, in relation to premises, includes any repair, renovation or reconstruction of a building containing the premises that cannot be carried out practicably without vacant possession of the premises.
