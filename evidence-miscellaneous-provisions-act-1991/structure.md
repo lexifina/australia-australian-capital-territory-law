@@ -37,3 +37,4 @@
 ## Part 7.3 Evidence in any proceedings—extended application of Evidence Act
 # Chapter 8 Publication of evidence
 # Chapter 9 Miscellaneous
+# Chapter 12 COVID-19 emergency response
