@@ -12,6 +12,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • the Territory
 • veterinary practitioner.
+accompanied by an assistance animal, for division 5.4 (Using an assistance animal)—see section 106B.
+accredited assistance animal, for part 5 (Assistance animals)—see section 94.
 animal nuisance, for part 6 (Animal nuisance)—see section 107.
 animal welfare law, for division 9.3 (Cooperation with other jurisdictions—racing greyhounds)—see section 134AA.
 animal welfare offence means an offence against any of the following provisions of the Animal Welfare Act 1992:
@@ -36,7 +38,10 @@ animal welfare offence means an offence against any of the following provisions 
   (s) section 19 (Medical and surgical procedures—people other than veterinary practitioners).
 approved animal welfare entity means an entity approved by the registrar under section 137.
 approved provider, for division 4.2 (Seizing cats and dealing with them)—see section 85.
-assistance animal means an animal trained to help a person with a disability to alleviate the effect of the disability.
+assistance animal—see the Discrimination Act 1991, section 5AA (3).
+assistance animal assessor, for part 5 (Assistance animals)—see section 94.
+assistance animal standard, for part 5 (Assistance animals)—see section 94.
+assistance animal trainer, for part 5 (Assistance animals)—see section 94.
 authorised person means an authorised person under section 123, and includes the registrar and a deputy registrar.
 breed, a litter from a cat or dog, includes—
   (a) inseminate the animal or do any other act intended to make the animal pregnant or assist the animal in becoming pregnant; and
@@ -50,19 +55,7 @@ dangerous dog means a dog that is declared to be a dangerous dog under section 2
 dangerous dog licence means a licence under section 25 (1) (Dangerous dog licences—approval or refusal).
 deputy registrar means a deputy registrar under section 122.
 de-sex, for part 3 (Dogs and cats)—see section 73.
-disability, for a person, means—
-  (a) total or partial loss of the person’s bodily or mental functions; or
-  (b) total or partial loss of a part of the body; or
-  (c) the presence in the body of disease or organisms causing illness; or
-  (d) the presence in the body of organisms that can cause disease or illness; or
-  (e) the malfunction, malformation or disfigurement of a part of the person’s body; or
-  (f) a disorder or malfunction that results in the person learning differently from a person without the disorder or malfunction; or
-  (g) a disorder, illness or disease that affects a person’s thought processes, perception of reality, emotions or judgment or that results in disturbed behaviour;
-and includes a disability that—
-  (h) currently exists; or
-  (i) previously existed but no longer exists; or
-  (j) may exist in the future; or
-  (k) is imputed to a person.
+disability—see the Discrimination Act 1991, section 5AA.
 effective control—see section 44 (6).
 enter, for division 9.2 (Powers of authorised people)—see section 126.
 excluded offence means—
@@ -70,9 +63,8 @@ excluded offence means—
   (b) an offence against any of the following sections:
     (i) section 37 (Return of special licences);
     (ii) section 82 (Cats in breach of cat containment);
-    (iii) section 105 (Exclusion of assistance animal from public place);
-    (iv) section 106 (Imposition of excess charges for assistance animal);
-    (v) section 142 (Dishonoured cheques and credit transactions).
+    (iii) section 106E (Assistance animal allowed in public places and premises);
+    (iv) section 142 (Dishonoured cheques and credit transactions).
 gaming law—see the Gambling and Racing Control Act 1999, dictionary.
 greyhound racing—see section 39A.
 harass—
@@ -100,6 +92,7 @@ public place—
   (a) means public unleased land; and
   (b) includes a public passenger vehicle under the Road Transport (Public Passenger Services) Act 2001.
 Note A public passenger vehicle is a public bus, light rail vehicle, taxi, rideshare vehicle, hire car or demand responsive service vehicle.
+public premises, for division 5.4 (Using an assistance animal)—see section 106B.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
 racing greyhound—see section 39A.
 racing greyhound controller licence—see section 39H.
@@ -118,3 +111,4 @@ serious injury, to a person or animal, means any injury (including the cumulativ
   (a) endangers, or is likely to endanger, the person or animal’s life; or
   (b) is, or is likely to be, a significant or longstanding injury.
 special licence, for division 2.4 (General provisions about special licences)—see section 29.
+welfare, in relation to animals, for part 5 (Assistance animals)—see section 94.

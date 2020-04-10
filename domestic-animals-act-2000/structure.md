@@ -16,6 +16,10 @@
 ### Division 4.1 Keeping 4 or more cats
 ### Division 4.2 Seizing cats and dealing with them
 ## Part 5 Assistance animals
+### Division 5.1 Preliminary—pt 5
+### Division 5.2 Accreditation of assistance animals
+### Division 5.3 Assistance animal trainers and assessors
+### Division 5.4 Using an assistance animal
 ## Part 6 Animal nuisance
 ## Part 7 Destruction of animals
 ## Part 8 Notification and review of decisions
