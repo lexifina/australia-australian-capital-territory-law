@@ -1,6 +1,10 @@
 ## Part 1 Preliminary
 ## Part 2 Animal welfare offences
 ## Part 3 Codes of practice
+## Part 3A Pet businesses
+### Division 3A.1 Preliminary
+### Division 3A.2 Pet business licensing
+### Division 3A.3 Pet business offences
 ## Part 4 Research, teaching and breeding
 ### Division 4.1 Licences
 ### Division 4.2 Authorisations

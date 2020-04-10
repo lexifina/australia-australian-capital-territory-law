@@ -37,6 +37,8 @@ authorisation holder means a person granted a research authorisation or a teachi
 authorised officer means an authorised officer under section 77.
 authorised staff member, of a corporation, for division 4.2 (Authorisations)—see section 37 (2).
 authority means the Animal Welfare Authority under section 5.
+board, an animal, for part 3A (Pet businesses)—see section 24E.
+breeding licence, for part 3A (Pet businesses)—see section 24E.
 business premises, for division 7.3 (Powers of inspectors)—see section 80.
 circus permit means a circus permit granted under section 55.
 circus permit-holder means a person granted a circus permit under section 55 (1) (a).
@@ -66,6 +68,7 @@ interstate research authorisation means an authorisation (however described) to 
   (b) has not been suspended.
 interstate researcher means a person who holds an interstate research authorisation.
 licence means a licence granted under section 27.
+licensed pet business means a person issued a pet business licence under section 24G (1) (a).
 licensed premises—see section 27 (Decision about licence application).
 licensee means a person granted a licence under section 27 (1) (a).
 mandatory code of practice means a code of practice, or part of a code of practice, approved under section 23 as mandatory.
@@ -86,6 +89,9 @@ person in charge, in relation to an animal, means—
   (c) if a person mentioned in paragraph (b) is acting as the employee or agent of someone else—the other person; or
   (d) if the animal is confined in a saleyard—the occupier of the saleyard.
 pest does not include a domestic animal or native animal.
+pet business, for part 3A (Pet businesses)—see section 24E.
+pet business licence means a licence issued under section 24G (1) (a).
+pet shop, for part 3A (Pet businesses)—see section 24E.
 poison, for part 2 (Animal welfare offences)—see section 6A.
 premises—
   (a) for this Act generally, includes—
