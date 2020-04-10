@@ -19,7 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • State
 • statutory instrument (see s 13)
 • the Territory.
-assistance animal––see the Domestic Animals Act 2000, dictionary.
+assistance animal—see the Discrimination Act 1991, section 5AA (3).
 authorised person, in relation to a pool facility, for part 5 (Refusing entry and removal powers)—see section 25 (1).
 category 1 facility––see section 7.
 condition of entry means a condition of entry included in a standard determined under section 15.
