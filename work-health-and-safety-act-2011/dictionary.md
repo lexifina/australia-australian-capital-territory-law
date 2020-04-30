@@ -63,6 +63,8 @@ notice—
   (b) for division 10.6 (Injunctions)—see section 214.
 notifiable incident—see section 35.
 offender, for division 13.2 (Sentencing for offences)—see section 234.
+office—see office of the work health and safety commissioner.
+office of the work health and safety commissioner, for schedule 2 (The regulator and local tripartite consultation arrangements and other local arrangements)—means the Office of the Work Health and Safety Commissioner established under section 2.18.
 officer means—
   (a) an officer within the meaning of the Corporations Act, section 9, other than a partner in a partnership; or
   (b) an officer of the Territory within the meaning of section 247; or
@@ -80,7 +82,7 @@ prohibited reason, for part 6 (Discriminatory, coercive and misleading conduct)�
 prohibition notice—see section 195.
 public authority means a territory authority.
 reasonably practicable, in relation to a duty to ensure health and safety—see section 18.
-regulator means the director-general.
+regulator means the WHS Commissioner.
 relevant person conducting a business or undertaking, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
 relevant union, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
 relevant worker, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
@@ -115,4 +117,3 @@ worker—see section 7.
 work group means a work group determined under part 5 (Consultation, representation and participation).
 work health and safety commissioner means the Work Health and Safety Commissioner appointed under schedule 2, section 2.21.
 workplace—see section 8.
-work safety commissioner—means the Work Safety Commissioner under schedule 2, part 2.2.

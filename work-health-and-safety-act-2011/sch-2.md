@@ -144,40 +144,198 @@ email
 ## (1) The council may establish the advisory committees that it considers necessary to assist in the exercise of its functions.
 ## (2) The council must, if asked to do so by the Minister, constitute an advisory committee to assist it in the exercise of its functions in relation to any matter stated by the Minister about work health and safety.
 ## (3) Subject to any direction by the council, an advisory committee may decide how it is to exercise its functions.
-## Part 2.2 Work safety commissioner
-## 2.17 Appointment of commissioner
-## (1) The Executive must appoint a person to be the Work Safety Commissioner.
-Note For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
-## (2) The commissioner must be appointed for not longer than 7 years.
-Note 1 A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
-Note 2 A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
-## 2.18 Functions
-## (1) In addition to any other functions given to the commissioner under this Act, the commissioner has the following functions:
-## (a) to promote an understanding and acceptance of, and compliance with, this Act and other laws relating to work safety;
-## (b) to undertake research, and develop educational and other programs, for the purpose of promoting work safety;
-## (c) to advise the Minister on any matter relevant to the operation of this Act and other laws relating to work safety;
-## (d) the functions (if any) that are given to the commissioner under any other territory law.
-Note A provision of a law that gives an entity (including a person) a function also gives the entity the powers necessary and convenient to exercise the function (see Legislation Act, s 196 (1) and dict, pt 1, defs entity and function).
-## (2) In exercising a function mentioned in subsection (1) (a) to (c), neither the commissioner nor a member of the commissioner’s staff is subject to direction by the director-general.
-## 2.19 Retirement
-The Executive may, with the consent of the commissioner, retire the commissioner on the ground of physical or mental incapacity.
-## 2.20 Removal of commissioner
-## (1) The Executive may remove the commissioner from office if—
-## (a) an address praying for his or her removal on the ground of misbehaviour or physical or mental incapacity has been presented to the Executive by the Legislative Assembly; or
-## (b) the commissioner is absent from duty, except on leave granted by the Minister, for 14 consecutive days or for 28 days in any 12 months.
-## (2) The Executive must remove the commissioner from office if the commissioner becomes bankrupt or personally insolvent.
-## (3) The commissioner must not be removed from office except as provided by this section or section 2.21.
-## 2.21 Suspension and removal of commissioner
-## (1) The Executive may suspend the commissioner from office on the ground of misbehaviour or physical or mental incapacity.
-## (2) If the Executive suspends the commissioner from office, the Minister must present a statement of the grounds of the suspension to the Legislative Assembly within 7 sitting days after the suspension.
-## (3) If a statement mentioned in subsection (2) is presented to the Legislative Assembly, the Legislative Assembly may, within 15 sitting days after the day the statement is presented to it, by resolution, declare that the commissioner should be removed from office.
-## (4) If the Legislative Assembly passes a resolution mentioned in subsection (3), the Executive must remove the commissioner from office.
-## (5) If, at the end of 15 sitting days after the day the statement is presented to it, the Legislative Assembly does not pass such a resolution, the suspension ends.
-## (6) The commissioner may not be suspended from office except as provided by this section.
-## 2.22 Ministerial directions to commissioner
-## (1) The Minister may, in writing, give directions to the commissioner in relation to the exercise of his or her functions, either generally or in relation to a particular matter.
-## (2) The commissioner must comply with a direction given under subsection (1).
-## (3) The Minister must present a copy of any direction under subsection (1) to the Legislative Assembly within 5 sitting days after the day it is given to the commissioner.
-## 2.24 Delegation by commissioner
-The commissioner may delegate the commissioner’s functions under a territory law to a member of the commissioner’s staff.
+## Part 2.2 Office of the Work Health and Safety Commissioner
+## Division 2.2.1 Preliminary
+## 2.17 Definitions—pt 2.2
+In this part:
+compliance and enforcement policy—see section 2.37.
+statement of expectations—see section 2.39.
+statement of operational intent—see section 2.40.
+strategic plan—see section 2.38.
+## Division 2.2.2 Establishment and functions of office
+## 2.18 Establishment of office
+The Office of the Work Health and Safety Commissioner is established.
+## 2.19 Constitution of office
+The office consists of—
+## (a) the WHS commissioner; and
+## (b) the staff of the office.
+## 2.20 Functions of office
+The functions of the office include—
+## (a) to promote an understanding and acceptance of, and compliance with, this Act or another territory law relating to work health and safety; and
+## (b) to undertake research, and develop educational and other programs for the purpose of promoting work health and safety; and
+## (c) to advise the Minister on any matter relevant to the operation of a territory law under which the commissioner performs a function; and
+## (d) any other function given to the office under this Act or another territory law under which the office performs a function.
+Note 1 The commissioner is the regulator under this Act (see dict, def regulator).
+Note 2 Function includes authority, duty or power (see Legislation Act, dict, pt 1).
+Note 3 A provision of a law that gives an entity (including a person) a function also gives the entity powers necessary and convenient to exercise the function (see Legislation Act, s 196 and dict, pt 1, def entity).
+## Division 2.2.3 Work health and safety commissioner
+## 2.21 Appointment of WHS commissioner
+## (1) The Executive must appoint a person as the Work Health and Safety Commissioner (the WHS commissioner).
+Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
+Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+## (2) The Executive must not appoint a person as WHS commissioner unless satisfied that—
+## (a) the Minister consulted with the chair and deputy chair of the council in relation to the selection process for the commissioner; and
+## (b) the appointment follows an open and accountable selection process; and
+## (c) the person has the experience or expertise necessary to exercise the commissioner’s functions.
+## (3) The WHS commissioner must not be appointed for longer than 5 years.
+Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
+## (4) The WHS commissioner’s conditions of employment are the conditions agreed between the commissioner and the Executive that are stated in the instrument of appointment, subject to any determination under the Remuneration Tribunal Act 1995.
+## (5) The appointment is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
+## 2.22 Functions of WHS commissioner
+In addition to the functions of the regulator under section 152, the functions of the WHS commissioner are—
+## (a) exercising the functions of the office of the work health and safety commissioner; and
+Note The WHS commissioner is the regulator under this Act (see dict, def regulator).
+## (b) managing the administration of the office; and
+## (c) the efficient and effective financial management of the office’s resources; and
+## (d) making the following for the office:
+## (i) a compliance and enforcement policy;
+## (ii) a strategic plan;
+## (iii) a draft statement of operational intent; and
+## (e) ensuring, as far as practicable, that the functions of the office are exercised—
+## (i) in an orderly and prompt way; and
+## (ii) in a way that takes into account, and complies with, the compliance and enforcement policy, the strategic plan and the statement of operational intent; and
+## (f) any other function given to the WHS commissioner under this Act or another territory law under which the WHS commissioner performs a function.
+Note The WHS commissioner has functions under other territory laws including the Dangerous Substances Act 2004, the Dangerous Substances (Explosives) Regulation 2004, the Dangerous Substances (General) Regulation 2004 and the Machinery Act 1949.
+## 2.23 Independence of WHS commissioner and Ministerial directions
+## (1) Subject to subsection (2), the WHS commissioner is not subject to the direction of anyone else, and must act independently, in relation to the exercise of a function under this Act or another territory law under which the WHS commissioner performs a function.
+## (2) However, the Minister may, in writing, give directions to the WHS commissioner in relation to the exercise of the WHS commissioner’s functions.
+## (3) A direction given under subsection (2) must be of a general nature and not direct the WHS commissioner in relation to a particular investigation or particular regulatory action.
+## (4) The Minister must present a copy of any direction under subsection (2) to the Legislative Assembly within 5 sitting days after the day it is given to the commissioner.
+## 2.24 Duty of good conduct
+## (1) In exercising functions in relation to the office of the work health and safety commissioner, the WHS commissioner must exercise the degree of honesty, care and diligence required to be exercised by a director of a corporation in relation to the affairs of the corporation.
+## (2) The WHS commissioner also has a duty to the office—
+## (a) to act in good faith; and
+## (b) not to pursue personal interests at the expense of the office’s interests; and
+## (c) not to use the office to gain personal advantage; and
+## (d) not to cause detriment to the office or undermine the reputation of the office.
+## 2.25 Disclosure of interests
+## (1) The WHS commissioner must give the Executive a written statement of the WHS commissioner’s personal and financial interests within 7 days after—
+## (a) the day the WHS commissioner is appointed; and
+## (b) the first day of each financial year; and
+## (c) the day there is a change in the interest.
+## (2) If the WHS commissioner has a personal or financial interest that conflicts or may conflict, or may be perceived to conflict, with the WHS commissioner’s functions, the WHS commissioner must disclose to the Executive, in writing, the nature of the interest and the conflict or potential conflict.
+Note The WHS commissioner must disclose a conflict of interest as soon as possible and as often as needed (see Legislation Act, s 151B).
+## 2.26 Outside employment
+The WHS commissioner must not, without the Minister’s approval, engage in paid employment outside the functions of the office.
+## 2.27 Ending appointment—generally
+## (1) The Executive may end a person’s appointment as the WHS commissioner—
+## (a) for misbehaviour; or
+## (b) if the person becomes bankrupt or personally insolvent; or
+Note Bankrupt or personally insolvent—see the Legislation Act, dict, pt 1.
+## (c) if the person fails to take all reasonable steps to avoid being placed in a position where a conflict of interest arises during the exercise of the WHS commissioner’s functions; or
+## (d) if the person is convicted, in the ACT, of an offence punishable by imprisonment for at least 1 year; or
+## (e) if the person is convicted outside the ACT, in Australia or elsewhere, of an offence that, if it had been committed in the ACT, would be punishable by imprisonment for at least 1 year; or
+## (f) under section 2.28; or
+## (g) if the person is absent, other than on leave approved under section 2.29, for 14 consecutive days or for 28 days in any 12-month period.
+## (2) The Executive must end the WHS commissioner’s appointment for physical or mental incapacity, if the incapacity substantially affects the exercise of the WHS commissioner’s functions.
+Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
+## 2.28 Ending appointment—council no-confidence resolution
+## (1) This section applies if the council passes a resolution of no-confidence in the WHS commissioner by a majority of at least 2/3 of the appointed members.
+## (2) The Executive must give the WHS commissioner written notice of the resolution stating—
+## (a) the grounds for the resolution; and
+## (b) that the WHS commissioner may, within 14 days after the date of the notice (the show cause period), give a written submission to the Executive showing cause why the WHS commissioner’s appointment should not be ended.
+## (3) The Executive must, within 21 days after the end of the show cause period—
+## (a) consider any submissions received under subsection (2) (b); and
+## (b) decide whether to end the WHS commissioner’s appointment.
+## 2.29 Leave of absence
+The Minister may approve leave of absence for the WHS commissioner on the terms the Minister decides.
+## Division 2.2.4 Office—staff
+## 2.30 Meaning of staff of the office—pt 2.2
+In this part:
+staff of the office means—
+  (a) the deputy WHS commissioner appointed under section 2.31; and
+  (b) the staff employed under section 2.32; and
+  (c) consultants and contractors engaged under section 2.33.
+## 2.31 Appointment of deputy WHS commissioner
+## (1) The WHS commissioner must appoint a public servant to be the deputy WHS commissioner.
+Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
+Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+## (2) However, the WHS commissioner must not appoint a person as the deputy WHS commissioner unless satisfied that the person has the experience or expertise necessary to exercise the WHS commissioner’s functions.
+## (3) If the appointment of the WHS commissioner has ended, or the commissioner is absent or cannot for any reason exercise the commissioner’s functions, the deputy WHS commissioner must act as the WHS commissioner.
+Note The Legislation Act, div 19.3.2A deals with standing acting arrangements.
+## (4) However, the deputy WHS commissioner must not act as the WHS commissioner for a continuous period of more than 6 months.
+## 2.32 Employment of staff
+## (1) The WHS commissioner may employ staff on behalf of the Territory.
+## (2) The staff must be employed under the Public Sector Management Act 1994.
+Note The Public Sector Management Act 1994, div 8.2 applies to the WHS commissioner in relation to the employment of staff (see Public Sector Management Act 1994, s 152).
+## 2.33 Engagement of consultants and contractors
+## (1) The WHS commissioner may engage the consultants and contractors that may be necessary or convenient to exercise the WHS commissioner’s functions.
+## (2) The conditions of a consultant’s or contractor’s engagement are the conditions agreed between the WHS commissioner and the consultant or contractor.
+## (3) However, this section does not give the WHS commissioner the power to enter into a contract of employment with a consultant or contractor.
+## 2.34 Independence of staff of the office
+A member of the staff of the office is, in relation to the exercise of a function under this Act or another territory law under which the office performs a function, not subject to the direction of anyone except—
+## (a) the WHS commissioner; or
+## (b) another member of staff of the office who is authorised by the WHS commissioner to give directions.
+## 2.35 Delegation of functions
+The WHS commissioner may delegate the commissioner’s functions under this Act or another territory law under which the commissioner performs a function to a member of the staff of the office.
 Note For the making of delegations and the exercise of delegated functions, see the Legislation Act, pt 19.4.
+## 2.36 Other arrangements for staff and facilities
+The WHS commissioner may arrange with the head of service to use the services of a public servant or territory facilities.
+Note The head of service may delegate powers in relation to the management of public servants to a public servant or another person (see Public Sector Management Act 1994, s 18).
+## Division 2.2.5 Office—policy and reporting framework
+## 2.37 Compliance and enforcement policy
+## (1) The WHS commissioner must, for every period of 4 years, make a policy (a compliance and enforcement policy) that includes the following:
+## (a) the aims of compliance and enforcement activity for the office;
+## (b) the key principles underpinning compliance and enforcement activity to be carried out by the office;
+## (c) the approach the office must take in relation to monitoring and compliance;
+## (d) the compliance and enforcement tools to be used by the office;
+## (e) guidance material about enforcement, investigation and prosecution recommendation criteria to be applied by the office;
+## (f) any other matter relating to the compliance and enforcement functions of the office, prescribed by regulation.
+(2) In developing the compliance and enforcement policy, the WHS commissioner must—
+  (a) consult the Minister and the council; and
+  (b) consider any representation or advice given under paragraph (a).
+## (3) The compliance and enforcement policy is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
+## (4) The WHS commissioner must give the compliance and enforcement policy to the Minister within 10 working days after notifying the policy.
+## (5) The Minister must present the compliance and enforcement policy to the Legislative Assembly within 6 sitting days after receiving the policy.
+## (6) The WHS commissioner must review the policy at least once in the 4 years during which the policy is in effect.
+## 2.38 Strategic plan
+## (1) The WHS commissioner must, for every period of 4 financial years, make a plan (a strategic plan) that includes the following:
+## (a) the purpose and objectives of the office;
+## (b) the outcomes to be achieved by the office;
+## (c) strategies to be used by the office to achieve the matters mentioned in paragraphs (a) and (b);
+## (d) the strategic enforcement priorities for the office;
+## (e) a description of the operating environment of the office;
+## (f) the performance criteria for the office;
+## (g) strategies to improve the capability of the office;
+## (h) procedures for the oversight and management of risk within the office;
+## (i) any other matter related to strategic planning for the office prescribed by regulation.
+## (2) In developing the strategic plan the WHS commissioner must—
+## (a) consult the Minister and the council; and
+## (b) consider any representation or advice given under paragraph (a).
+## (3) The strategic plan is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
+## (4) The WHS commissioner must give the strategic plan to the Minister within 10 working days after notifying the plan.
+## (5) The Minister must present the strategic plan to the Legislative Assembly within 6 sitting days after receiving the plan.
+## 2.39 Ministerial statement of expectations
+## (1) The Minister must, at least once every 12 months—
+## (a) make a statement setting out the priority activities and initiatives for the office (a statement of expectations); and
+## (b) give the statement of expectations to the WHS commissioner.
+## (2) Before making a statement of expectations, the Minister must consult the council about the priority activities and initiatives for the office in the next 12 months.
+## (3) The statement of expectations—
+## (a) must not include specific direction about the exercise of a regulatory function under the Act; but
+## (b) may include—
+## (i) general directions about the priority activities and initiatives for the office; and
+## (ii) any information the Minister believes will assist the office to implement the statement of expectations.
+## (4) A statement of expectations is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
+## 2.40 Statement of operational intent
+## (1) Within 60 days after the day the Minister gives the statement of expectations to the WHS commissioner, the commissioner must give the Minister a draft statement setting out how the office will give effect to the statement of expectations (a statement of operational intent).
+## (2) The Minister must, within 60 days after the day the Minister receives a draft statement of operational intent—
+## (a) approve the draft statement; or
+## (b) reject the draft statement; or
+## (c) approve the draft statement with conditions.
+## (3) An approved statement of operational intent is a notifiable instrument.
+Note A notifiable instrument must be notified under the Legislation Act.
+## 2.41 Annual report
+## (1) The WHS commissioner must prepare an annual report about the operation of the office under the Annual Reports (Government Agencies) Act 2004.
+## (2) The report must include—
+## (a) a statement from the chair of the council about the following:
+## (i) the performance of the office during the reporting year;
+## (ii) the effectiveness of compliance and enforcement activities undertaken by the office during the reporting year taking into account the compliance and enforcement policy;
+## (iii) the implementation by the office of the strategic plan during the reporting year; and
+## (b) any statement of expectations and statement of operational intent in effect during the reporting year; and
+## (c) information about the extent to which any statement of operational intent in effect during the reporting year was met during the reporting year; and
+## (d) if the statement of operational intent was not met in whole or in part during the reporting year—reasons why the statement of operational intent was not met; and
+## (e) any other matter prescribed by regulation.
