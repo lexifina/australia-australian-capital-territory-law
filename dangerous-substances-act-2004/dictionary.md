@@ -19,7 +19,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • rural fire service
 • SES
-• State.
+• State
+• work health and safety commissioner.
 ADG Code (or Australian Dangerous Goods Code) means the Australian Code for the Transport of Dangerous Goods by Road and Rail, published by the Commonwealth, as in force from time to time.
 affected residential premises register—see section 47N.
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
@@ -41,7 +42,6 @@ Examples of carry for a dangerous substance
 1 moving, transferring or transporting a dangerous substance within a processing system or pipeline
 2 loading a dangerous substance onto, and unloading the substance from, a vehicle
 3 driving a vehicle carrying a dangerous substance
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 cause death or injury to a person, or substantial damage to property or the environment, means substantially contribute directly or indirectly to the death, injury or damage.
 close associate, of someone, for chapter 4 (Licences for dangerous substances)—see section 48.
 compliance agreement—see section 94 (2).
