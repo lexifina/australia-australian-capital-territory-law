@@ -21,7 +21,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • reviewable decision notice
 • territory law
 • under
-• work safety commissioner
+• work health and safety commissioner
 • year.
 act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
 annual premium, for an employer, for part 5.4A (Return-to-work coordinators)—see section 103A.
