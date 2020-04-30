@@ -474,10 +474,10 @@ veterinary practitioner means a person registered as a veterinary practitioner u
 victims of crime commissioner means the Victims of Crime Commissioner under the Human Rights Commission Act 2005.
 will includes a codicil.
 word includes any drawing, figure, number and symbol.
+work health and safety commissioner means the Work Health and Safety Commissioner under the Work Health and Safety Act 2011, schedule 2, section 2.21.
 working day means a day that is not—
   (a) a Saturday or Sunday; or
   (b) a public holiday in the ACT.
-work safety commissioner means the Work Safety Commissioner under the Work Health and Safety Act 2011, schedule 2, part 2.2.
 writing includes any way of representing or reproducing words in visible form.
 Examples
 printing, photocopying, photography, typewriting
