@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Executive
 • integrity commissioner
 • Territory
+• work health and safety commissioner
 • writing.
 assessor, of the ACAT—see the ACT Civil and Administrative Tribunal Act 2008, dictionary.
 determination means a determination under section 9, 10 or 14.
