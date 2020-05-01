@@ -15,4 +15,3 @@
 ## Part 6A Authorisation numbers for electronic gaming
 ## Part 6B Licences, authorisation certificates and authorisations—register and replacement copies
 ## Part 7 Miscellaneous
-## Part 20 Transitional—Casino (Electronic Gaming) Act 2017
