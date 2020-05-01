@@ -16,4 +16,3 @@
 ### Division 5B.3 Other matters
 ## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous
-## Part 11 Transitional—Racing (Greyhounds) Amendment Act 2017
