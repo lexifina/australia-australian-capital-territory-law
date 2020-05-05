@@ -306,9 +306,9 @@ Termination of tenancy without cause
 (2) If subclause (1) applies, the tenancy terminates on the day the tenant vacates the premises.
 Termination of periodic tenancy
 96 (1) If there is a periodic tenancy, the lessor may serve on the tenant a notice to vacate for the following periods on the following grounds:
-(a) 4 weeks notice if the lessor genuinely intends to live in the premises;
-(b) 4 weeks notice if the lessor genuinely believes the lessor’s immediate relative intends to live in the premises;
-(c) 4 weeks notice if the lessor genuinely believes an interested person intends to live in the premises;
+(a) 8 weeks notice if the lessor genuinely intends to live in the premises;
+(b) 8 weeks notice if the lessor genuinely believes the lessor’s immediate relative intends to live in the premises;
+(c) 8 weeks notice if the lessor genuinely believes an interested person intends to live in the premises;
 (d) 8 weeks notice if the lessor genuinely intends to sell the premises;
 (e) 12 weeks notice if the lessor genuinely intends to reconstruct, renovate or make major repairs to the premises and the reconstruction, renovation or repairs cannot reasonably be carried out with the tenant living in the premises.
 (1A) If the lessor serves a notice to vacate on the ground of an intention or belief mentioned in subclause (1) (a), (b) or (c), the lessor must also give the tenant a statutory declaration about the intention or belief.
