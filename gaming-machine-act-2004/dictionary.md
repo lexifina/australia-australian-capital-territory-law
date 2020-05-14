@@ -117,6 +117,7 @@ Control Act means the Gambling and Racing Control Act 1999.
 control procedures, for an entity, means the procedures under section 97.
 corporation includes a club.
 Note Corporation—see the Legislation Act, dictionary, pt 1.
+COVID-19 emergency, for part 12 (Community contributions)—see section 164.
 disciplinary action—see section 58.
 disciplinary notice, for part 4 (Disciplinary action)—see section 61.
 dispose of, a gaming machine, includes the following:
@@ -130,7 +131,6 @@ eligible object—see section 145.
 eligible person—
   (a) for an individual—see section 6; and
   (b) for a corporation—see section 7.
-emergency declaration, for part 12 (Community contributions)—see section 164.
 employ includes engage.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external administrator, for a licensee, for division 6A.2 (Repossession of gaming machines)—see section 105A.
