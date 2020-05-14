@@ -47,11 +47,14 @@ W means the number of weeks long service leave held by the registered worker.
 ## (2) A registered worker for the contract cleaning industry is entitled to long service leave for additional days of service worked out in accordance with the long service leave formula if the worker—
 ## (a) becomes entitled to long service leave under this Act; and
 ## (b) is credited with the additional days in the workers register after becoming entitled to long service leave.
-## (3) A registered worker for the contract cleaning industry is entitled to the number of days of workers long service leave worked out in accordance with the criteria determined by the Minister if—
-## (a) a state of emergency, declared under the Emergencies Act 2004, section 156, exists; or
-## (b) an emergency declaration made under the Public Health Act 1997, section 119 (including any extension or further extension) is in force.
-## (4) A determination under subsection (3) is a disallowable instrument.
+(3) During a COVID-19 emergency, a registered worker for the contract cleaning industry is entitled to the number of days of workers long service leave worked out in accordance with the criteria determined by the Minister.
+(4) A determination under subsection (3) is a disallowable instrument.
 Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+(5) In this section:
+COVID-19 emergency means—
+  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
+  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
+(6) This subsection and subsections (3) to (5) expire on the first day no COVID-19 emergency is in force.
 ## 2.7 Grant of leave by employers—contract cleaning industry
 ## (1) The employer of a registered employee for the contract cleaning industry commits an offence if—
 ## (a) the employee’s long service leave accrues; and
@@ -75,30 +78,30 @@ prescribed period, for long service leave accrued by a registered employee for t
 ## (a) the worker has permanently left the industry; and
 ## (b) 20 weeks have passed since the day the worker permanently left the industry; and
 ## (c) the worker has not been credited with service in the workers register for any of the days in the 20-week period.
-## (2) However, subsection (1) (b) and (c) does not apply to a registered worker if—
-## (a) the worker has permanently left the contract cleaning industry; and
-## (b) the worker has not been credited with service in the workers register for any of the days after the worker permanently left the contract cleaning industry; and
-## (c) either—
-## (i) a state of emergency, declared under the Emergencies Act 2004, section 156, exists; or
-## (ii) an emergency declaration made under the Public Health Act 1997, section 119 (including any extension or further extension) is in force.
-## (3) Also, this section applies to a registered worker for the contract cleaning industry if the worker—
-## (a) has left the industry during—
-## (i) a state of emergency declared under the Emergencies Act 2004, section 156; or
-## (ii) a public health emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension); and
-## (b) satisfies the criteria determined by the Minister.
-(4) Also, this section applies to a registered worker for the contract cleaning industry if the worker has 5 years recognised service and any of the following apply to the worker:
+## (2) Also, this section applies to a registered worker for the contract cleaning industry if the worker has 5 years recognised service and any of the following apply to the worker:
 ## (a) the worker has left the industry because of total incapacity;
 ## (b) the worker has reached the prescribed retiring age;
 ## (c) the worker has died.
-## (5) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for—
-## (a) if subsection (1) or (4) applies to the worker—the number of weeks long service leave worked out in accordance with the long service leave formula; or
-## (b) if subsection (3) applies to the worker—the amount of long service leave determined by the Minister.
-## (6) A determination under this section is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
-## (7) In this section:
+## (3) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the number of weeks long service leave worked out in accordance with the long service leave formula.
+## (4) In this section:
 prescribed retiring age means—
-  (a) for a registered worker who has been granted a service pension under the Veterans’ Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
+  (a) for a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
+## 2.8A Entitlement to payment instead of leave—contract cleaning industry—COVID-19 emergency
+## (1) This section applies during a COVID-19 emergency to a registered worker for the contract cleaning industry who has at least 7 years recognised service if—
+## (a) the worker has permanently left the industry; and
+## (b) the worker has not been credited with service in the workers register for any of the days after the worker permanently left the contract cleaning industry.
+## (2) Also, this section applies during a COVID-19 emergency to a registered worker for the contract cleaning industry if the worker—
+## (a) has left the industry during the COVID-19 emergency; and
+## (b) satisfies the criteria determined by the Minister.
+## (3) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave determined by the Minister.
+## (4) A determination under this section is a disallowable instrument.
+Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
+(5) In this section:
+COVID-19 emergency means—
+  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
+  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
+(6) This section expires on the first day no COVID-19 emergency is in force.
 ## 2.9 Payments for leave—contract cleaning industry
 ## (1) A registered employee for the contract cleaning industry who has been granted long service leave under section 2.7, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
 Note If a form is approved under s 92 for an application, the form must be used.

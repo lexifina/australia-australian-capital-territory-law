@@ -22,6 +22,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity | column 
 19 | 89 (2) (b) | not satisfied that amount paid by employer was properly paid | employer | registrar
 20 | 89A (2) | refuse reimbursement of direct payment of long service leave | employer | registrar
 21 | sch 1, 1.7 (5) (b), sch 2, 2.7 (5) (b), sch 3, 3.8 (5) (b) or sch 4, 4.8 (5) | refuse to allow additional period | applicant | governing board
-22 | sch 1, 1.8 (5), sch 2, 2.8 (5), sch 3, 3.9 (3), or sch 4, 4.9 (3) | not satisfied that section applies to applicant | applicant | governing board
+22 | sch 1, 1.8 (3), sch 2, 2.8 (3), sch 3, 3.9 (2), or sch 4, 4.9 (2) | not satisfied that section applies to applicant | applicant | governing board
+22A | sch 1, 1.8A (3), sch 2, 2.8A (3), sch 3, 3.9A (2), or sch 4, 4.9A (2) | not satisfied that section applies to applicant | applicant | governing board
 23 | sch 1, 1.9 (2), sch 2, 2.9 (2), sch 3, 3.10 (2) or sch 4, 4.10 (2) (a) | not satisfied that applicant entitled to long service leave | applicant | governing board
 24 | sch 1, 1.10 (6), sch 2, 2.10 (6), sch 3, 3.11 (6) or sch 4, 4.11 (6) | not satisfied that applicant entitled to payment instead of long service leave | applicant | governing board
