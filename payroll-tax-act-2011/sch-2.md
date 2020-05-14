@@ -203,6 +203,13 @@ eligible employee—see the Coronavirus Economic Response Package (Payments and 
 jobkeeper payment amount, in relation to wages paid or payable to an eligible employee—
   (a) means an amount an employer is entitled to under the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 (Cwlth) for the employee; but
   (b) does not include an overpayment mentioned in the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 (Cwlth), section 9 for the employee.
+## 2.19B Notification offence—revocation of entitlement to jobkeeper payments
+(1) An employer commits an offence if—
+  (a) the employer is the subject of a decision that the employer is entitled to a payment under the Coronavirus Economic Response Package (Payments and Benefits) Act 2020 (Cwlth); and
+  (b) the decision is revoked under that Act, section 14 (6); and
+  (c) the employer does not notify the commissioner of the revocation within 14 days after the revocation.
+Maximum penalty: 10 penalty units.
+(2) An offence against this section is a strict liability offence.
 ## 2.19C Expiry—pt 2.7A
 (1) This part expires 12 months after the day the prescribed period ends.
 (2) In this section:
