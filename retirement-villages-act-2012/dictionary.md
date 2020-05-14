@@ -44,6 +44,9 @@ community title scheme—see the Community Title Act 2001, dictionary.
 company title scheme means a scheme under which a group of adjoining or adjacent premises (including residential premises) is owned or leased by a corporation each of whose shareholders has, because of the shareholder’s shares, an exclusive right (under a lease or otherwise) to occupy 1 or more of the residential premises.
 condition report—see section 59 (1).
 contract for the sale, of residential premises occupied under a company title scheme—see section 9.
+COVID-19 emergency means—
+  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
+  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
 departure fee—see section 214.
 development approval—see the Planning and Development Act 2007, dictionary.
 disclosure statement means a statement mentioned in section 24.
