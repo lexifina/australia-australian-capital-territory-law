@@ -35,7 +35,6 @@ health care, for a person who is a principal for a power of attorney—
       (C) the administration is for a recommended purpose and at a recommended dosage level.
 Example for par (b)
 a visual examination of a principal’s mouth, throat, nasal cavity, eyes or ears
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 health care facility means a hospital, mental health facility, residential aged care facility or residential disability care facility.
 health care matter—see section 12.
 health care provider, for a person who is a principal for a power of attorney, means a health professional who provides health care to the principal.
@@ -52,7 +51,6 @@ Examples of use of legal services
 1 use of legal services to get information about the principal’s legal rights
 2 use of legal services to make a transaction
 3 use of legal services to bring or defend a proceeding before a court, tribunal or other entity
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 low-risk research, in relation to a person, for part 4.3A (Medical research matters)—see section 41A.
 medical research, in relation to a person, for part 4.3A (Medical research matters)—see section 41A.
 medical research matter, for a principal—see section 12A.

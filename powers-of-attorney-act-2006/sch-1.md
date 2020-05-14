@@ -20,7 +20,6 @@ Examples of preserving individual’s right to make own decisions
 1 The individual must be given any necessary support, and access to any necessary information, to allow the individual to take part in decisions affecting the individual’s life to the greatest extent practicable.
 2 To the greatest extent practicable, the individual’s views and wishes must be sought and taken into account before exercising power in relation to the individual.
 3 Power in relation to the individual must be exercised in the way that is least restrictive of the individual’s rights.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## (4) If an individual’s wishes or needs cannot be expressed by the individual, the person exercising power in relation to the individual must try to work out, as far as possible, from the individual’s past actions, what the individual’s wishes and needs would be if the individual could express them and take those wishes and needs into account.
 ## (5) However, a person exercising a function in relation to an individual must do so in a way consistent with the individual’s proper care and protection.
 ## (6) An individual’s views and wishes may be expressed orally, in writing or in another way, including, for example, by conduct.
