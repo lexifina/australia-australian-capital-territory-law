@@ -102,4 +102,5 @@ service for victims of crime—see section 9A.
 third-party report—see section 83 (1).
 unlawful act, for division 4.2A (Discrimination complaints to ACAT)—see section 53.
 victims of crime commissioner means the commission member exercising the functions under section 27C.
+vulnerable person complaint means a complaint about the treatment of a vulnerable person that may be made, or is made, under section 41B.
 young person means a person who is 12 years old or older, but not yet an adult.
