@@ -72,6 +72,7 @@ category C firearm means a firearm to which a category C licence applies.
 category D firearm means a firearm to which a category D licence applies.
 category H firearm means a firearm to which a category H licence applies.
 close associate, of a licensed firearms dealer—see section 16.
+coach, in the sport of biathlon or modern pentathlon, for schedule 2 (Exemptions from Act)—see section 2.1.
 composite entity—see section 100.
 composite entity firearms licence—see section 46.
 connected—a thing is connected with an offence if—
@@ -152,6 +153,7 @@ paintball marker means a firearm designed to discharge a paintball.
 paintball range operator, for an approved paintball range, means a person licensed under this Act to operate the range.
 parental responsibility—a person has parental responsibility for a child or young person if the person has parental responsibility for the child or young person under the Children and Young People Act 2008.
 Note Parental responsibility is dealt with in the Children and Young People Act 2008, div 1.3.2.
+participating, in the sport of biathlon or modern pentathlon, for schedule 2 (Exemptions from Act)—see section 2.1.
 permit means a permit in force under this Act.
 permit-holder means the holder of a permit.
 permit to acquire, a firearm, means a permit to acquire the firearm issued under part 10 (Permits to acquire firearms).
