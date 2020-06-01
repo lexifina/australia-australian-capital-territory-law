@@ -8,6 +8,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • contravene
 • exercise
 • function
+• land titles register
 • law
 • may (see s 146)
 • must (see s 146)
