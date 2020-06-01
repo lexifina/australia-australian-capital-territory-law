@@ -27,7 +27,6 @@ building includes—
 Examples of site improvements
 1 a paved path
 2 a paved barbecue area
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
 building damage scheme—see section 152.
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
@@ -78,7 +77,6 @@ Examples—interested nonvoters
 2 For par (b) (i), a part-owner of a unit that is owned by 2 or more people, if the part-owner was not the representative for the unit when the application was authorised at a general meeting. The part-owner would not have been ‘entitled to vote’ under the Unit Titles (Management) Act 2011, sch 3, s 3.20.
 3 For par (b) (i), an owner of a unit for which a mortgagee has issued a mortgagee voting notice under the Unit Titles (Management) Act 2011, sch 3, s 3.23. The owner would not have been ‘entitled to vote’ under that Act, sch 3, s 3.20.
 4 For par (b) (ii), the mortgagee of a unit who was not entitled to vote on the motion authorising the application because the mortgagee did not (or was not entitled to) issue a mortgagee voting notice under the Unit Titles (Management) Act 2011, sch 3, s 3.23.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 internally reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 internal reviewer, for part 14 (Notification and review of decisions)—see section 174A.
 internal review notice, for part 14 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
@@ -125,7 +123,6 @@ Examples
 2 the heir, executor or administrator of the proprietor
 3 the trustee in relation to the proprietor’s interest under the Bankruptcy Act 1966 (Cwlth)
 4 for a company that is a proprietor, the company’s liquidators
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 provisional building damage order—see section 154.
 provisions, of a lease, means the provisions, covenants and conditions subject to which the lease is held.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
