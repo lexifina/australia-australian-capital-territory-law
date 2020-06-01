@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
 • function
+• land titles register
 • planning and land authority
 • reviewable decision notice
 • Supreme Court
@@ -27,7 +28,7 @@ eligible person, for a lot in relation to which a community title certificate, o
 exclusive use by-law means a by-law giving the owner of a lot exclusive rights to the use and enjoyment of, or other special rights over, the common property of a community title scheme or part of the common property.
 land sublease—see the Planning and Development Act 2007, dictionary.
 lot—
-  (a) means a parcel of land for which a certificate of title has been issued under the Land Titles Act 1925; but
+  (a) means a parcel of land registered under the Land Titles Act 1925; but
   (b) does not include a land sublease other than a declared land sublease.
 lot entitlement schedule—see section 7 (h) (Form and content of management statements).
 manager, of a community title scheme, means a person appointed by the body corporate of the scheme under section 44.
