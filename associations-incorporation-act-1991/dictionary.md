@@ -11,6 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • financial year
 • function
 • home address
+• land titles register
 • notifiable instrument (see s 10)
 • public holiday
 • registrar-general
