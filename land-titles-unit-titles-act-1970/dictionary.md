@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • document
 • land
+• land titles register
 • Magistrates Court
 • Minister (see s 162)
 • planning and land authority
