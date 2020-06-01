@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • civil partnership
 • civil union
 • Commonwealth
+• corporation
 • Corporations Act
 • estate
 • exercise
@@ -33,6 +34,8 @@ Crown lease means—
   (a) a territory lease; and
   (b) includes a lease granted by the Commonwealth or the Federal Capital Commission.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
+E-Conveyancing Law means the Electronic Conveyancing National Law (ACT).
+Note The Electronic Conveyancing National Law (ACT) Act 2020, s 6 applies the Electronic Conveyancing National Law set out in the appendix to the Electronic Conveyancing (Adoption of National Law) Act 2012 (NSW), as if it were an ACT law called the Electronic Conveyancing National Law (ACT).
 encumbrance means any charge on land created for the purpose of securing the payment of an annuity or sum of money other than a debt.
 encumbrancee means the proprietor of an encumbrance.
 encumbrancer means the proprietor of any land or of any interest in land subject to an encumbrance.
@@ -47,6 +50,7 @@ memorandum of provisions means a memorandum registered under section 103A.
 memorial means a notation, entered in the register, or endorsed on a document.
 mortgage means any charge on land created merely for securing a debt.
 mortgagee means the proprietor of a mortgage.
+mortgagee corporation means a mortgagee that is a corporation.
 mortgagor means the proprietor of land or of any interest in land pledged as security for a debt.
 proprietor means a person seized or possessed of, or entitled to, land, at law or in equity.
 register means the register kept under section 43.
@@ -54,3 +58,5 @@ registrable form, for an instrument—see section 4.
 transfer means the passing of any interest in land under this Act whether for valuable consideration or otherwise.
 transmission means the acquirement of title to or interest in land consequent on the death, will, intestacy, bankruptcy, insolvency, marriage, civil union or civil partnership of a proprietor.
 units plan—see the Unit Titles Act 2001, dictionary.
+verification of authority rules—see section 48BF (1).
+verification of identity rules—see section 48BE (1).

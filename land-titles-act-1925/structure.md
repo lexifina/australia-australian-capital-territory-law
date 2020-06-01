@@ -6,7 +6,7 @@
 ### Division 5.1 Requirements of applications
 ### Division 5.2 Procedure on applications
 ### Division 5.3 Caveats against original applications
-## Part 6 Issue of certificates of title and grants
+### Part 6 Bringing land under the Act—miscellaneous
 ## Part 7 Land registered under Real Property Act 1900 (NSW)
 ## Part 8 Register book and registration
 ## Part 8A Record of administrative interests
