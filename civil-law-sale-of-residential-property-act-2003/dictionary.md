@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Australian driver licence
 • corporation
 • domestic partner (see s 169 (1))
+• land titles register
 • lawyer
 • territory lease.
 agent means—
