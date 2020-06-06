@@ -38,6 +38,7 @@ authorised person—
   (b) for part 11A (Compliance testing)—see section 187A.
 bar licence—see section 22.
 breath testing machine, for division 8.7 (Breath testing machines)—see section 133.
+cancellation order, for part 11B (Cancellation of licence or permit for criminal activity)—see section 187H.
 catered premises means premises where liquor is authorised to be sold under a catering licence.
 catering licence—see section 20A.
 caution offence, for division 9.3 (Police cautions for children and young people)—see section 149.
@@ -70,6 +71,9 @@ emergency closure notice—see section 147.
 emergency closure order—see section 146.
 enclosed, for premises, means enclosed as prescribed by regulation.
 enclosed public place—see the Smoke-Free Public Places Act 2003, dictionary.
+excluded person, for division 8.10 (Exclusion orders)—see section 143D.
+exclusion order, for division 8.10 (Exclusion orders)—see section 143D.
+exclusion period, for division 8.10 (Exclusion orders)—see section 143D.
 false identification document, for a person, means an identification document that—
   (a) was fraudulently obtained; or
   (b) was issued to someone else; or
@@ -98,6 +102,8 @@ influential person, for a corporation—see section 15.
 interstate proof of identity card means a document corresponding to a proof of identity card that has been issued under the law of a State.
 intoxicated—see section 104.
 investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
+involved, with a licence, for part 11B (Cancellation of licence or permit for criminal activity)—see section 187H.
+involved, with a permit, for part 11B (Cancellation of licence or permit for criminal activity)—see section 187H.
 lease—see the Planning and Development Act 2007, section 235.
 licence—see section 16.
 licence and permit register—see section 195.
