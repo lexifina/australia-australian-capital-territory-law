@@ -10,6 +10,9 @@
 ## Part 5 Automatic licence suspension and occupational discipline
 ### Division 5.1 Automatic licence suspension
 ### Division 5.2 Occupational discipline—licensees
+## Part 5A Licence cancellation for criminal activity
+### Division 5A.1 Cancellation orders
+### Division 5A.2 Criminal intelligence
 ## Part 6 Enforcement
 ### Division 6.1 Preliminary—pt 6
 ### Division 6.2 Compliance auditors

@@ -34,6 +34,7 @@ building certifier—see the Building Act 2004, dictionary, definition of certif
 building service—see section 8 (2).
 building surveyor—see section 9.
 building work—see the Building Act 2004, section 6.
+cancellation order, for division 5A.1 (Cancellation orders)—see section 65.
 class, of a construction occupation, means a class into which the occupation is divided under the regulations (see section 15).
 code of practice means a code of practice approved under section 126A.
 compliance auditor, for part 6 (Enforcement)—see section 75.
@@ -44,6 +45,7 @@ construction service—see section 6 (2).
 corresponding law means—
   (a) a law of a State corresponding, or substantially corresponding, to this Act; or
   (b) a law of a State prescribed by regulation as a corresponding law for this Act.
+criminal intelligence, for division 5A.2 (Criminal intelligence)—see section 69.
 demerit ground for occupational discipline, for part 8 (Demerit points system)—see section 89.
 demerit points register, for part 8 (Demerit points system)—see section 89.
 disciplinary incident, for part 8 (Demerit points system)—see section 89.
