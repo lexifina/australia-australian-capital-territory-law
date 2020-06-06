@@ -47,6 +47,9 @@ corrections officer—see the Corrections Management Act 2007, section 20.
 court means—
   (a) for this Act generally, if a court has sentenced an offender, made an order or given a direction—the same court, however constituted; and
   (b) for part 4.2B (Drug and alcohol treatment assessments) and part 5.4A (Drug and alcohol treatment orders)—the Supreme Court.
+court, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61B.
+criminal group, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61C.
+criminal intelligence, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61B.
 custodial part, of a treatment order—see section 80W.
 CYP director-general means the director-general responsible for the Children and Young People Act 2008.
 deferred sentence obligations, for an offender—see section 120.
@@ -76,6 +79,7 @@ nonparole period, for a sentence of imprisonment—
   (a) see section 65 (2) (Nonparole periods—court to set); and
   (b) if the nonparole period of the sentence is amended—means the nonparole period as amended.
 offender—see section 8.
+offender, for part 4.6 (Sentencing—schedule offence with criminal group—see section 61B.
 parole order—see the Crimes (Sentence Administration) Act 2005, section 117.
 place restriction order—see section 21.
 pre-sentence report means a report—
@@ -101,6 +105,7 @@ rehabilitation program condition—
 reparation order means an order under—
   (a) section 19 (3) (Reparation orders—losses and expenses generally); or
   (b) section 20 (3) or (4) (Reparation orders—stolen property).
+schedule offence, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61B.
 sentence means—
   (a) when used as a noun—the penalty imposed for an offence; or
   (b) when used as a verb—to impose a penalty for an offence.

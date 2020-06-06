@@ -15,6 +15,10 @@
 ## Part 4.3 Victim impact statements
 ## Part 4.4 Taking additional offences into account
 ## Part 4.5 Correction and adjustment of penalties
+## Part 4.6 Sentencing—schedule offence with criminal group
+### Division 4.6.1 General
+### Division 4.6.2 Schedule offence—criminal group
+### Division 4.6.3 Criminal group—criminal intelligence
 # Chapter 5 Imprisonment
 ## Part 5.1 Imprisonment—start and end of sentences
 ## Part 5.2 Imprisonment—nonparole periods
