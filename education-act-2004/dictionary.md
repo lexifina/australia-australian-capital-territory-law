@@ -55,13 +55,15 @@ government school—
   (a) means a school established under section 20 (1); and
   (b) except for section 20—includes a school-related institution established under section 20 (3).
 half-year, for part 3.4 (School boards of government schools)—see section 37.
-home education—see section 129.
+home education, in relation to a child, means education conducted by 1 or both of the child’s parents from a home base.
+home education report, for chapter 5 (Home education)—see section 127C.
 information notice, for chapter 2 (Compulsory education)—see section 11C.
 in-principle approval—see section 83 (Applications for in-principle approval for proposed registration).
 internally reviewable decision, for part 6.1 (Notification and review of decisions)—see section 140.
 internal reviewer for part 6.1 (Notification and review of decisions)—see section 140.
 internal review notice, for part 6.1 (Notification and review of decisions)—see section 140.
 money, for part 3.4 (School boards of government schools)—see section 37.
+new registration, for chapter 5 (Home education)—see section 127C.
 non-government school means a registered non-government school.
 parent—see section 6.
 parents and citizens association, for part 3.4 (School boards of government schools)—see section 37.
