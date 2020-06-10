@@ -12,12 +12,14 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • commissioner of police
 • contravene
 • correctional centre
+• corrections officer
 • director-general (see s 163)
 • director of public prosecutions
 • doctor
 • domestic partner (see s 169)
 • fail
 • fire and rescue service
+• function
 • head of service
 • health practitioner
 • indictable offence (see also s 190)
