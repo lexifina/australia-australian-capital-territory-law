@@ -11,4 +11,5 @@
 ### Division 5.3 Actions after investigation
 ## Part 6 Information sharing
 ## Part 7 Notification and review of decisions
+## Part 8 Offences
 ## Part 9 Miscellaneous
