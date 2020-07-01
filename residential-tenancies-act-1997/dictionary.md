@@ -40,12 +40,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • under
 • working day.
 ACAT trust account—see the ACT Civil and Administrative Tribunal Act 2008, section 115B (2).
-affected residential premises means premises, or a part of premises—
-  (a) that—
-    (i) are a class 1 or class 2 building; and
-    (ii) contain or have contained loose-fill asbestos insulation; or
-  (b) that are included in the affected residential premises register.
-affected residential premises register—see the Dangerous Substances Act 2004, section 47N.
+affected residential premises—see the Dangerous Substances Act 2004, section 47I.
+affected residential premises register—see the Dangerous Substances Act 2004, section 47P.
 agent, for part 7 (Residential tenancy databases)—see section 87.
 bond means an amount paid or payable by a tenant as security for the performance of the tenant’s obligations under a residential tenancy agreement.
 bond release application, for division 3.4 (Release of bond money)—see section 32.
