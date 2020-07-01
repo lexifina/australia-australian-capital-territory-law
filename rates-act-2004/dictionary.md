@@ -13,15 +13,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • home address
 • month
 • person (see s 160)
+• planning and land authority
 • registrar-general
 • under.
 airport land—see section 40B.
 annual redetermination, of a parcel of land, means a redetermination of the unimproved value of the parcel under section 10.
 assessment notice, in relation to rates, means a notice of assessment under the Taxation Administration Act, section 14 in relation to the rates.
-average unimproved value, of a parcel of land for a particular year, means the following:
-  (a) if the parcel has not been rateable previously—the unimproved value of the parcel;
-  (b) if the parcel has been rateable for less than 3 years—the average unimproved value of the parcel over those years;
-  (c) in any other case—the average unimproved value of the parcel over the 3 years immediately before the particular year.
+average unimproved value, of a parcel of land for a particular year—see section 13A.
 Canberra Airport, for part 5A (Airport land)—see section 40A.
 commercial land means rateable land that is not residential land or rural land.
 commissioner means the commissioner for revenue.
