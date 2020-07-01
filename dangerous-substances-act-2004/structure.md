@@ -14,6 +14,9 @@
 ### Division 3.1.6 Miscellaneous
 ## Part 3.2 Failure to comply with safety duties
 # Chapter 3A Asbestos
+## Part 3A.1 Preliminary
+## Part 3A.2 Asbestos—assessments and register etc
+## Part 3A.3 Occupancy prohibition
 # Chapter 4 Licences for dangerous substances
 ## Part 4.1 General—licences
 ## Part 4.2 Issue, amendment, replacement and surrender of licences
@@ -44,3 +47,4 @@
 # Chapter 11 Administration
 # Chapter 12 Regulations about dangerous substances
 # Chapter 13 Miscellaneous
+# Chapter 15 Transitional—Loose-fill Asbestos Legislation Amendment Act 2020

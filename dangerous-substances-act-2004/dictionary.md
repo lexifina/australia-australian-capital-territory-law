@@ -22,11 +22,17 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • State
 • work health and safety commissioner.
 ADG Code (or Australian Dangerous Goods Code) means the Australian Code for the Transport of Dangerous Goods by Road and Rail, published by the Commonwealth, as in force from time to time.
-affected residential premises register—see section 47N.
+affected building, for chapter 3A (Asbestos)—see section 47I.
+affected residential premises, for chapter 3A (Asbestos)—see section 47I.
+affected residential premises register, for chapter 3A (Asbestos)—see section 47P.
 alleged contravention, for part 6.5 (Enforceable undertakings)—see section 123 (3) (b).
 analysis, of a dangerous substance or anything else, includes examining or testing the substance or thing.
 approved code of practice means a code of practice approved under section 219 (1).
+approved occupant, for chapter 3A (Asbestos)—see section 47T.
 asbestos—see the Work Health and Safety Regulation 2011, dictionary.
+asbestos assessment report, for chapter 3A (Asbestos)—see section 47K.
+asbestos contamination, for chapter 3A (Asbestos)—see section 47I.
+asbestos contamination report, for chapter 3A (Asbestos)—see section 47J.
 at premises includes in or on the premises.
 Australian Dangerous Goods Code—see ADG Code.
 Australian Explosives Code means the Australian Code for the Transport of Explosives by Road and Rail, published by the Commonwealth, as in force from time to time.
@@ -34,15 +40,18 @@ Note The Australian Explosives Code is accessible at www.safeworkaustralia.gov.a
 authorised analyst means a person appointed as an authorised analyst under section 210.
 authorised person, for part 5.2 (Preservation of site of dangerous occurrence)—see section 85.
 basis, for giving a prohibition notice—see section 108.
+building work, for chapter 3A (Asbestos)—see the Building Act 2004, section 6.
 business includes—
   (a) a business not carried on for profit; and
   (b) a trade or profession.
+buyback scheme, for chapter 3A (Asbestos)—see section 47I.
 carry a dangerous substance or anything else means move the substance or thing by any means.
 Examples of carry for a dangerous substance
 1 moving, transferring or transporting a dangerous substance within a processing system or pipeline
 2 loading a dangerous substance onto, and unloading the substance from, a vehicle
 3 driving a vehicle carrying a dangerous substance
 cause death or injury to a person, or substantial damage to property or the environment, means substantially contribute directly or indirectly to the death, injury or damage.
+class, of building, for chapter 3A (Asbestos)—see section 47I.
 close associate, of someone, for chapter 4 (Licences for dangerous substances)—see section 48.
 compliance agreement—see section 94 (2).
 condition, of a licence, includes a condition prescribed by regulation that applies to the licence.
@@ -55,6 +64,7 @@ corresponding law means—
   (a) a law of the Commonwealth, a State, another Territory or New Zealand corresponding, or substantially corresponding, to this Act; or
   (b) a law of the Commonwealth, a State, another Territory or New Zealand that is declared by regulation to be a corresponding law, whether or not the law corresponds, or substantially corresponds, to this Act; or
   (c) the Dangerous Goods Act 1975.
+current asbestos contamination report, for chapter 3A (Asbestos)—see section 47J (2).
 dangerous occurrence—see section 38.
 dangerous substance—see section 10.
 data, for chapter 7 (Enforcement powers)—see section 141.
@@ -87,11 +97,15 @@ internally reviewable decision—see section 186.
 internal reviewer, for chapter 9 (Notification and review of decisions)—see section 188.
 internal review notice, for chapter 9 (Notification and review of decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 licence means a licence issued under this Act.
-loose-fill asbestos insulation—see section 47M.
+licensed asbestos assessor—see the Work Health and Safety Regulation 2011, dictionary.
+licensed asbestos removalist, for chapter 3A (Asbestos)—see the Work Health and Safety Regulation 2011, dictionary.
+loose-fill asbestos insulation, for chapter 3A (Asbestos)—see section 47I.
 manufacture a dangerous substance or anything else includes—
   (a) make, remake, alter, break-up, process, recondition or treat the substance or thing; and
   (b) change the substance or thing in a way that affects its properties or performance.
 non-commercial, for the handling of a dangerous substance—see section 12.
+occupancy prohibition—see section 47S.
+occupy, for part 3A.3 (Occupancy prohibition)—see section 47R.
 offence, for chapter 7 (Enforcement powers)—see section 141.
 officer, of a corporation, means—
   (a) a director or secretary of the corporation; or
@@ -103,6 +117,7 @@ officer, of a corporation, means—
   (e) an administrator of a deed of company arrangement executed by the corporation; or
   (f) a liquidator of the corporation; or
   (g) a trustee or other person administering a compromise or arrangement made between the corporation and someone else.
+owner, of affected residential premises, for chapter 3A (Asbestos)—see section 47I.
 person assisting, in relation to a search warrant, for chapter 7 (Enforcement powers)—see section 141.
 person in charge, of premises, includes—
   (a) a person believed, on reasonable grounds, to be a person in charge of, or the occupier of, the premises and a person apparently in charge of, or the occupier of, the premises; and
@@ -120,11 +135,13 @@ prohibited dangerous substance—see section 73.
 prohibition notice—see section 109.
 reasonable steps, in relation to a risk—see section 16.
 recall order, for chapter 8 (Emergency orders)—see section 178.
+regulator, for chapter 3A (Asbestos)—see section 47I.
 relevant person, for an enforceable undertaking—see section 122.
 relevant responsible person—
   (a) for a compliance agreement—see section 93; and
   (b) for an improvement notice—see section 99; and
   (c) for a prohibition notice—see section 108.
+residential premises, for chapter 3A (Asbestos)—see section 47I.
 responsible person, for a dangerous substance—see section 18.
 reviewable decision—see section 186.
 risk—see section 15.
@@ -161,5 +178,7 @@ system includes the following:
   (g) a system prescribed by regulation;
   (h) a system that includes any combination of the systems mentioned in paragraphs (a) to (g).
 trade or commerce includes a business or professional activity.
+transfer, for part 3A.3 (Occupancy prohibition)—see the Land Titles Act 1925, dictionary.
+transmission, for part 3A.3 (Occupancy prohibition)—see the Land Titles Act 1925, dictionary.
 vehicle means any kind of vehicle on wheels (including a vehicle used on railways or tramways), and includes an aircraft or vessel used on water.
 WHS Act means the Work Health and Safety Act 2011.
