@@ -4,4 +4,3 @@
 ### Division 2.2 Definitions and declarations for Heavy Vehicle National Law (ACT)
 ## Part 3 ACT-specific provisions
 ## Part 4 Miscellaneous
-## Part 6 Transitional
