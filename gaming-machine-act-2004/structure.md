@@ -64,4 +64,3 @@
 ## Part 13 Notification and review of decisions
 ## Part 13A Notifiable actions
 ## Part 14 Miscellaneous
-## Part 22 Transitional—Gaming Legislation Amendment Act 2018
