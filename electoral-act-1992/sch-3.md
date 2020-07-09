@@ -16,8 +16,9 @@ relevant provision means—
 (2) This clause applies to a set of declaration voting papers if the officer is satisfied that—
   (a) the signature on the declaration is that of the elector; and
   (b) the certificate by the witness is in accordance with the relevant provision; and
-  (c) for a postal vote if the papers were posted to the commissioner—the papers were so posted before the close of the poll; and
-  (d) for the vote of an Antarctic elector—the envelope referred to in section 176 (1) (c) is endorsed and signed by an authorised officer in accordance with that paragraph.
+  (c) the elector’s name is on the supplementary certified list of electors; and
+  (d) for a postal vote if the papers were posted to the commissioner—the papers were so posted before the close of the poll; and
+  (e) for the vote of an Antarctic elector—the envelope referred to in section 176 (1) (c) is endorsed and signed by an authorised officer in accordance with that paragraph.
 (3) For subclause (2) (b), if an officer referred to in section 135 (4) omits to sign the certificate, the certificate shall nevertheless be taken to be in accordance with the relevant provision, if—
   (a) the issue of the relevant declaration voting papers was recorded under division 10.3 or 10.4; and
   (b) the OIC is satisfied the papers were properly issued to the elector.
@@ -28,7 +29,7 @@ relevant provision means—
   (a) 1 group containing papers to which clause 9 applies;
   (b) 1 group containing the remainder.
 9 This clause applies to a set of declaration voting papers if the OIC is satisfied that—
-  (a) the elector who signed the declaration was, when the roll closed for the election, entitled to be enrolled; and
+  (a) when the elector signed the declaration, the elector was entitled to be enrolled; and
   (b) the omission of the elector’s name from the roll resulted from an official error.
 10 (1) An officer shall withdraw the ballot papers from the envelopes in the groups of declaration voting papers to which clause 7 (a) or 9 applies and, without unfolding or inspecting the ballot papers or allowing any other person to do so, admit them to scrutiny under section 183.
 (2) If 2 or more sets of papers to which clause 7 (a) or 9 applies are in the name of a particular elector—

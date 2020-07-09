@@ -20,7 +20,7 @@ transfer value—
   (b) for part 4.3 (Casual vacancies)—see clause 13.
 ## 1A Meaning of count votes—sch 4
 (1) For this schedule, count votes, in relation to a candidate, means the number of votes worked out as follows:
-(2) However, any fraction is to be disregarded.
+(2) Any fraction must be rounded down to 6 decimal places.
 (3) In this clause:
 BP means the number of ballot papers to be dealt with at a count that record the next available preference for the candidate.
 TV means the transfer value of those ballot papers.
