@@ -26,3 +26,4 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 23 | 82 (2) | immediately suspend public unleased land permit | permit-holder
 24 | 98 (3) | issue removal direction | person directed
 25 | 100 (2) | issue director-general’s direction | person directed
+26 | 105A (2) | remove electoral advertising sign | owner of sign
