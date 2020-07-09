@@ -42,6 +42,7 @@ Antarctica, for part 11 (Polling in Antarctica)—see section 167.
 Antarctic elector means an elector who is an Antarctic elector under section 171.
 application, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 approved computer program means the computer program approved under section 118A.
+approved electronic device means an electronic device approved under section 120 (3).
 Assembly means the Legislative Assembly.
 assistant returning officer, for part 11 (Polling in Antarctica)—see section 167.
 associated entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -68,9 +69,8 @@ candidate means—
   (b) in part 13—a person declared to be a candidate under section 193 (Publication of candidates’ details).
 candidate square—see section 116 (1) (h) (Printing of ballot papers).
 capped expenditure period, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
-certified extract of electors, for an election in an electorate—see section 121.
-certified list of electors, for an election in an electorate—see section 121.
-closed, in relation to a roll, means closed in accordance with section 80.
+certified extract of electors, for an election in an electorate, means a preliminary or supplementary certified extract of electors.
+certified list of electors, for an election in an electorate, means a preliminary or supplementary certified list of electors.
 column, for schedule 2 (Ballot papers—printing of names and collation)—see schedule 2, clause 1.
 commissioner means the Electoral Commissioner appointed under section 12.
 Commonwealth Electoral Act means the Commonwealth Electoral Act 1918 (Cwlth).
@@ -86,12 +86,13 @@ declaration vote means a vote cast in accordance with any of the following provi
   (a) section 135 (Declaration voting at polling places);
   (b) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
   (c) section 136C (Declaration voting outside ACT on or before polling day);
-  (d) section 144A (Requirements for casting postal votes).
+  (d) section 136D (Electronic declaration voting by electors outside Australia);
+  (e) section 144A (Requirements for casting postal votes).
 declaration voting papers, in relation to an election, means—
   (a) a declaration, in the form approved under section 340A (Approved forms) for this paragraph, to be completed by an elector; and
   (b) a ballot paper suitable for declaration voting at the election; and
-  (c) for declaration voting papers other than for postal voting—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
-  (d) an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
+  (c) for declaration voting papers other than for postal voting or overseas electronic voting—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
+  (d) for declaration voting papers other than for overseas electronic voting—an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
 defined details, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 defined particulars, for division 14.6 (Annual returns)—see section 228.
 disclosure period, for part 14 (Election funding, expenditure and financial disclosure)—see section 201.
@@ -111,7 +112,11 @@ electoral matter—see section 4.
 electoral paper means a document, form or notice provided for or required under this Act.
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
 electronic form, of a roll or an extract from a roll, means a disk, tape or other device from which the information in the extract or roll may be reproduced by mechanical, electronic or other means.
-electronic voting—see section 120 (2).
+electronic vote means a vote cast using an electronic ballot paper.
+Note An electronic vote may be made—
+• at a polling place under s 131 (3)
+• by telephone under s 136BA
+• by overseas electors under s 136D.
 eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -153,12 +158,13 @@ officer means—
   (a) a person appointed under section 33 (Officers) to be an officer; or
   (b) a person exercising a power under this Act under an arrangement under section 70 (Joint roll arrangements with the Commonwealth) or section 336 (Administrative arrangements with Commonwealth and States); or
   (c) in relation to a particular matter—a person mentioned in paragraph (a) or (b) exercising a power in relation to the matter.
-official error, in relation to a person voting or seeking to vote at an election, means the removal of the person’s name under this Act from the roll for an electorate in which the person is otherwise entitled to vote unless the name was so removed before the roll closed for the purpose of the previous election.
+official error, in relation to a person voting or seeking to vote at an election, means the removal of the person’s name under this Act from the roll for an electorate in which the person is otherwise entitled to vote unless the name was so removed before 6pm on the first day of the pre-election period for the previous election.
 OIC means—
   (a) in relation to a scrutiny centre—the officer in charge of the centre; and
   (b) in relation to a polling place—the officer in charge of the place.
 ordinary election means a general election required by section 100.
 ordinary vote means a vote other than a declaration vote.
+overseas electronic vote means an electronic vote to which section 136D (Electronic declaration voting by electors outside Australia) applies.
 participant, for division 14.5 (Disclosure of electoral expenditure)—see section 223.
 party, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 party candidate means—
@@ -180,6 +186,8 @@ polling place—
 post, for division 10.4 (Voting otherwise than at a polling place)—see section 136.
 postal vote means a declaration vote to which section 144A (Requirements for casting postal votes) applies.
 pre-election period means the period of 37 days ending on the end of polling day for an election.
+preliminary certified extract of electors, for an election in an electorate—see section 121 (4).
+preliminary certified list of electors, for an election in an electorate—see section 121 (4).
 proceeding, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 prospective candidate, for an election, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 quota—
@@ -198,7 +206,6 @@ related—2 political parties are taken to be related if—
   (b) both are parts of the same political party.
 Example
 the ACT branch of a political party and the national secretariat of the same political party
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 relevant Assembly committee means the committee of the Legislative Assembly whose functions include the examination of electoral matters.
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291.
 reporting agent, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -221,6 +228,7 @@ staff, in relation to the electoral commission, means—
   (b) persons employed or engaged under section 32.
 station, for part 11 (Polling in Antarctica)—see section 167.
 successful candidate, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
+supplementary certified list of electors, for an election in an electorate—see section 121 (4).
 suppressed address means an address particulars of which are required to be suppressed from a roll extract under section 77.
 surplus, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 third-party campaigner, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
