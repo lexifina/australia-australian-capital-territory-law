@@ -62,6 +62,7 @@
 ## Part 10 Enforcement measures
 ### Division 10.1 Improvement notices
 ### Division 10.2 Prohibition notices
+### Division 10.2A Prohibited asbestos notices
 ### Division 10.3 Non-disturbance notices
 ### Division 10.4 General requirements applying to notices
 ### Division 10.5 Remedial action

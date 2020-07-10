@@ -16,6 +16,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • working day.
 appointed member, of the council, for schedule 2, division 2.1.2 (Constitution and meetings)—see section 2.3A.
 approved code of practice means a code of practice approved under division 14.2 (Codes of practice).
+asbestos, for division 10.2A (Prohibited asbestos notices)—see section 197A.
+asbestos containing material (ACM), for division 10.2A (Prohibited asbestos notices)—see section 197A.
 authorised, for part 4 (Authorisations)—see section 40.
 category 1 offence—see section 31.
 category 2 offence—see section 32.
@@ -78,11 +80,13 @@ plant includes—
   (b) any component of any of the things referred to in paragraph (a); and
   (c) anything fitted or connected to any of the things referred to in paragraph (a).
 principal contractor, for a major construction project, for part 5 (Consultation, representation and participation)—see section 49B.
+prohibited asbestos, for division 10.2A (Prohibited asbestos notices)—see section 197A.
 prohibited reason, for part 6 (Discriminatory, coercive and misleading conduct)—see section 106.
 prohibition notice—see section 195.
 public authority means a territory authority.
 reasonably practicable, in relation to a duty to ensure health and safety—see section 18.
 regulator means the WHS Commissioner.
+relevant person, in relation to a workplace, for division 10.2A (Prohibited asbestos notices)—see section 197A.
 relevant person conducting a business or undertaking, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
 relevant union, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
 relevant worker, for part 7 (Workplace entry by WHS entry permit-holders)—see section 116.
