@@ -21,12 +21,31 @@ substitute
 ## 34 Electorate for ATSIEB elections
 (1) The ACT is 1 electorate for the purposes of an ATSIEB election.
 (2) Seven members of ATSIEB must be elected from the ACT.
-[1.4] Closed rolls Section 80 (1)
-substitute
+[1.4] New section 80
+insert
+## 80 Closed rolls
 (1) This section applies in relation to an ATSIEB election.
-(1A) For this Act, the roll for an ATSIEB election is closed during the period—
+(2) For this Act, the roll for an ATSIEB election is closed during the period—
   (a) starting at 5 pm on the Monday 12 days before the polling start day for the ATSIEB election; and
   (b) ending at the close of polling at the election.
+(3) While a roll is closed, subject to subsections (4), (5) and (6) and section 66—
+  (a) a person must not be enrolled; and
+  (b) a person must not be taken to be enrolled under section 73 (5) or section 75 (2) if the person’s enrolment on the Commonwealth roll is effected during the closure; and
+  (c) a name must not be removed; and
+  (d) an annotation in relation to the roll must not be made or cancelled under section 74; and
+  (e) a change of address must not be recorded.
+(4) Subsection (3) (c) must not be taken to prevent the removal, while a roll is closed, of the name of a person who the commissioner believes on reasonable grounds made a statement in a claim for enrolment or transfer of enrolment that was false or misleading in a material particular.
+(5) If the Australian Postal Corporation notifies the commissioner in writing that the delivery of a posted claim for enrolment or transfer of enrolment has been delayed by an industrial dispute and, apart from the dispute, would have been delivered to the commissioner before the close of the roll for an election—
+  (a) subsection (3) (a) and (c) must not be taken to prevent the enrolment of an elector or the removal of an elector’s name from another roll as a consequence of such an enrolment; and
+  (b) if the claimant is enrolled in accordance with the claim—the enrolment must be taken, in relation to any vote cast by the claimant in the election, to have been effected before the roll closed.
+(6) This section does not prevent the enrolment of an elector, during a period when a roll is closed, if the elector’s claim for enrolment or transfer of enrolment was received before the beginning of that period by—
+  (a) an officer appointed under section 33 (Officers); or
+  (b) a member of the commission’s staff; or
+  (c) a person authorised by the commissioner for this section; or
+  (d) an employee of the Australian Electoral Commission.
+(7) In this section:
+enrolment includes the enrolment of a person who is taken to have been enrolled under this part.
+particulars—a reference (express or implied) to particulars relating to a person includes a reference to particulars taken to be recorded on the roll under this part.
 ## Part 1.2 Modifications of pt 9 (Arrangements for elections)
 [1.5] Eligibility—MLAs Section 103 (1) to (4)
 substitute
@@ -105,8 +124,10 @@ If the commissioner decides that a nomination is invalid, the commissioner must�
   (c) if the nomination can be corrected, tell the nominee—
     (i) how the nomination can be corrected; and
     (ii) that the corrected nomination may be given to the commissioner before the hour of nomination.
-## 110A Retention of nomination papers
+## 110AA Retention of nomination papers
 The commissioner must keep all nominations (including invalid nominations) in a secure place until the election start date for the next ATSIEB election.
+[1.20A] Candidate information to be published Section 110A (8)
+omit
 [1.21] Section 111
 substitute
 ## 111 If more positions than candidates
@@ -178,8 +199,19 @@ insert
 (2A) The stated times mentioned in subsection (1) (a) must indicate—
   (a) the time when the polling place must open for polling (the polling open time for the place); and
   (b) the time when the polling place must close for polling (the polling close time for the place).
-[1.30] Certified list of electors Section 121 (1) (c) and (2)
-omit
+[1.30] New section 120A
+insert
+120A Certified extracts and certified lists of electors for ATSIEB election
+(1) As soon as practicable after the roll for an electorate closes, the commissioner must—
+  (a) prepare—
+    (i) a certified extract of electors; and
+    (ii) a certified list of electors; and
+  (b) give a copy of the certified list to the OIC for each polling place.
+(2) In this Act:
+certified extract of electors, for an election in an electorate, means an extract from the roll for the electorate, certified by the commissioner, for each elector enrolled who will be at least 18 years of age on polling day.
+certified list of electors, for an election in an electorate, means a list, certified by the commissioner, that contains—
+  (a) a certified extract of electors; and
+  (b) each elector’s year of birth and gender.
 [1.31] Scrutineers—appointment Section 122 (1)
 substitute
 (1) A candidate for an ATSIEB election may appoint a scrutineer to represent the candidate during—
@@ -225,15 +257,18 @@ omit
 [1.39] Section 131 (2)
 substitute
 (2) An elector may cast a vote during the polling period for an ATSIEB election at any polling place for the election.
-[1.40] Claims to vote Section 133 (1)
+[1.40] Section 133
 substitute
+133 Claims to vote
 (1) This section applies if a person attends before an officer at a polling place during the polling period for an ATSIEB election and claims to vote at the election.
-(1A) The officer (the issuing officer) must give the person a ballot paper if satisfied that—
+(2) The officer (the issuing officer) must give the person a ballot paper if satisfied that—
   (a) the certified list of electors—
     (i) states the person’s name; and
     (ii) states an address for the person or indicates that the person’s address is suppressed; and
     (iii) has not been marked in a way that indicates that a ballot paper has already been issued to the person; and
   (b) no challenge has been made under section 133A in relation to the person.
+(3) Despite subsection (1), an officer must not issue a ballot paper to a person who indicates that they have already voted at the election.
+(4) Immediately after issuing a ballot paper to a claimant, the officer must record the issue on the certified list of electors.
 [1.41] New sections 133A and 133B
 insert
 ## 133A Challenge whether claimant to vote is Aboriginal or Torres Strait Islander person
@@ -273,6 +308,10 @@ in division 10.2, insert
   (b) if there is no unanimous decision—the decision of each panel member.
 ## 134B Challenged claimant to leave polling place
 A claimant who is given a ballot paper and ballot paper envelope under section 133B (Declaration voting—challenged claims to vote) must leave a polling place immediately after the claimant places the claimant’s sealed ballot paper envelope and contents in a ballot box at the polling place.
+[1.42A] Declaration voting at polling places Section 135 (1) (a) and (b)
+substitute
+  (a) the certified list of electors for the electorate does not specify the person’s name; or
+  (b) the certified list of electors for the electorate has been marked so as to indicate that a ballot paper has already been issued to the person but the person claims not to have voted already at the election.
 [1.43] New section 135A
 in division 10.3, insert
 ## 135A Evidence of living in ACT
@@ -286,7 +325,6 @@ one of the following documents, if it states the person’s name and an ACT addr
 • vehicle registration
 • a contract of purchase or current lease for place of residence
 • a utility account statement (electricity, gas, telephone or water) paid within 3 months before the relevant ATSIEB election
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 (3) If the person gives the issuing officer evidence that the person lives in the ACT, the issuing officer must—
   (a) record the details of the evidence; and
   (b) include a written statement of the record with the person’s declaration voting papers.
@@ -430,7 +468,6 @@ Note A notifiable instrument must be notified under the Legislation Act.
 Examples
 • at the office of the commissioner
 • on the commissioner’s website
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## Part 1.5 Modifications of pt 13 (Casual vacancies)
 [1.71] Section 190, new definitions
 insert
@@ -494,6 +531,9 @@ ATSIEB chair includes—
 before section 256 (2) (a), insert
   (aa) a decision by a liaison officer or review panel in relation to an elector’s claim to be an Aboriginal or Torres Strait Islander person;
   (ab) a decision by a review panel in relation to an elector’s claim to live in the ACT;
+[1.80A] Immaterial delays and errors Section 268 (1) (b)
+omit
+preliminary
 [1.81] Inquiries by court Section 269 (3)
 omit
 ## Part 1.7 Modifications of pt 17 (Electoral offences)
@@ -513,9 +553,9 @@ A person must not, by violence or intimidation, hinder or interfere with the fre
 Maximum penalty: 30 penalty units.
 Note 1 Function is defined in the Legislation Act, dict, pt 1 to include authority, duty and power.
 Note 2 Exercise a function includes perform the function (see Legislation Act, dict, pt 1).
-[1.84] Dissemination of electoral matter—authorisers and authors Section 292 (1) (b)
+[1.84] Dissemination of unauthorised electoral matter Section 292 (1) (b) (iii)
 substitute
-  (b) if the matter was published for a candidate for election—the name of the candidate.
+    (iii) if the matter is disseminated for a candidate for election or a person who has publicly indicated that the person intends to be a candidate for election—a statement to the effect that the matter is disseminated for the candidate or person; and
 [1.85] Publication of statements about candidates Section 301 (3)
 omit
 [1.86] Canvassing within 100m of polling places Section 303 (7), definition of polling hours
@@ -574,9 +614,15 @@ before clause 6 (1) (a), insert
   (aa) for a vote under section 133B (Declaration voting—challenged claims to vote)—section 133B (3); or
 [1.98] Clause 6 (1), definition of relevant provision, paragraphs (b) and (c)
 omit
-[1.99] Clause 6 (2) (d)
-substitute
+[1.99] Clause 6 (2)
+(2) This clause applies to a set of declaration voting papers if the officer is satisfied that—
+  (a) the signature on the declaration is that of the elector; and
+  (b) the certificate by the witness is in accordance with the relevant provision; and
+  (c) for a postal vote if the papers were posted to the commissioner—the papers were posted before the close of the poll; and
   (d) for a declaration vote under section 133B (3) or a postal vote under section 136A (Applications for postal voting papers)—the review panel or a member of the review panel has decided that the elector is an Aboriginal or Torres Strait Islander person.
+[1.99A] Clause 9 (a)
+substitute
+  (a) the elector who signed the declaration was, when the roll closed for the election, entitled to be enrolled; and
 [1.100] Clause 11
 omit everything before paragraph (a), substitute
 11 The OIC must, in accordance with clauses 4 to 10, conduct a further scrutiny of the group of remaining declaration voting papers to which clause 5 (b) applies and, if there are any papers to which clause 5 (b) applies after the further scrutiny, the OIC must—
@@ -590,12 +636,26 @@ substitute
 [1.103] New definition of casual vacancy
 insert
 casual vacancy, for part 13 (Casual vacancies)—see section 190.
+[1.103A] Definitions of certified extract of electors and certified list of electors
+substitute
+certified extract of electors, for an election in an electorate—see section 120A.
+certified list of electors, for an election in an electorate—see section 120A.
+[1.103B] New definition of closed
+insert
+closed, in relation to a roll, means closed in accordance with section 80.
 [1.104] Definition of declaration vote, new paragraph (aa)
 before paragraph (a), insert
   (aa) section 133B (Declaration voting—challenged claims to vote);
-[1.105] New definition of liaison officer and partial failure
+[1.105] New definition of liaison officer
 insert
 liaison officer means an Aboriginal and Torres Strait Islander liaison officer appointed under section 33 (2A).
+[1.105A] Definition of official error
+omit
+6pm on the first day of the pre-election period for
+substitute
+the roll closed for the purpose of
+[1.105B] New definition of partial failure
+insert
 partial failure, for part 13 (Casual vacancies)—see section 190.
 [1.106] Definition of polling place
 substitute
@@ -605,6 +665,10 @@ substitute
 pre-election period, for an ATSIEB election, means the period––
   (a) starting at 9 am on the first day when a person may be nominated as a candidate for the election; and
   (b) ending at the end of the last day when an elector may vote in the election.
+[1.106B] Definitions of preliminary certified extract of electors and preliminary certified list of electors
+omit
 [1.107] New definition of review panel
 insert
 review panel means the panel established under section 125A.
+[1.108] Definition of supplementary certified list of electors
+omit
