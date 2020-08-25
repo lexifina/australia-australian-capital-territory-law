@@ -70,6 +70,7 @@ occupancy principles—see section 71E.
 occupant—see section 71B.
 out of date, in relation to personal information in a residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 payment order—see section 49A (2).
+periodic agreement means a residential tenancy agreement that is not a fixed term agreement.
 personal information, for part 7 (Residential tenancy databases)—see section 87.
 premises includes—
   (a) any habitable structure, whether it is fixed to the land or not; and

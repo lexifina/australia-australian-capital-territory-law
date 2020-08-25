@@ -156,7 +156,7 @@ Urgent repairs
 (g) serious storm or fire damage;
 (h) a failure of gas, electricity or water supply to the premises;
 (i) the failure of a refrigerator supplied with the premises;
-(j) a failure or breakdown of any service on the premises essential for hot water, cooking, heating or laundering;
+(j) a failure or breakdown of any service on the premises essential for hot water, cooking, heating, cooling or laundering;
 (k) a fault or damage that causes the residential premises to be unsafe or insecure;
 (l) a fault or damage likely to cause injury to person or property;
 (m) a serious fault in any door, staircase, lift or other common area that inhibits or unduly inconveniences the tenant in gaining access to and use of the premises.
@@ -195,7 +195,8 @@ Tenant must make no alterations and must not add any fixtures or fittings withou
 Tenant must not use the premises for illegal purposes and must not disturb the neighbours
 69 Unless otherwise agreed in writing, the tenant must only use the premises for residential purposes.
 70 The tenant must not:
-(a) use the premises, or permit them to be used, for an illegal purpose to the detriment of the lessor’s interest in the premises; or
+(a) use the premises, or permit them to be used, for an illegal purpose; or
+Note The ACAT must not make a termination and possession order for a breach of this term unless satisfied of certain matters (see Residential Tenancies Act, s 48 (3) and (4)).
 (b) cause or permit nuisance; or
 (c) interfere, or permit interference, with the quiet enjoyment of the occupiers of nearby premises.
 71 The tenant must not leave the premises vacant for more than 3 weeks without notifying the lessor.
@@ -238,9 +239,13 @@ Routine inspections
 (3) If the parties are unable to agree on an appropriate time, the lessor or the tenant may apply to the tribunal for an order permitting access at a specified time.
 Access for purchasers and new tenants
 80 The tenant must permit reasonable access to the premises during the period of 3 weeks before the end of the tenancy, on the lessor giving 24 hours notice, to allow inspection of the premises by prospective tenants.
-81 The tenant must permit reasonable access to the premises, on the lessor giving 24 hours notice, to allow inspection of the premises by prospective purchasers of the premises provided:
+81 The tenant must permit reasonable access to the premises, on the lessor giving 48 hours notice, to allow inspection of the premises by prospective purchasers of the premises, but only if—
 (a) the lessor intends to sell the premises; and
 (b) the lessor has previously notified the tenant in writing of the lessor’s intention to sell.
+81A (1) The tenant must not unreasonably refuse an inspection of the premises by a prospective purchaser.
+(2) However, a tenant is not required to agree to more than 2 inspections a week.
+(3) The inspection must take place at a time agreed between the parties with reasonable regard to the work and other commitments both of the tenant and of the lessor (or their agents).
+(4) If the parties are unable to agree on an appropriate time, the lessor or the tenant may apply to the tribunal for an order permitting access at a stated time.
 Access for making or inspecting repairs
 82 (1) On giving the tenant 1 week notice (or such other agreed period), the lessor may enter the premises at a reasonable time, having regard to the interests of the tenant and the lessor, for the purpose of making or inspecting repairs.
 (2) For urgent repairs, the lessor must give reasonable notice and enter the premises at a reasonable time having regard to the interests of the tenant and the lessor.
