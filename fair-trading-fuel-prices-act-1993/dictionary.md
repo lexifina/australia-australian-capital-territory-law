@@ -7,21 +7,20 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • person (see s 160)
 • the Territory.
 base wholesale price, in relation to a specified fuel, means the wholesale price payable for that fuel, excluding—
-  (a) the amount per litre included in that price on account of freight charges in connection with the supply of that fuel; and
-  (b) the amount per litre included in that price on account of any duty payable by the wholesaler under a law of the Commonwealth.
+  (a) the amount per unit of measurement of the fuel included in that price on account of freight charges in connection with the supply of that fuel; and
+  (b) the amount per unit of measurement of the fuel included in that price on account of any duty payable by the wholesaler under a law of the Commonwealth.
 commissioner means the commissioner for fair trading.
 determination means a determination by the Minister under section 4 (1).
-discounted fuel price, of a specified fuel, means the price per litre payable on the sale of the fuel by retail after any discount is applied.
-fuel means leaded petrol, unleaded petrol or distillate.
+fuel—
+  (a) for this Act generally—
+    (i) means a fuel mentioned in the Fuels Rationing Act 2019, section 6; and
+    (ii) includes electricity; and
+  (b) for part 3 (Regulated transfer of certain fuels)—see section 7A (1).
 leaded petrol means petrol other than unleaded petrol.
 price includes a charge of any description.
-Prices Surveillance Authority means the authority established under that name by the Prices Surveillance Act 1983 (Cwlth).
 recommendation means a recommendation by the commissioner under section 3 (1).
-regulated transfer means a single consignment of a fuel that is—
-  (a) at least 2 000L; and
-  (b) delivered to or withdrawn from a place in the Territory under, or because of, an agreement for the sale, purchase or exchange of fuel.
-retail margin, in relation to a specified fuel, means the amount included in the retail price that is equal to the difference between that price and the base wholesale price of that fuel, excluding the amount per litre included in the retail price on account of the freight charges in connection with the supply of that fuel.
-retail price, of a specified fuel, means the price per litre payable on the sale of the fuel by retail without any discount applied.
+retail margin, in relation to a specified fuel, means the amount included in the retail price that is equal to the difference between that price and the base wholesale price of that fuel, excluding the amount per unit of measurement of the fuel included in the retail price on account of the freight charges in connection with the supply of that fuel.
+retail price, of a specified fuel, means the price per unit of measurement of the fuel payable on the sale of the fuel by retail without any discount applied.
 specified fuel means the fuel that is specified in a recommendation or a determination, as the case requires.
 unleaded petrol means petrol that—
   (a) contains not more than 0.013g of lead per L; and
@@ -29,4 +28,4 @@ unleaded petrol means petrol that—
   (c) contains not more than 0.10% of sulphur by weight or, while a determination under the Environment Protection Act 1997, schedule 2 clause 6 specifying a higher percentage is in force, not more than that percentage; and
   (d) has a research octane number not less than 91.0; and
   (e) has a motor octane number of not less than 82.0.
-wholesale price, of a specified fuel, means the price per litre payable on the sale of the fuel by wholesale.
+wholesale price, of a specified fuel, means the price per unit of measurement of the fuel payable on the sale of the fuel by wholesale.
