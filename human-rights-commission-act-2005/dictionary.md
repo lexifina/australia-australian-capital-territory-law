@@ -38,13 +38,15 @@ commissioner means the following:
   (f) the public advocate;
   (g) the victims of crime commissioner.
 commission-initiated consideration—see section 48 (1) and (2).
+commission-initiated discrimination matter, for division 4.2A (Discrimination complaints to ACAT)—see section 53.
 Commonwealth commission means the Australian Human Rights Commission established by the Australian Human Rights Commission Act 1986 (Cwlth).
 complainant means—
   (a) in relation to a complaint—the person who made the complaint; but
   (b) in relation to a commission-initiated consideration under section 48 (2)—the commission and not the person who made the complaint (see section 49).
 complaint—
   (a) about a health practitioner—means a complaint or a notification about the health practitioner that may be made, or is made, under this Act or the Health Practitioner Regulation National Law (ACT), part 8 (Health, performance and conduct); and
-  (b) about a veterinary practitioner—means a complaint about the veterinary practitioner that may be made, or is made, under this Act or the Veterinary Practice Act 2018, section 43 (Who may complain?).
+  (b) about a veterinary practitioner—means a complaint about the veterinary practitioner that may be made, or is made, under this Act or the Veterinary Practice Act 2018, section 43 (Who may complain?); and
+  (c) for division 4.2A (Discrimination complaints to ACAT)—see section 53.
 conciliation, of a complaint—see section 55 (1).
 conciliation agreement—see section 62 (1).
 conduct means an act, an omission to do an act or a state of affairs.
