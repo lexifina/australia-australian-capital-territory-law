@@ -107,8 +107,11 @@ release a dog to a person includes permit the dog to be collected by the person.
 residential premises means premises used exclusively or mainly for residential purposes, and includes a private room in, but not any other part of, a motel, hotel, hostel or guesthouse.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 118.
 sell, a seized animal, includes give the animal to an approved animal welfare entity.
-serious injury, to a person or animal, means any injury (including the cumulative effect of more than 1 injury) that—
-  (a) endangers, or is likely to endanger, the person or animal’s life; or
-  (b) is, or is likely to be, a significant or longstanding injury.
+serious dog bite means a wound from a single dog bite that has at least 1 puncture deeper than half the length of the dog’s canine tooth, with or without bruising or lacerations around the wound.
+serious injury, to a person or animal, means either of the following:
+  (a) any injury (including the cumulative effect of more than 1 injury) that—
+    (i) endangers, or is likely to endanger, the person or animal’s life; or
+    (ii) is, or is likely to be, a significant or longstanding injury;
+  (b) 1 or more serious dog bites.
 special licence, for division 2.4 (General provisions about special licences)—see section 29.
 welfare, in relation to animals, for part 5 (Assistance animals)—see section 94.
