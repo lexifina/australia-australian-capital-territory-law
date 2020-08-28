@@ -56,7 +56,7 @@ employment status includes—
   (c) receiving compensation; and
   (d) being employed on a part-time, casual or temporary basis; and
   (e) undertaking shift or contract work.
-gender identity means the gender-related identity, appearance or mannerisms or other gender-related characteristics of a person, with or without regard to the person’s designated sex at birth.
+gender identity means the gender expression or gender-related identity, appearance or mannerisms or other gender-related characteristics of a person, with or without regard to the person’s designated sex at birth.
 Note Gender identity includes the gender identity that the person has or has had in the past, or is thought to have or have had in the past (see s 7 (2)).
 HRC means the human rights commission.
 immigration status includes being an immigrant, a refugee or an asylum seeker, or holding any kind of visa under the Migration Act 1958 (Cwlth).
@@ -75,7 +75,6 @@ industrial organisation means any of the following that is registered or recogni
   (a) an organisation of employees;
   (b) an organisation of employers;
   (c) any other organisation established for the purposes of people who carry on a particular industry, trade, profession, business or employment.
-intersex status means status as an intersex person.
 irrelevant criminal record, in relation to a person, means a record relating to an offence, or an alleged offence, if—
   (a) the person has been charged with the offence but—
     (i) a proceeding for the alleged offence is not finalised; or
@@ -136,8 +135,13 @@ services includes—
   (d) services of any profession, trade or business; and
   (e) services provided by a government, government authority, local government body or corporation in which a government has a controlling interest; and
   (f) the provision of scholarships, prizes or awards.
+sex characteristics—
+  (a) means a person’s physical features relating to sex; and
+  (b) includes—
+    (i) genitalia and other sexual and reproductive parts of the person’s anatomy; and
+    (ii) the person’s chromosomes, hormones and secondary physical features emerging as a result of puberty.
 sexual harassment, for part 5 (Sexual harassment)—see section 58.
-sexuality means heterosexuality, homosexuality (including lesbianism) or bisexuality.
+sexuality includes heterosexuality, homosexuality and bisexuality.
 Territory employee means a person who is—
   (a) a public servant; or
   (b) employed by a Territory authority;
