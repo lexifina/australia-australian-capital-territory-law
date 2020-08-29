@@ -20,6 +20,11 @@
 ### Division 7.3 Value of benefits
 ### Division 7.4 Satisfaction of penalty order
 ### Division 7.5 End of penalty orders
+## Part 7A Unexplained wealth orders
+### Division 7A.1 General
+### Division 7A.2 Making unexplained wealth orders
+### Division 7A.3 Satisfaction of unexplained wealth order
+### Division 7A.4 End of unexplained wealth order
 ## Part 8 Restrained property
 ### Division 8.1 Management of restrained property by public trustee and guardian
 ### Division 8.2 Joint ownership of restrained property

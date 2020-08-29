@@ -69,6 +69,9 @@ dealing, with property of a person, includes, for example—
   (e) using the property to obtain or extend credit; and
   (f) using credit secured against the property.
 decision-making period, for division 10.3 (National cooperative scheme on unexplained wealth)—see section 135B.
+dependant, of a person, means—
+  (a) the person’s domestic partner; or
+  (b) the person’s child, or a member of the person’s household, who depends on the person for support.
 derived—see section 12.
 distributable funds, for division 10.2 (Establishment and payments into and out of the trust fund)—see section 128.
 effective control, of property—see section 14.
@@ -92,9 +95,9 @@ forfeiture order means a civil forfeiture order or a conviction forfeiture order
 Note A registered interstate forfeiture order is taken to be a forfeiture order under this Act (see s 139).
 forfeiture or penalty application, for division 4.3 (Duration of restraining orders)—see section 41.
 frisk search, for part 13 (Search warrants)—see section 195.
-fully satisfied—a forfeiture order or penalty order, or an automatic forfeiture of property, is fully satisfied when—
+fully satisfied—a forfeiture order, penalty order, unexplained wealth order or an automatic forfeiture of property, is fully satisfied when—
   (a) for an automatic forfeiture of property or a forfeiture order—the property that is the subject of the automatic forfeiture or order has vested in law in the Territory and the public trustee and guardian has taken control of the property; and
-  (b) for a penalty order—the amount of the order has been paid to, or recovered by, the Territory or realised by the public trustee and guardian from the disposal of property.
+  (b) for a penalty order or unexplained wealth order—the amount of the order has been paid to, or recovered by, the Territory or realised by the public trustee and guardian from the disposal of property.
 information order—see section 186.
 inquiry notice—see section 144.
 in relation to—to remove any doubt, in relation to includes—
@@ -118,6 +121,7 @@ interstate forfeiture order means an interstate civil forfeiture order or inters
 interstate penalty charge—see section 142 (2) (Interstate penalty charges).
 interstate penalty order means a corresponding law order prescribed by regulation for this definition.
 interstate restraining order means a corresponding law order prescribed by regulation for this definition.
+interstate unexplained wealth order means a corresponding law order prescribed by regulation for this definition.
 investigation, for division 12.5 (Examination orders and notices)—see section 164.
 issuing officer, for a search warrant, for part 13 (Search warrants)—see section 195.
 joint ownership—property is jointly owned if the owners own the property as joint tenants or tenants in common.
@@ -166,6 +170,7 @@ restraining order—see section 19.
 Note A registered interstate restraining order is taken to be a restraining order under this Act (see s 139).
 return or compensation order—see section 121.
 search warrant, for part 13 (Search warrants)—see section 195.
+serious criminal activity—see section 11C.
 serious offence—see section 13 (2).
 shareable, in relation to proceeds of confiscated assets or corresponding proceeds under the national cooperative scheme, for part 10 (Confiscated assets trust fund)—see section 127A.
 statutory property register means a register kept under a territory law, or a law of the Commonwealth, a State or another Territory, for recording ownership of property (including interests in property) if—
@@ -177,8 +182,21 @@ subject to forfeiture, in relation to property—see section 73.
 sufficient consideration, in relation to acquiring or disposing or otherwise dealing with property, means acquiring, disposing of, or otherwise dealing with, the property for a consideration that is sufficient and that appropriately reflects the value of the property having regard only to commercial considerations.
 tainted property—see section 10.
 target material, for part 13 (Search warrants)—see section 195.
+total wealth, of a person to whom a proceeding for an unexplained wealth order relates—see section 11A.
 transaction suspension order—see section 152 (1).
 trust fund means the confiscated assets trust fund under section 130.
 unclaimed tainted property—see section 11.
 unclaimed tainted property restraining order—see section 21.
+unexplained wealth charge—see section 98G (4).
+unexplained wealth order—see section 98A.
+unexplained wealth provision means the following:
+  (a) section 32A;
+  (b) section 98D;
+  (c) a provision of this Act to the extent that it relates to a provision mentioned in paragraph (a) or (b).
+Examples—par (c)
+• section 3 (e)
+• section 26A
+• section 98E
+unexplained wealth restraining order—see section 21A.
 vehicle, for part 13 (Search warrants)—see section 195.
+wealth, of a person—see section 11B.
