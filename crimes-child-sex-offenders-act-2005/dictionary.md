@@ -69,7 +69,6 @@ government custody means custody, whether in the ACT or elsewhere—
 in person—a person does a thing in person at a place only if the person does the thing by personally attending at the place.
 Examples of things not done in person
 a person making a report by telephone or email
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 interim prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see section 132H (Court may make interim prohibition order).
 long-term care responsibility, for chapter 5A (Orders prohibiting offender conduct)—see the Children and Young People Act 2008, section 20.
 make, an order for a person under this chapter, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.

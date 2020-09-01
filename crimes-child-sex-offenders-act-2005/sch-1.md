@@ -13,7 +13,7 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 9 | Crimes Act 1900, section 55 (1) | sexual intercourse with young person | 
 10 | Crimes Act 1900, section 55 (2) | sexual intercourse with young person | 
 11 | Crimes Act 1900, section 55A (1) | sexual intercourse with young person under special care | 
-12 | Crimes Act 1900, section 56 (2) | maintaining a sexual relationship with young person | 
+12 | Crimes Act 1900, section 56 (2) | sexual relationship with child or young person under special care | 
 13 | Crimes Act 1900, section 57 | act of indecency in the first degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
 ## Part 1.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
