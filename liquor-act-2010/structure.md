@@ -7,7 +7,7 @@
 ### Division 2.2 On licences—subclasses
 ### Division 2.3 Licences—application and decision
 ### Division 2.4 Licences—notification and public consultation
-### Division 2.5 Licences—amendment, transfer, renewal, etc
+### Division 2.5 Licences—amendment, transfer, etc
 ## Part 3 Liquor permits
 ### Division 3.1 Classes of permits
 ### Division 3.2 Permits—application and decision
@@ -61,3 +61,4 @@
 ## Part 16 Notification and review of decisions
 ## Part 16A Criminal intelligence
 ## Part 17 Miscellaneous
+## Part 24 Validations and transitional
