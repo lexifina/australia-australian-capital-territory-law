@@ -34,7 +34,7 @@
 ## Part 7.2 Emergency plan
 ## Part 7.3 Management of emergencies
 ### Division 7.3.1 Application—pt 7.3
-### Division 7.3.1A Emergency controller––no declared state of emergency
+### Division 7.3.1A Emergency controller and deputy emergency controller
 ### Division 7.3.1B Declared emergencies
 ### Division 7.3.1C General provisions applying if emergency controller appointed
 ### Division 7.3.2 Other emergencies

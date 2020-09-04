@@ -73,15 +73,14 @@ contributor, to a health benefits fund, for schedule 1 (Ambulance levy)—see sc
 cooperative arrangement—see section 176.
 declared state of alert means a state of alert declared under section 151 (Declaration of state of alert).
 declared state of emergency means a state of emergency declared under section 156 (Declaration of state of emergency).
+deputy emergency controller means the person appointed under section 150CA (2).
 emergency means an actual or imminent event that requires a significant and coordinated response.
 Examples of events
 1 fire, flood, storm or earthquake
 2 accident or explosion
 3 epidemic or animal disease
 4 shortage of electricity, gas, fuel or water
-emergency controller means—
-  (a) for a declared state of emergency—the person appointed under section 159; and
-  (b) in any other case—the person appointed under section 150A.
+emergency controller means the person appointed under section 150A (2).
 emergency management means the establishment of plans, structures and arrangements to coordinate the resources of agencies and other entities in a comprehensive approach to—
   (a) the assessment of hazards and emergency risks; and
   (b) the prevention of, preparedness for, response to and recovery from, emergencies.
