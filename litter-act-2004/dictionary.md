@@ -13,6 +13,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public servant
 • reviewable decision notice
 • the Territory.
+abatement notice—see section 24BD.
+amenity impact—see section 24BA.
 authorised person means an authorised person appointed under section 14.
 collection area, for part 4A (Shopping trolleys)—see section 24H (2) (c).
 collection day, for part 4A (Shopping trolleys)—see section 24H (2) (b).
@@ -21,6 +23,7 @@ commercial waste means—
   (a) waste resulting from institutional, commercial or industrial activities; or
   (b) waste collected and transported in the course of business.
 deposit means the act of parting with possession of litter.
+disability—see the Discrimination Act 1991, section 5AA.
 driver—see the Road Transport (General) Act 1999, dictionary.
 escape, into or onto a public place or an open private place, includes fall, descend and percolate, and be blown or washed, into or onto the place.
 lake—see the Lakes Act 1976, dictionary.
