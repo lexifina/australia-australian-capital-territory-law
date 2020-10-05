@@ -33,4 +33,3 @@
 ## Part 8 Registration of standard guarantee contract for commercial guarantee
 ## Part 9 Miscellaneous
 ## Part 16 COVID-19 emergency response
-## Part 18 Transitional—Residential Tenancies Amendment Act 2020 (No 2)
