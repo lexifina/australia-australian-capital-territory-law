@@ -54,6 +54,7 @@
 # Chapter 4 Civil proceedings
 ## Part 4.1 Preliminary
 ## Part 4.2 Civil jurisdiction
+## Part 4.2A Fair work claims
 ## Part 4.3 Case stated for Supreme Court
 ## Part 4.4 Transfer of proceedings from or to Supreme Court
 ## Part 4.5 Civil appeals
