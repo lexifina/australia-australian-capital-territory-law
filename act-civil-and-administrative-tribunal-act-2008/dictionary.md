@@ -49,6 +49,7 @@ decision, of the tribunal, means—
   (c) an advisory opinion on a matter stated in an application; or
   (d) for an appeal—a decision by the tribunal for the appeal.
 decision-maker, for a reviewable decision, for part 4A (Administrative review)—see section 22A.
+fair work claim—see the Magistrates Court Act 1930, s 266E.
 goods application, for part 4 (Civil disputes)—see section 15.
 ground for occupational discipline, for division 6.2 (Powers and decisions in applications for occupational discipline)—see section 64.
 internal review notice—see section 67B (1).

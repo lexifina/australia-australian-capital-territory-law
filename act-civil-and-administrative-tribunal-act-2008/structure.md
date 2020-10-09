@@ -21,6 +21,7 @@
 ## Part 7 Enforcement and offences
 ## Part 8 Referrals and appeals
 ### Division 8.1 Tribunal referrals and appeals
+### Division 8.1A Removal of combined fair work matter
 ### Division 8.2 Supreme Court referrals and appeals
 ## Part 9 The ACT civil and administrative tribunal
 ### Division 9.1 Establishment and constitution
