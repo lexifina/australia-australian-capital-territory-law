@@ -57,7 +57,9 @@ back-up offence, in relation to an indictable offence––see the Supreme Court
 bailiff means a bailiff under this Act.
 certified copy, of depositions, for division 3.5.6 (Indictable offences—other provisions)—see section 105A.
 circle sentencing means the step in a sentencing proceeding for an Aboriginal or Torres Strait Islander offender that includes members of the Aboriginal or Torres Strait Islander community.
+civil remedy provision, for part 4.2A (Fair work claims)—see section 266E.
 claim means a claim under the rules.
+combined fair work matter—see the ACT Civil and Administrative Tribunal Act 2008, see section 82A (2).
 committal order—see the Crimes (Sentence Administration) Act 2005, section 10.
 conviction—
   (a) means conviction by a magistrate for an offence; and
@@ -73,6 +75,10 @@ defendant—
   (a) for chapter 3 (Criminal proceedings)—see section 18A; and
   (b) for part 3.7 (Service and pleading by post for certain offences)—see section 116A (1).
 driver, of a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
+eligible State or Territory court, for part 4.2A (Fair work claims)—see section 266E.
+fair work claim, for part 4.2A (Fair work claims)—see section 266E.
+fair work general claim, for part 4.2A (Fair work claims)—see section 266E.
+fair work small claim, for part 4.2A (Fair work claims)—see section 266E.
 family violence offence—see the Family Violence Act 2016, dictionary.
 fine, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 hearing includes the examination of a person charged with an indictable offence.
@@ -96,6 +102,7 @@ magistrate—
   (b) for division 2.2.1 (Magistrates other than special magistrates)—see section 6.
 notice of intention to defend form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 notice to defendant form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
+official, of an industrial association, for part 4.2A (Fair work claims)—see section 266E.
 participating jurisdiction, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 plea of guilty form, for part 3.7 (Service and pleading by post for certain offences) (other than section 116B (2))—see section 116A (2).
 prescribed offence, for part 3.7 (Service and pleading by post for certain offences)—see section 116AA.
