@@ -15,4 +15,3 @@
 ## Part 5 Enforcement
 ## Part 6 Notification and review of decisions
 ## Part 7 Miscellaneous
-## Part 15 Transitional
