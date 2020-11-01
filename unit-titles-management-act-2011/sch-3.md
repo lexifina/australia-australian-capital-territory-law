@@ -3,7 +3,11 @@
 Note The owners corporation of a units plan is responsible for managing the units plan. In managing the units plan the owners corporation is required to, or may, make various decisions under this Act. The members of the owners corporation make those decisions at general meetings. The following provisions set out how general meetings (including annual general meetings) must be conducted and how decisions are made at those meetings.
 ## Part 3.1 General meetings
 ## 3.1 Conduct of general meetings
-An owners corporation for a units plan may hold, adjourn and otherwise regulate general meetings as it considers appropriate, subject to this schedule.
+## (1) An owners corporation for a units plan may hold, adjourn and otherwise regulate general meetings as it considers appropriate, subject to this schedule.
+## (2) The owners corporation may authorise a meeting to be held using a method of communication, or a combination of methods of communication, that allows a member taking part to hear or otherwise know what each other member taking part says without the members being in each other’s presence.
+Examples
+a phone link, a satellite link, an internet or intranet link
+## (3) A person who takes part in a meeting conducted under subsection (2) is taken, for all purposes, to be present at the meeting.
 ## 3.2 Annual general meetings
 ## (1) An owners corporation for a units plan must hold an annual general meeting each financial year.
 ## (2) Except for the first annual general meeting, an annual general meeting must be held within 15 months after the last annual general meeting.
@@ -14,11 +18,12 @@ An owners corporation for a units plan may hold, adjourn and otherwise regulate 
 At the first annual general meeting of an owners corporation for a units plan, the developer must give the following records to the corporation:
 ## (a) the statutory books and records of the corporation, up to the date of the meeting;
 ## (b) any insurance policy issued in the name of the corporation;
-## (c) any plans, specifications, diagrams or drawings that relate to the design or service of the units or common property of the units plan;
-## (d) a copy of any contract entered into by the corporation that relate to the common property of the units plan;
-## (e) any warranty that relates to the common property of the units plan;
-## (f) the corporation’s seal;
-## (g) any other document that relates to the units or common property of the units plan.
+  (c) any plans, specifications, diagrams or drawings that relate to the design or service of the units or common property of the units plan, including the development approval and any condition to which the approval is subject;
+  (d) the developer’s maintenance schedule for the common property;
+## (e) a copy of any contract entered into by the corporation that relate to the common property of the units plan;
+## (f) any warranty that relates to the common property of the units plan;
+## (g) the corporation’s seal (if any);
+## (h) any other document that relates to the units or common property of the units plan.
 ## 3.5 General meetings other than annual general meetings
 ## (1) The executive committee of an owners corporation may call a general meeting, by notice under section 3.6, whenever it considers appropriate.
 ## (2) Subsection (3) applies if the executive committee of an owners corporation receives a written request (a meeting request), stating the matters to be considered at the meeting, from people who are entitled to vote on all motions for units whose combined unit entitlement is at least 1/4 of the total unit entitlement in the units plan.
@@ -41,7 +46,8 @@ Note Section 3.20 explains who is entitled to vote on which kinds of motion. For
 ## (c) for a member who is not entitled to vote on any motion because a mortgagee voting notice has been given—details of the notice, including the full name and address for correspondence of the mortgagee’s representative; and
 ## (d) if a motion is to be moved that requires an unopposed or unanimous resolution—the text of the motion and the kind of resolution.
 ## (2) For a notice of a general meeting given to a person entitled to vote on any motion, the notice must include—
-## (a) a proxy form approved by the executive committee; and
+  (a) a proxy form; and
+Note If a form is approved under s 146 for this provision, the form must be used.
 ## (b) an absentee voting paper for the motion in a form approved by the executive committee.
 ## (3) For a notice of an annual general meeting, the notice must include a copy of the following:
 ## (a) the annual financial statements of the corporation to be presented at the meeting;
@@ -105,17 +111,24 @@ Notes for s (2)—owners corporations with 1 or 2 members
 2 An abstention for any unit does not in itself prevent an ordinary resolution from being passed, if at least 1 vote is cast in favour of the resolution.
 3 A vote may be cast for a unit on an ordinary resolution even if an amount owing to the owners corporation remains unpaid (see s 3.20 (3)).
 ## 3.16 Special resolutions
-## (1) For an owners corporation with more than 2 members, the requirements for passing a special resolution at a general meeting are that—
+## (1) For an owners corporation with more than 3 members, the requirements for passing a special resolution at a general meeting are that—
 ## (a) unless a poll is taken—
 ## (i) the number of votes cast in favour of the resolution is greater than the number of votes cast against it; and
-## (ii) the votes cast against the resolution number less than 1/3 of the total number of votes that can be cast on the resolution by people present at the meeting (including proxy votes); or
+## (ii) the votes cast against the resolution number not more than 1/4 of the total number of votes that can be cast on the resolution by people present at the meeting (including proxy votes); or
 ## (b) on a poll—
 ## (i) the voting value of votes cast in favour of the resolution is greater than the voting value of the votes cast against it; and
-## (ii) the voting value of votes cast against the resolution is less than 1/3 of the voting value of the total number of votes that can be cast on the resolution by people present at the meeting (including proxy votes).
-## (2) For an owners corporation with 1 or 2 members, the requirements for passing a special resolution at a general meeting are that—
+## (ii) the voting value of votes cast against the resolution is not more than 1/4 of the voting value of the total number of votes that can be cast on the resolution by people present at the meeting (including proxy votes).
+(2) For an owners corporation with 3 members, the requirements for passing a special resolution at a general meeting are that—
+  (a) unless a poll is taken—
+    (i) the number of votes cast in favour of the resolution is greater than the number of votes cast against it; and
+    (ii) the votes cast against the resolution number less than 1/3 of the total number of votes that can be cast on the resolution by people present at the meeting (including proxy votes); or
+  (b) on a poll—
+    (i) the voting value of votes cast in favour of the resolution is greater than the voting value of the votes cast against it; and
+    (ii) the voting value of votes cast against the resolution is less than 1/3 of the voting value of the total number of votes that can be cast on the resolution by people present at the meeting (including proxy votes).
+## (3) For an owners corporation with 1 or 2 members, the requirements for passing a special resolution at a general meeting are that—
 ## (a) no votes are cast against the resolution; and
 ## (b) at least 1 vote is cast in favour of the resolution.
-Notes for s (2)—owners corporations with 1 or 2 members
+Notes for s (3)—owners corporations with 1 or 2 members
 1 If the owners corporation has 2 members, both must be present to make up a quorum for consideration of the resolution (see s 3.12), unless either is not entitled to vote on the resolution (see s 3.20).
 2 An abstention for any unit does not in itself prevent a special resolution from being passed, if at least 1 vote is cast in favour of the resolution.
 3 A vote may be cast for a unit on a special resolution even if an amount owing to the owners corporation remains unpaid (see s 3.20 (3)).
@@ -139,7 +152,7 @@ Note 2 If the owners corporation has 2 members, both must be present to make up 
 Note 1 An abstention for any unit does not in itself prevent a unanimous resolution from being passed, if at least 1 vote is cast in favour of the resolution.
 Note 2 If the owners corporation has 2 members, both must be present to make up a quorum for consideration of the resolution (see s 3.12), unless either is not entitled to vote on the resolution (see s 3.20).
 ## 3.19 Evidence of resolutions of owners corporation
-Evidence of the following facts about a resolution of an owners corporation may be given by a certificate sealed with the corporation’s seal:
+Evidence of the following facts about a resolution of an owners corporation may be given by a certificate issued by the executive committee:
 ## (a) the fact that at a general meeting held on a stated date a resolution in the terms set out in the certificate was passed;
 ## (b) the fact that the resolution was an ordinary, special, unopposed or unanimous resolution.
 ## Part 3.3 Voting at general meetings
@@ -157,6 +170,15 @@ Evidence of the following facts about a resolution of an owners corporation may 
 ## (a) if the motion is only about an uncompleted stage of the development—the people entitled to vote under section 3.20 in relation to units in the uncompleted stages of the development;
 ## (b) if the motion is only about a completed stage of the development—the people entitled to vote under section 3.20 in relation to units in the completed stages of the development;
 ## (c) in any other case—the people entitled to vote under section 3.20.
+## 3.21A General meeting—decisions about defective building work
+## (1) This section applies to a motion at a general meeting of an owners corporation in relation to defective building work.
+## (2) The developer of the units plan is not entitled to vote, or exercise a proxy vote, in relation to the motion unless—
+  (a) the members of the owners corporation, other than the developer, pass a special resolution allowing the developer to vote; or
+  (b) the ACAT makes a declaration under subsection (3).
+## (3) On application, the ACAT may make a declaration that the developer may vote on a motion if—
+  (a) the ACAT is satisfied, to the extent practicable, that the developer is not likely to be responsible for the defective building work; or
+  (b) taking into account the interests of the owners corporation, the individual unit owners and the developer—barring the developer from voting would be unreasonable.
+## (4) This section does not apply if the developer owns all of the units in the units plan.
 ## 3.22 One vote—1 unit
 A single vote is exercisable for each unit at a general meeting.
 ## 3.23 Voting by mortgagees
@@ -180,20 +202,23 @@ A single vote is exercisable for each unit at a general meeting.
 ## (6) A mortgagee who has given a mortgagee voting notice to an owners corporation commits an offence if, without reasonable excuse, the mortgagee fails to give written notice to the corporation of the discharge of the mortgage within 14 days after the discharge.
 Maximum penalty: 5 penalty units.
 ## 3.25 Evidence of mortgagee’s entitlement to vote
-Evidence of any of the following facts may be given by a certificate sealed with the owners corporation’s seal:
+Evidence of any of the following facts may be given by a certificate issued by the executive committee:
 ## (a) the fact that the authorisation of a named mortgagee’s representative to vote for a stated unit was in force on a stated date;
 ## (b) the fact that a stated address for correspondence for a mortgagee’s representative was the latest address for correspondence for the representative notified to the corporation on a stated date;
 ## (c) the fact that notice of the revocation of a mortgagee voting notice was given to the owners corporation by a named mortgagee on a stated date;
 ## (d) the fact that notice of the discharge of a mortgage was given to the owners corporation on a stated date.
 ## 3.26 Proxy votes
 ## (1) Votes at a general meeting may be cast by proxy (whether or not a poll is demanded).
-## (2) The appointment of a proxy must be in the form approved by the executive committee.
-Note A proxy form must accompany the notice of general meeting (see s 3.7 (2) (a)).
-## (3) A person entitled to vote at a general meeting of an owners corporation must not—
+Note 1 If a form is approved under s 146 for this provision, the form must be used.
+Note 2 Also, a proxy form must accompany the notice of general meeting (see s 3.7 (2) (a)).
+## (2) A person entitled to vote at a general meeting of an owners corporation must not—
 ## (a) appoint a proxy for more than 1 year after the day the appointment is made; or
 ## (b) appoint a person as a proxy if the person is—
 ## (i) the manager; or
 ## (ii) a service contractor.
+## (3) A person must not exercise more than the following number of proxy votes in a vote on a matter at a general meeting:
+## (a) if there are more than 20 units in the units plan—a number that is not more than 5% of the total number of units;
+## (b) in any other case—1.
 ## 3.27 Proxy votes—limit on developer
 ## (1) This section applies to a developer of a units plan who is appointed as the proxy under a contract for the sale of a unit in the units plan.
 ## (2) The developer must not exercise 3 or more proxy votes in a vote on a matter at a general meeting of the owners corporation for the units plan unless—
@@ -226,6 +251,9 @@ Note An absentee voting form must accompany the notice of general meeting (see s
 ## (2) The absentee voting paper must be in the form approved by the executive committee.
 ## (3) An absentee vote under this section is a valid vote.
 ## (4) A person who casts an absentee vote under this section is taken to be present at the general meeting at which the motion is moved (except for the purposes of making up a quorum) and to have voted on the resolution.
+## 3.31A Alternative voting mechanism
+## (1) An owners corporation may, by resolution passed at a general meeting, agree to a way of voting on a matter, or a class of matters, to be decided by the owners corporation.
+## (2) A person is entitled to vote on a matter under subsection (1) only if the person would be entitled to vote on the matter if the matter was considered at a general meeting.
 ## 3.32 People under 18 or under other legal disabilities
 ## (1) The right of a person to vote at a general meeting must not be exercised by the person if—
 ## (a) the person is under 18 years old; or
