@@ -179,7 +179,10 @@ The tenant must take reasonable care of the premises and keep the premises reaso
 (b) in substantially the same condition as the premises were in at the commencement of the tenancy agreement, fair wear and tear excepted.
 65 The lessor must not require the tenant to make alterations, improvements or renovations to the premises.
 Tenant of unit to comply with owners corporation’s rules
-66 If the premises are a unit under the Unit Titles Act 2001, the tenant must comply with the owners corporation’s rules, and with any notice served in accordance with the rules, to the extent that they are not inconsistent with the standard residential tenancy terms in this agreement.
+66 (1) If the premises are a unit under the Unit Titles Act 2001—
+(a) the tenant must comply with the owners corporation’s rules and with any notice served in accordance with the rules; but
+(b) need not comply with the rules to the extent that they are inconsistent with the standard residential tenancy terms in this agreement.
+(2) However, if the owners corporation’s rules include a rule about keeping animals in the unit, the tenant must comply with the rule.
 Tenant must make no alterations and must not add any fixtures or fittings without the consent of lessor
 67 (1) The tenant must not, without the lessor’s written consent, make any renovation, alteration or addition to the premises (time limits for the lessor to refuse consent to special modifications are set out in the Residential Tenancies Act).
 (2) The lessor may give consent subject to a reasonable condition, including a requirement that the tenant use a suitably qualified tradesperson to undertake—
