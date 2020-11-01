@@ -25,10 +25,13 @@ assurance includes a conveyance and a disposition made otherwise than by will.
 bankruptcy includes any act or proceeding in law having effects or results similar to those of bankruptcy.
 Example
 winding-up of a company
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+buyer action period, for part 2.9 (Unit titles)—see section 259.
 common property, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, section 13.
 conveyance includes an assignment, appointment, lease, settlement or other assurance by deed of any property.
 deed, in relation to land under the Land Titles Act 1925, includes an instrument that has the effect of a deed under that Act.
+developer, for part 2.9 (Unit titles)—see the Unit Titles Act 2001, dictionary.
+disclosure statement, for part 2.9 (Unit titles)—see section 260 (1).
+disclosure update notice, for part 2.9 (Unit titles)—see section 260B (2).
 disposition includes—
   (a) a conveyance; and
   (b) an acknowledgment under the Administration and Probate Act 1929, section 56 (Executor may sign acknowledgment instead of conveyance); and
@@ -39,7 +42,9 @@ encumbrance includes—
   (a) a mortgage; and
   (b) a trust for securing money; and
   (c) a lien or charge of a portion, annuity, or other capital or annual sum.
+excluded change, for part 2.9 (Unit titles)—see section 259A (3).
 executor means the executor to whom probate has been granted, and includes an executor by right of representation.
+implied warranties, for division 2.9.3 (Implied warranties)—see section 264.
 income, of land, includes rents and profits.
 instrument includes a deed, a will, an agreement for settlement, and a law of the Territory, the Commonwealth, a State or another Territory.
 interested person, in relation to property, for part 2.5 (Partition)—see section 242.
@@ -47,6 +52,7 @@ lease, for part 4.5 (Forfeiture of leases)—see section 424.
 lessee, for part 4.5 (Forfeiture of leases)—see section 424.
 lessor, for part 4.5 (Forfeiture of leases)—see section 424.
 life interest, for division 2.2.3 (Ending life interests)—see section 215.
+material change, for part 2.9 (Unit titles)—see section 259.
 mortgage—
   (a) for land under the Land Titles Act 1925—see that Act, section 6 (1); and
   (b) for other property—includes a charge on property for securing money or money’s worth.
@@ -58,6 +64,7 @@ mortgagor—
   (b) for other property—includes any of the following:
     (i) a person taking title to the equity of redemption under the original mortgagor;
     (ii) a person entitled to redeem a mortgage, according to the person’s interest in the mortgaged property.
+off-the-plan contract, for part 2.9 (Unit titles)—see section 259.
 owners corporation, for part 2.9 (Unit Titles)—see the Unit Titles (Management) Act 2011, dictionary.
 personal representative means the executor or administrator of a deceased person.
 person with a legal disability means—
