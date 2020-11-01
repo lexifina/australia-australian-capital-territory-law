@@ -24,7 +24,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • territory lease
 • under.
 administrative interest—see section 69A.
+applicant, for part 18 (Notification and review of decisions)—see section 163.
+approved, for part 11A (Building management statements)—see section 123C.
 authorised entity, for part 8A (Record of administrative interests)—see section 69B.
+building management committee, for part 11A (Building management statements)—see section 123F (1) (a).
+building management statement, for part 11A (Building management statements)—see section 123D (2).
 building sublease—see the Planning and Development Act 2007, dictionary.
 caveator means the person by whom or on whose behalf a caveat has been lodged under this Act.
 computer folio means a folio of the register that is kept or maintained in or on a computer.
@@ -52,9 +56,12 @@ mortgage means any charge on land created merely for securing a debt.
 mortgagee means the proprietor of a mortgage.
 mortgagee corporation means a mortgagee that is a corporation.
 mortgagor means the proprietor of land or of any interest in land pledged as security for a debt.
+parties, to a building management statement, for part 11A (Building management statements)—see section 123E (1).
 proprietor means a person seized or possessed of, or entitled to, land, at law or in equity.
 register means the register kept under section 43.
+registered building management statement, for part 11A (Building management statements)—see section 123C.
 registrable form, for an instrument—see section 4.
+reviewable decision, for part 18 (Notification and review of decisions)—see section 163.
 transfer means the passing of any interest in land under this Act whether for valuable consideration or otherwise.
 transmission means the acquirement of title to or interest in land consequent on the death, will, intestacy, bankruptcy, insolvency, marriage, civil union or civil partnership of a proprietor.
 units plan—see the Unit Titles Act 2001, dictionary.
