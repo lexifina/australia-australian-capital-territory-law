@@ -11,16 +11,24 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • exercise
 • function
 • individual
-• planning and land authority.
+• planning and land authority
+• registrar-general.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if provided by the law).
 administration order—see section 136.
 administrative fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 73.
 administrator, of an owners corporation, means a person who is appointed as the administrator of the corporation under part 10 (Administrators).
+alternative rules means rules other than the default rules.
 appoint includes engage.
+assistance animal—see the Discrimination Act 1991, section 5AA (3).
+audit means an audit conducted by a person who—
+  (a) is not a member of, or manager for, the owners corporation; and
+  (b) has not prepared or assisted in the preparation of the corporations accounts; and
+  (c) has the qualifications prescribed by regulation.
 building—
   (a) for this Act generally—see the Unit Titles Act 2001, dictionary; and
   (b) for division 5.4 (Insurance)—see section 99.
 building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
+building management statement—see the Land Titles Act 1925, section 123D.
 class A unit—see the Unit Titles Act 2001, section 10.
 class B unit—see the Unit Titles Act 2001, section 11.
 common property—see the Unit Titles Act 2001, section 13.
@@ -30,11 +38,12 @@ Note Corporation—see the Legislation Act, dictionary, pt 1.
 corporate register—see section 113.
 court includes the ACAT.
 declared land sublease—see the Planning and Development Act 2007, section 312C.
-default rules—see section 106.
+default rules means the default rules prescribed by regulation.
 developer—see the Unit Titles Act 2001, dictionary.
 developer control period, for a units plan, means the period that—
   (a) starts on the day the owners corporation for the units plan is established; and
   (b) ends on the day people other than the developer hold 1/3 or more of the unit entitlements for the units plan.
+developer’s maintenance schedule—see section 25.
 development, of a unit or common property—see the Unit Titles Act 2001, dictionary.
 eligible person, for a unit or common property in relation to which access to information is required, means—
   (a) the owner, or another person with an interest in the unit, or in an easement over the common property; or
@@ -43,7 +52,6 @@ eligible person, for a unit or common property in relation to which access to in
   (d) if access to the information is necessary or desirable for the administration of this Act—the planning and land authority.
 entitled to vote, in relation to a motion at a general meeting of an owners corporation, means a person who is entitled to vote on the motion under schedule 3, section 3.20.
 executive committee, of an owners corporation, means the executive committee of the corporation established under section 34.
-executive committee representative, for schedule 4 (Default rules)—see schedule 4, rule 1 (1).
 executive member means a member of an executive committee.
 expected sinking fund expenditure, for division 5.2 (Administrative, special purpose and sinking funds)—see section 83.
 financed service contract, for part 9 (Protection of financiers for service contracts)—see section 130.
@@ -55,6 +63,7 @@ full name, of a company, means the full name of the company together with the fu
 general fund, of an owners corporation, for division 5.2 (Administrative, special purpose and sinking funds)—see section 72.
 general fund budget, for division 5.2 (Administrative, special purpose and sinking funds)—see section 75 (1).
 general fund contribution—see section 78 (1).
+grantee means the person granted a special privilege.
 install includes build, place, connect or erect.
 interest—see the Unit Titles Act 2001, dictionary.
 interested party, for an administration order—see section 136 (Who may apply for an administration order?).
@@ -68,6 +77,7 @@ maintenance, of a building, a facility for a utility service or a utility condui
   (b) replacement; and
   (c) renewal; and
   (d) restoration.
+maintenance requirement means the obligation to undertake the maintenance of the common property that is the subject of the special privilege granted to the grantee.
 management contract, for division 4.2 (Managers)—see section 49.
 management services, for division 4.2 (Managers)—see section 49.
 manager, for division 4.2 (Managers)—see section 49.
@@ -83,10 +93,10 @@ owner means—
   (a) for a unit—the registered proprietor of the lease of the unit and includes a part-owner; or
 Note The term unit owner is also defined in the dictionary with the same meaning.
   (b) for common property—the owners corporation.
-owner, occupier or user, of a unit, for schedule 4 (Default rules)—see schedule 4, rule 1 (1).
 owners corporation, for a units plan, means a corporation established under section 8.
 part-owner, of a unit, means a person registered as a joint tenant or tenant in common in relation to the unit.
 Note Joint proprietors of a unit must be registered as either joint tenants or tenants in common (see Land Titles Act 1925, s 54).
+pet friendly rule—see section 112C.
 proportional share, of a contribution payable for a unit, is the proportion of the total contributions payable for all units worked out as follows:
 proprietor, of an interest in land—see the Unit Titles Act 2001, dictionary.
 reduced quorum—see schedule 3, section 3.9 (Quorum at a general meeting—owners corporations with 3 or more members).
@@ -97,7 +107,7 @@ representative—
   (b) for a company that is the owner or a part-owner of a unit—see section 13 (Company-owned units—authorisation of representatives); or
   (c) for a mortgagee that has given a mortgagee voting notice to an owners corporation—see schedule 3, section 3.23 (Voting by mortgagees).
 retirement village—see the Retirement Villages Act 2012, section 10.
-rule, for an owner corporation, means a rule of the corporation under section 106.
+rule, for an owners corporation, means a rule of the owners corporation under section 106.
 rule infringement notice—see section 109 (2).
 secretary, for an owners corporation, means the secretary of the corporation elected under section 40.
 service contract, for division 4.3 (Service contractors)—see section 59.
@@ -106,17 +116,21 @@ service contractor services, for division 4.3 (Service contractors)—see sectio
 sinking fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 81 (2).
 sinking fund contribution—see section 89 (1).
 sinking fund plan, for division 5.2 (Administrative, special purpose and sinking funds)—see section 82 (2).
+special privilege means a right, other than a sublease, granted to a person to use the common property of a units plan in a manner that is additional to, or restrictive of, the rights of other people (who are not granted the special privilege) to use the common property.
+special privilege rule—see section 112A (1).
 special purpose fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 74 (1).
 special resolution means a resolution of a general meeting passed as required by schedule 3, section 3.16.
 staged development—see the Unit Titles Act 2001, section 17 (4) (Unit title applications—general requirements).
 standard quorum—see schedule 3, section 3.9 (Quorum at a general meeting—owners corporations with 3 or more members).
-sustainability infrastructure, installed in relation to a units plan—
-  (a) means infrastructure and equipment that—
-    (i) improves the environmental sustainability of the units; or
-    (ii) reduces the environmental impact of the owners corporation and the unit owners; and
+sustainability infrastructure—
+  (a) means infrastructure or equipment that—
+    (i) if installed in relation to a units plan—
+      (A) improves the environmental sustainability of the units; or
+      (B) reduces the environmental impact of the owners corporation and the units owners; and
+    (ii) if installed in relation to a unit—
+      (A) improves the environmental sustainability of the unit; or
+      (B) reduces the environmental impact of the unit; and
   (b) includes related utility service connections and equipment.
-Examples—par (a)
-solar panels, clothes lines, rainwater tanks
 total general fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 75 (2) (a).
 total sinking fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 82 (3) (b).
 treasurer, for an owners corporation, means the treasurer of the corporation elected under section 40.

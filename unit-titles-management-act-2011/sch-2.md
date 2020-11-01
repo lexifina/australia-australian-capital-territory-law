@@ -12,22 +12,33 @@ An executive committee member is protected from civil liability in relation to t
 ## (1) The executive committee of an owners corporation must—
 ## (a) keep minutes of its proceedings; and
 ## (b) keep minutes of proceedings at general meetings of the corporation; and
-## (c) include in the minutes of proceedings at general meetings a record of every resolution of the corporation (including, for special, unopposed and unanimous resolutions, details of the kind of resolution); and
+## (c) include in the minutes of proceedings kept under paragraphs (a) and (b) the following:
+## (i) the date, time and place of the meeting;
+## (ii) the names of members present at the meeting, including (if authorised) those members taking part using a method to hear or otherwise know what each other member taking part says without the members being in each other’s presence;
+## (iii) details of proxy and absentee votes for the meeting;
+## (iv) details of resolutions passed including, for special, unopposed and unanimous resolutions, details of the kind of resolution; and
 ## (d) keep a copy of any court order given to the owners corporation; and
 ## (e) keep any authorisation by the planning and land authority given to the owners corporation; and
 ## (f) keep proper records and books of account in relation to—
     (i) the corporation’s assets and liabilities (including all amounts owing to and by the corporation); and
-    (ii) all amounts received and paid by the corporation.
+    (ii) all amounts received and paid by the corporation; and
+## (g) must arrange for the financial records of the units plan to be audited before the annual general meeting if either—
+## (i) the number of units in the units plan is more than 100, or another number prescribed by regulation; or
+## (ii) the annual budget of the owners corporation is more than $250 000, or another amount prescribed by regulation; and
+  (h) maintain an up-to-date consolidated version of the rules of the owners corporation.
 Note If minutes or other records kept by the executive committee contain personal information, the executive committee must comply with the Australian Privacy Principles under the Privacy Act 1988 (Cwlth) in relation to that information.
-## (2) The executive committee must keep the documents, records and books for at least 5 years.
-## (3) The executive committee may keep the minutes, records or books of account in an electronic form.
-## (4) If an owners corporation fails to comply with this section, each executive member of the corporation at the time of the failure commits an offence.
-## (5) It is a defence to a prosecution for an offence against this section if the defendant proves that—
+## (2) The executive committee must give a copy of the minutes of proceedings required under subsection (1) to each member of the owners corporation within 14 days after the day the meeting was held.
+## (3) The executive committee must keep the documents, records and books of account for at least 7 years and make copies available for inspection on request by any member of the owners corporation.
+## (4) The executive committee may keep and distribute the minutes, records or books of account in an electronic form.
+## (5) If an owners corporation fails to comply with this section, each executive member of the corporation at the time of the failure commits an offence.
+## (6) It is a defence to a prosecution for an offence against this section if the defendant proves that—
 ## (a) the defendant took reasonable steps to ensure that the section was complied with; or
 ## (b) the failure to comply happened without the defendant’s knowledge.
 Maximum penalty: 20 penalty units.
 ## 2.2 Executive committee must present financial statements at annual general meeting
-## (1) At each annual general meeting of an owners corporation, the executive committee must present to the corporation annual financial statements in relation to the matters mentioned in section 2.1 (1) (f).
+## (1) At each annual general meeting of an owners corporation, the executive committee must present to the corporation—
+## (a) annual financial statements in relation to the matters mentioned in section 2.1 (1) (f); and
+## (b) the audit opinion (if any) in relation to the annual financial statements.
 ## (2) Annual financial statements must cover the period from the end of the period for which the last statements were prepared (or, for the first annual general meeting, since the registration of the units plan), to a stated day (the stated day) before the annual general meeting at which they are to be presented.
 ## (3) The annual financial statements must be presented to the annual general meeting within 3 months from the stated day.
 ## (4) If an owners corporation fails to comply with this section, each executive member of the corporation at the time of the failure commits an offence.
@@ -91,6 +102,10 @@ costs, of taking legal action, means the legal costs and disbursements incurred 
 ## 2.8 Meetings of executive committee
 ## (1) An executive committee may meet for the conduct of business when it decides, and may adjourn and otherwise regulate its meetings as it considers appropriate.
 ## (2) An executive member may call a meeting of the committee by giving to each other executive member not less than 7 days written notice stating the business that the member proposes to bring before the meeting and the time and place of the meeting.
+## (3) The executive committee may authorise a meeting to be held using a method of communication, or a combination of methods of communication, that allows a member taking part to hear or otherwise know what each other member taking part says without the members being in each other’s presence.
+Examples
+a phone link, a satellite link, an internet or intranet link
+## (4) A member who takes part in a meeting conducted under subsection (3) is taken, for all purposes, to be present at the meeting.
 ## 2.9 Quorum of executive committee
 ## (1) Business may be transacted at a meeting of an executive committee only if a quorum is present at the relevant time.
 ## (2) A quorum is worked out as follows:

@@ -19,6 +19,10 @@
 ### Division 5.3 Powers in relation to money owing to owners corporation
 ### Division 5.4 Insurance
 ## Part 6 Owners corporation rules
+### Division 6.1 Rules—generally
+### Division 6.2 Rules—particular matters
+#### Subdivision 6.2.1 Special privileges in relation to common property
+#### Subdivision 6.2.2 Rules about animals
 ## Part 7 Owners corporation records
 ## Part 8 Dispute resolution
 ## Part 9 Protection of financiers for service contracts
@@ -28,3 +32,4 @@
 ## Part 11 Miscellaneous
 ### Division 11.1 Mortgage insurance
 ### Division 11.2 Miscellaneous
+## Part 13 Transitional—Unit Titles Legislation Amendment Act 2020
