@@ -29,6 +29,7 @@ Examples of site improvements
 2 a paved barbecue area
 building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
 building damage scheme—see section 152.
+building management statement—see the Land Titles Act 1925, section 123D (2).
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 cancellation authority—see section 160.
 cancellation dissolution order—see section 165 (Dissolution of owners corporation—Supreme Court powers).
@@ -129,6 +130,9 @@ public unleased land—see the Public Unleased Land Act 2013, section 8.
 registered means registered with the registrar-general under the Land Titles Act 1925 or the Land Titles (Unit Titles) Act 1970.
 reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
+schedules of rent and lease provisions means the schedules issued by the planning and land authority under section 23 (1) setting out—
+  (a) the rent to be reserved under the lease of each unit in a units plan and the provisions subject to which the lease of the unit is to be held; and
+  (b) the provisions subject to which the lease of the common property for the units plan is to be held.
 special resolution—see the Unit Titles (Management) Act 2011, dictionary.
 staged development, in relation to a unit title application—see section 17 (4) (Unit title applications—general requirements).
 termination, of a lease of a unit, does not include the termination of the lease on surrender under—

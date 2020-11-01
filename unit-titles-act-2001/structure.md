@@ -26,3 +26,4 @@
 ## Part 13 Expiry and termination of unit leases
 ## Part 14 Notification and review of decisions
 ## Part 15 Miscellaneous
+## Part 26 Transitional—Unit Titles Legislation Amendment Act 2020
