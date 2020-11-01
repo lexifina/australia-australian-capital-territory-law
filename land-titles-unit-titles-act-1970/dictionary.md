@@ -20,6 +20,9 @@ Note 3 Terms defined in the Unit Titles Act 2001 have the same meaning in this A
 • registered
 • termination
 • unit (see s 9).
+Note 4 Terms defined in the Unit Titles (Management) Act 2011 have the same meaning in this Act (see s 3A). For example, the following terms are defined in the Unit Titles (Management) Act 2011, dict:
+• alternative rule
+• owners corporation
+• rule.
 graphic bar scale means a set of marks on a plan, at measured distances on a line, that indicates the scale to which the plan is drawn.
 Land Titles Act means the Land Titles Act 1925.
-owners corporation—see the Unit Titles (Management) Act 2011, dictionary.
