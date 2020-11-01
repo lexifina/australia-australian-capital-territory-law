@@ -21,11 +21,13 @@
 ### Division 10.4 Caveats against dealings
 ### Division 10.5 Determinations under Rates and Land Rent (Relief) Act 1970
 ## Part 11 Implied covenants and short forms of covenants
+## Part 11A Building management statements
 ## Part 12 Trusts
 ## Part 13 Powers of attorney
 ## Part 14 Transmissions
 ## Part 15 Fees and forms
 ## Part 16 Civil rights and remedies
 ## Part 17 Corrections and alterations
+## Part 18 Notification and review of decisions
 ## Part 19 Miscellaneous
 ## Part 20 Transitional
