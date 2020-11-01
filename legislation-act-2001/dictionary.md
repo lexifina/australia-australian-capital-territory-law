@@ -442,7 +442,7 @@ territory law—see law, of the Territory.
 territory lease—
   (a) means—
     (i) a lease granted under the Planning and Development Act 2007; or
-    (ii) a lease under the Unit Titles Act 2001; but
+    (ii) a lease that is, under the Unit Titles Act 2001, taken to be granted by the Territory under the Planning and Development Act 2007; but
   (b) does not include—
     (i) a sublease of land approved under the Planning and Development Act 2007, section 308; or
     (ii) any other sublease.
