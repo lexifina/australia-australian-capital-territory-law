@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • land titles register
 • lawyer
 • territory lease.
+adaptable housing dwelling means a dwelling prescribed by regulation.
 agent means—
   (a) a person who holds a licence under the Agents Act 2003 as a real estate agent; or
   (b) a person registered under that Act as a real estate salesperson.
@@ -15,6 +16,7 @@ bidder number, for part 4 (Public auctions of residential property)—see sectio
 bidders record—see section 25 (1).
 building and compliance inspection report means a building and compliance inspection report prescribed by regulation.
 building conveyancing inquiry documents, for part 2 (Sale of residential property)—see section 7.
+building management statement—see the Land Titles Act 1925, section 123D.
 class A unit, for part 2 (Sale of residential property)—see section 7.
 class B unit, for part 2 (Sale of residential property)—see section 7.
 developer’s holding lease—see section 8 (2) (e).
