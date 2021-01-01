@@ -16,7 +16,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • foreign country
 • function
 • reviewable decision notice
-• State.
+• State
+• territory law.
 advisory committee, for chapter 4A (School education advisory committee) means an advisory committee established under section 126.
 appointed member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
@@ -31,6 +32,14 @@ authorised person (non-government) means a person who is an authorised person (n
 board appointed member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
   (b) for a school board of a small school, other than a school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 42 (Composition of school boards of small schools).
+boarding facilities, provided by a school for students enrolled at the school, means—
+  (a) facilities for residential accommodation provided for a fee or other consideration; but
+  (b) does not include the following:
+    (i) facilities provided by an entity whose main function is to provide a service other than an education course;
+Example
+Peta is in hospital for medical treatment, during which she completes a portion of schooling.
+    (ii) facilities provided for students at a school-related institution;
+    (iii) facilities prescribed by regulation as facilities that are not boarding facilities.
 carer—see section 6.
 completes year 10—see section 9B.
 completes year 12—see section 9C.
