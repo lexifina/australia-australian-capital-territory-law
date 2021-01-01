@@ -8,6 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • bankrupt or personally insolvent
   • director-general (see s 163)
   • document
+  • DPP
   • entity
   • health practitioner
   • may (see s 146)
@@ -71,6 +72,7 @@ incorporated document means—
   (a) the standards mentioned in section 39 (1) (b) (v) (When may someone complain about a health service?); or
   (b) the standards mentioned in section 40 (b) (i) or (iv) (When may someone complain about a disability service?); or
   (c) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
+justice agency—see the Victims of Crime Act 1994, section 8.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 operator, of a retirement village—see the Retirement Villages Act 2012, section 7.
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
@@ -104,5 +106,6 @@ service for victims of crime—see section 9A.
 third-party report—see section 83 (1).
 unlawful act, for division 4.2A (Discrimination complaints to ACAT)—see section 53.
 victims of crime commissioner means the commission member exercising the functions under section 27C.
+victims rights complaint—see section 41C (2).
 vulnerable person complaint means a complaint about the treatment of a vulnerable person that may be made, or is made, under section 41B.
 young person means a person who is 12 years old or older, but not yet an adult.
