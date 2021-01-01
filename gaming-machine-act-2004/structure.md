@@ -3,8 +3,6 @@
 ## Part 2A Reducing cap on authorisations in ACT to 4 000 or fewer
 ### Division 2A.1 Preliminary
 ### Division 2A.2 Voluntary surrenders
-### Division 2A.3 Compulsory surrenders
-### Division 2A.4 Miscellaneous
 ### Division 2A.5 Expiry—pt 2A
 ## Part 2B Licences and authorisations
 ### Division 2B.1 Definitions and important concepts
