@@ -65,7 +65,6 @@ authorisation schedule—
 authorised officer means an authorised officer under the Control Act, section 20.
 authorised premises means premises for which an authorisation certificate is in force.
 cancelled, for part 4 (Disciplinary action)—see section 56.
-cap on authorisations, for division 2A.3 (Compulsory surrenders)—see section 10I.
 cash facility—
   (a) means—
     (i) an automatic teller machine; or
@@ -105,7 +104,6 @@ community, for part 12 (Community contributions)—see section 165.
 community purpose, for part 12 (Community contributions)—see section 166.
 community purpose contribution, for part 12 (Community contributions)—see section 166.
 compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
-compulsory surrender period, for division 2A.4 (Miscellaneous)—see section 10Q.
 computer cabinet means the sealable part of a gaming machine that contains the game storage medium and the random access memory.
 computer cabinet access register—see section 71 (1).
 constitution means—
@@ -181,7 +179,6 @@ Note Licensee has a meaning corresponding to the meaning of licence (see Legisla
 licence number—
   (a) of a class B licence—see section 30 (2) (b) (vii); and
   (b) of a class C licence—see section 20 (1) (b) (vi).
-licensee, for division 2A.3 (Compulsory surrenders)—see section 10I.
 licensee’s name, in relation to a class C licensee, means the name of the licensee’s legal entity.
 life member, of a club, means a person who is elected to membership of the club for life under the rules of the club.
 linked jackpot means winnings under a linked-jackpot arrangement operated under an approval or permit under part 8.
@@ -241,7 +238,6 @@ storage rules, for division 6A.7 (Storage of authorisations and gaming machines)
 stored authorisation, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 surrendered authorisation, for division 2A.2 (Voluntary surrenders)—see section 10A.
-surrender obligation, of a licensee, for division 2A.3 (Compulsory surrenders)—see section 10I.
 tax period, for part 11 (Finance) and part 12 (Community contributions)—see section 157A.
 technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
