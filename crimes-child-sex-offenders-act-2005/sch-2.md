@@ -13,7 +13,7 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 9 | Crimes Act 1900, section 64A (1) | trading in child exploitation material | 
 10 | Crimes Act 1900, section 65 (1) | possessing child exploitation material | 
 11 | Crimes Act 1900, section 66 (1) | using the internet etc to deprave young person | 
-12 | Crimes Act 1900, section 66 (2) | using the internet etc to deprave young person | 
+12 | Crimes Act 1900, section 66 (3) | using the internet etc to deprave young person | 
 13 | Sex Work Act 1992, section 19 (2) | accosting child for commercial sexual services | 
 14 | Sex Work Act 1992, section 20 (1) | causing child under 12 to provide commercial sexual services | 
 15 | Sex Work Act 1992, section 20 (3) | causing child 12 or older to provide commercial sexual services | 
@@ -29,7 +29,7 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 7 | Criminal Code Act 1995 (Cwlth), section 272.13 (2) | causing young person to engage in sexual activity (other than sexual intercourse) in presence of defendant outside Australia, and defendant in position of trust or authority | 
 8 | Criminal Code Act 1995 (Cwlth), section 272.14 (1) | procure child to engage in sexual activity outside Australia | 
 9 | Criminal Code Act 1995 (Cwlth), section 272.15 (1) | groom child for sexual activity outside Australia | 
-10 | Criminal Code Act 1995(Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
+10 | Criminal Code Act 1995 (Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
 11 | Criminal Code Act 1995 (Cwlth), section 272.20 (2) | prepare or plan offence against Criminal Code (Cwlth), section 272.12 or section 272.13 | 
 12 | Criminal Code Act 1995 (Cwlth), section 273.5 (1) | possess, control, produce, distribute or obtain child exploitation material outside Australia | 
 13 | Criminal Code Act 1995 (Cwlth), section 273.6 (1) | possess, control, produce, distribute or obtain child abuse material outside Australia | 
