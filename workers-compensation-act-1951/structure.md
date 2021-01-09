@@ -28,12 +28,17 @@
 # Chapter 7 Vocational rehabilitation
 # Chapter 8 Insurance
 ## Part 8.1 Insurance—general
+### Division 8.1.1 Interpretation
+### Division 8.1.2 Licences—insurers
+### Division 8.1.3 Licences—self-insurers
+### Division 8.1.4 Licences—compliance and other requirements
+### Division 8.1.5 Regulatory action
 ## Part 8.2 Default insurance fund
 ### Division 8.2.1 Definitions for pt 8.2
 ### Division 8.2.2 Establishment etc of DI fund
 ### Division 8.2.3 Administration of DI fund
 ### Division 8.2.4 Contributions to DI fund
-### Division 8.2.5 DI fund’s relationship with liquidators of approved insurers
+### Division 8.2.5 DI fund’s relationship with liquidators of licensed insurers
 ### Division 8.2.6 Making claims for payment
 ### Division 8.2.7 Payment of claims
 ### Division 8.2.8 Default insurance fund—miscellaneous
@@ -47,3 +52,4 @@
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 Notification and review of decisions
 # Chapter 13 Miscellaneous
+# Chapter 21 Transitional—Employment and Workplace Safety Legislation Amendment Act 2020
