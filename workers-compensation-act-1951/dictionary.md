@@ -25,7 +25,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • year.
 act of terrorism, for part 8.3 (Acts of terrorism)—see section 179C.
 annual premium, for an employer, for part 5.4A (Return-to-work coordinators)—see section 103A.
-approved insurer means an insurer approved by the Minister under section 145.
 approved rehabilitation provider—see section 139 (1).
 asbestos-related disease means a disease caused by exposure to asbestos.
 assessed treatment and care needs, of a participant in the LTCS scheme—see the LTCS Act, section 29.
@@ -94,7 +93,7 @@ full-time student means an individual who—
   (a) is at least 16 years old but younger than 25; and
   (b) is receiving full-time education at a secondary or tertiary educational institution.
 given to the insurer, for pt 6.2 (Time for accepting or rejecting claims)—see section 127 (2).
-gross written premiums, in relation to an approved insurer, means the total amount of premiums, less GST, for all insurance policies written by the insurer for a policy period.
+gross written premiums, in relation to a licensed insurer, means the total amount of premiums, less GST, for all insurance policies written by the licensed insurer for a policy period.
 imminently fatal asbestos-related disease, in a person, means an asbestos-related disease that is reasonably likely to—
   (a) substantially contribute to the death of the person; and
   (b) result in the death of the person within 2 years after a doctor mentioned in section 116 (2) (a) certifies the person has the disease.
@@ -110,14 +109,20 @@ injury notice—
   (a) for chapter 5 (Injury management process)—see section 93 (2); and
   (b) for chapter 6 (Claims)—see section 120.
 inspector means an inspector appointed under section 188 (1).
+insurance service—see section 143A.
 insurer—
   (a) for chapter 5 (Injury management process)—
     (i) see section 86A; and
     (ii) if there is more than 1 employer of a worker—see section 87; and
   (b) for part 6.2 (Time for accepting or rejecting claims)—see section 127 (1); and
   (c) for part 8.3 (Acts of terrorism)—see section 179B.
+insurer licence—see section 143A.
 internally reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199B (1).
 internal reviewer, for chapter 12 (Notification and review of decisions)—see section 199B (3).
+licence, for division 8.1.5 (Regulatory action)—see section 164A.
+licensed insurer—see section 143A.
+licensed self-insurer—see section 143A.
+licensee, for division 8.1.5 (Regulatory action)—see section 164A.
 liquidator, of an insurer, includes—
   (a) the official manager of the insurer; or
   (b) the receiver of the insurer’s property; or
@@ -149,7 +154,7 @@ member of the family, in relation to a worker or an employer, means the grandchi
 Note For the meaning of domestic partner, see the Legislation Act, s 169. If a worker has died, the definition of domestic partner elsewhere in the dictionary provides that the term refers to the person who was the worker’s domestic partner when the worker died.
 nominated treating doctor, for chapter 5 (Injury management process)—see section 86.
 non-business employer means an employer who employs the worker other than for work that is for (or incidental to) the employer’s trade or business.
-notional gross written premium, in relation to a self-insurer, means the total amount of premium that would have been payable, less GST, if the self-insurer had obtained a compulsory insurance policy for a policy period.
+notional gross written premium, in relation to a licensed self-insurer, means the total amount of premium that would have been payable, less GST, if the licensed self-insurer had obtained a compulsory insurance policy for a policy period.
 occupier, for chapter 10 (Inspection)—see section 187.
 offence, for chapter 10 (Inspection)—see section 187.
 official manager—see the Corporations Act, section 9.
@@ -170,12 +175,15 @@ protocol—
   (b) for chapter 7 (Vocational rehabilitation)—see section 141.
 receiver and manager—see the Corporations Act, section 9.
 registered agreement means an agreement registered under section 79.
+regulator—see the Work Health and Safety Act 2011, dictionary.
+regulator condition, in relation to an insurer licence or a self-insurer licence, means a condition the regulator considers appropriate for the licence.
+regulatory action, for division 8.1.5 (Regulatory action)—see section 164A.
 rehabilitation services includes training and retraining services.
 return-to-work coordinator, for part 5.4A (Return-to-work coordinators)—see section 103A.
 return-to-work program means a program mentioned in section 109.
 reviewable decision, for chapter 12 (Notification and review of decisions)—see section 199.
 Seas and Submerged Lands Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
-self-insurer means an employer who is exempted under section 151.
+self-insurer licence—see section 143A.
 single loss amount, for part 4.4 (Compensation for permanent injuries)—see section 49.
 speech therapist means—
   (a) a person entitled to practise as a speech therapist under a law of the Territory, a State or another Territory; or
