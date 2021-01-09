@@ -31,9 +31,9 @@ Note 4 The Workers Compensation Act 1951 contains definitions relevant to this A
 • DI fund
 • DI fund manager
 • gross written premiums
+• licensed self-insurer
 • notional gross written premium
 • professional sporting activity
-• self-insurer
 • Territory or State of connection (see s 36A)
 • worker.
 ACTIA means the Australian Capital Territory Insurance Authority established under the Insurance Authority Act 2005.
@@ -64,7 +64,7 @@ injury means an injury to which this Act applies.
 Note Section 6 sets out the injuries to which this Act applies.
 insurer, for an injured person’s claim, means—
   (a) if the injured person has a motor accident injury—an MAI insurer; or
-  (b) if the injured person has a work injury—a workers compensation insurer or self insurer.
+  (b) if the injured person has a work injury—a workers compensation insurer or licensed self-insurer.
 interested person, for division 7.2 (Disputes about injuries)—see section 45.
 interim participation, in the LTCS scheme, means a person accepted as an interim participant in the LTCS scheme under section 20.
 legal costs—see the Legal Profession Act 2006, dictionary.
@@ -94,5 +94,5 @@ treatment and care needs assessment means an assessment under part 5 (Treatment 
 treatment and care review panel, for division 7.3 (Disputes about treatment and care needs assessments)—see section 62.
 worker, in relation to a work injury—see the Workers Compensation Act 1951, chapter 3 (Meaning of worker).
 workers compensation claim means a claim for compensation for a work injury under the Workers Compensation Act 1951.
-workers compensation insurer, in relation to a workers compensation claim, means an insurer approved by the Minister under the Workers Compensation Act 1951, section 145.
+workers compensation insurer, in relation to a workers compensation claim, means a licensed insurer within the meaning of the Workers Compensation Act 1951.
 work injury means an injury to a worker arising out of, or in the course of, the worker’s employment.
