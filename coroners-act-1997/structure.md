@@ -18,7 +18,7 @@
 ### Division 5.6 General powers of coroners
 ### Division 5.7 Other requirements
 ## Part 5A Coronial investigation scenes
-## Part 6 Deaths in custody—additional provisions
+## Part 6 Deaths in care and deaths in custody—additional provisions
 ## Part 7 Offences
 ## Part 8 Powers of Supreme Court
 ## Part 9 Witness expenses and other amounts

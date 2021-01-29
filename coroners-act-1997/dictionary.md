@@ -61,6 +61,7 @@ coronial investigation scene power, for part 5A (Coronial investigation scenes)�
 court means the Coroner’s Court continued in existence under section 4 (1).
 custodial officer—see section 3D.
 death includes a suspected death.
+death in care—see section 3BB.
 death in custody—see section 3C.
 disaster means an occurrence in the ACT due to natural or other causes that—
   (a) caused or threatened to cause substantial—
@@ -73,9 +74,9 @@ engage in conduct means—
 hearing means a hearing for an inquest or inquiry under division 5.1.
 inquest means an inquest concerning the death of a person.
 inquiry means an inquiry concerning a disaster or fire.
-member of the immediate family, for a deceased person the subject of an inquest, means—
-  (a) a person who was the domestic partner of the deceased person, or a parent, grandparent, child, brother or sister, or guardian or ward, of the deceased person; and
-  (b) if the deceased person was an Aboriginal or Torres Strait Islander person—a person who, in accordance with the traditions and customs of the Aboriginal or Torres Strait Islander community of which the deceased person was a member, had the responsibility for, or an interest in, the welfare of the deceased person.
+member of the immediate family, of a deceased person the subject of an inquest, means—
+  (a) a person who was the deceased person’s domestic partner, parent, step-parent, grandparent, child, brother or sister, or guardian or ward; and
+  (b) if the deceased person was an Aboriginal or Torres Strait Islander person—a person who, in accordance with the traditions and customs of the deceased person’s Aboriginal or Torres Strait Islander community, had the responsibility for, or an interest in, the welfare of the deceased person.
 Note For the meaning of domestic partner, see the Legislation Act, s 169.
 mental health officer—see the Mental Health Act 2015, dictionary.
 place includes a vehicle, a vessel or an aircraft.
