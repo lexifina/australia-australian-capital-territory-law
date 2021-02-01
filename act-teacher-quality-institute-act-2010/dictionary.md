@@ -76,4 +76,6 @@ teachers register––see section 42.
 teaching––see section 8.
 working with vulnerable people registration means registration that allows a person to work with children under—
   (a) the Working with Vulnerable People (Background Checking) Act 2011; or
-  (b) a law of another jurisdiction that corresponds or substantially corresponds to the Working with Vulnerable People (Background Checking) Act 2011.
+  (b) for a pre-service teacher—
+    (i) the Working with Vulnerable People (Background Checking) Act 2011; or
+    (ii) a law of another jurisdiction that corresponds or substantially corresponds to the Working with Vulnerable People (Background Checking) Act 2011.
