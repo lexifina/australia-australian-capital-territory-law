@@ -9,7 +9,6 @@
 ### Division 5.4 Negative risk assessments
 ## Part 6 Registration
 ### Division 6.1 Registration
-### Division 6.2 Registration cards
 ### Division 6.3 Monitoring registered people
 ### Division 6.4 Suspending or cancelling registration
 ### Division 6.5 Surrendering registration
@@ -17,3 +16,4 @@
 ## Part 7 Notification and review of decisions
 ## Part 7A Information sharing
 ## Part 8 Miscellaneous
+## Part 9 Transitional—Working with Vulnerable People (Background Checking) Amendment Act 2020
