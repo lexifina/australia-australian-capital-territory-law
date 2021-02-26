@@ -84,6 +84,7 @@ barrister means—
   (b) an interstate legal practitioner who holds a current interstate practising certificate that entitles the practitioner to engage in legal practice only as or in the manner of a barrister.
 borrower, for part 3.5 (Mortgage practices and managed investment schemes)—see section 369.
 capping and sufficiency provisions, for part 3.4 (Fidelity cover)—see section 316.
+Chapter 5 body corporate—see the Corporations Act, section 9.
 claim, for part 3.4 (Fidelity cover)—see section 316.
 claimant, for part 3.4 (Fidelity cover)—see section 316.
 client—
@@ -282,7 +283,8 @@ serious offence means an offence whether committed in or outside the ACT that is
   (c) an offence against a law of a foreign country that would be an indictable offence against a territory law or a law of the Commonwealth if committed in the ACT (whether or not the offence could be dealt with summarily if committed in the ACT).
 show-cause event, in relation to a person, means—
   (a) the person becoming an insolvent under administration; or
-  (b) the person being convicted of a serious offence or tax offence, whether or not—
+  (b) if the person is a legal practitioner director of an incorporated legal practice—the incorporated legal practice becoming a Chapter 5 body corporate; or
+  (c) the person being convicted of a serious offence or tax offence, whether or not—
     (i) the offence was committed in or outside the ACT; or
     (ii) the offence was committed while the person was engaging in legal practice as an Australian legal practitioner or was practising foreign law as an Australian-registered foreign lawyer; or
     (iii) other people are prohibited from disclosing the identity of the offender.
