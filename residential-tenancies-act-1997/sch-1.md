@@ -16,7 +16,7 @@ Costs and procedures for establishing tenancy agreement
 11 The lessor must give a copy of the tenancy agreement, signed by each party, to the tenant as soon as possible after it has been signed by each party, but no later than 3 weeks after the tenant has returned a signed copy.
 12 If the lessor does not return the tenancy agreement to the tenant, as provided by clause 11, the tenancy agreement has full effect in the terms signed by the tenant on occupation of the premises or acceptance of rent.
 Information
-13 (1) The lessor must provide to the tenant a copy of an information booklet about residential tenancies authorised by the commissioner for fair trading before the commencement of this agreement.
+13 (1) The lessor must provide to the tenant a copy of an information booklet about residential tenancies authorised by the director-general before the commencement of this agreement.
 (2) If it is not possible to provide the tenant with a booklet, the lessor must inform the tenant of the booklet and where it may be obtained.
 (3) If the premises are a unit within the meaning of the Unit Titles Act 2001, the lessor must give the tenant a copy of the owners corporation’s rules before the commencement of this agreement.
 Bond and condition report
