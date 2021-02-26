@@ -433,15 +433,17 @@ If a scheme operates, or indicates an intention to operate, as a scheme of both 
   (b) act in conjunction with the appropriate council for the other jurisdiction in the exercise of that council’s functions under the corresponding law of that jurisdiction.
 ## Division 4.6.2 Membership of council
 ## 4.38 Membership of council
-The council is to consist of 11 people appointed by the Minister who have the experience, skills and qualifications the Minister considers appropriate to enable them to make a contribution to the work of the council.
+(1) The council is to consist of 11 people appointed by the Minister who have the experience, skills and qualifications the Minister considers appropriate to enable them to make a contribution to the work of the council.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see s 207).
 Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+(2) The Legislation Act, division 19.3.3 (Appointments—Assembly consultation) does not apply to the appointment of a person who is a member of an appropriate council in another jurisdiction.
 ## 4.39 Chairperson and deputy chairperson of council
 (1) Two of the members of the council are to be appointed as chairperson and deputy chairperson of the council, respectively.
 Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
 Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see s 207).
 Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+(1A) The Legislation Act, division 19.3.3 (Appointments—Assembly consultation) does not apply to the appointment of a person who is a member of an appropriate council in another jurisdiction.
 (2) The Minister may remove a member from the office of chairperson or deputy chairperson of the council at any time.
 (3) A person holding office as chairperson or deputy chairperson of the council vacates the office if the person—
   (a) is removed from the office by the Minister; or
@@ -449,6 +451,7 @@ Note 3 Certain Ministerial appointments require consultation with an Assembly co
 Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 ## 4.40 Deputies of members
 (1) The Minister may appoint a person to be the deputy of a member.
+(1A) The Legislation Act, division 19.3.3 (Appointments—Assembly consultation) does not apply to the appointment of a person who is a member of an appropriate council in another jurisdiction.
 (2) In the absence of a member, the member’s deputy—
   (a) is, if available, to act in the place of the member; and
   (b) while so acting, has all the functions of the member and is taken to be a member.
