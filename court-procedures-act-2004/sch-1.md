@@ -10,7 +10,6 @@ service of documents, including, for example, the following:
   (a) the kinds of service, including personal service and electronic service;
   (b) service outside the ACT or Australia;
   (c) service of foreign legal process in the ACT
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 ## 3 Evidence
 taking evidence generally, including, for example, the following:
   (a) the way evidence may be given;
