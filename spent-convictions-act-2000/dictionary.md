@@ -61,7 +61,6 @@ reviewable decision, for part 3C (Notification and review of decisions)—see se
 sexual offence means the following offences:
   (a) an offence against the Crimes Act 1900, part 3 (Sexual Offences) or part 4 (Female Genital Mutilation);
   (b) an offence (for example, an offence against the Crimes Act 1900, section 27 (Acts endangering life etc) or the Criminal Code, section 311 (Burglary)) that includes the commission of, or an intention to commit, an offence mentioned in paragraph (a) or (d);
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
   (c) an offence of attempting, or of conspiracy or incitement, to commit an offence mentioned in paragraph (a), (b) or (d);
   (d) an offence (including a Commonwealth offence, State offence or foreign offence) prescribed under the regulations;
   (e) an ACT offence committed before the date of commencement of this definition of a similar nature to an offence mentioned in paragraphs (a) to (d);
@@ -69,3 +68,5 @@ and includes any Commonwealth offence, State offence or foreign offence that is 
 spent, for a conviction—see section 7.
 State law means a law in force in a State (other than a Commonwealth law).
 Note State includes the Northern Territory (see Legislation Act 2001, dict, pt 1).
+victim, for division 2.2 (Spent convictions—youth sexual offences)—see section 14B.
+youth sexual offence conviction, for part 2 (Spent convictions)—see section 14A.
