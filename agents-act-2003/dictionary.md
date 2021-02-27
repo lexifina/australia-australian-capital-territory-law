@@ -16,14 +16,17 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • entity
 • financial year
 • found guilty
+• in relation to
 • lawyer
 • month
 • occupational discipline order
 • public trustee and guardian
 • reviewable decision notice
 • State
+• territory law
 • under.
 account, for an agent, for division 8.2 (Freezing accounts)—see section 131.
+ACT dishonesty offence means an offence against a territory law that involves dishonesty.
 ADI business day, for a trust account, for division 7.2 (Trust money and trust accounts)—see section 104.
 administrator, for part 9 (Appointment of administrators)—see section 138.
 agent—
@@ -87,6 +90,7 @@ licensed employment agent means a person who holds a licence as an employment ag
 licensed real estate agent means a person who holds a licence as a real estate agent.
 licensed stock and station agent means a person who holds a licence as a stock and station agent.
 main place of business, for a licensed agent, means the place shown in the register as the agent’s main place of business.
+non-ACT offence means an offence against a law other than a territory law.
 obtains a beneficial interest, in land, for division 5.6 (Land—further provisions)—see section 82.
 parent, of a person, means the person’s father, mother, grandfather, grandmother, stepfather or stepmother, or someone acting in place of the person’s parent.
 police certificate, for a person, means a written statement by the Australian Federal Police or the Australian Criminal Intelligence Commission indicating—
@@ -115,6 +119,15 @@ registered salesperson—
   (b) for division 4.4 (Occupational discipline—salespeople)—see section 64.
 registered stock and station salesperson means a person registered under section 57 as a stock and station salesperson.
 registration means registration under this Act.
+relevant offence—
+  (a) means—
+    (i) any of the following offences against a territory law:
+      (A) an offence involving dishonesty;
+      (B) an offence against the person;
+      (C) an offence involving violence;
+      (D) an offence against the Criminal Code, chapter 6, punishable by a maximum term of imprisonment of 3 years or more (a serious drug offence) or an offence against a territory law previously in force that is similar in nature to a serious drug offence; or
+    (ii) a sexual offence; and
+  (b) includes a non-ACT offence that is similar in nature to an offence mentioned in paragraph (a) (i).
 reviewable decision, for part 12 (Notification and review of decisions)––see section 166.
 rules of conduct means rules of conduct prescribed under section 171.
 rural land means land used mainly for––
@@ -126,6 +139,7 @@ salesperson means a person who, as an employee, provides—
   (c) a stock and station agent service.
 seller includes prospective seller.
 selling price, for division 5.6 (Land—further provisions)—see section 80.
+sexual offence—see the Spent Convictions Act 2000, dictionary.
 stock and station agent service—see section 9.
 stop direction, for division 8.2 (Freezing accounts)––see section 131.
 trust account—see section 105.
