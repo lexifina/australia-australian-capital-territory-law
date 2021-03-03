@@ -18,6 +18,7 @@
 ### Division 4.2 Dealing with complaints
 ### Division 4.2A Discrimination complaints to ACAT
 ### Division 4.2B Certain older people service complaints to ACAT
+### Division 4.2C Certain occupancy dispute complaints to ACAT
 ### Division 4.3 Conciliation of complaints
 ### Division 4.4 Consideration of complaints
 ### Division 4.5 Closing complaints and reporting

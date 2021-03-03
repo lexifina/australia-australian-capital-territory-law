@@ -73,10 +73,18 @@ incorporated document means—
   (b) the standards mentioned in section 40 (b) (i) or (iv) (When may someone complain about a disability service?); or
   (c) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
 justice agency—see the Victims of Crime Act 1994, section 8.
+occupancy agreement—see the Residential Tenancies Act 1997, section 71C.
+occupancy dispute means a dispute—
+  (a) between the parties to an occupancy agreement; and
+  (b) that is about, or relates to, the agreement.
+occupancy dispute complaint—see section 42 (1) (g).
+occupancy dispute referral statement—see section 88B.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 operator, of a retirement village—see the Retirement Villages Act 2012, section 7.
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
-person complained about, for division 4.2B (Certain older people service complaints to ACAT)—see section 53F.
+person complained about—
+  (a) for division 4.2B (Certain older people service complaints to ACAT)—see section 53F; and
+  (b) for division 4.2C (Certain occupancy dispute complaints to ACAT)—see section 53P.
 prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
 provider, of a service—see section 10.
