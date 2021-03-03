@@ -54,6 +54,9 @@ Rent and other charges
 Rent and bond only as payment for the tenancy
 24 The lessor must not require any payment other than rent or bond for the following:
 (a) the granting, extension, transfer or renewal of a tenancy or subtenancy;
+(aa) consenting to—
+(i) a person becoming a co-tenant; or
+(ii) a co-tenant stopping being a party to the tenancy agreement;
 (b) vacating of premises;
 (c) obtaining a key to the premises;
 (d) information on the availability of tenancies.
@@ -207,6 +210,27 @@ Tenant must not sell, dispose of, or sublet tenancy without consent of lessor
 72 (1) The tenant must not assign or sublet the premises or any part of them without the written consent of the lessor.
 (2) Consent may be given at any time.
 (3) No rights in relation to the premises may be created in any third party before consent is obtained from the lessor.
+Co-tenant may leave tenancy agreement
+72A (1) A co-tenant may stop being a party to the tenancy agreement—
+(a) with the consent of the lessor and each remaining co-tenant under the agreement; or
+(b) by order of the tribunal under the Residential Tenancies Act, section 35G (1) (a) or (d).
+(2) The co-tenant must seek the consent of the lessor and each remaining co-tenant—
+(a) by notice in writing; and
+(b) at least 21 days before the day the co-tenant intends to stop being a party to the tenancy agreement (time limits for the lessor or each remaining co-tenant to refuse consent are set out in the Residential Tenancies Act).
+(3) If consent is given to the co-tenant to stop being a party to the tenancy agreement—
+(a) the agreement continues between the lessor and the remaining co-tenants; and
+(b) the tenant’s rights and obligations under the agreement end.
+Becoming a new co-tenant to existing tenancy agreement
+72B (1) Another person may become a co-tenant under the tenancy agreement—
+(a) with the consent of the lessor and each other co-tenant; or
+(b) under the Residential Tenancies Act, section 35D.
+(2) An existing tenant must seek the consent of the lessor and any other co-tenant—
+(a) by notice in writing; and
+(b) at least 14 days before the day the person wants to become a co-tenant (time limits for the lessor or each other co-tenant to refuse consent are set out in the Residential Tenancies Act).
+(3) If the person becomes a co-tenant—
+(a) the agreement continues with the person becoming a co-tenant with the existing co-tenants; and
+(b) the existing co-tenants must give the person a copy of the condition report for the premises not later than the day after the person becomes a co-tenant.
+(4) This clause does not apply to a tenancy agreement in relation to a social housing dwelling or crisis accommodation.
 Tenant may be responsible for damage or other breach of tenancy agreement by visitors or guests
 73 The tenant is personally responsible for the actions or omissions of visitors, guests or other people on the premises if:
 (a) the action or omission would if performed by the tenant have constituted a breach of this tenancy agreement; and
