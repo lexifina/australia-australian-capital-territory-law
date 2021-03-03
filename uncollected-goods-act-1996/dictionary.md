@@ -14,6 +14,7 @@ goods of low value means uncollected goods having a net value of more than $20 b
 goods of no value means uncollected goods having a net value of $20 or less.
 goods of significant value means uncollected goods having a net value of $500 or more.
 light rail vehicle—see the Road Transport (General) Act 1999, dictionary.
+mobile home—see the Residential Tenancies Act 1997, dictionary.
 net value, in relation to goods, means the market value of the goods less the reasonable costs of selling the goods including removal, storage, preservation, transportation and advertising costs.
 off-street parking area means an area of land available for use by the public, whether with or without the payment of money, for the parking of motor vehicles, and includes—
   (a) the entrances to, the exits from and the passageways in such an area; and
