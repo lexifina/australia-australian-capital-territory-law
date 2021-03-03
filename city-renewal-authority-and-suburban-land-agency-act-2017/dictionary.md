@@ -14,14 +14,17 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • territory authority
 • territory land
 • territory plan
-• the Territory.
+• the Territory
+• working day.
 agency means the Suburban Land Agency established under section 37.
 agency board means the suburban land agency governing board established under section 45.
 agency CEO means the chief executive officer of the agency appointed under section 56.
+authorised person, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36G (1).
 authority means the City Renewal Authority established under section 7.
 authority board means the city renewal authority governing board established under section 15.
 authority CEO means the chief executive officer of the authority appointed under section 28.
 development, in relation to land—see the Planning and Development Act 2007, section 7.
+draft revitalisation plan, for the Melbourne Building or Sydney Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36B (1).
 land improvements—
   (a) means activities carried out in relation to territory land to improve the quality, amenity or value of the land; and
   (b) includes the following:
@@ -29,12 +32,17 @@ land improvements—
     (ii) carrying out works on land;
     (iii) preparing land for development;
     (iv) maintaining land.
+leased public area, of the Melbourne Building or Sydney Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36A.
+Melbourne Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36A.
+owner, of the Melbourne Building or Sydney Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36A.
+revitalisation work, for the Melbourne Building or Sydney Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36E (3) (d).
 statement of expectations, for part 2 (City renewal authority)—see section 17 (1).
 statement of operational intent, for part 2 (City renewal authority)—see section 18 (1).
 statement of planning intent—see Planning and Development Act 2007, s 16.
 statutory greenhouse gas emissions targets means—
   (a) the ACT greenhouse gas emissions target under the Climate Change and Greenhouse Gas Reduction Act 2010, section 6; and
   (b) the interim greenhouse gas emissions target under the Climate Change and Greenhouse Gas Reduction Act 2010, section 7.
+Sydney Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36A.
 urban renewal—
   (a) means supporting, promoting, encouraging, facilitating or delivering the following:
     (i) development for residential purposes;
