@@ -10,6 +10,7 @@
 ### Division 3.2 Depositing bond
 ### Division 3.3 Condition of premises and deductions from bond
 ### Division 3.4 Release of bond money
+## Part 3A Co-tenancies
 ## Part 4 Termination of residential tenancy agreements
 ### Division 4.1 General
 ### Division 4.2 Warrants for eviction
@@ -21,6 +22,11 @@
 ## Part 5 Rental rate increases
 ## Part 5AA Lessor’s consent in certain matters
 ## Part 5A Occupancy agreements
+## Part 5B Residential parks
+### Division 5B.1 Definitions—pt 5B
+### Division 5B.2 Shared park facilities
+### Division 5B.3 Assignment of interests
+### Division 5B.4 Sale of manufactured homes and mobile homes
 ## Part 6 Resolution of residential tenancy and occupancy disputes
 ### Division 6.1 Important concepts
 ### Division 6.2 Action by registrar
@@ -33,3 +39,4 @@
 ## Part 8 Registration of standard guarantee contract for commercial guarantee
 ## Part 9 Miscellaneous
 ## Part 16 COVID-19 emergency response
+## Part 17 Transitional—Residential Tenancies Amendment Act 2020 (No 2)
