@@ -52,6 +52,8 @@ conciliation, of a complaint—see section 55 (1).
 conciliation agreement—see section 62 (1).
 conduct means an act, an omission to do an act or a state of affairs.
 consideration, of a complaint, means consideration of the complaint under division 4.4.
+conversion practice complaint means a complaint about a sexuality or gender identity conversion practice that may be made, or is made, under section 43.
+conversion practice referral statement—see section 88C.
 disability service—see section 8.
 disability service complaint means a complaint about a service for people with a disability that may be made, or is made, under section 40.
 disability and community services commissioner means the commission member exercising the functions under section 21.
@@ -84,7 +86,8 @@ operator, of a retirement village—see the Retirement Villages Act 2012, sectio
 party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
 person complained about—
   (a) for division 4.2B (Certain older people service complaints to ACAT)—see section 53F; and
-  (b) for division 4.2C (Certain occupancy dispute complaints to ACAT)—see section 53P.
+  (b) for division 4.2C (Certain occupancy dispute complaints to ACAT)—see section 53P; and
+  (c) for division 4.2D (Conversion practice complaints to ACAT)—see section 53Z.
 prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
 provider, of a service—see section 10.
@@ -111,6 +114,7 @@ retirement village referral statement—see section 88A.
 service for children and young people—see section 8A.
 service for older people—see section 9.
 service for victims of crime—see section 9A.
+sexuality or gender identity conversion practice—see the Sexuality and Gender Identity Conversion Practices Act 2020, section 7.
 third-party report—see section 83 (1).
 unlawful act, for division 4.2A (Discrimination complaints to ACAT)—see section 53.
 victims of crime commissioner means the commission member exercising the functions under section 27C.
