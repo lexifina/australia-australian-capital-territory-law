@@ -12,6 +12,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Office of the Legislative Assembly
 • officer of the Assembly
 • ombudsman
+public sector standards commissioner
 • public service
 • statutory office-holder
 • Supreme Court
@@ -27,18 +28,14 @@ ACTPS entity means any of the following:
   (d) a subsidiary of a territory-owned corporation;
   (e) a territory instrumentality;
   (f) a statutory office-holder.
-commissioner means the public service standards commissioner.
-contact details, for a discloser, means details of how a disclosure officer or investigating entity may contact the discloser about the public interest disclosure.
 detrimental action—see section 39.
 disclosable conduct—see section 8.
-discloser means a person who makes a public interest disclosure.
-disclosure officer, for a public interest disclosure—see section 11.
+discloser, for a public interest disclosure, means the person who discloses disclosable conduct that is taken to be a public interest disclosure under—
+  (a) section 17A (2); or
+  (b) section 27 (4).
+disclosure officer, for a disclosure of disclosable conduct—see section 11.
 head, of a public sector entity—see section 13.
-investigating entity, for a public interest disclosure, means—
-  (a) the head of the public sector entity to whom the disclosure relates; or
-  (b) if section 18 (2) (a) or (b) (Investigation of public interest disclosure) applies—the head of service; or
-  (c) if section 18 (2) (c) applies—the ombudsman or the head of the entity to whom the ombudsman has referred the disclosure; or
-  (d) if section 19 (Referral to another public sector entity) applies—the head of the entity to whom the disclosure is referred.
+investigating entity, for an investigation of a public interest disclosure—see section 18.
 Legislative Assembly entity means any of the following:
   (a) a member of the Legislative Assembly;
   (b) the Office of the Legislative Assembly;
