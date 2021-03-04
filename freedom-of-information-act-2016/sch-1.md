@@ -60,10 +60,11 @@ Information in the possession of the human rights commission that has been obtai
 ## (a) a commission-initiated consideration under the Human Rights Commission Act 2005, section 48; or
 ## (b) a complaint made under the Human Rights Commission Act 2005, part 4.
 ## 1.9 Identities of people making disclosures
-Information that would, or could reasonably be expected to, disclose the identity of a person who has made—
+## (1) Information that would, or could reasonably be expected to, disclose the identity of a person who has made—
 ## (a) a public interest disclosure under the Public Interest Disclosure Act 2012; or
 ## (b) a mandatory or voluntary report under the Children and Young People Act 2008; or
 ## (c) a confidential report under the Children and Young People Act 2008, section 876.
+## (2) Information that would, or could reasonably be expected to, disclose the identity of a person who gives information, produces a document or answers a question in relation to an investigation of a public interest disclosure under the Public Interest Disclosure Act 2012.
 ## 1.10 Information relating to requests to cost election commitments
 Information about requests to cost election commitments under the Election Commitments Costing Act 2012, section 5 unless the costing period in which the request was made has ended.
 ## 1.11 Information in electoral rolls and related documents
