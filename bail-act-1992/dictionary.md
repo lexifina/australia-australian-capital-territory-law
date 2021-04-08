@@ -56,7 +56,7 @@ offence includes—
 parental responsibility—a person has parental responsibility for a child or young person if the person has parental responsibility for the child or young person under the Children and Young People Act 2008.
 Note Parental responsibility is dealt with in the Children and Young People Act 2008, div 1.3.2.
 surety, in relation to an accused person, means a person other than the accused person who is subject to a liability under a bail condition mentioned in section 25 (1).
-undertaking to appear means an undertaking given under section 28 (1) or (2A).
+undertaking to appear means an undertaking given under section 28 (1).
 victim in relation to an accused person, means—
   (a) a person (the primary victim) who suffers harm—
     (i) in the course of, or because of, the commission of an offence of which the accused person is accused; or
