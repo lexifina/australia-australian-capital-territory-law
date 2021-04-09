@@ -42,7 +42,7 @@ encumbrance includes—
   (a) a mortgage; and
   (b) a trust for securing money; and
   (c) a lien or charge of a portion, annuity, or other capital or annual sum.
-excluded change, for part 2.9 (Unit titles)—see section 259A (3).
+excluded change, for part 2.9 (Unit titles)—see section 259A (4).
 executor means the executor to whom probate has been granted, and includes an executor by right of representation.
 implied warranties, for division 2.9.3 (Implied warranties)—see section 264.
 income, of land, includes rents and profits.
@@ -100,4 +100,5 @@ trustees for sale means the people holding property on trust for sale.
 trust for sale means a binding trust for sale, whether or not exercisable at the request or with the consent of anyone, and with or without a discretionary power to postpone sale.
 unit, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, section 9.
 units plan, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, dictionary.
+unit subsidiary, for part 2.9 (Unit Titles)—see the Unit Titles Act 2001, section 12.
 valuable consideration includes marriage, but does not include a nominal consideration in money.
