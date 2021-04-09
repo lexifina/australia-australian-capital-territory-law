@@ -216,9 +216,10 @@ Note 2 Also, a proxy form must accompany the notice of general meeting (see s 3.
 ## (b) appoint a person as a proxy if the person is—
 ## (i) the manager; or
 ## (ii) a service contractor.
-## (3) A person must not exercise more than the following number of proxy votes in a vote on a matter at a general meeting:
+## (3) A person, other than the chairperson, must not exercise more than the following number of proxy votes in a vote on a matter at a general meeting:
 ## (a) if there are more than 20 units in the units plan—a number that is not more than 5% of the total number of units;
 ## (b) in any other case—1.
+(4) If a person holds more proxy votes than they can exercise under subsection (3), the chairperson must exercise the excess proxy votes.
 ## 3.27 Proxy votes—limit on developer
 ## (1) This section applies to a developer of a units plan who is appointed as the proxy under a contract for the sale of a unit in the units plan.
 ## (2) The developer must not exercise 3 or more proxy votes in a vote on a matter at a general meeting of the owners corporation for the units plan unless—
