@@ -42,7 +42,6 @@ Antarctica, for part 11 (Polling in Antarctica)—see section 167.
 Antarctic elector means an elector who is an Antarctic elector under section 171.
 application, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
 approved computer program means the computer program approved under section 118A.
-approved electronic device means an electronic device approved under section 120 (3).
 Assembly means the Legislative Assembly.
 assistant returning officer, for part 11 (Polling in Antarctica)—see section 167.
 associated entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -86,13 +85,12 @@ declaration vote means a vote cast in accordance with any of the following provi
   (a) section 135 (Declaration voting at polling places);
   (b) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
   (c) section 136C (Declaration voting outside ACT on or before polling day);
-  (d) section 136D (Electronic declaration voting by electors outside Australia);
-  (e) section 144A (Requirements for casting postal votes).
+  (d) section 144A (Requirements for casting postal votes).
 declaration voting papers, in relation to an election, means—
   (a) a declaration, in the form approved under section 340A (Approved forms) for this paragraph, to be completed by an elector; and
   (b) a ballot paper suitable for declaration voting at the election; and
-  (c) for declaration voting papers other than for postal voting or overseas electronic voting—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
-  (d) for declaration voting papers other than for overseas electronic voting—an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
+  (c) for declaration voting papers other than for postal voting—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
+  (d) an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
 defined details, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 defined particulars, for division 14.6 (Annual returns)—see section 228.
 disclosure period, for part 14 (Election funding, expenditure and financial disclosure)—see section 201.
@@ -112,11 +110,7 @@ electoral matter—see section 4.
 electoral paper means a document, form or notice provided for or required under this Act.
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
 electronic form, of a roll or an extract from a roll, means a disk, tape or other device from which the information in the extract or roll may be reproduced by mechanical, electronic or other means.
-electronic vote means a vote cast using an electronic ballot paper.
-Note An electronic vote may be made—
-• at a polling place under s 131 (3)
-• by telephone under s 136BA
-• by overseas electors under s 136D.
+electronic voting—see section 120 (2).
 eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -164,7 +158,6 @@ OIC means—
   (b) in relation to a polling place—the officer in charge of the place.
 ordinary election means a general election required by section 100.
 ordinary vote means a vote other than a declaration vote.
-overseas electronic vote means an electronic vote to which section 136D (Electronic declaration voting by electors outside Australia) applies.
 participant, for division 14.5 (Disclosure of electoral expenditure)—see section 223.
 party, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 party candidate means—
