@@ -15,10 +15,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • magistrate
 • Magistrates Court
 • Minister (see s 162)
-• National Electricity (ACT) Law
-• National Energy Retail Law (ACT)
-• National Gas (ACT) Law
-• National Gas (ACT) Regulation
 • national land
 • notifiable instrument (see s 10)
 • public servant
@@ -46,7 +42,6 @@ customer contract means—
   (c) a customer connection contract under the National Energy Retail Law (ACT).
 customer debt, for part 12 (Complaints to ACAT about utilities)—see section 169.
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 determined, for part 3A (Energy industry levy)—see section 54A.
 electricity connection service means a connection service within the meaning of the national electricity rules, chapter 5A (Electricity connection for retail customers).
 electricity distribution network—see section 7 (2).
@@ -88,8 +83,16 @@ levy, for part 3A (Energy industry levy)—see section 54A.
 levy year, for part 3A (Energy industry levy)—see section 54C (1).
 licence means a licence under this Act.
 local regulatory cost, for part 3A (Energy industry levy)—see section 54F (1).
+National Electricity (ACT) Law means the provisions applying in the ACT because of the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
+Note The Electricity (National Scheme) Act 1997, s 5 applies the National Electricity Law set out in the National Electricity (South Australia) Act 1996 (SA), schedule as if it were an ACT law called the National Electricity (ACT) Law.
 national electricity rules means the National Electricity Rules under the National Electricity (ACT) Law.
+National Energy Retail Law (ACT) means the provisions applying in the ACT because of the National Energy Retail Law (ACT) Act 2012, section 6 (Application of National Energy Retail Law).
+Note The National Energy Retail Law (ACT) Act 2012, s 6 and s 7 apply the National Energy Retail Law set out in the National Energy Retail Law (South Australia) Act 2011 (SA), schedule as if it were an ACT law called the National Energy Retail Law (ACT).
 national energy retail rules means the National Energy Retail Rules under the National Energy Retail Law (ACT).
+National Gas (ACT) Law means the provisions applying because of the National Gas (ACT) Act 2008, section 8 (Application in the ACT of National Gas Law).
+Note The National Gas (ACT) Act 2008, s 8 applies the National Gas Law set out in the National Gas (South Australia) Act 2008 (SA), schedule as if it were an ACT law called the National Gas (ACT) Law.
+National Gas (ACT) Regulation means the provisions applying because of the National Gas (ACT) Act 2008, section 9 (Application in the ACT of regulations under National Gas Law).
+Note The National Gas (ACT) Act 2008, s 9 applies the regulations under the National Gas (South Australia) Act 2008 (SA), part 3 as an ACT law called the National Gas (ACT) Regulation.
 national gas rules means the National Gas Rules under the National Gas (ACT) Law.
 national regulatory cost, for part 3A (Energy industry levy)—see section 54E (2).
 national regulatory obligations, for part 3A (Energy industry levy)—see section 54E (1).

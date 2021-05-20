@@ -19,6 +19,7 @@
 ### Division 5A.1 Preliminary
 ### Division 5A.2 NERL retailer obligations
 #### Subdivision 5A.2.1 Greenpower
+#### Subdivision 5A.2.1A Electricity pricing information for small customers
 #### Subdivision 5A.2.2 Enforcement
 ## Part 6 Access to utility services
 ### Division 6.1 Standard rights
