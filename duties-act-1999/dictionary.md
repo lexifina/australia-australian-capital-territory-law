@@ -173,6 +173,7 @@ scheme includes—
   (c) any series or combination of schemes mentioned in paragraphs (a) and (b).
 shares includes rights to shares.
 significant interest, in a landholder—see section 83.
+special disability trust—see the Social Security Act 1991 (Cwlth), section 1209L.
 spouse party, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
 Taxation Administration Act means the Taxation Administration Act 1999.
 tax avoidance scheme means a scheme by which a person obtains or seeks to obtain a reduction in, or exemption from, tax that would otherwise be payable and where it would be reasonable to conclude that the person entered into or carried out the scheme principally for the purpose of obtaining the reduction or exemption, having regard to—
