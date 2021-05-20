@@ -81,7 +81,7 @@ rural land means—
   (c) a parcel of rateable land included in the common property of a community title scheme under the Community Title Act 2001, if no parcel of land in the scheme is—
     (i) residential land; or
     (ii) leased for a commercial purpose.
-special disability trust, for part 7 (Deferral and rebates)—see the Social Security Act 1991, (Cwlth), section 1209L.
+special disability trust—see the Social Security Act 1991, (Cwlth), section 1209L.
 special rate pensioner, for part 7 (Deferral and rebates)—see section 45.
 Taxation Administration Act means the Taxation Administration Act 1999.
 unimproved value—see section 6.
