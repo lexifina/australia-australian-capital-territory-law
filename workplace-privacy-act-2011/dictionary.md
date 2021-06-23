@@ -20,7 +20,6 @@ data surveillance device—see section 11.
 electronic communication means communication by electronic means.
 Examples
 email, instant messaging
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 employer—see section 8.
 law enforcement agency—
   (a) see the Spent Convictions Act 2000, dictionary; and
@@ -28,7 +27,6 @@ law enforcement agency—
 non-work area means an area in a workplace where a worker is not directly engaged in work.
 Examples
 tearoom, recreation room
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 optical surveillance device—see section 11.
 prohibited surveillance means surveillance prohibited under part 5.
 regulator—see the Work Health and Safety Act 2011, dictionary.
