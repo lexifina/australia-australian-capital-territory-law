@@ -58,6 +58,7 @@ energy efficiency rating statement—see section 123AC.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
+entity, for part 4 (Rectification orders, enforceable undertakings and other obligations on licensees)—see section 34 (1) (a).
 exemption assessment service—see section 9 (2).
 former licensee means an entity that has been a licensee.
 gas appliance service—see section 12A (2).
@@ -94,6 +95,7 @@ previous 3 years, for part 8 (Demerit points system)—see section 90.
 public safety agency, for part 11AA (Information sharing)—see section 123AA.
 public safety information, for part 11AA (Information sharing)—see section 123AA.
 rectification order—see section 38 (1).
+rectification undertaking, for part 4 (Rectification orders, enforceable undertakings and other obligations on licensees)—see section 47B.
 register means the register kept under section 107.
 registrar—see section 103.
 reviewable decision, for part 11A (Notification and review of decisions)—see section 123A.
