@@ -135,7 +135,6 @@ recognised training means approved training other than training declared under s
 ## (a) is a not-for-profit entity; and
 ## (b) provides training to apprentices or trainees under approved training contracts; and
 ## (c) makes apprentices or trainees available to work for other people.
-Note If a form is approved under the Taxation Administration Act 1999, s 139C for an application, the form must be used.
 ## (4) In this section:
 apprentice or trainee—see the Training and Tertiary Education Act 2003, dictionary.
 Note Apprentice or trainee is defined as a person who undertakes an apprenticeship or traineeship under an approved training contract.
