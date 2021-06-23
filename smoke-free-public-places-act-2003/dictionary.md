@@ -13,7 +13,7 @@ declared smoke-free public place or event—see section 9O (1).
 designated outdoor smoking area—see section 9F (2).
 designated smoking area—see section 9Q (2).
 enclosed public place means a public place, or part of a public place, that is enclosed as prescribed by regulation.
-Examples of public places
+Examples—public places
 The following may be public places (see definition of public place):
 1 business premises, including professional, trade and commercial premises
 2 a cinema or theatre
@@ -27,7 +27,6 @@ The following may be public places (see definition of public place):
 10 a school, college or university
 11 a shopping centre, mall or plaza
 12 sporting or recreational premises
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 gaming area—see the Gaming Machine Act 2004, dictionary.
 manager, in relation to a declared smoke-free public place or event, means the person responsible (whether wholly or in part) for the management of the public place or event.
 occupier, of premises or a part of premises (including an enclosed public place), means a person having the management or control, or otherwise being in charge, of the premises or part of the premises.
