@@ -104,14 +104,12 @@ COVID-19 emergency means—
 (6) This section expires on the first day no COVID-19 emergency is in force.
 ## 2.9 Payments for leave—contract cleaning industry
 ## (1) A registered employee for the contract cleaning industry who has been granted long service leave under section 2.7, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
-Note If a form is approved under s 92 for an application, the form must be used.
 (2) The authority must pay to the applicant the amount payable under section 2.11 (How are leave payments worked out for the contract cleaning industry?) if the governing board is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the contract cleaning industry; and
   (b) the applicant has been granted leave by the applicant’s employer.
 ## (3) The authority must pay an applicant any amount payable under subsection (2) not later than 21 days after the worker’s application has been made.
 ## 2.10 Payments instead of leave—contract cleaning industry
 ## (1) If a registered worker for the contract cleaning industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
-Note If a form is approved under s 92 for an application, the form must be used.
 ## (2) An application by a registered employee for the contract cleaning industry on the ground that the employee has ceased work in the contract cleaning industry because of total incapacity must be accompanied by a certificate of a doctor certifying that the employee is totally incapacitated for employment in the industry.
 ## (3) The governing board may require an applicant mentioned in subsection (2) to submit himself or herself to a medical examination by a doctor chosen by the board for that purpose from a panel of 3 doctors nominated by the Australian Capital Territory Branch of the Australian Medical Association.
 ## (4) All fees or charges payable for a medical examination under subsection (3) are to be paid by the authority.
@@ -161,7 +159,6 @@ designated day means—
 ## 2.14 Payments by authority on reciprocal authority’s behalf—contract cleaning industry
 ## (1) This section applies to a registered worker for the contract cleaning industry who has a long service leave entitlement under this Act and a corresponding law.
 ## (2) The worker may apply to the authority for payment of a long service leave entitlement worked out in accordance with the corresponding law.
-Note If a form is approved under s 92 for an application, the form must be used.
 ## (3) The authority must pay the worker the amount of the entitlement worked out in the way stated in the corresponding law if the authority is authorised by the reciprocal authority to make the payment.
 ## 2.15 Payments by reciprocal authority on authority’s behalf—contract cleaning industry
 ## (1) This section applies if, under a corresponding law, a reciprocal authority pays to a person an amount that, but for the payment, would have been payable for a long service leave entitlement under this Act for work done in the contract cleaning industry.
