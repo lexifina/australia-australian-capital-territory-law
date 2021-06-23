@@ -66,7 +66,6 @@ corresponding parole law, for part 7.6 (Interstate transfer of parole orders)—
 COVID-19 emergency means—
   (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
   (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
-CYP director-general means the director-general responsible for the Children and Young People Act 2008.
 default, for chapter 6A (Court imposed fines)––see section 116A.
 default imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
 default notice, for chapter 6A (Court imposed fines)––see section 116A.
