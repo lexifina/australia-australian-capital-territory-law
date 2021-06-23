@@ -3,7 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • Minister (see s 162)
-• person.
+• person (see s 160).
 area, of a building, means—
   (a) for a 1 storey building—the area measured between the outer surfaces of the walls at the floor level of the building; or
   (b) for a multistorey building—the total of the areas measured between the outer surfaces of the walls, at the floor level of each storey;
