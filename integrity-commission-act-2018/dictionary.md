@@ -83,7 +83,6 @@ entity of a public nature—see section 18.
 examination summons—see section 147.
 head, of a public sector entity—see section 15.
 inspector means the inspector of the commission under this Act.
-inspector of correctional services—means the inspector of correctional services appointed under the Inspector of Correctional Services Act 2017, section 9.
 inspector selection criteria and process determination—see section 232.
 inspector’s annual report—see section 282.
 inspector’s special report—see section 275.
