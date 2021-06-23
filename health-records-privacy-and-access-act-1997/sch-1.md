@@ -143,7 +143,6 @@ Note Disclosure is allowed under cl 8, cl 9 and cl 10.
     (ii) if the consumer is a legally incompetent person—by a guardian of the consumer; or
     (iii) in any other case—by the consumer; and
   (b) name the health service provider who made the record.
-Note If a form is approved under s 35 for this provision, the form must be used.
 8 An entity to which information is disclosed under clause 2, clause 3 or clause 4 must not use or disclose the information for a purpose other than the purpose for which the information was given to the entity.
 9 If there is an emergency and a consumer cannot give or withhold consent to the disclosure of personal health information about the consumer, the treating health service provider may discuss relevant personal health information with an immediate family member of the consumer to the extent reasonable and necessary for the proper treatment of the consumer.
 10 A treating health service provider for a consumer may disclose personal health information about the consumer to the consumer’s carer if—
@@ -158,7 +157,6 @@ Note If a form is approved under s 35 for this provision, the form must be used.
   (d) the disclosure is not contrary to any wishes previously expressed by the consumer of which the provider is aware or ought reasonably to be aware.
 Example for par (a)
 Jo has died, and Jo’s daughter who has looked after him for many years cannot understand why he died when he seemed to have recovered from a recent illness. She is extremely distressed. Subject to clause 11 (c) and (d), the treating health service provider may disclose personal health information about Jo’s illness if she considers that the disclosure would help Jo’s daughter.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 12 In this principle:
 carer, of a consumer, means a person who gives care, support or assistance to the consumer but does not include—
   (a) a person who gives short-term care, support or assistance to the consumer; or
@@ -187,9 +185,8 @@ Note Public notice means notice on an ACT government website or in a daily newsp
   (d) that if the consumer does not make a transfer request within the transfer request period, a copy of the consumer’s health record will be given to a stated health service provider or record keeper; and
   (e) the stated health service provider’s or record keeper’s address and contact details.
 4 As soon as practicable after publishing the transfer notice, the provider must give a copy of the transfer notice, or written notice of the information in the transfer notice, to the director-general.
-Note 1 If a form is approved under s 35 for this provision, the form must be used.
-Note 2 Director-general means the director-general of the administrative unit responsible for this Act (see Legislation Act, s 163). Administrative units are established under the administrative arrangements (see Public Sector Management Act 1994, s 13).
-Note 3 Notice may be given electronically in certain circumstances (see Electronic Transactions Act 2001, s 8).
+Note 1 Director-general means the director-general of the administrative unit responsible for this Act (see Legislation Act, s 163). Administrative units are established under the administrative arrangements (see Public Sector Management Act 1994, s 13).
+Note 2 Notice may be given electronically in certain circumstances (see Electronic Transactions Act 2001, s 8).
 5 If a consumer has made a transfer request, the provider must give the consumer or the consumer’s nominated health service provider the requested copy or written summary of the consumer’s health record as soon as practicable but not later than the later of—
   (a) if a fee is payable for this principle—7 days after the day the fee is paid; and
   (b) 30 days after the day the provider receives the transfer request.
