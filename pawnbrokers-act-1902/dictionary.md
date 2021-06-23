@@ -5,7 +5,7 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 • fail
 • police officer.
 article includes a chattel or goods.
-duplicate, for a pawned article—see section 10 (1) (Duplicates of records).
+duplicate, for a pawned article, means a duplicate mentioned in section 10 (1) of a record mentioned in section 9 (2).
 licensed means licensed under the Traders (Licensing) Act 2016.
 pawnbroker means a person who carries on the business of lending money on the security of an article taken by the person by way of pawn, pledge or as security.
 Note A person must not carry on business as a pawnbroker unless the person is licensed as a pawnbroker under the Traders (Licensing) Act 2016.
