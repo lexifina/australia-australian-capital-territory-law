@@ -3,8 +3,8 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
-• chief executive (s 163)
-• domestic partnership (s 169 (2))
+• director-general (see s 163)
+• domestic partnership (see s 169 (2))
 • Magistrates Court
 • Supreme Court
 • territory law.
