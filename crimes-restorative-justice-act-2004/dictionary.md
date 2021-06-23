@@ -18,7 +18,8 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • quarter
 • sentence administration board
 • Supreme Court
-• the Territory.
+• the Territory
+• victims of crime commissioner.
 adult offender—see section 12.
 child victim—see section 11.
 commission, of an offence that is alleged to have been committed—see section 12.
