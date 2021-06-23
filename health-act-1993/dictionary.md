@@ -72,7 +72,7 @@ practitioner, for a health facility—see section 52.
 prohibited behaviour, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected area, for division 6.2 (Patient privacy in protected areas)—see section 85.
 protected facility, for division 6.2 (Patient privacy in protected areas)—see section 85.
-protected information, for part 8 (Secrecy)—see section 123.
+protected information—see section 123.
 quality assurance committee—see section 24.
 review, in relation to the scope of clinical practice, for part 5 (Reviewing scope of clinical practice)—see section 55.
 scope of clinical practice, of a practitioner, for a health facility, for part 5 (Reviewing scope of clinical practice)—see section 54.
