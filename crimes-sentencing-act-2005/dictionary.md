@@ -44,10 +44,10 @@ correctional centre means—
   (a) a correctional centre under the Corrections Management Act 2007; or
   (b) a NSW correctional centre.
 corrections officer—see the Corrections Management Act 2007, section 20.
-court means—
-  (a) for this Act generally, if a court has sentenced an offender, made an order or given a direction—the same court, however constituted; and
-  (b) for part 4.2B (Drug and alcohol treatment assessments) and part 5.4A (Drug and alcohol treatment orders)—the Supreme Court.
-court, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61B.
+court—
+  (a) for this Act generally, if a court has sentenced an offender, made an order or given a direction—means the same court, however constituted; and
+  (b) for part 4.2B (Drug and alcohol treatment assessments) and part 5.4A (Drug and alcohol treatment orders)—means the Supreme Court; and
+  (c) for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61B.
 criminal group, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61C.
 criminal intelligence, for part 4.6 (Sentencing—schedule offence with criminal group)—see section 61B.
 custodial part, of a treatment order—see section 80W.
@@ -79,7 +79,6 @@ nonparole period, for a sentence of imprisonment—
   (a) see section 65 (2) (Nonparole periods—court to set); and
   (b) if the nonparole period of the sentence is amended—means the nonparole period as amended.
 offender—see section 8.
-offender, for part 4.6 (Sentencing—schedule offence with criminal group—see section 61B.
 parole order—see the Crimes (Sentence Administration) Act 2005, section 117.
 place restriction order—see section 21.
 pre-sentence report means a report—
