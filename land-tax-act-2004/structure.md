@@ -5,4 +5,3 @@
 ## Part 4 Unit subdivisions
 ## Part 5 Exemptions, remissions and certain interest payments
 ## Part 6 Miscellaneous
-## Part 8 Transitional—Land Tax Amendment Act 2018
