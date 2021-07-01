@@ -8,8 +8,11 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • Australian citizen
 • Australian statistician
 • Commonwealth
+• corporation
+• Corporations Act
 • director-general (see s 163)
 • doctor
+• domestic partner (see s 169 (1))
 • Executive
 • exercise
 • fail
@@ -18,7 +21,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • home address
 • individual
 • lawyer
+• Legislative Assembly
+• Minister (see s 162)
 • person (see s 160)
+• planning and land authority
 • public holiday
 • public sector body
 • public sector standards commissioner
@@ -30,7 +36,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • State
 • statutory office-holder
 • territory instrumentality
-• territory lease.
+• territory law
+• territory lease
+• territory plan
+• the Territory.
 abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
   (a) of a person, for this Act generally—means the person’s principal place of residence (including a place of residence from which a person who is an elector is temporarily absent and to which the person intends to return to live in); and
@@ -70,6 +79,7 @@ candidate square—see section 116 (1) (h) (Printing of ballot papers).
 capped expenditure period, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 certified extract of electors, for an election in an electorate, means a preliminary or supplementary certified extract of electors.
 certified list of electors, for an election in an electorate, means a preliminary or supplementary certified list of electors.
+close associate, of a property developer, for division 14.4A (Gifts from property developers)—see section 222D.
 column, for schedule 2 (Ballot papers—printing of names and collation)—see schedule 2, clause 1.
 commissioner means the Electoral Commissioner appointed under section 12.
 Commonwealth Electoral Act means the Commonwealth Electoral Act 1918 (Cwlth).
@@ -81,6 +91,7 @@ contravention, for part 16 (Disputed elections, eligibility and vacancies)—see
 count, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1.
 count votes, for schedule 4 (Ascertaining result of poll)—see schedule 4, clause 1A.
 Court of Disputed Elections, for part 16 (Disputed elections, eligibility and vacancies)—see section 252 (2).
+decided, for division 14.4A (Gifts from property developers)—see section 222B.
 declaration vote means a vote cast in accordance with any of the following provisions:
   (a) section 135 (Declaration voting at polling places);
   (b) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
@@ -125,7 +136,9 @@ financial institution, for part 14 (Election funding, expenditure and financial 
 financial representative, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 former MLA, for part 13 (Casual vacancies)—see section 190.
 general election means a general election of MLAs.
-gift, for part 14 (Election funding, expenditure and financial disclosure)—see section 198AA.
+gift—
+  (a) for part 14 (Election funding, expenditure and financial disclosure)—see section 198AA; and
+  (b) for division 14.4A (Gifts from property developers)—see section 222B.
 government agency means—
   (a) the public service; or
   (b) a public sector body; or
@@ -139,6 +152,7 @@ internally reviewable decision, for part 15 (Notification and review of decision
 internal review notice—see section 244.
 investigation notice, for division 14.7 (Compliance)—see section 235.
 loan, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
+make, a relevant planning application, for division 14.4A (Gifts from property developers)—see section 222B.
 MLA—
   (a) means a member of the Assembly; and
   (b) in division 14.3A (Administrative expenditure funding)—see section 215A.
@@ -167,6 +181,7 @@ party grouping, for part 14 (Election funding, expenditure and financial disclos
 person, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 person, for part 15 (Notification and review of decisions)—see section 245.
 place of nomination—see section 108.
+political entity, for division 14.4A (Gifts from property developers)—see section 222B.
 political party means an organisation, incorporated or unincorporated, an object or activity of which is the promotion of the election to the Assembly of a candidate or candidates endorsed by it.
 polling day—
   (a) means the day when, apart from section 111 (Need for an election), a poll for an election would be required; and
@@ -182,6 +197,7 @@ pre-election period means the period of 37 days ending on the end of polling day
 preliminary certified extract of electors, for an election in an electorate—see section 121 (4).
 preliminary certified list of electors, for an election in an electorate—see section 121 (4).
 proceeding, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
+property developer, for division 14.4A (Gifts from property developers)—see section 222C.
 prospective candidate, for an election, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 quota—
   (a) for schedule 4 (Ascertaining result of poll) generally—see schedule 4, clause 1B; and
@@ -200,6 +216,7 @@ related—2 political parties are taken to be related if—
 Example
 the ACT branch of a political party and the national secretariat of the same political party
 relevant Assembly committee means the committee of the Legislative Assembly whose functions include the examination of electoral matters.
+relevant planning application, for division 14.4A (Gifts from property developers)—see section 222E.
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291.
 reporting agent, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 research personnel, for part 11 (Polling in Antarctica)—see section 167.

@@ -36,6 +36,7 @@
 ### Division 14.3 Election funding
 ### Division 14.3A Administrative expenditure funding
 ### Division 14.4 Gifts and certain loans—records and disclosure
+### Division 14.4A Gifts from property developers
 ### Division 14.5 Disclosure of electoral expenditure
 ### Division 14.6 Annual returns
 ### Division 14.7 Compliance
@@ -59,3 +60,4 @@
 ### Division 18.1 Injunctions
 ### Division 18.2 Prosecutions
 ## Part 19 Miscellaneous
+## Part 33 Transitional—Electoral Amendment Act 2020
