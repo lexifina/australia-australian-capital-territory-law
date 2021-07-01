@@ -102,7 +102,7 @@ register means the register kept by the registrar under section 5.
 registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
 registered racing greyhound means a racing greyhound registered under section 39C.
 registrar means the registrar under section 121.
-registration certificate means a registration certificate issued under section 11 (1) or (3).
+registration certificate means a registration certificate issued under section 11 (1) or (4).
 release a dog to a person includes permit the dog to be collected by the person.
 residential premises means premises used exclusively or mainly for residential purposes, and includes a private room in, but not any other part of, a motel, hotel, hostel or guesthouse.
 reviewable decision, for part 8 (Notification and review of decisions)—see section 118.
