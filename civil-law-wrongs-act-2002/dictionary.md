@@ -27,13 +27,15 @@ accommodation provider—see section 146.
 accommodation unit, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 act of terrorism, for part 3.3 (Exclusion of liability for terrorism-associated risks)—see section 37.
 agent, of an accommodation provider, for part 11.1 (Traveller accommodation providers liability)—see section 144.
-aggrieved person, for division 9.3.1 (Offers to make amends)—see section 124.
+aggrieved person, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124.
 amount payable, under an insurance policy in relation to an occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2A.
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 apology, for part 2.3 (Apologies)—see section 13.
+applicable period, for an offer to make amends, for division 9.3.1 (Concerns notices and offers to make amends)—see section 126.
 apportionable claim, for chapter 7A (Proportionate liability)—see section 107B.
 appropriate council, in relation to another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+associated entity, for chapter 9 (Defamation)—see the Corporations Act, section 50AAA.
 Australian court, for chapter 9 (Defamation)—see section 116.
 Australian jurisdiction, for chapter 9 (Defamation)—see section 116.
 Australian tribunal, for chapter 9 (Defamation)—see section 116.
@@ -53,6 +55,7 @@ common carrier, for part 11.2 (Common carriers)—see section 156.
 community organisation, for part 2.2 (Volunteers)—see section 6.
 community work, for part 2.2 (Volunteers)—see section 7.
 complying notice of claim, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
+concerns notice, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124A.
 concurrent wrongdoer, for chapter 7A (Proportionate liability)—see section 107D.
 consequential mental harm, for part 3.2 (Mental harm)—see section 32.
 consumer claim, for chapter 7A (Proportionate liability)—see section 107C.
@@ -90,6 +93,7 @@ equine activity, for schedule 3 (Equine activities)—see schedule 3, section 3.
 equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine facility, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine professional, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
+excluded corporation, for chapter 9 (Defamation)—see section 121.
 family member, of a person, for part 3.2 (Mental harm)—see section 32.
 fault, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 fit for human consumption, in relation to food, for part 2.2A (Food donors)—see section 11A.
@@ -102,6 +106,7 @@ funeral expenses includes costs related to any of the following:
   (e) a service at the burial or cremation site;
   (f) burial or cremation;
   (g) a headstone, plaque, tablet or other memorial.
+further particulars notice, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124A (3).
 general law, for chapter 9 (Defamation)—see section 116.
 guest—see section 148.
 harm, for chapter 4 (Negligence)—see section 40.
@@ -116,7 +121,7 @@ legal services means legal services provided by a lawyer or the lawyer’s agent
 limitation amount, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 loss, of property, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 matter, for chapter 9 (Defamation)—see section 116.
-matter in question, for division 9.3.1 (Offers to make amends)—see section 124.
+matter in question, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124.
 mediation, for part 15.1 (Mediation and neutral evaluation)—see section 192 (1).
 mediation session, for part 15.1 (Mediation and neutral evaluation)—see section 192 (2).
 member, of a dead person’s family, for part 3.1 (Wrongful act or omission causing death)—see section 23.
@@ -158,7 +163,7 @@ property, of a guest—see section 149.
 provable facts, in relation to a lawyer, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
 provide traveller accommodation, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 public or other authority, for chapter 8 (Liability of public and other authorities)—see section 109.
-publisher, for division 9.3.1 (Offers to make amends)—see section 124.
+publisher, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124.
 pure mental harm, for part 3.2 (Mental harm)—see section 32.
 reasonable prospects of success, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
 recreational drug means a drug consumed voluntarily for non-medicinal purposes, and includes alcohol.

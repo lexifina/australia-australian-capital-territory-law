@@ -36,7 +36,7 @@
 ### Division 9.2.2 Causes of action for defamation
 ### Division 9.2.3 Choice of law
 ## Part 9.3 Resolution of civil disputes without litigation
-### Division 9.3.1 Offers to make amends
+### Division 9.3.1 Concerns notices and offers to make amends
 ### Division 9.3.2 Apologies
 ## Part 9.4 Litigation of civil disputes
 ### Division 9.4.1 General
@@ -68,3 +68,4 @@
 ## Part 15.3 Attachment of insurance money
 ## Part 15.4 Abolition of certain common law actions, rules and remedies
 ## Part 15.5 Other provisions
+# Chapter 18 Transitional—Civil Law (Wrongs) Amendment Act 2021
