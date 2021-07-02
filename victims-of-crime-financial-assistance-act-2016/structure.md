@@ -15,4 +15,3 @@
 ## Part 8 Administration
 ## Part 9 Notification and review of decisions
 ## Part 10 Miscellaneous
-## Part 20 Transitional
