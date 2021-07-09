@@ -26,6 +26,8 @@
 ## Part 3.7 Prohibition notices
 ## Part 3.8 General court-based penalties
 ### Division 3.8.1 Preliminary
+### Division 3.8.1A Proceedings for offences
+### Division 3.8.1B Available penalties
 ### Division 3.8.2 Commercial benefits penalty orders
 ### Division 3.8.3 Licensing and registration penalties
 ### Division 3.8.4 Supervisory intervention orders
@@ -34,6 +36,7 @@
 ## Part 3.9 Compensation orders
 ### Division 3.9.1 Definitions—pt 3.9
 ### Division 3.9.2 Roads compensation orders for damage to road infrastructure
+### Division 3.9.2A Costs compensation orders
 ### Division 3.9.3 Costs and recovery
 ## Part 3.10 Exemptions
 ## Part 3.11 General liability and evidentiary provisions

@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • internal territory
 • public employee
 • State
+• territory law
 • the Territory
 • working day.
 action, for division 3.6.2 (Formal warnings)—see section 115.
@@ -55,6 +56,7 @@ employee—
 employer means a person who employs someone else under—
   (a) a contract of employment, apprenticeship or training; or
   (b) a contract for services.
+employment order, for part 5.3 (Victimisation of people for reporting breaches and assisting with investigations)—see section 189.
 exclusion order—see section 137 (2).
 exemption—see section 150.
 fit, to drive a vehicle or run its engine—see section 16.
@@ -115,6 +117,7 @@ public authority means—
   (c) a police force or police service.
 qualified, to drive a vehicle or run its engine—see section 15.
 reciprocal powers agreement—see section 26.
+recovery of costs order, for part 3.9 (Compensation orders)—see section 146A (2).
 registered operator, of a vehicle, means—
   (a) for a vehicle registered under the Road Transport (Vehicle Registration) Act 1999—a person recorded in the registrable vehicles register kept under that Act as a registered operator of the vehicle; or
   (b) for a vehicle registered under the law of another jurisdiction—a person recorded in the register of the other jurisdiction corresponding to the registrable vehicles register as a registered operator (however described) of the vehicle.
