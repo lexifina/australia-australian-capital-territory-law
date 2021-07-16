@@ -26,4 +26,3 @@
 ## Part 4 Interest on commercial accounts
 ## Part 4A Notification and review of decisions
 ## Part 5 Miscellaneous
-## Part 11 Transitional—Government Procurement (Secure Local Jobs) Amendment Act 2018
