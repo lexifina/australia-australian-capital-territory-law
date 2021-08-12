@@ -9,6 +9,7 @@
 ## Part 6 Traffic offence detection devices
 ### Division 6.1 Definitions—pt 6
 ### Division 6.2 Traffic offence detection devices—general
+### Division 6.3 Traffic offence detection devices—other matters
 ## Part 7 Traffic management
 ## Part 8 Regulations about safety and traffic management
 ### Division 8.1 General

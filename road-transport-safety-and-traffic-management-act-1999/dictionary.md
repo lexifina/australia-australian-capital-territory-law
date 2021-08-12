@@ -33,17 +33,13 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
 aggravated offence, against section 7 (Furious, reckless or dangerous driving)—see section 7A.
-approved average speed detection system means an average speed detection system approved under a regulation.
-approved camera detection device means a camera detection device approved under a regulation.
-approved speed measuring device means a speed measuring device approved under a regulation.
 authorised person, for a provision of this Act, means—
   (a) a person who is appointed as an authorised person under the Road Transport (General) Act 1999, section 19 for the provision; or
   (b) a person who is, under a regulation made under this Act or the Road Transport (General) Act 1999, an authorised person for the provision.
 average speed, of a vehicle between 2 detection points, for part 6 (Traffic offence detection devices)—see section 22B.
-average speed detection system, for part 6 (Traffic offence detection devices)—see section 23A.
-average speed limit, for a driver of a vehicle on a road between 2 detection points if more than 1 speed limit applies between the points, for part 6 (Traffic offence detection devices)—see section 22AA.
-camera detection device—see section 23.
-detection point, for part 6 (Traffic offence detection devices)—see section 22AA.
+average speed detection system, for part 6 (Traffic offence detection devices)—see section 22A.
+average speed limit, for a driver of a vehicle on a road between 2 detection points if more than 1 speed limit applies between the points, for part 6 (Traffic offence detection devices)—see section 22A.
+detection point, for part 6 (Traffic offence detection devices)—see section 22A.
 drive a vehicle includes—
   (a) be in control of the steering, movement or propulsion of the vehicle; and
   (b) if the vehicle is a trailer—draw or tow the vehicle; and
@@ -51,28 +47,25 @@ drive a vehicle includes—
 first offender—
   (a) for division 2.1 (Speeding and other dangerous driving offences)—see section 5AB; and
   (b) for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
-indicated on, an image of a vehicle taken by an approved camera detection device or an approved average speed detection system, includes accompanying or reasonably associated with the image.
+indicated on, an image of a vehicle or the driver of a vehicle taken by a traffic offence detection device, includes accompanying or reasonably associated with the image.
 installation, of a prescribed traffic control device, includes the painting or formation of any marks or structure that forms, or forms part of, the device.
 loaded unsafely, for part 3 (Unsafe loads)—see section 11.
+minimum travel time, for a shortest practicable route, for part 6 (Traffic offence detection devices)—see section 22A.
+mobile device, for part 6 (Traffic offence detection devices)—see the Road Transport (Road Rules) Regulation 2017, section 300 (4).
+mobile device detection system, for part 6 (Traffic offence detection devices)—see section 22A.
 prescribed traffic control device means a device, line, marking, sign, signal or anything else prescribed by regulation for this definition, and includes any board, device, plate, screen, word, and anything else, with a prescribed traffic control device that provides information about the application of the device.
 red traffic arrow includes a flashing red traffic arrow.
 red traffic light includes a flashing red traffic light.
-relevant information, for part 6 (Traffic offence detection devices)—
-  (a) for an image of a vehicle taken by a camera detection device—see section 22A (1); and
-  (b) for an image of a vehicle, or a numberplate or anything else on a vehicle, taken by an average speed detection system—see section 22A (2).
 repeat offender—
   (a) for division 2.1 (Speeding and other dangerous driving offences)—see section 5AB; and
   (b) for division 2.3 (Seizure, impounding and forfeiture of vehicles for certain offences)—see section 10AA.
 retention area—see the Uncollected Goods Act 1996, dictionary.
 road user—see the Road Transport (Road Rules) Regulation 2017, section 14.
-shortest practicable distance, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 22AA.
-shortest practicable route, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 23B (a).
-speeding offence, for part 6 (Traffic offence detection devices)—see section 22AA.
-speed measuring device means a device designed to measure the speed at which vehicles are travelling.
+shortest practicable distance, for part 6 (Traffic offence detection devices)—see section 22A.
+shortest practicable route, between 2 detection points, for part 6 (Traffic offence detection devices)—see section 22A.
+speeding offence, for part 6 (Traffic offence detection devices)—see section 22A.
+speed measuring device, for part 6 (Traffic offence detection devices)—see section 22A.
 traffic accident—see section 15.
 traffic lights includes any traffic arrows installed with or near the lights.
-traffic offence detection device means—
-  (a) an approved camera detection device; or
-  (b) an approved speed measuring device; or
-  (c) an approved average speed detection system;
+traffic offence detection device—see section 23.
 traffic offence evasion article means any device or substance (the article) that is designed or adapted, or apparently designed or adapted, to be fitted to, applied to, or carried in a vehicle to detect, interfere with, or reduce the effectiveness of, a traffic offence detection device, whether or not the article is operating or in working order.
