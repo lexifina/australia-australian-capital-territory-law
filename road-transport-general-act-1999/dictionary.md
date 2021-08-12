@@ -31,7 +31,6 @@ all reasonable steps—
   (b) for division 3.3A (Demerit points offences—corporation’s liability)—see section 41.
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
-approved camera detection device—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved community work or social development program, for part 3 (Infringement notices for certain offences)—see section 21A.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
@@ -49,7 +48,6 @@ bicycle means a vehicle with 2 or more wheels that is built to be propelled by h
     (i) a wheelchair, wheeled recreational device or wheeled toy; or
     (ii) a vehicle (other than a vehicle mentioned in paragraph (b)) with an electric motor capable of generating a power output over 200W (whether or not the motor is operating); or
     (iii) a vehicle that has an internal combustion engine.
-camera-detected offence means an offence detected by an approved camera detection device or an approved average speed detection system.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 corporation’s vehicle, for division 3.3A (Demerit points offences—corporation’s liability)—see section 40.
