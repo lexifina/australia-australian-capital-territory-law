@@ -54,3 +54,4 @@ restricted person, for division 3.2 (Change of name—restricted people)—see s
 reviewable decision, for part 8 (Notification and review of decisions)—see section 53.
 stillbirth means the birth of a stillborn child.
 stillborn child means a child of at least 20 weeks gestation who shows no sign of respiration or heartbeat, or other sign of life, immediately after birth.
+young person means a person who is not yet 18 years old.
