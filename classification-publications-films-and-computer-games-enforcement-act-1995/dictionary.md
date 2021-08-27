@@ -27,6 +27,7 @@ Commonwealth Act means the Classification (Publications, Films and Computer Game
 computer game—see the Commonwealth Act, section 5A (Meaning of computer game).
 consumer advice means consumer advice determined under the Commonwealth Act, section 20.
 convenor means the Convenor of the Review Board appointed under the Commonwealth Act, section 74.
+deal in, X 18+ films, for part 6 (X 18+ films)—see section 54A.
 defined offence, in relation to a seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
 defined period, in relation to a seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
 demonstrate includes exhibit, display, screen or make available for playing.
