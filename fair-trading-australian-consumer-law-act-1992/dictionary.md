@@ -7,10 +7,12 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • document
 • interest
 • land
+• lawyer
 • Magistrates Court
 • Minister (see s 162)
 • National Credit Code
 • prescribed.
+acquire, for division 5.1A (Conciliation of consumer complaints)—see section 34B.
 advisory committee means a committee established under section 28.
 annual percentage rate, for part 6 (Maximum annual percentage rate and disclosure)—see section 62.
 application law, for part 2 (The Australian Consumer Law)—see section 5 (1).
@@ -18,12 +20,22 @@ approved code, for part 3 (Codes of practice)—see section 21.
 Australian Consumer Law, for part 2 (The Australian Consumer Law)—see section 5 (1).
 Australian Consumer Law (ACT) means the provisions applying in this jurisdiction because of section 7.
 Australian Consumer Law text, for part 2 (The Australian Consumer Law)—see section 5 (1).
-business—see the Australian Consumer Law (ACT), section 2 (1).
+business—
+  (a) for this Act, other than division 5.1A—see the Australian Consumer Law (ACT), section 2 (1); and
+  (b) for division 5.1A (Conciliation of consumer complaints)—see section 34B.
 business premises, for division 5.2 (Investigations)—see section 35.
+civil penalty order, for subdivision 5.1A.3 (Civil penalties—business failing to attend conciliation)—see section 34L.
+civil penalty provision, for division 5.1A.3 (Civil penalties—business failing to attend conciliation)—see section 34L.
 code, for part 6 (Maximum annual percentage rate and disclosure)—see section 62.
 commissioner means the Commissioner for Fair Trading appointed under section 32.
+compulsory conciliation notice, for division 5.1A (Conciliation of consumer complaints)—see section 34G.
+conciliation, for division 5.1A (Conciliation of consumer complaints)—see section 34C.
 connected, for division 5.2 (Investigations)—see section 35.
-consumer—see the Australian Consumer Law (ACT), section 2 (1).
+consumer—
+  (a) for this Act, other than division 5.1A—see the Australian Consumer Law (ACT), section 2 (1); and
+  (b) for division 5.1A (Conciliation of consumer complaints)—see section 34B.
+consumer complaint, for division 5.1A (Conciliation of consumer complaints)—see section 34B.
+consumer legislation, for division 5.1A (Conciliation of consumer complaints)—see section 34B.
 contract document, for part 6 (Maximum annual percentage rate and disclosure)—see section 62.
 court includes any tribunal or person having authority under a law, or by consent of parties, to receive evidence.
 credit, for part 6 (Maximum annual percentage rate and disclosure)—see section 62.
@@ -57,6 +69,7 @@ other jurisdiction, for division 2.4 (Application of Australian Consumer Law to 
 participating jurisdiction—
   (a) for part 2 (The Australian Consumer Law)—see section 5 (1); and
   (b) for division 2.4 (Application of Australian Consumer Law to jurisdictions)—see section 14.
+party, for division 5.1A (Conciliation of consumer complaints)—see section 34B.
 services—see the Australian Consumer Law (ACT), section 2 (1).
 State, for part 2 (The Australian Consumer Law)—see section 5 (1).
 supplier—see the Australian Consumer Law (ACT), section 2 (1).
