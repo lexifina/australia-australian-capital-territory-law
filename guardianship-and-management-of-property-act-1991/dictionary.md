@@ -11,7 +11,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • exercise
 • function
 • Magistrates Court
-• oath.
+• oath
+• Supreme Court.
 approved, for medical research or low-risk research—see the Powers of Attorney Act 2006, section 41A.
 carer—
   (a) for the Act generally—see section 6; and
@@ -30,7 +31,7 @@ guardian means someone who is a guardian under any of the following sections:
 health attorney, for part 2A (Consent to medical treatment without formal representation)—see section 32B (1).
 health professional, for part 2A (Consent to medical treatment without formal representation)—see section 32A.
 impaired decision-making ability, for a person—see section 5.
-interested person, for part 3 (Powers of Attorney and ACAT)—see the Powers of Attorney Act 2006, dictionary.
+interested person—see the Powers of Attorney Act 2006, section 74.
 interests, of a person—see section 5A.
 judicial officer means a judge of the Supreme Court or a magistrate.
 low-risk research, in relation to a person—see the Powers of Attorney Act 2006, section 41A.
