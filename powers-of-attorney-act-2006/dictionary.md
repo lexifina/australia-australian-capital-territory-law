@@ -10,7 +10,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • corporation
 • domestic partner (see s 169 (1))
 • exercise
-• public trustee and guardian.
+• public trustee and guardian
+• Supreme Court.
 affinity means affinity derived through marriage or any other domestic partnership.
 approved, for medical research or low-risk research, for part 4.3A (Medical research matters)—see section 41A.
 attorney—see section 6.
