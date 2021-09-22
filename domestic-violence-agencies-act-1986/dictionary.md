@@ -2,11 +2,14 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
-· bankrupt or personally insolvent
-· police officer
-· public servant
-· statutory office-holder
-· territory law.
+• administrative unit
+• bankrupt or personally insolvent
+• chief police officer
+• director-general (see s 163)
+• police officer
+• public servant
+• territory law.
+advisory committee, for part 3A (Domestic and family violence incident review)—see section 16B.
 appointed member—see section 6 (1).
 approved crisis support organisation means an organisation approved under section 17.
 child, of a person, includes—
@@ -15,6 +18,11 @@ child, of a person, includes—
 coordinator—see section 11.
 Note The victims of crime commissioner is the coordinator.
 council means the Domestic Violence Prevention Council established by section 4.
+DFVR coordinator, for part 3A (Domestic and family violence incident review)—see section 16B.
+domestic or family violence incident, for part 3A (Domestic and family violence incident review)—see section 16C.
 family violence—see the Family Violence Act 2016, section 8.
 family violence offence—see the Family Violence Act 2016, dictionary.
+independent adviser, for part 3A (Domestic and family violence incident review)—see section 16B.
 member means a member of the council.
+register, for part 3A (Domestic and family violence incident review)—see section 16B.
+serious harm, for part 3A (Domestic and family violence incident review)—see section 16B.
