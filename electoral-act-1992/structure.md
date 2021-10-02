@@ -60,4 +60,3 @@
 ### Division 18.1 Injunctions
 ### Division 18.2 Prosecutions
 ## Part 19 Miscellaneous
-## Part 33 Transitional—Electoral Amendment Act 2020
