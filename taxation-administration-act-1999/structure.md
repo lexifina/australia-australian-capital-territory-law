@@ -34,5 +34,6 @@
 ### Division 11.3 Payments
 ### Division 11.4 Notices and service of documents
 ### Division 11.5 Proceedings and evidence
-### Division 11.5A COVID-19 emergency response—revenue measures
+### Division 11.5A Revenue measures—deferral, exemption and rebate schemes
 ### Division 11.6 Miscellaneous
+## Part 21 Transitional—Operational Efficiencies (COVID-19) Legislation Amendment Act 2021

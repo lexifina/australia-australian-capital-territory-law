@@ -42,9 +42,11 @@ charitable organisation, for a tax law—see section 18B.
 commissioner means the Commissioner for Australian Capital Territory Revenue mentioned in section 73.
 commissioner-reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107.
 corporation—see the Corporations Act, section 57A.
+deferral scheme, for division 11.5A (Revenue measures—deferral, exemption and rebate schemes)—see section 137D (1).
 director, in relation to a body corporate, includes a person occupying or acting in a position with responsibility for the direction of the body, by whatever name called and whether or not validly appointed to occupy, or duly authorised to act in, the position.
 Note Document is defined in the Legislation Act, dict, pt 1, and includes information in electronic form.
 excluded organisation, for part 3A (Charitable organisations)—see section 18C.
+exemption scheme, for division 11.5A (Revenue measures—deferral, exemption and rebate schemes)—see section 137E (1).
 interest rate means the interest rate set under section 26.
 internally reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107.
 market rate component, in relation to interest for a day—see section 26 (2).
@@ -56,6 +58,7 @@ parcel, of land, for division 7.3 (Tax in arrears—recovery measures)—see sec
 premises includes land, a vehicle, a vessel and an aircraft.
 premium component, in relation to interest—see section 26 (3).
 public officer means the public officer of a body appointed under section 117.
+rebate scheme, for division 11.5A (Revenue measures—deferral, exemption and rebate schemes)—see section 137F (1).
 reciprocating jurisdiction means a jurisdiction, being the Commonwealth, a State or another Territory, under a law of which a tax officer of the jurisdiction is authorised to give to the commissioner, for the purposes of the administration of a tax law of the ACT, information within the knowledge of the tax officer.
 record means a record in any form of document.
 return means a return, statement, application, report or other record that—
@@ -63,6 +66,7 @@ return means a return, statement, application, report or other record that—
   (b) is liable to tax or records matters in relation to which there is or may be a tax liability.
 revenue amount means an amount of money paid voluntarily or under compulsion as a tax (including penalty tax).
 reviewable decision, for division 10.2 (Notification and review of decisions)—see section 107A.
+scheme, for division 11.5A (Revenue measures—deferral, exemption and rebate schemes)—see section 137A.
 tax means a tax, duty or levy under a tax law, and includes—
   (a) interest and penalty tax under part 5; and
   (b) any other amount paid or payable by a taxpayer to the commissioner under a tax law.
