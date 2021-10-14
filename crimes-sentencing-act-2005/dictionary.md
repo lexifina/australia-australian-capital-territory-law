@@ -94,7 +94,7 @@ probation condition, of a good behaviour order for an offender, means a conditio
   (a) to be on probation subject to the supervision of a person appointed under the order; and
   (b) to obey all reasonable directions of the appointed person.
 Example of directions for par (b)
-that the offender comply with a condition mentioned in section 13 (3) (g), examples, even if the condition is not a condition of the order
+that the offender comply with a condition mentioned in section 13 (4) (g), examples, even if the condition is not a condition of the order
 rehabilitation program—
   (a) for a good behaviour order, for this Act generally—see section 93; and
   (b) for an intensive correction order, for division 5.4.3 (Intensive correction orders—rehabilitation program conditions)—see section 80G.
