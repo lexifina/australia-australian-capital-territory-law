@@ -4,12 +4,10 @@
 column 1 item | column 2 provision | column 3 description of offence
 1 | 15 | manslaughter
 2 | 19 | intentionally inflicting grievous bodily harm
-3 | 49C | industrial manslaughter (employer offence)
-4 | 49D | industrial manslaughter (senior officer offence)
-5 | 51 | sexual assault in the first degree
-6 | 52 | sexual assault in the second degree
-7 | 54 | sexual intercourse without consent
-8 | 55 (1) | sexual intercourse with young person under 10 years old
+3 | 51 | sexual assault in the first degree
+4 | 52 | sexual assault in the second degree
+5 | 54 | sexual intercourse without consent
+6 | 55 (1) | sexual intercourse with young person under 10 years old
 ## Part 1.2 Offences against Criminal Code
 column 1 item | column 2 provision | column 3 description of offence
 1 | 310 | aggravated robbery
@@ -56,3 +54,6 @@ column 1 item | column 2 provision | column 3 description of offence
 8 | 307.11 | importing and exporting commercial quantities of border controlled precursors
 9 | 307.12 | importing and exporting marketable quantities of border controlled precursors
 10 | 307.13 | importing and exporting border controlled precursors
+## Part 1.7 Offence against Work Health and Safety Act 2011
+column 1 item | column 2 provision | column 3 description of offence
+1 | 34A | industrial manslaughter
