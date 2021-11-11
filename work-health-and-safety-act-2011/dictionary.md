@@ -52,6 +52,7 @@ health and safety committee, for a business or undertaking—see division 5.4 (H
 health and safety duty, for division 2.5 (Offences and penalties)—see section 30.
 health and safety representative, in relation to a worker, means the health and safety representative elected under part 5 (Consultation, representation and participation) for the work group of which the worker is a member.
 import means to bring into the ACT from outside Australia.
+industrial manslaughter offence means an offence against section 34A (Industrial manslaughter).
 infringement notice—see the Magistrates Court Act 1930, dictionary.
 infringement notice offence—see the Magistrates Court Act 1930, dictionary.
 inspector means an inspector appointed under part 9 (Securing compliance).

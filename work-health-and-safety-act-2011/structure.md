@@ -13,6 +13,7 @@
 ### Division 2.3 Further duties of persons conducting businesses or undertakings
 ### Division 2.4 Duty of officers, workers and other persons
 ### Division 2.5 Offences and penalties
+### Division 2.6 Industrial manslaughter
 ## Part 3 Incident notification
 ## Part 4 Authorisations
 ## Part 5 Consultation, representation and participation
