@@ -39,7 +39,6 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 accused, for a person before the Magistrates Court, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
-agent, for part 2A (Industrial manslaughter)—see section 49A.
 aggravated offence—
   (a) for part 2 (Offences against the person)—see section 48A; and
   (b) for part 5 (Sexual servitude)—see section 81.
@@ -50,7 +49,6 @@ anabolic steroid, for part 8 (Anabolic steroids)—see section 170.
 appropriate authority, in relation to a State or another Territory, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 assisting officer, in relation to a warrant, for part 10 (Criminal investigation)—see section 185.
 breasts, for part 3A (Intimate image abuse)—see section 72A.
-causes death, for part 2A (Industrial manslaughter)—see section 49A.
 child—
   (a) for the Act generally—
     (i) means a person who has not attained the age of 18 years; and
@@ -61,7 +59,7 @@ child—
 committed an offence, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
 Commonwealth Crimes Act, for part 10 (Criminal investigation)—see section 185.
 compliance period, for division 10.9 (Fortification of premises)—see section 252M.
-conduct, for part 2A (Industrial manslaughter) and part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
+conduct, for part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
 contaminate, for goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
 conveyance, for part 10 (Criminal investigation)—see section 185.
 corresponding law, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
@@ -69,7 +67,6 @@ crime scene, for division 10.4A (Crime scene powers)—see section 210A.
 crime scene power, for division 10.4A (Crime scene powers)—see section 210A.
 daily care responsibility—see the Children and Young People Act 2008, section 19.
 deal, with money or other property, for division 6.2A (Money laundering and organised fraud)—see section 114A.
-death, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 defendant, for part 13 (Unfitness to plead and mental impairment)—see the Magistrates Court Act 1930, section 18A.
 detention during pleasure, for part 7 (Escape provisions)—see section 158.
 director of public prosecutions means—
@@ -79,8 +76,6 @@ as the case requires.
 distribute, for part 3A (Intimate image abuse)—see section 72B.
 domestic partner includes former domestic partner.
 economic loss, caused through public awareness of the contamination of goods, or the possibility of contamination, for part 6 (Offences relating to property)—see section 136.
-employee, for part 2A (Industrial manslaughter)—see section 49A.
-employer, for part 2A (Industrial manslaughter)—see section 49A.
 engage in conduct, for part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
 engaged in a private act, for part 3A (Intimate image abuse)—see section 72A.
 evidential material, for part 10 (Criminal investigation)—see section 185.
@@ -97,14 +92,11 @@ frisk search, for part 10 (Criminal investigation)—see section 185.
 Full Court, for part 20 (Inquiries into convictions)—see section 421.
 genital or anal region, for part 3A (Intimate image abuse)—see section 72A.
 goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
-government, for part 2A (Industrial manslaughter)—see the Legislation Act, section 121 (6).
-government entity, for part 2A (Industrial manslaughter)—see section 49A.
 grievous bodily harm to a person includes—
   (a) any permanent or serious disfiguring of the person; and
   (b) for a pregnant woman—loss of or serious harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
 identification material, in relation to a person, for part 10 (Criminal investigation)—see section 185.
 impaired state, for a person, for part 10 (Criminal investigation)—see section 185.
-independent contractor, for part 2A (Industrial manslaughter)—see section 49A.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
 inquiry, for part 20 (Inquiries into convictions)—see section 421.
 intimate image, for part 3A (Intimate image abuse)—see section 72A.
@@ -130,11 +122,8 @@ offensive weapon means—
   (a) anything made or adapted for use, or capable of being used, for causing injury to or incapacitating a person; or
   (b) anything intended for that use by the person who is carrying it or otherwise has it in his or her possession;
 and includes an imitation or replica of an offensive weapon.
-officer—
-  (a) of a corporation, for part 2A (Industrial manslaughter)—see the Corporations Act, section 9; and
-  (b) in relation to a body corporate or public company, for the Act—includes a person who has been appointed or who acts as an auditor of the body corporate or public company.
+officer, in relation to a body corporate or public company, includes a person who has been appointed or who acts as an auditor of the body corporate or public company.
 ordinary search, for part 10 (Criminal investigation)—see section 185.
-outworker, for part 2A (Industrial manslaughter)—see section 49A.
 owner, in relation to an object, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 police station, for part 10 (Criminal investigation)—see section 185.
 premises—
@@ -145,7 +134,6 @@ proceeds of crime, for division 6.2A (Money laundering and organised fraud)—se
 property—
   (a) for division 6.2A (Money laundering and organised fraud)—see section 114A; and
   (b) for division 6.3 (Criminal damage to property)—see section 115.
-provide services, for part 2A (Industrial manslaughter)—see section 49A.
 public place—
   (a) for part 9 (Exclusion powers)—see section 174; or
   (b) for division 10.4A (Crime scene powers)—see section 210B.
@@ -161,8 +149,6 @@ school—
   (b) includes any land or premises that belong to, are occupied by, or are used in relation to, a school.
 search warrant, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 seizable item, for part 10 (Criminal investigation)—see section 185.
-senior officer, for part 2A (Industrial manslaughter)—see section 49A.
-serious harm, for part 2A (Industrial manslaughter)—see the Criminal Code, dictionary.
 serious offence—
   (a) for part 10 (Criminal investigation)—see section 185; and
   (b) for division 10.4A (Crime scene powers)—see section 210A; and
@@ -182,8 +168,6 @@ trustee means a trustee on some express trust howsoever created, and includes th
 under restraint, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
 unlawful activity, for division 6.2A (Money laundering and organised fraud)—see section 114A.
 vessel means any ship or vessel used in or intended for navigation, other than an undecked boat.
-volunteer, for part 2A (Industrial manslaughter)—see section 49A.
 warrant, for part 10 (Criminal investigation)—see section 185.
 warrant premises, for part 10 (Criminal investigation)—see section 185.
-worker, for part 2A (Industrial manslaughter)—see section 49A.
 young person, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
