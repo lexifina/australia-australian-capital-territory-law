@@ -28,7 +28,7 @@ building—
   (a) for this Act generally—see the Unit Titles Act 2001, dictionary; and
   (b) for division 5.4 (Insurance)—see section 99.
 building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
-building management statement—see the Land Titles Act 1925, section 123D.
+building management statement—see the Land Titles Act 1925, section 123C (1).
 class A unit—see the Unit Titles Act 2001, section 10.
 class B unit—see the Unit Titles Act 2001, section 11.
 common property—see the Unit Titles Act 2001, section 13.
