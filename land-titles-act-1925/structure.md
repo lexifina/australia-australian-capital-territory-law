@@ -28,6 +28,5 @@
 ## Part 15 Fees and forms
 ## Part 16 Civil rights and remedies
 ## Part 17 Corrections and alterations
-## Part 18 Notification and review of decisions
 ## Part 19 Miscellaneous
 ## Part 20 Transitional
