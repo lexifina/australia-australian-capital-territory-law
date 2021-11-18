@@ -29,7 +29,7 @@ Examples of site improvements
 2 a paved barbecue area
 building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
 building damage scheme—see section 152.
-building management statement—see the Land Titles Act 1925, section 123D (2).
+building management statement—see the Land Titles Act 1925, section 123C (1).
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
 cancellation authority—see section 160.
 cancellation dissolution order—see section 165 (Dissolution of owners corporation—Supreme Court powers).
