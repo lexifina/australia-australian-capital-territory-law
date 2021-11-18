@@ -19,6 +19,7 @@ building conveyancing inquiry documents, for part 2 (Sale of residential propert
 building management statement—see the Land Titles Act 1925, section 123C (1).
 class A unit, for part 2 (Sale of residential property)—see section 7.
 class B unit, for part 2 (Sale of residential property)—see section 7.
+delay event, in relation to an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
 developer’s holding lease—see section 8 (2) (e).
 eligible impacted property, for part 2 (Sale of residential property)—see section 9A (1).
 eligible impacted property buyback program, for part 2 (Sale of residential property)—see section 9A (1).
@@ -32,6 +33,7 @@ family member, of a person, means—
   (d) the parent or child of the person’s domestic partner.
 lease conveyancing inquiry documents, for part 2 (Sale of residential property)—see section 7.
 mobile home, for part 3 (Energy efficiency ratings)—see section 20.
+off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
 pest inspection report means a pest inspection report prescribed by regulation.
 premises, for part 3 (Energy efficiency ratings)—see section 20.
 proof of identity, for part 4 (Public auctions of residential property)—see section 24.
@@ -46,6 +48,7 @@ publish—something is published if it is—
 related person—see the Duties Act 1999, dictionary.
 required documents, for part 2 (Sale of residential property)—see section 9.
 rescission notice, for part 2 (Sale of residential property)—see section 7.
+rescission provision, in an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
 residence, for part 2 (Sale of residential property)—see section 7.
 residential property—see section 8.
 retirement village—see the Retirement Villages Act 2012, section 10.
@@ -53,6 +56,9 @@ seller, of residential property, for—
   (a) part 2 (Sale of residential property)—see section 7; and
   (b) part 4 (Public auctions of residential property)—see section 7.
 sublease, for part 2 (Sale of residential property)—see the Planning and Development Act 2007, section 234.
+sunset date, in relation to a sunset event in an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
+sunset event, in relation to an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
 unapproved structure, for part 2 (Sale of residential property)—see section 7.
-unit, for part 2 (Sale of residential property)—see section 7.
+unit—see the Unit Titles Act 2001, section 9.
+units plan—see the Unit Titles Act 2001, section 7.
 unit title certificate, for a unit, means a certificate given under the Unit Titles (Management) Act 2011, section 119 (1).
