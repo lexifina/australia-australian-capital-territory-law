@@ -23,10 +23,10 @@ authorised person, for division 2.9 (Revitalisation of Melbourne and Sydney Buil
 authority means the City Renewal Authority established under section 7.
 authority board means the city renewal authority governing board established under section 15.
 authority CEO means the chief executive officer of the authority appointed under section 28.
-development, in relation to land—see the Planning and Development Act 2007, section 7.
 draft revitalisation plan, for the Melbourne Building or Sydney Building, for division 2.9 (Revitalisation of Melbourne and Sydney Buildings)—see section 36B (1).
+land includes land in New South Wales.
 land improvements—
-  (a) means activities carried out in relation to territory land to improve the quality, amenity or value of the land; and
+  (a) means activities carried out in relation to land to improve the quality, amenity or value of the land; and
   (b) includes the following:
     (i) remediation of land;
     (ii) carrying out works on land;
