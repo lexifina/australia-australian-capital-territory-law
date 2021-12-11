@@ -38,18 +38,19 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • territory-owned corporation
 • the Territory
 • under.
+advisory council means the ACT Multi-Hazard Advisory Council established under section 127.
 agency, for part 5.3 (Bushfire prevention)—see section 70.
 ambulance levy, for schedule 1 (Ambulance levy)—see schedule 1, section 1.4.
 ambulance service means the ACT Ambulance Service established under section 40.
 ambulance service quality assurance committee (or ASQAC) means a committee established under section 195A.
 ambulance services, for part 4.6 (Other approved providers)—see section 60.
 ASQAC—see ambulance service quality assurance committee.
+assistant commissioner—see section 13.
 at premises includes in or on the premises.
 basic health benefits, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
-built-up area means an area declared to be a built-up area under section 65.
+built-up area—see section 6A.
 building code—see the Building Act 2004, section 136 (1).
 bushfire abatement zone means a bushfire abatement zone declared under section 71.
-bushfire council means the ACT Bushfire Council established under section 127.
 bushfire management requirement means a requirement mentioned in section 74 (3) (a) (Content of strategic bushfire management plan).
 bushfire operational plan means a bushfire operational plan approved under section 78.
 bushfire season, for division 5.6.2 (Controlled activities and offences relating to fire)—see section 119.
@@ -67,7 +68,7 @@ closure notice means a closure notice issued under section 86 (2) (Notices for p
 commissioner means the ACT Emergency Services Commissioner.
 commissioner’s guidelines—see section 11 (1) (Commissioner may make guidelines).
 committee, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
-community communication and information plan means the community communication and information plan mentioned in section 149.
+community communication and information plan—see section 149 (1).
 conservator means the conservator of flora and fauna.
 contributor, to a health benefits fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 cooperative arrangement—see section 176.
@@ -84,6 +85,8 @@ emergency controller means the person appointed under section 150A (2).
 emergency management means the establishment of plans, structures and arrangements to coordinate the resources of agencies and other entities in a comprehensive approach to—
   (a) the assessment of hazards and emergency risks; and
   (b) the prevention of, preparedness for, response to and recovery from, emergencies.
+emergency operation, for chapter 8 (Volunteers)—see section 182A.
+emergency operation notice, for chapter 8 (Volunteers)—see section 182B.
 emergency plan means the emergency plan made under section 147.
 emergency risk includes the risk of an emergency arising from—
   (a) civil defence requirements associated with warlike action; or
@@ -103,7 +106,8 @@ fire appliance includes—
   (c) any apparatus for alerting the occupants of a building to a fire or facilitating the evacuation of the building; and
   (d) equipment used for the control or evacuation of smoke from a building.
 firefighting services, for part 4.6 (Other approved providers)—see section 60.
-firework means a firework within the meaning of the Dangerous Substances (Explosives) Regulation 2004, dictionary other than a general use firework within the meaning of that regulation, section 259.
+fire permit, for part 5.6 (Total fire ban, controlled activities, related offences and fire permits)—see section 126A.
+firework, for part 5.6 (Total fire ban, controlled activities, related offences and fire permits)—see section 113A.
 hazard means a thing (including an intrinsic property of a thing), or a situation, with potential to—
   (a) cause the death of or harm to a person; and
   (b) damage property or the environment.
@@ -119,6 +123,7 @@ Examples of incidents
 3 a fire, explosion or release of energy
 health benefits fund, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 health benefits organisation, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
+high risk activity, for part 5.6 (Total fire ban, controlled activities, related offences and fire permits)—see section 113A.
 improvement notice means an improvement notice issued under section 86 (2) (Notices for premises).
 information holder, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
 inspector means a person appointed as an inspector under section 99.
@@ -144,13 +149,15 @@ owner, of land, includes the lessee or occupier of the land.
 person in charge, of land or premises, for part 5.5 (Inspectors and investigators—see section 98.
 premises includes any land, structure or vehicle and any part of an area of land, a structure or vehicle.
 protected information, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
+recovery coordinator—see section 174B (2).
+recovery operation means an operation for the purposes of recovering, or preparing to recover, from an emergency.
 reference month, for schedule 1 (Ambulance levy)—see schedule 1, section 1.3.
 relevant chief officer, for division 5.4.1 (Notices and directions for premises)—see section 85.
 rescue includes the release or removal to a safe place of any person, animal or property trapped or endangered because of fire, accident, hazardous material incident, explosion, natural disaster or similar event.
 rescue services, for part 4.6 (Other approved providers)—see section 60.
 response operation, for part 4.6 (Other approved providers)—see section 60.
 reviewable decision, for chapter 9 (Notification and review of decisions)—see section 185.
-rural area—see section 65 (4).
+rural area—see section 6B.
 rural fire service means the ACT Rural Fire Service established under section 51.
 SEMSOG––see section 141.
 sensitive information, for schedule 1A (Ambulance service quality assurance committee)—see section 1A.1.
@@ -161,5 +168,7 @@ standards and protocols, for an emergency service, means the standards and proto
 strategic bushfire management plan means the strategic bushfire management plan under section 72.
 structure includes industrial plant and equipment.
 support unit, for part 7.4 (Commonwealth, interstate and overseas cooperation)—see section 175.
+territory agency, for division 7.3.3 (Recovery coordinator)—see section 174A.
+total fire ban, for part 5.6 (Total fire ban, controlled activities, related offences and fire permits)—see section 114 (2).
 vehicle includes an aircraft, boat and train.
 volunteer member means a person appointed as a volunteer member of an emergency service under section 59B.

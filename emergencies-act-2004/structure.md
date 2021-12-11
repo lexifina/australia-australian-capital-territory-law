@@ -1,4 +1,6 @@
 # Chapter 1 Preliminary
+## Part 1.1 Preliminary
+## Part 1.2 Area concepts
 # Chapter 2 Emergency services commissioner
 # Chapter 3 Chief officers
 ## Part 3.1 Chief officers—appointments and responsibilities
@@ -14,7 +16,6 @@
 ## Part 4.6 Other approved providers
 ## Part 4.7 Services from outside ACT
 # Chapter 5 Fire management
-## Part 5.1 Interpretation for ch 5
 ## Part 5.2 Fire response and control
 ## Part 5.3 Bushfire prevention
 ## Part 5.4 Fire prevention—premises
@@ -25,10 +26,12 @@
 ### Division 5.5.2 Appointment and general powers
 ### Division 5.5.3 Inspectors
 ### Division 5.5.4 Investigators
-## Part 5.6 Total fire bans, controlled activities and related offences
+## Part 5.6 Total fire ban, controlled activities, related offences and fire permits
+### Division 5.6.1A Definitions—pt 5.6
 ### Division 5.6.1 Total fire bans
 ### Division 5.6.2 Controlled activities and offences relating to fire
-# Chapter 6 The bushfire council
+### Division 5.6.3 Fire permits
+# Chapter 6 Multi-hazard advisory council
 # Chapter 7 Emergency management
 ## Part 7.1 Security and Emergency Management Senior Officials Group
 ## Part 7.2 Emergency plan
@@ -38,6 +41,7 @@
 ### Division 7.3.1B Declared emergencies
 ### Division 7.3.1C General provisions applying if emergency controller appointed
 ### Division 7.3.2 Other emergencies
+### Division 7.3.3 Recovery coordinator
 ## Part 7.4 Commonwealth, interstate and overseas cooperation
 ## Part 7.5 Emergency relief funds
 # Chapter 8 Volunteers
@@ -45,3 +49,4 @@
 # Chapter 10 Miscellaneous
 ## Part 10.1 Other offences relating to fires
 ## Part 10.2 Other miscellaneous provisions
+# Chapter 12 Transitional—Emergencies Amendment Act 2021

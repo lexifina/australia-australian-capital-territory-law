@@ -14,7 +14,5 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 11 | 92 | give direction for provision or installation of fire appliance | occupier of premises to which direction relates
 12 | 106 (1) | give direction to take action | owner of premises to which direction relates
 13 | 109 | give direction to comply with section 120, bushfire management requirement or bushfire operational plan | entity that is given direction
-14 | 118 (1) | refuse to issue permit | applicant for permit
-15 | 118 (5) | issue permit subject to condition | applicant for permit
-16 | 124 | refuse to issue permit | applicant for permit
-17 | 124 | issue permit subject to a condition | applicant for permit
+14 | 126A | refuse to issue permit | applicant for permit
+15 | 126A (4) (a) (iv) | issue permit subject to condition | applicant for permit
