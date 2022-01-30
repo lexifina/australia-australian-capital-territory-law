@@ -54,6 +54,7 @@ co-tenant—see section 6AA.
 crisis accommodation—see section 126.
 database, for part 7 (Residential tenancy databases)—see section 87.
 database operator, for part 7 (Residential tenancy databases)—see section 87.
+education provider—means an entity mentioned in the Education Act 2004, table 9A, column 3.
 eligible impacted property—see the Civil Law (Sale of Residential Property) Act 2003, section 9A (1).
 energy efficiency rating means the energy efficiency rating contained in an energy efficiency rating statement.
 energy efficiency rating statement—see the Construction Occupations (Licensing) Act 2004, section 123AC.
