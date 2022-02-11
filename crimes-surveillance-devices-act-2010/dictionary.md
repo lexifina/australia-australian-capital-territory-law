@@ -16,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • working day.
 applicant, for a warrant, means the law enforcement officer who applies, or on whose behalf an application is made, for the warrant.
 Australian Crime Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth).
+body-worn camera—see section 43A.
 chief officer means—
   (a) in relation to the Australian Federal Police—the chief police officer; and
   (b) in relation to the Australian Crime Commission—the chief executive officer of the Australian Crime Commission; and

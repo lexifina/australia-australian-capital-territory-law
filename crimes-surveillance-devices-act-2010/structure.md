@@ -10,4 +10,5 @@
 ### Division 5.2 Reporting and record-keeping
 ### Division 5.3 Inspections
 ### Division 5.4 General
+## Part 5A Body-worn cameras
 ## Part 6 Miscellaneous
