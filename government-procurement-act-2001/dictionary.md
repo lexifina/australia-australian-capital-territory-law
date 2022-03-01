@@ -28,10 +28,12 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • the Territory.
 approved auditor, for part 2B (Secure local jobs code)—see section 22O.
 audit guidelines, for part 2B (Secure local jobs code)—see section 22E.
+authorised person, for subdivision 2B.4.2 (Access to premises)—see section 22UA.
 board means the Australian Capital Territory Government Procurement Board established under section 5.
 chairperson means the chairperson of the board.
 code, for part 2B (Secure local jobs code)—see section 22E.
 commercial account, for part 4 (Interest on commercial accounts)—see section 44.
+complainant means a person who makes a complaint under section 22Q (1) in relation to an entity that holds a secure local jobs code certificate.
 confidential text, of a notifiable contract, for part 3 (Notifiable contracts)—see section 24.
 contract, for part 3 (Notifiable contracts)—see section 24.
 council, for part 2B (Secure local jobs code)—see section 22E.
@@ -47,7 +49,9 @@ notifiable contract, for part 3 (Notifiable contracts)—see section 25.
 notifiable contracts register, for part 3 (Notifiable contracts)—see section 27 (1).
 notifiable invoice, for part 3A (Notifiable invoices)—see section 42A.
 notifiable invoices register, for part 3A (Notifiable invoices)—see section 42B.
+occupier, of premises, for subdivision 2B.4.2 (Access to premises)—see section 22UA.
 payment date, for a commercial account, for part 4 (Interest on commercial accounts)—see section 44.
+premises, for subdivision 2B.4.2 (Access to premises)—see section 22UA.
 procurement—see section 2A.
 public text, of a notifiable contract, for part 3 (Notifiable contracts)—see section 24.
 registrar, for part 2B (Secure local jobs code)—see section 22E.

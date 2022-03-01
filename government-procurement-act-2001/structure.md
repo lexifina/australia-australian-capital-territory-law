@@ -10,7 +10,9 @@
 ### Division 2B.1 Application and definitions—pt 2B
 ### Division 2B.2 Requirements for procurement by territory entities
 ### Division 2B.3 Secure local jobs code certificates and code
-### Division 2B.4 Noncompliance with code
+### Division 2B.4 Ensuring compliance with code
+#### Subdivision 2B.4.1 Compliance measures
+#### Subdivision 2B.4.2 Access to premises
 ### Division 2B.5 Secure local jobs code registrar
 ### Division 2B.6 Secure local jobs code advisory council
 ## Part 3 Notifiable contracts
