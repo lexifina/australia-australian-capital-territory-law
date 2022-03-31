@@ -15,6 +15,7 @@
 ### Division 3.3.1 Annual reporting
 ### Division 3.3.2 Reporting of travel
 ### Division 3.3.3 Other reporting
+### Division 3.3.4 Failing to report
 ## Part 3.4 Provisions applying to all reports
 ### Division 3.4.1 What information is to be reported
 ### Division 3.4.2 How report is to be made
@@ -25,7 +26,6 @@
 ## Part 3.6 Suspension of reporting obligations
 ## Part 3.7 Notice of reporting obligations
 ## Part 3.8 Protected witnesses
-## Part 3.9 Reasonable steps to comply with reporting obligations
 ## Part 3.10 Failure to comply with reporting obligations—public notices
 ## Part 3.11 Entry and search warrants
 ### Division 3.11.1 Preliminary

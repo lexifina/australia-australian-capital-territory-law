@@ -94,11 +94,10 @@ registered corresponding prohibition order, for chapter 5A (Orders prohibiting o
 registrable offence—see section 10.
 registrable offender—see section 8 and section 9.
 registration notice, for chapter 5A (Orders prohibiting offender conduct)—see section 132O (Notice of registration of unamended corresponding prohibition order).
-relevant time, for a report by a registrable offender in a year—see section 37 (5).
+relevant time, for a report by a registrable offender in a year—see section 37 (3).
 reporting obligation—see section 19.
+reporting obligation provision—see section 20.
 reporting obligations notice—see section 103.
-reporting offence—see section 20.
-reporting offence provision—see section 20.
 reporting period, for a registrable offender, means the period, worked out under part 3.5 (Reporting period), during which the offender must comply with the offender’s reporting obligations.
 return date, for an application, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
 reviewable decision, for chapter 5B (Notification and review of decisions)—see section 132ZV.
@@ -109,7 +108,7 @@ sentence means—
 and includes a finding of guilt mentioned in section 7 (1) (c) or (e).
 supervising authority, for a person, means the entity declared by regulation to be the person’s supervising authority.
 suspension order—see section 96.
-travel details, for travel by a registrable offender—see section 42 (c).
+travel details, for travel by a registrable offender—see section 42 (2).
 unprotected registrable offender declaration—see section 111 (b).
 witness protection program—see the Witness Protection Act 1996, dictionary.
 young person means a person who is not yet an adult.
