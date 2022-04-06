@@ -29,7 +29,7 @@ application—
     (ii) a matter heard or dealt with by the tribunal on its own initiative.
 Examples—authorising laws under which a matter may be referred to the tribunal
 1 Crimes Act 1900, s 331 (Referral to ACAT)
-2 Human Rights Commission Act 2005, s 53A (Referral of discrimination complaints)
+2 Human Rights Commission Act 2005, s 53A (Referral of discrimination complaints other than commission-initiated discrimination matters)
 appropriate court, for part 7 (Enforcement and offences)—see section 69A.
 assessor means a person appointed under section 97.
 authorising law means—
