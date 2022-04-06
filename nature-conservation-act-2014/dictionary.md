@@ -210,6 +210,7 @@ regionally conservation dependent species means a species included in the region
 regionally threatened species means a species included in the regionally threatened category in the threatened native species list.
 regular migratory species—see section 98.
 regulatory action, against a licensee—see section 298.
+relevant Assembly committee, for a provision, means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for the provision.
 relevant ecological community—see section 98.
 relevant species—see section 98.
 repair damage direction, for part 9.3 (Reserves—repairing damage)—see section 229 (2).
