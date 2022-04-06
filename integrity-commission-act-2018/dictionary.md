@@ -150,7 +150,7 @@ public official—see section 12.
 public sector entity—see section 14.
 referral entity—see section 106.
 registered party—see the Electoral Act 1992, dictionary.
-relevant Assembly committee means the committee of the Legislative Assembly whose functions include the examination of matters related to corruption and integrity in public administration.
+relevant Assembly committee means the standing committee of the Legislative Assembly whose functions include the examination of matters related to corruption and integrity in public administration.
 restricted information—see section 76.
 SES member—see the Public Sector Management Act 1994, dictionary.
 serious corrupt conduct—see section 10.
