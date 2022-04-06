@@ -152,6 +152,7 @@ protected information, for schedule 1A (Ambulance service quality assurance comm
 recovery coordinator—see section 174B (2).
 recovery operation means an operation for the purposes of recovering, or preparing to recover, from an emergency.
 reference month, for schedule 1 (Ambulance levy)—see schedule 1, section 1.3.
+relevant Assembly committee, for a provision, means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for the provision.
 relevant chief officer, for division 5.4.1 (Notices and directions for premises)—see section 85.
 rescue includes the release or removal to a safe place of any person, animal or property trapped or endangered because of fire, accident, hazardous material incident, explosion, natural disaster or similar event.
 rescue services, for part 4.6 (Other approved providers)—see section 60.
