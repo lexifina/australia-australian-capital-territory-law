@@ -17,9 +17,7 @@ Note A provision of a law that gives an entity (including a person) a function a
   (a) the DI fund manager; and
   (b) the regulator; and
   (c) 3 members appointed by the Minister.
-Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
-Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
-Note 3 Certain Ministerial appointments require consultation with an Assembly committee and are disallowable (see Legislation Act, div 19.3.3).
+Note For laws about appointments, see the Legislation Act, pt 19.3.
 (2) The Minister must appoint the following members:
   (a) 1 member that the Minister is satisfied represents the interests of employers;
   (b) 1 member that the Minister is satisfied represents the interests of workers;
@@ -86,12 +84,10 @@ material interest—a member has a material interest in an issue if the member h
   (b) the nature of the interest disclosed; and
   (c) any decision by the committee under section 3.11 (2).
 (2) The chair must also give the Minister, not later than 31 days after the end of each financial year, a statement that sets out the information given to the Minister in reports under subsection (1) that relate to disclosures made during the previous financial year.
-(3) The Minister must give a copy of the statement to the relevant committee of the Legislative Assembly not later than 31 days after the day the Minister receives the statement.
+(3) The Minister must give a copy of the statement to the relevant Assembly committee not later than 31 days after the day the Minister receives the statement.
 (4) In this section:
 material interest means—see section 3.11 (4).
-relevant committee means—
-  (a) a standing committee of the Legislative Assembly nominated by the Speaker for subsection (3); or
-  (b) if no nomination under paragraph (a) is in effect—the standing committee of the Legislative Assembly responsible for public accounts.
+relevant Assembly committee means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for subsection (3).
 ## 3.13 Protection of members from liability
 (1) A member is not civilly liable for anything done or omitted to be done honestly and without recklessness—
   (a) in the exercise of a function under this Act; or
