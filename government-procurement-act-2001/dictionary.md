@@ -55,6 +55,7 @@ premises, for subdivision 2B.4.2 (Access to premises)—see section 22UA.
 procurement—see section 2A.
 public text, of a notifiable contract, for part 3 (Notifiable contracts)—see section 24.
 registrar, for part 2B (Secure local jobs code)—see section 22E.
+relevant Assembly committee, for a provision, means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for the provision.
 relevant date, for the payment of a commercial account, for part 4 (Interest on commercial accounts)—see section 44.
 responsible chief executive officer means––
   (a) for a directorate—the responsible director-general of the directorate under the Financial Management Act 1996; or
