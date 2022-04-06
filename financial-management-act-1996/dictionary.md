@@ -85,6 +85,7 @@ public money means all money received by the Territory, including the proceeds o
     (i) in repayment of an investment made by the Territory for a territory authority; or
     (ii) as returns on such an investment.
 public trading enterprise sector means those organisations whose primary function is to provide goods and services that are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
+relevant Assembly committee, for a provision, means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for the provision.
 relevant territory authority, for part 9 (Governance of territory authorities)—see section 72.
 responsible director-general, in relation to a directorate, means—
   (a) if the directorate is constituted by an administrative unit or a part of an administrative unit—the director-general of that administrative unit; or
