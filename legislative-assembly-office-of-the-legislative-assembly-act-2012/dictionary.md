@@ -8,7 +8,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Legislative Assembly
 • public sector standards commissioner
 • Speaker.
-administration and procedure committee means the standing committee of the Legislative Assembly responsible for the administration and procedure of the Assembly.
 clerk means the person appointed as Clerk of the Legislative Assembly under section 9.
 office—see section 5 (1).
 Office of the Legislative Assembly means the Office of the Legislative Assembly established under section 5.
+relevant Assembly committee means the standing committee of the Legislative Assembly whose responsibilities include the examination of matters relating to the internal administration and procedure of the Assembly.
