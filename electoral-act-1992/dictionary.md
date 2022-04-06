@@ -215,7 +215,7 @@ related—2 political parties are taken to be related if—
   (b) both are parts of the same political party.
 Example
 the ACT branch of a political party and the national secretariat of the same political party
-relevant Assembly committee means the committee of the Legislative Assembly whose functions include the examination of electoral matters.
+relevant Assembly committee means the standing committee of the Legislative Assembly whose functions include the examination of electoral matters.
 relevant planning application, for division 14.4A (Gifts from property developers)—see section 222E.
 reportage or commentary, for division 17.3 (Campaigning offences)—see section 291.
 reporting agent, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
