@@ -87,11 +87,9 @@ material interest—a council member has a material interest in an issue if the 
 ## (b) the nature of the interest disclosed; and
 ## (c) any decision by the council under section 2.7.
 ## (2) The chair must also give the Minister, not later than 31 days after the end of each financial year, a statement that sets out the information given to the Minister in reports under subsection (1) that relate to disclosures made during the previous financial year.
-## (3) The Minister must give a copy of the statement to the relevant committee of the Legislative Assembly within 31 days after the day the Minister receives the statement.
-## (4) In this section:
-relevant committee means—
-  (a) a standing committee of the Legislative Assembly nominated by the Speaker for subsection (3); or
-  (b) if no nomination under paragraph (a) is in effect—the standing committee of the Legislative Assembly responsible for public accounts.
+## (3) The Minister must give a copy of the statement to the relevant Assembly committee within 31 days after the day the Minister receives the statement.
+(4) In this section:
+relevant Assembly committee means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for subsection (3).
 ## 2.9 Ending appointment of council member
 ## (2) The Minister must end the appointment of an appointed member of the council if—
 ## (a) the member has become bankrupt or personally insolvent; or
