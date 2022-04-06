@@ -33,7 +33,6 @@ multi-entity audit—see section 10B.
 non-public sector entity—see section 13B.
 performance audit, of a person, body or thing—see section 11B.
 protected information, for part 5A (Protected information)—see section 34.
-public accounts committee means the committee of the Legislative Assembly whose functions include the examination of financial statements for the Territory, a directorate or a territory authority.
 public sector company means—
   (a) a subsidiary of a territory authority; or
   (b) a territory-owned corporation; or
@@ -41,6 +40,7 @@ public sector company means—
   (d) a company prescribed by regulation; or
   (e) any other company in which the Territory or another territory entity has a controlling interest.
 public sector entity—see section 13A.
+relevant Assembly committee means the standing committee of the Legislative Assembly whose responsibilities include the examination of matters relating to the Auditor-General.
 responsible director-general means—
   (a) for a directorate—the responsible director-general in relation to the directorate under the Financial Management Act; and
   (b) for a territory authority—the chief executive officer of the authority under the Financial Management Act; and
