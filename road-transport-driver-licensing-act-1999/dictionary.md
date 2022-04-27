@@ -9,7 +9,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • instrument.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
 • another jurisdiction
-• Australian Transport Council
 • driver
 • jurisdiction
 • motor vehicle
