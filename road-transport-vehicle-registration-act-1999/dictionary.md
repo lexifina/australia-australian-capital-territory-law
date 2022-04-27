@@ -8,7 +8,6 @@ Note 2 In particular, the Legislation Act 2001, dict, pt 1, defines the followin
 • instrument (see s 14).
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
 • another jurisdiction
-• Australian Transport Council
 • driver
 • jurisdiction
 • light rail vehicle
@@ -52,7 +51,13 @@ GVM––see gross vehicle mass.
 heavy vehicle—
   (a) means a motor vehicle or trailer with a GVM more than 4.5t; but
   (b) does not include a light rail vehicle.
-identification plate means a plate approved to be placed on a vehicle, or taken to have been placed on a vehicle, under the Motor Vehicle Standards Act 1989 (Cwlth), section 10 (1) as in force immediately before the repeal of that Act.
+identification plate means a plate approved to be placed on a vehicle, or taken to have been placed on a vehicle, under the Motor Vehicle Standards Act 1989 (Cwlth) (repealed), section 10A.
+Note 1 Identification plates were approved for vehicles that complied with the national standards. Identification plates were also approved for vehicles that failed to comply, but either the noncompliance was minor and inconsequential, or the vehicle complied to an extent that made it suitable for supply to the market (see Motor Vehicle Standards Act 1989 (Cwlth) (repealed), s 10A).
+Note 2 Despite the repeal of the Motor Vehicle Standards Act 1989 (Cwlth) on 1 July 2021—
+  (a) approvals in force immediately before the repeal continue in force until 1 July 2022; and
+  (b) new approvals may be given between 1 July 2021 to 1 July 2022, and remain in force until 1 July 2022.
+(See Road Vehicle Standards (Consequential and Transitional Provisions) Act 2018 (Cwlth), sch 3, s 4 and s 6.)
+Note 3 Identification plates include compliance plates placed, or taken to be placed, on vehicles as early as 1972 (see Motor Vehicle Standards Act 1989 (Cwlth) (repealed), s 42 (d)).
 inspect, in relation to a registrable vehicle, includes observe the vehicle’s performance, with or without the use of instrumentation.
 premises means any place.
 RAV means the Register of Approved Vehicles kept under the Road Vehicle Standards Act 2018 (Cwlth), section 14.
