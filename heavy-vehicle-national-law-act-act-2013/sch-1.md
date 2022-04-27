@@ -3,34 +3,6 @@
 [1.1] Section 5, definition of previous corresponding law, new paragraph 4
 insert
 4 For the purposes of paragraph 1, if a provision of this Law does not apply in a participating jurisdiction on the day the provision of its Application Act corresponding to section 4 of the Heavy Vehicle National Law Act 2012 of Queensland commences, and the provision later applies in the jurisdiction, the participation day for the jurisdiction in relation to the provision is taken to be the day the provision applies.
-[1.2] New sections 567A and 567B
-insert
-## 567A Power to require production of driver licence
-(1) An authorised officer may, for compliance purposes, require the driver of a heavy vehicle to produce for inspection by the officer the driver’s driver licence.
-(2) A person of whom a requirement is made under subsection (1) must comply with the requirement.
-Maximum penalty: 20 penalty units.
-Note It is an offence to produce false or misleading documents (see Criminal Code 2002, s 339).
-(3) An offence against this section is a strict liability offence.
-(4) It is a defence to a prosecution for an offence against subsection (2) if the defendant proves that the defendant—
-  (a) was not the driver of a heavy vehicle when required to produce the licence; and
-  (b) has a reasonable excuse for failing to produce the licence when required to do so; and
-  (c) within 3 days after being required to produce the licence, produces the licence as directed by the authorised officer.
-Note A defendant has a legal burden in relation to the matters mentioned in s (4) (see Criminal Code 2002, s 59).
-(5) The authorised officer may take a copy of, or an extract from, the driver’s driver licence.
-(6) The Legislation Act 2001, sections 133 and 134 apply to this section.
-## 567B Power to require people to disclose identity of driver
-(1) If the driver of a heavy vehicle is alleged to have committed an offence against this Law—
-  (a) the responsible person for the vehicle, or the person in possession of the vehicle, must, when required to do so by an authorised officer, give information (which must, if so required, be given in the form of a written statement signed by the person) about the name and home address of the driver at the time of the offence; and
-  (b) anyone else must, when required to do so by an authorised officer, give any information that the person can give that may lead to the identification of the driver.
-Maximum penalty: 20 penalty units.
-(2) It is a defence to a prosecution for an offence against subsection (1)(a) if the defendant proves that the defendant did not know and could not with reasonable diligence have found out the driver’s name and home address.
-Note A defendant has a legal burden in relation to the matters mentioned in s (2) (see Criminal Code 2002, s 59).
-(3) If—
-  (a) a written statement purporting to be given under subsection (1)(a) is produced in court in a prosecution of the person named in the statement as the driver of a vehicle at the time of an alleged offence against this Law; and
-  (b) the person does not appear before the court; and
-  (c) a copy of the statement was served on the person before the proceeding was begun;
-the statement is evidence without proof of signature that the named person was the driver of the vehicle at that time.
-(4) The Legislation Act 2001, sections 133 and 134 apply to this section.
 [1.3] Part 10.3, new division 4A
 insert
 Division 4A Cancelling, varying or suspending driver licences or disqualifying drivers
@@ -98,11 +70,6 @@ insert
 Evidence by an authorised officer of the contents of a document issued, or required to be kept, under this Law, that was examined by the officer while it was in someone else’s possession, may be given by the officer without the document being produced.
 Example—
 An authorised officer who examines a driver’s work diary may return the work diary to the driver to enable the driver to continue driving. The officer may give evidence of the contents of the work diary without producing it.
-[1.11] Section 737 (1)
-after
-section)
-insert
-other than an offence mentioned in section 567A or section 567B
 [1.31] New section 712 (ca) to (ch)
 insert
   (ca) a stated vehicle was or was not registered under the Road Transport (Vehicle Registration) Act 1999 on the basis of it being a heavy vehicle; or
