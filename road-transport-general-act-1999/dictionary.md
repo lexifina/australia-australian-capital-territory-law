@@ -32,9 +32,8 @@ all reasonable steps—
 another jurisdiction means a jurisdiction other than the ACT.
 approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved community work or social development program, for part 3 (Infringement notices for certain offences)—see section 21A.
-Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1, section 1.11 and section 1.13.
+Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards), section 1.10.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
-Australian Transport Council—see the National Transport Commission Act 2003 (Cwlth), section 4.
 authorised person means—
   (a) for part 3 (Infringement notices for certain offences)—see section 53A (3); and
   (b) in any other case—
@@ -47,7 +46,8 @@ bicycle means a vehicle with 2 or more wheels that is built to be propelled by h
   (c) does not include—
     (i) a wheelchair, wheeled recreational device or wheeled toy; or
     (ii) a vehicle (other than a vehicle mentioned in paragraph (b)) with an electric motor capable of generating a power output over 200W (whether or not the motor is operating); or
-    (iii) a vehicle that has an internal combustion engine.
+    (iii) a vehicle that has an internal combustion engine; or
+    (iv) a personal mobility device.
 combination means a group consisting of a motor vehicle connected to 1 or more other vehicles.
 conditional licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 corporation’s vehicle, for division 3.3A (Demerit points offences—corporation’s liability)—see section 40.
@@ -70,7 +70,8 @@ Note An external driver licence is a foreign driver licence or an external terri
 first offender—
   (a) for section 60 (Police officer or authorised person may require people to disclose identity of driver)—see section 60A; and
   (b) for division 4.2 (Licence suspension, disqualification and related matters)—see section 61AA.
-heavy vehicle infringement notice offence, for part 3 (Infringement notices for certain offences)—see section 21A.
+heavy vehicle infringement notice offence (or HVINO), for part 3 (Infringement notices for certain offences)—see section 21A.
+HVINO—see heavy vehicle infringement notice offence.
 illegal user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
@@ -91,6 +92,7 @@ light rail—
   (a) means a system of transport for public passengers using lightweight rail and rolling stock; and
   (b) includes tracks, catenaries, supports for tracks and catenaries, stops, pedestrian access to stops, signalling facilities and signalling equipment.
 light rail vehicle means a motor vehicle built to be used on light rail.
+MAI policy—see the Motor Accident Injuries Act 2019, section 286.
 motor vehicle means a vehicle built to be propelled by a motor that forms part of the vehicle, but does not include a personal mobility device.
 National Transport Commission—see the National Transport Commission Act 2003 (Cwlth), section 5.
 offence of culpable driving, for a person, means—
