@@ -11,7 +11,7 @@ A former occupant of a retirement village may vote on a measure or action relati
 resident means a resident entitled to vote.
 vote includes vote by proxy.
 ## 1.3 Method of voting
-## (1) A vote in relation to a measure or action (including a measure or action that requires a special resolution) may be taken by means of—
+## (1) A vote in relation to a measure or action (other than a measure or action that requires a special resolution) may be taken by means of—
 ## (a) a show of hands; or
 ## (b) a written ballot conducted in accordance with a regulation.
 ## (2) A regulation may require a vote in relation to a measure or action of a particular class or kind to be taken by means of a written ballot.
@@ -19,9 +19,9 @@ vote includes vote by proxy.
 ## (1) The operator of a retirement village must accept as the residents’ decision in relation to a measure or action that requires their consent the decision that is reported to the operator by—
 ## (a) an officer of the residents committee; or
 ## (b) if there is no residents committee for the village—a resident elected in accordance with section 1.3 as the representative of the residents of the village in relation to the measure or action concerned.
-## (2) A regulation may make provision in relation to the election of a representative of residents under subsection (1).
+## (2) A regulation may make provision in relation to the election of a representative of residents under subsection (1) (b).
 ## Part 1.3 Consent requiring special resolution
-## 1.5 Notice of special resolution
-If a measure or action requires a special resolution, a ballot must be conducted in the way prescribed by regulation.
+## 1.5 Written ballot required for special resolution
+A vote in relation to a measure or action that requires a special resolution must be taken by means of a written ballot conducted in the way prescribed by regulation.
 ## 1.6 How special resolution is carried
-A special resolution is carried only if it is passed by at least 75% of the number of residents of the retirement village who participate in the ballot.
+A special resolution is carried only if it is passed by at least 75% of the number of residents of the retirement village who participate in the written ballot.
