@@ -22,14 +22,14 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 19 | 62 | take disciplinary action | licensee
 20 | 62A (2) | give licensee direction | licensee directed
 21 | 72 | refuse to approve supplier | applicant for approval
-22 | 73A (3) (a) | cancel supplier’s approval | supplier
-23 | 73A (3) (b) | suspend supplier’s approval | supplier
-24 | 73A (3) (c) | reprimand supplier | supplier
+22 | 73A (3) (a) | cancel supplier’s approval | approved supplier
+23 | 73A (3) (b) | suspend supplier’s approval | approved supplier
+24 | 73A (3) (c) | reprimand supplier | approved supplier
 25 | 75 | refuse to approve technician | applicant for approval
 26 | 78 | refuse to approve transfer of technician’s approval | applicant for transfer
-27 | 79 (3) (a) | cancel technician’s approval | technician
-28 | 79 (3) (b) | suspend technician’s approval | technician
-29 | 79 (3) (c) | reprimand technician | technician
+27 | 79 (3) (a) | cancel technician’s approval | approved technician
+28 | 79 (3) (b) | suspend technician’s approval | approved technician
+29 | 79 (3) (c) | reprimand technician | approved technician
 30 | 84 | refuse to renew approved technician’s approval | applicant for renewal
 31 | 108 | refuse to approve repossession of gaming machine | applicant for approval
 32 | 109 (2) | approve repossession of gaming machine subject to condition | applicant for approval

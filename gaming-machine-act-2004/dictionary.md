@@ -42,7 +42,7 @@ advisory board, for division 11.3 (Diversification and sustainability support fu
 approval, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 approval certificate, for an approved technician—see section 80 (2) (a).
 approval-holder—see section 38A.
-approved supplier means a person approved under section 72 as a supplier.
+approved supplier—see section 72 (Application and approval of corporation as supplier).
 approved technician means an individual approved under section 75 or section 76 as a technician.
 associated organisation, for a club, means an entity declared to be an associated organisation under section 147 (1).
 associated organisation declaration, for part 9 (Club administration)—see section 144A.
