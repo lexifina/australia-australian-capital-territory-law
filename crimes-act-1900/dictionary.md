@@ -60,6 +60,7 @@ committed an offence, for subdivision 10.7.2 (Preliminary procedures in relation
 Commonwealth Crimes Act, for part 10 (Criminal investigation)—see section 185.
 compliance period, for division 10.9 (Fortification of premises)—see section 252M.
 conduct, for part 13 (Unfitness to plead and mental impairment)—see the Criminal Code, section 13.
+consent, for part 3 (Sexual offences)—see section 50B.
 contaminate, for goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
 conveyance, for part 10 (Criminal investigation)—see section 185.
 corresponding law, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
@@ -154,6 +155,7 @@ serious offence—
   (b) for division 10.4A (Crime scene powers)—see section 210A; and
   (c) for part 13 (Unfitness to plead and mental health impairment)—see section 300 (1); and
   (d) for division 13.4 (Magistrates Court—finding of not guilty because of mental impairment)—see section 325.
+sexual act, for part 3 (Sexual offences)—see section 50C.
 sexual intercourse, for part 3 (Sexual offences)—see section 50 (1).
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
