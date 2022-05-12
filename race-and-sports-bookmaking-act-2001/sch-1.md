@@ -32,6 +32,6 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 29 | 58 (3) | reject referral | backer making referral
 30 | 60 (1) or 62 (1) | give direction | entity to whom direction given
 31 | 68 (1) | cancel licence | entity whose licence cancelled
-32 | 68 (7) or 69 (1) | take disciplinary action | licensee
+32 | 68 (8) or 69 (1) | take disciplinary action | licensee
 33 | 72 (1) or (2) | not to end licence suspension | licensee
 34 | 91 (2) | amend, or not amend, nature or amount of security guarantee | bookmaker whose security guarantee affected

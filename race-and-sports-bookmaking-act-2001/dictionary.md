@@ -9,6 +9,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • found guilty
 • gambling and racing commission
 • individual
+• person (see s 160)
 • reviewable decision notice.
 agent, for division 6.2 (Betting disputes referred to commission)—see section 56.
 application, for a licence, includes an application for renewal of a licence.
@@ -44,12 +45,10 @@ licence means any of the following licences:
   (b) a race bookmaker’s agent licence;
   (c) a sports bookmaking licence;
   (d) a sports bookmaker’s agent licence.
-licensee, of a sports bookmaking licence held by a syndicate, includes each member of the syndicate.
 nominated person—see section 93 (Meaning of nominated person).
 operative day, for a change of the conditions of a licence, means the day after—
   (a) if written notice of the change is delivered to the licensee or to the last-known address of the licensee—the day when the notice is delivered; or
   (b) if written notice of the change is posted to the licensee at the last-known address of the licensee—the day when the notice would be delivered in the ordinary course of post.
-person includes a syndicate.
 proprietary company—see the Corporations Act, section 9.
 race means—
   (a) any of the following, whether conducted within or outside the ACT:
@@ -69,10 +68,11 @@ reviewable decision, for part 10 (Notification and review of decisions)—see se
 rules for sports bookmaking means the rules determined under section 23 (Rules for sports bookmaking).
 security guarantee—
   (a) for a person who applies for, or holds, a race bookmaking licence—see section 4B; or
-  (b) for a person who applies for, or holds, a sports bookmaking licence—see section 92 (3); or
+  (b) for a corporation that applies for, or holds, a sports bookmaking licence—see section 92 (3); or
   (c) for a person who applies for an approval in relation to a designated sports bookmaking venue under section 49 (Issue or refusal of approval for sports bookmaking venue)—see section 92 (4).
 sports bet means a bet on, or in relation to, a sports bookmaking event.
-sports bookmaker means the holder of a sports bookmaking licence.
+sports bookmaker means a corporation that holds a sports bookmaking licence.
+sports bookmaker’s agent means a person who holds a sports bookmaker’s agent licence.
 sports bookmaking—
   (a) means the carrying on (whether regularly or on 1 or more occasions) of the business of receiving or negotiating sports bets; but
   (b) does not include conducting a totalisator.
