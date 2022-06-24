@@ -20,6 +20,7 @@ activity accreditation standards, for an activity accreditation scheme, means th
 activity licence means a licence under section 30.
 activity premises alteration, for a licensable public health risk activity, means a structural alteration of premises where the activity is carried on, including a structural alteration of any fixtures or fittings of the premises.
 activity register—see section 56D.
+affected person, for division 6C.6 (Exemptions)—see section 118ZC.
 analyst means the following appointed under section 15:
   (a) the government analyst;
   (b) an analyst.
@@ -30,19 +31,25 @@ approved person means—
 authorisation means—
   (a) for a public health officer exercising a function under this Act—an authorisation given to the officer under section 12A (1) to exercise the function; and
   (b) for an authorised medical officer exercising a function under this Act—an authorisation given to the officer under section 14 (1) to exercise the function.
+authorised collector, for part 7A (Check-in information—COVID-19)—see section 123A.
 authorised medical officer means an authorised medical officer under section 13.
 authorised officer, in relation to the exercise of a function under this Act, means—
   (a) the chief health officer; or
   (b) a public health officer authorised under section 12A (1) to exercise the function; or
   (c) an authorised medical officer authorised under section 14 (1) to exercise the function.
 automatic, suspension of registration—see section 56Q (1).
+Check In CBR app, for part 7A (Check-in information—COVID-19)—see section 123A.
+check-in information, for part 7A (Check-in information—COVID-19)—see section 123A.
 chief health officer means the chief health officer under section 7.
+chief health officer direction, for part 6C (Public health measures—COVID-19)—see section 118U (1).
+chief health officer exemption guideline, for part 6C (Public health measures—COVID-19)—see section 118N.
 code of practice means a code of practice determined under section 133.
 community pharmacy, for part 3B (Pharmacies)—see section 66U.
 connected with an offence, for part 5 (Inspection and analysis)—see section 75 (Definitions for pt 5).
 contact means a person who—
   (a) has been or may have been a source of infection to a person who has a notifiable condition; or
   (b) has been or may have been exposed to infection by a person with a notifiable condition.
+contact tracing, for part 7A (Check-in information—COVID-19)—see section 123A.
 contravention, of this Act or a corresponding public health risk law, includes the contravention of a notice, direction or other instrument given under this Act or such a law.
 corresponding public health risk law, in relation to a public health risk activity or a public health risk procedure, means a law of a State or another Territory that regulates the performance of the activity or procedure, as the case may be.
 counsellor means—
@@ -50,6 +57,11 @@ counsellor means—
   (b) a nurse counsellor; or
   (c) a social worker.
 course of instruction, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
+court, for part 7A (Check-in information—COVID-19)—see section 123A.
+COVID-19 means the coronavirus disease 2019 (COVID-19) caused by the novel coronavirus SARS-CoV-2.
+COVID-19 emergency declaration means a declaration made under section 119 because of the coronavirus disease 2019 (COVID-19) caused by the novel coronavirus SARS-CoV-2.
+COVID-19 management declaration means a declaration made under section 118O.
+COVID-19 public health direction, for part 7A (Check-in information—COVID-19)—see section 123A.
 defined influential person, in relation to a person proposing to carry on, or carrying on, a public health risk activity, means—
   (a) if the person is to employ or otherwise engage, or employs or otherwise engages, a manager to carry on the activity, or that part of the activity that involves the performance of public health risk procedures—the manager; and
   (b) if the person is a body corporate—a director, secretary, officer or manager of the body; and
@@ -62,6 +74,8 @@ EIS—see the Planning and Development Act 2007, dictionary, definition of envir
 emergency declaration means a declaration under section 119.
 emergency direction means a direction under section 120.
 environmental impact statement—see the Planning and Development Act 2007, dictionary, definition of environmental impact statement.
+externally reviewable decision, for division 6C.6 (Exemptions)—see section 118ZC.
+external reviewer, for division 6C.6 (Exemptions)—see section 118ZC.
 health worker, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
 improvement notice means a notice under section 58.
 insanitary condition means a condition, state or activity in relation to any of the following that a reasonable person would consider to be, or to be liable to become, a public health risk, damaging to public health or offensive to community health standards:
@@ -71,10 +85,13 @@ insanitary condition means a condition, state or activity in relation to any of 
   (d) refuse;
   (e) noise or an emission;
   (f) any other matter or thing.
+internally reviewable decision , for division 6C.6 (Exemptions)—see section 118ZC.
 licensable public health risk activity means an activity declared to be a licensable public health risk activity under section 18.
 licensable public health risk procedure, for a licensable public health risk activity, means a procedure declared to be a licensable public health risk procedure for the activity under section 18.
 location, for a registrable public health risk activity, means the precise location on the premises where the activity is being carried on.
 location-specific, for a registrable public health risk activity, means that the activity is indicated under section 18 (4) to be location-specific.
+Ministerial direction, for part 6C (Public health measures—COVID-19)—see section 118R (1).
+Ministerial exemption guideline, for part 6C (Public health measures—COVID-19)—see section 118N.
 notifiable condition means a disease or medical condition—
   (a) determined by the Minister under section 100 (1) (a); or
   (b) declared by the chief health officer under section 101 (1) (a).
@@ -88,6 +105,7 @@ occupier—
 offence, for part 5 (Inspection and analysis)—see section 75 (Definitions for pt 5).
 pathologist includes an assistant, and a technical officer, employed in a pathology laboratory.
 patient, in relation to a doctor, means a person being professionally attended by the doctor.
+permitted purpose, for part 7A (Check-in information—COVID-19)—see section 123A.
 place means premises or land.
 premises includes a vehicle, vessel or aircraft, and a permanent or temporary structure.
 procedure accreditation scheme means a procedure accreditation scheme determined under section 42D.
@@ -113,18 +131,25 @@ registered person means a person registered under section 56G to carry on a regi
 registrable public health risk activity means a public health risk activity declared to be registrable under section 18 (3).
 registration means the registration, under section 56G, of a person to carry on a registered activity.
 registration certificate means a registration certificate under section 56H.
+relevant decision-maker, for division 6C.6 (Exemptions)—see section 118ZC.
 responsible person, in relation to a person having a notifiable condition, means—
   (a) a doctor; or
   (b) a nurse practitioner; or
   (c) a counsellor who has counselled the person in relation to the condition; or
   (d) a person who is responsible for the care, support or education of the person.
 reviewable decision, for part 9 (Review and appeals)—see section 130.
+segregation or isolation direction, for part 6C (Public health measures—COVID-19)—see section 118U (1) (b).
 sewerage utility, for division 6B.2 (Sewage)—see section 118H (Definitions for div 6B.2).
+standing exemption—see section 118ZD (1).
+statistical or summary information, for part 7A (Check-in information—COVID-19)—see section 123A.
 syringe includes the needle section or the plunger section of a syringe.
 transmissible notifiable condition means a notifiable condition—
   (a) determined by the Minister to be a transmissible notifiable condition under section 100 (1) (b); or
   (b) declared by the chief health officer to be a transmissible notifiable condition under section 101 (1) (b).
+use, for part 7A (Check-in information—COVID-19)—see section 123A.
 utility—see the Utilities Act 2000, dictionary.
+vaccination direction, for part 6C (Public health measures—COVID-19)—see section 118Z (1).
+vaccination exemption guideline, for part 6C (Public health measures—COVID-19)—see section 118N.
 vending machine, for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
 vending machine approval, for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
 water distributor, for division 6B.1 (Drinking water)—see section 118B (Definitions for div 6B.1).
