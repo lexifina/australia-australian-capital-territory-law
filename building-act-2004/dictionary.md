@@ -15,9 +15,11 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • national land
 • planning and land authority
 • reviewable decision notice
+• statutory office-holder
 • Territory land
 • under.
 actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+administrator—see section 127F (1).
 alteration, of a building, includes—
   (a) demolition of part of the building; and
   (b) an addition to the building.
@@ -41,6 +43,7 @@ building action, for part 9 (Limitation of liability)—see section 140.
 building approval means a building approval under part 3.
 building code—see section 136 (1).
 building inspector means a person appointed under section 128.
+building practitioner, for part 6A (Residential building disputes)—see section 127A.
 building surveyor—see the Construction Occupations (Licensing) Act 2004, section 9.
 building work—
   (a) for Act—see section 6; but
@@ -57,8 +60,10 @@ cost, for part 6 (Residential buildings—statutory warranties, standard conditi
 custodian, for part 4 (Stop and other notices and demolition orders)—see section 52.
 decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 demolition order—see section 63A (2).
+developer, for part 6A (Residential building disputes)—see section 127A.
 development—see the Planning and Development Act 2007, section 7.
 development approval means development approval under the Planning and Development Act 2007, chapter 7.
+dispute resolution officer means a person appointed under section 127G to be a dispute resolution officer.
 disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
 easement, for part 4 (Stop and other notices and demolition orders)—see section 52.
@@ -104,9 +109,18 @@ premises includes land or a structure and any part of an area of land or a struc
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 recognised standard means a document declared to be a recognised standard under section 139A (1).
-residential building, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
-residential building work, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
-residential building work contract, for division 6.2A (Standard conditions)—see section 89B.
+related building activity, for part 6A (Residential building disputes)—see section 127A.
+residential building—
+  (a) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84; and
+  (b) for part 6A (Residential building disputes)—see section 127A.
+residential building dispute, for part 6A (Residential building disputes)—see section 127B.
+residential building matter, for part 6A (Residential building disputes)—see section 127C.
+residential building work—
+  (a) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84; and
+  (b) for part 6A (Residential building disputes)—see section 127A.
+residential building work contract—
+  (a) for division 6.2A (Standard conditions)—see section 89B; and
+  (b) for part 6A (Residential building disputes)—see section 127A.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 site work—see section 7A.
 site work notice, for division 3.3 (Building approvals)—see section 25AA.
@@ -124,6 +138,7 @@ storey—
     (iii) accommodation intended for up to 3 vehicles; and
   (c) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—does not include a storey below the ground storey (see section 84).
 structure—see section 8.
+technical building assessor means a person appointed under section 127H to be a technical building assessor.
 waste management plan, in relation to building work that involves the demolition or alteration of a building, means information that includes—
   (a) the extent of work to be undertaken; and
   (b) the nature and amount of waste that will be generated; and

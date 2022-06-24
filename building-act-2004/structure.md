@@ -18,6 +18,11 @@
 ### Division 6.3 Residential building insurance
 ### Division 6.4 Approved fidelity fund schemes
 ### Division 6.5 Auditors and actuaries of approved schemes
+## Part 6A Residential building disputes
+### Division 6A.1 Objects and important concepts
+### Division 6A.2 Residential building dispute administrator
+### Division 6A.3 Dispute resolution process
+### Division 6A.4 Dispute resolution trust account
 ## Part 7 Administration
 ### Division 7.1 Building inspectors
 ### Division 7.2 Inspection of building work and authority for required work
