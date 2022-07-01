@@ -11,7 +11,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 adaptable housing dwelling means a dwelling prescribed by regulation.
 agent means—
   (a) a person who holds a licence under the Agents Act 2003 as a real estate agent; or
-  (b) a person registered under that Act as a real estate salesperson.
+  (b) a person registered under that Act as an assistant real estate agent.
 bidder number, for part 4 (Public auctions of residential property)—see section 25 (2) (e).
 bidders record—see section 25 (1).
 building and compliance inspection report means a building and compliance inspection report prescribed by regulation.
