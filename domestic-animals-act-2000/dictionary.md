@@ -62,7 +62,7 @@ excluded offence means—
   (a) a minor offence; or
   (b) an offence against any of the following sections:
     (i) section 37 (Return of special licences);
-    (ii) section 82 (Cats in breach of cat containment);
+    (ii) s 84AO (Breach of cat containment requirements);
     (iii) section 106E (Assistance animal allowed in public places and premises);
     (iv) section 142 (Dishonoured cheques and credit transactions).
 gaming law—see the Gambling and Racing Control Act 1999, dictionary.
@@ -77,7 +77,8 @@ incorporated document means an instrument applied, adopted or incorporated by a 
 infringement notice penalty, for an infringement notice offence under the Magistrates Court (Domestic Animals Infringement Notices) Regulation 2005—see the Magistrates Court Act 1930, section 117.
 keeper means—
   (a) for a registered dog—the registered keeper of the dog; or
-  (b) for another animal—the owner of the animal.
+  (b) for a registered cat—the registered keeper of the cat; or
+  (c) for another animal—the owner of the animal.
 minor offence means an offence against this Act punishable by a maximum penalty of 5 penalty units or less.
 multiple cat licence means a licence under section 84C (1) (Multiple cat licences—approval or refusal).
 multiple dog licence means a licence under section 20 (1) (Multiple dog licences—approval or refusal).
@@ -99,7 +100,9 @@ racing greyhound controller licence—see section 39H.
 reasonably believes means has reasonable grounds for believing.
 recognised breeding organisation means an organisation declared as a recognised breeding organisation under section 72J.
 register means the register kept by the registrar under section 5.
-registered keeper, of a dog, means the person stated in the register as a keeper of the dog.
+registered keeper—
+  (a) of a dog—means the person stated in the register as the keeper of the dog; or
+  (b) of a cat—means the person stated in the register as the keeper of the cat.
 registered racing greyhound means a racing greyhound registered under section 39C.
 registrar means the registrar under section 121.
 registration certificate means a registration certificate issued under section 11 (1) or (4).
@@ -113,5 +116,5 @@ serious injury, to a person or animal, means either of the following:
     (i) endangers, or is likely to endanger, the person or animal’s life; or
     (ii) is, or is likely to be, a significant or longstanding injury;
   (b) 1 or more serious dog bites.
-special licence, for division 2.4 (General provisions about special licences)—see section 29.
+special licence, for division 2.4 (Special dog licences)—see section 29.
 welfare, in relation to animals, for part 5 (Assistance animals)—see section 94.

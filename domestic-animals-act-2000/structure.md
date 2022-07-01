@@ -3,7 +3,7 @@
 ### Division 2.1 Registration of dogs
 ### Division 2.2 Keeping 4 or more dogs
 ### Division 2.3 Dangerous dogs
-### Division 2.4 General provisions about special licences
+### Division 2.4 Special dog licences
 ### Division 2.4A Racing greyhounds
 ### Division 2.5 Control of dogs
 ### Division 2.6 Attacking, harassing and menacing dogs
@@ -13,6 +13,8 @@
 ### Division 3.1 Controlling breeding
 ### Division 3.2 Controlling dogs and cats
 ## Part 4 Cats
+### Division 4.1A Registration of cats
+### Division 4.1B Cat containment
 ### Division 4.1 Keeping 4 or more cats
 ### Division 4.2 Seizing cats and dealing with them
 ## Part 5 Assistance animals
@@ -29,4 +31,4 @@
 ### Division 9.3 Cooperation with other jurisdictions—racing greyhounds
 ## Part 10 Miscellaneous
 ## Part 12 Transitional—Domestic Animals (Racing Greyhounds) Amendment Act 2017
-## Part 13 Transitional—Domestic Animals Legislation Amendment Act 2021
+## Part 14 Transitional—Domestic Animals Legislation Amendment Act 2022
