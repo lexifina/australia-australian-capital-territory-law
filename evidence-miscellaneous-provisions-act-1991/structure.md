@@ -20,10 +20,10 @@
 ### Division 4.3.3 Special requirements—audiovisual recording of police interview
 ### Division 4.3.4 Giving evidence at pre-trial hearing
 ### Division 4.3.5 Giving evidence by audiovisual link
-## Part 4.4 Special requirements—sexual offence proceedings
+## Part 4.4 Special requirements—sexual offence and family violence offence proceedings
 ### Division 4.4.1 Sexual offence proceedings—general
 ### Division 4.4.2 Sexual offence proceedings—evidence of complainant’s sexual reputation and activities
-### Division 4.4.3 Sexual offence proceedings—protection of counselling communications
+### Division 4.4.3 Sexual and family violence offence proceedings—protection of counselling communications
 ### Division 4.4.4 Sexual offence proceedings—directions and warnings to juries
 ## Part 4.5 Special requirements—family violence offence proceedings
 ### Division 4.5.1 Preliminary—pt 4.5
@@ -31,6 +31,7 @@
 ### Division 4.5.3 Recorded statement of police interview admissible as evidence—application for protection order
 # Chapter 5 Certain evidence under court rules not admissible
 # Chapter 6 Evidence in criminal proceedings—dangerously ill people
+# Chapter 6A Victim impact statements
 # Chapter 7 Evidence in any proceedings—other matters
 ## Part 7.1 Evidence of witnesses with disabilities or vulnerabilities
 ## Part 7.2 Evidence in any proceedings—miscellaneous
