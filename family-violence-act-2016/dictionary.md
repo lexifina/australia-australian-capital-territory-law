@@ -50,7 +50,7 @@ disability guardian, of a person—see the Guardianship and Management of Proper
 family member, of a person—see section 9.
 family violence—see section 8.
 family violence concern, for part 9 (National recognition of FVOs)—see section 116.
-family violence offence means an offence if the conduct making up the offence is family violence.
+family violence offence—an offence is a family violence offence if the conduct making up the offence is family violence.
 family violence order means—
   (a) for this Act generally—
     (i) a protection order; or
