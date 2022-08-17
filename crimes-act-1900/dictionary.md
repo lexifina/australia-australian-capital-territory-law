@@ -40,12 +40,14 @@ ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300 (
 accused, for a person before the Magistrates Court, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
 aggravated offence—
-  (a) for part 2 (Offences against the person)—see section 48A; and
-  (b) for part 5 (Sexual servitude)—see section 81.
-alternative offence, for an offence—
-  (a) for part 2 (Offences against the person)—see section 48B (1); and
-  (b) for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
+  (a) for part 2 (Offences against the person)—
+    (i) for an offence committed against a pregnant woman—see section 48A (2); and
+    (ii) for an offence involving family violence—see section 48C (2); and
+  (b) for part 3 (Sexual offences)—see section 72AA (2); and
+  (c) for part 3A (Intimate image abuse)—see section 72EA (2).
+alternative offence, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 anabolic steroid, for part 8 (Anabolic steroids)—see section 170.
+applied provisions—see the Criminal Code, section 10 (1).
 appropriate authority, in relation to a State or another Territory, for part 11 (Investigation of extraterritorial offences)—see section 253 (1).
 assisting officer, in relation to a warrant, for part 10 (Criminal investigation)—see section 185.
 breasts, for part 3A (Intimate image abuse)—see section 72A.
@@ -84,6 +86,8 @@ exclusion direction, for part 9 (Exclusion powers)—see section 175 (3).
 exclusion period, for part 9 (Exclusion powers)—see section 175 (3) (b).
 exclusion zone, for part 9 (Exclusion powers)—see section 175 (3) (a).
 executing officer, in relation to a warrant, for part 10 (Criminal investigation)—see section 185.
+family violence—see the Family Violence Act 2016, section 8.
+fault element—see the Criminal Code, section 17.
 female genital mutilation, for part 4 (Female genital mutilation)—see section 73.
 fortification, of premises, for division 10.9 (Fortification of premises)—see section 252M.
 fortification inspection order, for division 10.9 (Fortification of premises)—see section 252U.
@@ -159,6 +163,7 @@ sexual act, for part 3 (Sexual offences)—see section 50C.
 sexual intercourse, for part 3 (Sexual offences)—see section 50 (1).
 sexual services, for part 5 (Sexual servitude)—see section 78.
 sexual servitude, for part 5 (Sexual servitude)—see section 78.
+simple offence, in relation to a provision, means an offence against the provision that is not an aggravated offence against the provision.
 special hearing, for part 13 (Unfitness to plead and mental health impairment)—see section 300 (1).
 strip search, for part 10 (Criminal investigation)—see section 185.
 tainted property, for part 10 (Criminal investigation)—see the Confiscation of Criminal Assets Act 2003, section 10.
