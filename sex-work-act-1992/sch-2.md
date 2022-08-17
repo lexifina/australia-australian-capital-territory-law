@@ -1,7 +1,6 @@
 # Schedule 2 Disqualifying offences—this Act
 (see s 6 (1), def disqualifying offence, par (a) (ii))
-column 1 | column 2 | column 3
-item | section | description
+column 1 item | column 2 section | column 3 description
 1 | 17 | duress used to induce person to provide commercial sexual services
 2 | 18 | brothel operating other than in prescribed location
 3 | 19 (2) | accost a child for the purpose of offering or getting commercial sexual services

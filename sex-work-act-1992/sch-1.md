@@ -1,7 +1,6 @@
 # Schedule 1 Disqualifying offences—Crimes Act 1900
 (see s 6 (1), def disqualifying offence, par (a) (i))
-column 1 | column 2 | column 3
-item | section | description
+column 1 item | column 2 section | column 3 description
 1 | 12 | murder
 2 | 19 | intentionally inflicting grievous bodily harm
 3 | 20 | recklessly inflicting grievous bodily harm
@@ -17,7 +16,7 @@ item | section | description
 13 | 54 | sexual intercourse without consent
 14 | 55 | sexual intercourse with young person
 15 | 55A | sexual intercourse with young person under special care
-16 | 56 | sexual relationship with child or young person under special care
+16 | 56 | persistent sexual abuse of child or young person under special care
 17 | 57 | act of indecency in the first degree
 18 | 58 | act of indecency in the second degree
 19 | 59 | act of indecency in the third degree
