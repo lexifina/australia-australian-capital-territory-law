@@ -5,15 +5,15 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 1 | Crimes Act 1900, any offence |  | the offence involved sexual intercourse (as defined in the Crimes Act 1900, section 50) with a child
 2 | Crimes Act 1900, section 12 (2) | murder | (a) the other person is a child; and (b) the person committed the murder in the course of, or immediately after, the commission or attempted commission by the person (or an accomplice of the person) of a class 1 or class 2 offence against the child
 3 | Crimes Act 1900, section 51 (1) | sexual assault in the first degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
-4 | Crimes Act 1900, section 51 (2) | sexual assault in the first degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
+4 | Crimes Act 1900, section 51 (3) | sexual assault in the first degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
 5 | Crimes Act 1900, section 52 (1) | sexual assault in the second degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
-6 | Crimes Act 1900, section 52 (2) | sexual assault in the second degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
+6 | Crimes Act 1900, section 52 (3) | sexual assault in the second degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
 7 | Crimes Act 1900, section 53 (1) | sexual assault in the third degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
-8 | Crimes Act 1900, section 53 (2) | sexual assault in the third degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
+8 | Crimes Act 1900, section 53 (3) | sexual assault in the third degree | (a) the third person (as mentioned in that section) is a child; or (b) the other person who is present or nearby (as mentioned in that section) is a child
 9 | Crimes Act 1900, section 55 (1) | sexual intercourse with young person | 
-10 | Crimes Act 1900, section 55 (2) | sexual intercourse with young person | 
+10 | Crimes Act 1900, section 55 (3) | sexual intercourse with young person | 
 11 | Crimes Act 1900, section 55A (1) | sexual intercourse with young person under special care | 
-12 | Crimes Act 1900, section 56 (2) | sexual relationship with child or young person under special care | 
+12 | Crimes Act 1900, section 56 (1) | persistent sexual abuse of child or young person under special care | 
 13 | Crimes Act 1900, section 57 | act of indecency in the first degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
 ## Part 1.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)

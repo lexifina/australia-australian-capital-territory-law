@@ -5,7 +5,7 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 1 | Crimes Act 1900, section 58 | act of indecency in the second degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
 2 | Crimes Act 1900, section 59 | act of indecency in the third degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
 3 | Crimes Act 1900, section 61 (1) | act of indecency with young person | 
-4 | Crimes Act 1900, section 61 (2) | act of indecency with young person | 
+4 | Crimes Act 1900, section 61 (3) | act of indecency with young person | 
 5 | Crimes Act 1900, section 61A (1) | act of indecency with young person under special care | 
 6 | Crimes Act 1900, section 63 | abduction | (a) the other person (as mentioned in that section) or the third person (as mentioned in that section) is a child; and (b) the person committed the abduction in the course of, or immediately after, the commission or attempted commission by the person (or an accomplice of the person) of a class 1 or class 2 offence against the child or the third person
 7 | Crimes Act 1900, section 64 (1) | using child for production of child exploitation material etc | 
