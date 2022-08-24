@@ -47,7 +47,7 @@ but does not include—
   (e) reptiles; and
   (f) birds; and
   (g) amphibians.
-fish dealer means a person who receives fish, for resale or other commercial use, from a person whom he or she knows or suspects or ought to know or suspect to be a commercial fisher, but does not include a person who receives fish only for the purpose of transporting them on behalf of the owner of the fish.
+fish dealer means a person who receives fish, for resale or other commercial use, from a person whom they know or suspect or ought to know or suspect to be a commercial fisher, but does not include a person who receives fish only for the purpose of transporting them on behalf of the owner of the fish.
 fisheries licence—see section 19.
 fisheries licence register—see section 36M.
 fisheries management plan—see section 5.
