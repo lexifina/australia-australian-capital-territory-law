@@ -45,7 +45,6 @@ completes year 10—see section 9B.
 completes year 12—see section 9C.
 compliance notice, for chapter 2 (Compulsory education)—see section 16B.
 compulsory education age, for chapter 2 (Compulsory education)—see section 9.
-corporal punishment means physical force applied to punish or correct, and includes any action designed or likely to cause physical pain or discomfort taken to punish or correct.
 decision-maker, for part 6.1 (Notification and review of decisions)—see section 140.
 educational course means a course of teaching and learning directed toward acquiring a particular area of knowledge and skills.
 education course—see section 9A.
