@@ -22,7 +22,7 @@ An executive committee member is protected from civil liability in relation to t
 ## (f) keep proper records and books of account in relation to—
     (i) the corporation’s assets and liabilities (including all amounts owing to and by the corporation); and
     (ii) all amounts received and paid by the corporation; and
-## (g) must arrange for the financial records of the units plan to be audited before the annual general meeting if either—
+## (g) arrange for the financial records of the units plan to be audited before the annual general meeting if either—
 ## (i) the number of units in the units plan is more than 100, or another number prescribed by regulation; or
 ## (ii) the annual budget of the owners corporation is more than $250 000, or another amount prescribed by regulation; and
   (h) maintain an up-to-date consolidated version of the rules of the owners corporation.
