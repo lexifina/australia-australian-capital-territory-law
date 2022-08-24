@@ -135,9 +135,9 @@ Lessor to provide premises in a reasonable state at the start of the tenancy
 (c) in a reasonable state of repair; and
 (d) reasonably secure.
 (2) An exclusion must be in writing and may, but need not, be included in the tenancy agreement (if in writing).
-(3) The lessor or the tenant may change locks (at his or her own cost unless otherwise agreed) with the agreement of the other party (which will not be unreasonably withheld).
-(4) The lessor or the tenant may change locks (at his or her own cost) in an emergency without the agreement of the other party.
-(5) If the tenant, or a person living at the premises, is a protected person in relation to an interim or final order made under the Family Violence Act 2016 or the Personal Violence Act 2016, the tenant or person may change locks (at his or her own cost) without the agreement of the other party.
+(3) The lessor or the tenant may change locks (at their own cost unless otherwise agreed) with the agreement of the other party (which will not be unreasonably withheld).
+(4) The lessor or the tenant may change locks (at their own cost) in an emergency without the agreement of the other party.
+(5) If the tenant, or a person living at the premises, is a protected person in relation to an interim or final order made under the Family Violence Act 2016 or the Personal Violence Act 2016, the tenant or person may change locks (at their own cost) without the agreement of the other party.
 (6) If a lock is changed, a copy of the key to the changed lock must be provided to the other party as soon as possible unless doing so would affect the safety of a protected person.
 Lessor to make repairs
 55 (1) The lessor must maintain the premises in a reasonable state of repair having regard to their condition at the commencement of the tenancy agreement.
