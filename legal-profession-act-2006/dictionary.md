@@ -1,7 +1,6 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • ACT
 • authorised deposit-taking institution (or ADI)
@@ -288,7 +287,7 @@ show-cause event, in relation to a person, means—
     (i) the offence was committed in or outside the ACT; or
     (ii) the offence was committed while the person was engaging in legal practice as an Australian legal practitioner or was practising foreign law as an Australian-registered foreign lawyer; or
     (iii) other people are prohibited from disclosing the identity of the offender.
-sole practitioner means an Australian legal practitioner who engages in legal practice on his or her own account.
+sole practitioner means an Australian legal practitioner who engages in legal practice on the practitioner’s own account.
 solicitor means—
   (a) a local legal practitioner who holds a current unrestricted practising certificate or restricted practising certificate; or
   (b) an interstate legal practitioner who holds an interstate practising certificate that does not restrict the practitioner to engage in legal practice only as or in the manner of a barrister.
