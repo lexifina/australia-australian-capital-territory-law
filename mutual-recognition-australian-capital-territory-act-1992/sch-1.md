@@ -2,7 +2,7 @@
 (see s 5 (1))
 Mutual Recognition Bill 1992
 A Bill for
-An Act to provide for the recognition within each State and Territory of the Commonwealth of regulatory standards adopted elsewhere in Australia regarding goods and occupations
+An Act relating to the recognition of regulatory standards adopted in Australia regarding goods and occupations
 The Parliament of Australia enacts:
 ## Part 1 Preliminary
 ## 1 Short title
@@ -34,6 +34,7 @@ State includes the Australian Capital Territory or the Northern Territory.
 substantive registration means registration under a law of a State, but does not include deemed registration.
 Tribunal means the Administrative Appeals Tribunal.
 (2) This Act is to be interpreted in accordance with the Acts Interpretation Act 1901 as in force at the date on which this Act receives the Royal Assent.
+Note Under amendments made to the Commonwealth Act on 1 July 2021, certain individuals who are authorised to carry on an activity covered by an occupation in a State or the Northern Territory are automatically deemed to be authorised to carry on the activity in another State or Territory (see Commonwealth Act, pt 3A).
 ## 5 Application of this Act to States
 (1) This Act applies to a State, but only while it is a participating jurisdiction.
 (2) Accordingly, a reference in this Act to a State is a reference to a State that is a participating jurisdiction.
