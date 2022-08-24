@@ -1,7 +1,6 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • ACT
 • administrative unit
@@ -50,7 +49,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public trustee and guardian
 • reviewable decision notice
 • State
-• statutory-office holder
+• statutory office-holder
 • territory authority
 • territory instrumentality
 • the Territory
@@ -312,7 +311,7 @@ relevant conference participant, for a family group conference about a child or 
 relevant presiding officer, for division 8.4.4 (Disciplinary action generally)—see section 316.
 reportable conduct information, for division 25.3.3 (Sharing reportable conduct information)—see section 863A (1).
 reporting and investigation procedures means the procedures made by the director-general under section 294.
-representative, for a child or young person, means a lawyer or other person representing the child or young person, but does not include a child or young person who represents himself or herself.
+representative, for a child or young person, means a lawyer or other person representing the child or young person, but does not include a child or young person who represents themself.
 requirement notice, for part 2.4 (Suitable entities for purposes under Act)—see section 68.
 researcher, for a research project, for chapter 22 (Research involving children and young people)—see section 805.
 research project, for chapter 22 (Research involving children and young people)—see section 806.
