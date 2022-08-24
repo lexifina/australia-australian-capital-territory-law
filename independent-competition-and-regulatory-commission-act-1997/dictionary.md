@@ -20,7 +20,6 @@ access provider, for part 6 (Arbitration of access regime disputes)—see sectio
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
   (a) including the use of an infrastructure facility (for example, a road or railway), the handling or transporting of things (for example, goods or people) or a communications service or similar service; and
   (b) not including the supply of goods, the use of intellectual property or the use of a production process, except to the extent that that supply or use is an integral but subsidiary part of the service.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 associate commissioner means a commissioner appointed under schedule 2, section 2.1A.
 chief executive officer means the Chief Executive Officer of the commission.
 commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory.
