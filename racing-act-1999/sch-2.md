@@ -14,5 +14,5 @@ Note A person may be reappointed to a position if the person is eligible to be a
 Note A person’s appointment also ends if the person resigns (see Legislation Act, s 210).
 ## 2.5 Assessors—disclosure of interests
 An assessor—
-  (a) must tell the president if it becomes apparent that the assessor has or has acquired an interest that could conflict with the assessor’s proper exercise of his or her functions as assessor of the tribunal in a hearing; and
+  (a) must tell the president if it becomes apparent that the assessor has or has acquired an interest that could conflict with the assessor’s proper exercise of their functions as assessor of the tribunal in a hearing; and
   (b) must not take part in the hearing.

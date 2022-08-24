@@ -25,7 +25,7 @@ Note A person’s appointment also ends if the person resigns (see Legislation A
 ## 1.6 Tribunal members—leave of absence
 The Minister may grant a member of the tribunal leave of absence on the terms and conditions about remuneration and otherwise that the Minister decides.
 ## 1.7 Tribunal members—disclosure of interests
-(1) This section applies if a member has or acquires an interest that could conflict with the member’s proper exercise of his or her functions as a member of the tribunal as constituted for a hearing.
+(1) This section applies if a member has or acquires an interest that could conflict with the member’s proper exercise of their functions as a member of the tribunal as constituted for a hearing.
 (2) A member must tell the president when it becomes apparent that this section applies in relation to the member.
 (3) As far as is reasonably possible, the tribunal must be constituted or reconstituted for the hearing so that the member concerned is not involved.
 (4) If circumstances require the member to be, or remain, on the tribunal as constituted for the hearing—
