@@ -1,7 +1,6 @@
 # Dictionary
 (see s 4)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+Note 1 The Legislation Act contains definitions relevant to this Act. For example: the Legislation Act, dict, pt 1 defines the following terms:
 • adult
 • Commonwealth
 • contravene
@@ -14,7 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 child—
   (a) means a person who is under 12 years old; and
   (b) in relation to a person, includes an adopted child or stepchild of that person.
-collector means a person who, in the course of his or her profession, employment or official duty, collects personal health information.
+collector means a person who, in the course of their profession, employment or official duty, collects personal health information.
 commission means the human rights commission.
 consent includes implied consent.
 consumer means an individual who uses, or has used, a health service, or in relation to whom a health record has been created, and includes—
@@ -23,7 +22,7 @@ consumer means an individual who uses, or has used, a health service, or in rela
   (c) if the consumer has died and there is a legal representative of the deceased consumer—a legal representative of the deceased consumer; and
   (d) if the consumer has died and there is no legal representative of the deceased consumer—an immediate family member of the deceased consumer.
 Note Under s 13A an entity is taken to be the consumer for the purpose of accessing certain information if the consumer has consented to disclosure of the information to the entity.
-deceased consumer means a deceased person who, before his or her death, was a consumer.
+deceased consumer means a deceased person who, before their death, was a consumer.
 destroy a record includes delete the record.
 disability—see the Human Rights Commission Act 2005, section 8 (2).
 factual matter, in relation to a consumer, means—
@@ -88,6 +87,6 @@ record keeper means an entity that has possession or control of a health record.
 sibling, in relation to a person, means a brother, sister, half-brother, half-sister, adoptive brother, adoptive sister, stepbrother or stepsister of the person.
 treating health service provider, in relation to a consumer, means a health service provider who is involved in diagnosis, care or treatment of the consumer for the purpose of improving or maintaining the consumer’s health.
 treating team, in relation to a consumer, means health service providers involved in diagnosis, care or treatment for the purpose of improving or maintaining the consumer’s health for a particular episode of care, and includes—
-  (a) if the consumer named another health service provider as his or her current treating practitioner—that other health service provider; and
+  (a) if the consumer named another health service provider as the consumer’s current treating practitioner—that other health service provider; and
   (b) if another health service provider referred the consumer to the treating team for that episode of care—that other health service provider.
 young person—see the Children and Young People Act 2008, section 12.

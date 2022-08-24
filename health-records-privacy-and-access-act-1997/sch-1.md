@@ -5,7 +5,7 @@
   (a) the information is collected for a lawful purpose that is directly related to a function or activity of the collector; and
   (b) the collection of the information is necessary for or directly related to that purpose.
 2 A collector must not collect personal health information by unlawful or unfair means.
-3 Where personal health information or health records are required to be collected by someone as part of his or her employment for the management, funding or quality of a health service received by the consumer, then that person is allowed access to the information only for those purposes, unless these principles otherwise provide.
+3 Where personal health information or health records are required to be collected by someone as part of their employment for the management, funding or quality of a health service received by the consumer, then that person is allowed access to the information only for those purposes, unless these principles otherwise provide.
 ## Principle 2: Purpose of collection of personal health information to be made known
 1 Subject to clause 2 of this principle, where—
   (a) a collector collects personal health information for inclusion in a health record or in a generally available publication; and
