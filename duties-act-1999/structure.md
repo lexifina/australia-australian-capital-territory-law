@@ -33,4 +33,3 @@
 ## Part 11.1 Exemptions from duty—general
 ## Part 11.2 Exemptions from duty—certain personal relationships
 # Chapter 12 Miscellaneous
-# Chapter 19 Transitional—Revenue Legislation Amendment Act 2017
