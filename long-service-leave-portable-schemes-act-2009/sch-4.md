@@ -46,14 +46,6 @@ W means the number of weeks long service leave held by the worker.
 (2) A registered worker for the security industry is entitled to additional long service leave worked out in accordance with the long service leave formula for the security industry if the worker—
   (a) becomes entitled to long service leave under this Act for work done in the industry; and
   (b) is credited with the additional days in the workers register after becoming entitled to long service leave.
-(3) During a COVID-19 emergency, a registered worker for the security industry is entitled to the number of days of workers long service leave worked out in accordance with the criteria determined by the Minister.
-(4) A determination under subsection (3) is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
-(5) In this section:
-COVID-19 emergency means—
-  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
-  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
-(6) This subsection and subsections (3) to (5) expire on the first day no COVID-19 emergency is in force.
 ## 4.8 Grant of leave by employers—security industry
 (1) The employer of a registered employee for the security industry commits an offence if—
   (a) the employee’s long service leave accrues; and
@@ -82,18 +74,6 @@ prescribed period, for long service leave accrued by a registered employee for t
 prescribed retiring age—
   (a) for a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
-## 4.9A Entitlement to payment instead of leave—security industry—COVID-19 emergency
-## (1) This section applies during a COVID-19 emergency to a registered worker for the security industry if the worker—
-## (a) has left the industry during the COVID-19 emergency; and
-## (b) satisfies the criteria determined by the Minister.
-## (2) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave determined by the Minister.
-## (3) A determination under this section is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
-(4) In this section:
-COVID-19 emergency means—
-  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
-  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
-(5) This section expires on the first day no COVID-19 emergency is in force.
 ## 4.10 Payments for leave—security industry
 (1) A registered employee for the security industry who has been granted long service leave under section 4.7, or a registered voluntary member for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.
 (2) The authority must pay to the applicant the amount payable under section 4.12 (How are payments worked out for the security industry?) if the registrar is satisfied that—
