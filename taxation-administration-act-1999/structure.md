@@ -36,4 +36,3 @@
 ### Division 11.5 Proceedings and evidence
 ### Division 11.5A Revenue measures—deferral, exemption and rebate schemes
 ### Division 11.6 Miscellaneous
-## Part 21 Transitional—Operational Efficiencies (COVID-19) Legislation Amendment Act 2021
