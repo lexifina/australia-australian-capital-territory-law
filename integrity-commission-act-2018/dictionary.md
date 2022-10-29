@@ -57,6 +57,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 ACT public service entity—see section 16.
 annual operational review—see section 280.
 annual operational review report—see section 281.
+Assembly information—see section 85A.
 Assembly precincts—see the Legislative Assembly Precincts Act 2001, dictionary.
 Australian Commission for Law Enforcement Integrity (or ACLEI)—see the Law Enforcement Integrity Commissioner Act 2006 (Cwlth), section 5.
 Australian Federal Police means the Australian Federal Police constituted under the Australian Federal Police Act 1979 (Cwlth), section 6.
