@@ -32,4 +32,3 @@
 ## Part 11 Miscellaneous
 ### Division 11.1 Mortgage insurance
 ### Division 11.2 Miscellaneous
-## Part 13 Transitional—Unit Titles Legislation Amendment Act 2020
