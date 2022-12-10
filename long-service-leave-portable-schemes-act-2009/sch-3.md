@@ -84,7 +84,7 @@ prescribed retiring age means—
   (a) for a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 3.10 Payments for leave—community sector industry
-(1) A registered employee for the community sector industry who has been granted long service leave under section 3.7, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
+(1) A registered employee for the community sector industry who has been granted long service leave under section 3.8, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
 (2) The authority must pay to the applicant the amount payable under section 3.12 (How are leave payments worked out for the community sector industry?) if the registrar is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the community sector industry; and
   (b) the applicant has been granted leave by the applicant’s employer.
@@ -95,7 +95,7 @@ prescribed retiring age means—
 (3) The governing board may require an applicant mentioned in subsection (2) to submit himself or herself to a medical examination by a doctor chosen by the board for that purpose from a panel of 3 doctors nominated by the Australian Capital Territory Branch of the Australian Medical Association.
 (4) All fees or charges payable for a medical examination under subsection (3) are to be paid by the authority.
 (5) If an applicant fails, without reasonable excuse, to comply with a requirement under subsection (3), the governing board may refuse the application.
-(6) If the governing board is satisfied that the applicant is entitled to payment instead of long service leave under this Act, the authority must pay to the applicant the amount payable under section 3.10.
+(6) If the governing board is satisfied that the applicant is entitled to payment instead of long service leave under this Act, the authority must pay to the applicant the amount payable under section 3.12.
 ## 3.12 How are leave payments worked out for the community sector industry?
 (1) For section 3.10 (Payments for leave—community sector industry) and section 3.11 (Payments instead of leave—community sector industry), the amount payable to a registered worker for, or instead of, long service leave is—
   (a) for any part of the entitlement to long service leave accrued as an employee—the amount worked out in accordance with section 3.13; and
@@ -104,10 +104,10 @@ prescribed retiring age means—
   (a) long service leave must be taken in the reverse order in which it accrued; and
   (b) if payment instead of long service leave is being made—the payment is made in relation to the leave in the order in which it accrued.
 Example
-Darla has 5 years of service in the community sector industry giving her an entitlement to 4.335 weeks long service leave. She first worked in the industry as a registered employee and accrued 2 weeks of the entitlement in that capacity. Darla then worked as a registered voluntary member and accrued 2.335 weeks of the entitlement in that capacity.
-Darla decides to take 4.335 weeks long service leave. The payment for the leave is the total of the following amounts:
-• the amount calculated under s 3.13 where ‘D’ is 842 (ie it took 842 days of service as a registered employee to accrue the first 2 weeks of her long service leave entitlement);
-• the amount calculated under s 3.14 which is the total of the amounts paid to the authority under s 57 for her 983 days work as a registered voluntary member (ie it took that period of service as a registered voluntary member to accrue the next 2.335 weeks of her long service leave entitlement) and the interest under s 3.14 on those amounts.
+Alex has 5 years of service in the community sector industry giving Alex an entitlement to 4.335 weeks long service leave. Alex first worked in the industry as a registered employee and accrued 2 weeks of the entitlement in that capacity. Alex then worked as a registered voluntary member and accrued 2.335 weeks of the entitlement in that capacity.
+Alex decides to take 4.335 weeks long service leave. The payment for the leave is the total of the following amounts:
+• the amount calculated under s 3.13 where ‘D’ is 842 (ie it took 842 days of service as a registered employee to accrue the first 2 weeks of long service leave entitlement);
+• the amount calculated under s 3.14, which is the total of the amounts paid to the authority under s 56 for 983 days (2.69 years) of service as a registered voluntary member (ie it took 983 days of service as a registered voluntary member to accrue the next 2.335 weeks of long service leave entitlement) and the interest under s 3.14 on those amounts.
 ## 3.13 Leave payments for service as registered employee—community sector industry
 (1) For section 3.12, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the community sector industry is the amount worked out as follows:
 (2) In this section:
@@ -141,7 +141,7 @@ designated day means—
 (2) The worker may apply to the authority for payment of a long service leave entitlement worked out in accordance with the corresponding law.
 (3) The authority must pay the worker the amount of the entitlement worked out in the way stated in the corresponding law if the authority is authorised by the reciprocal authority to make the payment.
 ## 3.16 Payments by reciprocal authority on authority’s behalf—community sector industry
-(1) This section applies if, under a corresponding law, a reciprocal authority pays to a person an amount that, but for the payment, would have been payable for a long service leave entitlement under this Act for work done in the contract cleaning industry.
+(1) This section applies if, under a corresponding law, a reciprocal authority pays to a person an amount that, but for the payment, would have been payable for a long service leave entitlement under this Act for work done in the community sector industry.
 (2) If the authority is notified about the payment and is satisfied the payment was properly made, the authority must reimburse the reciprocal authority the amount worked out as follows:
 (3) If the authority makes a reimbursement under subsection (2), the obligation of the authority to make the payment to the person for the entitlement is discharged.
 (4) In subsection (2):

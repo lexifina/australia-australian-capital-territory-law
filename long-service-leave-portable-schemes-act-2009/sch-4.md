@@ -75,8 +75,8 @@ prescribed retiring age—
   (a) for a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 4.10 Payments for leave—security industry
-(1) A registered employee for the security industry who has been granted long service leave under section 4.7, or a registered voluntary member for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.
-(2) The authority must pay to the applicant the amount payable under section 4.12 (How are payments worked out for the security industry?) if the registrar is satisfied that—
+(1) A registered employee for the security industry who has been granted long service leave under section 4.8, or a registered voluntary member for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.
+(2) The authority must pay to the applicant the amount payable under section 4.12 (How are leave payments worked out for the security industry?) if the registrar is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the security industry; and
   (b) the applicant has been granted leave by the applicant’s employer.
 (3) The authority must pay an applicant any amount payable under subsection (2) not later than 21 days after the worker’s application has been made.
@@ -87,7 +87,7 @@ prescribed retiring age—
 (4) All fees or charges payable for a medical examination under subsection (3) are to be paid by the authority.
 (5) If an applicant fails, without reasonable excuse to comply with a requirement under subsection (3), the governing board may refuse the application.
 (6) If the governing board is satisfied that the applicant is entitled to payment instead of long service leave under this Act, the authority must pay to the applicant the amount payable under section 4.12.
-## 4.12 How are payments worked out for the security industry?
+## 4.12 How are leave payments worked out for the security industry?
 (1) For section 4.10 and section 4.11, the amount payable to a registered worker for, or instead of, long service leave is—
   (a) for any part of the entitlement to long service leave accrued as an employee—the amount worked out in accordance with section 4.13; and
   (b) for any part of the entitlement to long service leave accrued as a voluntary member—the amount worked out in accordance with section 4.14.
@@ -95,10 +95,10 @@ prescribed retiring age—
   (a) long service leave must be taken in the reverse order in which it accrued; and
   (b) if payment instead of long service leave is being made—the payment is made in relation to the leave in the order in which it accrued.
 Example
-Trevor has 7 years of service in the security industry giving him an entitlement to 6.0669 weeks long service leave. He first worked in the industry as a registered employee and accrued 4.3335 weeks of the entitlement in that capacity. Trevor then worked as a registered voluntary member and accrued 1.7334 weeks of the entitlement in that capacity.
-Trevor decides to take 6.0669 weeks long service leave. The payment for the leave is the total of the following amounts:
-• the amount calculated under s 4.13 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 4.3335 weeks of his long service leave entitlement);
-• the amount calculated under s 4.14 which is the total of the amounts paid to the authority under s 56 for his 730 days work as a registered voluntary member (ie it took that period of service as a registered voluntary member to accrue the next 1.7334 weeks of his long service leave entitlement) and the interest under s 4.14 on those amounts.
+Sam has 7 years of service in the security industry giving Sam an entitlement to 6.0669 weeks long service leave. Sam first worked in the industry as a registered employee and accrued 4.3335 weeks of the entitlement in that capacity. Sam then worked as a registered voluntary member and accrued 1.7334 weeks of the entitlement in that capacity.
+Sam decides to take 6.0669 weeks long service leave. The payment for the leave is the total of the following amounts:
+• the amount calculated under s 4.13 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 4.3335 weeks of long service leave entitlement);
+• the amount calculated under s 4.14, which is the total of the amounts paid to the authority under s 56 for 730 days (2 years) of service as a registered voluntary member (ie it took 730 days of service as a registered voluntary member to accrue the next 1.7334 weeks of long service leave entitlement) and the interest under s 4.14 on those amounts.
 ## 4.13 Leave payments for service as registered employee—security industry
 For section 4.12, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the security industry is the amount worked out as follows:
 D means the number of days of service credited to the registered worker in the workers register to which the payment relates.
@@ -115,7 +115,7 @@ Example—R, par (b)
 Danijela has worked in the security industry for 5 years. The periods in par (b) (i), (ii) and (iii) apply to Danijela because she has completed more than 20 quarters (or 5 years) relevant service.
 Danijela’s average weekly income for the 2 quarters before the designated day is $283. Her weekly averages for the 4 and 20 quarters before the designated day are $427 and $375, respectively. Accordingly, ‘R’ is $427 because it is the highest of the weekly averages.
 ## 4.14 Leave payments for service as registered voluntary member—security industry
-(1) For section 4.12 (How are payments worked out for the security industry?), the amount payable to a registered worker for the security industry for long service leave for service accrued as a registered voluntary member is the total of the following for the service:
+(1) For section 4.12 (How are leave payments worked out for the security industry?), the amount payable to a registered worker for the security industry for long service leave for service accrued as a registered voluntary member is the total of the following for the service:
   (a) amounts paid by the worker to the authority under section 56 (Determination of levy—voluntary members);
   (b) interest at the determined rate worked out from the date of receipt of each amount paid under section 56 until the designated day for the leave.
 (2) The governing board must determine an interim rate of interest from time to time before the determination of the rate under subsection (1).

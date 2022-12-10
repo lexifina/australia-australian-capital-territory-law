@@ -100,10 +100,10 @@ prescribed retiring age means—
 ## (a) long service leave must be taken in the reverse order in which it accrued; and
 ## (b) if payment instead of long service leave is being made—the payment is made in relation to the leave in the order in which it accrued.
 Example
-Patricia has 10 years of service in the contact cleaning industry giving her an entitlement to 8.3 weeks long service leave. She first worked in the industry as a registered employee and accrued 5 weeks of the entitlement in that capacity. Patricia then worked as a registered voluntary member and accrued 3.3 weeks of the entitlement in that capacity.
-Patricia decides to take 7 weeks long service leave. The payment for the leave is the total of the following amounts:
-• the amount calculated under s 2.12 where ‘D’ is 1825 (ie it took 1825 days of service as a registered employee to accrue the first 5 weeks of her long service leave entitlement);
-• the amount calculated under s 2.13 which is the total of the amounts paid to the authority under s 57 for her first 2.41 years work as a registered voluntary member (ie it took that period of service as a registered voluntary member to accrue the next 2 weeks of her long service leave entitlement) and the interest under s 2.13 on those amounts.
+Pat has 10 years of service in the contract cleaning industry giving Pat an entitlement to 8.667 weeks long service leave. Pat first worked in the industry as a registered employee and accrued 5 weeks of the entitlement in that capacity. Pat then worked as a registered voluntary member and accrued 3.667 weeks of the entitlement in that capacity.
+Pat decides to take 7 weeks long service leave. The payment for the leave is the total of the following amounts:
+• the amount calculated under s 2.12 where ‘D’ is 2106 (ie it took 2106 days of service as a registered employee to accrue the first 5 weeks of long service leave entitlement);
+• the amount calculated under s 2.13, which is the total of the amounts paid to the authority under s 56 for 842 days (2.31 years) of service as a registered voluntary member (ie it took 842 days of service as a registered voluntary member to accrue the next 2 weeks of long service leave entitlement) and the interest under s 2.13 on those amounts.
 ## 2.12 Leave payments for service as registered employee—contract cleaning industry
 ## (1) For section 2.11, the amount payable to a registered worker for long service leave for service accrued as a registered employee for the contract cleaning industry is the amount worked out as follows:
 ## (2) In this section:
