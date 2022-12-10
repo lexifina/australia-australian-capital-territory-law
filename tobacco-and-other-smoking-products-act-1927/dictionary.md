@@ -85,7 +85,6 @@ Example—other objects—par (b)
 1 credit card
 2 debit card
 3 key
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 wholesale outlet means premises where smoking products are available for sale exclusively by wholesale.
 wholesale tobacco merchant’s licence, for part 7 (Licences)—see section 43.
 young person, for part 6A (Tobacco compliance testing)—see section 42A.
