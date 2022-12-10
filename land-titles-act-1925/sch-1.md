@@ -1,4 +1,4 @@
-# Schedule 1 .
+# Schedule 1
 (see s 81)
 Creation of right of carriageway in transfer of freehold land
 Together with full and free right and liberty to and for the transferee hereunder and to and for the registered proprietor or proprietors for the time being of the land hereby transferred or any part thereof, and his or her tenants, servants, agents, workers and visitors to go, pass and repass at all times hereafter and for all purposes and either with or without horses or other animals, carts or other carriages into and out of and from the said land or any part thereof through, over and along the road or way or several roads or ways delineated and coloured brown on the said map.
