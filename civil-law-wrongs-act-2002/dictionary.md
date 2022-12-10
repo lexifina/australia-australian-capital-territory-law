@@ -22,6 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • property
 • public trustee and guardian
 • (the) Territory.
+abuse settlement agreement, for part 8A.3 (Institutional child abuse—setting aside abuse settlement agreements)—see section 114J.
 accident means an incident out of which personal injury arises, and includes a motor accident.
 accommodation provider—see section 146.
 accommodation unit, for part 11.1 (Traveller accommodation providers liability)—see section 144.
@@ -33,6 +34,7 @@ animal, for division 11.2.4 (Liability of common carriers for certain animals)�
 another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 apology, for part 2.3 (Apologies)—see section 13.
 applicable period, for an offer to make amends, for division 9.3.1 (Concerns notices and offers to make amends)—see section 126.
+applicant, for part 8A.3 (Institutional child abuse—setting aside abuse settlement agreements)—see section 114K (1).
 apportionable claim, for chapter 7A (Proportionate liability)—see section 107B.
 appropriate council, in relation to another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 associated entity, for chapter 9 (Defamation)—see the Corporations Act, section 50AAA.
@@ -43,8 +45,8 @@ business assets, for schedule 4 (Professional standards)—see schedule 4, secti
 child—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
-child abuse, for chapter 8A (Institutional child abuse)—see section 114A (1).
-child abuse claim, by or on behalf of a person, for chapter 8A (Institutional child abuse)—see section 114A (1).
+child abuse, for chapter 8A (Institutional child abuse)—see section 114AA.
+child abuse claim—see section 114A.
 claim—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
   (b) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.

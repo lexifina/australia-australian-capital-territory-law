@@ -29,6 +29,9 @@
 # Chapter 7A Proportionate liability
 # Chapter 8 Liability of public and other authorities
 # Chapter 8A Institutional child abuse
+## Part 8A.1 Definitions and application—ch 8A
+## Part 8A.2 Institutional child abuse—proceedings against unincorporated bodies
+## Part 8A.3 Institutional child abuse—setting aside abuse settlement agreements
 # Chapter 9 Defamation
 ## Part 9.1 Preliminary—defamation
 ## Part 9.2 General principles
