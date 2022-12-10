@@ -353,4 +353,4 @@ Notices of address for service
 98 (1) At the commencement of the tenancy, the lessor and the tenant must each give an address for service of notices.
 (2) If the address changes during the tenancy, the lessor or tenant must advise the other party of the new address for service within 2 weeks of the change.
 99 On vacating the premises, the tenant must advise the lessor of a forwarding address.
-100 If 2 or more people share a tenancy, except where this agreement otherwise provides, they do so as joint tenants.
+100 If 2 or more people share a tenancy, except where this agreement otherwise provides, they do so as co-tenants.
