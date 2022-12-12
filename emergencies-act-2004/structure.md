@@ -49,4 +49,3 @@
 # Chapter 10 Miscellaneous
 ## Part 10.1 Other offences relating to fires
 ## Part 10.2 Other miscellaneous provisions
-# Chapter 12 Transitional—Emergencies Amendment Act 2021
