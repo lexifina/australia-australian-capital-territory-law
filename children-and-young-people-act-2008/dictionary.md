@@ -55,10 +55,9 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • the Territory
 • transgender person (see s 169A (1) and (2))
 • working day.
-Aboriginal or Torres Strait Islander person means a person who––
-  (a) is a descendant of an Aboriginal person or a Torres Strait Islander person; and
-  (b) identifies as an Aboriginal person or a Torres Strait Islander person; and
-  (c) is accepted as an Aboriginal person or a Torres Strait Islander person by an Aboriginal community or Torres Strait Islander community.
+Aboriginal and Torres Strait Islander children and young people commissioner means the person appointed as the Aboriginal and Torres Strait Islander Children and Young People Commissioner under the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, section 10.
+Aboriginal or Torres Strait Islander child or young person means a child or young person who is an Aboriginal or Torres Strait Islander person.
+Aboriginal or Torres Strait Islander person—see the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, dictionary.
 abuse, of a child or young person—see section 342.
 ACAT mental health provision—see section 491.
 accredited person—
@@ -209,7 +208,7 @@ interstate leave permit—see section 242 (1).
 interstate officer, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 642 (1).
 interstate proceedings transfer order—see section 672 (1).
 in therapeutic protection—see section 572.
-investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate, the ombudsman and the integrity commission.
+investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate, the Aboriginal and Torres Strait Islander children and young people commissioner, the ombudsman and the integrity commission.
 investigator, for part 8.2 (Responding to behaviour breaches)—see section 291.
 kinship carer, for a child or young person—see section 516 (2).
 licensed childcare service, for chapter 20 (Childcare services)—see section 728 (2).
