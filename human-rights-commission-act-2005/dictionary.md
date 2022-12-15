@@ -17,6 +17,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • public advocate
   • under
   • veterinary practitioner.
+Aboriginal and Torres Strait Islander children and young people commissioner means the person appointed as the Aboriginal and Torres Strait Islander Children and Young People Commissioner under the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, section 10.
+Aboriginal or Torres Strait Islander child or young person means a child or young person who is an Aboriginal or Torres Strait Islander person.
+Aboriginal or Torres Strait Islander person—see the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, dictionary.
 act includes omission.
 aggrieved person, in relation to a complaint—see section 43 (1) (a).
 applicable standard, in relation to a service provider, means anything mentioned in any of the following provisions that applies to the provider:
