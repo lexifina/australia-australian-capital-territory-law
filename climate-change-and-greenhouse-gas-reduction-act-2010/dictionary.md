@@ -15,13 +15,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • must (see s 146)
 • notifiable instrument (see s 10)
 • person (see s 160)
-• public employee
 • public sector body
 • public service
 • regulation
 • territory instrumentality
 • territory law
 • year.
+ACT target—see section 6.
 council means the Climate Change Council established under section 16.
 government agency means—
   (a) the public service; or
