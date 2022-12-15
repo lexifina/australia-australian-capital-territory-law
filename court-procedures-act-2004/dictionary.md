@@ -13,6 +13,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • Supreme Court
 • reviewable decision notice
 • territory authority.
+Aboriginal and Torres Strait Islander children and young people commissioner, for part 7A (Procedural provisions—proceedings involving children or young people)—see section 68A (1).
+Aboriginal or Torres Strait Islander child or young person, for part 7A (Procedural provisions—proceedings involving children or young people)—see section 68A (1).
+Aboriginal or Torres Strait Islander person, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, dictionary.
 advisory committee means the advisory committee established under section 11.
 assistant sheriff, for part 5 (Court security)—see section 40.
 care and protection chapters, for part 7A (Procedural provisions—proceedings involving children or young people)—see section 68A.
