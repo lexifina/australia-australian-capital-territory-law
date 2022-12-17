@@ -10,13 +10,10 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • public servant
 • territory law.
 advisory committee, for part 3A (Domestic and family violence incident review)—see section 16B.
-appointed member—see section 6 (1).
 approved crisis support organisation means an organisation approved under section 17.
 child, of a person, includes—
   (a) a child who normally lives with the person; and
   (b) a child for whom the person is a guardian.
-coordinator—see section 11.
-Note The victims of crime commissioner is the coordinator.
 council means the Domestic Violence Prevention Council established by section 4.
 DFVR coordinator, for part 3A (Domestic and family violence incident review)—see section 16B.
 domestic or family violence incident, for part 3A (Domestic and family violence incident review)—see section 16C.
