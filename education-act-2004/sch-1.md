@@ -12,16 +12,16 @@ column 1 item | column 2 section | column 3 decision | column 4 entity | column 
 9 | 14C (4) | issue approval statement subject to condition | applicant | director-general
 10 | 15A | revoke approval statement | child’s parents | director-general
 11 | 26 (3) | refuse to waive fee | applicant | Minister
-12 | 36 | suspend, transfer or exclude student | parents of student | director-general
-13 | 84 (5) | refuse to give in-principle approval | applicant for in-principle approval | Minister
-14 | 86 (5) | direct registrar to refuse to provisionally register non-government school | applicant for provisional registration of school | Minister
-15 | 88 (3) | direct registrar to register non-government school for shorter period than applied for | applicant for registration of school | Minister
-16 | 88 (5) | direct registrar to refuse to register non-government school | applicant for registration of school | Minister
-17 | 88B (6) | direct registrar to refuse to register non-government school at additional campus | applicant for registration of additional campus | Minister
-18 | 90 (6) | direct registrar to refuse to register non-government school at additional educational level | applicant of registration at additional educational level | Minister
-19 | 95 (1) | direct registrar to cancel provisional registration or registration of non-government school | entity that has registration cancelled | Minister
-20 | 97 (3) | direct registrar to renew registration of non-government school for shorter period than period applied for | applicant for renewal of registration | Minister
-21 | 97 (5) | direct registrar to refuse to renew registration of non-government school | applicant for renewal of registration | Minister
+12 | 17H | suspend student from a government school | parent of student | director-general
+13 | 17P | transfer student from a government school | parent of student | director-general
+14 | 17ZA | exclude student from enrolling at any government school | parent of student | director-general
+15 | 88 | refuse in-principle approval | applicant for in-principle approval | Minister
+16 | 92 (2) | refuse to register non-government school | applicant for registration of school | Minister
+17 | 93 | register non-government school subject to condition | applicant for registration of school | Minister
+18 | 101 (3) | refuse to amend non-government school’s registration | proprietor of non-government school | Minister
+19 | 102 (1) | amend non-government school’s registration subject to condition | proprietor of non-government school | Minister
+20 | 120 | give compliance direction | proprietor of non-government school | registrar
+21 | 125A | take regulatory action | proprietor of non-government school | Minister
 22 | 131 (3) | refuse to register child for home education | parents of child | director-general
 23 | 131 (3) | register child for home education for less than 2 years | parents of child | director-general
 24 | 135 (1) | cancel registration of child for home education | parents of child | director-general
