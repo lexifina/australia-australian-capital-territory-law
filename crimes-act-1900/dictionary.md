@@ -97,6 +97,7 @@ frisk search, for part 10 (Criminal investigation)—see section 185.
 Full Court, for part 20 (Inquiries into convictions)—see section 421.
 genital or anal region, for part 3A (Intimate image abuse)—see section 72A.
 goods, for division 6.6 (Contamination of goods and related offences)—see section 135.
+government or non-government school—see the Education Act 2004, dictionary.
 grievous bodily harm to a person includes—
   (a) any permanent or serious disfiguring of the person; and
   (b) for a pregnant woman—loss of or serious harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
