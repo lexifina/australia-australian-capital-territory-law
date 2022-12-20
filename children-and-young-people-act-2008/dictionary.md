@@ -174,6 +174,8 @@ frisk search—
   (b) for part 16.3 (Children and young people in therapeutic protection)—see section 586.
 general parental authority, for a residential care service—see section 520 (2).
 government agency for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
+government or non-government school—see the Education Act 2004, dictionary.
+government school—see the Education Act 2004, dictionary.
 harmful conduct, engaged in by a child or young person—see section 533.
 head, of a designated entity, for division 25.3.3 (Sharing reportable conduct information)—see the Ombudsman Act 1989, section 17D (1).
 health care treatment means treatment of an illness, disability, disorder or condition by a health practitioner.
