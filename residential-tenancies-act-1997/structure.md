@@ -38,4 +38,3 @@
 ## Part 7 Residential tenancy databases
 ## Part 8 Registration of standard guarantee contract for commercial guarantee
 ## Part 9 Miscellaneous
-## Part 16 COVID-19 emergency response
