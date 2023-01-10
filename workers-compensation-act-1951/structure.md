@@ -52,4 +52,3 @@
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 Notification and review of decisions
 # Chapter 13 Miscellaneous
-# Chapter 21 Transitional—Employment and Workplace Safety Legislation Amendment Act 2020
