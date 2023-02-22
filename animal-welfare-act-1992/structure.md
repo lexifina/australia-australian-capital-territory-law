@@ -5,7 +5,7 @@
 ### Division 3A.1 Preliminary
 ### Division 3A.2 Pet business licensing
 ### Division 3A.3 Pet business offences
-## Part 4 Research, teaching and breeding
+## Part 4 Using or breeding animals for research or teaching
 ### Division 4.1 Licences
 ### Division 4.2 Authorisations
 ### Division 4.3 Interstate researchers

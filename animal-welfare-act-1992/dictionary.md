@@ -1,18 +1,24 @@
 # Dictionary
 (see s 2)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • chief police officer
+• contravene
 • Corporations Act
 • director-general (see s 163)
+• entity
 • fail
 • found guilty
+• function
 • maximum penalty
+• may (see s 146)
 • Minister (see s 162)
-• person
+• must (see s 146)
+• person (see s 160)
+• police officer
 • public servant
 • reviewable decision notice
+• the Territory
 • veterinary practitioner.
 animal means—
   (a) a live member of a vertebrate species, including—
