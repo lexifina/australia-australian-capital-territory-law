@@ -3,7 +3,7 @@
 ### Division 2.1 Registration of dogs
 ### Division 2.2 Keeping 4 or more dogs
 ### Division 2.3 Dangerous dogs
-### Division 2.4 Special dog licences
+### Division 2.4 Special licences for dogs
 ### Division 2.4A Racing greyhounds
 ### Division 2.5 Control of dogs
 ### Division 2.6 Attacking, harassing and menacing dogs

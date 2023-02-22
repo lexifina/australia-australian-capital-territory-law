@@ -1,12 +1,17 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • contravene
 • director-general (see s 163)
+• entity
+• fail
 • found guilty
 • function
+• maximum penalty
+• may (see s 146)
+• Minister (see s 162)
+• must (see s 146)
 • person (see s 160)
 • police officer
 • reviewable decision notice
@@ -33,7 +38,7 @@ animal welfare offence means an offence against any of the following provisions 
   (n) section 15 (Transport and containment);
   (o) section 15A (Transport of dogs);
   (p) section 15B (Intensive breeding of cats or dogs);
-  (q) section 16 (Working etc unfit animals);
+  (q) section 16 (Working etc unfit animal);
   (r) section 17 (Matches, competitions etc);
   (s) section 19 (Medical and surgical procedures—people other than veterinary practitioners).
 approved animal welfare entity means an entity approved by the registrar under section 137.
@@ -116,5 +121,5 @@ serious injury, to a person or animal, means either of the following:
     (i) endangers, or is likely to endanger, the person or animal’s life; or
     (ii) is, or is likely to be, a significant or longstanding injury;
   (b) 1 or more serious dog bites.
-special licence, for division 2.4 (Special dog licences)—see section 29.
+special licence, for division 2.4 (Special licences for dogs)—see section 29.
 welfare, in relation to animals, for part 5 (Assistance animals)—see section 94.
