@@ -170,6 +170,9 @@ Tenant may authorise urgent repairs in certain circumstances
 (b) if the lessor has not nominated a tradesperson, or the nominated tradesperson cannot be contacted or is otherwise unavailable—the repairs must be performed by a qualified tradesperson of the tenant’s choosing;
 (c) if the repairs are arranged by the tenant in accordance with these procedures—the lessor is liable for the cost of repairs and the tradesperson may bill the lessor direct;
 (d) if the tenant does not act in strict compliance with this clause—the tenant is personally liable for the cost of any urgent repairs arranged by the tenant.
+Premises must comply with minimum housing standards
+62A The lessor must ensure the premises comply with the minimum housing standards applying to the premises.
+Note A regulation may prescribe minimum housing standards for premises, including in relation to physical accessibility, energy efficiency, safety and security, sanitation or amenity (see Residential Tenancies Act, s 19A (1)).
 Tenant to look after the premises
 The tenant must take reasonable care of the premises and keep the premises reasonably clean
 63 During the tenancy, the tenant must—
@@ -273,11 +276,15 @@ Access for purchasers and new tenants
 (2) However, a tenant is not required to agree to more than 2 inspections a week.
 (3) The inspection must take place at a time agreed between the parties with reasonable regard to the work and other commitments both of the tenant and of the lessor (or their agents).
 (4) If the parties are unable to agree on an appropriate time, the lessor or the tenant may apply to the tribunal for an order permitting access at a stated time.
-Access for making or inspecting repairs
-82 (1) On giving the tenant 1 week notice (or such other agreed period), the lessor may enter the premises at a reasonable time, having regard to the interests of the tenant and the lessor, for the purpose of making or inspecting repairs.
+Access for making or inspecting repairs or complying with minimum housing standards
+82 (1) On giving the tenant 1 week’s notice (or such other agreed period), the lessor may enter the premises at a reasonable time, taking into account the interests of the tenant and the lessor, for the purpose of—
+(a) making or inspecting repairs; or
+(b) inspecting the premises to ensure the premises comply with the minimum housing standards; or
+(c) undertaking work, or inspecting work undertaken, to ensure the premises comply with the minimum housing standards.
+(1A) However, the lessor must only enter premises for the purpose of an inspection, making repairs or undertaking work (the activity) if, taking into account the nature of the activity, it is reasonable and necessary to do so.
 (2) For urgent repairs, the lessor must give reasonable notice and enter the premises at a reasonable time having regard to the interests of the tenant and the lessor.
 Notice to vacate by lessor
-83 The notice to vacate must be in writing, in the form required by the Residential Tenancies Act, and must include the following information:
+83 A notice to vacate must be in writing, in the form required by the Residential Tenancies Act, and must include the following information:
 (a) the address of the premises;
 (b) the ground(s) on which the notice is issued, together with sufficient particulars to identify the circumstances giving rise to the ground(s);
 (c) that the lessor requires the tenant to vacate the premises by the expiry of the required notice period and that the tenancy ends on the day that the tenant vacates the premises.
@@ -286,11 +293,13 @@ Notice of intention to vacate by tenant
 (2) On receiving a notice of intention to vacate, the lessor may—
 (a) accept the notice and accept that the tenancy ends on the date nominated in the notice; or
 (b) apply to the tribunal for confirmation of the tenancy agreement, an order for compensation or both.
-85 The notice of intention to vacate must be in the same form and contain the same information as the notice to vacate from the lessor except the notice must contain the statement that the tenant intends to vacate the premises on a certain date and the tenancy terminates on that date.
+85 The notice of intention to vacate must be in the same form and contain the same information as a notice to vacate from the lessor except the notice must contain the statement that the tenant intends to vacate the premises on a certain date and the tenancy terminates on that date.
 Termination where premises are not fit for habitation
-86 The lessor or the tenant may, by written notice, terminate the tenancy on a date specified in the notice on the following grounds:
+86 (1) The lessor or the tenant may, by written notice, terminate the tenancy on a date specified in the notice on the following grounds:
 (a) the premises are not fit for habitation;
 (b) the premises are not available or will not be available because of Government action within a period of 4 weeks of the date that notice is given.
+(2) However, a lessor or tenant must not terminate the tenancy under subclause (1) only because the lessor has failed to comply with the minimum housing standards applying to the premises.
+Note A tenant may apply to the ACAT to terminate the tenancy if the lessor fails to comply with the minimum housing standards (see Residential Tenancies Act, s 46AA).
 87 (1) In either case the lessor must give not less than 1 week’s notice of termination of the tenancy, and the rent abates from the date that the premises are uninhabitable.
 (2) The tenant may give 2 days notice of termination of the tenancy.
 (3) If neither the lessor nor the tenant give notice of termination of the tenancy, the rent abates for the period that the premises are unable to be used for habitation, but the tenancy resumes when they are able to be used again.
@@ -328,25 +337,20 @@ Termination of tenancy for breach other than nonpayment of rent
 (b) if the breach is not remedied within 2 weeks after the day of service or if the breach is not capable of remedy—the lessor must give a notice to vacate the premises within 2 weeks after the date of service of the notice to vacate;
 (c) if the tenant does not vacate the premises within the period of 2 weeks after the date of service of a notice to vacate—the lessor may apply to the tribunal for an order terminating the tenancy and for the eviction of the tenant;
 (d) if the tenant breaches the terms of the tenancy on 3 occasions on any ground—on the 3rd occasion the lessor may serve a notice to vacate and need not give the tenant 2 weeks to remedy the breach.
-Termination of tenancy without cause
-94 The lessor may serve a notice to vacate during the term of a tenancy requiring the tenant to vacate the premises at the end of the notice provided that—
-(a) the notice is for 26 weeks; and
-(b) the notice does not require the tenant to vacate the premises during a fixed term.
-95 (1) If the lessor serves a notice on the tenant under clause 94 requiring the tenant to vacate the premises at the end of the notice, the tenant may vacate the premises before that day without breaching the residential tenancy agreement by giving the lessor a notice of intention to vacate—
-(a) if the term of the tenancy ends in less than 2 weeks—at least 4 days before vacating the premises; and
-(b) in any other case—at least 3 weeks before vacating the premises.
-(2) If subclause (1) applies, the tenancy terminates on the day the tenant vacates the premises.
 Termination of periodic tenancy
-96 (1) If there is a periodic tenancy, the lessor may serve on the tenant a notice to vacate for the following periods on the following grounds:
-(a) 8 weeks notice if the lessor genuinely intends to live in the premises;
-(b) 8 weeks notice if the lessor genuinely believes the lessor’s immediate relative intends to live in the premises;
-(c) 8 weeks notice if the lessor genuinely believes an interested person intends to live in the premises;
-(d) 8 weeks notice if the lessor genuinely intends to sell the premises;
-(e) 12 weeks notice if the lessor genuinely intends to reconstruct, renovate or make major repairs to the premises and the reconstruction, renovation or repairs cannot reasonably be carried out with the tenant living in the premises.
-(1A) If the lessor serves a notice to vacate on the ground of an intention or belief mentioned in subclause (1) (a), (b) or (c), the lessor must also give the tenant a statutory declaration about the intention or belief.
-(2) In this clause:
-immediate relative means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
-interested person, for a lessor, means a person who is not an immediate relative of the lessor but who has a close family or personal relationship with the lessor and who has a reasonable expectation arising from that relationship that the lessor would provide accommodation for that person.
+96 (1) For a periodic tenancy, the lessor may give the tenant—
+(a) if the lessor genuinely intends to live in the premises—8 weeks notice to vacate; or
+(b) if the lessor genuinely believes the lessor’s immediate relative intends to live in the premises—8 weeks notice to vacate; or
+(c) if the lessor genuinely believes an interested person intends to live in the premises—8 weeks notice to vacate; or
+(d) if the lessor genuinely intends to sell the premises—8 weeks notice to vacate; or
+(e) if the lessor genuinely intends to reconstruct, renovate or make major repairs to the premises and the reconstruction, renovation or repairs cannot reasonably be carried out with the tenant living in the premises—12 weeks notice to vacate; or
+(f) if the lessor genuinely requires the premises for a lawful use other than as a home—26 weeks notice to vacate.
+(2) A notice to vacate under this clause must be accompanied by written evidence supporting the lessor’s reason for the notice.
+Examples—written evidence
+statutory declaration, development application, quotes from a tradesperson for renovations, notice of decision from the housing commissioner
+(3) In this clause:
+immediate relative, of the lessor, means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
+interested person, for a lessor, means a person who is not an immediate relative of the lessor but who has a close family or personal relationship with the lessor and who has a reasonable expectation arising from that relationship that the lessor would provide accommodation for the person.
 97 (1) If a tenant is required to vacate the premises in accordance with clause 96, the tenant may vacate the premises at any time during the 2 weeks before the date specified in the notice to vacate provided the tenant gives the lessor 4 days notice of intention to vacate.
 (2) In this case, the tenancy terminates on the date that the tenant vacates the premises.
 Notices of address for service

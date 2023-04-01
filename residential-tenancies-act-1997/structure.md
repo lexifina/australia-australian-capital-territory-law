@@ -5,6 +5,7 @@
 ### Division 2.2 Precontractual obligations
 ### Division 2.3 Consideration
 ### Division 2.4 Lessor’s obligations on signing agreement
+### Division 2.5 Minimum housing standards
 ## Part 3 Bonds
 ### Division 3.1 Payment of bonds
 ### Division 3.2 Depositing bond
@@ -38,3 +39,4 @@
 ## Part 7 Residential tenancy databases
 ## Part 8 Registration of standard guarantee contract for commercial guarantee
 ## Part 9 Miscellaneous
+## Part 19 Transitional—Residential Tenancies Legislation Amendment Act 2023
