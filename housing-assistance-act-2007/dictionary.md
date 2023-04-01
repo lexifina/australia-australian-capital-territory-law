@@ -1,13 +1,11 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • director-general (see s 163)
 • entity
 • exercise
 • function
-• Minister (see s 162)
 • planning and land authority
 • reviewable decision notice
 • territory land
@@ -32,4 +30,5 @@ official visitor—see section 25V.
 protected information, for part 5 (Protection of information)—see section 28.
 registered community housing provider, for part 4A (Affordable and community housing programs)—see section 25A.
 reviewable decision, for part 6A (Notification and review of decisions—see section 31A.
+temporary housing assistance means housing assistance identified as temporary housing assistance in an approved housing assistance program.
 visitable place—see section 25V.
