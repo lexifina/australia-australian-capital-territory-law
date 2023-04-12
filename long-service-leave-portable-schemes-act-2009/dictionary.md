@@ -73,7 +73,9 @@ recognised service, for a registered worker—
   (b) in the contract cleaning industry—see schedule 2, section 2.3 (1); and
   (c) in the community sector industry—see schedule 3, section 3.3 (1); and
   (d) in the security industry—see schedule 4, section 4.3 (1).
+registered employee means an employee who is a registered worker.
 registered employer means a person who is registered under section 34.
+registered voluntary member means a voluntary member who is a registered worker.
 registered worker means an individual who is registered under section 46.
 registrar means the chief executive officer of the authority within the meaning of the Financial Management Act 1996, dictionary, definition of chief executive officer.
 registration day, in relation to a worker—see section 15.
