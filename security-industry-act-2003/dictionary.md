@@ -2,20 +2,20 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
-· ACAT
-· ACT
-· Australian Criminal Intelligence Commission
-· commissioner for fair trading
-· contravene
-· exercise
-· foreign country
-· found guilty
-· function
-· occupational discipline order
-· police officer
-· public servant
-· reviewable decision notice
-· working day.
+• ACAT
+• ACT
+• Australian Criminal Intelligence Commission
+• commissioner for fair trading
+• contravene
+• exercise
+• foreign country
+• found guilty
+• function
+• occupational discipline order
+• police officer
+• public servant
+• reviewable decision notice
+• working day.
 close associate—see section 22.
 criminal intelligence, for part 2A (Criminal intelligence)—see section 9A.
 employee licence—see section 13.
@@ -36,7 +36,6 @@ police certificate, for a person, means a written statement by the Australian Fe
     (iii) a State; or
     (iv) another country; and
   (b) if so—particulars of each offence.
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 property includes money and other valuables.
 relevant offence means an offence (other than an offence mentioned in section 21 (3)) against—
   (a) this Act; or
