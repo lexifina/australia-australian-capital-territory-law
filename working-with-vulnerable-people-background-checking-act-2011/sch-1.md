@@ -18,6 +18,7 @@ Note See the Children and Young People Act 2008, particularly:
 • pt 2.2 (Children and Youth Services Council);
 • pt 3.2 (Family group conferences—facilitators);
 • s 438 (Care and protection assessment—authorisation of assessors);
+• s 514B (Approved carers—director-general may approve);
 • s 516 (Kinship carer—specific parental authority);
 • s 518 (Foster carer—specific parental authority);
 • s 520 (Residential care service—general parental authority);
@@ -89,6 +90,7 @@ An activity or service is a regulated activity if the activity is conducted, or 
 ## (c) people who cannot communicate, or who have difficulty communicating, in English.
 Examples
 an activity or service that provides assistance settling in the ACT, including mentoring, employment services, transport or accommodation support, specifically for migrants, refugees, asylum seekers or people from non-English speaking backgrounds
+Note A person is not required to be registered to engage in a regulated activity for a court or tribunal as an interpreter for a vulnerable person who cannot communicate, or who has difficulty communicating, in English (see s 12 (2) (j)).
 ## 1.10 Homeless people
 An activity or service is a regulated activity if the activity is conducted, or the service is provided, to support people who are homeless.
 Examples

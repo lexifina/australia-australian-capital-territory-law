@@ -63,8 +63,6 @@ engaged, in a regulated activity—see section 9.
 independent advisor means an independent advisor appointed under section 34.
 interim condition—see section 54A.
 jurisdiction means a State, the Commonwealth or an internal Territory, including the ACT.
-kinship care activity means a regulated activity under the Children and Young People Act 2008, part 15.4 (Out-of-home carers) as a kinship carer.
-Note An activity conducted, or a service provided, by a kinship carer under the Children and Young People Act 2008 is a regulated activity (see sch 1, s 1.1).
 kinship carer—see the Children and Young People Act 2008, section 516.
 named employer, for a regulated activity—see section 18 (1) (d) (i).
 NDIS Act means the National Disability Insurance Scheme Act 2013 (Cwlth).
