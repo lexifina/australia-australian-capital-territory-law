@@ -30,5 +30,4 @@
 ### Division 9.2 Powers of authorised people
 ### Division 9.3 Cooperation with other jurisdictions—racing greyhounds
 ## Part 10 Miscellaneous
-## Part 12 Transitional—Domestic Animals (Racing Greyhounds) Amendment Act 2017
 ## Part 14 Transitional—Domestic Animals Legislation Amendment Act 2022
