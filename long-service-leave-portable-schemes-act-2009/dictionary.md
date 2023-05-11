@@ -89,6 +89,7 @@ service period, for a registered worker—
   (b) in the contract cleaning industry—see schedule 2, section 2.4A (1); and
   (c) in the community sector industry—see schedule 3, section 3.5A (1); and
   (d) in the security industry—see schedule 4, section 4.5A (1).
+staff of the authority, for part 8A (Administration)—see section 79J.
 voluntary member—see section 10.
 work, in a covered industry—see section 11.
 worker—see section 8.

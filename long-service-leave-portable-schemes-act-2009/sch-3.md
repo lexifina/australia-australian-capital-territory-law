@@ -74,10 +74,15 @@ prescribed period, for long service leave accrued by a registered employee for t
   (b) if the governing board has allowed, on application by the employer or the employee, a period longer than 6 months—the period allowed by the board; or
   (c) if the employer and employee agree on a period longer than 6 months—the period agreed.
 ## 3.9 Entitlement to payment instead of leave—community sector industry
-## (1) This section applies to a registered worker for the community sector industry if the worker has 5 years recognised service and any of the following apply to the worker:
-## (a) the worker has left the industry because of total incapacity;
-## (b) the worker has reached the prescribed retiring age;
-## (c) the worker has died.
+(1) This section applies to a registered worker for the community sector industry if the worker has 5 years recognised service and—
+  (a) all of the following apply:
+    (i) the worker has permanently left the industry;
+    (ii) 20 weeks have passed since the day the worker permanently left the industry;
+    (iii) the worker has not been credited with service in the workers register for any of the days in the 20-week period; or
+  (b) any of the following apply:
+    (i) the worker has left the industry because of total incapacity;
+    (ii) the worker has reached the prescribed retiring age;
+    (iii) the worker has died.
 ## (2) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the number of weeks long service leave worked out in accordance with the long service leave formula.
 ## (3) In this section:
 prescribed retiring age means—
