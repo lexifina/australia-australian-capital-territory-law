@@ -1,14 +1,17 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • adult
+• breach
 • chief police officer
 • child
+• contravene
 • director of public prosecutions
 • lawyer
 • magistrate
 • Magistrates Court
+• may (see s 146)
+• must (see s 146)
 • parent
 • police officer
 • proceeding
@@ -58,10 +61,13 @@ family violence—see the Family Violence Act 2016, section 8.
 final order means a protection order that is not an interim order, and includes an order amending a final order.
 firearm—see the Firearms Act 1996, section 6.
 firearms licence—see the Firearms Act 1996, dictionary, definition of licence.
+general interim order—
+  (a) means a protection order (including a consent order) made under section 19 (Interim orders—general interim orders and special interim orders); and
+  (b) includes an order (other than a final order) that amends or revokes a general interim order.
 impaired decision-making ability—see section 68.
-interim order—
-  (a) means a protection order (including a consent order) made under section 19 (Interim orders—grounds for making); and
-  (b) includes an order (other than a final order) that amends or revokes an interim order.
+interim order means—
+  (a) a general interim order; or
+  (b) a special interim order.
 litigation guardian, of a person, means a person appointed in accordance with section 72.
 personal protection order means an interim or final order other than a workplace protection order.
 personal violence—see section 8.
@@ -79,12 +85,18 @@ protection order—
 recognised court, for part 7 (Reciprocal arrangements)—see section 90.
 recognised order, for part 7 (Reciprocal arrangements)—see section 90.
 registered order, for part 7 (Reciprocal arrangements)—see section 90.
+related—a charge against a person for an offence is related to an application for a final order and, if an interim order is made on the application, an interim order if—
+  (a) the person charged is the respondent to the application; and
+  (b) the offence is against the affected person, other than an offence against section 35 (Offence—contravention of protection order).
 respondent means a person—
   (a) in relation to whom an application for a protection order has been made; or
   (b) against whom a protection order has been made.
 return date, for an application for a protection order, means the day fixed by the Magistrates Court for return of the application before the court.
 returned, in relation to an application for a protection order, for division 4.2A (Non-attendance by party)—see section 47.
 revoke includes cancel.
+special interim order—
+  (a) means a protection order (including a consent order) made under section 19 (Interim orders—general interim orders and special interim orders); and
+  (b) includes an order (other than a final order) that amends or revokes a special interim order.
 timing notice, for a preliminary conference—see section 39.
 workplace protection order means an interim or final order restraining a person from personal violence in relation to a workplace.
 Note See s 8 (2) for the meaning of personal violence by a person in relation to a workplace.
