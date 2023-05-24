@@ -34,6 +34,7 @@ personal information—
   (b) for an individual who is or has been an officer of an agency or staff member of a Minister, does not include information about—
     (i) the individual’s position or functions as an officer or staff member; or
     (ii) things done by the individual in exercising functions as an officer or staff member.
+policy document—see section 23.
 principal officer, of an agency, means—
   (a) for an administrative unit—the director-general of the administrative unit; or
   (b) for the Supreme Court, Magistrates Court, Coroner’s Court or ACAT—the principal registrar appointed under the Court Procedures Act 2004, section 11A; or

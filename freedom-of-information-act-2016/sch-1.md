@@ -1,6 +1,5 @@
 # Schedule 1 Information disclosure of which is taken to be contrary to the public interest
 (see s 16)
-Information mentioned in this schedule is taken to be contrary to the public interest to disclose unless the information identifies corruption or the commission of an offence by a public official or that the scope of a law enforcement investigation has exceeded the limits imposed by law.
 ## 1.1 Information disclosure of which would be contempt of court or Legislative Assembly etc
 Information the disclosure of which would, apart from this Act and any immunity of the Crown—
 ## (a) be in contempt of court; or
@@ -115,3 +114,5 @@ Information in the possession of the ombudsman that has been obtained or generat
 ## (e) a report on a law enforcement investigation that has already been disclosed to the entity the subject of the investigation.
 ## (5) In this section:
 law includes law of the Commonwealth, a State or a foreign country.
+## 1.15 Information in possession of Inspector of Correctional Services
+Information in the possession of the inspector of correctional services appointed under the Inspector of Correctional Services Act 2017, section 9 that has been obtained or generated in relation to an examination or review conducted under that Act, section 18.
