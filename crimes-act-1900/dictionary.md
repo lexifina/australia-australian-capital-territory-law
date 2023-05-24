@@ -1,7 +1,6 @@
 # Dictionary
 (see s 4)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 In particular, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • Act
 • adult
@@ -22,20 +21,22 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • function
 • head of service
 • health practitioner
-• indictable offence (see also s 190)
+• indictable offence (see s 190)
 • intersex person (see s 169B)
 • judge
 • lawyer
 • magistrate
+• may (see s 146)
 • medical practitioner
 • midwife
-• penalty unit (see also s 133)
+• must (see s 146)
+• penalty unit (see s 133)
 • police officer
 • rural fire service
 • SES
-• summary offence (see also s 190)
+• summary offence (see s 190)
 • the Territory
-• transgender person (see s169A).
+• transgender person (see s 169A).
 ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 accused, for a person before the Magistrates Court, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
