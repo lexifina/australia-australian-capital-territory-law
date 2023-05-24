@@ -1,21 +1,23 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • adult
+• breach
 • chief police officer
 • child
 • civil union
 • civil union partner
+• contravene
 • director of public prosecutions
 • domestic partner (see s 169)
 • found guilty
 • lawyer
 • magistrate
 • Magistrates Court
+• may (see s 146)
+• must (see s 146)
 • parent
 • police officer
-• prescribed
 • proceeding
 • public advocate
 • registrar
@@ -134,7 +136,7 @@ return date, for an application for a protection order, means the day fixed by t
 returned, in relation to an application for a protection order, for division 4.2A (Non-attendance by party)—see section 52.
 revoke includes cancel.
 special interim order—
-  (a) means a protection order (including a consent order) made under section 22 (Interim orders—general interim orders and special interim orders); or
+  (a) means a protection order (including a consent order) made under section 22 (Interim orders—general interim orders and special interim orders); and
   (b) includes an order (other than a final order) that amends or revokes a special interim order.
 Note An interim order made by a court under pt 8 (Court-initiated actions) is taken to be a special interim order (see s 113).
 timing notice, for a preliminary conference—see section 45.
