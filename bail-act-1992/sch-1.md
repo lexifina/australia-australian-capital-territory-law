@@ -8,6 +8,9 @@ column 1 item | column 2 provision | column 3 description of offence
 4 | 52 | sexual assault in the second degree
 5 | 54 | sexual intercourse without consent
 6 | 55 (1) | sexual intercourse with young person under 10 years old
+7 | 55 (3) | sexual intercourse with young person under 16 years old
+8 | 55A (1) | sexual intercourse with young person under special care
+9 | 56 (1) | persistent sexual abuse of child or young person under special care
 ## Part 1.2 Offences against Criminal Code
 column 1 item | column 2 provision | column 3 description of offence
 1 | 310 | aggravated robbery
