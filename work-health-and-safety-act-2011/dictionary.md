@@ -97,6 +97,7 @@ representative, in relation to a worker, means—
   (c) any other person the worker authorises to represent him or her.
 reviewable decisions, for part 12 (Review of decisions)—see section 223.
 serious injury or illness, for part 3 (Incident notification)—see section 36.
+sexual assault incident, for part 3 (Incident notification)—see section 37A.
 staff of the office, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.30.
 State includes Territory.
 statement of expectations, for schedule 2, part 2.2 (Office of the Work Health and Safety Commissioner)—see section 2.39.

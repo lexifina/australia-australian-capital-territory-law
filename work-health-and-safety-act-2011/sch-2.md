@@ -269,7 +269,7 @@ A member of the staff of the office is, in relation to the exercise of a functio
 The WHS commissioner may delegate the commissioner’s functions under this Act or another territory law under which the commissioner performs a function to a member of the staff of the office.
 Note For the making of delegations and the exercise of delegated functions, see the Legislation Act, pt 19.4.
 ## 2.36 Other arrangements for staff and facilities
-The WHS commissioner may arrange with the head of service to use the services of a public servant or territory facilities.
+The WHS commissioner may arrange with the head of service to use the services of a public servant or Territory facilities.
 Note The head of service may delegate powers in relation to the management of public servants to a public servant or another person (see Public Sector Management Act 1994, s 18).
 ## Division 2.2.5 Office—policy and reporting framework
 ## 2.37 Compliance and enforcement policy
