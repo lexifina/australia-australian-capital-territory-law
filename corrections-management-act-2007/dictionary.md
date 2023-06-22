@@ -139,5 +139,7 @@ strip search, of a detainee—see section 107.
 test sample—see section 132.
 visitable place—see section 57.
 visiting conditions, at a correctional centre, means conditions declared under section 143 (Visiting conditions) in relation to the centre.
-visitor, in relation to a correctional centre, includes a person wishing to enter the centre as a visitor.
+visitor, to a correctional centre, includes a person working at the correctional centre, other than a corrections officer, and a person who intends to enter the correctional centre as a visitor.
+Examples—person working at correctional centre
+counsellor, psychologist, tradesperson, volunteer
 young detainee, for chapter 4 (Detention in police and court cells etc)—see the Children and Young People Act 2008, section 95.
