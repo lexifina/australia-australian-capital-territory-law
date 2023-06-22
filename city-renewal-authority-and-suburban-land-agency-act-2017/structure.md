@@ -8,7 +8,10 @@
 ### Division 2.6 Authority financial matters
 ### Division 2.7 Authority CEO, staff and consultants
 ### Division 2.8 Urban renewal precincts
-### Division 2.9 Revitalisation of Melbourne and Sydney Buildings
+### Division 2.9 Melbourne and Sydney Buildings
+#### Subdivision 2.9.1 Definitions—div 2.9
+#### Subdivision 2.9.2 Revitalisation of Melbourne and Sydney Buildings
+#### Subdivision 2.9.3 Other work on Melbourne and Sydney Buildings
 ## Part 3 Suburban land agency
 ### Division 3.1 Establishment, objects and functions of suburban land agency
 ### Division 3.2 Agency board
