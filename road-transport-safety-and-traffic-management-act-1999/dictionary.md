@@ -18,6 +18,7 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • light rail vehicle
 • motor vehicle
 • National Transport Commission
+· offence of culpable driving
 • registered operator
 • responsible person
 • ride
@@ -31,7 +32,9 @@ Note 3 The Road Transport (General) Act 1999 contains definitions relevant to th
 • trailer
 • vehicle.
 Note 4 If a word or expression is defined in an Act (but not a regulation or another publication) included in the road transport legislation, the definition applies to each use of the word or expression in other road transport legislation unless the contrary intention appears (see Road Transport (General) Act 1999, s 8).
-aggravated offence, against section 7 (Furious, reckless or dangerous driving)—see section 7A.
+aggravated offence—
+  (a) against section 5A (Races, attempts on speed records, speed trials etc)—see section 5AAA; and
+  (b) against section 7 (Furious, reckless or dangerous driving)—see section 7A.
 authorised person, for a provision of this Act, means—
   (a) a person who is appointed as an authorised person under the Road Transport (General) Act 1999, section 19 for the provision; or
   (b) a person who is, under a regulation made under this Act or the Road Transport (General) Act 1999, an authorised person for the provision.
@@ -52,6 +55,8 @@ loaded unsafely, for part 3 (Unsafe loads)—see section 11.
 minimum travel time, for a shortest practicable route, for part 6 (Traffic offence detection devices)—see section 22A.
 mobile device, for part 6 (Traffic offence detection devices)—see the Road Transport (Road Rules) Regulation 2017, section 300 (4).
 mobile device detection system, for part 6 (Traffic offence detection devices)—see section 22A.
+prescribed concentration, of alcohol in a person’s blood or breath—see the Road Transport (Alcohol and Drugs) Act 1977, section 4C.
+prescribed drug—see the Road Transport (Alcohol and Drugs) Act 1977, dictionary.
 prescribed traffic control device means a device, line, marking, sign, signal or anything else prescribed by regulation for this definition, and includes any board, device, plate, screen, word, and anything else, with a prescribed traffic control device that provides information about the application of the device.
 red traffic arrow includes a flashing red traffic arrow.
 red traffic light includes a flashing red traffic light.
@@ -68,3 +73,10 @@ traffic accident—see section 15.
 traffic lights includes any traffic arrows installed with or near the lights.
 traffic offence detection device—see section 23.
 traffic offence evasion article means any device or substance (the article) that is designed or adapted, or apparently designed or adapted, to be fitted to, applied to, or carried in a vehicle to detect, interfere with, or reduce the effectiveness of, a traffic offence detection device, whether or not the article is operating or in working order.
+vulnerable road user means a road user other than the driver of, or passenger in, an enclosed motor vehicle.
+Examples—vulnerable road users
+· pedestrians
+· cyclists
+· motorcyclists
+· riders of animals
+· users of personal mobility devices
