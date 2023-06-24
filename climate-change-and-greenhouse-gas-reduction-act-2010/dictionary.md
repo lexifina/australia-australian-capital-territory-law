@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ACT
 • administrative unit
 • appoint
+• chief planning executive
 • disallowable instrument (see s 9)
 • entity
 • financial year
