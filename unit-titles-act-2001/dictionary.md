@@ -156,5 +156,5 @@ utility services includes—
   (b) the supply of water (for drinking or any other use); and
   (c) sewerage and drainage services; and
   (d) garbage collection services; and
-  (e) gas, electricity and air services (including airconditioning and heating); and
+  (e) gas, electricity and air services (including air conditioning and heating); and
   (f) communication services (including telephone, radio, television and internet).
