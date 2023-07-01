@@ -25,7 +25,7 @@ An executive committee member is protected from civil liability in relation to t
 ## (g) arrange for the financial records of the units plan to be audited before the annual general meeting if either—
 ## (i) the number of units in the units plan is more than 100, or another number prescribed by regulation; or
 ## (ii) the annual budget of the owners corporation is more than $250 000, or another amount prescribed by regulation; and
-  (h) maintain an up-to-date consolidated version of the rules of the owners corporation.
+  (h) if the rules of the owners corporation include alternative rules—maintain an up-to-date compilation of the alternative rules.
 Note If minutes or other records kept by the executive committee contain personal information, the executive committee must comply with the Australian Privacy Principles under the Privacy Act 1988 (Cwlth) in relation to that information.
 ## (2) The executive committee must give a copy of the minutes of proceedings required under subsection (1) to each member of the owners corporation within 14 days after the day the meeting was held.
 ## (3) The executive committee must keep the documents, records and books of account for at least 7 years and make copies available for inspection on request by any member of the owners corporation.
@@ -35,6 +35,21 @@ Note If minutes or other records kept by the executive committee contain persona
 ## (a) the defendant took reasonable steps to ensure that the section was complied with; or
 ## (b) the failure to comply happened without the defendant’s knowledge.
 Maximum penalty: 20 penalty units.
+## 2.1A Working out the annual budget for audit purposes
+(1) For section 2.1 (1) (g) (ii), the annual budget of the owners corporation is the sum of—
+  (a) an estimate of each of the following for the financial year in which the annual general meeting is held:
+    (i) the total general fund contribution;
+    (ii) if there is a special resolution under section 78 (2) (b)—the general fund contribution payable by each unit owner, or unit owner in a particular class;
+    (iii) the total sinking fund contribution; and
+  (b) an estimate of any other amounts to be paid into the general fund in the financial year in which the annual general meeting is held; and
+  (c) any other amounts held by the owners corporation for the purposes of managing the units plan at the beginning of the financial year in which the annual general meeting is held.
+Examples—other amounts held by owners corporation
+• sinking fund
+• special purpose fund
+(2) In this section:
+general fund—see section 72.
+total general fund contribution—see section 75 (2) (a) (i).
+total sinking fund contribution—see section 82 (3) (b).
 ## 2.2 Executive committee must present financial statements at annual general meeting
 ## (1) At each annual general meeting of an owners corporation, the executive committee must present to the corporation—
 ## (a) annual financial statements in relation to the matters mentioned in section 2.1 (1) (f); and
