@@ -38,7 +38,6 @@ CEO—
   (a) of a health facility, for part 4 (Quality assurance)—see section 22; and
   (b) of a health professional organisation, for part 4 (Quality assurance)—see section 23; and
   (c) of a health facility, for part 5 (Reviewing scope of clinical practice)—see section 53.
-chief executive officer, Calvary, for part 5 (Reviewing scope of clinical practice)—see section 50.
 core conditions, for part 7 (VMO service contracts)—see section 100.
 day hospital means a facility where a person is admitted for surgical or medical treatment and discharged on the same day.
 dental technical work means work involving the making, altering, repairing or maintaining of dental prosthetic appliances.
