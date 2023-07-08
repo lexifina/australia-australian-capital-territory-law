@@ -47,7 +47,7 @@ authorisation fee, for an environment authorisation, means the fee payable in re
 authorised activity means an activity in relation to which there is an environmental authorisation.
 authorised concert venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 authorised motor racing venue, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
-authorised officer means an authorised officer under section 14 (3).
+authorised officer means an authorised officer under section 14.
 authority means the Environment Protection Authority under section 11.
 blank fire firearm, for schedule 1 (Activities requiring environmental authorisation)—see the Firearms Act 1996, dictionary.
 bore, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
