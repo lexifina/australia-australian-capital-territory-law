@@ -32,12 +32,12 @@ connected with an offence, for part 10 (Enforcement)—see section 78.
 coordination group—see section 67A.
 corresponding water access entitlement—see section 27.
 disciplinary action—see section 61.
-disciplinary notice—see section 62.
+disciplinary notice—see section 62 (1).
 driller’s licence means a licence under section 35.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
-environmental flow guidelines means environmental flow guidelines under section 12.
+environmental flow guidelines means environmental flow guidelines under section 12 (1).
 environmental record, of a person, means the person’s environmental record both in the ACT and elsewhere so far as it relates to water, and includes any action taken in relation to the person under—
   (a) this Act or the repealed Act; or
   (b) a licence issued under this Act or the repealed Act; or
@@ -71,7 +71,7 @@ stock or domestic use of water by a person means 1 or more of the following:
 surface water—see section 8.
 surviving allocation—see section 110.
 take water—see section 11.
-urban residential property means any of the following, within the meaning of the Territory plan, that has access to urban water supply:
+urban residential property means any of the following, within the meaning of the territory plan, that has access to urban water supply:
   (a) single dwelling housing;
   (b) multi-unit housing;
   (c) a boarding house;
@@ -79,7 +79,7 @@ urban residential property means any of the following, within the meaning of the
 urban water supply means water supplied by a water utility, other than treated sewage.
 water means surface water or ground water, and includes water that contains impurities.
 water access entitlement—see section 19.
-water management areas—see section 16.
+water management areas—see section 16 (1).
 water structure—see section 41.
 water utility means a utility licensed under the Utilities Act 2000 to provide a water service.
 waterway—see section 10.
