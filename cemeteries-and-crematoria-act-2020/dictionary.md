@@ -30,6 +30,7 @@ cemetery means a place—
   (a) where human remains are buried, cremated remains are interred and deceased people are memorialised; and
   (b) operated by the authority.
 certification document, for the human remains of a deceased person, for part 3 (Burial, cremation, interment or exhumation)—see section 13.
+chief executive officer means the chief executive officer of the authority.
 code of practice means a code of practice approved by the Minister under section 123.
 connected, for part 6 (Enforcement)—see section 82.
 contact details, for a person, includes the person’s home address, postal address (if different from the home address), email address and telephone number.
