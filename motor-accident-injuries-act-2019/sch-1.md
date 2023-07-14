@@ -22,13 +22,14 @@ column 1 item | column 2 section | column 3 decision
 18 | 107 (1) (b) | reduce or stop paying income replacement benefit payments
 19 | 121 (1) | make reasonable request to injured person to attend health practitioner for assessment of treatment and care needs
 20 | 121 (3) | suspend payment of treatment and care benefits and income replacement benefits because injured person fails to comply with reasonable request to attend health practitioner
-21 | 126 (2) | refuse to approve treatment and care not mentioned in injured person’s recovery plan because treatment and care not reasonable and necessary in the circumstances and will not assist with injured person’s recovery or management of person’s injury
-22 | 128 (2) (a) (i) (B) | refuse to make earlier payment of treatment and care expenses, domestic services expenses and travel expenses in relation to late application for period starting on date that is 13 weeks before date of application because insurer not satisfied that there are exceptional circumstances justifying earlier payment
-23 | 129 (1) | not pay treatment and care expenses, domestic services expenses and travel expenses because of 1 or more of the following reasons: (a) the expenses cannot be verified; (b) the expenses have not been incurred; (c) the insurer has previously paid the expenses; (d) for treatment and care expenses—the expenses were— (i) not approved by the insurer; or (ii) not set out in the injured person’s recovery plan
-24 | 139 (2) | tell applicant for quality of life benefits that insurer believes person’s injuries have stabilised but the person is not likely to have a permanent impairment as a result of the injuries
-25 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because insurer not satisfied injured person intends to live outside Australia permanently or for an extended time
-26 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because injured person has not lived outside Australia for at least eligibility period
-27 | 184 (4) (a) | calculate amount of lump sum to be less than $10 000
+21 | 124A (1) | suspend payment of treatment and care benefits and income replacement benefits because injured person fails to comply with a recovery plan for the person
+22 | 126 (2) | refuse to approve treatment and care not mentioned in injured person’s recovery plan because treatment and care not reasonable and necessary in the circumstances and will not assist with injured person’s recovery or management of person’s injury
+23 | 128 (2) (a) (i) (B) | refuse to make earlier payment of treatment and care expenses, domestic services expenses and travel expenses in relation to late application for period starting on date that is 13 weeks before date of application because insurer not satisfied that there are exceptional circumstances justifying earlier payment
+24 | 129 (1) | not pay treatment and care expenses, domestic services expenses and travel expenses because of 1 or more of the following reasons: (a) the expenses cannot be verified; (b) the expenses have not been incurred; (c) the insurer has previously paid the expenses; (d) for treatment and care expenses—the expenses were— (i) not approved by the insurer; or (ii) not set out in the injured person’s recovery plan
+25 | 139 (2) | tell applicant for quality of life benefits that insurer believes person’s injuries have stabilised but the person is not likely to have a permanent impairment as a result of the injuries
+26 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because insurer not satisfied injured person intends to live outside Australia permanently or for an extended time
+27 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because injured person has not lived outside Australia for at least eligibility period
+28 | 184 (4) (a) | calculate amount of lump sum to be less than $10 000
 ## Part 1.2 ACAT reviewable decisions
 column 1 item | column 2 section | column 3 decision
 1 | 59 (2) | refuse late application because applicant does not have full and satisfactory explanation
@@ -56,9 +57,10 @@ column 1 item | column 2 section | column 3 decision
 23 | 107 (1) (b) | reduce or stop paying income replacement benefit payments
 24 | 121 (1) | make reasonable request to injured person to attend health practitioner for assessment of treatment and care needs
 25 | 121 (3) | suspend payment of treatment and care benefits and income replacement benefits because injured person fails to comply with reasonable request to attend health practitioner
-26 | 126 (2) | refuse to approve treatment and care not mentioned in injured person’s recovery plan because treatment and care not reasonable and necessary in the circumstances and will not assist with injured person’s recovery or management of person’s injury
-27 | 128 (2) (a) (i) (B) | refuse to make earlier payment of treatment and care expenses, domestic services expenses and travel expenses in relation to late application for period starting on date that is 13 weeks before date of application because insurer not satisfied that there are exceptional circumstances justifying earlier payment
-28 | 160 (2) | amount of injured person’s final offer WPI
-29 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because insurer not satisfied injured person intends to live outside Australia permanently or for an extended time
-30 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because injured person has not lived outside Australia for at least eligibility period
-31 | 184 (4) (a) | calculate amount of lump sum to be less than $10 000
+26 | 124A (1) | suspend payment of treatment and care benefits and income replacement benefits because injured person fails to comply with a recovery plan for the person
+27 | 126 (2) | refuse to approve treatment and care not mentioned in injured person’s recovery plan because treatment and care not reasonable and necessary in the circumstances and will not assist with injured person’s recovery or management of person’s injury
+28 | 128 (2) (a) (i) (B) | refuse to make earlier payment of treatment and care expenses, domestic services expenses and travel expenses in relation to late application for period starting on date that is 13 weeks before date of application because insurer not satisfied that there are exceptional circumstances justifying earlier payment
+29 | 160 (2) | amount of injured person’s final offer WPI
+30 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because insurer not satisfied injured person intends to live outside Australia permanently or for an extended time
+31 | 183 (2) | refuse to make periodic payments of treatment and care benefits and income replacement benefits because injured person has not lived outside Australia for at least eligibility period
+32 | 184 (4) (a) | calculate amount of lump sum to be less than $10 000

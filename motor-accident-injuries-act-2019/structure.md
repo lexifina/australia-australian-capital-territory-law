@@ -92,6 +92,8 @@
 ## Part 7.4 MAI insurer licences—conditions
 ## Part 7.5 MAI insurer licences—suspension
 ## Part 7.6 MAI insurer licences—occupational discipline
+## Part 7.6A Financial penalties
+## Part 7.6B MAI insurer licences—directions to licensed insurers
 ## Part 7.7 MAI insurer licences—cancellation
 ## Part 7.8 MAI insurer licences—transfer
 ## Part 7.9 MAI insurer licences—supervision

@@ -98,6 +98,7 @@ driving offence—see section 41.
 enforcing party, for division 5.7.5 (Judgment for noncompliance with time limits)—see section 278.
 externally reviewable decision, for chapter 10 (Notification and review of MAI commission reviewable decisions)—see section 477.
 final offer WPI—see section 160.
+financial penalty notice, for part 7.6A (Financial penalties)—see section 394D (3).
 first payment period, for division 2.4.3 (Income replacement benefits—payments)—see section 93.
 first WPI report—see section 158.
 fitness for work certificate, for part 2.4 (Defined benefits—income replacement benefits)—see section 104.
@@ -106,10 +107,11 @@ former licensed insurer, for chapter 7 (MAI insurer licences)—see section 355.
 full and satisfactory explanation by an applicant for a delay in applying for defined benefits, for chapter 2 (Motor accident injuries—defined benefits)—see section 35.
 future treatment payment, for chapter 4 (Payment of future medical treatment expenses)—see section 222 (2).
 gross income, of an injured person who is an employee, for part 2.4 (Defined benefits—income replacement benefits)—see section 76.
+ground for financial penalty, for part 7.6A (Financial penalties)—see section 394B.
 ground for occupational discipline—see section 392.
 IME—see section 14.
 income replacement benefit payment, for an injured person, for part 2.4 (Defined benefits—income replacement benefits)—see section 75.
-independent health assessor—see section 206.
+independent assessor—see section 206.
 independent medical examiner (or IME)—see section 14.
 information, for part 2.3 (Application for defined benefits)—see section 53.
 injured person means a person injured in a motor accident.
@@ -157,6 +159,7 @@ MAI policy issued by an insolvent insurer, for part 7.10 (MAI insurer licences�
 MAI premium, for an MAI policy—see section 314.
 mandatory final offer—see section 263.
 medical treatment, for chapter 4 (Payment of future medical treatment expenses)—see section 221.
+minor contravention, for part 7.6A (Financial penalties)—see section 394A.
 motor accident—see section 10.
 motor accident claim—see section 228.
 motor accident injuries policy (or MAI policy)—see section 286.
@@ -165,7 +168,6 @@ net income, of an injured person who is self-employed, for part 2.4 (Defined ben
 no-fault motor accident—see section 254.
 nominal defendant—see section 16.
 nominal defendant fund—see section 330.
-non-conviction order, for division 2.2.2 (Limitations and exceptions to entitlement)—see section 42.
 notice of affirmation or increase—see section 159.
 occupier, of premises, for chapter 8 (Enforcement)––see section 433.
 offence, for chapter 8 (Enforcement)––see section 433.
@@ -234,6 +236,7 @@ road related area—
 second payment period, for division 2.4.3 (Income replacement benefits—payments)—see section 93.
 second WPI report—see section 158.
 self-employed, for part 2.4 (Defined benefits—income replacement benefits)—see section 74.
+serious contravention, for part 7.6A (Financial penalties)—see section 394A.
 significant occupational impact (or SOI), of an injured person’s injury on the injured person’s ability to undertake employment—see section 205.
 single vehicle accident means a motor accident that involves only 1 motor vehicle.
 SOI—see section 205.
