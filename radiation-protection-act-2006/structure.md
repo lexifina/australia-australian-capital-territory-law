@@ -22,4 +22,3 @@
 ### Division 6.6 Miscellaneous
 ## Part 7 Notification and review of decisions
 ## Part 8 Miscellaneous
-## Part 11 Transitional—Radiation Protection Amendment Act 2022
