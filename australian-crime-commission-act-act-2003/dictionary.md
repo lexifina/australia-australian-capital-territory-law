@@ -36,16 +36,16 @@ Commonwealth body or person means—
   (g) a member of the staff of the ACC; or
   (h) an examiner; or
   (i) a judge of the Federal Court; or
-  (j) a federal magistrate.
+  (j) a judge of the Federal Circuit and Family Court of Australia (Division 2).
 Commonwealth Minister means the Commonwealth Minister administering the ACC Act.
-federal magistrate means a Federal Magistrate (including the Chief Federal Magistrate) who holds office under the Federal Magistrates Act 1999 (Cwlth).
 intelligence operation means the collection, correlation, analysis or dissemination of criminal information and intelligence relating to a relevant criminal activity.
 inter-governmental committee means the Inter-Governmental Committee mentioned in the ACC Act, section 8.
 issuing officer means—
   (a) a judge of the Federal Court; or
   (b) a judge of the Supreme Court; or
-  Note Judge is defined in the Legislation Act to mean a resident judge, additional judge or acting judge under the Supreme Court Act 1933 (see Legislation Act, dict, pt 1, def judge).
-  (c) a federal magistrate.
+Note Judge is defined in the Legislation Act to mean a resident judge, additional judge or acting judge under the Supreme Court Act 1933 (see Legislation Act, dict, pt 1, def judge).
+  (c) a judge of the Federal Circuit and Family Court of Australia (Division 2).
+judge of the Federal Circuit and Family Court of Australia (Division 2) means a person holding office as a judge of the Federal Circuit and Family Court of Australia (Division 2) (including the Chief Justice, Deputy Chief Justice and a Senior Judge) under the Federal Circuit and Family Court of Australia Act 2021 (Cwlth).
 serious and organised crime means an offence—
   (a) that involves 2 or more offenders and substantial planning and organisation; and
   (b) that involves, or is of a kind that ordinarily involves, the use of sophisticated methods and techniques; and
