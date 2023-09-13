@@ -55,9 +55,9 @@ column 1 item | column 2 offence | column 3 section
 25 | Participating in a criminal group—causing harm | 653
 26 | Participating in a criminal group—property damage | 654
 27 | Recruiting people to engage in criminal activity | 655
-28 | Threatening etc witness, interpreter or juror | 709
+28 | Threatening etc witness, interpreter, intermediary or juror | 709
 29 | Threatening etc participant in criminal investigation | 709A
-30 | Preventing attendance etc of witness, interpreter or juror | 710
+30 | Preventing attendance etc of witness, interpreter, intermediary or juror | 710
 31 | Preventing production of thing in evidence | 711
 32 | Reprisal against person involved in proceeding | 712
 33 | Perverting the course of justice | 713
