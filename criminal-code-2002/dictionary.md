@@ -1,11 +1,12 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • Act
 • ACT
+• child
 • contravene
 • corporation
+• director of public prosecutions
 • found guilty (of an offence)
 • function
 • indictable offence (see s 190)
@@ -116,6 +117,7 @@ menace, for part 3.5 (Blackmail)—see section 340.
 mental impairment—see section 27.
 modification, for part 4.2 (Computer offences)—see section 412.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
+Nazi symbol, for part 7A.2 (Public display of Nazi symbols)—see section 751.
 negligent—see section 21.
 obtain—
   (a) for chapter 3 (Theft, fraud, bribery and related offences) other than part 3.8A (Cheating at gambling)—see section 300; and

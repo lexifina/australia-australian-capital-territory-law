@@ -71,4 +71,7 @@
 ## Part 7.3 Summary offences for ch 7
 ## Part 7.4 Procedural matters for ch 7
 # Chapter 7A Other offences
+## Part 7A.1 Serious vilification
+## Part 7A.2 Public display of Nazi symbols
+## Part 7A.3 Other offences
 # Chapter 8 Miscellaneous
