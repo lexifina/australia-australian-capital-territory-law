@@ -70,7 +70,7 @@ Sexual assault and related offences
 49 | Crimes Act, s 55 (3) and s 72AA (2) | sexual intercourse with young person (under 16 years old) (aggravated offence—involving family violence) | offence other than within young adult relationship
 50 | Crimes Act, s 55A | sexual intercourse with young person under special care | 
 51 | Crimes Act, s 56 | maintain sexual relationship with young person or person under special care | 
-52 | Crimes Act, s 57 | act of indecency in first degree | offence against vulnerable person
+52 | Crimes Act, s 56 | persistent sexual abuse of child or young person under special care | 
 53 | Crimes Act, s 57 and s 72AA (2) | act of indecency in first degree (aggravated offence—involving family violence) | offence against vulnerable person
 54 | Crimes Act, s 58 | act of indecency in second degree | offence against vulnerable person
 55 | Crimes Act, s 58 and s 72AA (2) | act of indecency in second degree (aggravated offence—involving family violence) | offence against vulnerable person
