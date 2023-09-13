@@ -28,15 +28,15 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • under.
 accommodation order—see the Crimes (Sentencing) Act 2005, section 133Y.
 activity includes education, counselling, personal development and treatment activities and programs.
-ACT prisoner, for chapter 11 (Interstate transfer of prisoners)—see section 217.
-ACT sentence of imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+ACT prisoner, for part 11.1 (Interstate transfer of prisoners)—see section 217.
+ACT sentence of imprisonment, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 additional condition means—
   (a) of an offender’s intensive correction order—see section 40; or
   (b) of an offender’s good behaviour order—see section 84; or
   (c) of an offender’s parole order—see section 117.
 administrative fee, for chapter 6A (Court imposed fines)––see section 116A.
 application, for parole—see section 117.
-arrest warrant, for a person, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+arrest warrant, for a person, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 at, in relation to a correctional centre, includes in the correctional centre.
 board means the Sentence Administration Board established under section 171.
 chair means the chair of the board.
@@ -44,7 +44,7 @@ combination sentence—see the Crimes (Sentencing) Act 2005, section 29 (1) (Com
 committal order, for part 3.1 (Imprisonment)—see section 10.
 committing authority, for part 3.1 (Imprisonment)—see section 10.
 Commonwealth Act, for part 11.2 (International transfer of prisoners)—see section 254.
-commonwealth sentence of imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+commonwealth sentence of imprisonment, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 community-based sentence, for chapter 12 (Transfer of community-based sentences)—see section 264.
 community service condition, of a good behaviour order for an offender—see the Crimes (Sentencing) Act 2005, section 85.
 community service work—see section 316.
@@ -59,15 +59,15 @@ core condition means—
   (d) of an offender’s licence—see section 289.
 correctional centre—see the Corrections Management Act 2007, dictionary.
 corrections officer—see the Corrections Management Act 2007, dictionary.
-corresponding ACT court, in relation to a court of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+corresponding ACT court, in relation to a court of a participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 corresponding community-based sentence law, for chapter 12 (Transfer of community-based sentences)—see section 267.
-corresponding Minister, of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+corresponding Minister, of a participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 corresponding parole law, for part 7.6 (Interstate transfer of parole orders)—see section 162.
 COVID-19 emergency means—
   (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
   (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
 default, for chapter 6A (Court imposed fines)––see section 116A.
-default imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+default imprisonment, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 default notice, for chapter 6A (Court imposed fines)––see section 116A.
 deputy chair means a deputy chair of the board.
 designated authority, for a State or another Territory, for part 7.6 (Interstate transfer of parole orders)—see section 162.
@@ -90,9 +90,9 @@ frisk search—see the Corrections Management Act 2007, dictionary.
 full-time detainee, for chapter 4 (Full-time detention)––see section 22 (1).
 good behaviour obligations, for chapter 6 (Good behaviour orders)—see section 84.
 good behaviour order—see the Crimes (Sentencing) Act 2005, section 13.
-Governor, of a participating state, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+Governor, of a participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 hearing means a hearing for an inquiry under part 9.2.
-indeterminate sentence, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+indeterminate sentence, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 inquiry—see section 193.
 intensive correction assessment, for chapter 5 (Intensive correction orders)—see section 40.
 intensive correction order—see the Crimes (Sentencing) Act 2005, section 11.
@@ -101,10 +101,10 @@ interested person—
   (b) for an offender’s intensive correction order—see section 40.
 interstate authority, for chapter 12 (Transfer of community-based sentences)—see section 268.
 interstate jurisdiction, for chapter 12 (Transfer of community-based sentences)—see section 265.
-interstate law, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+interstate law, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 interstate sentence, for chapter 12 (Transfer of community-based sentences)—see section 266 (2).
-interstate sentence of imprisonment, for chapter 11 (Interstate transfer of prisoners)—see section 217.
-joint prisoner, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+interstate sentence of imprisonment, for part 11.1 (Interstate transfer of prisoners)—see section 217.
+joint prisoner, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 judicial member, of the board, means the chair or a deputy chair.
 jurisdiction, for chapter 12 (Transfer of community-based sentences)—see section 265 (1).
 law enforcement agency—see the Spent Convictions Act 2000, dictionary, and includes an entity prescribed by regulation for this definition.
@@ -122,7 +122,7 @@ nonparole period—
   (a) see the Crimes (Sentencing) Act 2005, dictionary; and
   (b) for a full-time detainee whose nonparole period is subject to reduction or remission under a NSW law—includes the nonparole period less the period of reduction or remission.
 Note Reduction or remission under a NSW law may apply to full-time detainees serving sentences at a NSW correctional centre (see s 36 (2) (b)).
-non-participating territory, for chapter 11 (Interstate transfer of prisoners)—see section 217.
+non-participating territory, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 non-serious offence, for part 7.5A (Parole time credit)—see section 161B.
 offender—
   (a) means a person convicted or found guilty of an offence by a court, and includes a young offender; but
@@ -141,7 +141,7 @@ parole order means—
 parole release date—see section 117.
 parole sentence, of an offender, for part 7.5A (Parole time credit)—see section 161B.
 parole time credit, of an offender, for part 7.5A (Parole time credit)—see section 161B.
-participating jurisdiction, for chapter 11 (Transfer of community-based sentences)—see section 265.
+participating jurisdiction, for chapter 12 (Transfer of community-based sentences)—see section 265.
 participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 penalty notice, for chapter 6A (Court imposed fines)––see section 116A.
 person involved, in community service work, for chapter 14 (Community service work—general)—see section 315 (2).
