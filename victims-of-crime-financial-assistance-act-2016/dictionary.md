@@ -112,7 +112,7 @@ Note A domestic partner need not be an adult (see Legislation Act, s 169).
   (c) a relative of the original person; or
   (d) a child of a domestic partner or former domestic partner of the original person; or
   (e) a parent of a child of the original person.
-repayment amount, that applies to an assisted person who has received an associated payment, for part 5 (Repayment of financial assistance and funeral expenses)—see section 62.
+repayment amount, that applies to an assisted person who has received an associated payment, for part 5 (Repayment of financial assistance and funeral expenses by assisted person)—see section 62.
 repayment arrangement notice, for part 5 (Repayment of financial assistance and funeral expenses by assisted person)—see section 62.
 repayment direction notice, for part 5 (Repayment of financial assistance and funeral expenses by assisted person)—see section 62.
 reviewable decision, for part 9 (Notification and review of decisions)—see section 90.
