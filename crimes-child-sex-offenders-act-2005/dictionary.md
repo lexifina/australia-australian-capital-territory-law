@@ -34,7 +34,7 @@ child sex offender registration order, in relation to a person—see section 14.
 child sex offenders register—see section 117.
 class 1 offence—see section 10 (2).
 class 2 offence—see section 10 (3).
-community service order means a community service order within the meaning of the Crimes (Sentencing) Act 2005, section 13 (6) (Good behaviour orders).
+community service order means a community service order within the meaning of the Crimes (Sentencing) Act 2005, section 13 (7) (Good behaviour orders).
 conduct, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
 contact person—see section 33.
 corresponding child sex offender registration order means an order (however described)—
@@ -76,7 +76,6 @@ occupier, of a premises, for part 3.11 (Entry and search warrants)—see section
 offensive weapon, for part 3.11 (Entry and search warrants)—see the Crimes Act 1900, dictionary.
 parental responsibility, for a child or young person, for chapter 5A (Orders prohibiting offender conduct)—see the Children and Young People Act 2008, section 15.
 parole means parole under the Crimes (Sentence Administration) Act 2005, and includes an equivalent order (however described) made under a foreign law.
-Note A parole order under the Rehabilitation of Offenders (Interim) Act 2001 (repealed) is taken to be a parole order under the Crimes (Sentence Administration) Act 2005 (see that Act, s 343 and s 344).
 person assisting, in relation to an entry and search warrant, for part 3.11 (Entry and search warrants)—see section 116B.
 personal details, for a registrable offender—see s 59.
 personal information means information about an individual whose identity is apparent, or can reasonably be found out, from the information.
