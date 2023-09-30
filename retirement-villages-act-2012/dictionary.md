@@ -20,15 +20,15 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public trustee and guardian
 • registrar-general
 • Supreme Court
-• Territory.
+• the Territory.
 accounts, of a retirement village, means the accounts mentioned in division 7.5 (Annual accounts).
 administrator means an administrator appointed under an order made under division 6.6 (Administrators, receivers and managers).
 annual management meeting means the meeting mentioned in section 107.
 approved annual budget, for a financial year of a retirement village, means a proposed annual budget taken to be an approved annual budget under section 165.
 capital gain—see section 13.
-capital item, for which the operator of a retirement village is responsible, for division 7.2 (Capital maintenance and replacement)—see section 135.
-capital maintenance, for division 7.2 (Capital maintenance and replacement)—see section 135.
-capital replacement, for division 7.2 (Capital maintenance and replacement)—see section 135.
+capital item, for which the operator of a retirement village is responsible, for division 7.2 (Capital maintenance and replacement)—see section 135 (1).
+capital maintenance, for division 7.2 (Capital maintenance and replacement)—see section 135 (1).
+capital replacement, for division 7.2 (Capital maintenance and replacement)—see section 135 (1).
 capital works fund means a fund established under section 143.
 close associate, of the operator of a retirement village, means—
   (a) an agent or employee of the operator; and
@@ -44,13 +44,10 @@ community title scheme—see the Community Title Act 2001, dictionary.
 company title scheme means a scheme under which a group of adjoining or adjacent premises (including residential premises) is owned or leased by a corporation each of whose shareholders has, because of the shareholder’s shares, an exclusive right (under a lease or otherwise) to occupy 1 or more of the residential premises.
 condition report—see section 59 (1).
 contract for the sale, of residential premises occupied under a company title scheme—see section 9.
-COVID-19 emergency means—
-  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
-  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
 departure fee—see section 214.
 development approval—see the Planning and Development Act 2007, dictionary.
 disclosure statement means a statement mentioned in section 24.
-disputes committee—see section 175A.
+disputes committee—see section 175A (1).
 end of the settling-in period, for a village contract, for division 5.2 (Settling-in period for residents)—see section 71.
 financial year, for a retirement village, means the period fixed under section 134.
 former occupant, of a retirement village—
@@ -86,7 +83,7 @@ proxy, of a resident of a retirement village, means a person appointed by the re
 quarterly accounts, for a quarter for a retirement village, means the accounts of the village’s income and spending for the quarter.
 recurrent charge means an amount (including rent) payable under a village contract, on a recurrent basis, by a resident of a retirement village.
 Note Levies payable under a community title scheme or units plan are not recurrent charges (because they are not payable under a village contract).
-refurbishment, for division 10.4 (Repair and refurbishment of residential premises)—see section 218.
+refurbishment, of residential premises the subject of a residence contract, for division 10.4 (Repair and refurbishment of residential premises)—see section 218.
 registered interest holder, in relation to residential premises in a retirement village—see section 12 (1).
 registered long-term sublessee, of residential premises in a retirement village—see section 12 (1).
 relative, of a person, means the following:
