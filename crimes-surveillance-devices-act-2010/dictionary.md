@@ -34,7 +34,6 @@ disciplinary proceeding means a proceeding of a disciplinary nature under a law 
 emergency authorisation means an emergency authorisation given under part 3 (Emergency authorisations).
 enhancement equipment, in relation to a surveillance device, means equipment capable of enhancing a signal, image or other information obtained by the use of the surveillance device.
 install includes attach.
-judge includes the associate judge.
 jurisdiction means a State or Territory of the Commonwealth.
 law enforcement agency means—
   (a) the Australian Federal Police; or
