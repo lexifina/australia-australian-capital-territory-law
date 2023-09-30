@@ -4,7 +4,7 @@
 ## 1 Jurisdiction
 (1) the jurisdiction of ACT courts, including civil, criminal and any appellate jurisdiction
 (2) the jurisdiction of prescribed tribunals
-(3) the jurisdiction of the associate judge, registrars and deputy registrars, including review of their decisions
+(3) the jurisdiction of registrars and deputy registrars, including review of their decisions
 ## 2 Service of documents
 service of documents, including, for example, the following:
   (a) the kinds of service, including personal service and electronic service;
@@ -149,7 +149,8 @@ costs, including, for example, the following:
   (a) security for costs;
   (b) entitlement to recover costs;
   (c) costs of parties in proceedings;
-  (d) assessment of costs
+  (d) costs against non-parties to proceedings;
+  (e) assessment of costs
 ## 27 Appeals
 appeals, including, for example, the following:
   (a) for the Magistrates Court and prescribed tribunals—appeals to the Supreme Court;
