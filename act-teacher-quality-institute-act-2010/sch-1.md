@@ -13,9 +13,9 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 10 | 41 (4) (b) | refuse to replace registration certificate, registration card, permit certificate or permit card | person applying for replacement certificate or card
 11 | 46 (4) | refusing to amend teachers register | teacher
 12 | 51 (4) | refuse to renew full registration | person applying for renewal of full registration
-13 | 51 (4) | refuse to renew provisional registration for further period prescribed in accordance with s 48 | person applying for renewal of provisional registration
+13 | 51 (4) | refuse to renew provisional registration | person applying for renewal of provisional registration
 14 | 52 (1) | renew registration with condition | person applying for renewal of registration
-15 | 53 (4) | refuse to renew permit to teach for further period prescribed in accordance with s 49 | person applying for renewal of permit to teach
+15 | 53 (4) | refuse to renew permit to teach for further period prescribed in accordance with s 47 (4) | person applying for renewal of permit to teach
 16 | 54 (1) | renew permit to teach with condition | person applying for renewal of permit to teach
 17 | 55 (2) | extend period for less than period applied for | person applying for extension
 18 | 55 (2) | refuse to extend period | person applying for extension
