@@ -22,7 +22,6 @@ appoint includes reappoint.
 AS—see section 164 (1) (References to Australian Standards etc).
 AS/NZS—see section 164 (2) (References to Australian Standards etc).
 asset includes property of any kind.
-associate judge means the associate judge under the Supreme Court Act 1933.
 Attorney-General means the Minister designated Attorney-General by the Chief Minister, and includes a Minister authorised by the Chief Minister to act on behalf of the Attorney-General.
 auditor-general means the Auditor-General for the Territory under the Auditor-General Act 1996.
 Australia means the Commonwealth of Australia and, when used in a geographical sense, does not include an external territory.
