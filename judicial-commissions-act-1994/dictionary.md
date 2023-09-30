@@ -26,7 +26,7 @@ complaint means—
 council means the judicial council established under section 5A.
 head of council—the head of council is the Chief Justice (see section 5B (2)).
 head of jurisdiction means—
-  (a) for a judge or the associate judge of the Supreme Court—the Chief Justice; or
+  (a) for a judge of the Supreme Court—the Chief Justice; or
   (b) for a magistrate—the Chief Magistrate; or
   (c) for a member of the ACAT—the president of the ACAT.
 judge—
@@ -36,9 +36,8 @@ judge—
   (b) includes a person who is an additional judge appointed under the Supreme Court Act 1933, section 4A.
 judicial officer means—
   (a) a judge of the Supreme Court, other than a person who is an additional judge appointed under the Supreme Court Act 1933, section 4A; or
-  (b) the associate judge of the Supreme Court; or
-  (c) a magistrate (including coroner); or
-  (d) a presidential member of the ACAT.
+  (b) a magistrate (including coroner); or
+  (c) a presidential member of the ACAT.
 magistrate does not include a registrar.
 member means—
   (a) of a council—a member of the council and includes the head of council; and
