@@ -63,9 +63,6 @@ corresponding ACT court, in relation to a court of a participating state, for pa
 corresponding community-based sentence law, for chapter 12 (Transfer of community-based sentences)—see section 267.
 corresponding Minister, of a participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 corresponding parole law, for part 7.6 (Interstate transfer of parole orders)—see section 162.
-COVID-19 emergency means—
-  (a) a state of emergency declared under the Emergencies Act 2004, section 156 because of the coronavirus disease 2019 (COVID-19); or
-  (b) an emergency declared under the Public Health Act 1997, section 119 (including any extension or further extension) because of the coronavirus disease 2019 (COVID-19).
 default, for chapter 6A (Court imposed fines)––see section 116A.
 default imprisonment, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 default notice, for chapter 6A (Court imposed fines)––see section 116A.
