@@ -45,7 +45,6 @@ publish—something is published if it is—
   (c) contained in a document given to someone or left on premises where someone lives or works; or
   (d) broadcast by radio or television; or
   (e) electronically disseminated in another way (for example by inclusion on a web site).
-related person—see the Duties Act 1999, dictionary.
 required documents, for part 2 (Sale of residential property)—see section 9.
 rescission notice, for part 2 (Sale of residential property)—see section 7.
 rescission provision, in an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
