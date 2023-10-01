@@ -29,4 +29,3 @@
 ## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous
 ## Part 16 Transitional—ACT Teacher Quality Institute Amendment Act 2019
-## Part 17 Validation of registrations
