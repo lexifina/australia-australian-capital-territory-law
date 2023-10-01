@@ -17,7 +17,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • in relation to
 • land.
 acquires, an interest in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 84.
-acquisition statement, for chapter 3 (Certain transactions treated as transfers)—see section 76.
+acquisition statement, for chapter 3 (Certain transactions treated as transfers)—see section 87 (1).
 Act imposing duty means—
   (a) a corresponding Act; or
   (b) an Act to which the Taxation Administration Act applies.
@@ -26,28 +26,25 @@ application to register a motor vehicle means—
   (b) an application under the Vehicle Registration Act to transfer the registration of a motor vehicle.
 approved means approved by the commissioner.
 asset, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
-associated person—
-  (a) for this Act generally—means a person who is associated with another person in accordance with any of the following provisions:
-    (i) people are associated people if they are related people;
-    (ii) individuals are associated people if they are partners in a partnership to which the Partnership Act 1963 applies;
-    (iii) private companies are associated people if common shareholders have a significant interest in each private company;
-    (iv) trustees are associated people if any person is a beneficiary common to the trusts (not including a public unit trust scheme) of which they are trustees;
-    (v) a private company and a trustee are associated people if a related body corporate of the company is a beneficiary of the trust (not including a public unit trust scheme) of which the trustee is a trustee; and
-  (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 83A.
-Australian Stock Exchange means ASX Limited, ACN 008 624 691.
+associated person—see section 77A.
+Australian Securities Exchange means ASX Limited ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 cancelled, for chapter 2 (Transactions concerning dutiable property)—see section 6.
-chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76.
+chapter 3 transaction—see section 76.
 charge includes impose.
 commercial lease, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 commercial lease with premium, for chapter 2 (Transactions concerning dutiable property)––see section 6A.
 commercial purposes, for chapter 2 (Transactions concerning dutiable property)––see section 6.
 commissioner means the commissioner for revenue.
 complying approved deposit fund means an entity that is a complying approved deposit fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 43.
-complying superannuation fund means an entity that is—
-  (a) a complying superannuation fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or section 42A; or
-  (b) an exempt public sector superannuation scheme within the meaning of that Act.
+complying superannuation fund—
+  (a) means an entity that is—
+    (i) a complying superannuation fund under the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 42 or section 42A; or
+    (ii) an exempt public sector superannuation scheme under the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 10 (1); and
+  (b) includes—
+    (i) a complying approved deposit fund; and
+    (ii) an eligible rollover fund.
 consideration—see section 21.
 corporation means a body corporate, whether incorporated in this jurisdiction or elsewhere.
 corresponding Act means an Act of another Australian jurisdiction that corresponds to this Act.
@@ -100,7 +97,7 @@ international transport, in relation to freight, means the transport, in connect
     (iii) an external Territory.
 interposed trust, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
 land includes a stratum.
-landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 79.
+landholder—see section 79.
 landholding, for part 3.2 (Acquisition of interests in certain landholders)—see section 80.
 land used for primary production means land used primarily for—
   (a) the cultivation of the land for the purpose of selling the produce of the cultivation; or
@@ -119,7 +116,20 @@ lessee includes—
 lessor includes a person who grants a right of the kind mentioned in the definition of lease, paragraph (b).
 licensed vehicle dealer means a licensed dealer under the Sale of Motor Vehicles Act 1977, or the holder of a similar licence under a corresponding law.
 life company—see the Life Insurance Act 1995 (Cwlth), schedule.
-listed trust means a unit trust scheme all of the units in which are listed for quotation on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
+listed company means a company whose shares are quoted on any of the following exchanges:
+  (a) the Australian Securities Exchange;
+  (b) the London Stock Exchange;
+  (c) the New York Stock Exchange;
+  (d) the New Zealand Exchange;
+  (e) an exchange that is a member of the World Federation of Exchanges;
+  (f) an exchange prescribed by regulation.
+listed trust means a unit trust scheme whose units are quoted on any of the following exchanges:
+  (a) the Australian Securities Exchange;
+  (b) the London Stock Exchange;
+  (c) the New York Stock Exchange;
+  (d) the New Zealand Exchange;
+  (e) a stock exchange that is a member of the World Federation of Exchanges;
+  (f) an exchange prescribed by regulation.
 majority shareholder, in relation to a private company, means—
   (a) for a company the voting shares in which are not divided into classes—a person entitled to not less than 50% of those shares, and
   (b) for a company the voting shares in which are divided into classes—a person entitled to not less than 50% of the shares in one of those classes.
@@ -141,9 +151,7 @@ partnership interest—see section 10 (1) (f).
 party, to a marriage, includes a person who was a party to a marriage that has been dissolved or annulled, in Australia or elsewhere.
 premium––for chapter 2 (Transactions concerning dutiable property)—see section 6.
 primary production, for chapter 2 (Transactions concerning dutiable property)––see section 6.
-private company means a company—
-  (a) that is not limited by shares; or
-  (b) whose shares are not quoted on the Australian Stock Exchange or any other exchange that is a member of the World Federation of Exchanges.
+private company means a company that is not a listed company.
 property transferred, by a dutiable transaction—see section 8 (2).
 public unit trust scheme means any of the following unit trust schemes:
   (a) a listed trust;
@@ -151,15 +159,6 @@ public unit trust scheme means any of the following unit trust schemes:
 receiving body, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 registered scheme—see the Corporations Act, section 9.
 Note A registered scheme under the Corporations Act is a managed investment scheme that is registered under that Act, ch 5C.
-related body corporate—see the Corporations Act, section 9.
-related person means a person who is related to another person in accordance with any of the following provisions:
-  (a) individuals are related people if—
-    (i) they are partners, or they have been partners and the partnership has ended (whether the partnership ended in Australia or elsewhere); or
-    (ii) the relationship between them is that of parent and child, brothers, sisters, or brother and sister;
-  (b) private companies are related people if they are related bodies corporate;
-  (c) an individual and a private company are related people if the individual is a majority shareholder or director of the company or of another private company that is a related body corporate of the company;
-  (d) an individual and a trustee are related people if the individual is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee;
-  (e) a private company and a trustee are related people if the company, or a majority shareholder or director of the company, is a beneficiary of the trust (other than a public unit trust scheme) of which the trustee is a trustee.
 relationship property, of a domestic relationship, means property of the parties to the relationship or of either of them.
 relevant acquisition, in relation to a person, for part 3.2 (Acquisition of interests in certain landholders)—see section 86.
 relevant period, for a relevant acquisition, for part 3.2 (Acquisition of interests in certain landholders)—see section 78.
@@ -198,8 +197,8 @@ trustee includes—
   (b) in relation to a deceased person—an executor of the will, or an administrator of the estate, of the deceased person; and
   (c) a receiver, guardian, committee or manager of the property of a person under a legal or other disability; and
   (d) a receiver or manager of the property of a company, or a liquidator of a company for the purpose of its winding-up; and
-  (e) a person who holds a marketable security for the benefit of another person; and
-  (f) a person who may be required to exercise his or her voting power in relation to a marketable security at the direction of another person.
+  (e) a person who holds an interest in a landholder for the benefit of another person; and
+  (f) a person who may be required to exercise his or her voting power in relation to an interest in a landholder at the direction of another person.
 unencumbered value—see section 22.
 unit, in relation to a unit trust scheme, means—
   (a) a right or interest (whether described as a unit or a sub-unit or otherwise) of a beneficiary under the scheme; or
