@@ -39,4 +39,3 @@
 ## Part 5.1 Debts charged on property of deceased person
 ## Part 5.2 Stipulations in contracts
 ## Part 5.3 Miscellaneous—other provisions
-## Part 5.6 Transitional—Unit Titles Legislation Amendment Act 2020
