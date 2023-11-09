@@ -20,6 +20,7 @@ Aboriginal or Torres Strait Islander person, for part 7A (Procedural provisions�
 advisory committee means the advisory committee established under section 11.
 assistant sheriff, for part 5 (Court security)—see section 40.
 care and protection chapters, for part 7A (Procedural provisions—proceedings involving children or young people)—see section 68A.
+chief executive officer—see section 11A (1).
 child, for part 7A (Procedural provisions—proceedings involving children or young people)—see the Children and Young People Act 2008, section 11.
 corresponding law, for part 4 (Crown proceedings)—see section 20.
 court, for part 5 (Court security)—see section 40.
@@ -38,7 +39,6 @@ long-term care responsibility, for division 7A.1 (General)—see the Children an
 magistrate, for part 5 (Court security)—see section 40.
 offensive weapon, for part 5 (Court security)—see section 40.
 prescribed tribunal, for part 2 (Court rules and forms) and schedule 1 (Subject matter for rules)—see section 6.
-principal registrar—see section 11A.
 proceeding, for part 4 (Crown proceedings)—see section 20.
 relevant legislation, for part 3 (Court and tribunal fees)—see section 12.
 reviewable decision, for division 3.2 (Review of decisions—fees)—see section 18.

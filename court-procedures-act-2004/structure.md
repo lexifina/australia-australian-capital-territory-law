@@ -1,6 +1,6 @@
 ## Part 1 Preliminary
 ## Part 2 Court rules and forms
-## Part 2A Principal registrar of courts
+## Part 2A Chief executive officer of courts
 ## Part 3 Court and tribunal fees
 ### Division 3.1 Fees generally
 ### Division 3.2 Review of decisions—fees
