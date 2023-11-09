@@ -37,7 +37,7 @@ personal information—
 policy document—see section 23.
 principal officer, of an agency, means—
   (a) for an administrative unit—the director-general of the administrative unit; or
-  (b) for the Supreme Court, Magistrates Court, Coroner’s Court or ACAT—the principal registrar appointed under the Court Procedures Act 2004, section 11A; or
+  (b) for the Supreme Court, Magistrates Court, Coroner’s Court or ACAT—the chief executive officer appointed under the Court Procedures Act 2004, section 11A (1); or
   (c) for the Office of the Legislative Assembly—the clerk of the Legislative Assembly; or
   (d) for an officer of the Assembly—the officer; or
   (e) for a statutory office-holder and the staff assisting the statutory office-holder—the statutory office-holder; or
