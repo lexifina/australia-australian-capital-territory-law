@@ -35,7 +35,7 @@
 ### Division 5.4A.4 Drug and alcohol treatment orders—content
 ### Division 5.4A.5 Drug and alcohol treatment orders—custodial part
 ### Division 5.4A.6 Drug and alcohol treatment orders—treatment and supervision part
-### Division 5.4A.7 Drug and alcohol treatment orders—breaches
+### Division 5.4A.7 Drug and alcohol treatment orders—breaches etc
 ### Division 5.4A.8 Drug and alcohol treatment orders—review by court
 ### Division 5.4A.9 Drug and alcohol treatment orders—miscellaneous
 ## Part 5.5 Imprisonment—explanation and information
