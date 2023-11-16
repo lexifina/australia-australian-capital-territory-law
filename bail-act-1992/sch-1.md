@@ -4,13 +4,15 @@
 column 1 item | column 2 provision | column 3 description of offence
 1 | 15 | manslaughter
 2 | 19 | intentionally inflicting grievous bodily harm
-3 | 51 | sexual assault in the first degree
-4 | 52 | sexual assault in the second degree
-5 | 54 | sexual intercourse without consent
-6 | 55 (1) | sexual intercourse with young person under 10 years old
-7 | 55 (3) | sexual intercourse with young person under 16 years old
-8 | 55A (1) | sexual intercourse with young person under special care
-9 | 56 (1) | persistent sexual abuse of child or young person under special care
+3 | 29 | culpable driving of motor vehicle
+4 | 29A | driving motor vehicle at police
+5 | 51 | sexual assault in the first degree
+6 | 52 | sexual assault in the second degree
+7 | 54 | sexual intercourse without consent
+8 | 55 (1) | sexual intercourse with young person under 10 years old
+9 | 55 (3) | sexual intercourse with young person under 16 years old
+10 | 55A (1) | sexual intercourse with young person under special care
+11 | 56 (1) | persistent sexual abuse of child or young person under special care
 ## Part 1.2 Offences against Criminal Code
 column 1 item | column 2 provision | column 3 description of offence
 1 | 310 | aggravated robbery
