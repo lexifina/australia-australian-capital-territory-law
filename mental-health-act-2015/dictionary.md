@@ -140,6 +140,7 @@ relevant person—
   (b) for a forensic mental health order application, for part 7.1 (Forensic mental health orders)—see section 93.
 representative, of a treating team, for part 3.3 (Advance agreements and advance consent directions)—see section 24.
 responsible person, for part 3.1 (Rights in relation to information and communication)—see section 14.
+restraint does not include the use of a spit hood.
 restriction order means an order made under section 60 or section 68.
 reviewable decision, for chapter 16 (Notification and review of decisions)—see section 258.
 secure mental health facility—see the Mental Health (Secure Facilities) Act 2016, section 7.
