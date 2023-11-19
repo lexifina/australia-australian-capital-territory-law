@@ -25,4 +25,3 @@
 ### Division 8.4 Protection of aquatic habitats
 ## Part 10 Notification and review of decisions
 ## Part 11 Miscellaneous
-## Part 13 Transitional—Fisheries Legislation Amendment Act 2019
