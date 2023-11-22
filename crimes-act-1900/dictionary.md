@@ -175,6 +175,7 @@ telephone, for part 11 (Investigation of extraterritorial offences)—see sectio
 thing relevant to an offence, for part 10 (Criminal investigation)—see section 185.
 trustee means a trustee on some express trust howsoever created, and includes the heir or personal representative of such trustee, and every other person on whom the duty of such trust shall have devolved, and also any official manager, assignee, liquidator, or other like officer, acting under any Act relating to joint-stock companies or to bankruptcy or insolvency.
 under restraint, for subdivision 10.7.2 (Preliminary procedures in relation to children and young people)—see section 252D.
+under the age of criminal responsibility—a person is under the age of criminal responsibility for an offence if the person is not criminally responsible under the Criminal Code, section 25 for the offence.
 unlawful activity, for division 6.2A (Money laundering and organised fraud)—see section 114A.
 vessel means any ship or vessel used in or intended for navigation, other than an undecked boat.
 warrant, for part 10 (Criminal investigation)—see section 185.
