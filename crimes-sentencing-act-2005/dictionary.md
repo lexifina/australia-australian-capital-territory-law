@@ -29,7 +29,8 @@ additional offence, for part 4.4 (Taking additional offences into account)—see
 assessor—
   (a) for part 4.2 (Pre-sentence reports)—see section 39A; and
   (b) for part 4.2A (Intensive correction assessments)—see section 46A; and
-  (c) for part 4.2B (Drug and alcohol treatment assessments)—see section 46H.
+  (c) for part 4.2B (Drug and alcohol treatment assessments)—see section 46H; and
+  (d) for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XG (3).
 at, in relation to a correctional centre or detention place, includes in the correctional centre or detention place.
 bail condition—see the Bail Act 1992, dictionary.
 because of, an offence, for part 4.3 (Victim impact statements)—see section 47.
@@ -39,7 +40,9 @@ community service condition—
   (b) of an intensive correction order for an offender, for division 5.4.2 (Intensive correction orders—community service conditions)—see section 80A.
 community service work—see the Crimes (Sentence Administration) Act 2005, section 316.
 controlled drug means a controlled drug under the Criminal Code, chapter 6 (Serious drug offences).
-core conditions, of a treatment order, for part 5.4A (Drug and alcohol treatment orders)—see section 80Y.
+core conditions—
+  (a) of a treatment order, for part 5.4A (Drug and alcohol treatment orders)—see section 80Y; and
+  (b) of a therapeutic correction order, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XN (1).
 correctional centre means—
   (a) a correctional centre under the Corrections Management Act 2007; or
   (b) a NSW correctional centre.
@@ -112,11 +115,19 @@ sentence of imprisonment includes—
   (a) a sentence of imprisonment that has been imposed but is yet to start; and
   (b) a combination sentence that imposes a penalty of imprisonment together with another penalty.
 sentence-related order, for part 4.4 (Taking additional offences into account)—see section 55.
-sentencing court, for part 8.2 (Deferred sentence orders—supervision) and part 8.3 (Deferred sentence orders—amendment or cancellation)—see section 123.
+sentencing court—
+  (a) for part 8.2 (Deferred sentence orders—supervision) and part 8.3 (Deferred sentence orders—amendment or cancellation)—see section 123; and
+  (b) for a young offender subject to a therapeutic correction order, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XA.
 supervision condition—see section 133U.
 surety, for a good behaviour order for an offender, means a person other than the offender who gives security for complying with the order.
 suspended sentence order—see section 12 (2).
 term—if the term of a sentence is amended under the Crimes (Sentence Administration) Act 2005, the term of the sentence as amended.
+therapeutic correction assessment, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XG (2) (a) (i).
+therapeutic correction conditions, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XO (1).
+therapeutic correction obligations, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XD.
+therapeutic correction order, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XB (2).
+therapeutic correction plan, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XJ (1).
+therapeutic correction team, for part 8A.2A (Young offenders—therapeutic correction orders)—see section 133XA.
 treatment and supervision part, of a treatment order—see section 80X.
 treatment and supervision team, for part 5.4A (Drug and alcohol treatment orders)—see section 80M.
 treatment order, means a drug and alcohol treatment order.

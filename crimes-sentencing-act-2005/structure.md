@@ -56,5 +56,14 @@
 ### Division 8A.2.1 Young offenders—good behaviour orders generally
 ### Division 8A.2.2 Good behaviour orders—education and training conditions
 ### Division 8A.2.3 Good behaviour orders—supervision conditions
+## Part 8A.2A Young offenders—therapeutic correction orders
+### Division 8A.2A.1 Preliminary
+### Division 8A.2A.2 Therapeutic correction orders—general
+### Division 8A.2A.3 Therapeutic correction orders—suitability
+### Division 8A.2A.4 Therapeutic correction orders—content
+### Division 8A.2A.5 Therapeutic correction orders—supervision
+### Division 8A.2A.6 Therapeutic correction orders—breach
+### Division 8A.2A.7 Therapeutic correction orders—review by court
+### Division 8A.2A.8 Therapeutic correction orders—miscellaneous
 ## Part 8A.3 Young offenders—accommodation orders
 # Chapter 9 Miscellaneous
