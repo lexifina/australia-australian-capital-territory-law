@@ -22,7 +22,7 @@
 ### Division 10.5 Arrest and related matters
 ### Division 10.6 General
 ### Division 10.7 Particular provisions for children
-#### Subdivision 10.7.1 Arrest of children under 10 years old
+#### Subdivision 10.7.1 Arrest of children under the age of criminal responsibility
 #### Subdivision 10.7.2 Preliminary procedures in relation to children and young people
 ### Division 10.8 Investigations relating to acquittals
 ### Division 10.9 Fortification of premises
@@ -44,3 +44,7 @@
 ### Division 20.4 Supreme Court orders following inquiry report
 ### Division 20.5 Application to earlier convictions
 ## Part 22 Miscellaneous
+## Part 33 Transitional—Justice (Age of Criminal Responsibility) Legislation Amendment Act 2023
+### Division 33.1 General
+### Division 33.2 Ending action etc for youth offences
+### Division 33.3 Validity of past criminal justice action
