@@ -69,4 +69,5 @@ spent, for a conviction—see section 7.
 State law means a law in force in a State (other than a Commonwealth law).
 Note State includes the Northern Territory (see Legislation Act 2001, dict, pt 1).
 victim, for division 2.2 (Spent convictions—youth sexual offences)—see section 14B.
+youth offence conviction—see section 19GA.
 youth sexual offence conviction, for part 2 (Spent convictions)—see section 14A.
