@@ -29,3 +29,7 @@
 ## Part 8 Miscellaneous
 ### Division 8.1 Public access and publication
 ### Division 8.2 Other matters
+## Part 23 Transitional—Justice (Age of Criminal Responsibility) Legislation Amendment Act 2023
+### Division 23.1 General
+### Division 23.2 Ending action etc for personal protection orders
+### Division 23.3 Validity of past protection order action
