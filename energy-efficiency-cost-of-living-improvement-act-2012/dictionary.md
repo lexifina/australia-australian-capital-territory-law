@@ -4,7 +4,8 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • commencement
 • disallowable instrument (see s 9)
-• Minister (see s 162).
+• Minister (see s 162)
+• territory planning authority.
 administrator means a person appointed as administrator under section 23.
 approved code of practice—see section 25.
 approved energy savings factor—see section 18.
