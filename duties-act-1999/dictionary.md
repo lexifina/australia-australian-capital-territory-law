@@ -52,7 +52,7 @@ corresponding law, in relation to a territory law, means a law of a State or ano
 cost, in relation to a lease—see section 136.
 Crown lease—see the Land Titles Act 1925, dictionary.
 declaration of trust, for chapter 2 (Transactions concerning dutiable property)—see section 6.
-declared land sublease—see the Planning and Development Act 2007, section 312C.
+declared land sublease—see the Planning Act 2023, section 365 (1).
 de facto relationship, for part 11.2 (Exemptions from duty—certain personal relationships)—see section 232E.
 deferral arrangement—
   (a) for division 2.6A.1 (First home owner grant scheme and home buyer concession scheme)—see section 75AC (2); or
