@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • director-general (see s 163)
 • police officer
 • reviewable decision notice
+• territory land
 • working day.
 activity information notice, for part 3 (Public unleased land permits)—see section 51 (Suitability of activities—further information about activity).
 additional approval notice, for part 3 (Public unleased land permits)—see section 52 (2) (Suitability of activities—other approvals).
@@ -26,7 +27,7 @@ financial assurance condition, on a public unleased land permit—see section 60
 ground for regulatory action, against a permit-holder, for division 3.9 (Public unleased land permits—regulatory action)—see section 79.
 influential person, for a corporation, for part 3 (Public unleased land permits)—see section 42.
 inspection notice, for part 3 (Public unleased land permits)—see section 56 (2) (Suitability of activities—inspection of object).
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 location plan, for part 3 (Public unleased land permits)—see section 45 (Public unleased land permit—application).
 movable signs code of practice—see section 27 (Movable signs code of practice).
 object includes any item of movable personal property.
