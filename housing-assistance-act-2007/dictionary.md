@@ -6,9 +6,9 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • entity
 • exercise
 • function
-• planning and land authority
 • reviewable decision notice
 • territory land
+• territory planning authority
 • year.
 affordable housing means housing that is affordable by people on low or moderate incomes.
 approved housing assistance program means a housing assistance program approved under section 19.
