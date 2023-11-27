@@ -8,8 +8,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • exercise
 • function
 • heritage register
-• planning and land authority
-• reviewable decision notice.
+• reviewable decision notice
+• territory planning authority.
 address for correspondence—see the Unit Titles (Management) Act 2011, dictionary.
 administrator—see the Unit Titles (Management) Act 2011, dictionary.
 annexed—see section 12A.
@@ -27,7 +27,7 @@ building includes—
 Examples of site improvements
 1 a paved path
 2 a paved barbecue area
-building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
+building and development provision, in relation to a lease—see the Planning Act 2023, section 256.
 building damage scheme—see section 152.
 building management statement—see the Land Titles Act 1925, section 123C (1).
 burdened estate—see section 35 (Easements given by this Act) and section 36 (Easements declared by owners corporations).
@@ -41,7 +41,7 @@ company—see the Unit Titles (Management) Act 2011, dictionary.
 corporate register—see the Unit Titles (Management) Act 2011, section 113.
 Crown lease—see the Land Titles Act 1925, dictionary.
 Crown lessee, in relation to a declared land sublease, means the lessee under the Crown lease under which the sublease is granted.
-declared land sublease—see the Planning and Development Act 2007, section 312C.
+declared land sublease—see the Planning Act 2023, section 365 (1).
 developer means the lessee of a parcel who applies for the approval of the subdivision of the parcel under section 17 (Unit title applications—general requirements).
 development, of a parcel, a unit or common property—
   (a) means the erection, alteration or addition of a building on the parcel, unit or common property; and
@@ -86,14 +86,14 @@ lease means—
     (i) section 33 (2) (Leases of units and common property); or
     (ii) section 167AA (Declared land subleases—grant of further leases); or
     (iii) section 171 (2) (New unit lease); or
-    (iv) the Planning and Development Act 2007, section 254 (Grant of further leases); or
+    (iv) the Planning Act 2023, section 289 (Grant of further leases); or
   (b) for common property—the lease of the common property under—
     (i) section 33 (3) (Leases of units and common property); or
     (ii) section 167AA (Declared land subleases—grant of further leases); or
-    (iii) the Planning and Development Act 2007, section 254 (Grant of further leases); or
+    (iii) the Planning Act 2023, section 289 (Grant of further leases); or
   (c) for a parcel—
     (i) the lease of the parcel—
-      (A) granted under the Planning and Development Act 2007; or
+      (A) granted under the Planning Act 2023; or
       (B) arising under section 162 (Cancellation of units plan—effects) of this Act; or
     (ii) if the parcel is land under a declared land sublease—the declared land sublease.
 lessee means—
@@ -130,13 +130,13 @@ public unleased land—see the Public Unleased Land Act 2013, section 8.
 registered means registered with the registrar-general under the Land Titles Act 1925 or the Land Titles (Unit Titles) Act 1970.
 reviewable decision, for part 14 (Notification and review of decisions)—see section 173.
 schedule of unit entitlement, in relation to a units plan, means the schedule of unit entitlement forming part of the plan under section 8.
-schedules of rent and lease provisions means the schedules issued by the planning and land authority under section 23 (1) setting out—
+schedules of rent and lease provisions means the schedules issued by the territory planning authority under section 23 (1) setting out—
   (a) the rent to be reserved under the lease of each unit in a units plan and the provisions subject to which the lease of the unit is to be held; and
   (b) the provisions subject to which the lease of the common property for the units plan is to be held.
 special resolution—see the Unit Titles (Management) Act 2011, dictionary.
 staged development, in relation to a unit title application—see section 17 (4) (Unit title applications—general requirements).
 termination, of a lease of a unit, does not include the termination of the lease on surrender under—
-  (a) the Planning and Development Act 2007, section 254 (Grant of further leases); or
+  (a) the Planning Act 2023, section 289 (Grant of further leases); or
   (b) for leases under a units plan that subdivides land under a declared land sublease—section 167AA.
 unanimous resolution—see the Unit Titles (Management) Act 2011, dictionary.
 unit—see section 9.
