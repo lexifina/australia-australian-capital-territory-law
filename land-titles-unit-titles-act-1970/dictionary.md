@@ -7,8 +7,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • land
 • land titles register
 • Minister (see s 162)
-• planning and land authority
-• registrar-general.
+• registrar-general
+• territory planning authority.
 Note 3 Terms defined in the Unit Titles Act 2001 have the same meaning in this Act (see s 3). For example, the following terms are defined in the Unit Titles Act 2001, dict:
 • boundary authority (see s 149)
 • cancellation authority (see s 160)
