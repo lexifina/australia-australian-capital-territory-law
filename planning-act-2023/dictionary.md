@@ -1,4 +1,4 @@
-# U Dictionary
+# Dictionary
 (see s 3)
 Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
@@ -59,7 +59,7 @@ authority website—see section 509.
 background papers, in relation to a draft major plan amendment or major plan amendment, for part 5.2 (Territory plan—major plan amendments)—see section 55.
 Belconnen town centre, for schedule 6 (Matters exempt from third party ACAT review)—see schedule 6, section 6.1.
 block—see the Districts Act 2002, dictionary.
-building and development provision, for chapter 10 (Leases and licences)—see section 256.
+building and development provision, in relation to a lease, for chapter 10 (Leases and licences)—see section 256.
 business hours, in relation to premises—
   (a) means 9.00 am to 5.00 pm on a working day; and
   (b) if the premises are not residential premises—includes any period the premises are open for business outside the period mentioned in paragraph (a).
@@ -114,7 +114,7 @@ deal, with a lease, means—
   (a) assign or transfer the lease; or
   (b) sublet the land described in the lease or part of it; or
   (c) part with possession of the land described in the lease or any part of it.
-deciding a development application means approving (with or without a condition) or refusing the application.
+deciding, a development application, means approving (with or without a condition) or refusing the application.
 decision-maker—
   (a) for chapter 7 (Development assessment and approvals)—see section 144; and
   (b) for part 9.4 (Offset conditions)—see section 243; and
@@ -138,6 +138,7 @@ development approval means approval for a development under chapter 7 (Developme
 development proposal means a proposal for development, whether or not in a development application.
 discharge amount, for a rural lease, for division 10.8.2 (Exceptions for rural leases)—see section 349.
 district—see the Districts Act 2002, dictionary.
+district policy means a district policy in the territory plan.
 district strategy—see section 38 (1).
 division, in relation to land—see the Districts Act 2002, dictionary.
 draft EIS—see section 112 (1) (a).
@@ -264,7 +265,7 @@ public consultation period, for a draft EIS, means—
   (b) if the period is extended under section 115 (3)—the period as extended.
 Public Health Act Minister means the Minister responsible for the Public Health Act 1997, section 134.
 public health EIS means an EIS for a development proposal in a development application in relation to which the Public Health Act Minister has made a declaration for section 105 (When EIS is required).
-public land means land identified by the territory plan as public land.
+public land means land identified in the territory plan as public land.
 public land management plan, for an area of public land—see section 388 (1).
 publicly notify—
   (a) a draft EIS—see section 114; and
@@ -294,7 +295,7 @@ rural lease—see section 256.
 scoping document, for a development proposal—see section 109 (2) (b).
 search warrant—see section 478 (1).
 show cause notice—see section 425 (2).
-significant, in relation to an adverse environmental impact—see section 104.
+significant adverse environmental impact—see section 104.
 significant development—see section 94.
 single dwelling house lease, for chapter 10 (Leases and licences)—see section 256.
 standard chargeable variation, of a nominal rent lease, for division 10.7.3 (Variation of nominal rent leases)—see section 327.

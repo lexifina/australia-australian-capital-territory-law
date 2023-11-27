@@ -1,7 +1,7 @@
-# U Schedule 6 Matters exempt from third party ACAT review
+# Schedule 6 Matters exempt from third party ACAT review
 (see s 504, def eligible entity, par (c))
-## U Part 6.1 Preliminary
-## U 6.1 Definitions—sch 6
+## Part 6.1 Preliminary
+## 6.1 Definitions—sch 6
 In this schedule:
 Belconnen town centre means the area outlined in bold on the plan in this schedule, division 6.3.2.
 city centre means the area outlined in bold on the plan in this schedule, division 6.3.1.
@@ -11,7 +11,7 @@ town centre means the Belconnen town centre, the Gungahlin town centre, the Tugg
 Tuggeranong town centre means the area outlined in bold on the plan in this schedule, division 6.3.4.
 University of Canberra site means the area outlined in bold on the plan in this schedule, division 6.3.7.
 Woden town centre means the area outlined in bold on the plan in this schedule, division 6.3.5.
-## U Part 6.2 Matters exempt from third party ACAT review
+## Part 6.2 Matters exempt from third party ACAT review
 column 1 item | column 2 matters
 1 | a territory priority project
 2 | a development, other than a significant development requiring an EIS or a subdivision design application, on land in— (a) the city centre; or (b) a town centre; or (c) an industrial zone; or (d) the Kingston Foreshore; or (e) the University of Canberra site
@@ -20,11 +20,11 @@ column 1 item | column 2 matters
 5 | public works, other than a significant development requiring an EIS or a subdivision design application, consisting of the building, alteration or demolition of— (a) electricity, water, gas or communication services; or (b) a floodway or sewerage or drainage works; or (c) a public road, public path, cycleway or car park
 6 | the building, alteration or demolition of public facilities on unleased land, or land leased to the Territory, including barbecues, seating and playground equipment, or related landscaping
 7 | the putting up, attaching or displaying of a sign or advertisement on land or to a building or other structure on land
-## U Part 6.3 Maps
-## U Division 6.3.1 City centre
-## U Division 6.3.2 Belconnen town centre
-## U Division 6.3.3 Gungahlin town centre
-## U Division 6.3.4 Tuggeranong town centre
-## U Division 6.3.5 Woden town centre
-## U Division 6.3.6 Kingston Foreshore
-## U Division 6.3.7 University of Canberra site
+## Part 6.3 Maps
+## Division 6.3.1 City centre
+## Division 6.3.2 Belconnen town centre
+## Division 6.3.3 Gungahlin town centre
+## Division 6.3.4 Tuggeranong town centre
+## Division 6.3.5 Woden town centre
+## Division 6.3.6 Kingston Foreshore
+## Division 6.3.7 University of Canberra site

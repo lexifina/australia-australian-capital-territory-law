@@ -1,14 +1,14 @@
-# U Schedule 5 Reviewable decisions, eligible entities and interested entities
+# Schedule 5 Reviewable decisions, eligible entities and interested entities
 (see s 504)
-## U Part 5.1 Preliminary
-## U 5.1 Meaning of material detriment—sch 5
+## Part 5.1 Preliminary
+## 5.1 Meaning of material detriment—sch 5
 In this schedule:
 material detriment—
   (a) means detriment suffered by an entity because of a decision if—
     (i) the decision has, or is likely to have, an adverse impact on the entity’s use or enjoyment of land; or
     (ii) for an entity that has objects or purposes—the decision relates to a matter included in the entity’s objects or purposes; but
   (b) does not include detriment suffered by an entity only because of a decision that increases, or is likely to increase, direct or indirect competition with the entity’s business, business partner, close friend or family member.
-## U Part 5.2 Reviewable decisions, eligible entities and interested entities
+## Part 5.2 Reviewable decisions, eligible entities and interested entities
 column 1 item | column 2 reviewable decision | column 3 eligible entities | column 4 interested entities
 1 | decision under s 185 to approve (with or without conditions) or refuse a development application | applicant for development approval | entity that made representation under s 180 about the application
 2 | decision under s 185 to approve (with or without conditions) a development application, unless the development application is exempted from a public notification requirement by regulation under s 175 (3) (b) | an entity if— (a) the entity made a representation under s 180 about the application or had a reasonable excuse for not making a representation; and (b) the approval of the application may cause the entity to suffer material detriment | applicant for development approval

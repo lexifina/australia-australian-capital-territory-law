@@ -1,13 +1,13 @@
-# U Schedule 2 Market value leases and leases that are possibly concessional
+# Schedule 2 Market value leases and leases that are possibly concessional
 (see s 259, def market value lease, par (b) and s 260 (1) (c))
-## U Part 2.1 Preliminary
-## U 2.1 Definitions—sch 2
+## Part 2.1 Preliminary
+## 2.1 Definitions—sch 2
 In this schedule:
 incorporated association means an association incorporated under the Associations Incorporation Act 1991 or a law of another jurisdiction corresponding, or substantially corresponding, to that Act.
 rental lease—see section 256.
 residential lease—see section 256.
 rural lease—see section 256.
-## U Part 2.2 Market value leases
+## Part 2.2 Market value leases
 column 1 item | column 2 lease
 1 | a consolidated or subdivided lease or a further or regranted lease, other than a lease mentioned in s 258 (1)
 2 | a rural lease
@@ -30,7 +30,7 @@ column 1 item | column 2 lease
 19 | a lease granted before 31 March 2008 if— (a) the lease was granted for a consideration less than the full market value of the lease, or for no consideration; but (b) 1 of the following payments was made to the Territory, a territory entity, the Commonwealth, a Commonwealth entity or the entity that originally granted the lease: (i) an amount in relation to the grant of the lease that was equal to the lease’s market value at the time of payment or, if the amount was paid in parts, at the time of the last payment; (ii) an amount to reduce the rent payable under the lease to a nominal rent under the Land (Planning and Environment) Act 1991 (repealed), s 186 (Variation of lease to pay out rent)
 20 | a lease granted before 1 July 2007 if— (a) the lessee applied in writing to the territory planning authority or the Minister to remove the concessional status of the lease; and (b) the territory planning authority or the Minister— (i) approved the application in writing before 31 March 2008, subject to payment of an amount (the application amount), decided by the territory planning authority or the Minister, equal to the lease’s market value; and (ii) decided the application amount in writing, after 1 July 2007 and before 31 March 2008; and (c) the lessee did not pay the application amount before 31 March 2008; and (d) the lessee pays the application amount within 6 months after the commencement of this schedule
 21 | a lease prescribed by regulation
-## U Part 2.3 Possibly concessional leases
+## Part 2.3 Possibly concessional leases
 Note A lease is not possibly concessional if the lease states that the lease is concessional or the lease is mentioned in pt 3.2 (see s 260).
 column 1 item | column 2 lease
 1 | a lease granted to a property trust or other corporation established by or in relation to a religious organisation that may hold property in accordance with an Act

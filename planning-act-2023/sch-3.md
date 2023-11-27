@@ -1,12 +1,12 @@
-# U Schedule 3 Management objectives for public land
+# Schedule 3 Management objectives for public land
 (see s 387 (1) (a))
-## U Part 3.1 Preliminary
-## U 3.1 Definitions—sch 3
+## Part 3.1 Preliminary
+## 3.1 Definitions—sch 3
 In this schedule:
 Aboriginal object—see the Heritage Act 2004, section 9 (1).
 Aboriginal place––see the Heritage Act 2004, section 9 (1).
 natural environment means all biological, physical and visual elements of the earth and its atmosphere, whether natural or modified.
-## U Part 3.2 Management objectives for areas of public land
+## Part 3.2 Management objectives for areas of public land
 column 1 item | column 2 reserve purpose | column 3 management objectives
 1 | wilderness area | (a) to conserve the natural environment in a manner ensuring that disturbance to that environment is minimal (b) to provide for the use of the area (other than by vehicles or other mechanised equipment) for recreation by limited numbers of people, so as to ensure that opportunities for solitude are provided
 2 | national park | (a) to conserve the natural environment (b) to provide for public use of the area for recreation, education and research

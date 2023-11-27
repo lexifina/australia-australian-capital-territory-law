@@ -1,6 +1,6 @@
-# U Schedule 7 Preserved leases
+# Schedule 7 Preserved leases
 (see dict, def preserved lease)
-## U 7.1 Meaning of preserved lease
+## 7.1 Meaning of preserved lease
 ## (1) In this Act:
 preserved lease means a lease—
   (a) granted or continued, or purported to have been granted or continued, under the City Area Leases Act 1936 (repealed); and

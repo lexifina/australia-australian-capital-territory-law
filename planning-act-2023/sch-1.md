@@ -1,11 +1,11 @@
-# U Schedule 1 Information and documents for certain development applications
+# Schedule 1 Information and documents for certain development applications
 (see s 166 (2) (d))
-## U Part 1.1 Preliminary
-## U 1.1 Definitions—sch 1
+## Part 1.1 Preliminary
+## 1.1 Definitions—sch 1
 In this schedule:
 expected greenhouse gas emissions statement, for a development, means written information stating the annual amount of expected greenhouse gas emissions from operating the development.
 greenhouse gas emissions—see the Climate Change and Greenhouse Gas Reduction Act 2010, dictionary.
-## U Part 1.2 Information and documents for certain development applications
+## Part 1.2 Information and documents for certain development applications
 column 1 item | column 2 type of development application | column 3 required information or documents
 1 | application for a development proposal in relation to which design advice is given | the design advice and the proponent’s response to the design advice
 2 | application for a development proposal in relation to which a design guide applies | the proponent’s response to the design guide

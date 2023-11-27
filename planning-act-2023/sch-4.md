@@ -1,4 +1,4 @@
-# U Schedule 4 Controlled activities
+# Schedule 4 Controlled activities
 (see s 412 and s 432)
 column 1 item | column 2 controlled activities | column 3 penalty
 1 | failing to comply with— (a) a provision of a lease, other than— (i) a building and development provision requiring works to be commenced within a stated time; or (ii) a building and development provision requiring works to be completed within a stated time if— (A) a new compliance time is notified under s 375; and (B) the noncompliance fee has been paid; and (C) the new compliance time has not ended; or (b) if a lease is granted subject to the lessee entering into a development agreement and the lessee has entered into such an agreement—the development agreement | 60 penalty units
