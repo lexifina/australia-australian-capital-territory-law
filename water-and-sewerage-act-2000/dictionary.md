@@ -39,7 +39,7 @@ irrigation means the supplying of water for—
 irrigation system—
   (a) means the part of water supply pipework from a water network to outlets for irrigation; but
   (b) does not include part of a water network.
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 licence of a stated kind, means a licence of that kind under the Construction Occupations (Licensing) Act 2004.
 licence number—see Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 licensee, in relation to a service, means a person licensed under the Construction Occupations (Licensing) Act 2004 to provide the service.
