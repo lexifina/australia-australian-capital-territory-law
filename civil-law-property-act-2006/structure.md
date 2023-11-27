@@ -17,7 +17,7 @@
 ## Part 2.6 Apportionment
 ## Part 2.7 Children and children’s property
 ## Part 2.8 Rights-of-way
-## Part 2.9 Unit Titles
+## Part 2.9 Unit titles
 ### Division 2.9.1 Important concepts
 ### Division 2.9.2 Off-the-plan contracts—disclosure
 ### Division 2.9.3 Implied warranties
