@@ -78,7 +78,7 @@ land-holder—
     (ii) if the land is occupied by a person other than the owner—an occupier of the land; and
   (b) in relation to unleased Territory land—means the Territory; and
   (c) in relation to national land—means the Commonwealth, and includes a lessee of the land.
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 levy, for part 3A (Energy industry levy)—see section 54A.
 levy year, for part 3A (Energy industry levy)—see section 54C (1).
 licence means a licence under this Act.
