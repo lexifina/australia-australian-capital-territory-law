@@ -13,7 +13,9 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • nurse practitioner
 • public servant
 • public trustee and guardian
-• reviewable decision notice.
+• reviewable decision notice
+• territory plan
+• territory planning authority.
 abatement notice means a notice under section 69.
 activity accreditation scheme means an activity accreditation scheme determined under section 22.
 activity accreditation standards, for an activity accreditation scheme, means the activity accreditation standards determined under section 22 for the scheme.
@@ -70,10 +72,9 @@ defined influential person, in relation to a person proposing to carry on, or ca
     (ii) if any partner is a body corporate—a director, secretary, officer or manager of the body.
 director, in relation to a body corporate, includes a member of a body corporate incorporated for a public purpose by a law of the Territory, the Commonwealth, a State or another Territory.
 education means pre-primary, primary or secondary education.
-EIS—see the Planning and Development Act 2007, dictionary, definition of environmental impact statement.
+EIS—see the Planning Act 2023, section 94 (c).
 emergency declaration means a declaration under section 119.
 emergency direction means a direction under section 120.
-environmental impact statement—see the Planning and Development Act 2007, dictionary, definition of environmental impact statement.
 externally reviewable decision, for division 6C.6 (Exemptions)—see section 118ZC.
 external reviewer, for division 6C.6 (Exemptions)—see section 118ZC.
 health worker, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
