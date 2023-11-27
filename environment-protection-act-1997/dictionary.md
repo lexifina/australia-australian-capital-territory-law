@@ -22,7 +22,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public trustee and guardian
 • reviewable decision notice
 • State
-• territory plan.
+• territory plan
+• territory planning authority.
 activity means a current or proposed activity including a process, operation, project, venture or business.
 airgun, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 analyst means an analyst under section 15.
@@ -40,7 +41,6 @@ area of high conservation value means—
   (d) any other prescribed area.
 AS/NZS 4012, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
 AS/NZS 4013, for schedule 2 (Specific offences)—see schedule 2, section 2.1.
-assessment means an assessment made under the Land Act, division 4.3.
 assessment order, for part 9 (Environmental protection)—see section 91J.
 auditor, for division 9.2 (Environmental audits)—see section 73.
 authorisation fee, for an environment authorisation, means the fee payable in relation to the authorisation.
@@ -64,7 +64,7 @@ development means the following:
   (c) carrying out earthworks or other construction work on or under land;
   (d) carrying out work that would affect the landscape of land.
 draft environment protection policy, for part 4 (Environment protection policies)—see section 23B.
-EIS, for part 10—see the definition of environmental impact statement.
+EIS, for part 10 (Functions of the Minister)—see environmental impact statement.
 electronic equipment means equipment that requires an electric current or electromagnetic field to function.
 Examples—electronic equipment
 televisions, fridges, computers, mobile phones, drills, remote control cars
@@ -86,7 +86,7 @@ environmental authorisation—
   (b) for part 8—see section 41A.
 environmental emergency, for division 9.3 (Emergency plans)—see section 80.
 environmental harm means any impact on the environment as a result of human activity that has the effect of degrading the environment (whether temporarily or permanently).
-environmental impact statement, for part 10—see the Planning and Development Act 2007, section 206 (Definitions—ch 8).
+environmental impact statement (or EIS), for part 10 (Functions of the Minister)—see the Planning Act 2023, section 94 (c).
 environmental nuisance means an unreasonable interference with the enjoyment by the public, a section of the public or a person of a place or area, if the interference caused or likely to be caused by—
   (a) dust, fumes, light, noise, odour or smoke; or
   (b) an unhealthy, unsightly or otherwise offensive condition because of pollution.
@@ -106,10 +106,10 @@ general environmental duty means the duty of care described in section 22 (1).
 ground water, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 hazardous component, of electronic waste, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 information discovery order means an information discovery order under section 133.
-inquiry, for part 10 (Functions of the Minister)—see the Planning and Development Act 2007, section 206 (Definitions—ch 8).
+inquiry, for part 10 (Functions of the Minister)—see the Planning Act 2023, dictionary.
 internally reviewable decision, for part 14 (Notification and review of decisions)—see section 135.
 land includes water on or below the surface of land and the bed of such water.
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 live animal weight, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 logging, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
 material environmental harm means environmental harm—
