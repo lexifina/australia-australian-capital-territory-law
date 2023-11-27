@@ -11,8 +11,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • exercise
 • function
 • individual
-• planning and land authority
-• registrar-general.
+• registrar-general
+• territory planning authority.
 address for correspondence, of a company, means the address of the company’s office, as registered under the law under which the company is incorporated (if provided by the law).
 administration order—see section 136.
 administrative fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 73.
@@ -27,7 +27,7 @@ audit means an audit conducted by a person who—
 building—
   (a) for this Act generally—see the Unit Titles Act 2001, dictionary; and
   (b) for division 5.4 (Insurance)—see section 99.
-building and development provision, in relation to a lease—see the Planning and Development Act 2007, section 234.
+building and development provision, in relation to a lease—see the Planning Act 2023, section 256.
 building management statement—see the Land Titles Act 1925, section 123C (1).
 class A unit—see the Unit Titles Act 2001, section 10.
 class B unit—see the Unit Titles Act 2001, section 11.
@@ -37,7 +37,7 @@ company means a corporation.
 Note Corporation—see the Legislation Act, dictionary, pt 1.
 corporate register—see section 113.
 court includes the ACAT.
-declared land sublease—see the Planning and Development Act 2007, section 312C.
+declared land sublease—see the Planning Act 2023, section 365 (1).
 default rules means the default rules prescribed by regulation.
 developer—see the Unit Titles Act 2001, dictionary.
 developer control period, for a units plan, means the period that—
@@ -49,7 +49,7 @@ eligible person, for a unit or common property in relation to which access to in
   (a) the owner, or another person with an interest in the unit, or in an easement over the common property; or
   (b) for a unit that is owned, or part-owned, by a company—the representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
-  (d) if access to the information is necessary or desirable for the administration of this Act—the planning and land authority.
+  (d) if access to the information is necessary or desirable for the administration of this Act—the territory planning authority.
 entitled to vote, in relation to a motion at a general meeting of an owners corporation, means a person who is entitled to vote on the motion under schedule 3, section 3.20.
 executive committee, of an owners corporation, means the executive committee of the corporation established under section 34.
 executive member means a member of an executive committee.

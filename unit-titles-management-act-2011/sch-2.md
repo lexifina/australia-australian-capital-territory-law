@@ -18,7 +18,7 @@ An executive committee member is protected from civil liability in relation to t
 ## (iii) details of proxy and absentee votes for the meeting;
 ## (iv) details of resolutions passed including, for special, unopposed and unanimous resolutions, details of the kind of resolution; and
 ## (d) keep a copy of any court order given to the owners corporation; and
-## (e) keep any authorisation by the planning and land authority given to the owners corporation; and
+## (e) keep any authorisation by the territory planning authority given to the owners corporation; and
 ## (f) keep proper records and books of account in relation to—
     (i) the corporation’s assets and liabilities (including all amounts owing to and by the corporation); and
     (ii) all amounts received and paid by the corporation; and
