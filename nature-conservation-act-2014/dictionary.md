@@ -26,6 +26,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • rural fire service
 • SES
 • State
+• territory plan
+• territory planning authority
 • the Territory
 • working day.
 accessing biological resources, for part 8.5 (Access to biological resources in reserves)—see section 207.
@@ -58,7 +60,7 @@ conservation—see section 10.
 conservation advice means an advice mentioned in section 90C.
 conservation dependent species means a species included in the conservation dependent category in the threatened native species list.
 conservation officer means a conservation officer mentioned in section 28.
-conservator—see section 20.
+conservator—see section 20 (1).
 conservator guidelines—see section 23.
 conservator’s direction—see section 331 (2).
 continental shelf—see the Seas and Submerged Lands Act 1973 (Cwlth), section 3.
@@ -68,8 +70,8 @@ critical habitat, for a species or ecological community, means a habitat that is
 critically endangered ecological community means an ecological community included in the critically endangered category in the threatened ecological communities list.
 critically endangered species means a species included in the critically endangered category in the threatened native species list.
 cultural resource management plan—see section 168A.
-custodian, for an area of land—see the Planning and Development Act 2007, section 333 (What is a custodian?).
-Note Custodian only applies to land that is unleased land or public land.
+custodian, in relation to land—see the Planning Act 2023, dictionary.
+Note Custodian applies only to land that is unleased land, public land or both.
 damage—
   (a) a tree, for division 6.1.3 (Native plants)—see section 139; and
   (b) to land, for part 9.5 (Reserves—offences about damaging land)—see section 243.
@@ -123,7 +125,7 @@ keep, an animal, means have charge or possession of the animal, either in captiv
 key threatening process—see section 74.
 key threatening processes list—see section 75.
 key threatening processes list criteria—see section 78.
-lease—see the Planning and Development Act 2007, section 235.
+lease—see the Planning Act 2023, section 257.
 leave reserve direction, for part 14.1 (Directions)—see section 325 (2).
 licence means a nature conservation licence.
 licence number, for a licence—see section 277.
@@ -169,10 +171,10 @@ participating State, for part 4.4 (Including, transferring and omitting items in
 personal information notice—see section 267.
 pest animal—see the Pest Plants and Animals Act 2005, dictionary.
 pest plant—see the Pest Plants and Animals Act 2005, dictionary.
-planning and development management objectives, for an area of public land, means the management objectives under the Planning and Development Act 2007, section 317 (Management objectives for areas of public land).
+planning and development management objectives, for an area of public land reserved for a particular purpose, means the management objectives under the Planning Act 2023, section 387.
 Note The management objectives are stated in the following:
-• the Planning and Development Act 2007, sch 3;
-• determinations made by the conservator under the Planning and Development Act 2007, s 317 (2).
+• the Planning Act 2023, sch 3
+• determinations made by the conservator under the Planning Act 2023, s 387 (2).
 plant—see section 13.
 plant reproductive material means—
   (a) a seed or spore of a plant; or
@@ -200,7 +202,7 @@ public consultation period—
   (e) for a draft Ramsar wetland management plan, for part 8.4 (Ramsar wetlands management plans)—see section 195 (2); and
   (f) for a draft reserve management plan, for part 8.3 (Reserve management plans)—see section 179 (2); and
   (g) for a nomination, for part 4.4 (Including, transferring and omitting items in list)—see section 84 (3).
-public land—see the Planning and Development Act 2007, dictionary.
+public land—see the Planning Act 2023, dictionary.
 public unleased land permit—see the Public Unleased Land Act 2013, section 40.
 Ramsar wetland—see section 190.
 Ramsar wetland management plan, for a Ramsar wetland—see section 191.
