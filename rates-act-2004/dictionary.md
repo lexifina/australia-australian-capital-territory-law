@@ -13,8 +13,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • home address
 • month
 • person (see s 160)
-• planning and land authority
 • registrar-general
+• territory planning authority
 • under.
 airport land—see section 40B.
 annual redetermination, of a parcel of land, means a redetermination of the unimproved value of the parcel under section 10.
@@ -24,7 +24,7 @@ Canberra Airport, for part 5A (Airport land)—see section 40A.
 commercial land means rateable land that is not residential land or rural land.
 commissioner means the commissioner for revenue.
 Commonwealth land means land that is the property of the Commonwealth.
-declared land sublease—see the Planning and Development Act 2007, section 312C.
+declared land sublease—see the Planning Act 2023, section 365 (1).
 deferral determination, for part 7 (Deferral and rebates)—see section 45.
 determination, of the unimproved value of a parcel of land, includes redetermination of the unimproved value.
 development index, for part 5A (Airport land)—see section 40D.
