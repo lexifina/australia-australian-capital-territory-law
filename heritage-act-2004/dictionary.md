@@ -3,7 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • ACAT
-• chief planning executive
+• chief planner
 • commissioner for revenue
 • conservator of flora and fauna
 director-general (see s 163)
@@ -15,9 +15,9 @@ director-general (see s 163)
 • Minister (see s 162)
 • national capital authority
 • notification
-• planning and land authority
 • reviewable decision notice
 • territory land
+• territory planning authority
 • working day.
 Aboriginal heritage tree, for part 10A (Tree damaging activity etc)—see the Tree Protection Act 2005, dictionary.
 Aboriginal object—see section 9.
@@ -77,7 +77,7 @@ object—see section 8.
 occupier, for part 14 (Enforcement)—see section 77.
 offence, for part 14 (Enforcement)—see section 77.
 owner, of a place, means—
-  (a) the registered proprietor of a lease granted under the Planning and Development Act 2007 over land that includes the place; or
+  (a) the registered proprietor of a lease granted under the Planning Act 2023 over land that includes the place; or
   (b) a unit owner within the meaning of the Unit Titles Act 2001, if the lease of the unit is over land that includes the place; or
   (c) an owners corporation within the meaning of the Unit Titles (Management) Act 2011, if the common property covers land that includes the place.
 partial cancellation, for part 7 (Cancellation of registration)—see section 50.
