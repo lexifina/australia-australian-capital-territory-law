@@ -5,4 +5,3 @@
 ### Division 4.1 Operation of public hospital
 ### Division 4.2 Amendment of Crown lease
 ## Part 5 Miscellaneous
-## Part 6 Repeal and consequential amendments
