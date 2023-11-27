@@ -13,10 +13,10 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • may (see s 146)
 • must (see s 146)
 • national land
-• planning and land authority
 • reviewable decision notice
 • statutory office-holder
 • Territory land
+• territory planning authority
 • under.
 actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 administrator—see section 127F (1).
@@ -61,8 +61,8 @@ custodian, for part 4 (Stop and other notices and demolition orders)—see secti
 decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
 demolition order—see section 63A (2).
 developer, for part 6A (Residential building disputes)—see section 127A.
-development—see the Planning and Development Act 2007, section 7.
-development approval means development approval under the Planning and Development Act 2007, chapter 7.
+development, in relation to land—see the Planning Act 2023, section 14 (1).
+development approval—see the Planning Act 2023, dictionary.
 dispute resolution officer means a person appointed under section 127G to be a dispute resolution officer.
 disturbs friable asbestos—see section 10B.
 dwelling means a class 1 or class 2 building.
@@ -72,7 +72,7 @@ energy efficiency certificate—see section 139C (1).
 exempt building—see section 12.
 exemption assessment—see section 14.
 exemption assessment B notice—see section 14B.
-exemption assessment D notice—see the Planning and Development Act 2007, section 138D.
+exemption assessment D notice—see the Planning Act 2023, section 152 (2) (b).
 fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 friable asbestos—see the Work Health and Safety Regulation 2011, dictionary.
@@ -84,9 +84,9 @@ insurable residential building work, for part 6 (Residential buildings—statuto
 land includes—
   (a) a place under, on or above the ground; and
   (b) land that is the subject of a public unleased land permit under the Public Unleased Land Act 2013; and
-  (c) land, a building or a structure, the use of which is authorised by a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land).
-land sublease—see the Planning and Development Act 2007, dictionary.
-lease—see the Planning and Development Act 2007, section 235.
+  (c) land, a building or other structure on land, the use of which is authorised by a licence under the Planning Act 2023, part 10.13 (Licences for unleased land).
+land sublease—see the Planning Act 2023, dictionary.
+lease—see the Planning Act 2023, section 257.
 licensed construction practitioner means an entity licensed under the Construction Occupations (Licensing) Act 2004.
 licence number—see the Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 load includes superimposed load.
@@ -99,7 +99,7 @@ owner, of land, means—
     (iii) in any other case—the owners corporation; or
   (c) if the land is occupied under a tenancy from the Territory or the Commonwealth—the occupier; or
   (d) if the land is subject to a public unleased land permit under the Public Unleased Land Act 2013—the permit-holder; or
-  (e) if the land is subject to a licence under the Planning and Development Act 2007, part 9.11 (Licences for unleased land)—the licensee; or
+  (e) if the land is subject to a licence under the Planning Act 2023, part 10.13 (Licences for unleased land)—the licensee; or
   (f) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
   (g) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth; or
   (h) if the land is under a land sublease—the sublessee.
