@@ -13,6 +13,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • occupational discipline order
 • reviewable decision notice
 • State
+• territory planning authority
 • under
 • working day.
 AS 3500 means the following standards, as in force from time to time:
@@ -103,7 +104,7 @@ sanitary drainage service—see section 10 (2).
 supervise includes direct.
 works assessment service—see section 14A (2).
 works assessment work means—
-  (a) undertaking an exemption assessment under the Planning and Development Act 2007; or
+  (a) undertaking an exemption assessment under the Planning Act 2023; or
   (b) providing, including doing anything incidental to providing, a unit title assessment report under the Unit Titles Act 2001.
 Note Unit title assessment report—see the Unit Titles Act 2001, s 22B.
 works assessor—see section 14A (1).
