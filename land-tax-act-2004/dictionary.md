@@ -28,7 +28,7 @@ foreign ownership surcharge includes—
     (ii) interest payable in relation to the foreign ownership surcharge.
 foreign person, for part 2A (Foreign ownership surcharge)—see section 17A.
 foreign trust, for part 2A (Foreign ownership surcharge)—see section 17C.
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 land tax—
   (a) for this Act generally, includes—
     (i) penalty tax; and
