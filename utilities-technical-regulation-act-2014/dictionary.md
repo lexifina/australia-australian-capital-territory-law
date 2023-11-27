@@ -92,7 +92,7 @@ responsible utility—
   (a) for this Act generally—for a regulated utility network or network facility, means a regulated utility that provides utility services using the regulated utility network or network facility; and
   (b) for part 5A (Vegetation and electrical infrastructure management)—see section 41A.
 reviewable decision, for part 10 (Notification and review of decisions)—see section 105.
-rural lease, for part 5A (Vegetation and electrical infrastructure management)—see the Planning and Development Act 2007, section 234.
+rural lease, for part 5A (Vegetation and electrical infrastructure management)—see the Planning Act 2023, section 256.
 rural leased land, for part 5A (Vegetation and electrical infrastructure management)—see section 41A.
 sewerage network—see the Utilities Act 2000, section 14.
 show cause notice—
