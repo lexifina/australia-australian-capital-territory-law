@@ -17,6 +17,6 @@ Section 1.1 applies to a decision—
   (i) under section 44 imposing conditions on an approval under section 43; or
   (j) under section 45 varying or cancelling an approval under section 43; or
   (k) under section 103 refusing permission to lodge a late objection; or
-  (l) under the Planning and Development Act 2007, section 279AB (1); or
-  (m) under the Planning and Development Act 2007, section 279AB (2) and this Act, section 52 in relation to the conditions of a deferral arrangement; or
-  (n) under the Planning and Development Act 2007, section 279AD (3) and this Act, section 52 in relation to the variation of a deferral arrangement.
+## (l) under the Planning Act 2023, section 343 (1) in relation to an application to defer payment of a lease variation charge; or
+## (m) under the Planning Act 2023, section 344 (2) and this Act, section 52 in relation to the conditions of a deferral arrangement; or
+  (n) under the Planning Act 2023, section 345 (3) and this Act, section 52 in relation to the variation of a deferral arrangement.
