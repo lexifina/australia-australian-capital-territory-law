@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • territory authority
 • territory land
+• territory planning authority
 • the Territory
 • working day.
 acquiring authority—
