@@ -24,7 +24,6 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • Legislative Assembly
 • Minister (see s 162)
 • person (see s 160)
-• planning and land authority
 • public holiday
 • public sector body
 • public sector standards commissioner
@@ -39,6 +38,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • territory law
 • territory lease
 • territory plan
+• territory planning authority
 • the Territory.
 abbreviation, of the name of a political party, includes an alternative name of the party.
 address—
