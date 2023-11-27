@@ -17,8 +17,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Corporations Act
 • director-general (see s 163)
 • document
-• planning and land authority
-• police officer.
+• police officer
+• territory plan
+• territory planning authority.
 ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
 adults-only area, for licensed premises or permitted premises—see section 93.
 amend, a licence or permit, includes the following:
@@ -104,7 +105,7 @@ intoxicated—see section 104.
 investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 involved, with a licence, for part 11B (Cancellation of licence or permit for criminal activity)—see section 187H.
 involved, with a permit, for part 11B (Cancellation of licence or permit for criminal activity)—see section 187H.
-lease—see the Planning and Development Act 2007, section 235.
+lease—see the Planning Act 2023, section 257.
 licence—see section 16.
 licence and permit register—see section 195.
 licensed premises means premises that are the subject of a licence (other than a catering licence).
