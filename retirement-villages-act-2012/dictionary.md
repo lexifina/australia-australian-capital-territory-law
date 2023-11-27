@@ -45,7 +45,7 @@ company title scheme means a scheme under which a group of adjoining or adjacent
 condition report—see section 59 (1).
 contract for the sale, of residential premises occupied under a company title scheme—see section 9.
 departure fee—see section 214.
-development approval—see the Planning and Development Act 2007, dictionary.
+development approval—see the Planning Act 2023, dictionary.
 disclosure statement means a statement mentioned in section 24.
 disputes committee—see section 175A (1).
 end of the settling-in period, for a village contract, for division 5.2 (Settling-in period for residents)—see section 71.
