@@ -23,7 +23,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • may (see s 146)
   • must (see s 146)
   • penalty unit (see s 133)
-  • planning and land authority
   • police officer
   • prescribed
   • public holiday
@@ -32,6 +31,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • State
   • territory law
   • territory plan
+  • territory planning authority
   • the Territory
   • under.
 approved banking account means a banking account approved by the commission under section 131 (2).
