@@ -5,7 +5,8 @@ Note 2 In particular, the following terms that are defined in the Legislation Ac
 • function
 • registered surveyor
 • registrar-general
-• surveyor-general.
+• surveyor-general
+• territory planning authority.
 allocated address, for a block or unit, means the street address allocated to the block or unit under section 13.
 block means a block under section 6.
 deposited plan—see section 7.
