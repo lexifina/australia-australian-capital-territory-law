@@ -30,12 +30,12 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • must
 • notifiable instrument
 • penalty unit
-• planning and land authority
 • police officer
 • public trustee and guardian
 • reviewable decision notice
 • statutory office-holder
 • territory-owned corporation
+• territory planning authority
 • the Territory
 • under.
 advisory council means the ACT Multi-Hazard Advisory Council established under section 127.
@@ -129,7 +129,7 @@ information holder, for schedule 1A (Ambulance service quality assurance committ
 inspector means a person appointed as an inspector under section 99.
 interstate or overseas emergency service means an entity (however described) established under the law of the Commonwealth, a State, another Territory or a foreign country as an ambulance service, fire brigade, rural fire service or emergency service.
 investigator means a person appointed as an investigator under section 100.
-land management agreement—see the Planning and Development Act 2007, dictionary.
+land management agreement—see the Planning Act 2023, section 350 (2) (a).
 manager, for territory land or land occupied by the Territory, means the chief executive (however described) of the agency (as defined by section 70) whose responsibilities include managing the use of the land.
 medical treatment means—
   (a) undertaking a medical examination and assessment; or
