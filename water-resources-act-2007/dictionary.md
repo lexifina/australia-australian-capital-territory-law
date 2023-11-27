@@ -13,7 +13,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • national land
 • public employee
 • public servant
-• reviewable decision notice.
+• reviewable decision notice
+• territory plan.
 aquifer means a geological formation or structure, or an artificial landfill, permeated or capable of being permeated (whether permanently or intermittently) with water.
 authorised officer means an authorised officer under the Environment Protection Act 1997, section 14 (3).
 authority means the environment protection authority.
@@ -48,7 +49,7 @@ ground, for disciplinary action—see section 60.
 ground water—see section 9.
 incorporated document means an instrument applied, adopted or incorporated by a statutory instrument under this Act.
 land includes a building or structure on land.
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 licence means a licence under this Act.
 licence to take water means a licence under section 30.
 occupier, of premises, for part 10 (Enforcement)—see section 78.

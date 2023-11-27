@@ -1,6 +1,7 @@
 ## Part 1 Preliminary
 ## Part 2 Main principles and concepts
 ## Part 3 Environmental flow guidelines
+## Part 3A Environmental values
 ## Part 4 Water access entitlements
 ## Part 5 Licences
 ### Division 5.1 Licences to take water
@@ -23,3 +24,4 @@
 ## Part 11 Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 13 Surviving allocations
+## Part 22 Transitional—Planning (Consequential Amendments) Act 2023
