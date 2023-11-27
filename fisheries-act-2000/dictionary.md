@@ -32,7 +32,6 @@ corresponding law means a law of a State that regulates fisheries.
 critical habitat means aquatic habitat, or a part of aquatic habitat, declared as critical habitat under section 18A.
 critical habitat declaration—see section 18A (1).
 cultural resource management plan—see the Nature Conservation Act 2014, dictionary.
-custodian, for an area of land—see the Planning and Development Act 2007, section 333.
 environment—see the Environment Protection Act 1997, dictionary.
 exempt conduct, for part 8 (Offences)—see section 73.
 exempt species means a species of fish declared to be an exempt species under section 18.
@@ -65,7 +64,7 @@ identity card means—
   (b) in relation to a conservation officer—an identity card issued to the person under the Nature Conservation Act 2014, section 29; or
   (c) in relation to a police officer—proof of identification of a type approved for general purposes by the chief police officer.
 information direction—see section 64 (2).
-lease—see the Planning and Development Act 2007, section 235.
+lease—see the Planning Act 2023, section 257.
 licensee means the holder of—
   (a) a fisheries licence; or
   (b) a recreational group licence.
