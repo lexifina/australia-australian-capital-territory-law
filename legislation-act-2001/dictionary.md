@@ -80,7 +80,7 @@ chief officer (ambulance service) means the chief officer (ambulance service) un
 chief officer (fire and rescue service) means the chief officer (fire and rescue service) under the Emergencies Act 2004.
 chief officer (rural fire service) means the chief officer (rural fire service) under the Emergencies Act 2004.
 chief officer (SES) means the chief officer (SES) under the Emergencies Act 2004.
-chief planning executive means the Chief Planning Executive under the Planning and Development Act 2007.
+chief planner means the Chief Planner under the Planning Act 2023.
 chief police officer means the police officer responsible to the commissioner of police for the day-to-day administration and control of police services in the ACT.
 chief solicitor means the chief solicitor under the Law Officers Act 2011.
 child, if age rather than descendancy is relevant, means an individual who is under 18 years old.
@@ -347,7 +347,6 @@ person—see section 160 (References to people generally).
 pharmacist—
   (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the pharmacy profession (other than as a student); and
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
-planning and land authority means the Planning and Land Authority established under the Planning and Development Act 2007.
 police officer means a member or special member of the Australian Federal Police.
 position includes office.
 power includes authority.
@@ -440,13 +439,14 @@ Note The Australian Capital Territory (Planning and Land Management) Act 1988 (C
 territory law—see law, of the Territory.
 territory lease—
   (a) means—
-    (i) a lease granted under the Planning and Development Act 2007; or
-    (ii) a lease that is, under the Unit Titles Act 2001, taken to be granted by the Territory under the Planning and Development Act 2007; but
+    (i) a lease granted under the Planning Act 2023; or
+    (ii) a lease that is, under the Unit Titles Act 2001, taken to be granted by the Territory under the Planning Act 2023; but
   (b) does not include—
-    (i) a sublease of land approved under the Planning and Development Act 2007, section 308; or
+    (i) a sublease of land approved under the Planning Act 2023, section 284; or
     (ii) any other sublease.
 territory-owned corporation means a Territory owned corporation under the Territory-owned Corporations Act 1990.
-territory plan means the territory plan under the Planning and Development Act 2007.
+territory plan means the territory plan under the Planning Act 2023.
+territory planning authority means the Territory Planning Authority established under the Planning Act 2023.
 the Territory means—
   (a) when used in a geographical sense—the Australian Capital Territory; or
   (b) in any other case—the body politic established by the Self-Government Act, section 7.
