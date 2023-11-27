@@ -12,10 +12,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • must (see s 146)
 • notifiable instrument (see s 10)
 • penalty unit (see s 133)
-• planning and land authority
 • prescribed
 • public notice
 • regulation
+• territory planning authority
 • the Territory
 • under.
 authorisation means an authorisation under—
