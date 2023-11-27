@@ -5,9 +5,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • ACAT
 • function
 • land titles register
-• planning and land authority
 • reviewable decision notice
 • Supreme Court
+• territory planning authority
 • the Territory.
 administrative fund means a fund established by a body corporate to meet recurrent and capital expenditure of the body corporate.
 basic scheme, for part 12 (Termination of community title schemes)—see section 87.
@@ -18,7 +18,7 @@ community title certificate—see section 56.
 community title scheme means a scheme created on the registration of a plan under part 3 (Establishment of community title schemes).
 Crown lease—see the Land Titles Act 1925, dictionary.
 Crown lessee, in relation to a declared land sublease, means the lessee under the Crown lease under which the sublease is granted.
-declared land sublease—see the Planning and Development Act 2007, section 312C.
+declared land sublease—see the Planning Act 2023, section 365 (1).
 developer, of a community title scheme, means the person by or on whose behalf the scheme is, or is proposed to be, lodged for registration.
 eligible person, for a lot in relation to which a community title certificate, or access to books, records or documents, is required, means—
   (a) the owner, or someone else with an interest in the lot, or in an easement over the lot; or
@@ -26,7 +26,7 @@ eligible person, for a lot in relation to which a community title certificate, o
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
   (d) if access to the information or the books, records or documents is necessary for the administration of this Act—the director-general.
 exclusive use by-law means a by-law giving the owner of a lot exclusive rights to the use and enjoyment of, or other special rights over, the common property of a community title scheme or part of the common property.
-land sublease—see the Planning and Development Act 2007, dictionary.
+land sublease—see the Planning Act 2023, dictionary.
 lot—
   (a) means a parcel of land registered under the Land Titles Act 1925; but
   (b) does not include a land sublease other than a declared land sublease.
@@ -61,7 +61,7 @@ utility service means—
   (a) water reticulation or supply; or
   (b) gas reticulation or supply; or
   (c) electricity supply; or
-  (d) airconditioning; or
+  (d) air conditioning; or
   (e) telephone service; or
   (f) a computer or television service; or
   (g) a sewer system; or
