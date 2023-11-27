@@ -7,10 +7,9 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • domestic partner (see s 169 (1))
 • financial year
 • person (see s 160)
-• planning and land authority
 • quarter
 • territory authority
-• territory plan.
+• territory planning authority.
 commissioner means the commissioner for revenue.
 Community Housing Providers National Law (ACT), for part 3 (Land rent—discount)—see section 16A.
 discounted land rent means land rent discounted under part 3 (Land rent—discount).
@@ -28,8 +27,7 @@ own, in relation to real property, includes having a legal or beneficial interes
 registered affordable housing provider, for part 3 (Land rent—discount)—see section 16A.
 related, for a parcel of land, for part 5 (Land rent—payment and recovery of unpaid rent)—see section 18.
 relevant percentage means the relevant percentage determined under the Taxation Administration Act, section 139.
-single dwelling house—see the territory plan.
-single dwelling house lease means a residential lease that authorises use of the land under the lease for a single dwelling house.
+single dwelling house lease—see the Planning Act 2023, section 256.
 standard percentage means the standard percentage determined under the Taxation Administration Act, section 139.
 tax, for part 5 (Land rent—payment and recovery of unpaid rent)—see section 18.
 Taxation Administration Act means the Taxation Administration Act 1999.
