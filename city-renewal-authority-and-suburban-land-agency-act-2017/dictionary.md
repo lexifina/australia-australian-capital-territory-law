@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+• chief planner
 • entity
 • housing commissioner
 • Minister (see s 162)
@@ -38,7 +39,6 @@ owner, of the Melbourne Building or Sydney Building, for division 2.9 (Melbourne
 revitalisation work, for the Melbourne Building or Sydney Building, for subdivision 2.9.2 (Revitalisation of Melbourne and Sydney Buildings)—see section 36E (3) (d).
 statement of expectations, for part 2 (City renewal authority)—see section 17 (1).
 statement of operational intent, for part 2 (City renewal authority)—see section 18 (1).
-statement of planning intent—see Planning and Development Act 2007, s 16.
 statutory greenhouse gas emissions targets means—
   (a) the ACT greenhouse gas emissions target under the Climate Change and Greenhouse Gas Reduction Act 2010, section 6; and
   (b) the interim greenhouse gas emissions target under the Climate Change and Greenhouse Gas Reduction Act 2010, section 7.
