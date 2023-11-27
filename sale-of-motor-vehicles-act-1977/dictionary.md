@@ -44,14 +44,8 @@ accessory, in relation to a motor vehicle, means any of the following:
 Examples
 • global positioning system
 • satellite navigation system
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
   (r) a keyless entry system and remote key pad that is not standard to the motor vehicle;
   (s) anything else prescribed by regulation.
-ACTPLA certificate, for premises to which an application for the grant or renewal of a licence relates, means a certificate by the planning and land authority stating—
-  (a) whether the authority considers the carrying on of business at the premises under the licence would not comply with a provision of—
-    (i) the lease of the land where premises are located; or
-    (ii) the Territory plan; and
-  (b) if paragraph (a) applies—the relevant provision of the lease or Territory plan.
 body number, in relation to a motor vehicle, means the figures, letters or other symbols (if any) recorded on the body of a vehicle by the manufacturer of the vehicle as a means of identification of that vehicle.
 business, in relation to—
   (a) a person who is the holder of a licence—means the business carried on under the licence; or
