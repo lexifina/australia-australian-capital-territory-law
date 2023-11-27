@@ -54,7 +54,7 @@ retirement village—see the Retirement Villages Act 2012, section 10.
 seller, of residential property, for—
   (a) part 2 (Sale of residential property)—see section 7; and
   (b) part 4 (Public auctions of residential property)—see section 7.
-sublease, for part 2 (Sale of residential property)—see the Planning and Development Act 2007, section 234.
+sublease, for part 2 (Sale of residential property)—see the Planning Act 2023, section 256.
 sunset date, in relation to a sunset event in an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
 sunset event, in relation to an off-the-plan contract, for part 2A (Off-the-plan contracts)—see section 19A (1).
 unapproved structure, for part 2 (Sale of residential property)—see section 7.
