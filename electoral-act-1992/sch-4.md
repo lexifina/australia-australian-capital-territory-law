@@ -13,7 +13,7 @@ quota—
   (a) for this schedule generally—see clause 1B; and
   (b) for part 4.3 (Casual vacancies)—see clause 12.
 successful candidate means a candidate who is successful under clause 3, 4, 6, 9 or 14.
-surplus, in relation to a successful candidate, means the candidate’s total votes less the quota, if the resulting number of votes is 1 or greater.
+surplus, in relation to a successful candidate, means the candidate’s total votes less the quota, if the resulting number of votes is greater than zero.
 total votes, in relation to a candidate, means the sum of all votes allotted to the candidate.
 transfer value—
   (a) for this schedule generally—see clause 1C; and
@@ -60,13 +60,13 @@ each of those continuing candidates is successful and the scrutiny shall cease.
 ## 5 Scrutiny to continue
 If the scrutiny has not ceased in accordance with clause 4 and—
   (a) 1 or more successful candidates have a surplus not already dealt with under clause 6—subject to clause 4, each surplus shall be dealt with in accordance with clause 6; or
-  (b) there are no successful candidates with such a surplus—1 continuing candidate shall be excluded in accordance with clause 8 and the ballot papers counted for him or her shall be dealt with in accordance with clause 9.
+  (b) there are no successful candidates with such a surplus—1 continuing candidate shall be excluded in accordance with clause 8 and the ballot papers counted for the candidate shall be dealt with in accordance with clause 9.
 ## 6 Surplus votes
 (1) Subject to clause 7, this clause applies in relation to the surplus of a successful candidate.
 (2) Each ballot paper counted for the purpose of allotting votes to the successful candidate at the count at which the candidate became successful shall be dealt with as follows:
   (a) if it does not specify a next available preference—it shall be set aside as finally dealt with for this part;
   (b) if it specifies a next available preference—it shall be grouped according to the candidate for whom that preference is recorded.
-(3) The count votes for each continuing candidate shall be determined and allotted to him or her.
+(3) The count votes for each continuing candidate shall be determined and allotted to the candidate.
 (4) After the allotment under subclause (3), the continuing candidates’ total votes shall be calculated and, if the total votes of a candidate equal or exceed the quota, the candidate is successful.
 ## 7 More than 1 surplus
 (1) In this clause—
@@ -99,11 +99,11 @@ the person shall be taken to be the relevant candidate for subclause (2) in the 
   (c) that paragraph would, apart from this subclause, be applicable once again to the same candidates;
 the person shall be taken to be excluded in the recounting of those ballot papers.
 ## 9 Votes of excluded candidates
-(1) If a candidate is excluded in accordance with clause 8, the ballot papers counted for the candidate shall be sorted into groups according to their transfer values when counted for him or her.
+(1) If a candidate is excluded in accordance with clause 8, the ballot papers counted for the candidate shall be sorted into groups according to their transfer values when counted for the candidate.
 (2) Subject to subclause (3), each group under subclause (1) shall be dealt with as follows:
   (a) if a ballot paper in the group does not specify a next available preference—it shall be set aside as finally dealt with for this part;
   (b) if a ballot paper in the group specifies a next available preference—it shall be grouped according to the candidate for whom that preference is recorded;
-  (c) each continuing candidate’s count votes shall be determined and allotted to him or her;
+  (c) each continuing candidate’s count votes shall be determined and allotted to the candidate;
   (d) continuing candidates’ total votes shall be calculated and, if the votes of any of those candidates equal or exceed the quota, the candidate is successful.
 (3) The groups referred to in subclause (1) shall be dealt with under subclause (2) starting with the group with the highest transfer value and, subject to subclause 4 (1) or 15 (2), continuing in descending order until all the groups have been dealt with.
 ## 10 Setting aside ballot papers
@@ -131,7 +131,7 @@ TVA means the sum of the total votes allotted to the continuing candidates at th
   (a) for a ballot paper that did not specify a next available preference—the value is the transfer value of the ballot paper when counted for the purpose of allotting count votes to the former MLA; and
   (b) for a ballot paper that specified a next available preference—the value is calculated as follows:
 (4) In subclauses (2) and (3):
-NCP means the number of ballot papers counted for the former MLA at the count at which he or she became successful that did not specify a next available preference.
+NCP means the number of ballot papers counted for the former MLA at the count at which the former MLA became successful that did not specify a next available preference.
 TV means the transfer value of a ballot paper when counted at that count for the purpose of allotting count votes to the former MLA.
 Q means the quota for the election at which the former MLA was last elected.
 N means the former MLA’s total votes after the last calculation before that count.
@@ -140,7 +140,7 @@ CP means the number of ballot papers counted for the former MLA at that count th
 (1) If a ballot paper counted for the former MLA—
   (a) does not specify a next available preference—it shall be set aside as finally dealt with for this part; or
   (b) specifies a next available preference—it shall be grouped according to the candidate for whom that preference is recorded.
-(2) The count votes for each continuing candidate shall be determined and allotted to him or her, and each continuing candidate’s total votes shall be calculated.
+(2) The count votes for each continuing candidate shall be determined and allotted to the candidate, and each continuing candidate’s total votes shall be calculated.
 (3) If, after the calculation under subclause (2), the total votes of a continuing candidate equal or exceed the quota, the candidate is successful and the scrutiny shall cease.
 ## 15 Recount—continuation
 (1) If the scrutiny has not ceased in accordance with clause 14 (3) or subclause (2) of this clause—

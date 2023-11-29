@@ -1,7 +1,6 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • ACAT
 • administrative unit
 • adult
@@ -46,11 +45,11 @@ address—
   (b) of a person who is, or is nominated to be, the registered officer of a political party, for part 7 (Registration of political parties)—see section 87.
 amount, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 anonymous gift, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
-anonymously, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 Antarctica, for part 11 (Polling in Antarctica)—see section 167.
 Antarctic elector means an elector who is an Antarctic elector under section 171.
 application, for part 16 (Disputed elections, eligibility and vacancies)—see section 250.
-approved computer program means the computer program approved under section 118A.
+approved computer program means a computer program approved under section 118A (1) (a).
+approved electronic device means an electronic device approved under section 118AB.
 Assembly means the Legislative Assembly.
 assistant returning officer, for part 11 (Polling in Antarctica)—see section 167.
 associated entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -94,18 +93,20 @@ Court of Disputed Elections, for part 16 (Disputed elections, eligibility and va
 decided, for division 14.4A (Gifts from property developers)—see section 222B.
 declaration vote means a vote cast in accordance with any of the following provisions:
   (a) section 135 (Declaration voting at polling places);
-  (b) section 136B (15) (Ordinary or declaration voting in ACT before polling day);
-  (c) section 136C (Declaration voting outside ACT on or before polling day);
-  (d) section 144A (Requirements for casting postal votes).
+  (b) section 136D (Declaration voting in ACT before polling day);
+  (c) section 136G (Declaration voting outside ACT on or before polling day);
+  (d) section 144A (Requirements for casting postal votes);
+  (e) section 150A (Mobile polling—homelessness polling places).
 declaration voting papers, in relation to an election, means—
   (a) a declaration, in the form approved under section 340A (Approved forms) for this paragraph, to be completed by an elector; and
   (b) a ballot paper suitable for declaration voting at the election; and
-  (c) for declaration voting papers other than for postal voting—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
-  (d) an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
+  (c) for declaration voting papers other than for postal voting or electronic votes under section 136H—a certificate, in the form approved under section 340A for this paragraph, to be completed by a witness to the declaration; and
+  (d) for declaration voting papers other than an electronic vote under section 136H—an envelope, in the form approved under section 340A for this paragraph, addressed to the commissioner, on which appears a declaration referred to in paragraph (a).
 defined details, for division 14.4 (Gifts and certain loans—records and disclosure)—see section 216.
 defined particulars, for division 14.6 (Annual returns)—see section 228.
 disclosure period, for part 14 (Election funding, expenditure and financial disclosure)—see section 201.
 disseminate electoral matter (whether in printed or electronic form) means print, publish, distribute, produce or broadcast the electoral matter.
+early polling place—see section 136B (1).
 election means—
   (a) an election of an MLA or MLAs; and
   (b) in relation to an electorate—such an election for the electorate; and
@@ -116,12 +117,14 @@ election period, in relation to an election, means the period—
 elector means a person who is enrolled, or is to be taken under this Act to be enrolled, for an electorate.
 electoral advertisement, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 electoral commission means the Australian Capital Territory Electoral Commission established by section 5.
-electoral expenditure, in relation to an election, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
+electoral expenditure, in relation to an election—
+  (a) for part 14 (Election funding, expenditure and financial disclosure) generally—see section 198; and
+  (b) for division 14.2B (Limitations on electoral expenditure)—see section 205C (1).
 electoral matter—see section 4.
 electoral paper means a document, form or notice provided for or required under this Act.
 electorate means an electorate, the name and boundaries of which are specified in a determination in force under section 35.
 electronic form, of a roll or an extract from a roll, means a disk, tape or other device from which the information in the extract or roll may be reproduced by mechanical, electronic or other means.
-electronic voting—see section 120 (2).
+electronic voting means voting at an election using an electronic ballot paper, and includes telephone voting.
 eligible overseas elector means a person who is an eligible overseas elector under section 74.
 eligible vote, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 entity, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
@@ -134,22 +137,27 @@ file, for part 16 (Disputed elections, eligibility and vacancies)—see section 
 financial controller, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 financial institution, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 financial representative, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
+foreign entity, for division 14.4B (Gifts from foreign entities)—see section 222M.
 former MLA, for part 13 (Casual vacancies)—see section 190.
+free facilities use, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 general election means a general election of MLAs.
 gift—
-  (a) for part 14 (Election funding, expenditure and financial disclosure)—see section 198AA; and
-  (b) for division 14.4A (Gifts from property developers)—see section 222B.
+  (a) for part 14 (Election funding, expenditure and financial disclosure) generally—see section 198AA; and
+  (b) for division 14.4A (Gifts from property developers)—see section 222B; and
+  (c) for division 14.4B (Gifts from foreign entities)—see section 222M.
 government agency means—
   (a) the public service; or
   (b) a public sector body; or
   (c) a territory instrumentality.
 group, in relation to candidates in an election, means candidates whose names are grouped on the ballot papers in accordance with section 115 (Grouping of candidates’ names).
+homelessness polling place, for division 10.5 (Mobile polling)—see section 149B (1).
 hospital includes a convalescent home and an institution similar to a hospital or convalescent home.
 hour of nomination—see section 108.
 incurs, electoral expenditure, for part 14 (Election funding, expenditure and financial disclosure)—see section 202A.
 index number, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 internally reviewable decision, for part 15 (Notification and review of decisions)—see section 245.
 internal review notice—see section 244.
+interstate declaration polling place—see section 136G (1) (a).
 investigation notice, for division 14.7 (Compliance)—see section 235.
 loan, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 make, a relevant planning application, for division 14.4A (Gifts from property developers)—see section 222B.
@@ -169,7 +177,8 @@ officer means—
 official error, in relation to a person voting or seeking to vote at an election, means the removal of the person’s name under this Act from the roll for an electorate in which the person is otherwise entitled to vote unless the name was so removed before 6pm on the first day of the pre-election period for the previous election.
 OIC means—
   (a) in relation to a scrutiny centre—the officer in charge of the centre; and
-  (b) in relation to a polling place—the officer in charge of the place.
+  (b) in relation to a polling place—the officer in charge of the place; and
+  (c) in relation to an early polling place—the officer in charge of the place.
 ordinary election means a general election required by section 100.
 ordinary vote means a vote other than a declaration vote.
 participant, for division 14.5 (Disclosure of electoral expenditure)—see section 223.
@@ -181,7 +190,9 @@ party grouping, for part 14 (Election funding, expenditure and financial disclos
 person, for part 14 (Election funding, expenditure and financial disclosure)—see section 198.
 person, for part 15 (Notification and review of decisions)—see section 245.
 place of nomination—see section 108.
-political entity, for division 14.4A (Gifts from property developers)—see section 222B.
+political entity—
+  (a) for division 14.4A (Gifts from property developers)—see section 222B; and
+  (b) for division 14.4B (Gifts from foreign entities)—see section 222M.
 political party means an organisation, incorporated or unincorporated, an object or activity of which is the promotion of the election to the Assembly of a candidate or candidates endorsed by it.
 polling day—
   (a) means the day when, apart from section 111 (Need for an election), a poll for an election would be required; and

@@ -10,8 +10,8 @@ envelope means an envelope on which appears a declaration , in the form approved
 6 (1) In this clause:
 relevant provision means—
   (a) for a vote under section 135—section 135 (4); or
-  (b) for a vote under section 136B—section 135 (4) as applied by section 136B (18); or
-  (c) for a vote under section 136C—section 135 (4) as applied by section 136C (8); or
+  (b) for a vote under section 136D—section 135 (4) as applied by section 136D (4); or
+  (c) for a vote under section 136G—section 135 (4) as applied by section 136G (4); or
   (d) for a vote under section 144A—section 144A (2).
 (2) This clause applies to a set of declaration voting papers if the officer is satisfied that—
   (a) the signature on the declaration is that of the elector; and

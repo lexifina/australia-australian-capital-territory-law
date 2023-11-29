@@ -15,7 +15,7 @@
 ## Part 9 Arrangements for elections
 ### Division 9.1 Nominations
 ### Division 9.2 Ballot papers
-### Division 9.3 Electronic voting devices and vote counting programs
+### Division 9.3 Electronic voting and vote counting
 ### Division 9.4 Miscellaneous
 ## Part 10 Voting
 ### Division 10.1 General
@@ -37,6 +37,7 @@
 ### Division 14.3A Administrative expenditure funding
 ### Division 14.4 Gifts and certain loans—records and disclosure
 ### Division 14.4A Gifts from property developers
+### Division 14.4B Gifts from foreign entities
 ### Division 14.5 Disclosure of electoral expenditure
 ### Division 14.6 Annual returns
 ### Division 14.7 Compliance
