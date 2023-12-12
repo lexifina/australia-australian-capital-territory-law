@@ -54,7 +54,6 @@ Examples—energy source
 2 diesel fuel
 3 gas
 4 wind
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 inspector means a person appointed as an inspector under section 41.
 occupier, of premises, includes—
   (a) a person believed on reasonable grounds to be an occupier of the premises; and
