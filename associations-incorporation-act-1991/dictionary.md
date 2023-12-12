@@ -19,7 +19,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 accounting records includes invoices, receipts, orders for the payment of money, bills of exchange, cheques, promissory notes, vouchers and other documents of prime entry, books and records which record documents of prime entry, and any working papers and documents that are necessary to explain the methods and calculations by which accounts are made up.
 ACNC registered entity means a registered entity under the Australian Charities and Not-for-profits Commission Act 2012 (Cwlth).
 annual general meeting, in relation to an incorporated association, means a meeting of the association held under section 68 or 69.
-annual return means a statement referred to in section 79 (1) (a).
 approved form means a form approved by the registrar-general under section 126 (Approved forms).
 auditor, of an association’s statement of accounts, for part 5 (Record keeping and reporting)—see section 70B.
 authorised person means a person authorised to apply for the incorporation of an association or proposed association under section 16 (a).
