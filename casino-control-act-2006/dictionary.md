@@ -97,7 +97,9 @@ engage in conduct means—
 excluded person—see section 78.
 exclusion notice—see section 82 (1).
 executive officer, of a corporation, means anyone, by whatever name called, who is concerned with, or takes part in, the corporation’s management, whether or not the person is a director of the corporation.
-financial year means a period of 12 months ending on 31 December.
+financial year means—
+  (a) the period prescribed by regulation; or
+  (b) if no period is prescribed—12 months beginning on 1 July.
 game means a game of chance or a game partly of chance and partly of skill.
 gaming means the playing of any game.
 gaming activity means an activity in relation to the playing of any game.
