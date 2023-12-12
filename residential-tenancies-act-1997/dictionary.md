@@ -42,6 +42,7 @@ defective termination notice means a notice that—
   (a) if there is a form approved under section 133 (Approved forms—Minister) for a termination notice—is not in the approved form; or
   (b) if there is no form approved under section 133—does not contain the information required by the standard residential tenancy terms; or
   (c) is not given in accordance with this Act.
+Note A reference to an Act includes a reference to the statutory instruments made or in force under the Act (see Legislation Act, s 104).
 education provider—means an entity mentioned in the Education Act 2004, table 9A, column 3.
 eligible impacted property—see the Civil Law (Sale of Residential Property) Act 2003, section 9A (1).
 energy efficiency rating means the energy efficiency rating contained in an energy efficiency rating statement.

@@ -354,7 +354,9 @@ interested person, for a lessor, means a person who is not an immediate relative
 97 (1) If a tenant is required to vacate the premises in accordance with clause 96, the tenant may vacate the premises at any time during the 2 weeks before the date specified in the notice to vacate provided the tenant gives the lessor 4 days notice of intention to vacate.
 (2) In this case, the tenancy terminates on the date that the tenant vacates the premises.
 Notices of address for service
-98 (1) At the commencement of the tenancy, the lessor and the tenant must each give an address for service of notices.
-(2) If the address changes during the tenancy, the lessor or tenant must advise the other party of the new address for service within 2 weeks of the change.
+98 (1) At the commencement of the tenancy, the lessor and the tenant must each give—
+(a) an address for service of termination notices; and
+(b) an address for service of other notices.
+(2) If a person’s address for service changes during the tenancy, the person must tell the other party about the new address within 2 weeks of the change.
 99 On vacating the premises, the tenant must advise the lessor of a forwarding address.
 100 If 2 or more people share a tenancy, except where this agreement otherwise provides, they do so as co-tenants.

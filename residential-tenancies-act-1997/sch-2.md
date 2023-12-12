@@ -98,18 +98,44 @@ Termination if tenant is party to 2 tenancies
 (2) The lessor may give the tenant at least 1 week’s notice to vacate the first premises.
 (3) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 2.5 Temporary housing assistance termination clause
+Termination if tenant does not apply for ongoing housing assistance
+106A (1) This clause applies if—
+(a) the housing commissioner provides temporary housing assistance to the tenant under an approved housing assistance program because the tenant is a remaining occupant in the premises after a former tenant has stopped living in the premises because they—
+(i) have died; or
+(ii) are physically unable to live in the premises; or
+(iii) are legally unable to live in the premises; or
+(iv) no longer wish to live in the premises; and
+(b) the tenant does not apply for ongoing housing assistance under an approved housing assistance program within 6 weeks after the start of the temporary housing assistance.
+(2) The housing commissioner may give the tenant at least 26 weeks notice to vacate the premises.
+(3) A notice to vacate given under subclause (2) must include the following information:
+(a) a statement that the tenant did not apply for ongoing housing assistance under an approved housing assistance program;
+(b) the name and contact details of a legal or advocacy service that may be able to provide the tenant with advice about the tenant’s legal rights;
+(c) a statement that the notice will be withdrawn if the tenant applies for ongoing housing assistance before the end of the period stated in the notice.
+(4) If the tenant applies for ongoing housing assistance under an approved housing assistance program before the end of the period in the notice given under subclause (2), the notice is taken to have been withdrawn.
+(5) Subclause (6) applies if—
+(a) the tenant applies for ongoing housing assistance under an approved housing assistance program before the end of the period in the notice given under subclause (2); and
+(b) the housing commissioner decides that the tenant is not eligible for ongoing housing assistance under an approved housing assistance program.
+(6) Despite clause 107, the housing commissioner may give the tenant notice to vacate the premises provided that the notice is for the later of—
+(a) the end of the period in the notice given under subclause (2); and
+(b) 12 weeks after notice is given under this clause.
+(7) If the housing commissioner gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the housing commissioner’s notice to vacate provided the tenant gives the housing commissioner—
+(a) at least 2 weeks notice of the tenant’s intention to vacate; or
+(b) in the last 2 weeks before the housing commissioner’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(8) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 Termination if housing commissioner decides tenant not eligible for ongoing housing assistance
-107 (1) This clause applies if the housing commissioner provides temporary housing assistance to the tenant under an approved housing assistance program because the tenant is a remaining occupant in the premises after a former tenant has stopped living in the premises because they—
-(a) have died; or
-(b) are physically unable to live in the premises; or
-(c) are legally unable to live in the premises; or
-(d) no longer wish to live in the premises.
-(2) If the housing commissioner decides that the tenant is not eligible for ongoing housing assistance under an approved housing assistance program, the lessor may give the tenant—
+107 (1) This clause applies if—
+(a) the housing commissioner provides temporary housing assistance to the tenant under an approved housing assistance program because the tenant is a remaining occupant in the premises after a former tenant has stopped living in the premises because they—
+(i) have died; or
+(ii) are physically unable to live in the premises; or
+(iii) are legally unable to live in the premises; or
+(iv) no longer wish to live in the premises; and
+(b) the housing commissioner decides that the tenant is not eligible for ongoing housing assistance under an approved housing assistance program.
+(2) The housing commissioner may give the tenant—
 (a) if the housing commissioner makes the decision before the tenant’s temporary housing assistance ends—at least 26 weeks notice to vacate the premises; or
 (b) if the housing commissioner makes the decision after the tenant’s temporary housing assistance ends—at least 12 weeks notice to vacate the premises.
-(3) If the lessor gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
+(3) If the housing commissioner gives the tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the housing commissioner’s notice to vacate provided the tenant gives the housing commissioner—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the lessor’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the housing commissioner’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
 (4) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 2.6 Subsidised accommodation clauses
 What are subsidised accommodation eligibility requirements?
