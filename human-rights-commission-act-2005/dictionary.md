@@ -82,7 +82,7 @@ occupancy agreement—see the Residential Tenancies Act 1997, section 71C.
 occupancy dispute means a dispute—
   (a) between the parties to an occupancy agreement; and
   (b) that is about, or relates to, the agreement.
-occupancy dispute complaint—see section 42 (1) (g).
+occupancy dispute complaint—see section 42 (1) (j).
 occupancy dispute referral statement—see section 88B.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 operator, of a retirement village—see the Retirement Villages Act 2012, section 7.
@@ -108,7 +108,7 @@ related Act—each of the following is a related Act:
   (e) Human Rights Act 2004;
   (f) Veterinary Practice Act 2018;
   (g) Victims of Crime Act 1994;
-  (h) Victims of Crime (Financial Assistance) Act 1983.
+  (h) Victims of Crime (Financial Assistance) Act 2016.
 relevant board means—
   (a) for a health practitioner regulated under the Health Practitioner Regulation National Law (ACT)—the national board for the practitioner under that Act; and
   (b) for a veterinary practitioner—the veterinary practitioners board.
