@@ -76,9 +76,12 @@ Note If a form is approved under s 146 for this provision, the form must be used
 ## (b) if a reduced quorum is present for the consideration of any motion at the adjourned meeting, and the motion is voted on—the decision on the motion must be notified under section 3.10; and
 ## (c) if the motion (or any other) is not voted on at the adjourned meeting—the adjourned meeting may resolve to adjourn again to the same day in the next week at the same place and time to consider the resolution (and any others remaining to be considered at the meeting).
 ## 3.10 Notice of reduced quorum decisions and adjournments
-## (1) If a decision (a reduced quorum decision) is made on a motion while a reduced quorum was present for the consideration of the motion, within 7 days after the meeting the owners corporation must give each person mentioned in section 3.6 (1) (Notice of general meetings) written notice of the reduced quorum decision.
+## (1) If a decision (a reduced quorum decision) is made on a motion while a reduced quorum was present for the consideration of the motion, within 14 days after the meeting the owners corporation must give each person mentioned in section 3.6 (1) (Notice of general meetings) written notice of the reduced quorum decision.
 Note If a form is approved under s 146 for a notice, the form must be used.
-## (2) Within 4 days after a general meeting is adjourned under section 3.9, the owners corporation must give each person mentioned in section 3.6 (1) a written notice of the date, place and time to which the meeting is adjourned.
+(2) A reduced quorum decision notice is taken to be given—
+  (a) if sent by prepaid post or email—when it is sent; and
+  (b) if placed in the letterbox for mail for an occupier who is a member of the corporation—when it is placed in the letterbox.
+## (3) Within 4 days after a general meeting is adjourned under section 3.9, the owners corporation must give each person mentioned in section 3.6 (1) a written notice of the date, place and time to which the meeting is adjourned.
 ## 3.11 Reduced quorum decisions—effect
 ## (1) A reduced quorum decision takes effect 28 days after the decision was made, subject to this section.
 ## (2) Subsection (1) does not apply if the owners corporation fails to give notice of the reduced quorum decision under section 3.10 (1).
