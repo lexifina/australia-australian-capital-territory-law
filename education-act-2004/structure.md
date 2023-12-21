@@ -65,8 +65,3 @@
 ## Part 6.1 Notification and review of decisions
 ## Part 6.1A Information sharing
 ## Part 6.2 Other provisions
-# Chapter 10 Transitional—Education Amendment Act 2022
-## Part 10.1 Education Amendment Act 2022—part 2
-## Part 10.1A Education Amendment Act 2022—pt 3
-## Part 10.2 Transitional regulations
-## Part 10.3 Expiry
