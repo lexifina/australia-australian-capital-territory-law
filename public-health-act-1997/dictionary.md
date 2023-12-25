@@ -22,7 +22,6 @@ activity accreditation standards, for an activity accreditation scheme, means th
 activity licence means a licence under section 30.
 activity premises alteration, for a licensable public health risk activity, means a structural alteration of premises where the activity is carried on, including a structural alteration of any fixtures or fittings of the premises.
 activity register—see section 56D.
-affected person, for division 6C.6 (Exemptions)—see section 118ZC.
 analyst means the following appointed under section 15:
   (a) the government analyst;
   (b) an analyst.
@@ -43,8 +42,6 @@ automatic, suspension of registration—see section 56Q (1).
 Check In CBR app, for part 7A (Check-in information—COVID-19)—see section 123A.
 check-in information, for part 7A (Check-in information—COVID-19)—see section 123A.
 chief health officer means the chief health officer under section 7.
-chief health officer direction, for part 6C (Public health measures—COVID-19)—see section 118U (1).
-chief health officer exemption guideline, for part 6C (Public health measures—COVID-19)—see section 118N.
 code of practice means a code of practice determined under section 133.
 community pharmacy, for part 3B (Pharmacies)—see section 66U.
 connected with an offence, for part 5 (Inspection and analysis)—see section 75 (Definitions for pt 5).
@@ -75,8 +72,6 @@ education means pre-primary, primary or secondary education.
 EIS—see the Planning Act 2023, section 94 (c).
 emergency declaration means a declaration under section 119.
 emergency direction means a direction under section 120.
-externally reviewable decision, for division 6C.6 (Exemptions)—see section 118ZC.
-external reviewer, for division 6C.6 (Exemptions)—see section 118ZC.
 health worker, for division 3A.1 (Supply of syringes to approved people)—see section 66A.
 improvement notice means a notice under section 58.
 insanitary condition means a condition, state or activity in relation to any of the following that a reasonable person would consider to be, or to be liable to become, a public health risk, damaging to public health or offensive to community health standards:
@@ -86,13 +81,10 @@ insanitary condition means a condition, state or activity in relation to any of 
   (d) refuse;
   (e) noise or an emission;
   (f) any other matter or thing.
-internally reviewable decision , for division 6C.6 (Exemptions)—see section 118ZC.
 licensable public health risk activity means an activity declared to be a licensable public health risk activity under section 18.
 licensable public health risk procedure, for a licensable public health risk activity, means a procedure declared to be a licensable public health risk procedure for the activity under section 18.
 location, for a registrable public health risk activity, means the precise location on the premises where the activity is being carried on.
 location-specific, for a registrable public health risk activity, means that the activity is indicated under section 18 (4) to be location-specific.
-Ministerial direction, for part 6C (Public health measures—COVID-19)—see section 118R (1).
-Ministerial exemption guideline, for part 6C (Public health measures—COVID-19)—see section 118N.
 notifiable condition means a disease or medical condition—
   (a) determined by the Minister under section 100 (1) (a); or
   (b) declared by the chief health officer under section 101 (1) (a).
@@ -132,16 +124,13 @@ registered person means a person registered under section 56G to carry on a regi
 registrable public health risk activity means a public health risk activity declared to be registrable under section 18 (3).
 registration means the registration, under section 56G, of a person to carry on a registered activity.
 registration certificate means a registration certificate under section 56H.
-relevant decision-maker, for division 6C.6 (Exemptions)—see section 118ZC.
 responsible person, in relation to a person having a notifiable condition, means—
   (a) a doctor; or
   (b) a nurse practitioner; or
   (c) a counsellor who has counselled the person in relation to the condition; or
   (d) a person who is responsible for the care, support or education of the person.
 reviewable decision, for part 9 (Review and appeals)—see section 130.
-segregation or isolation direction, for part 6C (Public health measures—COVID-19)—see section 118U (1) (b).
 sewerage utility, for division 6B.2 (Sewage)—see section 118H (Definitions for div 6B.2).
-standing exemption—see section 118ZD (1).
 statistical or summary information, for part 7A (Check-in information—COVID-19)—see section 123A.
 syringe includes the needle section or the plunger section of a syringe.
 transmissible notifiable condition means a notifiable condition—
@@ -149,8 +138,6 @@ transmissible notifiable condition means a notifiable condition—
   (b) declared by the chief health officer to be a transmissible notifiable condition under section 101 (1) (b).
 use, for part 7A (Check-in information—COVID-19)—see section 123A.
 utility—see the Utilities Act 2000, dictionary.
-vaccination direction, for part 6C (Public health measures—COVID-19)—see section 118Z (1).
-vaccination exemption guideline, for part 6C (Public health measures—COVID-19)—see section 118N.
 vending machine, for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
 vending machine approval, for division 3A.2 (Supply of syringes by vending machine)—see section 66L.
 water distributor, for division 6B.1 (Drinking water)—see section 118B (Definitions for div 6B.1).
