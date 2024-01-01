@@ -51,8 +51,6 @@ government school means a school, preschool or school-related institution establ
 institute means the ACT Teacher Quality Institute established under section 10.
 institute board––see section 14.
 non-government school––see the Education Act 2004, dictionary.
-permit card––see section 40 (2).
-permit certificate––see section 40 (2).
 permit-holder means a person who holds a permit to teach.
 permit to teach means a permit to teach under part 4.
 planning or research purpose—see section 11 (1) (bb).
@@ -62,12 +60,9 @@ pre-service teachers register—see section 70H.
 professional experience—see section 70E.
 provisional registration means provisional registration under part 4.
 registered means registered under this Act.
-registered school address––see section 43.
 registered teacher means a person who holds full registration or provisional registration.
+registered teaching address—see section 43 (1) (b).
 registration means full registration or provisional registration.
-registration card––see section 40 (1).
-registration certificate––see section 40 (1).
-registration number means the registration number under section 40 (1).
 reviewable decision, for part 8 (Notification and review of decisions)––see section 88.
 school means a government school or non-government school.
 school-related institution––see the Education Act 2004, section 20 (Establishing government schools etc).
