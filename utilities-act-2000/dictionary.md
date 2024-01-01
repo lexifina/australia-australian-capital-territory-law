@@ -125,6 +125,7 @@ personal information—see the Privacy Act 1988 (Cwlth), section 6 (Interpretati
 premises includes land and place.
 private land means land other than public land.
 proceeding under this Act, for part 15 (Vicarious liability)—see section 251.
+protected tree—see the Urban Forest Act 2023, section 9.
 public land means national land or unleased Territory land.
 registrar, for part 12 (Complaints to ACAT about utilities)—see section 169.
 regulated utility––see the Utilities (Technical Regulation) Act 2014, section 8.
