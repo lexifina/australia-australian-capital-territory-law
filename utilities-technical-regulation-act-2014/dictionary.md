@@ -77,6 +77,7 @@ owner—
 premises includes land and place.
 private land, for division 5A.4 (Performance of management operations)—see section 41J.
 proposed dam, for part 8 (Dams safety)—see section 57.
+protected tree—see the Urban Forest Act 2023, section 9.
 public land, for division 5A.4 (Performance of management operations)—see section 41J.
 registrable dam, for part 8 (Dams safety)—see section 57.
 regulated utility—see section 8.
