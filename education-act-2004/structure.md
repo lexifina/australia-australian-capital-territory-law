@@ -1,6 +1,7 @@
 # Chapter 1 General
 ## Part 1.1 Preliminary
 ## Part 1.2 General principles and objects
+# Chapter 1A Early childhood education
 # Chapter 2 Compulsory education
 ## Part 2.1 Preliminary—ch 2
 ## Part 2.2 Compulsory education requirements
