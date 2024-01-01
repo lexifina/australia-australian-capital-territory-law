@@ -19,7 +19,7 @@ director-general (see s 163)
 • territory land
 • territory planning authority
 • working day.
-Aboriginal heritage tree, for part 10A (Tree damaging activity etc)—see the Tree Protection Act 2005, dictionary.
+Aboriginal cultural tree, for part 10A (Tree damaging activity etc)—see the Urban Forest Act 2023, dictionary.
 Aboriginal object—see section 9.
 Aboriginal place—see section 9.
 Aboriginal tradition means Aboriginal tradition, observance, custom or belief, including Aboriginal tradition, observance, custom or belief that has evolved or developed since European colonisation of Australia.
@@ -44,7 +44,9 @@ conservator means the conservator of flora and fauna.
 consultation notice—see section 26.
 council means the Australian Capital Territory Heritage Council established under section 16.
 cultural heritage significance—see section 10B.
-decision-maker, for part 17 (Notification and review of decisions)—see section 112.
+decision-maker—
+  (a) for part 10A (Tree damaging activity etc)—see the Urban Forest Act 2023, dictionary; and
+  (b) for part 17 (Notification and review of decisions)—see section 112.
 development, for part 10 (Land development applications)—see section 58.
 enforcement order means an order under section 104.
 engage in conduct means—
@@ -106,5 +108,5 @@ reviewable decision—see section 111.
 scientific committee—see the Nature Conservation Act 2014, dictionary.
 statement of heritage effect—see section 61G.
 tree damaging activity, for part 10A (Tree damaging activity etc)—see section 61A.
-tree management plan, for part 10A (Tree damaging activity etc)—see the Tree Protection Act 2005, dictionary.
+tree management plan, for part 10A (Tree damaging activity etc)—see the Urban Forest Act 2023, dictionary.
 urgent provisional registration application—see section 30.
