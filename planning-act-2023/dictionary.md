@@ -121,7 +121,7 @@ decision-maker—
   (c) for chapter 15 (Notification and review of decisions)—see section 504.
 declared land sublease—see section 365 (1).
 declared protected matter—see section 221 (2).
-declared site—see the Tree Protection Act 2005, dictionary.
+declared site—see the Urban Forest Act 2023, dictionary.
 deferral arrangement, for a lease variation charge—see section 343 (1) (c).
 design advice—see section 101 (2) (b) (i).
 designated area—see the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth), section 4.
@@ -258,6 +258,7 @@ prohibition notice—see section 452 (1).
 proponent, of a development proposal, means the person proposing the proposal.
 proponent-initiated amendment, for part 5.2 (Territory plan—major plan amendments)—see section 57.
 protected matter—see section 221 (1).
+protected tree—see the Urban Forest Act 2023, section 9.
 provision, of a lease, for chapter 10 (Leases and licences)—see section 256.
 public availability notice, for a draft major plan amendment, for part 5.2 (Territory plan—major plan amendments)—see section 68 (a).
 public consultation period, for a draft EIS, means—
@@ -317,7 +318,7 @@ territory priority project—see section 216.
 territory priority project declaration—see section 218 (1).
 town centre, for schedule 6 (Matters exempt from third party ACAT review)—see schedule 6, section 6.1.
 transfer, of a lease, for part 10.12 (Leases—building and development provisions)—see section 367.
-tree management plan—see the Tree Protection Act 2005, dictionary.
+tree management plan—see the Urban Forest Act 2023, dictionary.
 Tuggeranong town centre, for schedule 6 (Matters exempt from third party ACAT review)—see schedule 6, section 6.1.
 undertaken, in relation to an improvement that is a building or other structure, for part 10.9 (Leases—improvements)—see section 356.
 University of Canberra site, for schedule 6 (Matters exempt from third party ACAT review)—see schedule 6, section 6.1.
