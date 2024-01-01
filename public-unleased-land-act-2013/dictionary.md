@@ -19,7 +19,7 @@ closed road—see section 11 (1) (Director-general may temporarily close public 
 closed road approval—see section 12 (1) (Approval to use closed road).
 connected, for part 4 (Enforcement)—see section 88.
 conservator—see the Nature Conservation Act 2014, dictionary.
-damage a protected tree, for division 2.6 (Trees and other plants affecting public unleased land)—see section 30.
+damage a protected tree—see the Urban Forest Act 2023, section 14.
 director-general’s direction—see section 100 (2).
 drainage direction—see section 15 (2) (Directions to construct surface water drains).
 emergency closure order—see section 102 (1) (Emergency closure of permitted place).
@@ -28,6 +28,7 @@ ground for regulatory action, against a permit-holder, for division 3.9 (Public 
 influential person, for a corporation, for part 3 (Public unleased land permits)—see section 42.
 inspection notice, for part 3 (Public unleased land permits)—see section 56 (2) (Suitability of activities—inspection of object).
 land sublease—see the Planning Act 2023, dictionary.
+leased land, for division 2.6 (Trees and other plants affecting public unleased land)—see the Urban Forest Act 2023, dictionary.
 location plan, for part 3 (Public unleased land permits)—see section 45 (Public unleased land permit—application).
 movable signs code of practice—see section 27 (Movable signs code of practice).
 object includes any item of movable personal property.
@@ -50,6 +51,7 @@ plant pruning direction—see section 31 (Direction to prune tree etc overhangin
 plant removal direction—see section 34 (Direction to remove tree etc endangering public on unleased land).
 premises includes land, structure, vehicle or boat.
 proposed new permit holder—see section 71 (1) (Public unleased land permit—application to transfer permit).
+protected tree—see the Urban Forest Act 2023, section 9.
 public consultation notice, for part 3 (Public unleased land permits)—see section 53 (2) (Suitability of activities—public consultation).
 public consultation period, for part 3 (Public unleased land permits)—see section 53 (3) (a) (iv) (Suitability of activities—public consultation).
 public consultation submission notice, for part 3 (Public unleased land permits)—see section 54 (2) (Suitability of activities—public consultation submissions).
@@ -58,7 +60,7 @@ public unleased land—see section 8.
 public unleased land permit—see section 40.
 registered operator––see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 Note A reference to the registered operator includes each registered operator (see Road Transport (Vehicle Registration) Act 1999, s 29).
-registered tree, for division 2.6 (Trees and other plants affecting public unleased land)—see section 30.
+registered tree, for division 2.6 (Trees and other plants affecting public unleased land)—see the Urban Forest Act 2023, section 10.
 regulatory action—see section 80.
 removal direction—see section 98 (3) (Direction to remove objects from public unleased land).
 repair damage direction—see section 21 (2) (Directions to repair damage to public unleased land).
@@ -75,7 +77,7 @@ suitability information—
   (b) about an activity—see section 50.
 suitable activity, for a public unleased land permit—see section 49.
 suitable person, to hold a public unleased land permit—see section 46.
-tree protection approval, for division 2.6 (Trees and other plants affecting public unleased land)—see section 30.
+tree damaging activity approval, for division 2.6 (Trees and other plants affecting public unleased land)—see section 30.
 use, public unleased land, for part 3 (Public unleased land permits)—see section 41.
 vehicle—see the Road Transport (General) Act 1999, dictionary.
 warrant, for part 4 (Enforcement)—see section 88.
