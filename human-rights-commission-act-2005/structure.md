@@ -23,7 +23,9 @@
 ### Division 4.3 Conciliation of complaints
 ### Division 4.4 Consideration of complaints
 ### Division 4.5 Closing complaints and reporting
-## Part 5 Health code, health profession boards and veterinary practitioners board
+## Part 5 Additional matters for health service complaints
 ### Division 5.1 Health code of health rights and responsibilities
 ### Division 5.2 Relationship between commission, health profession boards and veterinary practitioners board
+### Division 5.3 Health care worker code of conduct
+### Division 5.4 Notification and review of decisions
 ## Part 6 Miscellaneous

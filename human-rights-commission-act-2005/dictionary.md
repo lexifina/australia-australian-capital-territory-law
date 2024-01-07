@@ -10,11 +10,15 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • document
   • DPP
   • entity
+  • head of service
   • health practitioner
   • may (see s 146)
   • must (see s 146)
   • occupational discipline order
+  • person (see s 160)
   • public advocate
+  • public sector standards commissioner
+  • public servant
   • under
   • veterinary practitioner.
 Aboriginal and Torres Strait Islander children and young people commissioner means the person appointed as the Aboriginal and Torres Strait Islander Children and Young People Commissioner under the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, section 10.
@@ -30,6 +34,7 @@ applicable standard, in relation to a service provider, means anything mentioned
 child means a person who is under 12 years old.
 children and young people commissioner means the commission member exercising the functions under section 19B.
 children and young people service complaint means a complaint about a service for children and young people that may be made, or is made, under section 40A.
+code of conduct, for division 5.3 (Health care worker code of conduct)—see section 94A.
 commission—
   (a) see section 11; but
   (b) in relation to the consideration of a complaint—means the commissioner considering the complaint for the commission.
@@ -50,13 +55,15 @@ complainant means—
 complaint—
   (a) about a health practitioner—means a complaint or a notification about the health practitioner that may be made, or is made, under this Act or the Health Practitioner Regulation National Law (ACT), part 8 (Health, performance and conduct); and
   (b) about a veterinary practitioner—means a complaint about the veterinary practitioner that may be made, or is made, under this Act or the Veterinary Practice Act 2018, section 43 (Who may complain?); and
-  (c) for division 4.2A (Discrimination complaints to ACAT)—see section 53.
+  (c) for division 4.2A (Discrimination complaints to ACAT)—see section 53; and
+  (d) for division 5.3 (Health care worker code of conduct)—see section 94A.
 conciliation, of a complaint—see section 55 (1).
 conciliation agreement—see section 62 (1).
 conduct means an act, an omission to do an act or a state of affairs.
 consideration, of a complaint, means consideration of the complaint under division 4.4.
 conversion practice complaint means a complaint about a sexuality or gender identity conversion practice that may be made, or is made, under section 43.
 conversion practice referral statement—see section 88C.
+corresponding law, for division 5.3 (Health care worker code of conduct)—see section 94A.
 disability service—see section 8.
 disability service complaint means a complaint about a service for people with a disability that may be made, or is made, under section 40.
 disability and community services commissioner means the commission member exercising the functions under section 21.
@@ -66,17 +73,20 @@ discrimination referral statement—see section 88.
 engage in conduct means—
   (a) do an act; or
   (b) omit to do an act.
+final order, for division 5.3 (Health care worker code of conduct)—see section 94H (1).
 final report—see section 80 (1).
 funding body means an entity that has a function of paying for services provided to others.
+health care worker, for division 5.3 (Health care worker code of conduct)—see section 94B.
 health code—see section 89.
 health service—see section 7.
 health service complaint means a complaint about a health service that may be made, or is made, under section 39.
 health services commissioner means the commission member exercising the functions under section 25.
 human rights commissioner means the commission member exercising the functions under section 27.
 incorporated document means—
-  (a) the standards mentioned in section 39 (1) (b) (v) (When may someone complain about a health service?); or
+  (a) the standards mentioned in section 39 (1) (b) (vi) (When may someone complain about a health service?); or
   (b) the standards mentioned in section 40 (b) (i) or (iv) (When may someone complain about a disability service?); or
   (c) an instrument applied, adopted or incorporated by a statutory instrument under this Act.
+interim order, for division 5.3 (Health care worker code of conduct)—see section 94G (1).
 justice agency—see the Victims of Crime Act 1994, section 8.
 occupancy agreement—see the Residential Tenancies Act 1997, section 71C.
 occupancy dispute means a dispute—
@@ -93,8 +103,13 @@ person complained about—
   (c) for division 4.2D (Conversion practice complaints to ACAT)—see section 53Z.
 prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
+prohibition or condition order, for a health care worker, for division 5.3 (Health care worker code of conduct)—see section 94A.
 provider, of a service—see section 10.
 public advocate means the commission member exercising the functions under section 27B.
+public servant complaint, for division 5.3 (Health care worker code of conduct)—see section 94D (1).
+public service entity, for division 5.3 (Health care worker code of conduct)—see section 94A.
+public statement, for division 5.3 (Health care worker code of conduct)—see section 94A.
+register, for division 5.3 (Health care worker code of conduct)—see section 94A.
 registered means—
   (a) for a health practitioner—registered under the Health Practitioner Regulation National Law (ACT); and
   (b) for a veterinary practitioner—registered under the Veterinary Practice Act 2018.
@@ -112,8 +127,10 @@ related Act—each of the following is a related Act:
 relevant board means—
   (a) for a health practitioner regulated under the Health Practitioner Regulation National Law (ACT)—the national board for the practitioner under that Act; and
   (b) for a veterinary practitioner—the veterinary practitioners board.
+relevant professional body, for a health care worker, for division 5.3 (Health care worker code of conduct)—see section 94A.
 retirement village complaint, for division 4.2B (Certain older people service complaints to ACAT)—see section 53G.
 retirement village referral statement—see section 88A.
+reviewable decision, for division 5.4 (Notification and review of decisions)—see section 94S.
 service for children and young people—see section 8A.
 service for older people—see section 9.
 service for victims of crime—see section 9A.
