@@ -98,6 +98,7 @@ class C licence application, for part 2B (Licences and authorisations)—see sec
 class C licensee, for division 6A.6 (Trading of authorisations and gaming machines)—see section 127B.
 club means a corporation or incorporated association established for the benefit of members to achieve eligible objects.
 club group, for part 11 (Finance)—see section 157B.
+club refuge declaration—see section 166B (1).
 CMS—see centralised monitoring system.
 commission means the gambling and racing commission.
 community, for part 12 (Community contributions)—see section 165.
