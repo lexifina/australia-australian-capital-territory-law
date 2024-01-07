@@ -84,6 +84,7 @@ public money means all money received by the Territory, including the proceeds o
   (f) money received by the Territory—
     (i) in repayment of an investment made by the Territory for a territory authority; or
     (ii) as returns on such an investment.
+public sector entity, for part 9A (Insourcing framework)—see section 126.
 public trading enterprise sector means those organisations whose primary function is to provide goods and services that are mainly market orientated and non-regulatory in nature and who may recover a significant part of their costs from individual consumers.
 relevant Assembly committee, for a provision, means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for the provision.
 relevant territory authority, for part 9 (Governance of territory authorities)—see section 72.
