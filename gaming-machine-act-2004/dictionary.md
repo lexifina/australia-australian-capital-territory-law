@@ -34,6 +34,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • regulation
 • reviewable decision notice
 • State
+• territory land
 • the Territory
 • Treasurer
 • under.
@@ -41,7 +42,6 @@ acquire a gaming machine, means take possession of the gaming machine for the pu
 advisory board, for division 11.3 (Diversification and sustainability support fund)—see section 163E.
 approval, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 approval certificate, for an approved technician—see section 80 (2) (a).
-approval-holder—see section 38A.
 approved supplier—see section 72 (Application and approval of corporation as supplier).
 approved technician means an individual approved under section 75 or section 76 as a technician.
 associated organisation, for a club, means an entity declared to be an associated organisation under section 147 (1).
@@ -165,7 +165,6 @@ incorporated association means an association incorporated under the Association
 increase maximum amendment, for part 2B (Licences and authorisations)—see section 33 (1) (c).
 influential person, for a corporation—see section 8.
 inoperable, in relation to a gaming machine, means to switch off and to secure the gaming machine so it cannot be played.
-in-principle authorisation certificate—see section 38A.
 inspection notice, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127ZE (1).
 interim purpose, for a storage permit, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127N (b).
 jackpot, in relation to a gaming machine, means the combination of letters, numbers, symbols or representations as part of a game on the gaming machine that pays the maximum winnings payable on the gaming machine for any 1 combination.
@@ -197,6 +196,7 @@ member, of a club—
   (b) does not include a temporary member.
 minimum community contribution, for a licensee for a financial year, for part 12 (Community contributions)—see section 164.
 minor licence amendment application, for part 2B (Licences and authorisations)—see section 31 (1).
+Molonglo Valley means the district with the distinguishing name of Molonglo Valley determined under the Districts Act 2002, section 5 (3).
 multi-user permit—see section 135.
 net revenue, of a licensee that is a club, means gross revenue derived by the licensee, less—
   (a) any amount of gaming machine tax payable on that revenue; and
@@ -223,13 +223,14 @@ reporting year, for a licensee, for part 12 (Community contributions)—see sect
 repossession, of a gaming machine, includes taking possession of the gaming machine under a default provision in a financial agreement.
 required documents, for an authorisation certificate application for class C gaming machines—see section 22 (2).
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
+rural lease—see the Planning Act 2023, section 256.
 second compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 secretary, in relation to a club, includes a person concerned in the management of the club.
 short-term approval, for a technician—see section 76 (3).
 signed-in guest, for a club—see section 54A.
 small or medium club, for a financial year, for part 11 (Finance)—see section 157A.
 small or medium club group, for a financial year, for part 11 (Finance)—see section 157A.
-social impact assessment, for an authorisation certificate application, authorisation certificate amendment application, or application for an in-principle certificate of approval—see section 12 (1).
+social impact assessment, for an authorisation certificate application or authorisation certificate amendment application—see section 12 (1).
 statement of objects of a club, means—
   (a) for a company—the memorandum of the company; or
   (b) for an incorporated association—the statement of objects of the association.
@@ -244,6 +245,9 @@ technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
 temporary member, of a club—see section 54A.
 undertaking, for part 3A (Enforceable undertakings)—see section 55A.
+undeveloped area means an area of land that is, on the day the Gaming Machine Amendment Act 2024, section 10 commences—
+  (a) unleased territory land; or
+  (b) described in a rural lease.
 voluntary surrender agreement, for division 2A.2 (Voluntary surrenders)—see section 10C.
 voluntary surrender day, for a licensee, for division 2A.2 (Voluntary surrenders)—see section 10A.
 voluntary surrender notice, for division 2A.2 (Voluntary surrenders)—see section 10B.

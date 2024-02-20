@@ -11,12 +11,6 @@
 ### Division 2B.4 Licences and authorisation certificates—class B gaming machines
 ### Division 2B.5 Licences and authorisation certificates—amendments
 ### Division 2B.6 Transfer and surrender of licences and authorisation certificates
-## Part 2C In-principle authorisation certificates
-### Division 2C.1 Preliminary
-### Division 2C.2 In-principle authorisation certificate—application
-### Division 2C.3 In-principle authorisation certificate—issue
-### Division 2C.4 In-principle authorisation certificate—transfer
-### Division 2C.5 In-principle authorisation certificates—conversion
 ## Part 3 Licences and authorisation certificates—conditions
 ### Division 3.1 Compliance with licence conditions
 ### Division 3.2 General licence and authorisation certificate conditions
