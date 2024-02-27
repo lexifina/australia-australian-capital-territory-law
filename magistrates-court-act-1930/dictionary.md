@@ -50,6 +50,7 @@ administering authority, for an infringement notice offence, for part 3.8 (Infri
 another jurisdiction, for part 3.8 (Infringement notices for certain offences)—see section 117.
 appeal, for part 4.5 (Civil appeals)—see section 272.
 appearance—see section 311 (4).
+approved community work or social development program, for part 3.8 (Infringement notices for certain offences)—see section 117.
 authorised person—
   (a) for division 3.3.3A (Court attendance notices)—see section 41A; and
   (b) for part 3.8 (Infringement notices for certain offences)—see section 134A (3).
@@ -91,6 +92,7 @@ information includes a complaint brought to enforce a criminal penalty or forfei
 infringement notice—
   (a) for part 3.8 (Infringement notices for certain offences)—see section 117; and
   (b) for division 3.8.3 (Additional provisions for vehicle-related offences)—see section 131A.
+infringement notice management plan, for part 3.8 (Infringement notices for certain offences)—see section 131AA.
 infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 infringement notice penalty, for a person for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 judicial exchange arrangement, for division 2.2.3A (Judicial officers exchange)—see section 9C.
@@ -112,9 +114,11 @@ reference appeal, for division 3.10.2A (Reference appeals in criminal matters)�
 registered, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see section 117.
 registrar means the registrar of the Magistrates Court, and includes a deputy registrar of the court.
 related offence, in relation to an indictable offence––see the Supreme Court Act 1933, section 68CA.
+relevant circumstances, of a person, for part 3.8 (Infringement notices for certain offences)—see section 117.
 relevant officer, in relation to a reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reminder notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
 reporting officer, for division 3.4.2 (Warrants for witnesses)—see section 62.
+responsible director-general, for part 3.8 (Infringement notices for certain offences)—see section 117.
 responsible person, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (General) Act 1999, section 10 and section 11.
 review appeal, for division 3.10.3 (Review appeals in criminal matters)—see section 219B (1).
 rules means rules under the Court Procedures Act 2004 applying in relation to the Magistrates Court.
