@@ -36,6 +36,8 @@
 ## Part 3.8 Infringement notices for certain offences
 ### Division 3.8.1 Preliminary
 ### Division 3.8.2 Infringement and reminder notices
+### Division 3.8.2A Infringement notice management plans
+### Division 3.8.2B Waiver of infringement notice penalties
 ### Division 3.8.3 Additional provisions for vehicle-related offences
 ### Division 3.8.4 Disputing liability for infringement notices
 ### Division 3.8.5 Infringement notices—other provisions
