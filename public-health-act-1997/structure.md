@@ -26,7 +26,6 @@
 ### Division 6B.1 Drinking water
 ### Division 6B.2 Sewage
 ## Part 7 Public health emergencies
-## Part 7A Check-in information—COVID-19
 ## Part 8 Public health investigations
 ## Part 9 Review and appeals
 ## Part 10 Miscellaneous
