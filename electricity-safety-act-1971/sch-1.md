@@ -7,3 +7,5 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 4 | 20 (2) | cancel approval of premises as testing laboratory | entity that has approval cancelled
 5 | 22 (2) | impose requirement on approved first seller | entity on which requirement imposed
 6 | 28 | prohibit sale or installation of articles of electrical equipment of stated class | entity that has interests affected by prohibition
+7 | 51 (1) (c) | give written notice directing owner of installation or article to repair it or make it safe for use | owner of installation or article
+8 | 51 (1) (d) | disconnect installation | owner of installation
