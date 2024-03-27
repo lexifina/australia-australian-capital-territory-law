@@ -82,8 +82,9 @@ information sharing entity, for part 12.5 (Sharing information—government agen
 information sharing protocol, for part 12.5 (Sharing information—government agencies)—see section 219.
 information statement means an information statement mentioned in section 15 (1) (b).
 inspector, for chapter 13 (Private psychiatric facilities)—see section 222.
+intensive therapy order, for a child or young person—see the Children and Young People Act 2008, section 532.
 interim care and protection order—see the Children and Young People Act 2008, section 433.
-interim therapeutic protection order—see the Children and Young People Act 2008, section 543.
+interim intensive therapy order, for a child or young person—see the Children and Young People Act 2008, section 543.
 interstate authorised person, for chapter 15 (Interstate application of mental health laws)—see section 243.
 interstate community care facility, for chapter 15 (Interstate application of mental health laws)—see section 243.
 interstate community care service, for chapter 15 (Interstate application of mental health laws)—see section 243.
