@@ -13,7 +13,7 @@
 ## (vi) a researcher for a research project; or
 ## (vii) an authorised assessor; or
 ## (viii) another person administering, or exercising a function under, the Act; or
-## (b) under a therapeutic protection order.
+## (b) under an intensive therapy order.
 Note See the Children and Young People Act 2008, particularly:
 • pt 2.2 (Children and Youth Services Council);
 • pt 3.2 (Family group conferences—facilitators);
@@ -22,8 +22,10 @@ Note See the Children and Young People Act 2008, particularly:
 • s 516 (Kinship carer—specific parental authority);
 • s 518 (Foster carer—specific parental authority);
 • s 520 (Residential care service—general parental authority);
-• pt 16.2 (Therapeutic protection orders);
+• pt 16.2 (Intensive therapy orders);
 • ch 22 (Research involving children and young people).
+(3) In this section:
+intensive therapy order, for a child or young person—see the Children and Young People Act 2008, section 532.
 ## 1.2 Justice facilities for children
 ## (1) An activity or service is a regulated activity if—
 ## (a) any of the usual functions of the activity or service are carried out in relation to a child at a justice facility; or
