@@ -1,2 +1,2 @@
 # Victims of Crime Act 1994
-An Act relating to victims of crime
+An Act relating to victims of crime and other harmful behaviour

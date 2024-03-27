@@ -5,6 +5,7 @@
 ### Division 3A.1 Preliminary
 ### Division 3A.2 Victims rights—respect, privacy and safety
 ### Division 3A.3 Victims rights—access to support, services, legal and financial assistance
+### Division 3A.3A Victims rights—harm statement etc
 ### Division 3A.4 Victims rights—information about administration of justice processes
 ### Division 3A.5 Victims rights—information about investigations, proceedings and decisions
 ### Division 3A.6 Victims rights—participation in proceedings
