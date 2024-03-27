@@ -100,7 +100,7 @@
 ## Part 12.1 Definitions
 ## Part 12.2 Registration of family group conference agreements that transfer or share parental responsibility
 ## Part 12.3 Voluntary agreement to share parental responsibility with director-general
-# Chapter 13 Care and protection and therapeutic protection—emergency situations
+# Chapter 13 Care and protection—emergency situations
 ## Part 13.1 Emergency action
 ## Part 13.2 Emergency action release orders
 # Chapter 14 Care and protection—care and protection orders
@@ -126,6 +126,11 @@
 ## Part 14.11 ACAT mental health provisions
 ## Part 14.12 Specific issues provisions
 ## Part 14.13 Annual review reports—parental responsibility provisions and supervision provisions
+# Chapter 14A Care and protection—therapeutic support panel for children and young people
+## Part 14A.1 Preliminary
+## Part 14A.2 Therapeutic Support Panel for Children and Young People
+## Part 14A.3 Referrals to therapeutic support panel
+## Part 14A.4 Reporting by therapeutic support panel
 # Chapter 15 Care and protection—director-general has aspect of parental responsibility
 ## Part 15.1 General
 ## Part 15.2 Director-general has long-term care responsibility
@@ -140,33 +145,26 @@
 ### Division 15.5.2 Transition plans
 ### Division 15.5.3 Assistance after leaving out-of-home care
 ### Division 15.5.4 Entitlement to personal items and access to protected information
-# Chapter 16 Care and protection—therapeutic protection of children and young people
+# Chapter 16 Care and protection—intensive therapy for children and young people
 ## Part 16.1 Preliminary
-## Part 16.2 Therapeutic protection orders
-### Division 16.2.1 Definitions—Act and pt 16.2
-### Division 16.2.2 Applications for therapeutic protection orders
-### Division 16.2.3 Interim therapeutic protection orders
-### Division 16.2.4 Making a therapeutic protection order
-### Division 16.2.5 Review of therapeutic protection orders
-### Division 16.2.6 Extending a therapeutic protection order
-### Division 16.2.7 Amending or revoking a therapeutic protection order
-## Part 16.3 Children and young people in therapeutic protection
+## Part 16.2 Intensive therapy orders
+### Division 16.2.1 Definitions—Act and ch 16
+### Division 16.2.2 Applications for intensive therapy orders
+### Division 16.2.3 Interim intensive therapy orders
+### Division 16.2.4 Making an intensive therapy order
+### Division 16.2.5 Review of intensive therapy orders
+### Division 16.2.6 Extending an intensive therapy order
+### Division 16.2.7 Amending or revoking an intensive therapy order
+### Division 16.2.8 Mental health referral
+## Part 16.3 Children and young people in intensive therapy
 ### Division 16.3.1 Preliminary
-### Division 16.3.2 Supervision
+### Division 16.3.2 Confinement
 ### Division 16.3.3 Visits by accredited people
-### Division 16.3.4 Use of force
-### Division 16.3.5 Searches
-#### Subdivision 16.3.5.1 Application and definitions—div 16.3.5
-#### Subdivision 16.3.5.2 Searches generally
-#### Subdivision 16.3.5.3 Scanning, frisk and ordinary searches
-#### Subdivision 16.3.5.4 Strip searches
-#### Subdivision 16.3.5.5 Body searches
-### Division 16.3.6 Seizing dangerous things
-## Part 16.4 Therapeutic protection—administration
-### Division 16.4.1 Therapeutic protection places
-### Division 16.4.2 Therapeutic protection plan
-### Division 16.4.3 Non-treating health practitioners
-### Division 16.4.4 Therapeutic protection register
+### Division 16.3.4 Searches and seizure
+## Part 16.4 Intensive therapy—administration
+### Division 16.4.1 Intensive therapy places
+### Division 16.4.2 Therapy plans
+### Division 16.4.3 Intensive therapy register
 # Chapter 17 Care and protection—interstate transfer of orders and proceedings
 ## Part 17.1 Preliminary
 ## Part 17.2 Interstate transfer of ACT child welfare orders

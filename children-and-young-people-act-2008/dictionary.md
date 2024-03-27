@@ -62,7 +62,7 @@ abuse, of a child or young person—see section 342.
 ACAT mental health provision—see section 491.
 accredited person—
   (a) in relation to a young detainee, for chapter 6 (Criminal matters—detention places)—see section 137; and
-  (b) for a child or young person in therapeutic protection, for division 16.3.3 (Visits by accredited people)—see section 576.
+  (b) for a child or young person in intensive therapy, for division 16.3.3 (Visits by accredited people)—see section 578.
 accused detainee, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 administrator, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 admission, of a young detainee to a detention place, for part 6.4 (Admission to detention places)—see section 155.
@@ -86,9 +86,7 @@ behaviour management consequence—
   (a) for part 8.3 (Dealing with minor behaviour breaches)—see section 298; and
   (b) for part 8.4 (Disciplinary action—behaviour breach charge)—see section 318.
 behaviour management framework, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
-body search—
-  (a) of a young detainee, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (b) of a child or young person, for part 16.3 (Children and young people in therapeutic protection)—see section 588.
+body search, of a young detainee, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 cancellation notice, for chapter 20 (Childcare services)—see section 766 (2).
 care and protection appraisal, for the care and protection chapters—see section 366.
 care and protection assessment, for the care and protection chapters—see section 367.
@@ -169,9 +167,7 @@ family group conference standards—see section 887 (2) (a).
 family member, of a child or young person—see section 13.
 former caregiver, of a child or young person, for the care and protection chapters—see section 347.
 foster carer, for a child or young person—see section 518 (2).
-frisk search—
-  (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (b) for part 16.3 (Children and young people in therapeutic protection)—see section 586.
+frisk search, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 general parental authority, for a residential care service—see section 520 (2).
 government agency for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
 government or non-government school—see the Education Act 2004, dictionary.
@@ -192,24 +188,29 @@ information, for chapter 25 (Information secrecy and sharing)—see section 842 
 information holder, for chapter 25 (Information secrecy and sharing)—see section 843.
 information sharing entity, for part 25.3 (Sharing protected information)—see section 859 (1).
 information sharing standards—see section 887 (2) (j).
-initial review, for division 16.2.5 (Review of therapeutic protection orders)—see section 553 (2).
+in intensive therapy—see section 576.
+initial review, for division 16.2.5 (Review of intensive therapy orders)—see section 555 (2).
 in need of care and protection, for the care and protection chapters—see section 345 (1).
 in need of emergency care and protection, for the care and protection chapters—see section 403.
-in need of emergency therapeutic protection, for the care and protection chapters—see section 404.
 inspector of correctional services—see the Inspector of Correctional Services Act 2017, dicftionary.
+intensive therapy history, for a child or young person who has been confined under an intensive therapy order—see section 537.
+intensive therapy order, for a child or young person—see section 532.
+intensive therapy person, for chapter 16 (Care and protection—intensive therapy for children and young people)—see section 530.
+intensive therapy place—see section 535.
+intensive therapy register, for chapter 16 (Care and protection—intensive therapy for children and young people)—see section 596 (1).
+intensive therapy standards—see section 887 (2) (e).
 intention to cancel notice—
   (a) for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352Q; and
   (b) for chapter 20 (Childcare services)—see section 764 (2).
 interim care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 433 (1).
 interim child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 661 (1).
-interim therapeutic protection order—see section 543.
+interim intensive therapy order, for a child or young person—see section 543.
 interstate care and protection report—see section 845 (2), definition of interstate care and protection information, paragraph (a).
 interstate child welfare order—see section 666 (1).
 interstate law, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 641 (1).
 interstate leave permit—see section 242 (1).
 interstate officer, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 642 (1).
 interstate proceedings transfer order—see section 672 (1).
-in therapeutic protection—see section 572.
 investigative entity means an entity with power to require the production of documents or the answering of questions including, for example, the chief police officer, the human rights commission, the public advocate, the Aboriginal and Torres Strait Islander children and young people commissioner, the ombudsman and the integrity commission.
 investigator, for part 8.2 (Responding to behaviour breaches)—see section 291.
 kinship carer, for a child or young person—see section 516 (2).
@@ -221,7 +222,7 @@ long-term parental responsibility provision, for the care and protection chapter
 mail means postal mail.
 mandatory report—see section 356 (1) (e).
 mental disorder—see the Mental Health Act 2015, section 9.
-mental illness—see section 530 (1).
+mental illness—see the Mental Health Act 2015, section 10.
 Minister of a State, for part 5.2 (Interstate transfers)—see section 114.
 minor behaviour breach, for chapter 8 (Criminal matters—discipline at detention places)—see section 288.
 neglect, of a child or young person—see section 343.
@@ -231,35 +232,29 @@ noncompliance notice, for division 10.4.4 (Approved care and protection organisa
 noncompliant, for an approved care and protection organisation, for division 10.4.3 (Approved care and protection organisations—complaints)—see section 352G.
 non-treating doctor—
   (a) for chapter 6 (Criminal matters—detention places)—see section 137; and
-  (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
-non-treating health practitioner—
-  (a) for the criminal matters chapters—see section 98; and
-  (b) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
+  (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
+non-treating health practitioner, for the criminal matters chapters—see section 98.
 non-treating nurse—
   (a) for part 6.7 (Alcohol and drug testing)—see section 235; and
-  (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (c) for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
+  (b) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 occupier, for chapter 23 (Enforcement)—see section 812.
 offence—
   (a) includes an offence against a Commonwealth law; and
   (b) for chapter 23 (Enforcement)—see section 812.
 official visitor, for a visitable place—see the Official Visitor Act 2012, section 6.
-ongoing review, for division 16.2.5 (Review of therapeutic protection orders)—see section 554 (2).
-operating entity, for a detention place, therapeutic protection place or place of care, means—
+ongoing review, for division 16.2.5 (Review of intensive therapy orders)—see section 556 (2).
+operating entity, for a detention place, intensive therapy place or place of care, means—
   (a) if the Territory operates the place—the director-general; or
   (b) in any other case—the entity that operates the place.
 operating procedure, for chapter 6 (Criminal matters—detention places) and chapter 7 (Criminal matters—search and seizure at detention places) means an operating procedure made by the director-general under section 143.
 order, for chapter 24 (Appeals and review), includes a decision.
-ordinary search—
-  (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (b) for part 16.3 (Children and young people in therapeutic protection)—see section 587.
+ordinary search, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 organisation—see section 352A.
 out-of-home carer, for a child or young person—see section 508.
 out-of-home care standards—see section 887 (2) (d).
 owner, of a thing—
   (a) for part 7.9 (Seizing property)—see section 279; and
-  (b) for division 16.3.6 (Seizing dangerous things)—see section 620.
+  (b) for division 16.3.4 (Searches and seizure)—see section 582.
 parent—see section 16 (2).
 parental responsibility—see section 15.
 parental responsibility provision, for the care and protection chapters—see section 474.
@@ -305,6 +300,8 @@ protected information—see section 844 (1).
 protection order—see section 458.
 provision, in a care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 421.
 receiving State, for part 5.2 (Interstate transfers)—see section 114.
+referral, of a child or young person, for chapter 14A (Care and protection—therapeutic support panel for children and young people)—see section 501A.
+referring entity, for chapter 14A (Care and protection—therapeutic support panel for children and young people)—see section 501A.
 registered, for a family group conference agreement, for Chapter 12 (Care and protection—voluntary agreements to transfer or share parental responsibility)—see section 389 (2).
 register of young detainees, for chapter 6 (Criminal matters—detention places)—see section 137.
 relevant Act, for division 14.3.5 (Protection orders)—see section 458.
@@ -328,13 +325,11 @@ reviewable decision, for division 24.1.3 (Notification and review of decisions)�
 review officer—
   (a) for division 8.4.2 (Internal review)—see section 303; and
   (b) for chapter 9 (Criminal matters—conduct of disciplinary reviews)—see section 322.
-risk assessment, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 534.
+risk assessment, for a child or young person, for chapter 16 (Care and protection—intensive therapy for children and young people)—see section 534 (1).
 safe custody warrant—see section 684.
 safe room segregation direction, for division 6.6.3 (Segregation)—see section 204.
 safety and wellbeing information, for division 25.3.2 (Sharing safety and wellbeing information)—see section 858.
-scanning search—
-  (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (b) for part 16.3 (Children and young people in therapeutic protection)—see section 585.
+scanning search, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 school means—
   (a) a government or non-government school under the Education Act 2004; or
   (b) an educational institution conducted by the Canberra Institute of Technology.
@@ -361,9 +356,7 @@ State—
   (a) for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637; and
   (b) for chapter 25 (Information secrecy and sharing) see section 842 (2).
 State Childrens Court, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 637.
-strip search—
-  (a) for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246; and
-  (b) for part 16.3 (Children and young people in therapeutic protection)—see section 589.
+strip search, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 suitability information—see section 65.
 suitability information notice, for part 2.4 (Suitable entities for purposes under Act)—see section 66 (2).
 suitable entities register, for part 2.4 (Suitable entities for purposes under the Act)—see section 72.
@@ -374,14 +367,9 @@ support person, of an accused detainee—
   (b) for chapter 9 (Criminal matters—conduct of disciplinary reviews)—see section 286.
 temporary parental responsibility provision, in the care and protection chapters—see section 373.
 test sample, for part 6.7 (Alcohol and drug testing)—see section 235.
-therapeutic protection history—see section 537.
-therapeutic protection order—see section 532.
-therapeutic protection person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 530 (2).
-therapeutic protection place—see section 535.
-therapeutic protection plan—see section 536.
-therapeutic protection register, for chapter 16 (care and protection—therapeutic protection of children and young people)—see section 633 (1).
-therapeutic protection standards—see section 887 (2) (e).
-therapeutic protection transition plan, for a child or young person, for chapter 16 (Care and protection—therapeutic protection of children and young people)—see section 538.
+therapeutic support panel means the Therapeutic Support Panel for Children and Young People established under section 501B.
+therapy plan, for a child or young person for whom the director-general has applied for an intensive therapy order—see section 536.
+therapy transition plan, for a child or young person, for chapter 16 (Care and protection—intensive therapy for children and young people)—see section 538.
 transfer agreement, for part 5.2 (Interstate transfers)—see section 115.
 transfer arrangement, means a transfer arrangement under section 116 (Transfer arrangements—general) or, if the transfer arrangement has been amended by another transfer arrangement under that section, the transfer arrangement as amended.
 transfer escort, for part 5.2 (Interstate transfers)—see section 114.
