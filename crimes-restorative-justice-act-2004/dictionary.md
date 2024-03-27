@@ -21,13 +21,14 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • the Territory
 • victims of crime commissioner.
 adult offender—see section 12.
+child offender, in relation to an offence—see section 12.
 child victim—see section 11.
 commission, of an offence that is alleged to have been committed—see section 12.
 convenor means a person appointed as a convenor for part 8 (Restorative justice conferences and agreements) under section 40.
 court referral order—see section 27 (2).
-director-general (children and young people)—see section 22 (2).
-director-general (corrections)—see section 22 (2).
-director-general (restorative justice)—see section 22 (2).
+director-general (children and young people)—see section 22 (3).
+director-general (corrections)—see section 22 (3).
+director-general (restorative justice)—see section 22 (3).
 Note If the Act refers simply to the director-general, this is a reference to the director-general of the administrative unit responsible for the administration of this Act (see Legislation Act, s 163).
 eligible offender—see section 19.
 eligible parent—see section 18.
