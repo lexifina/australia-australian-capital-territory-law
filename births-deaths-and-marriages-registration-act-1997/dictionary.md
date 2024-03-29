@@ -21,7 +21,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • under.
 adult—see section 4.
 birth includes a stillbirth.
-birth certificate means a certificate issued under section 27 (2) or section 45 certifying particulars contained in an entry in the register of a person’s birth.
+birth certificate means a certificate issued under section 27 or section 45 certifying particulars contained in an entry in the register of a person’s birth.
 birth parent, of a child, for part 2 (Registration of births)—see section 4B.
 birth registration statement, for division 2.2 (Registration of births)—see section 6.
 change of name application, in relation to a restricted person, for division 3.2 (Change of name—restricted people)—see section 22A.
