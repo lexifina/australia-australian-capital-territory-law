@@ -41,6 +41,7 @@ corresponding jurisdiction means the Commonwealth, a State or New Zealand.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1, def State).
 corresponding law means any law of a corresponding jurisdiction that regulates teachers in the jurisdiction.
 corresponding registering authority means the entity responsible for regulating the teaching profession under a corresponding law.
+early childhood teacher means a person registered as an early childhood teacher under this Act.
 education program means—
   (a) a pre-service teacher education program; or
   (b) a program of learning suitable for the professional learning and development of teachers.
@@ -53,16 +54,21 @@ institute board––see section 14.
 non-government school––see the Education Act 2004, dictionary.
 permit-holder means a person who holds a permit to teach.
 permit to teach means a permit to teach under part 4.
-planning or research purpose—see section 11 (1) (bb).
+planning or research purpose—see section 11 (1) (d).
 pre-service teacher means a person enrolled in an accredited pre-service teacher education program.
-pre-service teacher education program means a program of learning that prepares pre-service teachers for employment as preschool, primary school or secondary school teachers.
+pre-service teacher education program means a program of learning that prepares pre-service teachers for employment as early childhood, primary school or secondary school teachers.
 pre-service teachers register—see section 70H.
 professional experience—see section 70E.
 provisional registration means provisional registration under part 4.
 registered means registered under this Act.
-registered teacher means a person who holds full registration or provisional registration.
+registered teacher means a person who—
+  (a) holds full or provisional registration; or
+  (b) is an early childhood teacher.
 registered teaching address—see section 43 (1) (b).
-registration means full registration or provisional registration.
+registration means—
+  (a) full or provisional registration; or
+  (b) registration as an early childhood teacher.
+registration as an early childhood teacher means registration as an early childhood teacher under part 4.
 reviewable decision, for part 8 (Notification and review of decisions)––see section 88.
 school means a government school or non-government school.
 school-related institution––see the Education Act 2004, section 20 (Establishing government schools etc).
