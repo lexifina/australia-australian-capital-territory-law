@@ -8,4 +8,3 @@
 ## Part 6 Commonwealth-Territory funding agreements
 ## Part 6A Notification and review of decisions
 ## Part 7 Miscellaneous
-## Part 11 Transitional—Residential Tenancies Legislation Amendment Act 2023
