@@ -185,6 +185,7 @@
 ## Part 19.4 Witnesses and evidence
 ## Part 19.5 Orders
 ## Part 19.6 Costs
+## Part 19.7 Proceedings related to discrimination complaints
 # Chapter 19A Children and Young People Death Review Committee
 ## Part 19A.1 Establishment and functions of committee
 ## Part 19A.2 Meetings of committee
