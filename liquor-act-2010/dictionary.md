@@ -50,7 +50,8 @@ class—each of the following is a class of licence:
   (b) on licence;
   (c) off licence;
   (d) club licence;
-  (e) special licence.
+  (e) catering licence;
+  (f) special licence.
 close associate—see section 14.
 club licence—see section 20.
 commercial permit—see section 48.
