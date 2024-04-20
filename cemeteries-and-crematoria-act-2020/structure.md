@@ -28,9 +28,11 @@
 ### Division 6.2 Authorised people
 ### Division 6.3 Search warrants
 ## Part 7 Perpetual care trusts
+## Part 7A Maintenance of closed facilities
 ## Part 8 Cemeteries and crematoria authority
 ## Part 9 Regulator
 ## Part 10 Codes of practice
 ## Part 11 Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 20 Transitional
+## Part 21 Transitional—Cemeteries and Crematoria Amendment Act 2024
