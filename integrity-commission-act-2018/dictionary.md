@@ -59,7 +59,6 @@ annual operational review—see section 280.
 annual operational review report—see section 281.
 Assembly information—see section 85A.
 Assembly precincts—see the Legislative Assembly Precincts Act 2001, dictionary.
-Australian Commission for Law Enforcement Integrity (or ACLEI)—see the Law Enforcement Integrity Commissioner Act 2006 (Cwlth), section 5.
 Australian Federal Police means the Australian Federal Police constituted under the Australian Federal Police Act 1979 (Cwlth), section 6.
 CEO—see section 41.
 commission means the ACT Integrity Commission established under section 19.
@@ -94,7 +93,7 @@ integrity body means the following:
   (d) the auditor-general;
   (e) the ombudsman;
   (f) the information privacy commissioner;
-  (g) the Australian Commission for Law Enforcement Integrity;
+  (g) the National Anti-Corruption Commission;
   (h) an entity, established under a law of the Commonwealth or a State, with functions substantially corresponding to the functions of the commission or the inspector;
 Note State includes the Northern Territory (see Legislation Act, dict, def State).
   (i) an auditor-general of the Commonwealth or a State, established under an Act substantially corresponding to the Auditor-General Act 1996;
@@ -116,6 +115,7 @@ Legislative Assembly entity—see section 17.
 mandatory corruption notification—see section 61.
 member of staff of an MLA means a person employed under the Legislative Assembly (Members’ Staff) Act 1989.
 mental impairment—see the Criminal Code, section 27.
+National Anti-Corruption Commission (or NACC)—see the National Anti-Corruption Commission Act 2022 (Cwlth), section 20.
 non-disclosure notice—
   (a) given by the commission—see section 198; or
   (b) given by the inspector—see section 260.
