@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • administrative unit
 • adult
+• corrections officer
 • director-general (see s 163)
 • director of public prosecutions
 • doctor
@@ -46,7 +47,6 @@ core conditions—
 correctional centre means—
   (a) a correctional centre under the Corrections Management Act 2007; or
   (b) a NSW correctional centre.
-corrections officer—see the Corrections Management Act 2007, section 20.
 court—
   (a) for this Act generally, if a court has sentenced an offender, made an order or given a direction—means the same court, however constituted; and
   (b) for part 4.2B (Drug and alcohol treatment assessments) and part 5.4A (Drug and alcohol treatment orders)—means the Supreme Court; and
