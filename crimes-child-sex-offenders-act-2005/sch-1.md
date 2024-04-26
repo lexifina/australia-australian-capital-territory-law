@@ -15,15 +15,20 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 11 | Crimes Act 1900, section 55A (1) | sexual intercourse with young person under special care | 
 12 | Crimes Act 1900, section 56 (1) | persistent sexual abuse of child or young person under special care | 
 13 | Crimes Act 1900, section 57 | act of indecency in the first degree | (a) the other person (as mentioned in that section) is a child; or (b) the third person (as mentioned in that section) is a child
+14 | Crimes Act 1900, section 62 (1) | incest and similar offences | 
+15 | Crimes Act 1900, section 62 (2) | incest and similar offences | 
+16 | an offence mentioned in items 1 to 15 to which Crimes Act 1900, section 72AA applies | aggravated offence—involving family violence | 
 ## Part 1.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
 1 | Criminal Code Act 1995 (Cwlth), section 270.5 (1) and section 270.8 (1) (a) | cause child to enter into or remain in servitude | the service provided is a sexual service (as defined in the Criminal Code Act 1995 (Cwlth), dictionary)
 2 | Criminal Code Act 1995 (Cwlth), section 270.5 (2) and section 270.8 (1) (a) | conduct a business involving child servitude | the service provided is a sexual service (as defined in the Criminal Code Act 1995 (Cwlth), dictionary)
-3 | Criminal Code Act 1995 (Cwlth), section 272.8 (1) | sexual intercourse with child outside Australia | 
-4 | Criminal Code Act 1995 (Cwlth), section 272.8 (2) | cause child to engage in sexual intercourse in presence of defendant outside Australia | 
-5 | Criminal Code Act 1995 (Cwlth), section 272.10 | offence against Criminal Code Act 1995 (Cwlth), section 272.8 or section 272.9 involving child with mental impairment or under care, supervision or authority of defendant | 
-6 | Criminal Code Act 1995 (Cwlth), section 272.11 | persistent sexual abuse of child outside Australia | 
-7 | Criminal Code Act 1995 (Cwlth), section 272.12 | sexual intercourse with young person outside Australia by defendant in position of trust or authority | 
-8 | Criminal Code Act 1995 (Cwlth), section 272.18 | benefit from offence against Criminal Code Act 1995 (Cwlth), division 272 | 
-9 | Criminal Code Act 1995 (Cwlth), section 272.19 | encourage offence against Criminal Code Act 1995 (Cwlth), division 272 | 
-10 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 1 offence |  | 
+3 | Criminal Code Act 1995 (Cwlth) section 270.6 (1), as in force from time to time before amendment by Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013 (Cwlth) | sexual servitude | the other person (as mentioned in that section) is a child
+4 | Criminal Code Act 1995 (Cwlth) section 270.6 (2), as in force from time to time before amendment by Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013 (Cwlth) | sexual servitude | the other person (as mentioned in that section) is a child
+5 | Criminal Code Act 1995 (Cwlth), section 272.8 (1) | sexual intercourse with child outside Australia | 
+6 | Criminal Code Act 1995 (Cwlth), section 272.8 (2) | cause child to engage in sexual intercourse in presence of defendant outside Australia | 
+7 | Criminal Code Act 1995 (Cwlth), section 272.10 | offence against Criminal Code Act 1995 (Cwlth), section 272.8 or section 272.9 involving child with mental impairment or under care, supervision or authority of defendant | 
+8 | Criminal Code Act 1995 (Cwlth), section 272.11 | persistent sexual abuse of child outside Australia | 
+9 | Criminal Code Act 1995 (Cwlth), section 272.12 | sexual intercourse with young person outside Australia by defendant in position of trust or authority | 
+10 | Criminal Code Act 1995 (Cwlth), section 272.18 | benefit from offence against Criminal Code Act 1995 (Cwlth), division 272 | 
+11 | Criminal Code Act 1995 (Cwlth), section 272.19 | encourage offence against Criminal Code Act 1995 (Cwlth), division 272 | 
+12 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 1 offence |  | 

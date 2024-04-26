@@ -18,6 +18,7 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 14 | Sex Work Act 1992, section 20 (1) | causing child under 12 to provide commercial sexual services | 
 15 | Sex Work Act 1992, section 20 (3) | causing child 12 or older to provide commercial sexual services | 
 16 | Sex Work Act 1992, section 21 (1) | proceeds of commercial sexual services by child | 
+17 | an offence mentioned in items 1to 16 to which Crimes Act 1900, section 72AA applies | aggravated offence—involving family violence | 
 ## Part 2.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
 1 | Criminal Code Act 1995 (Cwlth), section 270.7 and section 270.8 (1) (a) | deceptive recruiting for child labour or services | the service to be provided is a sexual service (as defined in the Criminal Code Act 1995 (Cwlth), dictionary)
@@ -31,24 +32,32 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 9 | Criminal Code Act 1995 (Cwlth), section 272.15 (1) | groom child for sexual activity outside Australia | 
 10 | Criminal Code Act 1995 (Cwlth), section 272.20 (1) | prepare or plan offence against Criminal Code Act 1995 (Cwlth), section 272.8, 272.9, 272.10, 272.11 or 272.18 | 
 11 | Criminal Code Act 1995 (Cwlth), section 272.20 (2) | prepare or plan offence against Criminal Code Act 1995 (Cwlth), section 272.12 or section 272.13 | 
-12 | Criminal Code Act 1995 (Cwlth), section 273.6 (1) | possess, control, produce, distribute or obtain child abuse material outside Australia | 
-13 | Criminal Code Act 1995 (Cwlth), section 273.7 (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 273.6 on 3 or more occasions, and involving 2 or more people | 
-14 | Criminal Code Act 1995 (Cwlth), section 273A.1 | possession of child-like sex dolls etc | 
-15 | Criminal Code Act 1995 (Cwlth), section 471.19 | use postal service for child abuse material | 
-16 | Criminal Code Act 1995 (Cwlth), section 471.20 (1) | possess, control, produce, supply or obtain child abuse material for use through postal service | 
-17 | Criminal Code Act 1995 (Cwlth), section 471.22 (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 471.19 or 471.20 on 3 or more occasions, and involving 2 or more people | 
-18 | Criminal Code Act 1995 (Cwlth), section 471.24 | use postal service to procure sexual activity with person under 16 years old | 
-19 | Criminal Code Act 1995 (Cwlth), section 471.25 | use postal service to groom person under 16 years old for sexual activity | 
-20 | Criminal Code Act 1995 (Cwlth), section 471.26 (1) | use postal service to send indecent material to person under 16 years old | 
-21 | Criminal Code Act 1995 (Cwlth), section 474.22 (1) | use carriage service for child abuse material | 
-22 | Criminal Code Act 1995 (Cwlth), section 474.23 (1) | possess, control, produce, supply or obtain child abuse material for use through carriage service | 
-23 | Criminal Code Act 1995 (Cwlth), section 474.24A (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 474.22 or section 474.23 on 3 or more occasions, and involving 2 or more people | 
-24 | Criminal Code Act 1995 (Cwlth), section 474.25A (1) | use carriage service to engage in sexual activity with child under 16 years old, and person at least 18 years old | 
-25 | Criminal Code Act 1995 (Cwlth), section 474.25A (2) | use carriage service to cause child under 16 years old to engage in sexual activity with person at least 18 years old | 
-26 | Criminal Code Act 1995 (Cwlth), section 474.25B (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 474.25A (1) or section 474.25A (2) involving child with mental impairment or under care, supervision or authority of defendant | 
-27 | Criminal Code Act 1995 (Cwlth), section 474.26 (1), (2) or (3) | using carriage service to procure child under 16 | 
-28 | Criminal Code Act 1995 (Cwlth), section 474.27 (1) (2) or (3) | using carriage service to ‘groom’ child under 16 | 
-29 | Criminal Code Act 1995 (Cwlth), section 474.27A (1) | use carriage service to transmit indecent communication to person under 16 years old | 
-30 | Customs Act 1901 (Cwlth), section 233BAB (5) | import tier 2 goods | the tier 2 goods are items of child abuse material (see s 233BAB (1) (h))
-31 | Customs Act 1901 (Cwlth), section 233BAB (6) | export tier 2 goods | the tier 2 goods are items of child abuse material (see s 233BAB (1) (h))
-32 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 2 offence |  | 
+12 | Criminal Code Act 1995 (Cwlth), section 273.5 (1), as in force from time to time before amendment by Combatting Child Sexual Exploitation Legislation Amendment Act 2019 (Cwlth) | possess, control, produce, distribute or obtain child exploitation material outside Australia | 
+13 | Criminal Code Act 1995 (Cwlth), section 273.6 (1) | possess, control, produce, distribute or obtain child abuse material outside Australia | 
+14 | Criminal Code Act 1995 (Cwlth), section 273.7 (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 273.6 on 3 or more occasions, and involving 2 or more people | 
+15 | Criminal Code Act 1995 (Cwlth), section 273A.1 | possession of child-like sex dolls etc | 
+16 | Criminal Code Act 1995 (Cwlth), section 471.16, as in force from time to time before amendment by Combatting Child Sexual Exploitation Legislation Amendment Act 2019 (Cwlth) | use postal service for child exploitation material | 
+17 | Criminal Code Act 1995 (Cwlth), section 471.17 (1), as in force from time to time before amendment by Combatting Child Sexual Exploitation Legislation Amendment Act 2019 (Cwlth) | possess, control, produce, supply or obtain child exploitation material for use through postal service | 
+18 | Criminal Code Act 1995 (Cwlth), section 471.19 | use postal service for child abuse material | 
+19 | Criminal Code Act 1995 (Cwlth), section 471.20 (1) | possess, control, produce, supply or obtain child abuse material for use through postal service | 
+20 | Criminal Code Act 1995 (Cwlth), section 471.22 (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 471.19 or 471.20 on 3 or more occasions, and involving 2 or more people | 
+21 | Criminal Code Act 1995 (Cwlth), section 471.24 | use postal service to procure sexual activity with person under 16 years old | 
+22 | Criminal Code Act 1995 (Cwlth), section 471.25 | use postal service to groom person under 16 years old for sexual activity | 
+23 | Criminal Code Act 1995 (Cwlth), section 471.26 (1) | use postal service to send indecent material to person under 16 years old | 
+24 | Criminal Code Act 1995 (Cwlth), section 474.19 (1), as in force from time to time before amendment by Combatting Child Sexual Exploitation Legislation Amendment Act 2019 (Cwlth) | use carriage service for child exploitation material | 
+25 | Criminal Code Act 1995 (Cwlth), section 474.20 (1), as in force from time to time before amendment by Combatting Child Sexual Exploitation Legislation Amendment Act 2019 (Cwlth) | possess, control, produce, supply or obtain child exploitation material for use through carriage service | 
+26 | Criminal Code Act 1995 (Cwlth), section 474.22 (1) | use carriage service for child abuse material | 
+27 | Criminal Code Act 1995 (Cwlth), section 474.22A (1) | possess or control child exploitation material obtained or accessed using carriage service | 
+28 | Criminal Code Act 1995 (Cwlth), section 474.23 (1) | possess, control, produce, supply or obtain child abuse material for use through carriage service | 
+29 | Criminal Code Act 1995 (Cwlth), section 474.23A (1) | conduct for the purposes of electronic service used for child abuse material | 
+30 | Criminal Code Act 1995 (Cwlth), section 474.24A (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 474.22, 474.22A or 474.23 on 3 or more occasions, and involving 2 or more people | 
+31 | Criminal Code Act 1995 (Cwlth), section 474.25A (1) | use carriage service to engage in sexual activity with child under 16 years old, and person at least 18 years old | 
+32 | Criminal Code Act 1995 (Cwlth), section 474.25A (2) | use carriage service to cause child under 16 years old to engage in sexual activity with person at least 18 years old | 
+33 | Criminal Code Act 1995 (Cwlth), section 474.25B (1) | commit offence against Criminal Code Act 1995 (Cwlth), section 474.25A (1) or section 474.25A (2) involving child with mental impairment or under care, supervision or authority of defendant | 
+34 | Criminal Code Act 1995 (Cwlth), section 474.26 (1), (2) or (3) | using carriage service to procure child under 16 | 
+35 | Criminal Code Act 1995 (Cwlth), section 474.27 (1) (2) or (3) | using carriage service to ‘groom’ child under 16 | 
+36 | Criminal Code Act 1995 (Cwlth), section 474.27AA (1) | use carriage service to ‘groom’ another person to make it easier to procure child under 16 years old | 
+37 | Criminal Code Act 1995 (Cwlth), section 474.27A (1) | use carriage service to transmit indecent communication to person under 16 years old | 
+38 | Customs Act 1901 (Cwlth), section 233BAB (5) | import tier 2 goods | the tier 2 goods are items of child abuse material (see s 233BAB (1) (h))
+39 | Customs Act 1901 (Cwlth), section 233BAB (6) | export tier 2 goods | the tier 2 goods are items of child abuse material (see s 233BAB (1) (h))
+40 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 2 offence |  | 
