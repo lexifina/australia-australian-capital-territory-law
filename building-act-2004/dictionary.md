@@ -18,6 +18,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • Territory land
 • territory planning authority
 • under.
+access point, for part 5A (Regulated swimming pools)—see section 83 (1).
 actuary, for an approved scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 administrator—see section 127F (1).
 alteration, of a building, includes—
@@ -33,6 +34,7 @@ asbestos—see the Work Health and Safety Regulation 2011, dictionary.
 asbestos assessment report, for premises—see the Dangerous Substances Act 2004, section 47K.
 asbestos removal control plan, in relation to building work, means a plan, complying with the Dangerous Substances Act 2004 and the Work Health and Safety Act 2011, that provides for the management of any asbestos disturbance resulting from the building work.
 authorised insurer means a body corporate authorised to carry on insurance business under the Insurance Act 1973 (Cwlth), section 12.
+authorised person, for part 5A (Regulated swimming pools)—see section 83 (1).
 basic building work—see section 10.
 builder, in relation to residential building work or a residential building, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 builders licence means a licence issued under the Construction Occupations (Licensing) Act 2004 in the construction occupation of builder.
@@ -55,6 +57,7 @@ certifier—
   (b) for division 3.2 (Certifiers and government certifiers)—see section 17.
 class, of building, means that class of building under the building code.
 completion day, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 85.
+compliance certificate, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83K (1).
 complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 cost, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 86.
 custodian, for part 4 (Stop and other notices and demolition orders)—see section 52.
@@ -73,6 +76,7 @@ exempt building—see section 12.
 exemption assessment—see section 14.
 exemption assessment B notice—see section 14B.
 exemption assessment D notice—see the Planning Act 2023, section 152 (2) (b).
+exemption certificate, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83D (6).
 fidelity certificate, for building work, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 fidelity fund scheme, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 friable asbestos—see the Work Health and Safety Regulation 2011, dictionary.
@@ -90,25 +94,30 @@ lease—see the Planning Act 2023, section 257.
 licensed construction practitioner means an entity licensed under the Construction Occupations (Licensing) Act 2004.
 licence number—see the Construction Occupations (Licensing) Act 2004, section 23 (1) (c).
 load includes superimposed load.
+Ministerial exemption, for part 5A (Regulated swimming pools)—see section 83 (1).
 occupation class—see the Construction Occupations (Licensing) Act 2004, dictionary.
-owner, of land, means—
-  (a) if the land is held under a lease from the Commonwealth for a term of years—the lessee; or
-  (b) if the land is subdivided under the Unit Titles Act 2001—
-    (i) if building work has been, is being or is to be carried out on the land for the owners corporation—the owners corporation; or
-    (ii) if building work has been, is being or is to be carried out on the land for the proprietor of a unit in a units plan for the land—the proprietor; or
-    (iii) in any other case—the owners corporation; or
-  (c) if the land is occupied under a tenancy from the Territory or the Commonwealth—the occupier; or
-  (d) if the land is subject to a public unleased land permit under the Public Unleased Land Act 2013—the permit-holder; or
-  (e) if the land is subject to a licence under the Planning Act 2023, part 10.13 (Licences for unleased land)—the licensee; or
-  (f) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
-  (g) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth; or
-  (h) if the land is under a land sublease—the sublessee.
+occupier, of premises, for part 5A (Regulated swimming pools)—see section 83 (1).
+owner—
+  (a) of land, means—
+    (i) if the land is held under a lease from the Commonwealth for a term of years—the lessee; or
+    (ii) if the land is subdivided under the Unit Titles Act 2001—
+      (A) if building work has been, is being or is to be carried out on the land for the owners corporation—the owners corporation; or
+      (B) if building work has been, is being or is to be carried out on the land for the proprietor of a unit in a units plan for the land—the proprietor; or
+      (C) in any other case—the owners corporation; or
+    (iii) if the land is occupied under a tenancy from the Territory or the Commonwealth—the occupier; or
+    (iv) if the land is subject to a public unleased land permit under the Public Unleased Land Act 2013—the permit-holder; or
+    (v) if the land is subject to a licence under the Planning Act 2023, part 10.13 (Licences for unleased land)—the licensee; or
+    (vi) if the Territory carries out or proposes to carry out building work on the land—the Territory; or
+    (vii) if the Commonwealth carries out or proposes to carry out building work on the land—the Commonwealth; or
+    (viii) if the land is under a land sublease—the sublessee; and
+  (b) of premises, for part 5A (Regulated swimming pools)—see section 83 (1).
 owner-builder means an entity licensed under the Construction Occupations (Licensing) Act 2004 in the occupation class of owner-builder.
 parcel, of land, includes land under a land sublease.
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 recognised standard means a document declared to be a recognised standard under section 139A (1).
+regulated swimming pool—see section 83B (1).
 related building activity, for part 6A (Residential building disputes)—see section 127A.
 residential building—
   (a) for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84; and
@@ -122,11 +131,14 @@ residential building work contract—
   (a) for division 6.2A (Standard conditions)—see section 89B; and
   (b) for part 6A (Residential building disputes)—see section 127A.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
+safety barrier, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83 (1).
+safety standards, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83A.
 site work—see section 7A.
 site work notice, for division 3.3 (Building approvals)—see section 25AA.
 special actuary, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 122.
 specialist building work—see section 9.
 stage, of building work, means a stage prescribed under section 43 (1) (a).
+standing exemption, for part 5A (Regulated swimming pools)—see section 83 (1).
 stop notice—see section 53 (2).
 storey—
   (a) means a floor level within a building that—

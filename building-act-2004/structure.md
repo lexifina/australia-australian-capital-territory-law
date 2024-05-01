@@ -11,6 +11,14 @@
 ## Part 4 Stop and other notices and demolition orders
 ## Part 5 Building occupancy
 ### Division 5.1 Certificates of occupancy and other certificates
+## Part 5A Regulated swimming pools
+### Division 5A.1 Preliminary
+### Division 5A.2 Compliance with safety standards
+#### Subdivision 5A.2.1 Exemptions
+#### Subdivision 5A.2.2 Compliance certificates
+### Division 5A.3 Swimming pool safety
+### Division 5A.4 Administration
+### Division 5A.5 Miscellaneous
 ## Part 6 Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates
 ### Division 6.1 Interpretation—pt 6
 ### Division 6.2 Statutory warranties
