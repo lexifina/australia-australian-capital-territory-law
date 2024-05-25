@@ -75,7 +75,7 @@ HVINO—see heavy vehicle infringement notice offence.
 illegal user declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 immediate suspension notice (or suspension notice), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
 immediate suspension offence (or suspension offence), for division 4.2 (Licence suspension, disqualification and related matters)—see section 61A.
-infringement notice—see section 24 (6) (Infringement notices).
+infringement notice—see section 24 (7) (Infringement notices).
 infringement notice declaration, for part 3 (Infringement notices for certain offences)—see section 21A.
 infringement notice management plan, for part 3 (Infringement notices for certain offences)—see section 31A.
 infringement notice offence means an offence prescribed by regulation as an infringement notice offence.
