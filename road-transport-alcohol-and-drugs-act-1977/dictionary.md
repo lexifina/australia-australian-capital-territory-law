@@ -43,12 +43,13 @@ court means—
 disqualifying offence means an offence against—
   (a) section 19 (Prescribed concentration of alcohol in blood or breath); or
   (b) section 20 (Prescribed drug in oral fluid or blood––driver or driver trainer); or
-  (c) section 22 (Refusing to provide breath sample); or
-  (d) section 22A (Refusing to provide oral fluid sample); or
-  (e) section 22C (Refusing to undergo screening test); or
-  (f) section 23 (Refusing blood test etc); or
-  (g) section 24 (Driving under the influence of intoxicating liquor or a drug); or
-  (h) another provision of this Act prescribed by regulation.
+  (c) section 21 (Prescribed concentration of alcohol and prescribed drug in bodily fluid); or
+  (d) section 22 (Refusing to provide breath sample); or
+  (e) section 22A (Refusing to provide oral fluid sample); or
+  (f) section 22C (Refusing to undergo screening test); or
+  (g) section 23 (Refusing blood test etc); or
+  (h) section 24 (Driving under the influence of intoxicating liquor or a drug); or
+  (i) another provision of this Act prescribed by regulation.
 drive a motor vehicle includes—
   (a) start or attempt to start the engine of the vehicle; and
   (b) put or attempt to put the vehicle in motion; and
@@ -81,11 +82,7 @@ personal mobility device—see the Road Transport (Road Rules) Regulation 2017, 
 prescribed concentration—
   (a) for a special driver—see section 4C (a); and
   (b) for any other person—see section 4C (b).
-prescribed drug means—
-  (a) methylamphetamine; or
-  (b) delta-9-tetrahydrocannabinol; or
-  (c) N,α-Dimethyl-3,4-(Methylenedioxy)phenylethylamine (MDMA); or
-  (d) any other drug prescribed by regulation.
+prescribed drug means a drug prescribed by regulation.
 registered operator—see the Road Transport (Vehicle Registration) Act 1999, dictionary.
 repeat offender—see section 4F.
 responsible person, for a vehicle—see the Road Transport (General) Act 1999, section 10.

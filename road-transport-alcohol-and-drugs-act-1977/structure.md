@@ -10,7 +10,7 @@
 ### Division 2.7 Analysis of blood—alcohol and drugs
 ### Division 2.8 Search and seizure
 ## Part 3 Offences
-## Part 4 Penalties
+## Part 4 Automatic driver licence disqualification
 ## Part 7 Evidence
 ### Division 7.1 Evidence—alcohol-related tests
 ### Division 7.2 Evidence—drug-related tests
