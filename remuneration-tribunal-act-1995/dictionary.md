@@ -7,7 +7,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Chief Minister
 • Commonwealth
 • Executive
+• exercise
+• function
 • integrity commissioner
+• Speaker
 • Territory
 • work health and safety commissioner
 • writing.
