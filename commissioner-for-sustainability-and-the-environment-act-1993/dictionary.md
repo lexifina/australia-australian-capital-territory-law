@@ -3,6 +3,7 @@
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • bankrupt or personally insolvent
+• body
 • coroner
 • Executive
 • exercise
@@ -12,11 +13,11 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • magistrate
 • Minister (see s 162)
 • ombudsman
-• penalty unit (see s 133)
 • public servant
 • sitting day
 • territory authority
-• the Territory.
+• the Territory
+• tribunal.
 agency means an administrative unit or a prescribed authority.
 authorised person means a person appointed by the commissioner to be an authorised person for this Act.
 commissioner means the Commissioner for Sustainability and the Environment appointed under section 4.
@@ -36,7 +37,6 @@ Note Function includes authority, duty and power (see Legislation Act, dict, pt 
     (ii) a person who is, or is acting as, a member of the authority or is a deputy of such a member; or
     (iii) a person who is employed in the service of, or is a member of the staff of, the authority, whether or not the person is employed by the authority; or
     (iv) a person authorised by the authority to exercise any functions of the authority for the authority.
-pre-election year means the calendar year before a calendar year in which a general election of members of the Legislative Assembly would be required in accordance with the Electoral Act 1992, section 100 (1).
 prescribed authority means—
   (a) a body corporate, or an unincorporated body, established for a public purpose under a law of the Territory other than—
     (i) an incorporated company or association; or
@@ -51,10 +51,13 @@ principal officer means—
   (b) in relation to a prescribed authority—
     (i) if a regulation declares an office to be the principal office in relation to the authority—the person holding, or performing the duties of, that office; or
     (ii) in any other case—the person who constitutes that authority or a person acting in the person’s office or, if the authority is constituted by 2 or more people, the person who is entitled to preside at any meeting of the authority at which the person is present or a person acting in the person’s office.
+reporting year—see the Annual Reports (Government Agencies) Act 2004, dictionary.
 responsible Minister, in relation to an agency, means—
   (a) subject to paragraphs (b) and (c), the Minister who is responsible for that agency; or
   (b) in relation to a prescribed authority mentioned in the definition of prescribed authority, paragraph (c)—the Minister administering the law of the Territory concerned; or
   (c) in relation to a prescribed authority mentioned in the definition of prescribed authority, paragraph (b) or (d)—the Minister declared by regulation to be the responsible Minister in relation to that authority;
 or another Minister acting for that Minister.
+special report means a report prepared by the commissioner under section 21.
+state of the environment report means a report prepared by the commissioner under section 19.
 the inter-generational equity principle means that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations.
 the precautionary principle means that, if there is a threat of serious or irreversible environmental damage, a lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation.
