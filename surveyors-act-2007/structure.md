@@ -3,7 +3,6 @@
 ### Division 2.1 Registration
 ### Division 2.2 Surveyors register
 ## Part 3 Regulatory action
-### Division 3.1 Continuing registration
 ### Division 3.2 Cancellation of registration for incapacity
 ### Division 3.3 Occupational discipline—surveyors
 ### Division 3.4 Other regulatory action

@@ -17,7 +17,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 advisory committee means the survey practice advisory committee established under section 62.
 advisory committee member—see section 64.
 business address, for a surveyor, means an address of a place from which the surveyor carries on the practice of surveying.
-continuation notice, for division 3.1 (Continuing registration)––see section 19.
 corresponding law means any law of a local jurisdiction that regulates surveyors in the jurisdiction.
 field procedures means field notes, records, measurements or calculations.
 ground for occupational discipline—see section 26.
@@ -27,9 +26,9 @@ practice direction means a direction issued under section 55.
 public road—see the Public Unleased Land Act 2013, section 9.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
 registered means registered under this Act.
-registered business address—see section 12 (Details to be entered in surveyors register).
-registration certificate—see section 8 (Decision on registration application).
-registration number––see section 8.
+registered business address—see section 12(1) (b).
+registration certificate—see section 8 (3).
+registration number––see section 8 (1) (a) (ii).
 reviewable decision, for part 7 (Notification and review of decisions)—see section 75.
 survey means the survey of land for the purpose of—
   (a) defining, redefining or marking the boundaries of land divided or to be divided under the Districts Act 2002; or
