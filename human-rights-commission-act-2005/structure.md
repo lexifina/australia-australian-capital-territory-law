@@ -29,3 +29,4 @@
 ### Division 5.3 Health care worker code of conduct
 ### Division 5.4 Notification and review of decisions
 ## Part 6 Miscellaneous
+## Part 8 Transitional—Human Rights (Complaints) Legislation Amendment Act 2023

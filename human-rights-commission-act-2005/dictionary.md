@@ -24,7 +24,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 Aboriginal and Torres Strait Islander children and young people commissioner means the person appointed as the Aboriginal and Torres Strait Islander Children and Young People Commissioner under the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, section 10.
 Aboriginal or Torres Strait Islander child or young person means a child or young person who is an Aboriginal or Torres Strait Islander person.
 Aboriginal or Torres Strait Islander person—see the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, dictionary.
-act includes omission.
+act—
+  (a) includes omission; and
+  (b) for a human rights complaint—includes a proposal to act.
 aggrieved person, in relation to a complaint—see section 43 (1) (a).
 applicable standard, in relation to a service provider, means anything mentioned in any of the following provisions that applies to the provider:
   (a) section 39 (1) (b) (When may someone complain about a health service?);
@@ -82,6 +84,7 @@ health service—see section 7.
 health service complaint means a complaint about a health service that may be made, or is made, under section 39.
 health services commissioner means the commission member exercising the functions under section 25.
 human rights commissioner means the commission member exercising the functions under section 27.
+human rights complaint—see section 41D (1).
 incorporated document means—
   (a) the standards mentioned in section 39 (1) (b) (vi) (When may someone complain about a health service?); or
   (b) the standards mentioned in section 40 (b) (i) or (iv) (When may someone complain about a disability service?); or
@@ -92,7 +95,7 @@ occupancy agreement—see the Residential Tenancies Act 1997, section 71C.
 occupancy dispute means a dispute—
   (a) between the parties to an occupancy agreement; and
   (b) that is about, or relates to, the agreement.
-occupancy dispute complaint—see section 42 (1) (j).
+occupancy dispute complaint—see section 42 (1) (k).
 occupancy dispute referral statement—see section 88B.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 operator, of a retirement village—see the Retirement Villages Act 2012, section 7.
@@ -100,12 +103,23 @@ party, to the conciliation of a complaint—the complainant and the person compl
 person complained about—
   (a) for division 4.2B (Certain older people service complaints to ACAT)—see section 53F; and
   (b) for division 4.2C (Certain occupancy dispute complaints to ACAT)—see section 53P; and
-  (c) for division 4.2D (Conversion practice complaints to ACAT)—see section 53Z.
+  (c) for division 4.2D (Conversion practice complaints to ACAT)—see section 53Z; and
+  (d) in relation to a human rights complaint—
+    (i) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (a) to (c)—the director-general of—
+      (A) the administrative unit; or
+      (B) the administrative unit responsible for the provision of the Act that establishes the territory authority or territory instrumentality; or
+    (ii) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (d), (e) or (g)—the public authority; or
+    (iii) if the public authority complained about is a public employee who is a statutory office-holder—the statutory office-holder; or
+    (iv) if the public authority complained about is any other public employee—the director-general of the administrative unit in which the public employee is employed; or
+    (v) if the public authority complained about is an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D (Other entities may choose to be subject to obligations of public authorities)—the entity.
 prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
 prohibition or condition order, for a health care worker, for division 5.3 (Health care worker code of conduct)—see section 94A.
 provider, of a service—see section 10.
 public advocate means the commission member exercising the functions under section 27B.
+public authority—
+  (a) see the Human Rights Act 2004, section 40; and
+  (b) includes an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D (Other entities may choose to be subject to obligations of public authorities).
 public servant complaint, for division 5.3 (Health care worker code of conduct)—see section 94D (1).
 public service entity, for division 5.3 (Health care worker code of conduct)—see section 94A.
 public statement, for division 5.3 (Health care worker code of conduct)—see section 94A.
