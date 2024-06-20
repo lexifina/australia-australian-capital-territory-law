@@ -72,7 +72,7 @@ intimate partner—see the Family Violence Act 2016, section 10.
 mental disorder—see the Mental Health Act 2015, dictionary.
 mental illness—see the Mental Health Act 2015, dictionary.
 offence, for part 7 (Victims financial assistance levy)—see section 80.
-offence against the person means an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3, item 1, 5, or 6.
+offence against the person means an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3, item 1, 6, or 7.
 offender, for part 6 (Recovery from offender)—see section 69.
 offensive weapon—see the Crimes Act 1900, dictionary.
 official, for part 8 (Administration)—see section 85.
@@ -119,8 +119,8 @@ reviewable decision, for part 9 (Notification and review of decisions)—see sec
 RT (S and TM) Act, for schedule 1 (Offences—act of violence)—see schedule 1, section 1.1.
 schedule 1 offence means—
   (a) an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3 of an Act mentioned in the item, column 2; and
-  (b) if the victim of an offence is a relevant person in relation to the person who carried out the offence—an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.2 (Domestic violence offences), column 3 of an Act mentioned in the item, column 2.
-sexual offence means an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3, item 2, 3 or 4.
+  (b) if the victim of an offence is a relevant person in relation to the person who carried out the offence—an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.2 (Family violence offences), column 3 of an Act mentioned in the item, column 2.
+sexual offence means an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3, item 2, 4 or 5.
 very serious injury means an injury that results in at least 1 of the following:
   (a) a physical bodily impairment that is very serious;
   (b) a disfigurement that is very serious;

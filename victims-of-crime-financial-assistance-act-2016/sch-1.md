@@ -14,10 +14,11 @@ RT (S and TM) Act means the Road Transport (Safety and Traffic Management) Act 1
 column 1 item | column 2 legislation | column 3 provision | column 4 description
 1 | Crimes Act | an offence against pt 2 | offences against the person
 2 | Crimes Act | an offence against pt 3 | sexual offences
-3 | Crimes Act | an offence against pt 4 | female genital mutilation
-4 | Crimes Act | an offence against pt 5 | sexual servitude
-5 | Criminal Code | 309 | robbery
-6 | Criminal Code | 310 | aggravated robbery
+3 | Crimes Act | an offence against pt 3A | intimate image abuse
+4 | Crimes Act | an offence against pt 4 | female genital mutilation
+5 | Crimes Act | an offence against pt 5 | sexual servitude
+6 | Criminal Code | 309 | robbery
+7 | Criminal Code | 310 | aggravated robbery
 ## Division 1.2.2 Family violence offences
 column 1 item | column 2 legislation | column 3 provision | column 4 description
 1 | Crimes Act | 116 | destroying or damaging property
