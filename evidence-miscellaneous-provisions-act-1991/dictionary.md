@@ -30,6 +30,7 @@ audiovisual recording, for division 4.3.3 (Special requirements—audiovisual re
 child, in a proceeding, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
 civil proceeding, for division 4.4.3 (Sexual and family violence offence proceedings—protection of counselling communications)—see section 79.
 complainant, in relation to a proceeding for an offence, for part 4.2 (What special requirements apply to particular proceedings)—see section 42.
+counselled person, for division 4.4.3 (Sexual and family violence offence proceedings—protection of counselling communications)—see section 79A (1).
 counselling, for division 4.4.3 (Sexual and family violence offence proceedings—protection of counselling communications)––see section 79.
 counsellor, for division 4.4.3 (Sexual and family violence offence proceedings—protection of counselling communications)––see section 79.
 court, for part 2.2 (Evidence of children—audiovisual links)—see section 5.
