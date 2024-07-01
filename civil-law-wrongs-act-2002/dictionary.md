@@ -15,14 +15,21 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • domestic partner (see s 169)
 • entity
 • foreign country
+• human rights commission
 • indictable offence (see s 190)
+• integrity commission
+• integrity commissioner
 • lawyer
 • Minister (see s 162)
+• official visitor
 • proceeding
 • property
 • public trustee and guardian
-• (the) Territory.
+• sentence administration board
+• (the) Territory
+• work health and safety commissioner.
 abuse settlement agreement, for part 8A.3 (Institutional child abuse—setting aside abuse settlement agreements)—see section 114J.
+access prevention step, in relation to the publication of digital matter, for chapter 9 (Defamation)—see section 116.
 accident means an incident out of which personal injury arises, and includes a motor accident.
 accommodation provider—see section 146.
 accommodation unit, for part 11.1 (Traveller accommodation providers liability)—see section 144.
@@ -42,6 +49,7 @@ Australian court, for chapter 9 (Defamation)—see section 116.
 Australian jurisdiction, for chapter 9 (Defamation)—see section 116.
 Australian tribunal, for chapter 9 (Defamation)—see section 116.
 business assets, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+caching service, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 child—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
@@ -59,6 +67,7 @@ community work, for part 2.2 (Volunteers)—see section 7.
 complying notice of claim, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
 concerns notice, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124A.
 concurrent wrongdoer, for chapter 7A (Proportionate liability)—see section 107D.
+conduit service, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 consequential mental harm, for part 3.2 (Mental harm)—see section 32.
 consumer claim, for chapter 7A (Proportionate liability)—see section 107C.
 contribution notice, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 57.
@@ -86,6 +95,8 @@ damage—
 damages, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 default value, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 defendant, for chapter 7A (Proportionate liability)—see section 107A.
+digital intermediary, in relation to the publication of digital matter, for chapter 9 (Defamation)—see section 116.
+digital matter, for chapter 9 (Defamation)—see section 116.
 document, for chapter 9 (Defamation)—see section 116.
 donor, for part 2.2A (Food donors)—see section 11A.
 duty of care, for chapter 8 (Liability of public and other authorities)—see section 109.
@@ -148,6 +159,7 @@ occupational association, for schedule 4 (Professional standards)—see schedule
 occupational group, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 offer to make amends, for chapter 9 (Defamation)—see section 116.
+online service, for chapter 9 (Defamation)—see section 116.
 parent—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
@@ -160,6 +172,7 @@ personal injury means bodily injury, and includes—
   (b) death.
 personal injury damages, for part 14.1 (Maximum costs for certain personal injury damages claims)—see section 180.
 personal representative, of a dead person, means the person to whom any grant of probate of the will or administration of the estate of the dead person has been made in the ACT, a State or another Territory, and includes an executor by representation or the public trustee and guardian.
+poster, in relation to the publication of digital matter, for chapter 9 (Defamation)—see section 116.
 premises includes any land or building, any fixed or moveable structure erected on any land, and any vehicle, vessel or aircraft.
 property, of a guest—see section 149.
 provable facts, in relation to a lawyer, for part 14.2 (Costs in damages claims if no reasonable prospects of success)—see section 186.
@@ -174,6 +187,10 @@ respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—se
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1).
 scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+search engine, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
+search engine provider, for a search engine, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
+search result, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
+storage service, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 substantially true, for chapter 9 (Defamation)—see section 116.
 this jurisdiction—
   (a) for chapter 9 (Defamation)—see section 116; and

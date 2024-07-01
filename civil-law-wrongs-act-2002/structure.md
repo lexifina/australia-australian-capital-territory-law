@@ -37,6 +37,7 @@
 ## Part 9.2 General principles
 ### Division 9.2.1 Defamation and the general law
 ### Division 9.2.2 Causes of action for defamation
+### Division 9.2.2A Exemptions from liability for digital intermediaries
 ### Division 9.2.3 Choice of law
 ## Part 9.3 Resolution of civil disputes without litigation
 ### Division 9.3.1 Concerns notices and offers to make amends
@@ -72,3 +73,5 @@
 ## Part 15.4 Abolition of certain common law actions, rules and remedies
 ## Part 15.5 Other provisions
 # Chapter 18 Transitional—Civil Law (Wrongs) Amendment Act 2021
+# Chapter 19 Transitional—Civil Law (Wrongs) Amendment Act 2024—absolute privilege
+# Chapter 20 Transitional—Civil Law (Wrongs) Amendment Act 2024
