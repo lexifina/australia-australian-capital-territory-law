@@ -5,6 +5,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • ACAT
 • ACT
 • Australia
+• authorised deposit-taking institution
 • bankrupt or personally insolvent
 • child
 • civil partnership
@@ -15,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • document
 • external territory
 • in relation to
+• instrument (see s 14)
 • land.
 acquires, an interest in a landholder, for part 3.2 (Acquisition of interests in certain landholders)—see section 84.
 acquisition statement, for chapter 3 (Certain transactions treated as transfers)—see section 87 (1).
@@ -31,6 +33,7 @@ Australian Securities Exchange means ASX Limited ACN 008 624 691.
 bankrupt means bankrupt or personally insolvent.
 business, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
 cancelled, for chapter 2 (Transactions concerning dutiable property)—see section 6.
+chapter 3 property, in relation to a chapter 3 transaction, for chapter 3 (Certain transactions treated as transfers)—see section 76A.
 chapter 3 transaction—see section 76.
 charge includes impose.
 commercial lease, for chapter 2 (Transactions concerning dutiable property)––see section 6.
@@ -77,7 +80,8 @@ eligible property, for division 2.6A.1 (First home owner grant scheme and home b
 eligible rollover fund means an entity that is an eligible rollover fund in accordance with the Superannuation Industry (Supervision) Act 1993 (Cwlth), section 242, and includes an entity the trustee of which is satisfied will be an eligible rollover fund within 12 months after the date when a liability to duty arises (or would otherwise arise).
 eligible transaction, for a duty deferral scheme, for division 2.6A.2 (Other duty deferral schemes)—see section 75AG (2) (b).
 entity, for part 3.2 (Acquisition of interests in certain landholders)—see section 78A.
-exchanging members, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
+exchanging members, for division 3.7.2 (Exemptions—‘top hatting’ arrangements)—see section 115I.
+financial institution, for division 2.5.2A (Alternative finance transactions)—see section 64.
 financial market—see the Corporations Act, section 9.
 first executed, for an instrument (including a contract)—see section 243.
 FS (TR) Act, for part 3.6 (Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth))—see section 115A.
@@ -95,8 +99,10 @@ international transport, in relation to freight, means the transport, in connect
     (i) another foreign country; or
     (ii) Australia; or
     (iii) an external Territory.
-interposed trust, for division 3.7.2 (Exempt transactions—‘top hatting’ arrangements)—see section 115I.
-land includes a stratum.
+interposed trust, for division 3.7.2 (Exemptions—‘top hatting’ arrangements)—see section 115I.
+land—
+  (a) for this Act generally—includes a stratum; and
+  (b) for part 3.2 (Acquisition of interests in certain landholders)—see section 80A.
 landholder—see section 79.
 landholding, for part 3.2 (Acquisition of interests in certain landholders)—see section 80.
 land used for primary production means land used primarily for—

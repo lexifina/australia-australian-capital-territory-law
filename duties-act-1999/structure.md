@@ -7,6 +7,7 @@
 ## Part 2.5 Exemptions
 ### Division 2.5.1 Trusts
 ### Division 2.5.2 Superannuation
+### Division 2.5.2A Alternative finance transactions
 ### Division 2.5.3 Miscellaneous
 ## Part 2.6A Deferred payment of duty
 ### Division 2.6A.1 First home owner grant scheme and home buyer concession scheme
@@ -21,8 +22,8 @@
 ## Part 3.4 Acquisition of land use entitlements by allotment of shares or issue of units
 ## Part 3.6 Voluntary transfers under Financial Sector (Transfer and Restructure) Act 1999 (Cwlth)
 ## Part 3.7 Exemptions—ch 3 transactions
-### Division 3.7.1 Exempt transactions—general
-### Division 3.7.2 Exempt transactions—‘top hatting’ arrangements
+### Division 3.7.1 Exemptions—ch 3 transactions generally
+### Division 3.7.2 Exemptions—‘top hatting’ arrangements
 # Chapter 7 Mortgages
 # Chapter 9 Motor vehicle registration
 ## Part 9.1 Imposition and rates of duty
