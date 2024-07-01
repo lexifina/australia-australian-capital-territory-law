@@ -1,9 +1,9 @@
 # Schedule 1 Levies
 (see s 69A)
 ## Part 1.1 Imposition of levies
-## 1.1 Fire and emergency services levy
-(1) Fire and emergency services levy of the fixed charge is imposed for a parcel of rateable land that is residential or rural land.
-(2) Fire and emergency services levy is imposed for a parcel of rateable land that is commercial land worked out as follows:
+## 1.1 Police, fire and emergency services levy
+(1) Police, fire and emergency services levy of the fixed charge is imposed for a parcel of rateable land that is residential or rural land.
+(2) Police, fire and emergency services levy is imposed for a parcel of rateable land that is commercial land worked out as follows:
 (3) In this section:
 AUV means—
   (a) the average unimproved value of the parcel; or
@@ -44,14 +44,14 @@ safer families levy means the safer families levy determined under the Taxation 
   (b) any other necessary changes were made; and
   (c) any changes prescribed by regulation were made.
 (3) Sections 15, 16 and 17, as applied by this section, are subject to part 5 (Unit subdivisions).
-## 2.1A Application of further provisions—fire and emergency services levy
+## 2.1A Application of further provisions—police, fire and emergency services levy
 (1) This section applies to the following provisions (the applied provisions):
   (a) section 18 (How may rates be paid?);
   (b) section 19 (Payment of rates by instalments);
   (c) part 7 (Deferral and rebates) (other than section 63 (Rebate of rates—eligible person since 30 June 1997) and section 64 (Rebate of rates—capped));
   (d) any other provision prescribed by regulation.
 (2) The applied provisions have effect as if—
-  (a) a reference to rates included a reference to the fire and emergency services levy imposed under section 1.1; and
+  (a) a reference to rates included a reference to the police, fire and emergency services levy imposed under section 1.1; and
   (b) any other necessary changes were made; and
   (c) any changes prescribed by regulation were made.
 (3) Sections 18 and 19, as applied by this section, are subject to part 5 (Unit subdivisions).
@@ -69,10 +69,10 @@ safer families levy means the safer families levy determined under the Taxation 
 ## 2.2 References in other instruments
 A reference to rates in an instrument, other than a statutory instrument under this Act or the Taxation Administration Act, includes a reference to a levy imposed under this schedule.
 ## Part 1.3 Other provisions about levies
-## 3.1 Certain proposed subdivisions—imposition of fire and emergency services levy
+## 3.1 Certain proposed subdivisions—imposition of police, fire and emergency services levy
 (1) This section applies to a parcel of land that is a qualifying parcel of land for division 5.2 (Certain proposed unit subdivisions).
-(2) In its application to the imposition of fire and emergency services levy to the parcel of land, section 1.1 has effect as if subsections (3) and (4) of this section were substituted for section 1.1 (1), (2) and (3).
-(3) Fire and emergency services levy is imposed for a parcel of land to which schedule 1, section 3.1 applies, worked out as follows:
+(2) In its application to the imposition of police, fire and emergency services levy to the parcel of land, section 1.1 has effect as if subsections (3) and (4) of this section were substituted for section 1.1 (1), (2) and (3).
+(3) Police, fire and emergency services levy is imposed for a parcel of land to which schedule 1, section 3.1 applies, worked out as follows:
 (4) In this section:
 AUV means the average unimproved value of the parcel.
 CP means the percentage, as determined under section 32, of the intended development that is to be used for commercial purposes.
@@ -95,12 +95,12 @@ Note Different percentage rates may be determined for different collection areas
 (2) The person is entitled, on application to the commissioner under section 61, to a rebate of the person’s liability for levy for a parcel of land for a year if—
   (a) this section applies to the person in the year; and
   (b) the parcel is the person’s principal place of residence for all or part of the year.
-(3) The amount of the FES rebate that a person is entitled to is worked out as follows:
+(3) The amount of the PFES rebate that a person is entitled to is worked out as follows:
 (4) Division 7.3 (Rebate of rates) has effect as if it included this section.
 Example
 the definition of eligible person for pt 7 will apply to this section
 (5) In this section:
 D means the number of days in the year when the parcel is the person’s principal place of residence.
-FES rebate means the fire and emergency services rebate determined under the Taxation Administration Act, section 139.
+PFES rebate means the police, fire and emergency services rebate determined under the Taxation Administration Act, section 139.
 levy, for a parcel for a year, means levy imposed under this schedule for the parcel for the year (other than the safer families levy imposed under section 1.3), and includes any levy deferred under a deferral determination.
 LL means the amount of the person’s liability for levy for the parcel for the year.
