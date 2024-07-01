@@ -1,5 +1,5 @@
 # Schedule 2 Reviewable decisions
-(see pt 4A)
+(see pt 5)
 column 1 item | column 2 section | column 3 decision | column 4 entity
  | 22J | decision not to grant secure local jobs code certificate | applicant
  | 22K (1) (b) and (2) | decision to impose, amend or remove condition on secure local jobs code certificate | entity that holds certificate

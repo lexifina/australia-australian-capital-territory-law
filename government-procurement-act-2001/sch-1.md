@@ -1,5 +1,5 @@
 # Schedule 1 Model confidentiality clause
-(see s 36)
+(see s 19)
 ## M Confidentiality obligations of Territory
 (1) In this contract, confidential information means [list of the kinds of information to be kept confidential].
 (2) In giving effect to the principles of open and accountable government, the Territory may disclose documents and information unless it has otherwise agreed, or is otherwise required under law, to keep the information confidential.
@@ -12,5 +12,5 @@
   (f) is disclosed by the responsible Minister in reporting to the Legislative Assembly or its committees; or
   (g) is disclosed to the ombudsman or for a purpose in relation to the protection of the public revenue; or
   (h) is disclosed to the integrity commissioner.
-(4) The Government Procurement Act 2001, part 3 (Notifiable contracts) applies to this contract.
-(5) The following grounds mentioned in that Act, section 35 (1) apply to this clause: [list relevant grounds].
+(4) The Government Procurement Act 2001, part 2 (Notifiable contracts and notifiable invoices) applies to this contract.
+(5) The following grounds mentioned in that Act, section 18 (1) and (2) apply to this clause: [list relevant grounds].
