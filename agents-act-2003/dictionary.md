@@ -33,16 +33,14 @@ agent—
   (a) for this Act generally, means a person who carries on business as any of the following:
     (i) a business agent;
     (ii) a land auctioneer;
-    (iii) an employment agent;
-    (iv) a real estate agent;
-    (v) a stock and station agent; and
+    (iii) a real estate agent;
+    (iv) a stock and station agent; and
   (b) for division 3.4 (Occupational discipline—agents)—see section 40.
 agents licence means any of the following:
   (a) a business agents licence;
   (b) a land auctioneers licence;
-  (c) an employment agents licence;
-  (d) a real estate agents licence;
-  (e) a stock and station agents licence.
+  (c) a real estate agents licence;
+  (d) a stock and station agents licence.
 assistant property agent means a person who, as an employee, provides—
   (a) a business agent service; or
   (b) a real estate agent service; or
@@ -54,7 +52,7 @@ business agent service—see section 10 (2).
 buyer includes a prospective buyer.
 carries on business as—
   (a) a business agent—see section 10; or
-  (b) an employment agent—see section 12; or
+  (b) an employment agent, for part 5A (Employment agents)—see section 98A; or
   (c) a land auctioneer—see section 11; or
   (d) a real estate agent—see section 8; or
   (e) a stock and station agent—see section 9.
@@ -85,7 +83,6 @@ employee—
     (i) any person employed, regardless of how remunerated; and
     (ii) a person engaged on a contract of service; and
   (b) for a corporation, includes a director or other member of its governing body.
-employment agent service—see section 12 (2).
 estimate, for division 5.6 (Land—further provisions)—see section 80.
 executive officer—see the Corporations Act, section 9.
 failure to account, in relation to a licensed agent, means a failure by the agent to account for money or other property entrusted to the agent in the course of carrying on the agent’s business as a licensed agent.
@@ -107,7 +104,6 @@ licensed agent means an agent who holds a licence, and includes a land auctionee
 licensed business agent means—
   (a) a class 1 licensed business agent; or
   (b) a class 2 licensed business agent.
-licensed employment agent means a person who holds a licence as an employment agent.
 licensed land auctioneer means a person who holds a licence as a land auctioneer.
 licensed property agent—
   (a) for this Act generally—see section 7A; and

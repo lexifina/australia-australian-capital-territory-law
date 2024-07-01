@@ -17,8 +17,8 @@
 ### Division 5.4 Conflicts of interest—real estate and stock and station agents
 ### Division 5.5 Advertisements and other statements
 ### Division 5.6 Land—further provisions
-### Division 5.8 Employment agents—further provisions
 ### Division 5.9 Other offences—agents and assistant property agents
+## Part 5A Employment agents
 ## Part 6 Agency agreements
 ## Part 7 Trust accounts—licensed property agents
 ### Division 7.1 Definitions for pt 7
