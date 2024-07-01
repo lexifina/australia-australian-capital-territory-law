@@ -166,7 +166,7 @@ carer, of a consumer, means a person who gives care, support or assistance to th
     (iii) as part of a course of education or training; or
 Examples—people not included as carers
 1 Yiannis is the principal of Haig Park Primary School. Although Yiannis owes a duty of care to the students at Haig Park Primary School, Yiannis is not a carer for the purposes of principle 10.
-2 The ACAT makes an order under the Guardianship and Management of Property Act 1991, s 7 (2) appointing Tash as a guardian for Olympia. Even though Tash has a guardianship order in relation to Olympia, Tash is not a carer for the purposes of principle 10. Tash would need to give Olympia care, support or assistance to be a carer.
+2 The ACAT makes an order under the Guardianship and Management of Property Act 1991, s 7 (3) appointing Tash as a guardian for Olympia. Even though Tash has a guardianship order in relation to Olympia, Tash is not a carer for the purposes of principle 10. Tash would need to give Olympia care, support or assistance to be a carer.
   (c) a person just because the person—
     (i) is the domestic partner, parent, child or other relative, or guardian of the consumer; or
     (ii) lives with the consumer.
