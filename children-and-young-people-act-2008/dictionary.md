@@ -58,7 +58,6 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 Aboriginal and Torres Strait Islander children and young people commissioner means the person appointed as the Aboriginal and Torres Strait Islander Children and Young People Commissioner under the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, section 10.
 Aboriginal or Torres Strait Islander child or young person means a child or young person who is an Aboriginal or Torres Strait Islander person.
 Aboriginal or Torres Strait Islander person—see the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, dictionary.
-abuse, of a child or young person—see section 342.
 ACAT mental health provision—see section 491.
 accredited person—
   (a) in relation to a young detainee, for chapter 6 (Criminal matters—detention places)—see section 137; and
@@ -78,7 +77,6 @@ approved kinship and foster care organisation—see section 502.
 approved research project, for chapter 22 (Research involving children and young people)—see section 805.
 approved residential care organisation—see section 502.
 assessment order, for the care and protection chapters—see section 436.
-at risk of abuse or neglect, in the care and protection chapters—see section 344.
 authorised assessor—see section 438.
 authorised person—see section 26.
 behaviour breach—see section 287.
@@ -106,7 +104,6 @@ childcare service—see section 732.
 childcare service licence, for chapter 20 (Childcare services)—see section 728 (2).
 childcare services standards—see section 887 (2) (f).
 childcare worker, for chapter 20 (Childcare services)—see section 728 (2).
-child concern report—see section 353.
 children and young people employment standards—see section 887 (2) (g).
 children and young people deaths register—see section 727N (1).
 Children and Youth Services Council means the Children and Youth Services Council established under section 27.
@@ -225,7 +222,6 @@ mental disorder—see the Mental Health Act 2015, section 9.
 mental illness—see the Mental Health Act 2015, section 10.
 Minister of a State, for part 5.2 (Interstate transfers)—see section 114.
 minor behaviour breach, for chapter 8 (Criminal matters—discipline at detention places)—see section 288.
-neglect, of a child or young person—see section 343.
 nominated person, for a young detainee—see section 185 (2) (n).
 noncompliance direction, for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352O.
 noncompliance notice, for division 10.4.4 (Approved care and protection organisations—intervention)—see section 352N.
@@ -345,7 +341,7 @@ sending State—
 sensitive information—see section 845.
 short-term parental responsibility provision, in a care and protection order, for the care and protection chapters—see section 476.
 sibling, of a child or young person, includes a stepbrother or stepsister of the child or young person and a half-brother or half-sister of the child or young person.
-significant harm, for the care and protection chapters—see section 341 (2).
+significant harm—see section 344.
 significant person, for a child or young person—see section 14.
 specific issues provision—see section 492.
 specific parental authority—

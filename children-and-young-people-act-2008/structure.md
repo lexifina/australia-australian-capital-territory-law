@@ -87,11 +87,11 @@
 ### Division 10.4.4 Approved care and protection organisations—intervention
 ### Division 10.4.5 Approved care and protection organisations—surrendering approval
 ### Division 10.4.6 Approved care and protection organisations register
-# Chapter 11 Care and protection—reporting, investigating and appraising abuse and neglect
-## Part 11.1 Care and protection—reporting abuse and neglect
+# Chapter 11 Care and protection—reporting and assessing risk of significant harm
+## Part 11.1 Care and protection—reporting risk of significant harm
 ### Division 11.1.1 Definitions
-### Division 11.1.2 Reporting abuse and neglect of children and young people
-### Division 11.1.3 Prenatal reporting of anticipated abuse and neglect
+### Division 11.1.2 Reporting risk of significant harm to children and young people
+### Division 11.1.3 Prenatal reporting of anticipated risk of significant harm
 ## Part 11.2 Care and protection—appraisals
 ### Division 11.2.1 Definitions
 ### Division 11.2.2 Appraisal by director-general
@@ -190,7 +190,7 @@
 ## Part 19A.1 Establishment and functions of committee
 ## Part 19A.2 Meetings of committee
 ## Part 19A.3 Register of deaths of children and young people
-## Part 19A.4 Annual reports about deaths of children and young people
+## Part 19A.4 Reporting by committee
 # Chapter 20 Childcare services
 ## Part 20.1 Childcare services—preliminary
 ## Part 20.2 Childcare services—important concepts
@@ -230,3 +230,4 @@
 ## Part 25.5 Admissibility of evidence
 ## Part 25.6 Protection of people who give information
 # Chapter 26 Miscellaneous
+# Chapter 32 Transitional—Children and Young People Amendment Act 2023
