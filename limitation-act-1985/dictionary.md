@@ -19,7 +19,7 @@ deed includes—
     (ii) a State;
     (iii) another Territory;
     (iv) the United Kingdom;
-    (v) New Zealand;
+    (v) New Zealand.
 defendant means a person against whom a cause of action lies, whether or not a proceeding has been started for the cause of action.
 government—see the Legislation Act 2001, section 121 (Binding effect of Acts).
 income includes interest on a judgment and other interest, rent, annuities and dividends, but does not include arrears of interest secured by a mortgage and lawfully treated as principal.
