@@ -56,7 +56,7 @@
 ### Division 14.1 Alcohol-free public places
 ### Division 14.2 Children and young people
 ### Division 14.3 Prohibited liquor products
-### Division 14.4 Authorisation for extended trading
+### Division 14.4 Licensee events and special events
 ## Part 15 Liquor advisory board
 ## Part 16 Notification and review of decisions
 ## Part 16A Criminal intelligence

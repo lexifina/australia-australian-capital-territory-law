@@ -21,6 +21,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • territory plan
 • territory planning authority.
 ACAT Act means the ACT Civil and Administrative Tribunal Act 2008.
+Access Canberra, for division 14.4 (Licensee events and special events)—see the Public Sector Management Act 1994, section 21 (8).
 adults-only area, for licensed premises or permitted premises—see section 93.
 amend, a licence or permit, includes the following:
   (a) amend an existing licence condition;
@@ -44,6 +45,7 @@ catered premises means premises where liquor is authorised to be sold under a ca
 catering licence—see section 20A.
 caution offence, for division 9.3 (Police cautions for children and young people)—see section 149.
 certificate of occupancy, for premises—see the Building Act 2004, dictionary.
+changed floor plan authorisation, for licensed premises, for division 14.4 (Licensee events and special events)—see section 214B.
 child—see the Children and Young People Act 2008, section 11.
 class—each of the following is a class of licence:
   (a) general licence;
@@ -76,6 +78,8 @@ enclosed public place—see the Smoke-Free Public Places Act 2003, dictionary.
 excluded person, for division 8.10 (Exclusion orders)—see section 143D.
 exclusion order, for division 8.10 (Exclusion orders)—see section 143D.
 exclusion period, for division 8.10 (Exclusion orders)—see section 143D.
+extended trading authorisation, for licensed premises, for division 14.4 (Licensee events and special events)—see section 214B.
+extended trading period, for division 14.4 (Licensee events and special events)—see section 214B.
 false identification document, for a person, means an identification document that—
   (a) was fraudulently obtained; or
   (b) was issued to someone else; or
@@ -88,6 +92,7 @@ ground for occupational discipline, for division 11.3 (Occupational discipline)�
   (a) in relation to a licensee—see section 183; or
   (b) in relation to a commercial permit-holder—see section 184.
 harm minimisation and community safety principles—see section 10.
+head, of Access Canberra, for division 14.4 (Licensee events and special events)—see the Public Sector Management Act 1994, section 21 (8).
 identification document, for a person, means—
   (a) a document that—
     (i) is—
@@ -101,6 +106,7 @@ Note A document may be in electronic form (see Legislation Act, dict, pt 1, def 
 identity card—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
 incident, for division 8.6 (Incidents)—see section 130.
 influential person, for a corporation—see section 15.
+interim licence—see section 27A (2).
 interstate proof of identity card means a document corresponding to a proof of identity card that has been issued under the law of a State.
 intoxicated—see section 104.
 investigator—see the Fair Trading (Australian Consumer Law) Act 1992, dictionary.
@@ -114,6 +120,7 @@ licensed times, for the sale of liquor at licensed premises or catered premises,
 licensee—
   (a) means a person who holds a licence; or
   (b) for part 11 (Complaints and occupational discipline)—see section 174.
+licensee event, for licensed premises—see section 214C.
 liquor—see section 11.
 liquor advisory board means the liquor advisory board established under section 215.
 liquor guidelines—see section 223 (1).
@@ -161,6 +168,7 @@ public place means any street, road, public park, reserve or other place that th
   (c) a building or part of a building occupied by a club, and any place occupied in relation to a club; and
   (d) any private property that is commonly used by the public, whether as trespassers or otherwise.
 purchase assistant, for part 11A (Compliance testing)—see section 187B (a).
+registered proprietor, in relation to a lease, means the person who is registered under the Land Titles Act 1925 as proprietor of the lease.
 registered training organisation, for division 12.1 (Approval to provide RSA training courses)—see section 188.
 relevant premises, for division 2.4 (Licences—public consultation)—see section 33.
 responsible person, for premises, for part 4 (Suitability of people and premises for licences and permits)—see section 74.
@@ -178,6 +186,8 @@ sell includes—
   (f) have in possession for sale.
 senior police officer means the chief police officer or another police officer of or above the rank of superintendent.
 smoke—see the Smoke-Free Public Places Act 2003, section 5B.
+special event—see section 214C.
+special event declaration, for division 14.4 (Licensee events and special events)—see section 214D (1).
 special licence—see section 21.
 staff member, for part 8 (Conduct at licensed premises and permitted premises), means—
   (a) for licensed premises—
