@@ -72,6 +72,5 @@
 ## Part 15.3 Attachment of insurance money
 ## Part 15.4 Abolition of certain common law actions, rules and remedies
 ## Part 15.5 Other provisions
-# Chapter 18 Transitional—Civil Law (Wrongs) Amendment Act 2021
 # Chapter 19 Transitional—Civil Law (Wrongs) Amendment Act 2024—absolute privilege
 # Chapter 20 Transitional—Civil Law (Wrongs) Amendment Act 2024
