@@ -71,9 +71,11 @@ heritage significance criteria—see section 10.
 information discovery order—see section 95.
 interested person—see section 13.
 natural heritage significance—see section 10A.
-nominated, place or object, means a place or object the subject of a nomination application that is accepted by the council under section 29 (1) (b) (Decision about nomination application).
+nominated, place or object, means a place or object the subject of a nomination application that is—
+  (a) accepted by the council under section 29 (2) (b) (ii); and
+  (b) not dismissed by the council under section 30A (3) (a).
 Note 1 A nominated place or object is eligible to be considered for provisional registration, but is not yet provisionally registered under s 32.
-Note 2 A place or object is taken to be a nominated place or object under s 36 (End of period of provisional registration without decision).
+Note 2 A place or object is taken to be a nominated place or object under s 36.
 nomination application—see section 28.
 object—see section 8.
 occupier, for part 14 (Enforcement)—see section 77.
