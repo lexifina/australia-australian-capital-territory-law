@@ -3,7 +3,7 @@
 ### Division 2.1 Notification of births
 ### Division 2.2 Registration of births
 ### Division 2.3 Alteration of details of birth registration
-### Division 2.4 Substitute parent information
+### Division 2.4 Intended parent information
 ## Part 3 Change of name
 ### Division 3.1 Change of name—generally
 ### Division 3.2 Change of name—restricted people
