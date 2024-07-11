@@ -2,7 +2,7 @@
 (see s 145)
 ## Part 2.1 Preliminary
 ## 2.1 Definitions for sch 2
-(1) In this schedule:
+In this schedule:
 AS/NZS 4012 means AS/NZS 4012 (Domestic solid fuel burning appliances—Method for determination of power output and efficiency) as in force from time to time.
 Note AS/NZS 4012 may be purchased at www.standards.org.au.
 AS/NZS 4013 means AS/NZS 4013 (Domestic solid fuel burning appliances—Method for determination of flue gas emission), as in force from time to time.
@@ -11,10 +11,6 @@ fuel-burning equipment means a furnace, boiler, fireplace, oven, retort, inciner
 residential premises means premises that are used exclusively or primarily for residential purposes.
 sell includes exhibit or offer for sale (whether by wholesale or retail) and supply by way of exchange, lease, hire or credit sale.
 solid fuel-burning equipment means fuel-burning equipment that is designed to burn hard wood, soft wood or briquettes and to which AS/NZS 4012 or AS/NZS 4013 apply.
-(2) The Legislation Act, section 47 (6) does not apply to the following:
-  (a) AS/NZS 4012;
-  (b) AS/NZS 4013.
-Note The text of an applied, adopted or incorporated instrument, whether applied as in force from time to time or at a particular time, is taken to be a notifiable instrument if the operation of the Legislation Act, s 47 (5) or (6) is not disapplied (see s 47 (7)).
 ## Part 2.2 Offences relating to articles that emit noise
 ## 2.2 Sale of articles that emit excessive noise
 A person must not sell a prescribed article that, when in operation, emits noise that exceeds the prescribed level.
@@ -45,7 +41,7 @@ Note A disallowable instrument must be notified, and presented to the Legislativ
 (1) A person must not alter the information on, or remove, a plate attached to solid fuel-burning equipment that contains information required to be marked on a plate in accordance with—
   (a) AS/NZS 4012, section 8; or
   (b) AS/NZS 4013, section 10.
-(2) A person must not mark on solid fuel burning equipment that the equipment complies with 1 or both of the following standards if the equipment does not comply with the standard:
+(2) A person must not mark on solid fuel-burning equipment that the equipment complies with 1 or both of the following standards if the equipment does not comply with the standard:
   (a) AS/NZS 4012 (other than the required overall efficiency for the equipment);
   (b) AS/NZS 4013 (other than the required appliance particulate emission factor).
 (3) A person who sells solid fuel-burning equipment for use on residential premises, or installs solid fuel-burning equipment on residential premises, must not alter in a material way—

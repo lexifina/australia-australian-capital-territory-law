@@ -1,7 +1,7 @@
 # Schedule 3 Reviewable decisions
 (see pt 14)
 column 1 item | column 2 section | column 3 decision | column 4 entity
-1 | 21 (1) | refuse to exclude document or part of document from public inspection | applicant
+1 | 21 (4) | refuse to exclude document or part of document from being made available to the public | applicant
 2 | 21A (4) | refuse to remove entry from the register | entity that entry relates to
 3 | 43 (1) | notify entity not to conduct, or continue to conduct, stated activity unless person holds environmental authorisation | entity conducting or proposing to conduct stated activity
 4 | 43 (4) | refuse to revoke notice under section 43 (1) | person conducting or proposing to conduct stated activity
