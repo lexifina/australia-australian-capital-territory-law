@@ -281,7 +281,7 @@ possession, of a thing, includes the following:
   (b) having control over the disposition of the thing (whether or not having custody of the thing);
   (c) having joint possession of the thing.
 prenatal report—see section 362 (2).
-previous out-of-home carer, for a young person or young adult, for part 15.5 (Transition to adulthood)—see section 529BA.
+previous out-of-home carer, for a person, for part 15.5 (Transition from out-of-home care)—see section 529BA.
 privilege, for chapter 8 (Criminal matters—discipline at detention places)—see section 289.
 privileged, in relation to material, for chapter 7 (Criminal matters—search and seizure at detention places)—see section 246.
 produce, for part 25.4 (Courts and investigative entities)—see section 864.
@@ -382,7 +382,7 @@ welfare body, for chapter 17 (Care and protection—interstate transfer of order
 work experience, for chapter 21 (Employment of children and young people)—see section 780.
 work experience standards—see section 887 (2) (h).
 Working with Vulnerable People Act means the Working with Vulnerable People (Background Checking) Act 2011.
-young adult, for part 15.5 (Transition to adulthood)—see section 529B.
+young adult, for part 15.5 (Transition from out-of-home care)—see section 529B.
 young detainee—see section 95.
 young offender means—
   (a) a person who—

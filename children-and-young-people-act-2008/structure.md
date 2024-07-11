@@ -140,7 +140,7 @@
 ### Division 15.4.1A Approval of carers
 ### Division 15.4.2 Authorisation of out-of-home carers and approval of places of care
 ### Division 15.4.3 Information and items to be kept by foster carers and residential care services
-## Part 15.5 Transition to adulthood
+## Part 15.5 Transition from out-of-home care
 ### Division 15.5.1 Preliminary
 ### Division 15.5.2 Transition plans
 ### Division 15.5.3 Assistance after leaving out-of-home care
