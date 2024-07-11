@@ -35,11 +35,12 @@ justice facility means—
   (a) a detention place; or
   (b) a place outside a detention place if a detainee is, or has been, directed to work or take part in an activity at the place; or
   (c) any other place a child may be held in custody.
-## 1.3 Childcare service
+## 1.3 Education and care service or childcare service
 ## (1) An activity or service is a regulated activity if the activity is conducted, or the service is provided, by—
-## (a) a childcare service; or
-## (b) another commercial service that provides child care.
-Examples—par (b)
+  (a) an education and care service; or
+## (b) a childcare service; or
+## (c) another commercial service that provides child care.
+Examples—par (c)
 1 babysitting service
 2 nanny service
 3 a service conducted by a hotel or resort to provide childcare to children who are short term guests
@@ -48,6 +49,8 @@ childcare service—see the Children and Young People Act 2008, section 732.
 Note Childcare service means—
   (a) a childcare centre; or
   (b) a family day care scheme.
+education and care service—see the Education and Care Services National Law (ACT), section 5.
+Note The Education and Care Services National Law (ACT) Act 2011, s 6 applies the Education and Care Services National Law set out in the Education and Care Services National Law Act 2010 (Vic), schedule as if it were an ACT law called the Education and Care Services National Law (ACT).
 ## 1.4 Child education services
 ## (1) An activity or service is a regulated activity if the activity is conducted, or the service is provided, as part of a child education service.
 ## (2) In this section:
