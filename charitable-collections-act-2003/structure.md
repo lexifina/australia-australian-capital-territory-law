@@ -6,6 +6,7 @@
 ### Division 4.2 Unincorporated bodies
 ### Division 4.3 Amendment, suspension and cancellation of licences
 ### Division 4.4 Register of licences
+## Part 4A ACNC registered entities
 ## Part 5 Application of proceeds of collections
 ## Part 6 Administration
 ## Part 7 Notification and review of decisions
