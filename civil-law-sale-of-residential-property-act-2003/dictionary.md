@@ -60,4 +60,4 @@ sunset event, in relation to an off-the-plan contract, for part 2A (Off-the-plan
 unapproved structure, for part 2 (Sale of residential property)—see section 7.
 unit—see the Unit Titles Act 2001, section 9.
 units plan—see the Unit Titles Act 2001, section 7.
-unit title certificate, for a unit, means a certificate given under the Unit Titles (Management) Act 2011, section 119 (1).
+unit title sale certificate, for a unit—see the Unit Titles (Management) Act 2011, section 119 (1) (a).
