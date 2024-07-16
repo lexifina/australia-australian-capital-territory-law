@@ -45,11 +45,11 @@ developer control period, for a units plan, means the period that—
   (b) ends on the day people other than the developer hold 1/3 or more of the unit entitlements for the units plan.
 developer’s maintenance schedule—see section 25.
 development, of a unit or common property—see the Unit Titles Act 2001, dictionary.
-eligible person, for a unit or common property in relation to which access to information is required, means—
+eligible person, for a unit or common property, means—
   (a) the owner, or another person with an interest in the unit, or in an easement over the common property; or
   (b) for a unit that is owned, or part-owned, by a company—the representative of the company; or
   (c) anyone authorised in writing by a person mentioned in paragraph (a) or (b); or
-  (d) if access to the information is necessary or desirable for the administration of this Act—the territory planning authority.
+  (d) in relation to the administration of this Act—the territory planning authority.
 entitled to vote, in relation to a motion at a general meeting of an owners corporation, means a person who is entitled to vote on the motion under schedule 3, section 3.20.
 executive committee, of an owners corporation, means the executive committee of the corporation established under section 34.
 executive member means a member of an executive committee.
@@ -141,7 +141,9 @@ unit owner means the registered proprietor of the lease of the unit and includes
 Note The term owner is also defined in the dictionary with the same meaning.
 units plan—see the Unit Titles Act 2001, dictionary.
 unit subsidiary—see the Unit Titles Act 2001, section 12.
-unit title certificate—see section 119.
+unit title rental certificate—see section 119 (1) (c).
+unit title sale certificate—see section 119 (1) (a).
+unit title sale update certificate—see section 119 (1) (b).
 unopposed resolution means a resolution of a general meeting passed as required by schedule 3, section 3.17.
 utility conduit—see the Unit Titles Act 2001, dictionary.
 utility infrastructure means infrastructure and equipment necessary for, or related to, the provision of utility services.
