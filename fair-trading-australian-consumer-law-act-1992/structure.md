@@ -10,9 +10,7 @@
 ## Part 5 Commissioner for fair trading
 ### Division 5.1 Administration
 ### Division 5.1A Conciliation of consumer complaints
-#### Subdivision 5.1A.1 Preliminary
-#### Subdivision 5.1A.2 Conciliation
-#### Subdivision 5.1A.3 Civil penalties—business failing to attend conciliation
 ### Division 5.2 Investigations
 ## Part 6 Maximum annual percentage rate and disclosure
 ## Part 7 Miscellaneous
+## Part 8 Transitional—Housing and Consumer Affairs Legislation Amendment Act 2024

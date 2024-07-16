@@ -24,8 +24,6 @@ business—
   (a) for this Act, other than division 5.1A—see the Australian Consumer Law (ACT), section 2 (1); and
   (b) for division 5.1A (Conciliation of consumer complaints)—see section 34B.
 business premises, for division 5.2 (Investigations)—see section 35.
-civil penalty order, for subdivision 5.1A.3 (Civil penalties—business failing to attend conciliation)—see section 34L.
-civil penalty provision, for division 5.1A.3 (Civil penalties—business failing to attend conciliation)—see section 34L.
 code, for part 6 (Maximum annual percentage rate and disclosure)—see section 62.
 commissioner means the Commissioner for Fair Trading appointed under section 32.
 compulsory conciliation notice, for division 5.1A (Conciliation of consumer complaints)—see section 34G.
