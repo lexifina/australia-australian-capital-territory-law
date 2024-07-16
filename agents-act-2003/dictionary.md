@@ -84,7 +84,7 @@ employee—
     (ii) a person engaged on a contract of service; and
   (b) for a corporation, includes a director or other member of its governing body.
 estimate, for division 5.6 (Land—further provisions)—see section 80.
-executive officer—see the Corporations Act, section 9.
+executive officer, of a corporation, means a person who is concerned in, or takes part in, the management of the corporation, whether or not the person is a director of the corporation.
 failure to account, in relation to a licensed agent, means a failure by the agent to account for money or other property entrusted to the agent in the course of carrying on the agent’s business as a licensed agent.
 fair trading legislation—see section 7.
 family member, of a person, means—
