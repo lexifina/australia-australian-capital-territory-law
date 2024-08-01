@@ -36,6 +36,7 @@ applicable standard, in relation to a service provider, means anything mentioned
 child means a person who is under 12 years old.
 children and young people commissioner means the commission member exercising the functions under section 19B.
 children and young people service complaint means a complaint about a service for children and young people that may be made, or is made, under section 40A.
+child safe standards—see section 94V.
 code of conduct, for division 5.3 (Health care worker code of conduct)—see section 94A.
 commission—
   (a) see section 11; but
@@ -108,7 +109,7 @@ person complained about—
     (i) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (a) to (c)—the director-general of—
       (A) the administrative unit; or
       (B) the administrative unit responsible for the provision of the Act that establishes the territory authority or territory instrumentality; or
-    (ii) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (d) or (g)—the public authority; or
+    (ii) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (d), (e) or (g)—the public authority; or
     (iii) if the public authority complained about is a public employee who is a statutory office-holder—the statutory office-holder; or
     (iv) if the public authority complained about is any other public employee—the director-general of the administrative unit in which the public employee is employed; or
     (v) if the public authority complained about is an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D (Other entities may choose to be subject to obligations of public authorities)—the entity.
@@ -119,8 +120,7 @@ provider, of a service—see section 10.
 public advocate means the commission member exercising the functions under section 27B.
 public authority—
   (a) see the Human Rights Act 2004, section 40; and
-  (b) includes an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D (Other entities may choose to be subject to obligations of public authorities); but
-  (c) does not include a public authority mentioned in the Human Rights Act 2004, section 40 (1) (e).
+  (b) includes an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D (Other entities may choose to be subject to obligations of public authorities).
 public servant complaint, for division 5.3 (Health care worker code of conduct)—see section 94D (1).
 public service entity, for division 5.3 (Health care worker code of conduct)—see section 94A.
 public statement, for division 5.3 (Health care worker code of conduct)—see section 94A.
