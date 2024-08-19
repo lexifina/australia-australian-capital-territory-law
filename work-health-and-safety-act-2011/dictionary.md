@@ -19,6 +19,11 @@ approved code of practice means a code of practice approved under division 14.2 
 asbestos, for division 10.2A (Prohibited asbestos notices)—see section 197A.
 asbestos containing material (ACM), for division 10.2A (Prohibited asbestos notices)—see section 197A.
 authorised, for part 4 (Authorisations)—see section 40.
+authorised person, for a body corporate, for division 13.4 (Offences by bodies corporate)—see section 244.
+board of directors, for a body corporate, for division 13.4 (Offences by bodies corporate)—see section 244.
+category 1 monetary penalty—see schedule 4, section 4.1.
+category 2 monetary penalty—see schedule 4, section 4.1.
+category 3 monetary penalty—see schedule 4, section 4.1.
 category 1 offence—see section 31.
 category 2 offence—see section 32.
 category 3 offence—see section 33.
@@ -46,12 +51,14 @@ employer organisation means an organisation of employers.
 engage in conduct means doing an act or omitting to do an act.
 external review—see section 229.
 Fair Work Act means the Fair Work Act 2009 (Cwlth).
+fault element—see the Criminal Code, section 17.
 handling includes transport.
 health means physical and psychological health.
 health and safety committee, for a business or undertaking—see division 5.4 (Health and safety committees).
 health and safety duty, for division 2.5 (Offences and penalties)—see section 30.
 health and safety representative, in relation to a worker, means the health and safety representative elected under part 5 (Consultation, representation and participation) for the work group of which the worker is a member.
 import means to bring into the ACT from outside Australia.
+industrial manslaughter monetary penalty—see schedule 4, section 4.1A.
 industrial manslaughter offence means an offence against section 34A (Industrial manslaughter).
 infringement notice—see the Magistrates Court Act 1930, dictionary.
 infringement notice offence—see the Magistrates Court Act 1930, dictionary.
@@ -76,6 +83,7 @@ official of a union, for part 7 (Workplace entry by WHS entry permit-holders)—
 parties, in relation to an issue, for division 5.5 (Issue resolution)—see section 80.
 personal information—see the Privacy Act 1988 (Cwlth), section 6 (1).
 person conducting a business or undertaking—see section 5.
+physical element—see the Criminal Code, section 14.
 plant includes—
   (a) any machinery, equipment, appliance, container, implement and tool; and
   (b) any component of any of the things referred to in paragraph (a); and
@@ -110,11 +118,24 @@ structure means anything that is constructed, whether fixed or moveable, tempora
   (c) part of a structure.
 substance means any natural or artificial substance, whether in the form of a solid, liquid, gas or vapour.
 supply, of a thing—see section 6.
+tier A monetary penalty—see schedule 4, section 4.2.
+tier B monetary penalty—see schedule 4, section 4.2.
+tier C monetary penalty—see schedule 4, section 4.2.
+tier D monetary penalty—see schedule 4, section 4.2.
+tier E monetary penalty—see schedule 4, section 4.2.
+tier F monetary penalty—see schedule 4, section 4.2.
+tier G monetary penalty—see schedule 4, section 4.2.
+tier H monetary penalty—see schedule 4, section 4.2.
+tier I monetary penalty—see schedule 4, section 4.2.
 union means—
   (a) an employee organisation that is registered, or taken to be registered, under the Fair Work (Registered Organisations) Act 2009 (Cwlth); or
   (b) an association of employees or independent contractors, or both, that is registered or recognised as such an association (however described) under a State or Territory industrial law.
 volunteer means a person who is acting on a voluntary basis (whether or not the person receives out-of-pocket expenses).
 WHS civil penalty provision—see section 254.
+WHS civil penalty provision tier 1—see schedule 4, section 4.3.
+WHS civil penalty provision tier 2—see schedule 4, section 4.3.
+WHS civil penalty provision tier 3—see schedule 4, section 4.3.
+WHS civil penalty provision tier 4—see schedule 4, section 4.3.
 WHS commissioner—see work health and safety commissioner.
 WHS entry permit means a WHS entry permit issued under part 7 (Workplace entry by WHS entry permit-holders).
 WHS entry permit-holder means a person who holds a WHS entry permit.
