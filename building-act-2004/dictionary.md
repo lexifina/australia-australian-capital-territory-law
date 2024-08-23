@@ -59,6 +59,7 @@ class, of building, means that class of building under the building code.
 completion day, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 85.
 compliance certificate, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83K (1).
 complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
+consumer representative, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 127AA (1).
 cost, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 86.
 custodian, for part 4 (Stop and other notices and demolition orders)—see section 52.
 decision-maker, for a reviewable decision, for part 9A (Notification and review of decisions)—see section 142A.
