@@ -28,4 +28,3 @@
 ### Division 7.2 Accreditation of education programs
 ## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous
-## Part 16 Transitional—ACT Teacher Quality Institute Amendment Act 2019
