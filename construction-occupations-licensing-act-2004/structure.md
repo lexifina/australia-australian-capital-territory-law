@@ -30,4 +30,3 @@
 ## Part 11A Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 21 Transitional—Gas Safety Legislation Amendment Act 2014
-## Part 23 Transitional—Building and Construction Legislation Amendment Act 2023
