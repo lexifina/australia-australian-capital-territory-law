@@ -59,7 +59,7 @@ decision-maker—
   (a) for this Act generally—means—
     (i) for a decision or other function relating to a registered tree, a regulated tree, or a remnant tree located on land outside the built-up urban area—the conservator; or
     (ii) for a decision or other function relating to a public tree—the director-general; and
-  (b) for subdivision 3.3.2 (Approved activities—canopy contributions), in relation to a development proposal to remove a protected tree under the Planning Act 2023—see section 34.
+  (b) for subdivision 3.3.2 (Approved activities—canopy contributions), in relation to a protected tree that is proposed to be removed in accordance with a development approval—see section 34.
 declared site means an area declared to be a declared site under section 69.
 development—
   (a) for this Act generally—see the Planning Act 2023, section 14; and
