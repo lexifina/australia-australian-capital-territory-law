@@ -32,7 +32,7 @@ accredited person, in relation to a detainee, means each of the following:
   (a) if the detainee is a sentenced offender—anyone involved in relation to the administration of the sentence;
   (b) a lawyer representing the detainee;
   (c) an official visitor;
-  (d) the inspector of correctional services;
+  (d) the custodial inspector;
   (e) the human rights commissioner;
   (f) the public advocate;
   (g) the ombudsman;
@@ -55,6 +55,7 @@ corrections policy means a corrections policy under section 14.
 corresponding director-general, for part 12.2 (Interstate leave)—see section 206.
 corresponding leave law, for part 12.2 (Interstate leave)—see section 206.
 court cell, for chapter 4 (Detention in police and court cells etc)—see section 29.
+custodial inspector means the custodial inspector appointed under the Custodial Inspector Act 2017, section 9.
 detainee—see section 6.
 director-general, for chapter 4 (Detention in police and court cells etc)—see section 29.
 disciplinary action—see section 183.
@@ -86,7 +87,6 @@ health service—
 hearing, for an inquiry—see section 151.
 initial report—see section 156 (2) (e).
 inquiry—see section 151.
-inspector of correctional services—means the inspector of correctional services appointed under the Inspector of Correctional Services Act 2017, section 9.
 interstate detainee, for part 12.2 (Interstate leave)—see section 206.
 interstate escort officer—see section 213.
 interstate leave permit—see section 208.
@@ -119,7 +119,7 @@ prohibited thing means a thing declared to be a prohibited thing under section 8
 protected mail means mail between a detainee and any of the following:
   (a) a lawyer representing the detainee;
   (b) an official visitor;
-  (c) the inspector of correctional services;
+  (c) the custodial inspector;
   (d) the human rights commissioner;
   (e) the public advocate;
   (f) the ombudsman;
