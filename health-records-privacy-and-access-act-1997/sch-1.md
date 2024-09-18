@@ -40,8 +40,18 @@ Note Law of the Territory—see dict.
     (ii) if the consumer is an adult when the information is collected—7 years after the day a service was last provided to the consumer by the record keeper; or
   (c) an electronic copy of the record has been generated—
     (i) by a method described in the Electronic Transactions Act 2001, section 11 (2) (b); and
-    (ii) when the record is destroyed it is reasonable to expect that the information contained in the electronic copy will be readily accessible so as to be useable for subsequent reference.
+    (ii) when the record is destroyed it is reasonable to expect that the information contained in the electronic copy will be readily accessible so as to be useable for subsequent reference; or
 Note The Electronic Transactions Act 2001, section 11 (Retention of information and documents) provides that, if a person is required to retain a document, the requirement is taken to be met if the person retains an electronic form of the document.
+  (d) the record is a video recording of images captured by an automated security or surveillance camera (surveillance footage) located at premises from which a health service provider provides services or in an area surrounding the premises.
+Example—surveillance footage
+a recording of images captured by a closed-circuit television security camera
+4 In this principle:
+surveillance footage—
+  (a) includes an automated video recording made for the purposes of security, public safety, monitoring of activities or community education; but
+  (b) does not include a video recording, whether or not automated, made for the purpose of a clinical procedure or investigation.
+Examples—par (b)
+1 a video recording of a surgery made for quality assurance
+2 an automated video recording monitoring use of an MRI machine
 ## Principle 4.2: Storage, security and destruction of personal health information—register of destroyed or transferred records
 1 A record keeper must keep a register of records that have been destroyed or transferred to another entity.
 Note Entity includes a person (see Legislation Act, dict, pt 1).
@@ -51,6 +61,9 @@ Note Entity includes a person (see Legislation Act, dict, pt 1).
   (c) for a destroyed record—the date the record was destroyed;
   (d) for a transferred record—the entity to which the record has been transferred.
 3 A record keeper need not keep a record on the register under clause 1 for longer than 7 years after the day the record is made.
+4 A record keeper need not keep a record on the register under clause 1 if the record destroyed is surveillance footage.
+5 In this principle:
+surveillance footage—see principle 4.1, clause 4.
 ## Principle 4.3: Storage, security and destruction of personal health information—destruction of health information
 1 Health information may be kept by a health service provider if it is needed for the purpose for which it was collected, or another purpose allowed under a law of the Territory, even if its destruction is allowed under principle 4.1.
 2 An entity other than a health service provider must take reasonable steps to destroy, or permanently deidentify, health information if it is no longer needed for the purpose for which it was collected or for any other purpose allowed under a law of the Territory.
