@@ -125,6 +125,7 @@ controlling person, for a childcare service or proposed childcare service, for c
 court, for part 25.4 (Courts and investigative entities)—see section 864.
 court-ordered meeting—see section 431 (2) (a).
 criminal matters chapter—see section 91.
+custodial inspector means the custodial inspector appointed under the Custodial Inspector Act 2017, section 9.
 CYP death review committee means the Children and Young People Death Review Committee established under section 727A.
 daily care responsibility—see section 19.
 dangerous thing, for part 16.3 (Children and young people in therapeutic protection)—see section 590.
@@ -189,7 +190,6 @@ in intensive therapy—see section 576.
 initial review, for division 16.2.5 (Review of intensive therapy orders)—see section 555 (2).
 in need of care and protection, for the care and protection chapters—see section 345 (1).
 in need of emergency care and protection, for the care and protection chapters—see section 403.
-inspector of correctional services—see the Inspector of Correctional Services Act 2017, dicftionary.
 intensive therapy history, for a child or young person who has been confined under an intensive therapy order—see section 537.
 intensive therapy order, for a child or young person—see section 532.
 intensive therapy person, for chapter 16 (Care and protection—intensive therapy for children and young people)—see section 530.
