@@ -15,8 +15,10 @@ omit everything before paragraph (a), substitute
 insert
 (4A) The action that may be taken in relation to a notification or complaint, or part of a notification or complaint, from most serious to least serious, is as follows:
   (a) deal with the notification or complaint, or part, under part 8, division 7 (Immediate action);
+  (aa) deal with the notification or complaint, or part, under part 8, division 7A (Interim prohibition orders);
   (b) refer the notification or complaint, or part, to the responsible tribunal under part 8, division 12 (Referring matter to responsible tribunals);
   (c) refer the notification or complaint, or part, to the health complaints entity to be considered under the Human Rights Commission Act 2005;
+  (ca) refer the notification or complaint, or part, to another entity under section 150A (Referral to other entities);
   (d) investigate the notification or complaint, or part, under part 8, division 8 (Investigations);
   (e) deal with the notification or complaint, or part, as a professional standards matter under part 8, division 11 (Panels);
   (f) deal with the notification or complaint, or part, as a health matter under part 8, division 11 (Panels);
