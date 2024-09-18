@@ -1,5 +1,5 @@
 ## Part 1 Preliminary
-## Part 2 Inspector of correctional services
+## Part 2 Custodial inspector
 ### Division 2.1 Appointment of inspector
 ### Division 2.2 Office of the inspector
 ## Part 3 Inspector’s functions and powers

@@ -1,2 +1,2 @@
-# Inspector of Correctional Services Act 2017
-An Act to provide for an inspector of correctional services, and for other purposes
+# Custodial Inspector Act 2017
+An Act to provide for a custodial inspector, and for other purposes
