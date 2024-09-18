@@ -114,5 +114,7 @@ Information in the possession of the ombudsman that has been obtained or generat
 ## (e) a report on a law enforcement investigation that has already been disclosed to the entity the subject of the investigation.
 ## (5) In this section:
 law includes law of the Commonwealth, a State or a foreign country.
-## 1.15 Information in possession of Inspector of Correctional Services
-Information in the possession of the inspector of correctional services appointed under the Inspector of Correctional Services Act 2017, section 9 that has been obtained or generated in relation to an examination or review conducted under that Act, section 18.
+## 1.15 Information in possession of custodial inspector
+Information in the possession of the custodial inspector appointed under the Custodial Inspector Act 2017, section 9 that has been obtained or generated in relation to an examination or review conducted under that Act, section 18.
+## 1.16 Information in the possession of the ACT national preventive mechanism
+Information in the possession of the ACT National Preventive Mechanism established under the Monitoring of Places of Detention (Optional Protocol to the Convention Against Torture) Act 2018, section 8C that has been obtained or generated in relation to an examination of the treatment of detainees in places of detention under that Act, division 1A.3.
