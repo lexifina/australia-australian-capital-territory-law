@@ -16,6 +16,7 @@ Note For territory authorities with governing boards, see the Financial Manageme
 • chief executive officer of the legal aid commission
 • children and young people commissioner
 • clerk of the Legislative Assembly
+• custodial inspector
 • director-general
 • director of public prosecutions
 • disability and community services commissioner
@@ -25,7 +26,6 @@ Note For territory authorities with governing boards, see the Financial Manageme
 • head of service
 • health services commissioner
 • human rights commissioner
-• inspector of correctional services
 • integrity commission CEO
 • integrity commissioner
 • public advocate
