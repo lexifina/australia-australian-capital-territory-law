@@ -87,11 +87,11 @@ recognised order, for part 7 (Reciprocal arrangements)—see section 90.
 registered order, for part 7 (Reciprocal arrangements)—see section 90.
 related—a charge against a person for an offence is related to an application for a final order and, if an interim order is made on the application, an interim order if—
   (a) the person charged is the respondent to the application; and
-  (b) the offence is against the affected person, other than an offence against section 35 (Offence—contravention of protection order).
+  (b) the offence is against the affected person.
 respondent means a person—
   (a) in relation to whom an application for a protection order has been made; or
   (b) against whom a protection order has been made.
-return date, for an application for a protection order, means the day fixed by the Magistrates Court for return of the application before the court.
+return date, for an application for a protection order or review of a protection order, means the day fixed by the Magistrates Court for return of the application before the court.
 returned, in relation to an application for a protection order, for division 4.2A (Non-attendance by party)—see section 47.
 revoke includes cancel.
 special interim order—
