@@ -118,7 +118,7 @@ protection order—
     (ii) a final order; and
   (b) includes—
     (i) an order about the seizure of a firearms licence, firearm or ammunition; and
-    (ii) an order amending a protection order, including an order for a temporary amendment under section 84.
+    (ii) an order amending a protection order, including an order for a provisional amendment under section 82B or a temporary amendment under section 84.
 protected person means the person protected under a family violence order.
 recognised amendment, for part 9 (National recognition of FVOs)—see section 120.
 recognised FVO, for part 9 (National recognition of FVOs)—see section 119 and section 144.
@@ -127,12 +127,12 @@ related—a charge against a person for an offence is related to an application 
   (a) the person charged is—
     (i) the respondent to the application; and
     (ii) a family member of the affected person; and
-  (b) the offence is against the affected person, other than an offence against section 43 (Offence—contravention of family violence order).
+  (b) the offence is against the affected person.
 respondent means—
   (a) a person in relation to whom an application for a family violence order has been made; or
   (b) a person against whom a family violence order has been made; or
   (c) for part 8 (Court-initiated actions)—the defendant in the family violence proceeding.
-return date, for an application for a protection order, means the day fixed by the Magistrates Court for return of the application before the court.
+return date, for an application for a protection order or review of a protection order, means the day fixed by the Magistrates Court for return of the application before the court.
 returned, in relation to an application for a protection order, for division 4.2A (Non-attendance by party)—see section 52.
 revoke includes cancel.
 special interim order—
