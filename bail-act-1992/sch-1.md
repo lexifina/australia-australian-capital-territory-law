@@ -1,4 +1,4 @@
-# Schedule 1 Offences to which presumption of bail does not apply
+# Schedule 1 Offences to which presumption for bail does not apply
 (see s 9B (a))
 ## Part 1.1 Offences against Crimes Act 1900
 column 1 item | column 2 provision | column 3 description of offence
@@ -8,11 +8,15 @@ column 1 item | column 2 provision | column 3 description of offence
 4 | 29A | driving motor vehicle at police
 5 | 51 | sexual assault in the first degree
 6 | 52 | sexual assault in the second degree
-7 | 54 | sexual intercourse without consent
-8 | 55 (1) | sexual intercourse with young person under 10 years old
-9 | 55 (3) | sexual intercourse with young person under 16 years old
-10 | 55A (1) | sexual intercourse with young person under special care
-11 | 56 (1) | persistent sexual abuse of child or young person under special care
+7 | 53 | sexual assault in the third degree
+8 | 54 | sexual intercourse without consent
+9 | 55 (1) | sexual intercourse with young person under 10 years old
+10 | 55 (3) | sexual intercourse with young person under 16 years old
+11 | 55A (1) | sexual intercourse with young person under special care
+12 | 56 (1) | persistent sexual abuse of child or young person under special care
+13 | 62 | incest and similar offences
+14 | 64 | using child for production of child exploitation material etc
+15 | 66 | grooming and depraving young people
 ## Part 1.2 Offences against Criminal Code
 column 1 item | column 2 provision | column 3 description of offence
 1 | 310 | aggravated robbery
@@ -46,7 +50,6 @@ column 1 item | column 2 provision | column 3 description of offence
 ## Part 1.5 Offences against Customs Act 1901 (Cwlth)
 column 1 item | column 2 provision | column 3 description of offence
 1 | 231 (1) | assembly for unlawful purposes
-2 | 233AC | master allowing use of ship for smuggling etc narcotic goods
 ## Part 1.6 Offences against Criminal Code (Cwlth)
 column 1 item | column 2 provision | column 3 description of offence
 1 | 307.1 | importing and exporting commercial quantities of border controlled drugs or border controlled plants
