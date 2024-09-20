@@ -44,6 +44,7 @@ approval, for division 6A.2 (Repossession of gaming machines)—see section 105A
 approval certificate, for an approved technician—see section 80 (2) (a).
 approved supplier—see section 72 (Application and approval of corporation as supplier).
 approved technician means an individual approved under section 75 or section 76 as a technician.
+assessment, of surrender obligations, for division 2A.3 (Compulsory surrender)—see section 10I (1).
 associated organisation, for a club, means an entity declared to be an associated organisation under section 147 (1).
 associated organisation declaration, for part 9 (Club administration)—see section 144A.
 association number, for a licensee that is an associated incorporation, means the association number on the licensee’s certificate of incorporation under the Associations Incorporation Act 1991.
@@ -65,6 +66,7 @@ authorisation schedule—
 authorised officer means an authorised officer under the Control Act, section 20.
 authorised premises means premises for which an authorisation certificate is in force.
 cancelled, for part 4 (Disciplinary action)—see section 56.
+cap on authorisations, for division 2A.3 (Compulsory surrender)—see section 10I (1).
 cash facility—
   (a) means—
     (i) an automatic teller machine; or
@@ -72,7 +74,7 @@ cash facility—
     (iii) any other facility for gaining access to cash or credit; but
   (b) does not include a facility where cash is exchanged for other denominations of cash, tokens, tickets or cards for the purpose of playing machines.
 casino licensee—see the Casino Control Act 2006, dictionary.
-census day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
+census day, for division 2A.3 (Compulsory surrender)—see section 10I (1).
 centralised monitoring system (or CMS)—see section 66.
 Chief Minister’s Charitable Fund, for part 12 (Community contributions)—see section 164.
 class B gaming machine—
@@ -104,7 +106,6 @@ commission means the gambling and racing commission.
 community, for part 12 (Community contributions)—see section 165.
 community purpose, for part 12 (Community contributions)—see section 166.
 community purpose contribution, for part 12 (Community contributions)—see section 166.
-compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 computer cabinet means the sealable part of a gaming machine that contains the game storage medium and the random access memory.
 computer cabinet access register—see section 71 (1).
 constitution means—
@@ -134,7 +135,6 @@ employ includes engage.
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
 external administrator, for a licensee, for division 6A.2 (Repossession of gaming machines)—see section 105A.
 final, for part 4 (Disciplinary action)—see section 56.
-first compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 gambling harm prevention and mitigation fund—see section 163B.
 game, in relation to a gaming machine, means a play, or a series of plays, initiated by the application of a single stake registered on the gaming machine.
 gaming area—
@@ -179,6 +179,7 @@ Note Licensee has a meaning corresponding to the meaning of licence (see Legisla
 licence number—
   (a) of a class B licence—see section 30 (2) (b) (vii); and
   (b) of a class C licence—see section 20 (1) (b) (vi).
+licensee, for division 2A.3 (Compulsory surrender)—see section 10I (1).
 licensee’s name, in relation to a class C licensee, means the name of the licensee’s legal entity.
 life member, of a club, means a person who is elected to membership of the club for life under the rules of the club.
 linked jackpot means winnings under a linked-jackpot arrangement operated under an approval or permit under part 8.
@@ -224,7 +225,6 @@ repossession, of a gaming machine, includes taking possession of the gaming mach
 required documents, for an authorisation certificate application for class C gaming machines—see section 22 (2).
 reviewable decision, for part 13 (Notification and review of decisions)—see section 173.
 rural lease—see the Planning Act 2023, section 256.
-second compulsory surrender day, for part 2A (Reducing cap on authorisations in ACT to 4 000 or fewer)—see section 10.
 secretary, in relation to a club, includes a person concerned in the management of the club.
 short-term approval, for a technician—see section 76 (3).
 signed-in guest, for a club—see section 54A.
@@ -239,7 +239,7 @@ storage permit—see section 127L.
 storage rules, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored authorisation, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
-surrendered authorisation, for division 2A.2 (Voluntary surrenders)—see section 10A.
+surrender obligation, for division 2A.3 (Compulsory surrender)—see section 10I (1).
 tax period, for part 11 (Finance) and part 12 (Community contributions)—see section 157A.
 technical amendment—see section 37B (1).
 technical evaluation means a technical evaluation under section 69.
@@ -248,7 +248,4 @@ undertaking, for part 3A (Enforceable undertakings)—see section 55A.
 undeveloped area means an area of land that is, on the day the Gaming Machine Amendment Act 2024, section 10 commences—
   (a) unleased territory land; or
   (b) described in a rural lease.
-voluntary surrender agreement, for division 2A.2 (Voluntary surrenders)—see section 10C.
-voluntary surrender day, for a licensee, for division 2A.2 (Voluntary surrenders)—see section 10A.
-voluntary surrender notice, for division 2A.2 (Voluntary surrenders)—see section 10B.
 warning notice, for an associated organisation, for part 9 (Club administration)—see section 147B.
