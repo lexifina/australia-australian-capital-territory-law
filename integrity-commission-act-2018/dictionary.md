@@ -16,6 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Deputy Speaker
 • director-general (see s 163)
 • director of public prosecutions
+• doctor
 • document
 • domestic partner (see s 169 (1))
 • electoral commissioner
@@ -147,6 +148,7 @@ prosecutorial body means any of the following:
   (b) the Director of Public Prosecutions of the Commonwealth appointed under the Director of Public Prosecutions Act 1983 (Cwlth), section 18;
   (c) the Director of Public Prosecutions of a State;
   (d) another person or body with a prosecutorial function, prescribed by regulation.
+psychologist means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the psychology profession (other than as a student).
 public official—see section 12.
 public sector entity—see section 14.
 referral entity—see section 106.
