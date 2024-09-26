@@ -19,8 +19,17 @@ Examples
 court includes—
   (a) a registry or other office of a court or tribunal; and
   (b) the staff of the registry or office.
-## 1.1B Information in possession of integrity commission or inspector of the integrity commission
-Information in the possession of the integrity commission, or the integrity commission inspector, unless the information is administrative in nature.
+## 1.1B Information related to integrity commission matters
+(1) Information in the possession of the integrity commission, the integrity commission inspector, a special investigator or another entity, that would, or could reasonably be expected to—
+  (a) identify a person who has given information to the integrity commission or integrity commission inspector, or allow the identity of the person to be worked out; or
+  (b) adversely affect a preliminary inquiry, or an investigation, under the Integrity Commission Act 2018; or
+  (c) disclose, or adversely affect the effectiveness of, a method or procedure used by the integrity commission or integrity commission inspector, to investigate or otherwise deal with a complaint; or
+  (d) endanger the life or physical safety of a person who—
+    (i) carries out a function for the integrity commission or integrity commission inspector; or
+    (ii) has given information to the integrity commission or integrity commission inspector.
+(2) In this section:
+complaint—see the Integrity Commission Act 2018, section 287.
+special investigator—see the Integrity Commission Act 2018, section 286 (2).
 ## 1.2 Information subject to legal professional privilege
 Information that would be privileged from production or admission into evidence in a legal proceeding on the ground of legal professional privilege.
 ## 1.3 Information disclosure of which is prohibited under law
