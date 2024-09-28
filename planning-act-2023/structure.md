@@ -144,7 +144,6 @@
 # Chapter 20 Transitional
 ## Part 20.1 Transitional—general
 ## Part 20.2 Transitional—strategic and spatial planning
-## Part 20.3 Transitional—territory plan
 ## Part 20.4 Transitional—development applications and approvals
 ## Part 20.5 Transitional—existing rights to use land, buildings and structures
 ## Part 20.6 Transitional—leases and licences
