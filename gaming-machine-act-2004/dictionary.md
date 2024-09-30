@@ -117,7 +117,6 @@ Control Act means the Gambling and Racing Control Act 1999.
 control procedures, for an entity, means the procedures under section 97.
 corporation includes a club.
 Note Corporation—see the Legislation Act, dictionary, pt 1.
-COVID-19 emergency, for part 12 (Community contributions)—see section 164.
 disciplinary action—see section 58.
 disciplinary notice, for part 4 (Disciplinary action)—see section 61.
 dispose of, a gaming machine, includes the following:
