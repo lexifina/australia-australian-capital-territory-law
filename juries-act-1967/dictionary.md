@@ -19,6 +19,7 @@ jury list means the list prepared from time to time under section 19 (1).
 jury pool—see section 27.
 jury precept means a precept issued under section 22.
 jury summons means a summons under section 24.
+majority verdict, of a jury consisting of 12 jurors, for part 8 (Disagreement of jury)—see section 37A.
 person called means a person whose identifying number is called out by the proper officer.
 proper officer, in relation to the exercise of a function under this Act, means a person appointed by the Supreme Court to be the proper officer for the exercise of the function.
 roll of electors of the ACT means a copy of the roll of the electors of the ACT given to the sheriff under the Electoral Act 1992, section 65 (3).
@@ -26,4 +27,5 @@ sheriff—
   (a) for this Act generally—means the sheriff of the Territory; and
   (b) for part 5 (Jury precepts and summonses)—see section 21.
 support person—see the Discrimination Act 1991, section 5AA (3).
+unanimous verdict, of a jury, for part 8 (Disagreement of jury)—see section 37A.
 verdict includes a finding.
