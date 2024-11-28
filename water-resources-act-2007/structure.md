@@ -24,4 +24,3 @@
 ## Part 11 Notification and review of decisions
 ## Part 12 Miscellaneous
 ## Part 13 Surviving allocations
-## Part 22 Transitional—Planning (Consequential Amendments) Act 2023
