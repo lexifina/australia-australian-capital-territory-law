@@ -45,11 +45,14 @@ Condition Report
 (2) The condition report must be on, or to the effect of, the condition report form published by the Territory.
 22 (1) The tenant must examine the report and indicate on the report the tenant’s agreement or disagreement with the items.
 (2) Within 2 weeks after the day the tenant receives the report, the tenant must return 1 copy of the report to the lessor, signed by the tenant and indicating the tenant’s agreement or disagreement with the report or parts of the report.
-23 The lessor must keep the condition report for a period of not less than 1 year after the end of the tenancy.
+22A However, for a consecutive tenancy agreement, the lessor and tenant need not comply with clause 21 and clause 22 if an original condition report or subsequent condition report exists for the premises (the meanings of consecutive tenancy agreement, original condition report and subsequent condition report are set out in the Residential Tenancies Act).
+23 (1) The lessor must keep the condition report for a period of not less than 12 months after the end of the tenancy.
+(2) However, if a condition report is not completed because of clause 22A, the lessor must keep the original condition report, and any subsequent condition report, for a period of not less than 12 months after the end of the consecutive tenancy agreement.
 End of tenancy—inspection and condition report
 23A (1) At the end of the tenancy, an inspection of the premises must be carried out in the presence of the lessor and tenant.
 (2) A condition report based on the inspection must be completed in the presence of, and signed by, the lessor and tenant.
 (3) A party may complete and sign a condition report in the absence of the other party if the party has given the other party a reasonable opportunity to be present when the report is completed and signed.
+(4) However, for a consecutive tenancy agreement, the lessor and tenant need not comply with subclauses (1) to (3) if an original condition report or subsequent condition report exists for the premises (the meanings of consecutive tenancy agreement, original condition report and subsequent condition report are set out in the Residential Tenancies Act).
 Rent and other charges
 Rent and bond only as payment for the tenancy
 24 The lessor must not require any payment other than rent or bond for the following:
@@ -85,20 +88,26 @@ Rent records
 33 (1) The lessor must keep, or cause to be kept, records of the payment of rent.
 (2) Those records must be retained for a period of not less than 12 months after the end of the tenancy.
 Increase in rent
-34 The amount of rent must not vary from period to period except as provided by this tenancy agreement and the Residential Tenancies Act.
-35 The rent may not be increased at intervals of less than 12 months from either the beginning of the tenancy agreement for the first increase, or after that, from the date of the last increase.
-36 (1) This clause applies if—
-(a) the housing commissioner is the lessor under this tenancy agreement; and
-(b) the commissioner has decided to increase the rent after a review of rent under the Housing Assistance Act 2007, section 23.
+34 (1) The amount of rent under a residential tenancy agreement must not vary from period to period, except as provided by the Residential Tenancies Act.
+(2) Also, the amount of rent under a proposed or existing consecutive tenancy agreement must not vary from the amount of rent under a terminating or terminated residential tenancy agreement, except as provided by the Residential Tenancies Act (the meaning of consecutive tenancy agreement is set out in the Residential Tenancies Act).
+35 (1) The rent must not be increased at intervals of less than 12 months from either the beginning of the tenancy agreement for the first increase, or after that, from the date the last increase took effect.
+(2) However, for a consecutive tenancy agreement, the rent must not be increased at intervals of less than 12 months from the date the last increase took effect, whether under the consecutive tenancy agreement or a terminated residential tenancy agreement (the meaning of consecutive tenancy agreement is set out in the Residential Tenancies Act).
+36 (1) This clause applies if the housing commissioner—
+(a) is the lessor under this tenancy agreement; and
+(b) has decided to increase the rent after a review of rent under the Housing Assistance Act 2007, section 23.
 (2) Despite clause 35, the housing commissioner may increase the rent.
-(3) However, if a previous review of rent has been undertaken, the increase under subclause (2) must not take effect earlier than 1 year after the date the last rent increase for the premises took effect.
-37 The restriction on increase in rent applies provided the identity of at least 1 of the tenants who occupy the premises remains the same as at the time of the last increase.
+(3) However, if a previous review of rent has been undertaken, the increase under subclause (2) must not take effect earlier than 12 months after the date the last rent increase for the premises took effect.
+37 The restrictions on the amount and frequency of rental rate increases apply provided the identity of at least 1 of the tenants who occupy the premises remains the same as at the time of the last increase (the meaning of rental rate increase is set out in the Residential Tenancies Act).
 Review of excessive rent increases
-38 The lessor must give the tenant 8 weeks written notice of intention to increase the rent and include in the notice the amount of the increase, and the date when it is proposed to increase the rent.
+38 (1) The lessor must give the tenant 8 weeks written notice of an intended:
+(a) increase in the rent under a residential tenancy agreement (including an existing consecutive tenancy agreement); or
+(b) increase in the rent that will take effect under a proposed consecutive tenancy agreement.
+(2) The notice to the tenant must include the date when the increase is proposed to take effect, the amount of the proposed increase, whether the amount of the increase is more than the prescribed amount, and that ACAT’s prior approval must be obtained for an increase that is more than the prescribed amount if the tenant does not agree to the increase.
 39 (1) The tenant may apply in writing to the tribunal for review of an excessive increase in rent (time limits for applying and the meaning of excessive is set out in the Residential Tenancies Act).
 (2) On such application being made, no increase in rent is payable until so ordered by the tribunal.
 40 If the tenant remains in occupation of the premises without applying to the tribunal for review, the increase in rent takes effect from the date specified in the notice.
-41 If the tenant wishes to vacate the premises before the increase takes effect, the tenant must give 3 weeks notice to the lessor.
+41 (1) If the tenant wishes to vacate the premises before the increase takes effect, the tenant must give 3 weeks notice to the lessor.
+(2) However, for an increase in the rent that will take effect under a proposed consecutive tenancy agreement, the tenant may terminate the existing tenancy under clause 88 (for a periodic tenancy) or clause 89 (for a fixed term tenancy).
 Lessor’s costs
 42 The lessor is responsible for the cost of the following:
 (a) rates and taxes relating to the premises;
@@ -289,11 +298,16 @@ Notice to vacate by lessor
 (b) the ground(s) on which the notice is issued, together with sufficient particulars to identify the circumstances giving rise to the ground(s);
 (c) that the lessor requires the tenant to vacate the premises by the expiry of the required notice period and that the tenancy ends on the day that the tenant vacates the premises.
 Notice of intention to vacate by tenant
-84 (1) If the tenant serves a notice of intention to vacate and vacates the premises in accordance with the notice, the tenancy terminates on the date of vacating the premises.
+84 (1) If the tenant serves a notice of intention to vacate and vacates the premises on or before the date stated in the notice, the tenancy terminates on the date stated in the notice.
 (2) On receiving a notice of intention to vacate, the lessor may—
-(a) accept the notice and accept that the tenancy ends on the date nominated in the notice; or
+(a) accept the notice and accept that the tenancy ends on the date stated in the notice; or
 (b) apply to the tribunal for confirmation of the tenancy agreement, an order for compensation or both.
-85 The notice of intention to vacate must be in the same form and contain the same information as a notice to vacate from the lessor except the notice must contain the statement that the tenant intends to vacate the premises on a certain date and the tenancy terminates on that date.
+85 (1) The notice of intention to vacate must be in writing, in the form required by the Residential Tenancies Act, and must include the following information:
+(a) the address of the premises;
+(b) the ground(s) on which the notice is issued, together with sufficient particulars to identify the circumstances giving rise to the ground(s);
+(c) the date the tenant intends to terminate the tenancy.
+(2) If the tenant vacates the premises on or before the date stated in the notice, the tenancy terminates on the date stated in the notice.
+(3) However, if the tenant does not vacate the premises on or before the date stated in the notice, the notice is taken to be withdrawn and the tenancy continues.
 Termination where premises are not fit for habitation
 86 (1) The lessor or the tenant may, by written notice, terminate the tenancy on a date specified in the notice on the following grounds:
 (a) the premises are not fit for habitation;
@@ -309,6 +323,35 @@ Termination on or after end of fixed term
 (2) The tenancy ends on the date specified by the tenant.
 89 (1) The tenant may give notice to terminate a fixed term tenancy at or after the end of the tenancy by giving 3 weeks notice of the date when the tenant intends to vacate the premises.
 (2) The tenancy ends on the date specified by the tenant.
+Termination before end of fixed term—fee for breaking lease
+89A (1) If a tenant ends a fixed term agreement before the end of the fixed term (other than for a reason provided for by the Residential Tenancies Act or the agreement), the lessor may require the tenant to pay a fee (a break fee) of the following amount:
+(a) if the fixed term is 3 years or less—
+(i) if less than half of the fixed term has expired—6 weeks rent; or
+(ii) in any other case—4 weeks rent;
+(b) if the fixed term is more than 3 years—the amount agreed between the lessor and tenant.
+(2) If the lessor requires the tenant to pay the break fee, the lessor agrees to take reasonable steps to find a new tenant for the premises.
+(3) The lessor agrees that the compensation payable by the tenant for ending a fixed term agreement before the end of the fixed term—
+(a) is limited to the amount of the break fee specified in subclause (1); and
+(b) is not payable until the defined period after the tenant vacates the premises has ended.
+(4) However, the lessor and tenant agree that if, within the defined period after the tenant vacates the premises, the lessor enters into a residential tenancy agreement with a new tenant, the amount payable by the tenant is limited to—
+(a) the amount of the break fee under subclause (1) less the amount of rent payable by the new tenant for the defined period; and
+(b) if the tenant vacates the premises more than 4 weeks before the end of the fixed term—the lessor’s reasonable costs (not exceeding the defined cost limit) of advertising the premises for lease and of giving a right to occupy the premises to another person.
+(5) This clause does not apply to a residential tenancy agreement ended by the tenant under any of the following provisions of the Residential Tenancies Act:
+(a) section 46A (Termination of agreement for aged care or social housing needs);
+(b) section 46B (Termination of fixed term agreement if premises for sale);
+(c) section 46D (Termination for family violence);
+(d) section 46G (Co-tenancies—effect of serving family violence termination notice);
+(e) section 64AA (Termination—affected residential premises);
+(f) section 64AB (Termination—eligible impacted property).
+(6) In this clause:
+defined cost limit means—
+(a) if at least half of the fixed term has expired—an amount equal to 2/3 of 1 week’s rent; or
+(b) if less than half of the fixed term has expired—an amount equal to 1 week’s rent.
+defined period means—
+(a) if subclause (1) (a) (i) applies—6 weeks; or
+(b) if subclause (1) (a) (ii) applies—4 weeks; or
+(c) if subclause (1) (b) applies—N weeks.
+N is the number worked out as follows:
 Termination for breach by lessor
 90 If the lessor breaches the tenancy agreement, and the tenant wishes to terminate the tenancy agreement, the tenant may either—
 (a) apply to the tribunal for an order terminating the tenancy; or

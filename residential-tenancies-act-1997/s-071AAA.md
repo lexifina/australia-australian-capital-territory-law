@@ -5,4 +5,4 @@
   (a) takes effect from the day the premises fail to comply, or no longer comply, with the minimum housing standard, or any later date stated by the ACAT; and
   (b) remains in force for the period stated by the ACAT.
 (4) The ACAT may order a lessor to pay to the tenant the difference between the rent paid and the rent payable as a result of a rent reduction order.
-(5) Any purported increase in the rental rate in relation to premises for which a reduction order is in force is void and any amount paid above the reduced rental rate in accordance with a purported increase is a debt owing by the lessor to the tenant.
+(5) Any purported rental rate increase in relation to premises for which a reduction order is in force is void and any amount paid above the reduced rental rate in accordance with a purported increase is a debt owing by the lessor to the tenant.

@@ -1,26 +1,6 @@
 # Schedule 2 Additional terms for certain residential tenancy agreements
 (see s 8)
-2.1 Break lease fee clause
-Termination before end of fixed term—fee for breaking lease
-101 (1) If the tenant ends a fixed term agreement before the end of the fixed term (other than for a reason provided for by the Residential Tenancies Act or the agreement), the tenant must pay a fee (a break fee) of the following amount:
-(a) if the fixed term is 3 years or less—
-(i) if less than half of the fixed term has expired—6 weeks rent; or
-(ii) in any other case—4 weeks rent;
-(b) if the fixed term is more than 3 years—the amount agreed between the lessor and tenant.
-(2) The lessor agrees that the compensation payable by the tenant for ending a fixed term agreement before the end of the fixed term is limited to the amount of the break fee specified in subclause (1).
-(3) However, the lessor and tenant agree that if, within the defined period after the tenant vacates the premises, the lessor enters into a residential tenancy agreement with a new tenant, the amount payable by the tenant is limited to—
-(a) the amount of the break fee under subclause (1) less the amount of rent payable by the new tenant for the defined period; and
-(b) if the tenant vacates the premises more than 4 weeks before the end of the fixed term—the lessor’s reasonable costs (not exceeding the defined cost limit) of advertising the premises for lease and of giving a right to occupy the premises to another person.
-(4) In this clause:
-defined cost limit means—
-(a) if half or more than half of the fixed term has expired—an amount equal to 2/3 of 1 week’s rent; or
-(b) if less than half of the fixed term has expired—an amount equal to 1 week’s rent.
-defined period means—
-(a) if subclause (1) (a) (i) applies—6 weeks; or
-(b) if subclause (1) (a) (ii) applies—4 weeks; or
-(c) if subclause (1) (b) applies—N weeks.
-N is the number worked out as follows:
-2.2 Posting termination clause
+2.1 Posting termination clause
 Termination because of posting
 102 (1) The tenancy agreement may be terminated—
 (a) if the lessor is posted to the ACT in the course of the lessor’s employment—by the lessor giving the tenant at least 8 weeks notice to vacate the premises; or
@@ -29,7 +9,7 @@ Termination because of posting
 (3) The residential tenancy agreement terminates—
 (a) 8 weeks after the day the notice under subclause (1) is received; or
 (b) if a later date is stated in the notice—on the stated date.
-2.3 Community housing provider termination clause
+2.2 Community housing provider termination clause
 Termination by community housing provider if premises required by owner
 103 (1) For a periodic tenancy, the lessor may give the tenant—
 (a) if the owner of the premises genuinely intends to sell the premises—at least 8 weeks notice to vacate; or
@@ -51,7 +31,7 @@ statutory declaration, development application, quotes from a tradesperson for r
 (6) In this clause:
 immediate relative, of the owner, means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
 interested person, for an owner, means a person who is not an immediate relative of the owner but who has a close family or personal relationship with the owner and who has a reasonable expectation arising from that relationship that the owner would provide accommodation for the person.
-2.4 Public housing termination clauses
+2.3 Public housing termination clauses
 Termination if housing assistance cancelled or withdrawn
 104 (1) This clause applies if—
 (a) the tenant receives housing assistance under an approved housing assistance program in relation to the tenancy (other than a rebate of rent); and
@@ -97,7 +77,7 @@ Termination if tenant is party to 2 tenancies
 (b) the tenancy for the alternate premises has commenced in accordance with the tenancy agreement.
 (2) The lessor may give the tenant at least 1 week’s notice to vacate the first premises.
 (3) The residential tenancy agreement terminates on the day the tenant vacates the premises.
-2.5 Temporary housing assistance termination clause
+2.4 Temporary housing assistance termination clause
 Termination if tenant does not apply for ongoing housing assistance
 106A (1) This clause applies if—
 (a) the housing commissioner provides temporary housing assistance to the tenant under an approved housing assistance program because the tenant is a remaining occupant in the premises after a former tenant has stopped living in the premises because they—
@@ -137,7 +117,7 @@ Termination if housing commissioner decides tenant not eligible for ongoing hous
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
 (b) in the last 2 weeks before the housing commissioner’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
 (4) The residential tenancy agreement terminates on the day the tenant vacates the premises.
-2.6 Subsidised accommodation clauses
+2.5 Subsidised accommodation clauses
 What are subsidised accommodation eligibility requirements?
 108 For this agreement, subsidised accommodation eligibility requirements, in relation to premises under a residential tenancy agreement, means any rule or requirement against which—
 (a) the tenant’s eligibility to live in the premises will be assessable during the tenancy; or
