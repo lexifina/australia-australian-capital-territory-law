@@ -45,6 +45,14 @@ gas network—see the Utilities Act 2000, dictionary.
 gas safety legislation—see section 6G.
 high pressure consumer piping system means a consumer piping system that conveys gas at a pressure greater than 21 kPa.
 inspector means a person appointed under section 40 (Appointment of inspectors).
+medical gas means a substance used for medical purposes and prescribed as a medical gas.
+medical gasfitting work—
+  (a) means the construction, installation, replacement, repair, alteration and maintenance of a medical gas system; and
+  (b) if incidental to the work in paragraph (a)—includes design work and testing.
+medical gas system means a reticulated system of pipes, hoses or lines that carries or controls the supply or removal of medical gas—
+  (a) including related fixtures and fittings and any other thing prescribed by regulation; but
+  (b) not including anything connected to, and extending or situated beyond, a wall outlet or non-interchangeable screw thread fitting.
+medical gas technician work means the commissioning, testing, verification or certification of a medical gas system.
 meter means a meter for measuring the quantity of gas supplied to premises from a gas network.
 natural gas—see the National Gas (ACT) Law, section 2.
 occupier, of premises, includes—
