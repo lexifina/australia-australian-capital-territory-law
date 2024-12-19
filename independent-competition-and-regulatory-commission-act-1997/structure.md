@@ -14,4 +14,11 @@
 ## Part 7 Information
 ## Part 8 Cooperation with commission
 ## Part 9 Enforcement of price directions and arbitration determinations
+## Part 9A Enforcement of civil penalty provisions
+### Division 9A.1 Preliminary
+### Division 9A.2 Enforceable undertakings
+### Division 9A.3 Civil penalty notices
+### Division 9A.4 Enforcement orders
+### Division 9A.5 Injunctions
+### Division 9A.6 Other provisions about liability
 ## Part 10 Miscellaneous

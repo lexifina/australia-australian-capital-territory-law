@@ -1,42 +1,58 @@
 # Dictionary
 (see s 2)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • Act
 • bankrupt or personally insolvent
+• corporation
 • director-general (see s 163)
 • exercise
+• fail
 • function
+• may (see s 146)
+• must (see s 146)
 • National Electricity (ACT) Law
 • National Electricity (ACT) Regulation
 • National Energy Retail Law (ACT)
 • National Energy Retail Regulation (ACT)
 • National Gas (ACT) Law
 • National Gas (ACT) Regulation
+• person (see s 160)
 • subordinate law (see s 8)
-• territory law.
+• territory authority
+• the Territory.
 access agreement means an agreement under an access regime for the granting of access to services provided by means of the infrastructure facilities to which the access regime relates.
 access provider, for part 6 (Arbitration of access regime disputes)—see section 30.
 access regime means a scheme (whether of a legislative or administrative nature, or any other nature) set up for the purpose of implementing the competition principles agreement in relation to third-party access to services provided by means of infrastructure facilities wholly or partly located within the ACT that are wholly or substantially owned, controlled or operated by a single person, being services—
   (a) including the use of an infrastructure facility (for example, a road or railway), the handling or transporting of things (for example, goods or people) or a communications service or similar service; and
   (b) not including the supply of goods, the use of intellectual property or the use of a production process, except to the extent that that supply or use is an integral but subsidiary part of the service.
+adjusted turnover, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.1.
 associate commissioner means a commissioner appointed under schedule 2, section 2.1A.
 chief executive officer means the Chief Executive Officer of the commission.
+civil penalty notice—see section 54E (1).
+civil penalty provision means a provision mentioned in schedule 5, section 5.3, column 2.
 commission means the Independent Competition and Regulatory Commission for the Australian Capital Territory.
 commissioner means a commissioner constituting the commission under section 6 (1).
 competition policy considerations means the considerations mentioned in the competition principles agreement, clause 1 (3) (d) to (j), as set out in schedule 1.
 competition principles agreement means the Competition Principles Agreement made on 11 April 1995 by the Commonwealth, the Territories and the States, as in force for the time being.
 competitive neutrality complaint means a complaint that the conduct of a government business activity is not consistent with the competitive neutrality principles.
 competitive neutrality principles means the competitive neutrality policy and principles under the competition principles agreement, clause 3 (1) and (4) to (7), as set out in schedule 1.
+conduct, for part 9A (Enforcement of civil penalty provisions)—see section 54A.
 confidential information means information given to the commission that was, when it was given—
   (a) stated by the person giving it to be confidential or commercially sensitive; or
   (b) determined to be contrary to the public interest information under the Freedom of Information Act 2016.
+Consumer Protection Code, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.1.
+corresponding offence, in relation to a contravention of a civil penalty provision, for part 9A (Enforcement of civil penalty provisions)—see section 54A.
+court, for part 9A (Enforcement of civil penalty provisions)—see section 54A.
 current reset principles—see section 20B (2).
 declared fee means a fee declared under section 4C.
 determination means an arbitration determination under section 35.
 direction, for part 9 (Enforcement of prior directions and arbitration determinations)— see section 51.
+Electricity Feed-in Code, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.1.
 eligible person, for part 4C (Review of price directions)—see section 24J.
 energy—see the National Energy Retail Law (ACT), section 2 (1).
+enforcement order—see section 54M (1).
+enforcement order proceeding means a proceeding under division 9A.4 (Enforcement orders).
+evidential burden, in relation to a matter, for division 9A.6 (Other provisions about liability)—see section 54Y.
 future reset principles—see section 20B (3).
 government activity means—
   (a) for a regulatory reference into a competitive neutrality complaint—the government business activity that is the subject of the complaint; or
@@ -77,6 +93,7 @@ regulated industry means—
   (b) any other industry declared to be a regulated industry under section 4.
 regulated services means services provided in a regulated industry.
 regulatory reference—see section 19A.
+related corporation, of another corporation, means a related body corporate under the Corporations Act.
 reset principles—see section 20B (1).
 responsible Minister, for an industry or government activity, means the Minister with primary responsibility for regulating the industry or activity.
 revenue cap—see section 20A (1) (b).
@@ -87,6 +104,10 @@ senior commissioner means—
   (b) if the commission is constituted by more than 1 standing commissioner—the commissioner appointed or nominated as senior commissioner under schedule 2, section 2.1AA.
 standing commissioner means a commissioner appointed under schedule 2, section 2.1.
 third party, for part 6 (Arbitration of access regime disputes)—see section 30.
+tier 1 civil penalty, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.2.
+tier 2 civil penalty, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.2.
+tier 3 civil penalty, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.2.
+Transparency and Comparability Code, for schedule 5 (Civil penalty provisions)—see schedule 5, section 5.1.
 unsealed section, of a final report or a special report of an investigation—see section 23 (1) (b).
 utility means—
   (a) a utility within the meaning of the Utilities Act 2000, dictionary; or
