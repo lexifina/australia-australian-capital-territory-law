@@ -92,7 +92,7 @@ national energy retail rules means the National Energy Retail Rules under the Na
 National Gas (ACT) Law means the provisions applying because of the National Gas (ACT) Act 2008, section 8 (Application in the ACT of National Gas Law).
 Note The National Gas (ACT) Act 2008, s 8 applies the National Gas Law set out in the National Gas (South Australia) Act 2008 (SA), schedule as if it were an ACT law called the National Gas (ACT) Law.
 National Gas (ACT) Regulation means the provisions applying because of the National Gas (ACT) Act 2008, section 9 (Application in the ACT of regulations under National Gas Law).
-Note The National Gas (ACT) Act 2008, s 9 applies the regulations under the National Gas (South Australia) Act 2008 (SA), part 3 as an ACT law called the National Gas (ACT) Regulation.
+Note The National Gas (ACT) Act 2008, s 9 applies the regulations under the National Gas (South Australia) Act 2008 (SA), pt 3 as an ACT law called the National Gas (ACT) Regulation.
 national gas rules means the National Gas Rules under the National Gas (ACT) Law.
 national regulatory cost, for part 3A (Energy industry levy)—see section 54E (2).
 national regulatory obligations, for part 3A (Energy industry levy)—see section 54E (1).
@@ -105,7 +105,7 @@ network means any of the following:
   (b) a gas network;
   (c) a sewerage network;
   (d) a water network;
-  (e) a network prescribed for a prescribed utility service under section 15 (Prescribed utility services); or
+  (e) a network prescribed for a prescribed utility service under section 15 (Prescribed utility services).
 network boundary means a boundary worked out under the Utilities (Technical Regulation) Act 2014, section 53 (Network boundary).
 network facility means any part of the infrastructure of a network.
 network operations, for part 7 (Network operations)—see section 103.
