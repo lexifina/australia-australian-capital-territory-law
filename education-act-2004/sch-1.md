@@ -12,7 +12,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity | column 
 9 | 14C (4) | issue approval statement subject to condition | applicant | director-general
 10 | 15A | revoke approval statement | child’s parents | director-general
 11 | 26 (3) | refuse to waive fee | applicant | Minister
-12 | 17H | suspend student from a government school | parent of student | director-general
+12 | 17H | suspend student from a government school | student or parent of student | director-general
 13 | 17P | transfer student from a government school | parent of student | director-general
 14 | 17ZA | exclude student from enrolling at any government school | parent of student | director-general
 15 | 88 | refuse in-principle approval | applicant for in-principle approval | Minister

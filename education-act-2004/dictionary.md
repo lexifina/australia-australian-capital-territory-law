@@ -55,6 +55,8 @@ decision-maker—
   (b) for part 6.1 (Notification and review of decisions)—see section 140.
 delegated principal, for a government school or Catholic system school, for chapter 2A (Suspension, transfer, expulsion and exclusion of students)—see section 17C.
 director of Catholic education means the Director, Catholic Education, Archdiocese of Canberra and Goulburn.
+distance education—see section 127BA.
+distance education policy—see section 127BC.
 educational course means a course of teaching and learning directed toward acquiring a particular area of knowledge and skills.
 education course—see section 9A.
 education provider—see section 9A.
@@ -78,7 +80,7 @@ half-year, for part 3.4 (School boards of government schools)—see section 37.
 home education, in relation to a child, means education conducted by 1 or both of the child’s parents from a home base.
 home education report, for chapter 5 (Home education)—see section 127C.
 independent school means a non-government school that is not a Catholic system school.
-information notice, for chapter 2 (Compulsory education)—see section 11C.
+information notice—see section 11C (1).
 in-principle approval, for registration of a school, means in-principle approval applied for under section 86.
 internally reviewable decision, for part 6.1 (Notification and review of decisions)—see section 140.
 internal reviewer for part 6.1 (Notification and review of decisions)—see section 140.
@@ -112,6 +114,7 @@ prescribed period, for part 3.4 (School boards of government schools)—see sect
 principal, of a non-government school, means—
   (a) a person appointed to the position (including a person appointed to act in the position) of principal of the school; or
   (b) if no one is appointed to the position or the school has no position by that name—the person responsible for the school’s day-to-day management.
+priority enrolment area, for a government school—see section 21A (1).
 proposed campus—see section 86 (2) (a).
 proposed change day—
   (a) for a notifiable change—see section 96 (4) (a); and
@@ -134,6 +137,12 @@ registration review, of a registered school, for chapter 4 (Non-government schoo
 registration review guidelines—see section 117.
 registration standards—see section 84.
 registration standards advisory board means the Registration Standards Advisory Board established under section 75.
+regulated activity—see the Working with Vulnerable People (Background Checking) Act 2011, section 8.
+Examples—regulated activities
+• child education services
+• child accommodation services
+• counselling and support services for children
+• commercial services for children
 regulatory action, against the proprietor of a registered school, for chapter 4 (Non-government schools)—see section 121.
 reviewable decision, for part 6.1 (Notification and review of decisions)—see section 140.
 school means an institution providing 1 or more levels of education from kindergarten to year 12.
@@ -154,7 +163,7 @@ staff, of a school, means the principal and teachers of, and other people employ
 staff member—
   (a) for the school board of a government school, other than a small school, a school-related institution or another school to which section 43 (Composition of school boards of school-related institutions and other schools in special circumstances) applies—see section 41 (Composition of school boards generally); or
   (b) for the school board of a small school, other than a school to which section 43 applies—see section 42 (Composition of school boards of small schools).
-student, for part 3.4 (School boards of government schools)—see section 37.
+student means a person enrolled at an education provider for the purpose of the provider’s education course.
 student movement register—see section 10AA.
 suspend, a student at a school, for chapter 2A (Suspension, transfer, expulsion and exclusion of students)—see section 17C.
 suspension notice—see section 17I.

@@ -7,12 +7,12 @@
 ## Part 2.2 Compulsory education requirements
 ### Division 2.2.1 Enrolment, registration and attendance requirements
 ### Division 2.2.2 Participation requirement
-### Division 2.2.3 Information requirement
 ## Part 2.3 Exemption certificates
 ## Part 2.4 After year 10—training and employment alternatives
 ### Division 2.4.1 Definitions—pt 2.4
 ### Division 2.4.2 Approval to participate in training and employment alternatives
 ### Division 2.4.3 Training and employment alternatives—deemed participation
+## Part 2.4A Information notices
 ## Part 2.5 Compliance notices
 ## Part 2.6 Offences—parents
 # Chapter 2A Suspension, transfer, expulsion and exclusion of students
@@ -59,6 +59,7 @@
 ### Division 4.6.2 Authorised people (non-government)—generally
 ### Division 4.6.3 Powers
 # Chapter 4A School education advisory committee
+# Chapter 4B Distance education
 # Chapter 5 Home education
 ## Part 5.1 General
 ## Part 5.2 Registration—home education
@@ -66,3 +67,4 @@
 ## Part 6.1 Notification and review of decisions
 ## Part 6.1A Information sharing
 ## Part 6.2 Other provisions
+# Chapter 11 Transitional—Education Amendment Act 2024
