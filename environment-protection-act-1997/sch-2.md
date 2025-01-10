@@ -20,23 +20,40 @@ Maximum penalty: 100 penalty units.
 (1) A person must not use, or cause or permit to be used, on any premises, a fuel that contains more than the prescribed proportion of a prescribed constituent unless the activity is authorised by an environmental authorisation.
 (2) A person who contravenes subsection (1) commits an indictable offence.
 Maximum penalty: 100 penalty units.
-## 2.4 Sale of solid fuel-burning equipment
-(1) A person must not sell solid fuel-burning equipment, other than prescribed equipment, for use on residential premises unless—
-  (a) a certificate of compliance under subsection (3) has been issued in relation to equipment of the same type by an entity authorised by the authority, in writing, for this paragraph; and
-  (b) the equipment—
-    (i) complies with AS/NZS 4012, other than the required overall efficiency for the equipment; and
-    (ii) in accordance with the test procedure set out in AS/NZS 4012, has an overall efficiency of not less than the prescribed amount; and
-  (c) the equipment—
-    (i) complies with AS/NZS 4013, other than the required appliance particulate emission factor; and
-    (ii) in accordance with the test procedure set out in AS/NZS 4013, has an appliance particulate emission factor of not more than the prescribed amount.
-(2) A person who, without reasonable excuse, contravenes subsection (1) commits an indictable offence.
+## 2.4 Sale or installation of solid fuel-burning equipment without certification or plate
+## (1) A person commits an offence if—
+## (a) the person sells fuel-burning equipment; and
+## (b) the equipment is solid fuel-burning equipment; and
+## (c) the equipment is sold for use at residential premises; and
+## (d) 1 or more of the requirements mentioned in subsection (3) are not met in relation to the equipment.
 Maximum penalty: 30 penalty units.
-(3) For subsection (1) (a), a certificate of compliance, in relation to solid fuel-burning equipment of a particular type, must state that—
-  (a) in accordance with the test procedure set out in AS/NZS 4012, the equipment has an overall efficiency of not less than the prescribed amount; and
-  (b) in accordance with the test procedure set out in AS/NZS 4013, the equipment has an appliance particulate emission factor of not more than the prescribed amount.
-(4) An authorisation under subsection (1) (a) is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
-(5) The Legislation Act, chapter 7 (Presentation, amendment and disallowance of subordinate laws and disallowable instruments) applies to an authorisation as if each reference in that chapter to 6 sitting days were a reference to 5 sitting days.
+## (2) A person commits an offence if—
+## (a) the person installs fuel-burning equipment on premises; and
+## (b) the equipment is solid fuel-burning equipment; and
+## (c) the premises are residential premises; and
+## (d) 1 or more of the requirements mentioned in subsection (3) are not met in relation to the equipment.
+Maximum penalty: 30 penalty units.
+## (3) For subsections (1) (d) and (2) (d), the following requirements apply in relation to solid fuel-burning equipment:
+## (a) if AS/NZS 4012 applies to the equipment—
+## (i) a certificate of compliance issued by a certifying entity must be in force, certifying—
+## (A) that the equipment, or equipment of the same model and manufacturer, has been tested in accordance with AS/NZS 4012; and
+## (B) the overall average efficiency under AS/NZS 4012 of the tested equipment; and
+## (ii) the certified overall average efficiency of the tested equipment must be equal to, or higher than, the minimum overall average efficiency prescribed by regulation; and
+## (iii) a plate marked in accordance with AS/NZS 4012 must be attached to the equipment; and
+## (b) if AS/NZS 4013 applies to the equipment—
+## (i) a certificate of compliance issued by a certifying entity must be in force, certifying—
+## (A) that the equipment, or equipment of the same model and manufacturer, has been tested in accordance with AS/NZS 4013; and
+## (B) the appliance particulate emission factor under AS/NZS 4013 for the tested equipment; and
+## (ii) the certified appliance particulate emission factor for the tested equipment must be equal to, or less than, the maximum appliance particulate emission factor prescribed by regulation; and
+## (iii) a plate marked in accordance with AS/NZS 4013 must be attached to the equipment.
+## (4) Subsections (1) and (2) do not apply—
+## (a) to solid fuel-burning equipment prescribed by regulation; or
+## (b) if the person has a reasonable excuse.
+Note The defendant has an evidential burden in relation to the matters mentioned in s (4) (see Criminal Code, s 58).
+## (5) The authority may declare an entity to be a certifying entity.
+## (6) A declaration under subsection (5) is a disallowable instrument.
+## (7) In this section:
+certifying entity means an entity declared to be a certifying entity by the authority under subsection (5).
 ## 2.5 Interference with solid fuel-burning equipment or attached plates
 (1) A person must not alter the information on, or remove, a plate attached to solid fuel-burning equipment that contains information required to be marked on a plate in accordance with—
   (a) AS/NZS 4012, section 8; or
