@@ -108,4 +108,3 @@
 # Chapter 9 Information collection and secrecy
 # Chapter 10 Notification and review of MAI commission reviewable decisions
 # Chapter 11 Miscellaneous
-# Chapter 15 Transitional
