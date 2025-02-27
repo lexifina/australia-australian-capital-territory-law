@@ -18,7 +18,7 @@
 ### Division 4.2 Dealing with complaints
 ### Division 4.2A Discrimination complaints to ACAT
 ### Division 4.2B Certain older people service complaints to ACAT
-### Division 4.2C Certain occupancy dispute complaints to ACAT
+### Division 4.2C Occupancy dispute complaints to ACAT
 ### Division 4.2D Conversion practice complaints to ACAT
 ### Division 4.3 Conciliation of complaints
 ### Division 4.4 Consideration of complaints
@@ -31,3 +31,4 @@
 ## Part 5A Child safe standards
 ## Part 6 Miscellaneous
 ## Part 8 Transitional—Human Rights (Complaints) Legislation Amendment Act 2023
+## Part 9 Transitional—Justice and Community Safety Legislation Amendment Act 2025

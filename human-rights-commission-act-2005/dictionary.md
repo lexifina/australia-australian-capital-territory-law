@@ -100,19 +100,7 @@ occupancy dispute complaint—see section 42 (1) (k).
 occupancy dispute referral statement—see section 88B.
 older people service complaint means a complaint about a service for older people that may be made, or is made, under section 41.
 operator, of a retirement village—see the Retirement Villages Act 2012, section 7.
-party, to the conciliation of a complaint—the complainant and the person complained about are each a party to the conciliation (see section 57 (1)).
-person complained about—
-  (a) for division 4.2B (Certain older people service complaints to ACAT)—see section 53F; and
-  (b) for division 4.2C (Certain occupancy dispute complaints to ACAT)—see section 53P; and
-  (c) for division 4.2D (Conversion practice complaints to ACAT)—see section 53Z; and
-  (d) in relation to a human rights complaint—
-    (i) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (a) to (c)—the director-general of—
-      (A) the administrative unit; or
-      (B) the administrative unit responsible for the provision of the Act that establishes the territory authority or territory instrumentality; or
-    (ii) if the public authority complained about is a public authority mentioned in the Human Rights Act 2004, section 40 (1) (d) or (g)—the public authority; or
-    (iii) if the public authority complained about is a public employee who is a statutory office-holder—the statutory office-holder; or
-    (iv) if the public authority complained about is any other public employee—the director-general of the administrative unit in which the public employee is employed; or
-    (v) if the public authority complained about is an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D (Other entities may choose to be subject to obligations of public authorities)—the entity.
+party, to the conciliation of a complaint—the complainant and the respondent are each a party to the conciliation (see section 57 (1)).
 prescribed service—see section 6A.
 president, of the commission—see section 12 (2).
 prohibition or condition order, for a health care worker, for division 5.3 (Health care worker code of conduct)—see section 94A.
@@ -144,7 +132,24 @@ relevant board means—
   (a) for a health practitioner regulated under the Health Practitioner Regulation National Law (ACT)—the national board for the practitioner under that Act; and
   (b) for a veterinary practitioner—the veterinary practitioners board.
 relevant professional body, for a health care worker, for division 5.3 (Health care worker code of conduct)—see section 94A.
-retirement village complaint, for division 4.2B (Certain older people service complaints to ACAT)—see section 53G.
+respondent, complained about, means—
+  (a) for a human rights complaint—if the public authority complained about is—
+    (i) an administrative unit, or a public servant employed in or appointed to an office in the administrative unit—the director-general of the administrative unit; or
+    (ii) a territory authority—the director-general of the administrative unit responsible for the provision of the Act that establishes the authority; or
+    (iii) a territory instrumentality, or a public employee employed by the instrumentality—the director-general of the administrative unit responsible for the provision of the Act that establishes the instrumentality; or
+    (iv) a Minister—the Minister; or
+    (v) a statutory office-holder, or public sector member employed by or providing services for the statutory office-holder—the statutory office holder; or
+    (vi) an entity mentioned in the Human Rights Act 2004, section 40 (1) (g)—the entity; or
+    (vii) an entity for whom a declaration is in force under the Human Rights Act 2004, section 40D—the entity; and
+  (b) in relation to any other complaint made under this Act—the person or entity complained about.
+Examples—person or entity complained about
+• a grantor under an occupancy agreement
+• a justice agency
+• a provider of a sexuality or gender identity conversion practice
+• a record keeper under the Health Records (Privacy and Access) Act 1997
+• a service provider
+• an operator of a retirement village
+retirement village complaint—see section 53G.
 retirement village referral statement—see section 88A.
 reviewable decision, for division 5.4 (Notification and review of decisions)—see section 94S.
 service for children and young people—see section 8A.
