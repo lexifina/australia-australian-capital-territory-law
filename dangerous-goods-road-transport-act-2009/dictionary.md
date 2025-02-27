@@ -88,6 +88,7 @@ jurisdiction means the Commonwealth, a State, an external territory or internal 
 light rail—see the Road Transport (General) Act 1999, dictionary.
 loader, of goods for transport—see section 13.
 loads, goods for transport—see section 13.
+Ministerial Council means a body (however described) that consists of the Minister of the Commonwealth, and the Minister of each State and Territory, who is responsible, or principally responsible, for matters relating to transport.
 motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 occupier, of premises or a vehicle, for part 3.5 (Enforcement)—see section 68.
 offence, for part 3.5 (Enforcement)—see section 68.
