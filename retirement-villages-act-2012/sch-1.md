@@ -17,7 +17,7 @@ vote includes vote by proxy.
 ## (2) A regulation may require a vote in relation to a measure or action of a particular class or kind to be taken by means of a written ballot.
 ## 1.4 Result of vote
 ## (1) The operator of a retirement village must accept as the residents’ decision in relation to a measure or action that requires their consent the decision that is reported to the operator by—
-## (a) an officer of the residents committee; or
+  (a) a person who holds an office on the residents committee for the village; or
 ## (b) if there is no residents committee for the village—a resident elected in accordance with section 1.3 as the representative of the residents of the village in relation to the measure or action concerned.
 ## (2) A regulation may make provision in relation to the election of a representative of residents under subsection (1) (b).
 ## Part 1.3 Consent requiring special resolution
