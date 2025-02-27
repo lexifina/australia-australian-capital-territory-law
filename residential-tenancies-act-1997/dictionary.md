@@ -78,7 +78,7 @@ minimum housing standards—see section 19A (1).
 minor modification, to premises under a residential tenancy agreement, for part 5AA—see section 71AA.
 mobile home means a motor vehicle, caravan or other trailer, or other registrable vehicle under the Road Transport (Vehicle Registration) Act 1999 that is used as a home.
 mobile home park means land lawfully used for the purpose of accommodating mobile homes or caravans, and includes a caravan park or camping ground.
-notice of continuing tenancy, for division 4.3A (Termination initiated by tenant—termination for family violence)—see section 46F (2).
+notice of continuing tenancy, for division 4.3A (Termination initiated by tenant—termination for family violence)—see section 46F (2) (a).
 occupancy agreement—see section 71C.
 occupancy dispute—see section 73.
 occupancy principles—see section 71EA.
