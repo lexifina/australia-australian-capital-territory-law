@@ -13,10 +13,13 @@ administrator means the administrator of the national health funding pool appoin
 Auditor-General Act means the Auditor-General Act 1996.
 authorised deposit-taking institution means an authorised deposit-taking institution under the Banking Act 1959 (Cwlth).
 Chief Minister means the Chief Minister for the ACT.
-COAG means the Council of Australian Governments.
 directorate banking account—see the Financial Management Act, dictionary.
 director-general means the person engaged under the Public Sector Management Act 1994, section 31 (2) to exercise the functions of director-general in the administrative unit of which the ACT local hospital network directorate is part.
 Financial Management Act means the Financial Management Act 1996.
+First Ministers’ Council means a body (however described) that consists only of, or that includes, the following:
+  (a) the Prime Minister;
+  (b) the Premiers of each State;
+  (c) the Chief Ministers of the Australian Capital Territory and Northern Territory.
 function includes a power, authority or duty.
 health service—
   (a) means a health service defined in the Health Act 1993, section 5; and
@@ -24,10 +27,11 @@ health service—
 Legislative Assembly means the Legislative Assembly for the ACT.
 Note The Legislative Assembly is established by the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
 local hospital network means an organisation that is a local hospital network (however described) for the purposes of the national health reform agreement.
+Ministerial Council means a body (however described) that consists of the Minister of the Commonwealth, and the Minister of each State and Territory, who is responsible, or principally responsible, for matters relating to health.
 national health funding pool means the combined state pool accounts for each State.
-national health reform agreement means the National Health Reform Agreement between the Commonwealth and the States that was agreed to by COAG on 2 August 2011, as amended from time to time.
+national health reform agreement means the National Health Reform Agreement between the Commonwealth and the States that was agreed to by the Council of Australian Governments on 2 August 2011, as amended from time to time.
+Note On 29 May 2020, National Cabinet agreed to the cessation of the Council of Australian Governments.
 responsible Minister for a jurisdiction means the relevant Minister with portfolio responsibility for the administration of the provision of this Act in which the expression occurs (or of the corresponding provision of the law of the Commonwealth and the other States).
-standing council on health means (subject to section 4 (1) (Standing council on health)) the Ministerial Council by that name or, if there is no such Ministerial Council, the standing Ministerial Council established or recognised by COAG whose members include all Ministers in Australia having portfolio responsibility for health.
 State includes the ACT and the Northern Territory.
 state managed fund of a State means a bank account or fund established by the State for the purposes of health funding under the national health reform agreement that is required to be undertaken in the State through a state managed fund.
 state pool account of a State means the bank account established by the State under part 3 (National health funding pool) or under the corresponding provisions of the law of another State.
