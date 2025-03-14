@@ -1,4 +1,5 @@
 ## Part 1 Preliminary
+## Part 3 Rating entities
 ## Part 5 Rectification orders, stop work orders and undertakings
 ### Division 5.1 Preliminary
 ### Division 5.2 Rectification orders
