@@ -167,3 +167,4 @@ termination action, against a person, means action—
   (b) ending the person’s appointment; or
   (c) terminating the person’s contract for services.
 warrant, for part 3.5 (Commission—powers of entry, search and seizure)—see section 116.
+wellbeing policy—see section 295A (1).

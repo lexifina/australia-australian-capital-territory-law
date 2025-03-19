@@ -55,4 +55,5 @@
 ## Part 7.1 Definitions—ch 7
 ## Part 7.2 Protection for people who report corruption
 ## Part 7.3 Detrimental action against a person
+## Part 7.4 Wellbeing of people involved in matters before the commission
 # Chapter 8 Miscellaneous
