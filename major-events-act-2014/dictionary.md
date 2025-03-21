@@ -36,7 +36,7 @@ major event venue, for a major event, means—
 non-returnable item, for division 7.1 (Surrendered or confiscated prohibited items)—see section 60.
 original sale price, of a ticket, for part 5 (Protection of ticketing arrangements)—see section 38.
 premises, for division 6.2 (Powers of authorised people)—see section 45.
-prohibited item, for a major event or important sporting event—see section 12.
+prohibited item, for a major event or important sporting event—see section 12 (1).
 returnable item, for division 7.1 (Surrendered or confiscated prohibited items)—see section 60.
 ticket, to a major event, for part 5 (Protection of ticketing arrangements)—see section 38.
 venue manager, in relation to an event venue, means the person responsible (whether wholly or in part) for the management and use of the venue.
