@@ -238,6 +238,7 @@ storage permit—see section 127L.
 storage rules, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored authorisation, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
 stored gaming machine, for division 6A.7 (Storage of authorisations and gaming machines)—see section 127M.
+surrendered authorisation, for division 2A.2 (Voluntary surrenders)—see section 10A.
 surrender obligation, for division 2A.3 (Compulsory surrender)—see section 10I (1).
 tax period, for part 11 (Finance) and part 12 (Community contributions)—see section 157A.
 technical amendment—see section 37B (1).
@@ -247,4 +248,7 @@ undertaking, for part 3A (Enforceable undertakings)—see section 55A.
 undeveloped area means an area of land that is, on the day the Gaming Machine Amendment Act 2024, section 10 commences—
   (a) unleased territory land; or
   (b) described in a rural lease.
+voluntary surrender agreement, for division 2A.2 (Voluntary surrenders)—see section 10C.
+voluntary surrender day, for a licensee, for division 2A.2 (Voluntary surrenders)—see section 10A.
+voluntary surrender notice, for division 2A.2 (Voluntary surrenders)—see section 10B.
 warning notice, for an associated organisation, for part 9 (Club administration)—see section 147B.
