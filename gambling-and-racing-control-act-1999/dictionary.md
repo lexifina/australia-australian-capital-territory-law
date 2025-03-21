@@ -45,8 +45,6 @@ inquiry means an inquiry conducted under part 5.
 interim purpose, for a storage permit, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Gaming Machine Act 2004, dictionary.
 licence, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see section 51.
 maximum number, of authorisations, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see section 51.
-permit, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Gaming Machine Act 2004, dictionary.
-quarantine permit, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Gaming Machine Act 2004, dictionary.
 racing means racing conducted for the purpose of betting.
 reciprocating jurisdiction means a jurisdiction, being the Commonwealth, a State, another Territory or New Zealand, under a law of which an officer of the jurisdiction is authorised to give to the commission, for the purposes of the administration of a gaming law, information within the knowledge of the officer.
 storage permit, for part 6B (Licences, authorisation certificates and authorisations—register and replacement copies)—see the Gaming Machine Act 2004, section 127L.
