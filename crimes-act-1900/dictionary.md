@@ -142,7 +142,7 @@ property—
   (a) for division 6.2A (Money laundering and organised fraud)—see section 114A; and
   (b) for division 6.3 (Criminal damage to property)—see section 115.
 public place—
-  (a) for part 9 (Exclusion powers)—see section 174; or
+  (a) for part 9 (Exclusion powers)—see section 174; and
   (b) for division 10.4A (Crime scene powers)—see section 210B.
 railway includes light rail.
 recently used conveyance, in relation to a search of a person, for part 10 (Criminal investigation)—see section 185.
