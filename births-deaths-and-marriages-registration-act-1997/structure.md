@@ -10,6 +10,7 @@
 ## Part 4 Change of sex
 ### Division 4.1 People with birth registered in the ACT
 ### Division 4.2 ACT residents with birth registered elsewhere
+### Division 4.3 Nominating sex in applications under this part
 ## Part 4A ACAT leave for certain applications
 ## Part 5 Registration of marriages
 ## Part 5A Civil unions
