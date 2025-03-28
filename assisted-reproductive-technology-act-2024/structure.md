@@ -7,6 +7,11 @@
 ### Division 4.3 Use of gametes and embryos
 ### Division 4.4 Storage and transfer of gametes and embryos
 ### Division 4.5 Record keeping requirements
+## Part 5 Donor register
+### Division 5.1 Preliminary
+### Division 5.2 Information in donor register
+### Division 5.3 Measures to ensure accuracy of information
+### Division 5.4 Disclosure of information in donor register
 ## Part 6 Pre-commencement records
 ### Division 6.1 Preliminary
 ### Division 6.2 Retention of pre-commencement records
