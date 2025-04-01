@@ -3,7 +3,7 @@
 ## 4.1 What is the security industry?
 ## (1) The security industry is—
 ## (a) in relation to the ACT—the industry in which security activities are undertaken by people licensed to undertake the activities under the Security Industry Act 2003; and
-## (b) in relation to a reciprocating State—the security industry within the meaning of the corresponding law of the State.
+## (b) in relation to a reciprocating State—an industry of a kind mentioned in paragraph (a) to which a corresponding law of the State applies.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 ## (2) In this section—
 security activity means an activity within the meaning of the Security Industry Act 2003, section 7 (1) (a) to (h).
@@ -78,7 +78,7 @@ prescribed period, for long service leave accrued by a registered employee for t
 ## (2) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave worked out in accordance with the long service leave formula.
 ## (3) In this section:
 prescribed retiring age—
-  (a) for a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
+  (a) for a registered worker who has been granted a service pension under the Veterans' Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 4.10 Payments for leave—security industry
 (1) A registered employee for the security industry who has been granted long service leave under section 4.8, or a registered voluntary member for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.

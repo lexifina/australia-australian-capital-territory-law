@@ -14,3 +14,4 @@
 ### Division 8A.2 Finances
 ## Part 9 Notification and review of decisions
 ## Part 10 Miscellaneous
+## Part 12 Transitional—contract cleaning industry

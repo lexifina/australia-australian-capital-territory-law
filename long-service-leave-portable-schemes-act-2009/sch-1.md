@@ -15,7 +15,7 @@
 ## (x) works for the drainage of land;
 ## (xi) works for the storage of liquids (other than water) or gases;
 ## (xii) works for the transmission of electric power or wireless or telegraphic communications; and
-## (b) in relation to a reciprocating State—the building and construction industry within the meaning of the corresponding law of the State.
+## (b) in relation to a reciprocating State—an industry of a kind mentioned in paragraph (a) to which a corresponding law of the State applies.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 ## (2) Also, the building and construction industry, in relation to the ACT, includes the following undertaken in relation to an activity mentioned in subsection (1) (a):
 ## (a) pile driving and site preparation;
@@ -97,7 +97,7 @@ prescribed period, for long service leave accrued by a registered employee for t
 ## (3) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the amount of long service leave credited to the worker in the workers register.
 ## (4) In this section:
 prescribed retiring age means—
-  (a) in relation to a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
+  (a) in relation to a registered worker who has been granted a service pension under the Veterans' Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 1.9 Payment for leave—building and construction industry
 ## (1) A registered employee for the building and construction industry who has been granted long service leave under section 1.7, or a registered voluntary member for the industry who is entitled to long service leave, may apply to the authority for payment for the leave.

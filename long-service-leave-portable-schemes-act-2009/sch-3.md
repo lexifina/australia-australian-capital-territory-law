@@ -11,8 +11,9 @@
       (B) residential corrective services for young offenders;
     (vi) the industry of providing community service advocacy services;
     (vii) the industry of providing non-residential care welfare services (including fund-raising services for welfare services) not included in subparagraphs (i) to (vi); and
-## (b) in relation to a reciprocating State—the community sector industry within the meaning of the corresponding law of the State.
-Note The definition of community sector industry was broadened to include residential aged care services and community aged care services with effect from 1 July 2016.
+## (b) in relation to a reciprocating State—an industry of a kind mentioned in paragraph (a) to which a corresponding law of the State applies.
+Note 1 State includes the Northern Territory (see Legislation Act, dict, pt 1).
+Note 2 The definition of community sector industry was broadened to include residential aged care services and community aged care services with effect from 1 July 2016.
 (2) In this section:
 education and care service means an approved education and care service under the Education and Care Services National Law (ACT), section 5 (1).
 Note The Education and Care Services National Law (ACT) Act 2011, s 6 applies the Education and Care Services National Law set out in the Education and Care Services National Law Act 2010 (Vic), schedule as if it were an ACT law called the Education and Care Services National Law (ACT).
@@ -86,7 +87,7 @@ prescribed period, for long service leave accrued by a registered employee for t
 ## (2) If the governing board is satisfied that this section applies to the worker, the worker is entitled to payment instead of long service leave for the number of weeks long service leave worked out in accordance with the long service leave formula.
 ## (3) In this section:
 prescribed retiring age means—
-  (a) for a registered worker who has been granted a service pension under the Veterans Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
+  (a) for a registered worker who has been granted a service pension under the Veterans' Entitlements Act 1986 (Cwlth), section 38 (Eligibility for partner service pension)—the age at which the worker first receives payment of the service pension; or
   (b) in any other case—55 years.
 ## 3.10 Payments for leave—community sector industry
 (1) A registered employee for the community sector industry who has been granted long service leave under section 3.8, or a registered voluntary member who for the industry is entitled to long service leave, may apply to the authority for payment for the leave.
