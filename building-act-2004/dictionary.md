@@ -117,7 +117,7 @@ parcel, of land, includes land under a land sublease.
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
-recognised standard means a document declared to be a recognised standard under section 139A (1).
+recognised standard means a document declared to be a recognised standard under section 139A (2).
 regulated swimming pool—see section 83B (1).
 related building activity, for part 6A (Residential building disputes)—see section 127A.
 residential building—
