@@ -15,6 +15,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • State
 • the Territory.
 approved, for part 4 (Regulation of gas appliances)—see section 18.
+AS 2896 means AS 2896 (Medical gas systems—Installation and testing of non-flammable medical gas pipeline systems).
 AS/NZS 1375 means AS/NZS 1375 (Industrial fuel-fired appliances).
 AS/NZS 3814 means AS/NZS 3814 (Industrial and commercial gas-fired appliances).
 AS/NZS 5601 means AS/NZS 5601 (Gas installations).
