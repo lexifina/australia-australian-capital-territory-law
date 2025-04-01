@@ -49,6 +49,7 @@ corresponding law means—
 criminal intelligence, for division 5A.2 (Criminal intelligence)—see section 69.
 demerit ground for occupational discipline, for part 8 (Demerit points system)—see section 89.
 demerit points register, for part 8 (Demerit points system)—see section 89.
+director—see the Corporations Act, section 9AC.
 disciplinary incident, for part 8 (Demerit points system)—see section 89.
 drainer—see section 10.
 electrical wiring service—see section 11 (2).
