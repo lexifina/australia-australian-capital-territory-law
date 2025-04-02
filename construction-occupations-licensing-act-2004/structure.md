@@ -29,4 +29,3 @@
 ## Part 11AB Energy efficiency rating statements
 ## Part 11A Notification and review of decisions
 ## Part 12 Miscellaneous
-## Part 24 Validation—gas appliance workers
