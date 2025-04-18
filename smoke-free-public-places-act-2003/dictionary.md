@@ -32,7 +32,6 @@ manager, in relation to a declared smoke-free public place or event, means the p
 occupier, of premises or a part of premises (including an enclosed public place), means a person having the management or control, or otherwise being in charge, of the premises or part of the premises.
 outdoor area, of premises, means any part of the premises that is not an enclosed public place.
 outdoor eating or drinking place—see section 9A.
-personal vaporiser—see the Tobacco and Other Smoking Products Act 1927, section 3B.
 public place means a place to which the public or a section of the public has access, whether—
   (a) by payment, membership of a body or otherwise; or
   (b) by entitlement or permission.
@@ -40,5 +39,4 @@ Examples
 The places, or parts of the places, mentioned in the examples for the definition of enclosed public place may be public places.
 smoke—see section 5B.
 smoking management plan—see section 9J.
-smoking product—see the Tobacco and Other Smoking Products Act 1927, section 3A.
 underage function—see section 9K.
