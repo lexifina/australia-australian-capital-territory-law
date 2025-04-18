@@ -52,7 +52,7 @@ licensee—
 occupier, of premises—
   (a) for this Act generally—means a person having the management or control, or otherwise being in charge, of the premises; and
   (b) for part 6 (Enforcement)—see section 31.
-offence for part 6 (Enforcement)—see section 31.
+offence, for part 6 (Enforcement)—see section 31.
 personal vaporiser—see section 3B.
 personal vaporiser related product—see section 3B.
 point of sale means a place, identified in accordance with the regulations (if any), where smoking products are sold within a retail outlet or wholesale outlet.
@@ -64,6 +64,7 @@ product line means a kind of smoking product distinguishable from other kinds by
   (c) nicotine or tar content;
   (d) the number of items in the immediate package in which it is sold;
   (e) for cigars—by the fact that the cigars of the type in question are sold individually (whether or not cigars of the same type are also sold, packaged in multiples, in a different product line).
+prohibited smoking product—see section 3D.
 purchase assistant, for part 6A (Tobacco compliance testing)—see section 42B (1) (a).
 retail outlet means premises where smoking products are available for sale by retail.
 retail tobacconist’s licence, for part 7 (Licences)—see section 43.
@@ -74,10 +75,12 @@ smoking product—see section 3A.
 smoking product package means a package that—
   (a) is of a kind commonly used for smoking products; or
   (b) includes a symbol, design or words that indicate that the package contains a smoking product, or a particular product line of a smoking product.
+therapeutic vaping good—see section 3C.
 tobacco licence, for part 7 (Licences)—see section 43.
 tobacco product means tobacco, or something containing tobacco, prepared for human consumption (including a cigarette or cigar).
 tobacco retailing, for part 7 (Licences)—see section 44.
 tobacco wholesaling, for part 7 (Licences)—see section 45.
+vaping good—see section 3C.
 vending machine means a machine or device from which smoking products can be obtained, including by 1 or more of the following:
   (a) electronic funds transfer;
   (b) inserting money, a token or another object.
