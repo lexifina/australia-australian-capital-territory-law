@@ -126,6 +126,7 @@ motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 national environment protection measure, for division 9.5 (Assessment and remediation)—see section 91A.
 offence, for part 11 (Powers of authorised officers)—see section 95.
 paintball marker, for schedule 1 (Activities requiring environmental authorisation)—see schedule 1, section 1.1.
+pest, for schedule 1 (Activities requiring environmental authorisation)—see the Biosecurity Act 2023, section 11.
 pollutant means—
   (a) a gas, liquid or solid; or
   (b) dust, fumes, odour or smoke; or

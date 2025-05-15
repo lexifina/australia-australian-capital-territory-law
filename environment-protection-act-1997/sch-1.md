@@ -39,6 +39,7 @@ motor racing event means—
   (b) a motor vehicle reliability trial or speed test, including a trial or test for which the vehicles have been exempted under the road transport legislation from the provisions of that legislation about attaching silencers to the exhaust pipes of motor vehicles, rules of the road and speed limits during the trial or test.
 paintball marker means a device that shoots capsules of paint, or a similar substance, for the game of paintball.
 Note The Macquarie Dictionary, 4th ed, defines paintball as a game in which players participate in mock military skirmishes using guns which fire capsules of paint instead of bullets.
+pest—see the Biosecurity Act 2023, section 11.
 receiving waters means ground water or water in a waterway.
 regulated waste—see section 1.1A.
 road transport legislation—see the Road Transport (General) Act 1999, section 6.
