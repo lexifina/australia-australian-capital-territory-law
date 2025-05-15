@@ -76,6 +76,7 @@ damage—
   (a) a tree, for division 6.1.3 (Native plants)—see section 139; and
   (b) to land, for part 9.5 (Reserves—offences about damaging land)—see section 243.
 data deficient species means a species included in the data deficient category on the protected native species list.
+declared pest—see the Biosecurity Act 2023, section 11 (2).
 development, for chapter 13 (Land development applications)—see section 315.
 draft action plan, for a relevant species, relevant ecological community or key threatening process, for part 4.5 (Action plans)—see section 100.
 draft controlled native species management plan, for a controlled native species, for chapter 7 (Controlled native species management plans)—see section 159.
@@ -169,8 +170,6 @@ organism includes—
   (c) an organism that has died.
 participating State, for part 4.4 (Including, transferring and omitting items in list)—see section 80.
 personal information notice—see section 267.
-pest animal—see the Pest Plants and Animals Act 2005, dictionary.
-pest plant—see the Pest Plants and Animals Act 2005, dictionary.
 planning and development management objectives, for an area of public land reserved for a particular purpose, means the management objectives under the Planning Act 2023, section 387.
 Note The management objectives are stated in the following:
 • the Planning Act 2023, sch 3
