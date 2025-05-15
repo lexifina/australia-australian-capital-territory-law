@@ -94,7 +94,6 @@ person in charge, in relation to an animal, means—
   (b) a person having the custody or control of the animal; or
   (c) if a person mentioned in paragraph (b) is acting as the employee or agent of someone else—the other person; or
   (d) if the animal is confined in a saleyard—the occupier of the saleyard.
-pest does not include a domestic animal or native animal.
 pet business, for part 3A (Pet businesses)—see section 24E.
 pet business licence means a licence issued under section 24G (1) (a).
 pet shop, for part 3A (Pet businesses)—see section 24E.
