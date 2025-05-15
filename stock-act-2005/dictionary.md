@@ -11,7 +11,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • home address
 • public servant
 • reviewable decision notice
-• State.
+• State
+• veterinary practitioner.
 at premises includes in or on the premises.
 authorised person means an authorised person under section 46.
 bovine means any animal of the bovine group of animals within the bovidae family.
@@ -21,6 +22,8 @@ Examples of bovine
 3 buffalo (genus Bubalus bubalis)
 4 Hereford (genus Bos taurus)
 Note A reference to an animal of a particular kind is a reference to an animal of that kind irrespective of age or sex (see s 67).
+camelid means a member of the family Camelidae other than a vicuna or a guanaco.
+Note Camelidae includes camels, alpacas and llamas.
 connected, for part 6 (Enforcement)—see section 45.
 earmark means a shape cut into the ear of an animal.
 engage in conduct means—
@@ -31,10 +34,11 @@ Note A reference to an animal of a particular kind is a reference to an animal o
 holding means any parcel or parcels of land worked as a single property, whether held under the same or different titles.
 impound, for part 5 (Impounding stock)—see section 32.
 impoundment area, for part 5 (Impounding stock)—see section 32.
-large stock means an equine, bovine, alpaca, or any other animal declared by regulation to be large stock.
+large stock means an equine, bovine, camelid or any other animal declared by regulation to be large stock.
 maintenance fee, for impounded stock, means the fee determined under section 68 for maintaining the stock.
 mark means an earmark or permanent brand.
 minimum stock levy—see section 7A.
+NLIS requirements, for part 4 (Travelling stock)—see section 26A.
 occupier, of premises, for part 6 (Enforcement)—see section 45.
 offence, for part 6 (Enforcement)—see section 45.
 owner, of stock, includes a person who is in control of the stock for the owner.
