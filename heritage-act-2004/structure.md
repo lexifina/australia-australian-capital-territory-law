@@ -25,6 +25,6 @@
 ### Division 14.5 Return and forfeiture of things seized
 ### Division 14.6 Miscellaneous
 ## Part 15 Heritage agreements
-## Part 16 Heritage and public authorities
+## Part 16 Heritage and public sector bodies
 ## Part 17 Notification and review of decisions
 ## Part 18 Miscellaneous

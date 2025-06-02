@@ -15,6 +15,7 @@ director-general (see s 163)
 • Minister (see s 162)
 • national capital authority
 • notification
+• public sector body
 • reviewable decision notice
 • territory land
 • territory planning authority
@@ -61,9 +62,9 @@ heritage decision means a decision under—
   (c) section 49 (Decision about cancellation proposal).
 heritage direction—see section 62.
 heritage guidelines—see section 25.
-heritage object, for which a public authority is responsible—see section 107.
+heritage object, for which a public sector body is responsible—see section 107.
 heritage order—see section 69.
-heritage place, for which a public authority is responsible—see section 107.
+heritage place, for which a public sector body is responsible—see section 107.
 heritage report—see section 108.
 heritage register—see section 20.
 heritage significance—see section 10.
@@ -95,7 +96,6 @@ Example—precinct
 2 a powerhouse with adjoining railway track and rail yard
 3 a homestead with associated structures, sheds and surrounding property
 premises includes land.
-public authority, for part 16 (Heritage and public authorities)—see section 106.
 public consultation period—
   (a) for division 6.2 (Registration)—see section 37; and
   (b) for part 7 (Cancellation of registration)—see section 46.
