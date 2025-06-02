@@ -2,6 +2,7 @@
 (see s 3)
 Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
+• ACAT
 • director-general (see s 163)
 • function.
 advisory council means the ACT Advisory Council on Gene Technology established under section 11.
@@ -21,4 +22,5 @@ offence, for part 3 (Enforcement)—see section 16.
 offending crop—see section 12 (2).
 plant includes the seed or any part of a plant, whether living or dead and whether attached to a plant or not.
 premises includes a building of any description, or a part of a building, a vehicle, and land (whether built on or not).
+reviewable decision, for part 3A (Notification and review of decisions)—see section 32A.
 tested plant—see section 12 (1).
