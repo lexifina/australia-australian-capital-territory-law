@@ -11,14 +11,13 @@ Note 3 The definitions in this dictionary have equivalent definitions in the Com
 accredited organisation means an organisation accredited under division 7.3.
 aggravated offence—see section 38 (1).
 Commonwealth Act means the Gene Technology Act 2000 (Cwlth).
+Commonwealth administrative review tribunal means the Administrative Review Tribunal established under the Administrative Review Tribunal Act 2024 (Cwlth), section 8.
 Commonwealth authority means—
   (a) a corporation established for a public purpose under a Commonwealth Act; or
   (b) a company in which a controlling interest is held by any 1 of the following, or by 2 or more of the following together:
     (i) the Commonwealth;
     (ii) a corporation mentioned in paragraph (a);
     (iii) an entity mentioned in subparagraph (i) or (ii).
-Commonwealth administrative appeals tribunal means the Administrative Appeals Tribunal established under the Commonwealth Administrative Appeals Tribunal Act.
-Commonwealth Administrative Appeals Tribunal Act means the Administrative Appeals Tribunal Act 1975 (Cwlth).
 Commonwealth Environment Minister means the Commonwealth Minister responsible for environment and conservation.
 confidential commercial information means information declared under section 185 to be confidential commercial information.
 containment level, for a facility, means the degree of physical confinement of GMOs provided by the facility, having regard to the design of the facility, the equipment located or installed in the facility and the procedures generally used within the facility.
