@@ -14,7 +14,7 @@ chimeric embryo means—
   (a) a human embryo into which a cell, or any component part of a cell, of an animal has been introduced; or
   (b) anything declared under the regulations to be a chimeric embryo.
 Commonwealth Act means the Research Involving Human Embryos Act 2002 (Cwlth).
-Commonwealth administrative appeals tribunal—see section 40.
+Commonwealth administrative review tribunal—see section 40.
 confidential commercial information—see section 23.
 decision, for division 3.6 (Review provisions)—see section 40.
 disclose information, for part 3 (Regulation of the use of excess ART embryos, other embryos and human eggs)—see section 23.
