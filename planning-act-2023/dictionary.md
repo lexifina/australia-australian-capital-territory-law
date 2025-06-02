@@ -312,7 +312,6 @@ territory entity means—
   (b) a territory instrumentality; or
   (c) a territory-owned corporation.
 territory plan means the territory plan under section 45.
-territory plan map—see section 48 (1) (a).
 territory planning authority means the Territory Planning Authority established under section 16.
 territory priority project—see section 216.
 territory priority project declaration—see section 218 (1).
