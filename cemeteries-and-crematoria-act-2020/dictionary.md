@@ -70,7 +70,7 @@ licensee perpetual care trust—see section 104 (1).
 licensee receipt, for a facility, means an amount received by the licensee of the facility for—
   (a) giving a right of burial or right of interment at the facility; or
   (b) the burial or cremation of human remains at the facility; or
-  (c) the interment or disinterment of cremated remains at the facility; or
+  (c) the interment of cremated remains at the facility; or
   (d) the memorialisation of a deceased person at the facility.
 medical referee means a person appointed under section 41.
 occupier, of premises, for part 6 (Enforcement)—see section 82.
