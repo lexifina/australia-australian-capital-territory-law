@@ -69,7 +69,7 @@ excluded offence means—
     (i) section 37 (Return of special licences);
     (ii) s 84AO (Breach of cat containment requirements);
     (iii) section 106E (Assistance animal allowed in public places and premises);
-    (iv) section 142 (Dishonoured cheques and credit transactions).
+    (iv) section 142 (Dishonoured etc credit card transactions).
 gaming law—see the Gambling and Racing Control Act 1999, dictionary.
 greyhound racing—see section 39A.
 harass—
