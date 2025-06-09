@@ -9,7 +9,7 @@
 ### Division 3.5 Suitability and prerequisites for issuing licences
 ### Division 3.6 Decisions on applications
 ### Division 3.7 Form and term of licences
-### Division 3.7A Cancellation and immediate suspension of licence by commissioner
+### Division 3.7A Cancellation, suspension and surrender of licence
 ### Division 3.8 Occupational discipline—licensees
 ### Division 3.9 Register
 ### Division 3.10 Notification and review of decisions
