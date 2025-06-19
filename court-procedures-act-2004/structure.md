@@ -21,5 +21,6 @@
 ## Part 8 Supreme Court—criminal proceedings
 ### Division 8.1 Supreme Court criminal proceedings—preliminary
 ### Division 8.2 Trial on indictment
+### Division 8.2A Pre-trial disclosure—general
 ### Division 8.3 Pre-trial disclosure of expert evidence
 ## Part 9 Miscellaneous
