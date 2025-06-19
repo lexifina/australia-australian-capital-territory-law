@@ -31,6 +31,7 @@
 ### Division 3.5.4 Indictable offences—costs
 ### Division 3.5.5 Indictable offences—witness recognisances
 ### Division 3.5.6 Indictable offences—other provisions
+## Part 3.5A Pre-hearing disclosure for offences punishable summarily
 ## Part 3.6 Proceedings for offences punishable summarily
 ## Part 3.7 Service and pleading by post for certain offences
 ## Part 3.8 Infringement notices for certain offences
@@ -76,3 +77,4 @@
 # Chapter 5 Miscellaneous
 ## Part 5.1 Offences
 ## Part 5.2 Other
+# Chapter 15 Transitional—Crimes (Disclosure) Legislation Amendment Act 2024
