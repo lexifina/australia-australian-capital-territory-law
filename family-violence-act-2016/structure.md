@@ -51,3 +51,7 @@
 ### Division 23.1 General
 ### Division 23.2 Ending action etc for family violence orders
 ### Division 23.3 Validity of past family violence order action
+## Part 24 Transitional—Justice (Age of Criminal Responsibility) Legislation Amendment Act 2023
+### Division 24.1 General
+### Division 24.2 Ending action etc for family violence orders
+### Division 24.3 Validity of past family violence order action
