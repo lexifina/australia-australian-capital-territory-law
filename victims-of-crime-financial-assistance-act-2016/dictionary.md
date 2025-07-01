@@ -34,7 +34,6 @@ associated payment to a person (the applicant) who has received, or is eligible 
     (ii) a payment under a workers’ compensation law;
     (iii) an insurance payment;
     (iv) a payment made under a reparation order under the Crimes (Sentencing) Act 2005.
-circumstance of aggravation, for an offence—see section 8.
 class A related victim—see section 13.
 class B related victim—see section 14.
 class C related victim—see section 15.
@@ -121,10 +120,5 @@ schedule 1 offence means—
   (a) an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3 of an Act mentioned in the item, column 2; and
   (b) if the victim of an offence is a relevant person in relation to the person who carried out the offence—an offence against a provision mentioned in an item in schedule 1 (Offences—act of violence), division 1.2.2 (Family violence offences), column 3 of an Act mentioned in the item, column 2.
 sexual offence means an offence against a provision mentioned in schedule 1 (Offences—act of violence), division 1.2.1 (General offences), column 3, item 2, 4 or 5.
-very serious injury means an injury that results in at least 1 of the following:
-  (a) a physical bodily impairment that is very serious;
-  (b) a disfigurement that is very serious;
-  (c) a mental illness or mental disorder that is very serious;
-  (d) the death of a fetus.
 victims services scheme means the victims service scheme established under the Victims of Crime Act 1994, section 19.
 workers’ compensation law means the Workers Compensation Act 1951, or any other law applying in the ACT that provides for the payment of compensation for injuries arising out of or in the course of employment.
