@@ -32,11 +32,14 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • must (see s 146)
 • penalty unit (see s 133)
 • police officer
+• public advocate
 • rural fire service
 • SES
 • summary offence (see s 190)
 • the Territory
 • transgender person (see s 169A).
+Aboriginal and Torres Strait Islander children and young people commissioner, for part 10 (Criminal investigation)—see section 185.
+Aboriginal or Torres Strait Islander child or young person, for part 10 (Criminal investigation)—see section 185.
 ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 accused, for a person before the Magistrates Court, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
