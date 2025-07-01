@@ -36,4 +36,3 @@
 ## Part 11 Administration
 ## Part 12 Notification and review of decisions
 ## Part 13 Miscellaneous
-## Part 22 Transitional—Fair Trading and Other Justice Legislation Amendment Act 2022
