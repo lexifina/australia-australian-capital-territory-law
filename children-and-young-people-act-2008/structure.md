@@ -165,6 +165,15 @@
 ### Division 16.4.1 Intensive therapy places
 ### Division 16.4.2 Therapy plans
 ### Division 16.4.3 Intensive therapy register
+# Chapter 16A Care and protection—notification and review of certain decisions
+## Part 16A.1 Preliminary
+## Part 16A.2 Internal review
+## Part 16A.3 ACAT review
+## Part 16A.4 ACAT Procedural matters
+### Division 16A.4.1 Preliminary
+### Division 16A.4.2 Parties and appearance
+### Division 16A.4.3 Children and young people in review applications
+### Division 16A.4.4 Miscellaneous
 # Chapter 17 Care and protection—interstate transfer of orders and proceedings
 ## Part 17.1 Preliminary
 ## Part 17.2 Interstate transfer of ACT child welfare orders
@@ -178,7 +187,7 @@
 # Chapter 18 Care and protection—police assistance
 ## Part 18.1 Assistance in carrying out orders etc
 ## Part 18.2 Safe custody
-# Chapter 19 Care and protection—provisions applying to all proceedings under care and protection chapters
+# Chapter 19 Care and protection—provisions applying to court proceedings under care and protection chapters
 ## Part 19.1 Applications
 ## Part 19.2 Parties
 ## Part 19.3 Standard of proof

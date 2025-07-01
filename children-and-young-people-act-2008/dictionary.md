@@ -66,10 +66,11 @@ accused detainee, for chapter 8 (Criminal matters—discipline at detention plac
 administrator, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 admission, of a young detainee to a detention place, for part 6.4 (Admission to detention places)—see section 155.
 affected child, for division 20.4.3 (Childcare service licences—suspension and cancellation)—see section 759.
+affected person, for a decision, for chapter 16A (Care and protection—notification and review of certain decisions)—see section 635A.
 allegation report, for chapter 8 (Criminal matters—discipline at detention places)—see section 293.
 annual review report, for a reviewable care and protection order, for chapter 14 (Care and protection—care and protection orders )—see section 494.
 annual review report order, for part 14.13 (Annual review reports—parental responsibility provisions and supervision provisions)—see section 500 (2).
-application, for chapter 19 (Care and protection—provisions applying to all proceedings under care and protection chapters)—see section 695.
+application, for chapter 19 (Care and protection—provisions applying to court proceedings under care and protection chapters)—see section 695.
 appraisal order, for the care and protection chapters—see section 372.
 approved care and protection organisation—see section 352C.
 approved carer—see section 514B.
@@ -129,9 +130,12 @@ custodial inspector means the custodial inspector appointed under the Custodial 
 CYP death review committee means the Children and Young People Death Review Committee established under section 727A.
 daily care responsibility—see section 19.
 dangerous thing, for part 16.3 (Children and young people in therapeutic protection)—see section 590.
-decision-maker includes any court exercising jurisdiction under this Act.
+decision-maker—
+  (a) includes any court or tribunal exercising jurisdiction under this Act; and
+  (b) for an internally reviewable decision, for chapter 16A (Care and protection—notification and review of certain decisions)—see section 635A.
 designated entity, for division 25.3.3 (Sharing reportable conduct information)—see section 863A (1).
 detention place means a place declared to be a detention place under section 142.
+direct legal representative, for a child or young person, for division 16A.4.3 (Children and young people in review applications)—see section 635N.
 disciplinary action, for chapter 8 (Criminal matters—discipline at detention places)—see section 317.
 divulge, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
 drug, for Part 6.7 (Alcohol and drug testing)—see section 235.
@@ -182,6 +186,7 @@ health service—
   (b) includes a service provided by a health practitioner in the practitioner’s capacity as a health practitioner.
 hearing, for a review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 high risk employment, for part 21.4 (Employment of children and young people under 15 years old)—see section 794.
+independent legal representative, for a child or young person, for division 16A.4.3 (Children and young people in review applications)—see section 635N.
 information, for chapter 25 (Information secrecy and sharing)—see section 842 (2).
 information holder, for chapter 25 (Information secrecy and sharing)—see section 843.
 information sharing entity, for part 25.3 (Sharing protected information)—see section 859 (1).
@@ -202,6 +207,9 @@ intention to cancel notice—
 interim care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 433 (1).
 interim child welfare order, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 661 (1).
 interim intensive therapy order, for a child or young person—see section 543.
+internally reviewable decision, for chapter 16A (Care and protection—notification and review of certain decisions)—see section 635A.
+internal reviewer, for chapter 16A (Care and protection—notification and review of certain decisions)—see section 635E (1).
+internal review notice, for chapter 16A (Care and protection—notification and review of certain decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 interstate care and protection report—see section 845 (2), definition of interstate care and protection information, paragraph (a).
 interstate child welfare order—see section 666 (1).
 interstate law, for chapter 17 (Care and protection—interstate transfer of orders and proceedings)—see section 641 (1).
@@ -214,6 +222,7 @@ kinship carer, for a child or young person—see section 516 (2).
 licensed childcare service, for chapter 20 (Childcare services)—see section 728 (2).
 licensed proprietor, of a childcare service, for chapter 20 (Childcare services)—see section 728 (2).
 light work, for part 21.4 (Employment of children and young people under 15 years old)—see section 793.
+litigation guardian, for a child or young person, for part 16A.4 (ACAT procedural matters)—see section 635J.
 long-term care responsibility, for a child or young person—see section 20.
 long-term parental responsibility provision, for the care and protection chapters—see section 479.
 mail means postal mail.
@@ -317,7 +326,10 @@ responsible person—
   (b) for a childcare service, for chapter 20 (Childcare services)—see section 738.
 review, for chapter 8 (Criminal matters—discipline at detention places)—see section 286.
 reviewable care and protection order, for chapter 14 (Care and protection—care and protection orders)—see section 493.
-reviewable decision, for division 24.1.3 (Notification and review of decisions)—see section 839.
+reviewable decision—
+  (a) for chapter 16A (Care and protection—notification and review of certain decisions)—see section 635A; and
+  (b) for division 24.1.3 (Notification and review of decisions)—see section 839.
+review application, for part 16A.4 (ACAT procedural matters)—see section 635J.
 review officer—
   (a) for division 8.4.2 (Internal review)—see section 303; and
   (b) for chapter 9 (Criminal matters—conduct of disciplinary reviews)—see section 322.
