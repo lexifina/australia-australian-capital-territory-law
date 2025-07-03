@@ -86,7 +86,7 @@ material interest—a member has a material interest in an issue if the member h
 (2) The chair must also give the Minister, not later than 31 days after the end of each financial year, a statement that sets out the information given to the Minister in reports under subsection (1) that relate to disclosures made during the previous financial year.
 (3) The Minister must give a copy of the statement to the relevant Assembly committee not later than 31 days after the day the Minister receives the statement.
 (4) In this section:
-material interest means—see section 3.11 (4).
+material interest—see section 3.11 (4).
 relevant Assembly committee means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for subsection (3).
 ## 3.13 Protection of members from liability
 (1) A member is not civilly liable for anything done or omitted to be done honestly and without recklessness—
