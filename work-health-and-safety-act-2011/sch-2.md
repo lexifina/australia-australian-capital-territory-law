@@ -46,7 +46,7 @@ appointed member, of the council, means a member of the council appointed by the
 ## 2.4 Terms of appointment
 ## (1) The appointed members of the council must be appointed as part-time members.
 ## (2) An appointed member of the council must be appointed for not longer than 4 years.
-## (3) A person who has been an appointed member of the council for 8 consecutive years is not eligible for reappointment.
+## (3) A person who has been an appointed member of the council for 8 consecutive years, not including any period during which the person was an acting member, is not eligible for reappointment.
 Note A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
 ## 2.5 Chair and deputy chair
 ## (1) The appointed members of the council must elect a chair of the council, and a deputy chair of the council.
