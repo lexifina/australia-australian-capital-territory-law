@@ -15,7 +15,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • in relation to
 • public holiday
 • public servant
-• quarter
 • reviewable decision notice
 • State
 • the Territory.
@@ -62,6 +61,7 @@ ordinary remuneration—
       (C) redundancy; or
     (iv) superannuation contributions made by the worker’s employer.
 premises includes any land, structure or vehicle and any part of an area of land, a structure or vehicle.
+quarter—see section 48A.
 reciprocal agreement—see section 90.
 reciprocal authority means the entity under a corresponding law that administers the scheme of long service benefits established by the law.
 reciprocating State means a State in relation to which a reciprocal agreement is in force.
