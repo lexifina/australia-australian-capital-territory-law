@@ -37,7 +37,6 @@ commission means the human rights commission.
 complainant means the person who made the complaint under division 5.2.
 complaint means a complaint made under section 43 (Who may complain).
 corresponding law, of another jurisdiction, means a law of that jurisdiction that corresponds to this Act.
-declared professional body means an entity declared by the Minister under section 143.
 deemed registration—see section 34.
 deputy president means the person elected deputy president under section 95 (2).
 executive officer, of a corporation, means a person, however described and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
