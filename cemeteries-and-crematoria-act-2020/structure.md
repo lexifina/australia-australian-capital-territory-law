@@ -34,5 +34,4 @@
 ## Part 10 Codes of practice
 ## Part 11 Notification and review of decisions
 ## Part 12 Miscellaneous
-## Part 20 Transitional
 ## Part 21 Transitional—Cemeteries and Crematoria Amendment Act 2024
