@@ -7,7 +7,8 @@ Belconnen town centre means the area outlined in bold on the plan in this schedu
 city centre means the area outlined in bold on the plan in this schedule, division 6.3.1.
 Gungahlin town centre means the area outlined in bold on the plan in this schedule, division 6.3.3.
 Kingston Foreshore means the area outlined in bold on the plan in this schedule, division 6.3.6.
-town centre means the Belconnen town centre, the Gungahlin town centre, the Tuggeranong town centre or the Woden town centre.
+Molonglo town centre means the area outlined in bold on the plan in this schedule, division 6.3.3A.
+town centre means the Belconnen town centre, the Gungahlin town centre, the Molonglo town centre, the Tuggeranong town centre or the Woden town centre.
 Tuggeranong town centre means the area outlined in bold on the plan in this schedule, division 6.3.4.
 University of Canberra site means the area outlined in bold on the plan in this schedule, division 6.3.7.
 Woden town centre means the area outlined in bold on the plan in this schedule, division 6.3.5.
@@ -24,6 +25,7 @@ column 1 item | column 2 matters
 ## Division 6.3.1 City centre
 ## Division 6.3.2 Belconnen town centre
 ## Division 6.3.3 Gungahlin town centre
+## Division 6.3.3A Molonglo town centre
 ## Division 6.3.4 Tuggeranong town centre
 ## Division 6.3.5 Woden town centre
 ## Division 6.3.6 Kingston Foreshore

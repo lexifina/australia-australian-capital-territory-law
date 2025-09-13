@@ -221,6 +221,7 @@ matter protected by the Commonwealth—see section 222 (1).
 memorial—see the Land Titles Act 1925, dictionary.
 Minister, for part 9.2 (Offsets policy)—see section 225.
 minor plan amendment, for part 5.3 (Territory plan—minor plan amendments)—see section 84.
+Molonglo town centre, for schedule 6 (Matters exempt from third party ACAT review)—see schedule 6, section 6.1.
 monitoring warrant—see section 484 (1).
 natural environment, for schedule 3 (Management objectives for public land)—see schedule 3, section 3.1.
 natural environment conservation principles—see section 10 (2).
