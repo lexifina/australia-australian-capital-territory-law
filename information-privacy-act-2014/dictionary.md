@@ -38,6 +38,8 @@ collects, personal information, for schedule 1 (Territory privacy principles)—
 Commonwealth Act means the Privacy Act 1988 (Cwlth).
 Commonwealth APPs means the Australian privacy principles set out in the Commonwealth Act, schedule 1.
 complainant, in relation to a privacy complaint—see section 33.
+conciliation, of a privacy complaint, for division 6.3A (Conciliation of privacy complaints)—see section 44A.
+conciliation agreement, for division 6.3A (Conciliation of privacy complaints)—see section 44F (1).
 consent means express or implied consent.
 contracted service provider—
   (a) means a person engaged under a government contract to provide services to the Territory or a public sector agency; and
@@ -60,6 +62,7 @@ information privacy commissioner means—
 interference, with an individual’s privacy—see section 11.
 misconduct, of a person includes fraud, negligence, default, breach of trust, breach of duty, breach of discipline by or any other misconduct of the person in the exercise of the person’s functions as a public official.
 overseas recipient, in relation to personal information—see TPP 8.1.
+parties, to the conciliation of a privacy complaint, for division 6.3A (Conciliation of privacy complaints)—see section 44A.
 permitted general situation, in relation to the collection, use or disclosure of personal information, for schedule 1 (Territory privacy principles)—see section 19.
 personal information—see section 8.
 practice—see section 10.

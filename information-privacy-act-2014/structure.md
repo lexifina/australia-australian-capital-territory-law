@@ -10,6 +10,7 @@
 ### Division 6.1 Important concepts
 ### Division 6.2 Making privacy complaints
 ### Division 6.3 Dealing with privacy complaints
+### Division 6.3A Conciliation of privacy complaints
 ### Division 6.4 Application to court
 ### Division 6.5 Contracted service providers
 ## Part 7 TPP codes
