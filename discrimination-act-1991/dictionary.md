@@ -82,8 +82,11 @@ irrelevant criminal record, in relation to a person, means a record relating to 
   (c) the person has had a conviction for the alleged offence quashed or set aside; or
   (d) the person has been served with an infringement notice for the alleged offence; or
   (e) the person has a conviction for the offence, but the circumstances of the offence are not directly relevant to the situation in which discrimination arises; or
-  (f) the person has a spent conviction or an extinguished conviction, within the meaning of the Spent Convictions Act 2000, for the offence.
-Note The Spent Convictions Act 2000 sets out which convictions can be spent (see that Act, s 11) and when a conviction is spent (see that Act, s 12).
+  (f) the person has an extinguished conviction, within the meaning of the Spent Convictions Act 2000, for the offence; or
+  (g) the person has a spent conviction, within the meaning of the Spent Convictions Act 2000, for the offence, unless—
+    (i) the circumstances of the offence are directly relevant to the situation in which discrimination arises; and
+    (ii) the Spent Convictions Act 2000, section 16 does not apply to the person in the situation in which discrimination arises.
+Note The Spent Convictions Act 2000, s 19 sets out the circumstances in which s 16 does not apply in relation to an application by a person.
 man means a member of the male sex irrespective of age.
 physical features means a person’s height, weight, size or other bodily features.
 political conviction includes—
