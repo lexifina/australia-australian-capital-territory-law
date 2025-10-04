@@ -36,6 +36,7 @@
 ## Part 8.2 Default insurance fund
 ### Division 8.2.1 Definitions for pt 8.2
 ### Division 8.2.2 Establishment etc of DI fund
+### Division 8.2.2A DI fund and prescribed employers etc
 ### Division 8.2.3 Administration of DI fund
 ### Division 8.2.4 Contributions to DI fund
 ### Division 8.2.5 DI fund’s relationship with liquidators of licensed insurers
