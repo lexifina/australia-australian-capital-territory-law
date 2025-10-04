@@ -166,6 +166,8 @@ personal injury plan—see section 85A.
 Petroleum (Submerged Lands) Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
 physiotherapist means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the physiotherapy profession (other than as a student).
 premises, for chapter 10 (Inspection)—see section 187.
+prescribed employer means an employer approved by the Minister under section 166M to be a prescribed employer.
+prescribed worker means a worker who is determined to be a prescribed worker by the Executive under section 166J (1).
 professional sporting activity means—
   (a) participation for fee or reward as a contestant in a sporting or athletic activity; or
   (b) training or preparation for such participation; or
