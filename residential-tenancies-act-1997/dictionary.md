@@ -111,6 +111,7 @@ residential park—
     (ii) common areas and facilities for the use of people occupying the manufactured homes or mobile homes; and
   (b) includes a caravan park or camping ground.
 residential park agreement, for part 5B (Residential parks)—see section 71H.
+Residential Tenancies Act, for schedule 1 (Standard residential tenancy terms)—see schedule 1, clause 1 (1).
 residential tenancy agreement—see section 6A.
 residential tenancy database, for part 7 (Residential tenancy databases)—see section 87.
 respondent, for division 6.5A (Powers and decisions of ACAT—protection orders)—see section 85.
@@ -135,6 +136,6 @@ termination notice—
     (ii) if there is no form approved under section 133—contains the information required by the standard residential tenancy terms; and
     (iii) is served in accordance with this Act; and
   (b) includes a family violence termination notice served in accordance with this Act.
-tribunal, for schedule 1, means the ACAT.
+tribunal, for schedule 1 (Standard residential tenancy terms) and schedule 2 (Additional terms for certain residential tenancy agreements), means the ACAT.
 trust account means the trust bank account maintained by the director-general of the administrative unit responsible for administering this Act in accordance with the Financial Management Act 1996, section 51.
 vacating day, stated in a family violence termination notice, for division 4.3A (Termination initiated by tenant—termination for family violence)—see section 46D (3) (a).

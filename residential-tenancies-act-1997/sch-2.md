@@ -1,14 +1,28 @@
 # Schedule 2 Additional terms for certain residential tenancy agreements
 (see s 8)
-2.1 Posting termination clause
-Termination because of posting
-102 (1) The tenancy agreement may be terminated—
-(a) if the lessor is posted to the ACT in the course of the lessor’s employment—by the lessor giving the tenant at least 8 weeks notice to vacate the premises; or
-(b) if the tenant is posted away from the ACT in the course of the tenant’s employment—by the tenant giving the lessor at least 8 weeks notice of the tenant’s intention to vacate the premises.
-(2) A notice under subclause (1) must be accompanied by evidence of the posting (for example, a letter from the employer of the lessor or tenant confirming the details of the posting).
+2.1 Posting termination clauses
+Termination if lessor or lessor’s domestic partner posted to ACT
+102 (1) If the lessor, or the lessor’s domestic partner, is posted to the ACT in the course of their employment, the lessor may terminate the residential tenancy agreement by giving the tenant at least 8 weeks notice to vacate the premises.
+(2) A notice to vacate given under this clause must be accompanied by written evidence of the posting.
+Example—evidence of posting
+letter from employer confirming details of posting
+(3) If the lessor gives the tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
+(a) at least 2 weeks notice of the tenant’s intention to vacate; or
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
+(4) The residential tenancy agreement terminates on the day the tenant vacates the premises.
+Note The break lease fee clause does not apply if a fixed term agreement is terminated by the tenant vacating the premises (see cl 89A).
+Termination if tenant or tenant’s domestic partner posted away from ACT
+102A (1) If the tenant, or the tenant’s domestic partner, is posted away from the ACT in the course of their employment, the tenant may terminate the residential tenancy agreement by giving the lessor at least 8 weeks notice of intention to vacate the premises.
+(2) A notice of intention to vacate given under this clause must be accompanied by written evidence of the posting.
+Example—evidence of posting
+letter from employer confirming details of posting
 (3) The residential tenancy agreement terminates—
-(a) 8 weeks after the day the notice under subclause (1) is received; or
+(a) 8 weeks after the day the notice of intention to vacate is received by the lessor; or
 (b) if a later date is stated in the notice—on the stated date.
+(4) However, if the tenant does not vacate the premises on or before the date stated in the notice—
+(a) the notice is taken to be withdrawn; and
+(b) the agreement continues.
+Note The break lease fee clause does not apply if a fixed term agreement is terminated under this section (see cl 89A).
 2.2 Community housing provider termination clause
 Termination by community housing provider if premises required by owner
 103 (1) For a periodic tenancy, the lessor may give the tenant—
@@ -21,12 +35,12 @@ Termination by community housing provider if premises required by owner
 (2) For a fixed term or periodic tenancy, the lessor may give the tenant at least 26 weeks notice to vacate the premises if the housing commissioner—
 (a) is the owner of the premises; and
 (b) withdraws the premises in accordance with an approved housing assistance program.
-(3) A notice to vacate under this clause must be accompanied by written evidence supporting the owner’s genuine intention or belief for requiring the lessor to give the notice.
+(3) A notice to vacate given under this clause must be accompanied by written evidence supporting the owner’s genuine intention or belief for requiring the lessor to give the notice.
 Examples—written evidence
 statutory declaration, development application, quotes from a tradesperson for renovations, notice of decision from the housing commissioner
-(4) If the tenant is given a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the notice to vacate (the lessor’s notice to vacate date) provided the tenant gives the lessor—
+(4) If the lessor gives the tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the lessor’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (5) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 (6) In this clause:
 immediate relative, of the owner, means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
@@ -49,13 +63,13 @@ Termination if housing assistance cancelled or withdrawn
 (a) the end of the period in the notice given under subclause (2); and
 (b) 12 weeks after notice is given under this subclause.
 Example
-On 1 July, Ziggy’s lessor gives Ziggy a notice to vacate because Ziggy did not provide the lessor with information about Ziggy’s eligibility for housing assistance within the required period. The notice to vacate gives Ziggy the required 26 weeks notice, meaning Ziggy must vacate the premises by 30 December. On 1 August, Ziggy gives the lessor the information the lessor requested and the first notice to vacate is taken to be withdrawn. Taking into account the new information, the housing commissioner decides that Ziggy is no longer eligible to receive the housing assistance. Ziggy does not seek ACAT review of the commissioner’s decision. The lessor may give Ziggy a second notice to vacate, but the second notice must not have a notice period that ends before 30 December.
+On 1 July, Ziggy’s lessor gives Ziggy a notice to vacate because Ziggy did not provide the lessor with information about Ziggy’s eligibility for housing assistance within the required period. The notice to vacate gives Ziggy the required 26 weeks notice, meaning Ziggy must vacate the premises by 30 December. On 1 August, Ziggy gives the lessor the information the lessor requested and the first notice to vacate is taken to be withdrawn. Taking into account the new information, the housing commissioner decides that Ziggy is no longer eligible to receive the housing assistance. Ziggy does not seek the tribunal’s review of the commissioner’s decision. The lessor may give Ziggy a second notice to vacate, but the second notice must not have a notice period that ends before 30 December.
 (6) For this clause, a tenant is no longer able to ask for a review of the housing commissioner’s decision if—
 (a) the period in which the tenant may make an application for review of the decision has ended and the tenant has not made an application; or
 (b) if the tenant applies for review of the decision—the commissioner’s decision is confirmed.
 (7) If the lessor gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the lessor’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (8) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 Termination if tenant refuses transfer to alternate rental premises
 105 (1) This clause applies if—
@@ -69,7 +83,7 @@ Termination if tenant refuses transfer to alternate rental premises
 (b) if the tenant applies for review under the approved housing assistance program of the decision—the commissioner’s decision is confirmed.
 (5) If the lessor gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the lessor’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (6) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 Termination if tenant is party to 2 tenancies
 106 (1) This clause applies if—
@@ -100,7 +114,7 @@ Termination if tenant does not apply for ongoing housing assistance
 (b) 12 weeks after notice is given under this clause.
 (7) If the housing commissioner gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the housing commissioner’s notice to vacate provided the tenant gives the housing commissioner—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the housing commissioner’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the housing commissioner’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (8) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 Termination if housing commissioner decides tenant not eligible for ongoing housing assistance
 107 (1) This clause applies if—
@@ -115,7 +129,7 @@ Termination if housing commissioner decides tenant not eligible for ongoing hous
 (b) if the housing commissioner makes the decision after the tenant’s temporary housing assistance ends—at least 12 weeks notice to vacate the premises.
 (3) If the housing commissioner gives the tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the housing commissioner’s notice to vacate provided the tenant gives the housing commissioner—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the housing commissioner’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the housing commissioner’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (4) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 2.5 Subsidised accommodation clauses
 What are subsidised accommodation eligibility requirements?
@@ -151,7 +165,7 @@ On 1 July, Poppy’s lessor gives Poppy a notice to vacate because Poppy did not
 (6) A notice to vacate given under subclause (5) must include the name and contact details of a legal or advocacy service that may be able to provide the tenant with advice about the tenant’s legal rights.
 (7) If the lessor gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the lessor’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (8) The residential tenancy agreement terminates on the day the tenant vacates the premises.
 Termination if tenant no longer eligible to live in premises
 112 (1) This clause applies if, under the subsidised accommodation eligibility requirements for the premises—
@@ -167,5 +181,5 @@ Termination if tenant no longer eligible to live in premises
 (c) the name and contact details of a legal or advocacy service that may be able to provide the tenant with advice about the tenant’s legal rights.
 (4) If the lessor gives a tenant a notice to vacate under this clause, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
 (a) at least 2 weeks notice of the tenant’s intention to vacate; or
-(b) in the last 2 weeks before the lessor’s notice to vacate date—at least 4 days notice of the tenant’s intention to vacate.
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (5) The residential tenancy agreement terminates on the day the tenant vacates the premises.

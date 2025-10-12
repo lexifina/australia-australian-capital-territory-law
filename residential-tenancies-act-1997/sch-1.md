@@ -41,7 +41,9 @@ Note Under the Electronic Transactions Act 2001, s 8 (1), information required t
 (i) the later of 2 weeks after receiving the bond and the commencement of the tenancy; or
 (ii) if the lessor’s real estate agent lodges the bond—the later of 4 weeks after receiving the bond and the commencement of the tenancy.
 Condition Report
-21 (1) Within 1 day of the tenant taking possession of the premises, the lessor must give 2 copies of a condition report completed by the lessor to the tenant.
+21 (1) Within 1 day of the tenant taking possession of the premises, the lessor must give the tenant—
+(a) 2 paper copies of a condition report completed by the lessor; or
+(b) if the tenant agrees—1 electronic copy of a condition report completed by the lessor, in a form that can be electronically edited by the tenant.
 (2) The condition report must be on, or to the effect of, the condition report form published by the Territory.
 22 (1) The tenant must examine the report and indicate on the report the tenant’s agreement or disagreement with the items.
 (2) Within 2 weeks after the day the tenant receives the report, the tenant must return 1 copy of the report to the lessor, signed by the tenant and indicating the tenant’s agreement or disagreement with the report or parts of the report.
@@ -102,7 +104,7 @@ Review of excessive rent increases
 38 (1) The lessor must give the tenant 8 weeks written notice of an intended:
 (a) increase in the rent under a residential tenancy agreement (including an existing consecutive tenancy agreement); or
 (b) increase in the rent that will take effect under a proposed consecutive tenancy agreement.
-(2) The notice to the tenant must include the date when the increase is proposed to take effect, the amount of the proposed increase, whether the amount of the increase is more than the prescribed amount, and that ACAT’s prior approval must be obtained for an increase that is more than the prescribed amount if the tenant does not agree to the increase.
+(2) The notice to the tenant must include the date when the increase is proposed to take effect, the amount of the proposed increase, whether the amount of the increase is more than the prescribed amount, and that the tribunal’s prior approval must be obtained for an increase that is more than the prescribed amount if the tenant does not agree to the increase.
 39 (1) The tenant may apply in writing to the tribunal for review of an excessive increase in rent (time limits for applying and the meaning of excessive is set out in the Residential Tenancies Act).
 (2) On such application being made, no increase in rent is payable until so ordered by the tribunal.
 40 If the tenant remains in occupation of the premises without applying to the tribunal for review, the increase in rent takes effect from the date specified in the notice.
@@ -214,7 +216,7 @@ Tenant must not use the premises for illegal purposes and must not disturb the n
 69 Unless otherwise agreed in writing, the tenant must only use the premises for residential purposes.
 70 The tenant must not:
 (a) use the premises, or permit them to be used, for an illegal purpose; or
-Note The ACAT must not make a termination and possession order for a breach of this term unless satisfied of certain matters (see Residential Tenancies Act, s 48 (3) and (4)).
+Note The tribunal must not make a termination and possession order for a breach of this term unless satisfied of certain matters (see Residential Tenancies Act, s 48 (3) and (4)).
 (b) cause or permit nuisance; or
 (c) interfere, or permit interference, with the quiet enjoyment of the occupiers of nearby premises.
 71 The tenant must not leave the premises vacant for more than 3 weeks without notifying the lessor.
@@ -307,13 +309,15 @@ Notice of intention to vacate by tenant
 (b) the ground(s) on which the notice is issued, together with sufficient particulars to identify the circumstances giving rise to the ground(s);
 (c) the date the tenant intends to terminate the tenancy.
 (2) If the tenant vacates the premises on or before the date stated in the notice, the tenancy terminates on the date stated in the notice.
-(3) However, if the tenant does not vacate the premises on or before the date stated in the notice, the notice is taken to be withdrawn and the tenancy continues.
+(3) However, if the tenant does not vacate the premises on or before the date stated in the notice—
+(a) the notice is taken to be withdrawn; and
+(b) the tenancy continues.
 Termination where premises are not fit for habitation
 86 (1) The lessor or the tenant may, by written notice, terminate the tenancy on a date specified in the notice on the following grounds:
 (a) the premises are not fit for habitation;
 (b) the premises are not available or will not be available because of Government action within a period of 4 weeks of the date that notice is given.
 (2) However, a lessor or tenant must not terminate the tenancy under subclause (1) only because the lessor has failed to comply with the minimum housing standards applying to the premises.
-Note A tenant may apply to the ACAT to terminate the tenancy if the lessor fails to comply with the minimum housing standards (see Residential Tenancies Act, s 46AA).
+Note A tenant may apply to the tribunal to terminate the tenancy if the lessor fails to comply with the minimum housing standards (see Residential Tenancies Act, s 46AA).
 87 (1) In either case the lessor must give not less than 1 week’s notice of termination of the tenancy, and the rent abates from the date that the premises are uninhabitable.
 (2) The tenant may give 2 days notice of termination of the tenancy.
 (3) If neither the lessor nor the tenant give notice of termination of the tenancy, the rent abates for the period that the premises are unable to be used for habitation, but the tenancy resumes when they are able to be used again.
@@ -336,13 +340,15 @@ Termination before end of fixed term—fee for breaking lease
 (4) However, the lessor and tenant agree that if, within the defined period after the tenant vacates the premises, the lessor enters into a residential tenancy agreement with a new tenant, the amount payable by the tenant is limited to—
 (a) the amount of the break fee under subclause (1) less the amount of rent payable by the new tenant for the defined period; and
 (b) if the tenant vacates the premises more than 4 weeks before the end of the fixed term—the lessor’s reasonable costs (not exceeding the defined cost limit) of advertising the premises for lease and of giving a right to occupy the premises to another person.
-(5) This clause does not apply to a residential tenancy agreement ended by the tenant under any of the following provisions of the Residential Tenancies Act:
-(a) section 46A (Termination of agreement for aged care or social housing needs);
-(b) section 46B (Termination of fixed term agreement if premises for sale);
-(c) section 46D (Termination for family violence);
-(d) section 46G (Co-tenancies—effect of serving family violence termination notice);
-(e) section 64AA (Termination—affected residential premises);
-(f) section 64AB (Termination—eligible impacted property).
+(5) This clause does not apply to a residential tenancy agreement ended by the tenant under—
+(a) any of the following provisions of the Residential Tenancies Act:
+(i) section 46A (Termination of agreement for aged care or social housing needs);
+(ii) section 46B (Termination of fixed term agreement if premises for sale);
+(iii) section 46D (Termination for family violence);
+(iv) section 46G (Co-tenancies—effect of serving family violence termination notice);
+(v) section 64AA (Termination—affected residential premises);
+(vi) section 64AB (Termination—eligible impacted property); or
+(b) a posting termination clause (if the agreement contains the posting termination clauses).
 (6) In this clause:
 defined cost limit means—
 (a) if at least half of the fixed term has expired—an amount equal to 2/3 of 1 week’s rent; or
@@ -352,6 +358,7 @@ defined period means—
 (b) if subclause (1) (a) (ii) applies—4 weeks; or
 (c) if subclause (1) (b) applies—N weeks.
 N is the number worked out as follows:
+posting termination clause means a clause in schedule 2, section 2.1.
 Termination for breach by lessor
 90 If the lessor breaches the tenancy agreement, and the tenant wishes to terminate the tenancy agreement, the tenant may either—
 (a) apply to the tribunal for an order terminating the tenancy; or
@@ -388,13 +395,15 @@ Termination of periodic tenancy
 (d) if the lessor genuinely intends to sell the premises—8 weeks notice to vacate; or
 (e) if the lessor genuinely intends to reconstruct, renovate or make major repairs to the premises and the reconstruction, renovation or repairs cannot reasonably be carried out with the tenant living in the premises—12 weeks notice to vacate; or
 (f) if the lessor genuinely requires the premises for a lawful use other than as a home—26 weeks notice to vacate.
-(2) A notice to vacate under this clause must be accompanied by written evidence supporting the lessor’s reason for the notice.
+(2) A notice to vacate given under this clause must be accompanied by written evidence supporting the lessor’s reason for the notice.
 Examples—written evidence
 statutory declaration, development application, quotes from a tradesperson for renovations, notice of decision from the housing commissioner
 (3) In this clause:
 immediate relative, of the lessor, means a son, daughter, son-in-law, daughter-in-law, mother, father, mother-in-law, father-in-law, brother, sister, brother-in-law or sister-in-law.
 interested person, for a lessor, means a person who is not an immediate relative of the lessor but who has a close family or personal relationship with the lessor and who has a reasonable expectation arising from that relationship that the lessor would provide accommodation for the person.
-97 (1) If a tenant is required to vacate the premises in accordance with clause 96, the tenant may vacate the premises at any time during the 2 weeks before the date specified in the notice to vacate provided the tenant gives the lessor 4 days notice of intention to vacate.
+97 (1) If the lessor gives a tenant a notice to vacate under clause 96, the tenant may vacate the premises at any time before the date stated in the lessor’s notice to vacate provided the tenant gives the lessor—
+(a) at least 2 weeks notice of the tenant’s intention to vacate; or
+(b) in the last 2 weeks before the date stated in the lessor’s notice to vacate—at least 4 days notice of the tenant’s intention to vacate.
 (2) In this case, the tenancy terminates on the date that the tenant vacates the premises.
 Notices of address for service
 98 (1) At the commencement of the tenancy, the lessor and the tenant must each give—
