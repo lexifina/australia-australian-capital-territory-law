@@ -36,7 +36,7 @@ health care, for a person who is a principal for a power of attorney—
       (C) the administration is for a recommended purpose and at a recommended dosage level.
 Example for par (b)
 a visual examination of a principal’s mouth, throat, nasal cavity, eyes or ears
-health care facility means a hospital, mental health facility, residential aged care facility or residential disability care facility.
+health care facility means a hospital, mental health facility, residential care home or residential disability care facility.
 health care matter—see section 12.
 health care provider, for a person who is a principal for a power of attorney, means a health professional who provides health care to the principal.
 health professional means a person who provides health care in the practice of a profession or the ordinary course of business.
@@ -68,10 +68,9 @@ relative, of a person (the related person), means—
   (a) a person related by blood, affinity or adoption to the related person; or
   (b) a domestic partner.
 Note For the meaning of domestic partner, see the Legislation Act, s 169.
-residential aged care facility means a residential facility that provides residential care to residents at the facility.
-residential care—see the Aged Care Act 1997 (Cwlth), section 41-3 (Meaning of residential care).
+residential care home means a residential care home under the Aged Care Act 2024 (Cwlth).
 residential disability care facility—
   (a) means a residential facility that provides disability care to people with disabilities; but
-  (b) does not include a residential aged care facility.
+  (b) does not include a residential care home.
 special health care matter, for a principal—see section 37.
 special personal matter, for a principal—see section 36.
