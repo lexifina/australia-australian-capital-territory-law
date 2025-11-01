@@ -86,6 +86,7 @@ Note Levies payable under a community title scheme or units plan are not recurre
 refurbishment, of residential premises the subject of a residence contract, for division 10.4 (Repair and refurbishment of residential premises)—see section 218.
 registered interest holder, in relation to residential premises in a retirement village—see section 12 (1).
 registered long-term sublessee, of residential premises in a retirement village—see section 12 (1).
+registered provider, of a residential care home, means the registered provider under the Aged Care Act 2024 (Cwlth).
 relative, of a person, means the following:
   (a) a grandparent, parent, sibling or child of the person;
   (b) a grandparent, parent, sibling or child of the person by marriage;
@@ -104,7 +105,7 @@ resident, of a retirement village—
     (v) for part 7 (Financial management of retirement villages)—see section 133A;
     (vi) for part 8 (except division 8.1A)—see section 174A;
     (vii) for division 10.5 (Sale or letting of premises by certain residents)—see section 221A.
-residential aged care facility means a residential facility that provides residential care within the meaning of the Aged Care Act 1997 (Cwlth), section 41-3 (Meaning of residential care) to residents at the facility.
+residential care home means a residential care home under the Aged Care Act 2024 (Cwlth).
 residential premises means premises or part of premises (including any land occupied with the premises) used or intended to be used as a place of residence.
 residential tenancy agreement—see the Residential Tenancies Act 1997, section 6A.
 residents committee means a committee established under section 103.
