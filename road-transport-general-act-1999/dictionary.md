@@ -30,7 +30,6 @@ all reasonable steps—
   (a) for division 3.3 (Infringement notice offences involving registrable and rail vehicles)—see section 32; and
   (b) for division 3.3A (Demerit points offences—corporation’s liability)—see section 41.
 another jurisdiction means a jurisdiction other than the ACT.
-approved average speed detection system—see the Road Transport (Safety and Traffic Management) Act 1999, dictionary.
 approved community work or social development program, for part 3 (Infringement notices for certain offences)—see section 21A.
 Australian Design Rule—see the Road Transport (Vehicle Registration) Regulation 2000, schedule 1 (Light vehicle standards), section 1.10.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
