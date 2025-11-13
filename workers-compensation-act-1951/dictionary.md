@@ -108,7 +108,7 @@ injury management program, for chapter 5 (Injury management process)—see secti
 injury notice—
   (a) for chapter 5 (Injury management process)—see section 93 (2); and
   (b) for chapter 6 (Claims)—see section 120.
-inspector means an inspector appointed under section 188 (1).
+inspector means an inspector under section 188.
 insurance service—see section 143A.
 insurer—
   (a) for chapter 5 (Injury management process)—

@@ -11,6 +11,7 @@
 ## Part 4.6 Compensation for death
 ## Part 4.7 Registration of agreements for compensation
 ## Part 4.8 Exceptions to entitlements to compensation
+## Part 4.9 Payments to families of deceased workers
 # Chapter 5 Injury management process
 ## Part 5.1 Object and definitions for ch 5
 ## Part 5.2 General obligations
@@ -53,3 +54,4 @@
 # Chapter 11 Procedure for payment of compensation
 # Chapter 12 Notification and review of decisions
 # Chapter 13 Miscellaneous
+# Chapter 22 Transitional—Workplace Legislation Amendment Act 2025 (No 3)
