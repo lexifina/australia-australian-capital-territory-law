@@ -101,6 +101,7 @@ document, for chapter 9 (Defamation)—see section 116.
 donor, for part 2.2A (Food donors)—see section 11A.
 duty of care, for chapter 8 (Liability of public and other authorities)—see section 109.
 electronic communication, for chapter 9 (Defamation)—see section 116.
+employee, of an organisation, for part 8A.1A (Liability of organisations)—see section 114BC.
 equine, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine activity, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
@@ -160,6 +161,7 @@ occupational group, for schedule 4 (Professional standards)—see schedule 4, se
 occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 offer to make amends, for chapter 9 (Defamation)—see section 116.
 online service, for chapter 9 (Defamation)—see section 116.
+organisation, for part 8A.1A (Liability of organisations)—see section 114BB.
 parent—
   (a) for part 3.1 (Wrongful act or omission causing death)—see section 23; and
   (b) for part 3.2 (Mental harm)—see section 32.
@@ -184,6 +186,7 @@ reasonable prospects of success, for part 14.2 (Costs in damages claims if no re
 recreational drug means a drug consumed voluntarily for non-medicinal purposes, and includes alcohol.
 related trust, in relation to an unincorporated body, for chapter 8A (Institutional child abuse)—see section 114B.
 respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
+responsible, for a child, for part 8A.1A (Liability of organisations)—see section 114BD.
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1).
 scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.

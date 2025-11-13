@@ -30,6 +30,7 @@
 # Chapter 8 Liability of public and other authorities
 # Chapter 8A Institutional child abuse
 ## Part 8A.1 Definitions and application—ch 8A
+## Part 8A.1A Liability of organisations
 ## Part 8A.2 Institutional child abuse—proceedings against unincorporated bodies
 ## Part 8A.3 Institutional child abuse—setting aside abuse settlement agreements
 # Chapter 9 Defamation
@@ -74,3 +75,4 @@
 ## Part 15.5 Other provisions
 # Chapter 19 Transitional—Civil Law (Wrongs) Amendment Act 2024—absolute privilege
 # Chapter 20 Transitional—Civil Law (Wrongs) Amendment Act 2024
+# Chapter 21 Transitional—Civil Law (Wrongs) (Organisational Child Abuse Liability) Amendment Act 2025
