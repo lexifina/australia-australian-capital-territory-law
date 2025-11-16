@@ -11,6 +11,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • change
   • chief police officer
   • child
+  • Commonwealth Criminal Code
+  • Criminal Code
   • director-general (see s 163)
   • entity
   • external territory
@@ -72,7 +74,7 @@ a person making a report by telephone or email
 interim prohibition order, for chapter 5A (Orders prohibiting offender conduct)—see section 132H (Court may make interim prohibition order).
 long-term care responsibility, for chapter 5A (Orders prohibiting offender conduct)—see the Children and Young People Act 2008, section 20.
 make, an order for a person under this chapter, for chapter 5A (Orders prohibiting offender conduct)—see section 132A.
-occupier, of a premises, for part 3.11 (Entry and search warrants)—see section 116B.
+occupier, of premises, for part 3.11 (Entry and search warrants)—see section 116B.
 offensive weapon, for part 3.11 (Entry and search warrants)—see the Crimes Act 1900, dictionary.
 parental responsibility, for a child or young person, for chapter 5A (Orders prohibiting offender conduct)—see the Children and Young People Act 2008, section 15.
 parole means parole under the Crimes (Sentence Administration) Act 2005, and includes an equivalent order (however described) made under a foreign law.

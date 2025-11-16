@@ -20,15 +20,15 @@ column 1 item | column 2 offence | column 3 description | column 4 circumstances
 16 | an offence mentioned in items 1 to 15 to which Crimes Act 1900, section 72AA applies | aggravated offence—involving family violence | 
 ## Part 1.2 Offences against other legislation
 column 1 item | column 2 offence | column 3 description | column 4 circumstances (if any)
-1 | Criminal Code Act 1995 (Cwlth), section 270.5 (1) and section 270.8 (1) (a) | cause child to enter into or remain in servitude | the service provided is a sexual service (as defined in the Criminal Code Act 1995 (Cwlth), dictionary)
-2 | Criminal Code Act 1995 (Cwlth), section 270.5 (2) and section 270.8 (1) (a) | conduct a business involving child servitude | the service provided is a sexual service (as defined in the Criminal Code Act 1995 (Cwlth), dictionary)
-3 | Criminal Code Act 1995 (Cwlth) section 270.6 (1), as in force from time to time before amendment by Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013 (Cwlth) | sexual servitude | the other person (as mentioned in that section) is a child
-4 | Criminal Code Act 1995 (Cwlth) section 270.6 (2), as in force from time to time before amendment by Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013 (Cwlth) | sexual servitude | the other person (as mentioned in that section) is a child
-5 | Criminal Code Act 1995 (Cwlth), section 272.8 (1) | sexual intercourse with child outside Australia | 
-6 | Criminal Code Act 1995 (Cwlth), section 272.8 (2) | cause child to engage in sexual intercourse in presence of defendant outside Australia | 
-7 | Criminal Code Act 1995 (Cwlth), section 272.10 | offence against Criminal Code Act 1995 (Cwlth), section 272.8 or section 272.9 involving child with mental impairment or under care, supervision or authority of defendant | 
-8 | Criminal Code Act 1995 (Cwlth), section 272.11 | persistent sexual abuse of child outside Australia | 
-9 | Criminal Code Act 1995 (Cwlth), section 272.12 | sexual intercourse with young person outside Australia by defendant in position of trust or authority | 
-10 | Criminal Code Act 1995 (Cwlth), section 272.18 | benefit from offence against Criminal Code Act 1995 (Cwlth), division 272 | 
-11 | Criminal Code Act 1995 (Cwlth), section 272.19 | encourage offence against Criminal Code Act 1995 (Cwlth), division 272 | 
+1 | Commonwealth Criminal Code, section 270.5 (1) and section 270.8 (1) (a) | cause child to enter into or remain in servitude | the service provided is a sexual service (as defined in the Commonwealth Criminal Code, dictionary)
+2 | Commonwealth Criminal Code, section 270.5 (2) and section 270.8 (1) (a) | conduct a business involving child servitude | the service provided is a sexual service (as defined in the Commonwealth Criminal Code, dictionary)
+3 | Commonwealth Criminal Code section 270.6 (1), as in force from time to time before amendment by Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013 (Cwlth) | sexual servitude | the other person (as mentioned in that section) is a child
+4 | Commonwealth Criminal Code section 270.6 (2), as in force from time to time before amendment by Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013 (Cwlth) | sexual servitude | the other person (as mentioned in that section) is a child
+5 | Commonwealth Criminal Code, section 272.8 (1) | sexual intercourse with child outside Australia | 
+6 | Commonwealth Criminal Code, section 272.8 (2) | cause child to engage in sexual intercourse in presence of defendant outside Australia | 
+7 | Commonwealth Criminal Code, section 272.10 | offence against Commonwealth Criminal Code, section 272.8 or section 272.9 involving child with mental impairment or under care, supervision or authority of defendant | 
+8 | Commonwealth Criminal Code, section 272.11 | persistent sexual abuse of child outside Australia | 
+9 | Commonwealth Criminal Code, section 272.12 | sexual intercourse with young person outside Australia by defendant in position of trust or authority | 
+10 | Commonwealth Criminal Code, section 272.18 | benefit from offence against Commonwealth Criminal Code, division 272 | 
+11 | Commonwealth Criminal Code, section 272.19 | encourage offence against Commonwealth Criminal Code, division 272 | 
 12 | any offence under a law of a foreign jurisdiction that, if it had been committed in the ACT, would have been a class 1 offence |  | 
