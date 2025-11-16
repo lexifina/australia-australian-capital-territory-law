@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
   • public advocate
   • public sector standards commissioner
   • public servant
+  • territory law
   • under
   • veterinary practitioner.
 Aboriginal and Torres Strait Islander children and young people commissioner means the person appointed as the Aboriginal and Torres Strait Islander Children and Young People Commissioner under the Aboriginal and Torres Strait Islander Children and Young People Commissioner Act 2022, section 10.
