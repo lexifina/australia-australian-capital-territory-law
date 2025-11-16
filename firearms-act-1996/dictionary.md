@@ -19,6 +19,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • State
 • territory authority
+• territory law
 • veterinary practitioner.
 acquire—
   (a) a firearm or ammunition, for this Act—see section 8; and
@@ -121,7 +122,7 @@ genuine reason—
 genuine reason of international visitor—see section 128 (1) (b) (Temporary international firearms licences—genuine reasons to possess or use firearms).
 government agency means—
   (a) an administrative unit; or
-  (b) a Territory authority; or
+  (b) a territory authority; or
   (c) a department or authority of a State or another Territory.
 head, in relation to a government agency, means the director-general who has control of the relevant administrative unit or other person who has administrative control of the agency.
 imitation firearm—see section 23A.
