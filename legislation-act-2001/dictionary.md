@@ -29,8 +29,8 @@ Australian citizen means a person who is an Australian citizen under the Austral
 Australian Consumer Law (ACT) means the provisions applying because of the Fair Trading (Australian Consumer Law) Act 1992, section 7 (Application of Australian Consumer Law).
 Australian Criminal Intelligence Commission means the Australian Crime Commission established by the Australian Crime Commission Act 2002 (Cwlth), section 7, and also known as the Australian Criminal Intelligence Commission.
 Note The Australian Crime Commission Act 2002 (Cwlth), s 7 (1A) provides that the Australian Crime Commission may also be known by a name specified in the regulations. The Australian Crime Commission Regulations 2002 (Cwlth), s 3A specifies the Australian Criminal Intelligence Commission for that Act, s 7 (1A).
-Australian driver licence means an Australian driver licence under the Road Transport (Driver Licensing) Act 1999.
-Note Australian driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under the law of the Commonwealth or a State or Territory. It includes a driver licence issued under ACT law (see also def driver licence).
+Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+Note Australian driver licence is defined in the Road Transport (Driver Licensing) Act 1999, dict to mean a licence (including a conditional licence, learner licence, probationary licence, provisional licence or restricted licence or a driver licence receipt) issued under the law of the ACT, the Commonwealth, a State or an internal Territory authorising the holder to drive a motor vehicle on a road or road related area.
 Australian/New Zealand Standard—see section 164 (2) (References to Australian Standards etc).
 Australian Standard—see section 164 (1) (References to Australian Standards etc).
 Australian statistician means the Australian Statistician under the Australian Bureau of Statistics Act 1975 (Cwlth).
@@ -106,6 +106,7 @@ commit, a person for trial, means—
   (b) to grant bail to the person to appear and be tried by the Supreme Court.
 Commonwealth means the Commonwealth of Australia and, when used in a geographical sense, does not include an external territory.
 Commonwealth country means a country that forms part of the Commonwealth of Nations, and includes a territory for the international relations of which a Commonwealth country is responsible.
+Commonwealth Criminal Code means the criminal code set out in the Criminal Code Act 1995 (Cwlth), schedule.
 Commonwealth DPP means the Director of Public Prosecutions under the Director of Public Prosecutions Act 1983 (Cwlth).
 Commonwealth gazette means the Commonwealth of Australia Gazette or the Australian Government Gazette.
 Note The Australian Government Gazette was published from 1 July 1973 to 30 June 1976.
@@ -155,8 +156,8 @@ document means any record of information, and includes—
 domestic partner—see section 169 (1).
 domestic partnership—see section 169 (2).
 DPP—see director of public prosecutions.
-driver licence means a driver licence under the Road Transport (Driver Licensing) Act 1999.
-Note Driver licence is defined in that Act, dictionary to mean a driver licence of any kind issued under that Act (see also def Australian driver licence).
+driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
+Note Driver licence is defined in the Road Transport (Driver Licensing) Act 1999, dict to mean a licence (including a conditional licence, learner licence, probationary licence, provisional licence or restricted licence issued under that Act or a driver licence receipt issued under that Act) authorising the holder to drive a motor vehicle on a road or road related area.
 electoral commission means the Australian Capital Territory Electoral Commission established under the Electoral Act 1992.
 electoral commissioner means the Electoral Commissioner under the Electoral Act 1992.
 emergency service means the ambulance service, the fire and rescue service, the rural fire service or the SES.
@@ -164,7 +165,7 @@ emergency services commissioner means the ACT Emergency Services Commissioner un
 enactment, of an Act—see section 29 (References to enactment or passing of Acts).
 enrolled nurse—
   (a) means a person registered under the Health Practitioner Regulation National Law (ACT)—
-    (i) to practise in the nursing and midwifery profession (other than as a student); and
+    (i) to practise in the nursing profession (other than as a student); and
     (ii) in the enrolled nurses (division 2) division; and
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 entity includes an unincorporated body and a person (including a person occupying a position).
@@ -270,7 +271,7 @@ may—see section 146.
 medical practitioner means a doctor.
 midnight, in relation to a particular day, means the time when the day ends.
 midwife—
-  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the nursing and midwifery profession as a midwife (other than as a student); and
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the midwifery profession (other than as a student); and
   (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration.
 Minister—see section 162.
 modification includes modification by alteration, omission, substitution and addition.
@@ -287,7 +288,7 @@ name includes—
   (c) for a position—the position’s title or designation.
 national capital authority means the National Capital Authority established under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
 national capital plan means the National Capital Plan under the Australian Capital Territory (Planning and Land Management) Act 1988 (Cwlth).
-National Credit Code—see the National Consumer Credit Protection Act 2009 (Cwlth), section 5.
+National Credit Code—see the National Consumer Credit Protection Act 2009 (Cwlth), section 5 (1).
 National Electricity (ACT) Law means the provisions applying in the ACT because of the Electricity (National Scheme) Act 1997, section 5 (Application in ACT of National Electricity Law).
 National Electricity (ACT) Regulation means the provisions applying because of the Electricity (National Scheme) Act 1997, section 6 (Application of regulations under National Electricity Law).
 National Energy Retail Law (ACT) means the provisions applying because of the National Energy Retail Law (ACT) Act 2012, section 6 (Application of National Energy Retail Law).
@@ -309,8 +310,8 @@ number means—
   (a) a number expressed in figures or words; or
   (b) a combination of a number expressed in figures or words and of a letter of the alphabet.
 nurse—
-  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the nursing and midwifery profession as a nurse (other than as a student); and
-  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration; and
+  (a) means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the nursing profession (other than as a student); and
+  (b) for an activity, includes a person mentioned in paragraph (a) holding limited or provisional registration, to the extent that the person is allowed to do the activity under the person’s registration; but
   (c) does not include an enrolled nurse.
 nurse practitioner—
   (a) means a person whose registration as a registered health practitioner under the Health Practitioner Regulation National Law (ACT) is endorsed as being qualified to practise as a nurse practitioner; and
@@ -367,8 +368,8 @@ public money, of the Territory, means revenues, loans and other money received b
 public notice, if required by a Territory law, means—
   (a) a dated notice on an ACT government website; or
   (b) notice in a daily newspaper circulating generally in the ACT.
-public sector body means—
-  (a) a body made up of public sector members; and
+public sector body—
+  (a) means a body made up of public sector members; and
   (b) includes a body made up of 1 statutory office-holder.
 public sector member means a public sector member under the Public Sector Management Act 1994, section 150.
 public sector standards commissioner means the Public Sector Standards Commissioner under the Public Sector Management Act 1994.
@@ -444,7 +445,7 @@ territory lease—
   (b) does not include—
     (i) a sublease of land approved under the Planning Act 2023, section 284; or
     (ii) any other sublease.
-territory-owned corporation means a Territory owned corporation under the Territory-owned Corporations Act 1990.
+territory-owned corporation means a territory-owned corporation under the Territory-owned Corporations Act 1990, section 6 (1).
 territory plan means the territory plan under the Planning Act 2023.
 territory planning authority means the Territory Planning Authority established under the Planning Act 2023.
 the Territory means—
