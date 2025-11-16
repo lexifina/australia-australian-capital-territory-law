@@ -39,7 +39,7 @@ grant recipient means—
 guardian, of a person under a legal disability, includes a trustee who holds property on trust for the person under an instrument of trust or by order or direction of a court or tribunal.
 home—see section 4.
 home owner—see section 5 (1).
-identity card—see the Taxation Administration Act 1999, dictionary.
+identity card—see the Taxation Administration Act 1999, section 83 (4).
 new home, for division 2.3 (Eligible transactions)—see section 12B (1).
 objector, for division 2.6 (Objections and appeals)—see section 24I.
 owner means—
