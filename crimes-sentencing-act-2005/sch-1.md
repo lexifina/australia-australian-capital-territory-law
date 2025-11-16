@@ -26,7 +26,7 @@ column 1 item | column 2 offence | column 3 section
 22 | Organised fraud | 114D
 23 | Destroying or damaging property | 116
 24 | Arson | 117
-## Part 1.2 Criminal Code 2002
+## Part 1.2 Criminal Code
 column 1 item | column 2 offence | column 3 section
 1 | Robbery | 309
 2 | Aggravated robbery | 310
