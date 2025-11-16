@@ -7,8 +7,10 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • Australian citizen
 • Australian statistician
 • Commonwealth
+• Commonwealth Criminal Code
 • corporation
 • Corporations Act
+• Criminal Code
 • director-general (see s 163)
 • doctor
 • domestic partner (see s 169 (1))
@@ -174,7 +176,7 @@ officer means—
   (a) a person appointed under section 33 (Officers) to be an officer; or
   (b) a person exercising a power under this Act under an arrangement under section 70 (Joint roll arrangements with the Commonwealth) or section 336 (Administrative arrangements with Commonwealth and States); or
   (c) in relation to a particular matter—a person mentioned in paragraph (a) or (b) exercising a power in relation to the matter.
-official error, in relation to a person voting or seeking to vote at an election, means the removal of the person’s name under this Act from the roll for an electorate in which the person is otherwise entitled to vote unless the name was so removed before 6pm on the first day of the pre-election period for the previous election.
+official error, in relation to a person voting or seeking to vote at an election, means the removal of the person’s name under this Act from the roll for an electorate in which the person is otherwise entitled to vote unless the name was so removed before 6 pm on the first day of the pre-election period for the previous election.
 OIC means—
   (a) in relation to a scrutiny centre—the officer in charge of the centre; and
   (b) in relation to a polling place—the officer in charge of the place; and
