@@ -13,7 +13,7 @@
 11 Electrical, electronic, communications or data networks or mechanical services work, including work that is related to the construction, erection, installation, alteration, repair, servicing or dismantling of any plant, plant facility or equipment.
 12 The on-site construction, installation, alteration, repair, renovation, demolition or removal of—
   (a) a lift or escalator; or
-  (b) any airconditioning, ventilation or refrigeration system or equipment.
+  (b) any air conditioning, ventilation or refrigeration system or equipment.
 13 The construction, repair, alteration or removal of a playing field, golf course, racecourse, stadium, swimming pool or other sporting or recreational facility.
 14 Landscaping or the construction, alteration or removal of a park or garden.
 15 Work to improve the drainage of land.
