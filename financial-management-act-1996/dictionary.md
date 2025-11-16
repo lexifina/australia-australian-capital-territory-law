@@ -25,6 +25,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public servant
 • reviewable decision notice
 • Self-Government Act
+• statutory office-holder
+• territory law
 • territory-owned corporation
 • Treasurer.
 accounting standards means the accounting standards issued by the Australian Accounting Standards Board, as in force or applicable from time to time.
@@ -50,7 +52,7 @@ CEO—see chief executive officer.
 chief executive officer (or CEO), of a territory authority, means the person (however described) who is responsible for managing the affairs of the authority.
 class of outputs means a group of related outputs.
 contract includes an agreement or arrangement, whether or not its term extends for 1 or more years.
-controlled recurrent payment means an amount provided, or to be provided to a territory entity for the delivery of goods and services provided by the territory entity or a person providing goods and services on behalf of the territory entity.
+controlled recurrent payment means an amount provided, or to be provided, to a territory entity for the delivery of goods and services provided by the territory entity or a person providing goods and services on behalf of the territory entity.
 directorate means––
   (a) an administrative unit (excluding any part of an administrative unit prescribed for paragraph (b) and any administrative unit forming part of a group of administrative units prescribed for paragraph (c)); or
   (b) a part of an administrative unit prescribed for this paragraph; or
