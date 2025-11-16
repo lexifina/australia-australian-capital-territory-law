@@ -152,7 +152,7 @@ Note Disclosure is allowed under cl 8, cl 9 and cl 10.
 6 However, the treating team leader need not tell the consumer about the identity of individuals who are required to handle health records, or personal health information about the consumer, for the management, funding or quality of the health service received, or being received, by the consumer.
 7 A consent given by a consumer for clause 2 (c) must—
   (a) be in writing and signed—
-    (i) if the consumer is a child or a young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access a health record and the nature of the record—by a person with parental responsibility for the consumer; or
+    (i) if the consumer is a child or young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access a health record and the nature of the record—by a person with parental responsibility for the consumer; or
     (ii) if the consumer is a legally incompetent person—by a guardian of the consumer; or
     (iii) in any other case—by the consumer; and
   (b) name the health service provider who made the record.
@@ -163,7 +163,7 @@ Note Disclosure is allowed under cl 8, cl 9 and cl 10.
   (b) in the provider’s opinion, the disclosure is necessary to enable the carer to safely and effectively provide appropriate services to, or care for, the consumer.
 11 A treating health service provider for a consumer may disclose personal health information about the consumer to an immediate family member if—
   (a) the consumer cannot give or withhold consent to the disclosure, whether or not because the consumer is—
-    (i) a child or a young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access the health record and the nature of the record; or
+    (i) a child or young person who does not have sufficient maturity and developmental capacity to understand the nature of the young person’s request to access the health record and the nature of the record; or
     (ii) a legally incompetent person; and
   (b) the disclosure is made for compassionate reasons; and
   (c) the provider believes, on reasonable grounds, that the disclosure would be, or would have been, expected by the consumer; and
@@ -177,12 +177,12 @@ carer, of a consumer, means a person who gives care, support or assistance to th
     (i) under a commercial arrangement, or an arrangement that is substantially commercial; or
     (ii) in the course of doing voluntary work for a charitable, welfare or community organisation; or
     (iii) as part of a course of education or training; or
-Examples—people not included as carers
-1 Yiannis is the principal of Haig Park Primary School. Although Yiannis owes a duty of care to the students at Haig Park Primary School, Yiannis is not a carer for the purposes of principle 10.
-2 The ACAT makes an order under the Guardianship and Management of Property Act 1991, s 7 (3) appointing Tash as a guardian for Olympia. Even though Tash has a guardianship order in relation to Olympia, Tash is not a carer for the purposes of principle 10. Tash would need to give Olympia care, support or assistance to be a carer.
   (c) a person just because the person—
     (i) is the domestic partner, parent, child or other relative, or guardian of the consumer; or
     (ii) lives with the consumer.
+Examples—people not included as carers
+1 Yiannis is the principal of Haig Park Primary School. Although Yiannis owes a duty of care to the students at Haig Park Primary School, Yiannis is not a carer for the purposes of principle 10.
+2 The ACAT makes an order under the Guardianship and Management of Property Act 1991, s 7 (3) appointing Tash as a guardian for Olympia. Even though Tash has a guardianship order in relation to Olympia, Tash is not a carer for the purposes of principle 10. Tash would need to give Olympia care, support or assistance to be a carer.
 ## Principle 11: Relocation and closure of health service practice
 1 This principle applies if a health service practice is or is proposed to be—
   (a) relocated; or
