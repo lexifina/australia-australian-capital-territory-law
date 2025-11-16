@@ -18,6 +18,7 @@ director-general (see s 163)
 • public sector body
 • reviewable decision notice
 • territory land
+• territory law
 • territory planning authority
 • working day.
 Aboriginal cultural tree, for part 10A (Tree damaging activity etc)—see the Urban Forest Act 2023, dictionary.
