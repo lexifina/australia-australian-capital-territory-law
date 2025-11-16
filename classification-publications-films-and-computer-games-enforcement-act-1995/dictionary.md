@@ -50,7 +50,7 @@ publication—see the Commonwealth Act, section 5 (Definitions).
 public place means any place which the public is entitled to use or which is open to or used by the public, whether on payment of money or otherwise.
 publish—see the Commonwealth Act, section 5 (Definitions).
 R 18+ computer game, for division 6A.1 (Enforcement)—see section 54T.
-restricted publications area means any premises, or part of a premises, constructed and managed in accordance with section 61.
+restricted publications area means any premises, or part of premises, constructed and managed in accordance with section 61.
 reviewable decision, for part 7A (Notification and review of decisions)—see section 58.
 seized film or computer game, for division 6A.2 (Seized films and computer games)—see section 54Y.
 sell means sell or exchange or let on hire, and includes offer or display for sale or exchange or hire, agree to sell, exchange or hire and cause or permit to be sold or exchanged or hired, whether by retail or wholesale.
