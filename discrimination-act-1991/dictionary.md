@@ -19,6 +19,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • reviewable decision notice
 • State
 • territory authority
+• territory law
 • the Territory
 • under.
 accommodation includes residential and business accommodation.
@@ -46,7 +47,7 @@ educational institution means a school, college, university or other institution
 employer, in relation to an unpaid worker, means the person for whom the unpaid worker performs work.
 employment includes—
   (a) work under a contract for services; and
-  (b) work as a Territory employee; and
+  (b) work as a territory employee; and
   (c) work as an unpaid worker.
 employment agency means any person who or body that (whether for payment or not) assists people to find employment or other work or assists employers to find employees or workers.
 employment status includes—
@@ -144,9 +145,9 @@ sex characteristics—
     (ii) the person’s chromosomes, hormones and secondary physical features emerging as a result of puberty.
 sexual harassment, for part 5 (Sexual harassment)—see section 58.
 sexuality includes heterosexuality, homosexuality and bisexuality.
-Territory employee means a person who is—
+territory employee means a person who is—
   (a) a public servant; or
-  (b) employed by a Territory authority;
+  (b) employed by a territory authority.
 unlawful act means an act that is unlawful under—
   (a) part 3 (Unlawful discrimination); or
   (b) part 5 (Sexual harassment); or
