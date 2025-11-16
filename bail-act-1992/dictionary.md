@@ -8,7 +8,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • child
 • Chief Magistrate
 • chief police officer
+• Commonwealth Criminal Code
 • correctional centre
+• Criminal Code
 • director-general (see s 163)
 • domestic partner (see s 169 (1))
 • found guilty

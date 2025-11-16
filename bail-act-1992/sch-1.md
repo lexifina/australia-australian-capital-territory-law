@@ -50,7 +50,7 @@ column 1 item | column 2 provision | column 3 description of offence
 ## Part 1.5 Offences against Customs Act 1901 (Cwlth)
 column 1 item | column 2 provision | column 3 description of offence
 1 | 231 (1) | assembly for unlawful purposes
-## Part 1.6 Offences against Criminal Code (Cwlth)
+## Part 1.6 Offences against Commonwealth Criminal Code
 column 1 item | column 2 provision | column 3 description of offence
 1 | 307.1 | importing and exporting commercial quantities of border controlled drugs or border controlled plants
 2 | 307.2 | importing and exporting marketable quantities of border controlled drugs or border controlled plants
