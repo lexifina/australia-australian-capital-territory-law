@@ -6,6 +6,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • director-general (see s 163)
 • entity
 • Minister (see s 162)
+• territory authority
+• territory-owned corporation
 • the Territory
 • Treasurer.
 authority means the Australian Capital Territory Insurance Authority.
