@@ -76,7 +76,7 @@ gamete provider—
   (a) in relation to a gamete—means the person from whom the gamete has been obtained; and
   (b) in relation to an embryo—means a person from whom a gamete used to create the embryo was obtained.
 improvement notice—see section 79 (2).
-informal donor arrangement, for part 5 (Donor register)—see section 51.
+informal donor arrangement, for part 5 (Donor register)—see section 50.
 mandatory information means information of a kind given under section 53.
 mature donor conceived person, for part 5 (Donor register)—see section 51.
 obtain, a gamete, includes receive a gamete.
