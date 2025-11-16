@@ -15,7 +15,8 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • national land
 • reviewable decision notice
 • statutory office-holder
-• Territory land
+• territory land
+• territory law
 • territory planning authority
 • under.
 access point, for part 5A (Regulated swimming pools)—see section 83 (1).
