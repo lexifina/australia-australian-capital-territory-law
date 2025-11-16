@@ -5,6 +5,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • bankrupt or personally insolvent
 • breach
 • chief police officer
+• correctional centre
+• corrections officer
 • detention place
 • director-general (see s 163)
 • director of public prosecutions
@@ -58,8 +60,6 @@ core condition means—
   (b) of an offender’s good behaviour order—see section 84; or
   (c) of an offender’s parole order—see section 117; or
   (d) of an offender’s licence—see section 289.
-correctional centre—see the Corrections Management Act 2007, dictionary.
-corrections officer—see the Corrections Management Act 2007, dictionary.
 corresponding ACT court, in relation to a court of a participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
 corresponding community-based sentence law, for chapter 12 (Transfer of community-based sentences)—see section 267.
 corresponding Minister, of a participating state, for part 11.1 (Interstate transfer of prisoners)—see section 217.
