@@ -22,6 +22,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public trustee and guardian
 • reviewable decision notice
 • State
+• territory law
 • territory plan
 • territory planning authority.
 activity means a current or proposed activity including a process, operation, project, venture or business.
