@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • AS (see s 164 (1))
 • AS/NZS (see s 164 (2))
 • bankrupt or personally insolvent
+• building code
 • chief health officer
 • Chief Minister
 • chief police officer
@@ -49,7 +50,6 @@ assistant commissioner—see section 13.
 at premises includes in or on the premises.
 basic health benefits, for schedule 1 (Ambulance levy)—see schedule 1, section 1.1.
 built-up area—see section 6A.
-building code—see the Building Act 2004, section 136 (1).
 bushfire abatement zone means a bushfire abatement zone declared under section 71.
 bushfire management requirement means a requirement mentioned in section 74 (3) (a) (Content of strategic bushfire management plan).
 bushfire operational plan means a bushfire operational plan approved under section 78.

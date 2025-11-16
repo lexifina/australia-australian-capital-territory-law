@@ -27,7 +27,6 @@ Note 2 In particular, an appointment may be made by naming a person or nominatin
 Note 3 A person may be reappointed to a position if the person is eligible to be appointed to the position (see Legislation Act, s 208 and dict, pt 1, def appoint).
 (2) An appointment must be for a term of not longer than 3 years.
 (3) An appointment is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 ## 1A.4 Disclosure of interest by ASQAC members etc
 (1) If a person who is a member of, or acting under the direction of, the committee has a material interest in an issue being considered, or about to be considered, by the committee, the person must disclose the nature of the interest at a committee meeting as soon as practicable after the relevant facts come to the person’s knowledge.
 (2) The disclosure must be recorded in the committee’s minutes and, unless the committee otherwise decides, the person must not—
