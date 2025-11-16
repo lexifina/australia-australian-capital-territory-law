@@ -21,32 +21,32 @@ access, to data held in a computer, for part 4.2 (Computer offences)—see secti
 account, for part 3.3 (Fraudulent conduct)—see section 325.
 agent, for part 3.7 (Bribery and related offences)—see section 353.
 aggravated burglary—see section 312.
-aggravated perjury—see section 702.
+aggravated perjury, for chapter 7 (Administration of justice offences)—see section 702.
 aggravated robbery—see section 310.
 application date—see section 10.
 applied provisions—see section 10.
 belongs, in relation to property, for chapter 3 (Theft, fraud, bribery and related offences)—see section 301.
 benefit includes any advantage and is not limited to property.
-bet, by a person on an event, for part 3.8A (Cheating at gambling)—see section 363A.
+bet, by a person on an event, for part 3.8A (Cheating at gambling)—see section 363A (1).
 burglary—see section 311.
-cannabis—see section 600.
-cannabis plant—see section 600.
+cannabis, for chapter 6 (Serious drug offences)—see section 600 (1).
+cannabis plant, for chapter 6 (Serious drug offences)—see section 600 (1).
 cause—
-  (a) for chapter 3 (Theft, fraud, bribery and related offences) other than part 3.8A (Cheating at gambling)—see section 300; and
-  (b) for part 3.8A (Cheating at gambling)—see section 363B.
+  (a) a loss, for chapter 3 (Theft, fraud, bribery and related offences) generally—see section 300; and
+  (b) in relation to an occurrence or state of affairs, for part 3.8A (Cheating at gambling)—see section 363B.
 causes—
-  (a) for part 4.1 (Property damage offences)—see section 400; and
+  (a) damage or another result, for part 4.1 (Property damage offences)—see section 400; and
   (b) for part 4.2 (Computer offences)—see section 412; and
-  (c) for part 4.3 (Sabotage)—see section 422; and
-  (d) for chapter 7 (Administration of justice offences)—see section 700.
+  (c) damage or disruption, for part 4.3 (Sabotage)—see section 422; and
+  (d) a detriment or another result, for chapter 7 (Administration of justice offences)—see section 700.
 commercial quantity, for chapter 6 (Serious drug offences)—see section 601.
-conceal a thing, for chapter 6 (Serious drug offences)—see section 600.
+conceal a thing, for chapter 6 (Serious drug offences)—see section 600 (1).
 conduct—
-  (a) for the Act (other than part 3.8A (Cheating at gambling))—see section 13; and
-  (b) for part 3.8A (Cheating at gambling)—see section 363A.
-controlled drug—see section 600.
-controlled plant—see section 600.
-controlled precursor—see section 600.
+  (a) for the Act generally—see section 13; and
+  (b) for part 3.8A (Cheating at gambling)—see section 363A (1).
+controlled drug, for chapter 6 (Serious drug offences)—see section 600 (1).
+controlled plant, for chapter 6 (Serious drug offences)—see section 600 (1).
+controlled precursor, for chapter 6 (Serious drug offences)—see section 600 (1).
 corrupts a betting outcome, for part 3.8A (Cheating at gambling)—see section 363C.
 create—a law creates an offence if it directly or indirectly creates the offence or directly or indirectly affects its scope or operation.
 criminal activity, for chapter 6A (Participation in criminal groups)—see section 650.
@@ -54,8 +54,8 @@ criminal group, for chapter 6A (Participation in criminal groups)—see section 
 cultivates a plant, for chapter 6 (Serious drug offences)—see section 615.
 cultivation, of a plant, for chapter 6 (Serious drug offences)—see section 615.
 damage—
-  (a) for part 4.1 (Property damage offences)—see section 400; and
-  (b) for part 4.3 (Sabotage)—see section 422.
+  (a) property, for part 4.1 (Property damage offences)—see section 400; and
+  (b) to a public facility, for part 4.3 (Sabotage)—see section 422.
 data, for part 4.2 (Computer offences)—see section 412.
 data held in a computer, for part 4.2 (Computer offences)—see section 412.
 data storage device, for part 4.2 (Computer offences)—see section 412.
@@ -71,9 +71,9 @@ drug offence, for part 6.7 (Offences relating to property derived from drug offe
 duty, of a person who is a public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 electronic communication, for part 4.2 (Computer offences)—see section 412.
 employee includes a servant.
-encourage, for part 3.8A (Cheating at gambling)—see section 363A.
+encourage, a person, for part 3.8A (Cheating at gambling)—see section 363A (1).
 engage in conduct—see section 13.
-event, for part 3.8A (Cheating at gambling)—see section 363A.
+event, for part 3.8A (Cheating at gambling)—see section 363A (1).
 evidence, for chapter 7 (Administration of justice offences)—see section 700.
 evidential burden—see section 58 (7).
 explosive means a substance or article that—
@@ -83,8 +83,8 @@ false document, for part 3.6 (Forgery and related offences)—see section 344.
 fault element—see section 17.
 fault element of basic intent—see section 30 (1).
 favour, for part 3.7 (Bribery and related offences)—see section 352.
-financial advantage, for part 3.8A (Cheating at gambling)—see section 363A.
-financial disadvantage, for part 3.8A (Cheating at gambling)—see section 363A.
+financial advantage, for part 3.8A (Cheating at gambling)—see section 363A (1).
+financial disadvantage, for part 3.8A (Cheating at gambling)—see section 363A (1).
 firearm includes an airgun and an airpistol.
 forgery—see section 346.
 function, of an agent, for part 3.7 (Bribery and related offences)—see section 352.
@@ -93,10 +93,11 @@ harm means—
   (a) physical harm to a person, including unconsciousness, pain, disfigurement, infection with a disease and any physical contact with the person that a person might reasonably object to in the circumstances (whether or not the person was aware of it at the time); and
   (b) harm to a person’s mental health, including psychological harm, but not including mere ordinary emotional reactions (for example, distress, grief, fear or anger);
 whether temporary or permanent, but does not include being subjected to any force or impact that is within the limits of what is acceptable as incidental to social interaction or to life in the community.
-impairment, for part 4.2 (Computer offences)—see section 412.
+impairment, of electronic communication to or from a computer, for part 4.2 (Computer offences)—see section 412.
 in a legal proceeding, for chapter 7 (Administration of justice offences)—see section 701 (3).
 indirectly derived, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 intention—see section 18.
+intermediary, for chapter 7 (Administration of justice offences)—see the Evidence (Miscellaneous Provisions) Act 1991, section 4AG.
 interpreter, for chapter 7 (Administration of justice offences)—see section 700.
 intoxication—see section 30 (1).
 irreversible means irreversible by natural or artificial means.
@@ -120,7 +121,7 @@ motor vehicle—see the Road Transport (General) Act 1999, dictionary.
 Nazi symbol, for part 7A.2 (Public display of Nazi symbols)—see section 751.
 negligent—see section 21.
 obtain—
-  (a) for chapter 3 (Theft, fraud, bribery and related offences) other than part 3.8A (Cheating at gambling)—see section 300; and
+  (a) for chapter 3 (Theft, fraud, bribery and related offences) generally—see section 300; and
   (b) for part 3.8A (Cheating at gambling)—see section 363D.
 obtaining property by deception—see section 326.
 offence means an offence against a law.
@@ -130,10 +131,10 @@ offensive weapon includes the following:
   (c) a firearm, or anything that may reasonably be taken in the circumstances to be a firearm;
   (d) a knife, or anything that may reasonably be taken in the circumstances to be a knife;
   (e) an explosive, or anything that may reasonably be taken in the circumstances to be or contain an explosive.
-perjury—see section 703.
+perjury, for chapter 7 (Administration of justice offences)—see section 703.
 physical element of an offence—see section 14.
-possession, of a thing, for chapter 6 (Serious drug offences)—see section 600.
-prepare a drug for supply, for chapter 6 (Serious drug offences)—see section 600.
+possession, of a thing, for chapter 6 (Serious drug offences)—see section 600 (1).
+prepare a drug for supply, for chapter 6 (Serious drug offences)—see section 600 (1).
 principal, for part 3.7 (Bribery and related offences)—see section 353.
 proceeds of a drug offence, for part 6.7 (Offences relating to property derived from drug offences)—see section 638.
 product, of a plant, for chapter 6 (Serious drug offences)—see section 615.
@@ -152,7 +153,7 @@ public facility, for part 4.3 (Sabotage)—see section 422.
 public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 receiving—see section 313.
 reckless—see section 20.
-required geographical nexus, for part 2.7 (Geographical application)—see section 63.
+required geographical nexus, for part 2.7 (Geographical application)—see section 63 (1).
 robbery—see section 309.
 self-induced intoxication—see section 30 (2).
 sell, for chapter 6 (Serious drug offences)—see section 600.
@@ -169,7 +170,7 @@ statement, for chapter 7 (Administration of justice offences)—see section 700.
 subpoena, for chapter 7 (Administration of justice offences)—see section 700.
 supply—
   (a) for chapter 3 (Theft, fraud, bribery and related offences)—see section 300; and
-  (b) for chapter 6 (Serious drug offences)—see section 600.
+  (b) for chapter 6 (Serious drug offences)—see section 600 (1).
 sworn statement, for chapter 7 (Administration of justice offences)—see section 700.
 territory public official, for chapter 3 (Theft, fraud, bribery and related offences)—see section 300.
 theft—see section 308 (Theft) and section 321 (Minor theft).
@@ -177,8 +178,8 @@ threat—
   (a) for this Act generally—includes a threat made by any conduct, whether explicit or implicit and whether conditional or unconditional; and
   (b) for part 4.1 (Property damage offences)—see section 402.
 trafficable quantity, for chapter 6 (Serious drug offences)—see section 601.
-traffics in a controlled drug—see section 602.
-transport, for chapter 6 (Serious drug offences)—see section 600.
+traffics in a controlled drug, for chapter 6 (Serious drug offences)—see section 602.
+transport, for chapter 6 (Serious drug offences)—see section 600 (1).
 unauthorised computer function, for part 4.3 (Sabotage)—see section 422.
 unwarranted demand with a menace, for part 3.5 (Blackmail)—see section 341.
 witness, for chapter 7 (Administration of justice offences)—see section 700.
