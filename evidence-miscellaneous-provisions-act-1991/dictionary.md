@@ -23,7 +23,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • sentence administration board
 • take (an oath).
 ACT court—see the Evidence Act 2011, dictionary, part 1.
-Note ACT court means the Supreme Court or Magistrates Court, and includes an entity that, in exercising a function under a territory law, is required to apply the laws of evidence.
 audio link, for chapter 3 (Use of audiovisual links and audio links)—see section 16.
 audiovisual link means a system of 2-way communication linking different places so that a person at any of them can be seen and heard at the other places.
 audiovisual recording, for division 4.3.3 (Special requirements—audiovisual recording of police interview)—see section 51.
