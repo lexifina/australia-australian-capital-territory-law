@@ -169,8 +169,7 @@ Note 3 A provision of a law that gives an entity (including a person) a function
 ## Division 2.2.3 Work health and safety commissioner
 ## 2.21 Appointment of WHS commissioner
 ## (1) The Executive must appoint a person as the Work Health and Safety Commissioner (the WHS commissioner).
-Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
-Note 2 In particular, an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+Note For laws about appointments, see the Legislation Act, pt 19.3.
 ## (2) The Executive must not appoint a person as WHS commissioner unless satisfied that—
 ## (a) the Minister consulted with the chair and deputy chair of the council in relation to the selection process for the commissioner; and
 ## (b) the appointment follows an open and accountable selection process; and
@@ -247,11 +246,9 @@ staff of the office means—
   (c) consultants and contractors engaged under section 2.33.
 ## 2.31 Appointment of deputy WHS commissioner
 ## (1) The WHS commissioner must appoint a public servant to be the deputy WHS commissioner.
-Note 1 For the making of appointments (including acting appointments), see the Legislation Act, pt 19.3.
-Note 2 In particular, a person may be appointed for a particular provision of a law (see Legislation Act, s 7 (3)) and an appointment may be made by naming a person or nominating the occupant of a position (see Legislation Act, s 207).
+Note For laws about appointments, see the Legislation Act, pt 19.3.
 ## (2) However, the WHS commissioner must not appoint a person as the deputy WHS commissioner unless satisfied that the person has the experience or expertise necessary to exercise the WHS commissioner’s functions.
 ## (3) If the appointment of the WHS commissioner has ended, or the commissioner is absent or cannot for any reason exercise the commissioner’s functions, the deputy WHS commissioner must act as the WHS commissioner.
-Note The Legislation Act, div 19.3.2A deals with standing acting arrangements.
 ## (4) However, the deputy WHS commissioner must not act as the WHS commissioner for a continuous period of more than 6 months.
 ## 2.32 Employment of staff
 ## (1) The WHS commissioner may employ staff on behalf of the Territory.

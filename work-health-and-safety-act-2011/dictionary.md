@@ -6,11 +6,14 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Act
 • corporation
 • Corporations Act
+• doctor
 • emergency service
+• enrolled nurse
 • found guilty (of an offence)
 • function
 • home address
 • medical practitioner
+• nurse
 • police officer
 • the Territory
 • working day.
