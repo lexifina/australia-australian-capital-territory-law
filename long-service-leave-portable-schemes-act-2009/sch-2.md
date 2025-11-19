@@ -3,7 +3,7 @@
 ## 2.1 What is the services industry?
 ## (1) The services industry is—
 ## (a) in relation to the ACT—any of the following industries:
-## (i) the industry in which employers provide cleaning work to other people through the provision of workers’ services (the cleaning services industry);
+## (i) the industry in which employers provide cleaning work to other people through the provision of workers’ services (the contract cleaning services industry);
 ## (ii) the industry that provides hairdressing or beauty services within the meaning of the ANZSIC, Division S, Class 9511, Hairdressing and Beauty Services (the hairdressing and beauty services industry);
 ## (iii) the industry that provides accommodation, food, beverage and hospitality services within the meaning of the ANZSIC, Division H, Accommodation and Food Services (the accommodation and food services industry); and
 ## (b) in relation to a reciprocating State—an industry of a kind mentioned in paragraph (a) to which a corresponding law of the State applies.
@@ -14,7 +14,7 @@ Note The ANZSIC is available free of charge at www.abs.gov.au.
 ## 2.2 What is services work?
 ## (1) In this Act:
 services work means—
-  (a) in relation to the cleaning services industry—
+  (a) in relation to the contract cleaning services industry—
     (i) work that has, as its only or main component, bringing premises into, or maintaining premises in, a clean condition; or
     (ii) the collection or sorting of waste at, or for, an identified waste management facility if the employer providing the work through the provision of services does so under a contract with the Territory; and
   (b) in relation to the hairdressing and beauty services industry—providing hairdressing services or providing beauty services (including nail care services, facials or applying make-up); and
@@ -25,11 +25,9 @@ Note 3 For s (1) (c), gambling institutions (casinos), amusement and recreation 
 ## (2) However, in relation to the accommodation and food services industry, services work does not include providing professional, scientific and technical services within the meaning of the ANZSIC, Division M, Professional, Scientific and Technical Services.
 ## (3) The Minister may determine that a facility is an identified waste management facility for subsection (1), definition of services work, paragraph (a) (ii).
 ## (4) A determination is a notifiable instrument.
-## (5) In this section:
-accommodation and food services industry—see section 2.1 (1) (a) (iii).
+(5) In this section:
 ANZSIC—see section 2.1 (2).
-cleaning services industry—see section 2.1 (1) (a) (i).
-hairdressing and beauty services industry—see section 2.1 (1) (a) (ii).
+contract cleaning services industry—see section 2.1 (1) (a) (i).
 ## 2.3 Recognised service—services industry
 ## (1) In this schedule:
 recognised service, for a registered worker in the services industry, means the total number of days of service credit for all of the service periods of the worker less any days of service credit that the worker—
@@ -99,7 +97,9 @@ prescribed retiring age means—
 (2) The authority must pay to the applicant the amount payable under section 2.11 (How are leave payments worked out for the services industry?) if the governing board is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the services industry; and
   (b) the applicant has been granted leave by the applicant’s employer.
-## (3) The authority must pay an applicant any amount payable under subsection (2) not later than 21 days after the worker’s application has been made.
+(3) The authority must pay an applicant any amount payable under subsection (2)—
+  (a) if agreed between the worker and the authority—in the 14-day period before the day the long service leave starts; or
+  (b) in any other case—within 21 days after the day the worker’s application was made.
 ## 2.10 Payments instead of leave—services industry
 ## (1) If a registered worker for the services industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
 ## (2) An application by a registered employee for the services industry on the ground that the employee has ceased work in the services industry because of total incapacity must be accompanied by a certificate of a doctor certifying that the employee is totally incapacitated for employment in the industry.

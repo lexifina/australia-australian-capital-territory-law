@@ -85,7 +85,9 @@ prescribed retiring age—
 (2) The authority must pay to the applicant the amount payable under section 4.12 (How are leave payments worked out for the security industry?) if the registrar is satisfied that—
   (a) the applicant is entitled to long service leave under this Act for work done in the security industry; and
   (b) the applicant has been granted leave by the applicant’s employer.
-(3) The authority must pay an applicant any amount payable under subsection (2) not later than 21 days after the worker’s application has been made.
+(3) The authority must pay an applicant any amount payable under subsection (2)—
+  (a) if agreed between the worker and the authority—in the 14-day period before the day the long service leave starts; or
+  (b) in any other case—within 21 days after the day the worker’s application was made.
 ## 4.11 Payment instead of leave—security industry
 (1) If a registered worker for the security industry is entitled to payment instead of long service leave under this Act, the worker may apply to the authority for the payment.
 (2) An application by a registered employee for the security industry on the ground that the employee has ceased work in the security industry because of total incapacity must be accompanied by a certificate of a doctor certifying that the employee is totally incapacitated for employment in the industry.

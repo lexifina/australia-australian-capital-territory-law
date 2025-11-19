@@ -18,6 +18,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • reviewable decision notice
 • State
 • the Territory.
+accommodation and food services industry—see schedule 2, section 2.1 (1) (a) (iii).
 apprentice means an apprentice other than a school-based apprentice.
 at premises, for part 8 (Enforcement)—see section 70.
 authority means the Long Service Leave Authority established under section 79A.
@@ -39,6 +40,7 @@ employee—see section 9.
 employer—see section 7.
 employers register—see section 30.
 governing board means the governing board of the authority established under section 79E.
+hairdressing and beauty services industry—see schedule 2, section 2.1 (1) (a) (ii).
 internally reviewable decision, for part 9 (Notification and review of decisions)—see section 80A (1).
 long service leave formula—
   (a) for the building and construction industry—see schedule 1, section 1.5; and
