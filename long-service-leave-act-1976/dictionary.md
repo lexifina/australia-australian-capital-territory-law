@@ -14,6 +14,7 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 agreement means an enterprise agreement made under the Fair Work Act 2009 (Cwlth).
 approved training contract—see the Training and Tertiary Education Act 2003, dictionary.
 associated company means a company that is a subsidiary, holding company or related body corporate under the Corporations Act, section 9.
+at premises, for part 3 (Administration and enforcement)—see section 12A.
 authorised officer means a person who is an authorised officer under section 13A.
 award means a modern award or workplace determination made under the Fair Work Act 2009 (Cwlth).
 casual employee means a person who is, from time to time offered regular and systematic employment on the basis that the offer of employment might be accepted or rejected and in circumstances where it could be expected by that person that further employment of the same type would or might be offered and accepted, but in respect of which there is no certainty about the period over which it would continue to be offered.
@@ -30,12 +31,14 @@ employee—
   (b) does not include—
     (i) a public employee; or
     (ii) a person employed by a member of the Legislative Assembly under the Legislative Assembly (Members’ Staff) Act 1989, section 10.
+occupier, of premises, for part 3 (Administration and enforcement)—see section 12A.
 ordinary remuneration, in relation to an employee, means the sum of—
   (a) the salary or wages payable to the employee; and
   (b) any allowances payable to the employee in respect of skill, qualifications, board and lodging; and
   (c) any amounts payable to the employee under a bonus, performance pay or incentive scheme, being amounts that are usually paid to the employee with his or her salary or wages; and
   (d) where the employee is provided with board and lodging by his or her employer, an amount equal to the value of that board and lodging.
 period of service—see section 2G (Periods of service).
+premises, for part 3 (Administration and enforcement)—see section 12A.
 salary or wages does not include—
   (a) payments in respect of overtime; or
   (b) payments at penalty rates of pay; or
