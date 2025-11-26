@@ -6,7 +6,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • exercise
 • fail
 • found guilty (of an offence)
-• function
 • nurse
 • nurse practitioner.
 Note 3 The Road Transport (General) Act 1999 contains definitions relevant to this Act. For example, the following terms are defined in the Road Transport (General) Act 1999, dictionary:
@@ -28,7 +27,6 @@ accident means an accident on a road or road related area, whether within or out
 alcohol screening device—see section 7.
 alcohol screening test, for a person, means a test of a sample of the person’s breath using an alcohol screening device.
 analyst means a person appointed by the road transport authority under section 5B.
-another jurisdiction means a jurisdiction other than the ACT.
 approved laboratory means a laboratory or other entity approved by the road transport authority under section 6.
 Australian driver licence—see the Road Transport (Driver Licensing) Act 1999, dictionary.
 authorised operator means the following:
