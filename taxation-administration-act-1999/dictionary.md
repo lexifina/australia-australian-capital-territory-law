@@ -8,7 +8,9 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Australian statistician
 • commissioner for fair trading
 • Commonwealth
+• Commonwealth Criminal Code
 • Corporations Act
+• Criminal Code
 • director-general (see s 163)
 • Executive
 • found guilty
