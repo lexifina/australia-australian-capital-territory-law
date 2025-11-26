@@ -14,6 +14,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • public servant
 • public trustee and guardian
 • reviewable decision notice
+• territory law
 • territory plan
 • territory planning authority.
 abatement notice means a notice under section 69.
