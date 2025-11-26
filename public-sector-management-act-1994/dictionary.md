@@ -110,7 +110,7 @@ promotion, in relation to an officer, means a permanent movement of an officer w
 Note The comparative level of classifications is determined by the maximum salary payable to a classification (see s 23 (3)).
 public sector means the following:
   (a) the service;
-  (b) entities in which public sector members are employed that are owned or operated by the Territory or a Territory instrumentality.
+  (b) entities in which public sector members are employed that are owned or operated by the Territory or a territory instrumentality.
 public sector employer—see section 152 (1).
 public sector member—see section 150.
 public sector principles—see section 8 (1).
