@@ -30,6 +30,7 @@ prescribed concentration of alcohol, for part 3 (Alcohol and drug testing) and t
 prescribed drug, for part 3 (Alcohol and drug testing) and the testing provisions—see section 10 (1).
 Rail Safety National Law (ACT) means the provisions applying because of section 6.
 sample taker, for part 3 (Alcohol and drug testing) and the testing provisions—see section 10 (1).
+sampling facility, for part 3 (Alcohol and drug testing)—see section 10 (1).
 South Australian Act means the Rail Safety National Law (South Australia) Act 2012 (SA).
 Note A reference to a law (including the South Australian Act) includes a reference to the law as originally made and as amended (see Legislation Act, s 102).
 testing provisions, for part 3 (Alcohol and drug testing) and the testing provisions—see section 10 (1).
