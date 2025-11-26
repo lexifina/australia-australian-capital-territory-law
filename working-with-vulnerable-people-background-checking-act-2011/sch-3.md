@@ -5,7 +5,6 @@
 In this schedule:
 Animal Welfare Act means the Animal Welfare Act 1992.
 Crimes Act means the Crimes Act 1900.
-Criminal Code means the Criminal Code 2002.
 Drugs of Dependence Act means the Drugs of Dependence Act 1989.
 Road Transport (Safety and Traffic Management) Act means the Road Transport (Safety and Traffic Management) Act 1999.
 Sex Work Act means the Sex Work Act 1992.

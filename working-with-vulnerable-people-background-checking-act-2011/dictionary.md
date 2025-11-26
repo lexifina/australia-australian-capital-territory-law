@@ -54,7 +54,6 @@ corresponding law means—
   (a) a law of another jurisdiction corresponding, or substantially corresponding, to this Act; or
   (b) a law of another jurisdiction prescribed by regulation as a corresponding law for this Act.
 Crimes Act, for schedule 3 (Disqualifying offences)—see schedule 3, section 3.1.
-Criminal Code, for schedule 3 (Disqualifying offences)—see schedule 3, section 3.1.
 criminal history, about a person—see section 24.
 disqualifying offence—see section 11B.
 Drugs of Dependence Act, for schedule 3 (Disqualifying offences)—see schedule 3, section 3.1.
