@@ -4,6 +4,7 @@ Note 1 The Legislation Act contains definitions and other provisions relevant to
 Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
 • ACAT
 • ACT
+• administrative unit
 • contravene
 • director-general (see s 163)
 • disallowable instrument (see s 9)
@@ -17,6 +18,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public servant
 • reviewable decision notice
 • State
+• territory authority
+• territory law
 • the Territory.
 accommodation and food services industry—see schedule 2, section 2.1 (1) (a) (iii).
 apprentice means an apprentice other than a school-based apprentice.
