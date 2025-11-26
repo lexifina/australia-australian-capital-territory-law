@@ -7,8 +7,7 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • Minister (see s 162)
 • public employee
 • public notice
-• Speaker
-• territory instrumentality.
+• Speaker.
 access arrangements, in relation to a place, mean—
   (a) for a place on the suitable places list—the arrangements made for the place under section 10; and
   (b) for government school premises—the arrangements made for the premises under section 14; and
