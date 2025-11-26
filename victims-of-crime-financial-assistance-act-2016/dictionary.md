@@ -47,7 +47,6 @@ contact with the commissioner includes contact with—
 convicted, for part 7 (Victims financial assistance levy)—see section 81.
 convicts, for part 7 (Victims financial assistance levy)—see section 81.
 Crimes Act, for schedule 1 (Offences—act of violence)—see schedule 1, section 1.1.
-Criminal Code, for schedule 1 (Offences—act of violence)—see schedule 1, section 1.1.
 dependant, of a primary victim, means—
   (a) a person who is wholly or partly dependent for economic support on the primary victim at the time of the primary victim’s death; or
   (b) a person who would have been wholly or partly dependent for economic support on the primary victim’s income at the time of the primary victim’s death but for the incapacity of the primary victim because of the act of violence that resulted in the death; or

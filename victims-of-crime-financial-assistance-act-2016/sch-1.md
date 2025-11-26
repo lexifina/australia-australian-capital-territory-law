@@ -4,7 +4,6 @@
 ## 1.1 Definitions—sch 1
 In this schedule:
 Crimes Act means the Crimes Act 1900.
-Criminal Code means the Criminal Code 2002.
 Family Violence Act means the Family Violence Act 2016.
 Firearms Act means the Firearms Act 1996.
 Public Order Act means the Public Order (Protection of Persons and Property) Act 1971 (Cwlth).
