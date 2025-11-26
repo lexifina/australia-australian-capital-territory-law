@@ -18,6 +18,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • optometrist
 • pharmacist
 • reviewable decision notice
+• territory-owned corporation
 • under
 • veterinary practitioner.
 another jurisdiction, for chapter 6A (Monitored medicines database)—see section 97B.
@@ -113,7 +114,7 @@ requisition means an oral or written request for the supply of a medicine—
   (b) to a pharmacy in an institution from a ward in the institution; or
   (c) to a ward in an institution from another ward in the institution; or
   (d) from a pharmacy in an institution to a pharmacy in another institution.
-residential aged care facility means a residential facility that provides residential care within the meaning of the Aged Care Act 1997 (Cwlth), section 41-3 (Meaning of residential care) to residents at the facility.
+residential aged care facility means a residential care home within the meaning of the Aged Care Act 2024 (Cwlth), section 10.
 residential disability care facility—
   (a) means a residential facility that provides disability care to people with disabilities; but
   (b) does not include a residential aged care facility.
