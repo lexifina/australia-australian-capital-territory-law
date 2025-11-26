@@ -20,6 +20,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • public servant
 • reviewable decision notice
 • State
+• territory land
+• territory law
 • the Territory.
 administrator, for part 3A (Energy industry levy)—see section 54N.
 annual licence fee, for a licence, means the fee determined under section 45 (Determination of fee) for the licence for the relevant financial year.
@@ -76,7 +78,7 @@ land-holder—
   (a) in relation to private land, means—
     (i) an owner of the land; or
     (ii) if the land is occupied by a person other than the owner—an occupier of the land; and
-  (b) in relation to unleased Territory land—means the Territory; and
+  (b) in relation to unleased territory land—means the Territory; and
   (c) in relation to national land—means the Commonwealth, and includes a lessee of the land.
 land sublease—see the Planning Act 2023, dictionary.
 levy, for part 3A (Energy industry levy)—see section 54A.
@@ -126,7 +128,7 @@ premises includes land and place.
 private land means land other than public land.
 proceeding under this Act, for part 15 (Vicarious liability)—see section 251.
 protected tree—see the Urban Forest Act 2023, section 9.
-public land means national land or unleased Territory land.
+public land means national land or unleased territory land.
 registrar, for part 12 (Complaints to ACAT about utilities)—see section 169.
 regulated utility––see the Utilities (Technical Regulation) Act 2014, section 8.
 regulatory cost, for part 3A (Energy industry levy)—see section 54G (1).
