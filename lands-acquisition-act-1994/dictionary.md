@@ -13,8 +13,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • High Court
 • land
 • reviewable decision notice
-• territory authority
 • territory land
+• territory law
 • territory planning authority
 • the Territory
 • working day.
@@ -43,7 +43,7 @@ interest—
   (b) due to a mortgagee under a mortgage at a particular time, for division 6.3 (Amount of compensation—mortgage interests)—see section 53 (2).
 internally reviewable decision, for part 9A (Notification and review of decisions)—see section 104AA.
 internal review notice—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
-land means Territory land.
+land means territory land.
 loss, suffered by a person, for part 7 (Compensation for exercise of powers under part 2 and failure to acquire)—see section 79.
 market value, for division 6.2 (Amount of compensation—interests other than mortgage interests)—see section 46.
 money, due to a mortgagee, for division 6.3 (Amount of compensation—mortgage interests)—see section 53 (1).
@@ -55,6 +55,6 @@ planning instrument means an instrument made under a Territory or Commonwealth l
 pre-acquisition declaration means a declaration under section 19 (1).
 public purpose means a purpose in respect of which the Legislative Assembly or the Commonwealth Parliament has power to make laws.
 reviewable decision, for part 9A (Notification and review of decisions)—see section 104AA.
-Territory authority means an authority that is incorporated under a Territory law, not being a body that is declared by the regulations to be an exempt authority.
+territory authority means an authority incorporated under a territory law, but does not include a body declared by regulation not to be a territory authority.
 trust account means the trust account referred to in section 104A.
 utility—see the Utilities Act 2000, dictionary.
