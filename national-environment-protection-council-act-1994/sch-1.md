@@ -1,5 +1,5 @@
 # Schedule 1 Intergovernmental agreement on the environment
-(see s 5)
+(see dict, def agreement)
 AN AGREEMENT made the 1st day of May one thousand nine hundred and ninety two
 BETWEEN
 THE COMMONWEALTH OF AUSTRALIA of the first part,
