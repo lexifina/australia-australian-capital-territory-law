@@ -2,7 +2,7 @@
 (see s 4B)
 column 1 item | column 2 description
 1 | body armour
-2 | a modified article of clothing, accessory or adornment a purpose of which is to disguise or conceal a weapon Examples—modified articles 1 a walking stick containing a sword 2 a riding crop containing a stiletto 3 a Bowen knife belt Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
+2 | a modified article of clothing, accessory or adornment a purpose of which is to disguise or conceal a weapon Examples—modified articles 1 a walking stick containing a sword 2 a riding crop containing a stiletto 3 a Bowen knife belt
 3 | a suppressor
 4 | equipment made or modified to make a smoke screen
 5 | a trip flare
