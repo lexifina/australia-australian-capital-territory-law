@@ -82,7 +82,7 @@ column 1 item | column 2 monetary penalty tier | column 3 monetary penalty—ind
 3 | tier 3 | $7 000 | $35 000
 4 | tier 4 | $2 800 | $14 000
 ## 4.4 Indexation of penalty amounts
-## (1) The amount of each monetary penalty set out in sections 4.1 to 4.3 must be indexed for the year starting on 1 July 2024, and for each subsequent year, in accordance with this section.
+## (1) The amount of each monetary penalty set out in sections 4.1, 4.2 and 4.3 must be indexed for the year starting on 1 July 2024, and for each subsequent year, in accordance with this section.
 ## (2) The amount of a monetary penalty applying in a year is worked out as follows:
 A means the amount of a monetary penalty set out in sections 4.1 to 4.3.
 B means the CPI number for the March quarter in the year immediately preceding the year for which the amount is worked out.
