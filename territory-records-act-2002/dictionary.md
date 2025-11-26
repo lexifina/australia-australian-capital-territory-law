@@ -23,7 +23,6 @@ approved records management program means a records management program approved 
 approved code means a code approved under section 18 (Approved standards and codes for records management).
 approved standard means a standard approved under section 18 (Approved standards and codes for records management).
 arrangement includes a contract.
-Assembly, for part 3A (Executive records—access and release)—see section 31B.
 Canberra Day, in any year, means the day that is Canberra Day under the Holidays Act 1958.
 contrary to the public interest information—see the FOI Act, section 16.
 control, of a record—see section 11.
