@@ -1,19 +1,10 @@
 # Dictionary
 (see s 3)
-Note 1 The Legislation Act contains definitions and other provisions relevant to this Act.
-Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms:
-• ACAT
+Note The Legislation Act contains definitions relevant to this Act. For example:
 • Australian Consumer Law (ACT)
-• Australian Criminal Intelligence Commission
-• entity
-• found guilty
-• Minister (see s 162)
-• occupational discipline order
-• reviewable decision notice
-• State.
-advisory committee—see section 39.
+• penalty unit (see s 133)
+• person (see s 160).
 commissioner means the commissioner for fair trading.
-consumer—see the Australian Consumer Law (ACT), section 2 (1).
 motor vehicle—see the Sale of Motor Vehicles Act 1977, dictionary.
 motor vehicle repair work—
   (a) means—
@@ -29,4 +20,3 @@ motor vehicle repair work—
     (ii) giving advice on any of the work mentioned in subparagraph (i); and
     (iii) any other work prescribed by regulation to be motor vehicle repair work; but
   (b) does not include any work prescribed by regulation not to be motor vehicle repair work.
-representative members, of the advisory committee—see section 41.
