@@ -47,7 +47,6 @@ Note Section 3.20 explains who is entitled to vote on which kinds of motion. For
 ## (d) if a motion is to be moved that requires an unopposed or unanimous resolution—the text of the motion and the kind of resolution.
 ## (2) For a notice of a general meeting given to a person entitled to vote on any motion, the notice must include—
   (a) a proxy form; and
-Note If a form is approved under s 146 for this provision, the form must be used.
 ## (b) an absentee voting paper for the motion in a form approved by the executive committee.
 ## (3) For a notice of an annual general meeting, the notice must include a copy of the following:
 ## (a) the annual financial statements of the corporation to be presented at the meeting;
@@ -77,7 +76,6 @@ Note If a form is approved under s 146 for this provision, the form must be used
 ## (c) if the motion (or any other) is not voted on at the adjourned meeting—the adjourned meeting may resolve to adjourn again to the same day in the next week at the same place and time to consider the resolution (and any others remaining to be considered at the meeting).
 ## 3.10 Notice of reduced quorum decisions and adjournments
 ## (1) If a decision (a reduced quorum decision) is made on a motion while a reduced quorum was present for the consideration of the motion, within 14 days after the meeting the owners corporation must give each person mentioned in section 3.6 (1) (Notice of general meetings) written notice of the reduced quorum decision.
-Note If a form is approved under s 146 for a notice, the form must be used.
 (2) A reduced quorum decision notice is taken to be given—
   (a) if sent by prepaid post or email—when it is sent; and
   (b) if placed in the letterbox for mail for an occupier who is a member of the corporation—when it is placed in the letterbox.
@@ -212,8 +210,7 @@ Evidence of any of the following facts may be given by a certificate issued by t
 ## (d) the fact that notice of the discharge of a mortgage was given to the owners corporation on a stated date.
 ## 3.26 Proxy votes
 ## (1) Votes at a general meeting may be cast by proxy (whether or not a poll is demanded).
-Note 1 If a form is approved under s 146 for this provision, the form must be used.
-Note 2 Also, a proxy form must accompany the notice of general meeting (see s 3.7 (2) (a)).
+Note Also, a proxy form must accompany the notice of general meeting (see s 3.7 (2) (a)).
 ## (2) A person entitled to vote at a general meeting of an owners corporation must not—
 ## (a) appoint a proxy for more than 1 year after the day the appointment is made; or
 ## (b) appoint a person as a proxy if the person is—

@@ -140,7 +140,6 @@ unit entitlement—see the Unit Titles Act 2001, section 8.
 unit owner means the registered proprietor of the lease of the unit and includes a part-owner.
 Note The term owner is also defined in the dictionary with the same meaning.
 units plan—see the Unit Titles Act 2001, dictionary.
-unit subsidiary—see the Unit Titles Act 2001, section 12.
 unit title rental certificate—see section 119 (1) (c).
 unit title sale certificate—see section 119 (1) (a).
 unit title sale update certificate—see section 119 (1) (b).
