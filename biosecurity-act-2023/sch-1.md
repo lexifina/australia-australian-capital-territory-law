@@ -13,7 +13,7 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 10 | 99 | impose condition on registration | registered person
 11 | 102 | suspend registration | registered person
 12 | 105 | cancel registration | registered person
-13 | 123 | give non-compliance order | interstate entity with recognised approval
+13 | 123 | give non-compliance notice | interstate entity with recognised approval
 14 | 131 | refuse approval | applicant
 15 | 131 | refuse to renew approval | approval-holder
 16 | 135 | amend approval | approval-holder
