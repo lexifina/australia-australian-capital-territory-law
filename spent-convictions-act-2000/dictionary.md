@@ -16,7 +16,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • police officer
 • public employee
 • State
-• Territory authority
+• territory authority
 • territory law
 • the Territory.
 ACT offence means an offence against a Territory law.
@@ -54,7 +54,7 @@ law enforcement agency means any of the following:
   (l) prison officers;
   (m) an entity prescribed under the regulations.
 prison officer includes a person employed in an entity responsible under the law of the Territory, or of the Commonwealth, a State or a foreign country, for providing correctional services for offenders.
-public authority means an administrative unit or Territory authority, and includes a person exercising functions for the Territory, an administrative unit or Territory authority.
+public authority means an administrative unit or territory authority, and includes a person exercising functions for the Territory, an administrative unit or territory authority.
 public morality offence, for part 3A (Extinguishing historical homosexual offence convictions)—see section 19A.
 quash—see section 8.
 reviewable decision, for part 3C (Notification and review of decisions)—see section 19K.
@@ -67,7 +67,7 @@ sexual offence means the following offences:
 and includes any Commonwealth offence, State offence or foreign offence that is similar in nature to an ACT offence mentioned in paragraph (a), (b), (c) or (e) or is prescribed under the regulations.
 spent, for a conviction—see section 7.
 State law means a law in force in a State (other than a Commonwealth law).
-Note State includes the Northern Territory (see Legislation Act 2001, dict, pt 1).
+Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
 victim, for division 2.2 (Spent convictions—youth sexual offences)—see section 14B.
 youth offence conviction—see section 19GA.
 youth sexual offence conviction, for part 2 (Spent convictions)—see section 14A.
