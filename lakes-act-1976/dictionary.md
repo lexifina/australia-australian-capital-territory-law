@@ -18,7 +18,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • reviewable decision notice
 • Self-Government Act
 • State
-• Territory land
+• territory land
 • the Territory.
 appropriate lifejacket, for division 5.2 (Lifejackets)—see section 41.
 associated work includes a wharf or jetty, owned by the Territory or the Commonwealth, erected in a lake area.
@@ -44,7 +44,7 @@ commercial activities means—
   (d) carrying, or offering to carry, passengers or things in or on a horse-drawn vehicle; or
   (e) carrying on the business of boat repair; or
   (f) undertaking any other activities prescribed under the regulations for this definition.
-Commonwealth Minister means the Commonwealth Minister responsible for administering the Lakes Ordinance 1976 (Cwlth).
+Commonwealth Minister means the Commonwealth Minister responsible for administering the Australian Capital Territory National Land (Lakes) Ordinance 2022 (Cwlth).
 delegate for lakes means the Delegate for Lakes appointed under section 10.
 domestic commercial vessel—see the Marine Safety (Domestic Commercial Vessel) National Law, section 7.
 enter, a place of inspection or boat, for part 9 (Enforcement)—see section 88.
@@ -57,7 +57,7 @@ Kingston Harbour means the area outlined in bold on the plan in schedule 2.
 lake means—
   (a) Kingston Harbour; and
   (b) Lake Burley Griffin; and
-Note This Act applies to the lake area of Lake Burley Griffin to the extent that it is territory land (see s 5). The Lakes Ordinance 1976 (Cwlth) applies to the remaining area of Lake Burley Griffin that is national land (see Legislation Act, dict, def national land).
+Note This Act applies to the lake area of Lake Burley Griffin to the extent that it is territory land (see s 5). The Australian Capital Territory National Land (Lakes) Ordinance 2022 (Cwlth) applies to the remaining area of Lake Burley Griffin that is national land (see Legislation Act, dict, def national land).
   (c) Molonglo Reach; and
   (d) any other area declared by the Minister to be a lake under section 9.
 lake area means the area consisting of a lake, the foreshores of the lake and the islands (if any) in the lake.
@@ -103,7 +103,6 @@ relevant period, for part 6 (Drug and alcohol offences)—see section 60.
 required safety equipment, for a boat, for division 5.3 (Other safety equipment)—see section 50.
 required standards, for safety equipment, for division 5.3 (Other safety equipment)—see section 50.
 reviewable decision, for part 10 (Notification and review of decisions)—see section 114.
-RMS—see the Transport Administration Act 1988 (NSW), section 46.
 safety investigation means an investigation under section 79.
 safety investigation report means a report under section 84.
 safety investigator means a person appointed under section 80.
