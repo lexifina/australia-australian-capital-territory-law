@@ -97,7 +97,7 @@ gross written premiums, in relation to a licensed insurer, means the total amoun
 imminently fatal asbestos-related disease, in a person, means an asbestos-related disease that is reasonably likely to—
   (a) substantially contribute to the death of the person; and
   (b) result in the death of the person within 2 years after a doctor mentioned in section 116 (2) (a) certifies the person has the disease.
-initial incapacity date, for a worker in relation to an injury that causes incapacity or death, for part 4.3 (Weekly compensation)—see section 36G.
+initial incapacity date, for a worker in relation to an injury that causes incapacity or death, for part 4.3 (Weekly compensation)—see section 36G (1).
 initial loss, for part 4.4 (Compensation for permanent injuries)—see section 61 (1).
 injured worker—see section 85A.
 injury—
@@ -158,12 +158,13 @@ notional gross written premium, in relation to a licensed self-insurer, means th
 occupier, for chapter 10 (Inspection)—see section 187.
 offence, for chapter 10 (Inspection)—see section 187.
 official manager—see the Corporations Act, section 9.
+Offshore Petroleum Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
 osteopath means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the osteopathy profession (other than as a student).
 partially incapacitated—see section 7.
 participant, in the LTCS scheme—see the LTCS Act, dictionary.
 payment includes a non-monetary payment.
+pension age, for a worker, for part 4.3 (Weekly compensation)—see section 36G (1).
 personal injury plan—see section 85A.
-Petroleum (Submerged Lands) Act, for schedule 2 (Adjacent areas for States and Territories)—see schedule 2, section 2.1.
 physiotherapist means a person registered under the Health Practitioner Regulation National Law (ACT) to practise in the physiotherapy profession (other than as a student).
 premises, for chapter 10 (Inspection)—see section 187.
 prescribed employer means an employer approved by the Minister under section 166M to be a prescribed employer.
@@ -203,7 +204,7 @@ totally incapacitated—see section 6.
 total wages—see section 7A.
 treatment and care needs, of a participant in the LTCS scheme—see the LTCS Act, section 9.
 vocational rehabilitation, for chapter 7 (Vocational rehabilitation)—see section 140.
-weekly compensation, for a worker, for part 4.3 (Weekly Compensation)—see section 36G.
+weekly compensation, for a worker, for part 4.3 (Weekly Compensation)—see section 36G (1).
 worker—
   (a) for this Act generally—see chapter 3; and
   (b) for part 4.2A (Employment connection with ACT or State)—see section 36A (2); and
