@@ -10,15 +10,15 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • power
 • regulation
 • the Territory.
-applied provisions––see section 8 (1).
+applied provisions—see section 8 (1).
 Commonwealth administrative laws means the following Commonwealth Acts and regulations:
-  (a) the Administrative Appeals Tribunal Act 1975 (excluding part 4A);
+  (a) the Administrative Review Tribunal Act 2024 (other than part 7);
   (b) the Freedom of Information Act 1982;
   (c) the Ombudsman Act 1976;
   (d) the Privacy Act 1988;
   (e) the regulations in force under any of those Acts.
 Commonwealth Regulator means the Regulator under the Water Efficiency Labelling and Standards Act 2005 (Cwlth), section 21.
-Commonwealth water efficiency laws means––
+Commonwealth water efficiency laws means—
   (a) the Water Efficiency Labelling and Standards Act 2005 (Cwlth); and
   (b) all regulations, guidelines, principles, standards and codes of practice in force under that Act.
 modify includes add to, omit and substitute.
