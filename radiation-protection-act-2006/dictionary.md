@@ -35,13 +35,13 @@ deals with a radiation source—see section 11.
 disciplinary action—
   (a) taken against a licensee—see section 35 (1); and
   (b) taken against a registered owner—see section 35 (2).
-disciplinary notice—see section 36.
+disciplinary notice—see section 36 (1).
 dispose, of a radiation source, includes—
   (a) bury the radiation source; and
   (b) for a radiation source that is a liquid or gas—release the radiation source; and
   (c) for a radiation facility—decommission the facility.
 dose limit means a dose limit prescribed by regulation.
-emergency order—see section 47.
+emergency order—see section 47 (1).
 environment includes the built and natural environment.
 examine includes inspect, weigh, count, test and measure.
 executive officer, of a corporation, means a person, by whatever name called and whether or not the person is a director of the corporation, who is concerned with, or takes part in, the corporation’s management.
@@ -69,7 +69,7 @@ non-ionising radiation—see section 8 (3).
 occupier, of premises, for part 6 (Enforcement)—see section 88.
 offence, for part 6 (Enforcement)—see section 88.
 premises includes land or a structure or vehicle and any part of an area of land or a structure or vehicle.
-prohibited radiation source—see section 10.
+prohibited radiation source—see section 10 (1).
 prohibition notice—see section 33H (2).
 radiation—see section 8 (1).
 radiation apparatus—see section 9 (3).
@@ -79,7 +79,7 @@ radiation safety officer, for a radiation management plan—see section 33D.
 radiation source—see section 9 (1).
 radioactive material—see section 9 (5).
 registered owner, of a regulated radiation source—see section 27 (2).
-regulated radiation source—see section 10.
+regulated radiation source—see section 10 (2).
 related corporation means a related body corporate under the Corporations Act.
 relevant power, for a corporation, means a power to—
   (a) take part in a directorial, managerial or executive decision for the corporation; or
