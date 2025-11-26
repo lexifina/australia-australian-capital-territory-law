@@ -5,6 +5,8 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Australian citizen
 • chief police officer
 • child
+• Commonwealth Criminal Code
+• Criminal Code
 • exercise
 • function
 • home address
@@ -16,7 +18,6 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • legal aid commission
 • public advocate
 • transgender person (see s 169A (1) and (2)).
-Commonwealth Criminal Code means the Criminal Code Act 1995 (Cwlth), schedule.
 corresponding preventative detention law—see section 9.
 corresponding preventative detention order—see section 9.
 death—see the Criminal Code, dictionary.
