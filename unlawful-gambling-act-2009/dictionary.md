@@ -9,6 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • function
 • gambling and racing commission
 • public servant
+• territory law
 • the Territory.
 approval means an approval under part 3.
 authorised officer means an authorised officer under the Control Act, section 20.
