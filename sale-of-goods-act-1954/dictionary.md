@@ -15,7 +15,7 @@ document of title, in relation to goods, includes—
 fault means wrongful act or default.
 future goods means goods that are to be manufactured or acquired by the seller after the making of the contract of sale.
 goods includes all chattels personal other than things in action and money and also includes emblements, industrial growing crops, and things attached to or forming part of the land, that are to be severed before sale or under the contract of sale.
-mercantile agent means a mercantile agent having in the customary course of his or her business as a mercantile agent authority either to sell goods or to consign goods for the purpose of sale, or to buy goods or to raise money on the security.
+mercantile agent means a mercantile agent having in the customary course of their business as a mercantile agent authority either to sell goods or to consign goods for the purpose of sale, or to buy goods or to raise money on the security.
 plaintiff includes a defendant counterclaiming.
 property means the general property in goods and not merely a special property.
 quality, in relation to goods, includes a state or condition of the goods.
