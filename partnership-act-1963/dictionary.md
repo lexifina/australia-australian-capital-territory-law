@@ -10,6 +10,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • property
 • public servant
 • registrar-general
+• territory law
 • under.
 assets, for division 6.6 (Winding-up of incorporated limited partnership)—see section 76.
 business includes a trade, occupation or profession.
