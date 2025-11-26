@@ -13,8 +13,10 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • chief officer (fire and rescue service)
 • chief police officer
 • commissioner for fair trading
+• Commonwealth Criminal Code
 • corporation
 • Corporations Act
+• Criminal Code
 • director-general (see s 163)
 • document
 • police officer
