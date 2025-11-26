@@ -50,7 +50,6 @@ omit
 [1.19] Section 224 (4)
 substitute
 (4) Where referendum expenditure in relation to a referendum was incurred by or with the authority of a person, the person shall, before the expiration of 60 days after polling day for the referendum, give the commissioner a return, in writing, specifying details of the referendum expenditure.
-Note If a form is approved under s 340A (Approved forms) for a return, the form must be used.
 [1.20] Section 225
 omit
 [1.21] Section 227
@@ -89,7 +88,6 @@ substitute
 (1) If the court declares a referendum void, another referendum must be held on a Saturday chosen in writing by the Executive.
 (2) The Executive may only choose a Saturday that is at least 36 days, and not later than 90 days, after the day the choice is made.
 (3) An instrument under subsection (1) is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act 2001.
 (4) If a declaration is made by the court under section 265 (b) or (c) that has the effect of altering the result of a referendum, the commissioner must prepare a written notice—
   (a) setting out the effect of the declaration of the court in relation to—
     (i) the number of votes in favour of each referendum option; and
@@ -97,7 +95,6 @@ Note A notifiable instrument must be notified under the Legislation Act 2001.
     (iii) the total number of informal ballot papers; and
   (b) declaring the result of the referendum in accordance with the declaration of the court.
 (5) A notice is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act 2001.
 (6) A declaration by the court mentioned in subsection (1) or (4) takes effect at the end of the day the declaration is made.
 ## Part 1.5 Modification of part 17—electoral offences
 [1.32] Section 289 (1)
