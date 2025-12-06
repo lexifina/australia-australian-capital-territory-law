@@ -109,7 +109,6 @@ after 24 hours
 [1.17] New section 109 (1A)
 insert
 (1A) A declaration is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 [1.18] Section 109 (2) (b)
 omit
 [1.19] Section 109 (4)
@@ -139,7 +138,6 @@ substitute
   (b) tell the ATSIEB chair (or, if there is no ATSIEB chair, the Minister) about the election of each person elected; and
   (c) tell the ATSIEB chair (or, if there is no ATSIEB chair, the Minister) the number of candidates required to be elected who were not elected.
 (3) A declaration under subsection (2) (a) is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 (4) The remaining vacancies are taken to be casual vacancies and must be filled in accordance with part 13 (Casual vacancies).
 ## 111A If same number of positions as candidates
 (1) This section applies if, at the hour of nomination, the number of candidates nominated is the same as the number of candidates to be elected.
@@ -147,7 +145,6 @@ Note A notifiable instrument must be notified under the Legislation Act.
   (a) declare the nominated candidates elected; and
   (b) tell the ATSIEB chair (or, if there is no ATSIEB chair, the Minister) about the election of each person elected.
 (3) A declaration under subsection (2) (a) is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 ## 111B If no candidates
 (1) If no candidate is nominated for an ATSIEB election, the election is taken to have failed and the commissioner must, in writing, tell the ATSIEB chair (if any) and the Minister about the failure of the election.
 (2) If the commissioner tells the Minister about the failure of the election, the Minister may, after taking into consideration any recommendations from ATSIEB, appoint the ATSIEB members.
@@ -169,9 +166,7 @@ substitute
   • ‘Election of 7 representatives’
   • ‘Number seven boxes from 1 to 7 in the order of your choice’
   • if there are more than 8 candidates—‘You may then show as many further preferences as you wish by writing numbers from 8 onwards in the other boxes’.
-Note If a form is approved under s 34 for this provision, the form must be used.
 (3) An approval under subsection (2) (b) is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 (4) A regulation may—
   (a) state the headings or directions to be contained on ballot papers to be used for declaration voting; and
   (b) provide for—
@@ -286,7 +281,6 @@ insert
 (6) If the claimant elects to cast a declaration vote under section 133B, the liaison officer must give the claimant a written notice about the challenge, including a statement to the effect that—
   (a) notice of the liaison officer’s decision will be given to the review panel under section 134A (Review of challenge under s 133A); and
   (b) the claimant’s ballot paper will only be admitted to scrutiny if the review panel decides that the claimant is an Aboriginal or Torres Strait Islander person.
-Note If a form is approved under s 34 for this provision, the form must be used.
 ## 133B Declaration voting—challenged claims to vote
 (1) This section applies if a claimant elects, under section 133A (5) (b), to cast a declaration vote.
 (2) The issuing officer under section 133 must—
@@ -459,7 +453,6 @@ substitute
 ## 189 Declaration of result of ATSIEB election
 (1) As soon as practicable after the result of an ATSIEB election has been decided, the commissioner must, in writing, declare each successful candidate elected.
 (2) A declaration under subsection (1) is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 ## 189A Report of result of ATSIEB election
 (1) As soon as practicable after the result of an ATSIEB election has been decided, the commissioner must give the ATSIEB chair (or, if there is no chair, the Minister) a written report setting out:
   (a) the election results; and
@@ -651,7 +644,7 @@ insert
 liaison officer means an Aboriginal and Torres Strait Islander liaison officer appointed under section 33 (2A).
 [1.105A] Definition of official error
 omit
-6pm on the first day of the pre-election period for
+6 pm on the first day of the pre-election period for
 substitute
 the roll closed for the purpose of
 [1.105B] New definition of partial failure
