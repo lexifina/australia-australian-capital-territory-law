@@ -171,7 +171,6 @@ Note Public notice means notice on an ACT government website or in a daily newsp
     (ii) for an interstate scheme—the approval of the scheme by the appropriate council for the jurisdiction in which the scheme was prepared; and
   (b) include the approved scheme in the notice.
 (2) A notice is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
 (3) In this section, a reference to an interstate scheme includes a reference to an instrument amending an interstate scheme.
 Note Subsection (3) applies s (1) and s (2) to instruments that amend an interstate scheme. Those subsections already apply, by virtue of s 4.14 (5), to instruments that amend a scheme that is not an interstate scheme.
 ## 4.11 Commencement of schemes
@@ -211,8 +210,7 @@ Note Subsection (3) applies s (1) and s (2) to instruments that amend an interst
 ## 4.14A Notification of revocation of schemes
 (1) If the Minister gives notice under section 4.10 in relation to an instrument revoking a scheme (other than an interstate scheme) that operates as a scheme of another jurisdiction, the Minister must notify the Minister administering the corresponding law of that jurisdiction of the revocation.
 (2) A notice that an interstate scheme has been revoked under the corresponding law of the jurisdiction in which it was prepared is a notifiable instrument.
-Note 1 A notifiable instrument must be notified under the Legislation Act.
-Note 2 Under s 4.28 (1B) (c), an interstate scheme will cease to have effect in this jurisdiction when it ceases to have effect in the other jurisdiction.
+Note Under s 4.28 (1B) (c), an interstate scheme will cease to have effect in this jurisdiction when it ceases to have effect in the other jurisdiction.
 ## 4.14B Ending of operation of interstate schemes
 (1) On application by an occupational association, the council may prepare an instrument ending, in relation to this jurisdiction, the operation of an interstate scheme that relates to members of the association.
 (2) The Minister may direct the council to prepare an instrument ending the operation of an interstate scheme in relation to this jurisdiction.
@@ -324,7 +322,6 @@ A scheme in force under this schedule applies to proceedings relating to acts or
   (d) the scheme is disallowed under the Legislation Act, section 65 (Disallowance by resolution of Assembly).
 (4) The Minister may extend the period for which the scheme is in force.
 (5) An instrument under subsection (4) is a notifiable instrument.
-Note A notifiable instrument must be notified under the Legislation Act.
 (6) To remove any doubt, an instrument under subsection (4) is effective to extend the period for which a scheme is in force even if the instrument is notified after the day the scheme ends.
 (7) The period for which a scheme is in force may be extended only once, and for not longer than 12 months.
 ## 4.29 Notification of limitation of liability
