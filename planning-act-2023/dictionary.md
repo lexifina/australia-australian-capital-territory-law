@@ -20,6 +20,7 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • head of service
 • heritage council
 • home address
+• housing commissioner
 • may (see s 146)
 • Minister (see s 162)
 • must (see s 146)
@@ -283,7 +284,9 @@ referral entity—see section 170 (1) (a).
 registered interest, in a lease, means an interest in the lease registered under the Land Titles Act 1925.
 registered interest holder, for division 7.5.4 (Public notification of development applications)—see section 174.
 registered proprietor, in relation to a lease, for chapter 10 (Leases and licences)—see section 256.
+related to community housing—see section 217C.
 related to light rail—see section 217.
+related to public housing—see section 217B.
 relevant agency, for an environmental significance opinion—see section 138 (2).
 relevant Assembly committee, for a provision, means a standing committee of the Legislative Assembly nominated, in writing, by the Speaker for the provision.
 rental lease, for chapter 10 (Leases and licences) and schedule 2 (Market value leases and leases that are possibly concessional)––see section 256.
