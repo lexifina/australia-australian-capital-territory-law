@@ -12,10 +12,10 @@
 ### Division 5.2 Information in donor register
 ### Division 5.3 Measures to ensure accuracy of information
 ### Division 5.4 Disclosure of information in donor register
-## Part 6 Pre-commencement records
+## Part 6 Pre-commencement records and other information held by ART providers
 ### Division 6.1 Preliminary
 ### Division 6.2 Retention of pre-commencement records
-### Division 6.3 Access to pre-commencement records
+### Division 6.3 Access to information held by ART providers
 ## Part 7 Regulatory action
 ### Division 7.1 Preliminary
 ### Division 7.2 Improvement notices

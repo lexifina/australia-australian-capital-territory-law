@@ -20,7 +20,7 @@ Note The Legislation Act contains definitions relevant to this Act. For example:
 • parent
 • penalty unit (see s 133)
 • the Territory.
-accessible information, about a donor, for division 6.3 (Access to pre-commencement records)—see section 75.
+accessible information, about a donor, for division 6.3 (Access to information held by ART providers)—see section 75.
 ART accreditation means accreditation by any of the following:
   (a) the Reproductive Technology Accreditation Committee of the Fertility Society of Australia and New Zealand (ACN 006 214 115);
   (b) a body prescribed for the Research Involving Human Embryos Act 2002 (Cwlth), section 8, definition of accredited ART centre, paragraph (b);
@@ -32,15 +32,16 @@ ART legislation means this Act and the following:
   (c) the Research Involving Human Embryos Act 2002 (Cwlth).
 ART provider—
   (a) for this Act generally—see section 11; and
-  (b) for part 6 (Pre-commencement records)—see section 71.
+  (b) for part 6 (Pre-commencement records and other information held by ART providers)—see section 71.
 ART service—see section 10.
 ART treatment (or assisted reproductive technology treatment)—see section 9.
+assessed by a counsellor, for part 5 (Donor register)—see section 51 (2).
 associated entity, of a corporation, for part 7 (Regulatory action)—see section 78.
 authorised person, for part 8 (Enforcement)—see section 89.
 child—see the Children and Young People Act 2008, section 11.
 commencement day means—
   (a) for part 5 (Donor register)—see section 50; and
-  (b) for part 6 (Pre-commencement records)—see section 71.
+  (b) for part 6 (Pre-commencement records and other information held by ART providers)—see section 71.
 connected, for part 8 (Enforcement)—see section 89.
 consent, of a gamete provider, means consent given by the gamete provider under section 29.
 donated embryo means an embryo donated after its creation for use by someone other than—
@@ -78,11 +79,11 @@ gamete provider—
 improvement notice—see section 79 (2).
 informal donor arrangement, for part 5 (Donor register)—see section 50.
 mandatory information means information of a kind given under section 53.
-mature donor conceived person, for part 5 (Donor register)—see section 51.
+mature donor conceived person, for part 5 (Donor register)—see section 51 (1).
 obtain, a gamete, includes receive a gamete.
 occupier, of premises, for part 8 (Enforcement)—see section 89.
 offence, for part 8 (Enforcement)—see section 89.
-pre-commencement record, for part 6 (Pre-commencement records)—see section 71.
+pre-commencement record, for part 6 (Pre-commencement records and other information held by ART providers)—see section 71.
 premises—
   (a) for this Act generally—includes any land or building and part of any land or building; and
   (b) for part 8 (Enforcement)—see section 89.
@@ -95,7 +96,7 @@ relevant medical history, of a donor, means any medical history or genetic test 
   (b) the donor’s donor conceived offspring; or
   (c) a child of the donor’s donor conceived offspring.
 remote application, for division 8.5 (Warrants)—see section 100 (3).
-retention period, in relation to a pre-commencement record, for part 6 (Pre-commencement records)—see section 71.
+retention period, in relation to a pre-commencement record, for part 6 (Pre-commencement records and other information held by ART providers)—see section 71.
 reviewable decision, for part 10 (Notification and review of decisions)—see section 122.
 self-insemination means artificial insemination not performed or supervised by a doctor on behalf of a registered ART provider.
 warrant, for part 8 (Enforcement)—see section 89.
