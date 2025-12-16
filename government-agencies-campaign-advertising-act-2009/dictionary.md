@@ -9,7 +9,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Minister (see s 162)
 • notifiable instrument (see s 10)
 • public servant
-• statutory office holder
+• statutory office-holder
 • territory instrumentality.
 campaign costs—see section 10.
 directorate—see the Financial Management Act 1996, dictionary.
