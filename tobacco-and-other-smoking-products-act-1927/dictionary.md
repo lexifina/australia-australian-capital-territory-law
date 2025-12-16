@@ -36,10 +36,6 @@ ground for occupational discipline, for division 7.3 (Occupational discipline—
 herbal product—
   (a) means a product prepared for smoking that contains a herb or other plant matter; but
   (b) does not contain tobacco or a controlled drug within the meaning of the Criminal Code, chapter 6 (Serious drug offences).
-identity card means—
-  (a) in relation to a public health officer under the Public Health Act 1997—the identity card issued to the officer under that Act;
-  (b) in relation to a police officer—proof of identification of a type approved for general purposes by the chief police officer; or
-  (c) in relation to any other authorised officer—the identity card issued to the officer under section 34.
 immediate package, of a smoking product, means a package containing the product—
   (a) in the case of a smoking product other than cigars—not including a package containing a further package or packages of the product; and
   (b) in the case of cigars—
@@ -88,6 +84,7 @@ Example—other objects—par (b)
 1 credit card
 2 debit card
 3 key
+warrant, for part 6 (Enforcement)—see section 31.
 wholesale outlet means premises where smoking products are available for sale exclusively by wholesale.
 wholesale tobacco merchant’s licence, for part 7 (Licences)—see section 43.
 young person, for part 6A (Tobacco compliance testing)—see section 42A.
