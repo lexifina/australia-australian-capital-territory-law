@@ -1,7 +1,7 @@
 ## Part 1 Preliminary
 ## Part 2 Interpretation
 ## Part 3 Application
-## Part 4 Relationship between act and leases
+## Part 4 Relationship between Act and leases
 ## Part 5 Conduct of parties
 ## Part 6 Negotiations
 ## Part 7 Bonds and guarantees
