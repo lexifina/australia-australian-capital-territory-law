@@ -18,7 +18,6 @@ Examples of substances
 1 glue
 2 petrol
 3 another solvent
-Note An example is part of the Act, is not exhaustive and may extend, but does not limit, the meaning of the provision in which it appears (see Legislation Act, s 126 and s 132).
 licensed place means a place where a licensee is licensed to provide a caring service.
 licensee means a person who holds a licence under section 16.
 manager, for a licensed place, means the person in charge of the place.
