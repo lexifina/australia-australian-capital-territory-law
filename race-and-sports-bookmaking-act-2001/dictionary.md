@@ -13,7 +13,7 @@ Note 2 In particular, the Legislation Act, dict, pt 1, defines the following ter
 • reviewable decision notice.
 agent, for division 6.2 (Betting disputes referred to commission)—see section 56.
 application, for a licence, includes an application for renewal of a licence.
-authorised officer—see the Gambling and Racing Control Act 1999, section 20.
+authorised officer—see the Gambling and Racing Control Act 1999, dictionary.
 bet means any stake, pledge or wager in money between 2 people on any event or contingency relating to—
   (a) a race; or
   (b) a sports bookmaking event.
