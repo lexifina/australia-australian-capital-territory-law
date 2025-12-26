@@ -123,7 +123,6 @@ Wages are exempt wages if they are paid or payable—
 ## (c) the eligible training is a part of a course of training that began before the start of the training period, or continues after the end of the training period.
 ## (6) The Minister may declare that approved training is not recognised training.
 ## (7) A declaration is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
 ## (8) In this section:
 approved training means training under an approved training contract.
 approved training contract—see the Training and Tertiary Education Act 2003, dictionary.
@@ -200,7 +199,6 @@ prescribed person, in relation to an employer, means a person who was, for longe
   (b) the wages are paid or payable by an entity prescribed for the Taxation (Government Business Enterprises) Act 2003, section 9; or
   (c) the wages are paid or payable by an entity to which a direction under the Taxation (Government Business Enterprises) Act 2003, section 10 applies to make the entity liable to tax under this Act.
 (2) A nomination under subsection (1) (a) is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
 ## Part 2.9 Territory authorities
 ## 2.21 Territory authorities
 Wages are exempt wages if they are paid or payable by a territory authority funded solely by money appropriated from the public money of the Territory by an Act unless—
