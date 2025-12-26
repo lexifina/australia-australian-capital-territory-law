@@ -16,7 +16,6 @@ Note Different fixed charges, amounts, or percentage rates, may be determined fo
 AUV × P
 (2) The Minister may determine an area as a collection area for this section.
 (3) A determination is a disallowable instrument.
-Note A disallowable instrument must be notified, and presented to the Legislative Assembly, under the Legislation Act.
 (4) In this section:
 AUV means the average unimproved value of the parcel.
 P means the percentage rate determined under the Taxation Administration Act, section 139 for the parcel.
