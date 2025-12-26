@@ -10,4 +10,4 @@ association means an organisation, club, society or other body of persons, wheth
 commission means the gambling and racing commission.
 exempt lottery—see section 6 (1).
 subscriber, to a lottery, means a person with a ticket or entry in the lottery.
-unlawful game—see the Unlawful Gambling Act 2009, dictionary.
+unlawful game—see the Unlawful Gambling Act 2009, section 7.
