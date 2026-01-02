@@ -32,4 +32,3 @@
 ### Division 7.6 Miscellaneous
 ## Part 8 Notification and review of decisions
 ## Part 9 Miscellaneous
-## Part 20 Transitional
