@@ -10,5 +10,5 @@ column 1 item | column 2 section | column 3 decision | column 4 entity
 7 | 17 (4) (a) (Dispute between employer and apprentice or trainee) | making a finding of fact about a matter in relation to a training contract | each party to the contract
 8 | 17 (4) (b) | amending an approved training contract | each party to the contract
 9 | 17 (4) (c) | giving directions to a party to an approved training contract | each party to the contract
-10 | 22 (2) (Obstructing visits— director-general) | suspending or cancelling approval of an approved training contract | each party to the contract
+10 | 22 (2) (Obstructing visits—director-general) | suspending or cancelling approval of an approved training contract | each party to the contract
 11 | 22 (2) | amending an approved training contract | each party to the contract
