@@ -15,4 +15,3 @@
 ## Part 7 Notification and review of decisions
 ## Part 7A Information sharing
 ## Part 8 Miscellaneous
-## Part 9 Transitional—Working with Vulnerable People (Background Checking) Amendment Act 2020
