@@ -42,10 +42,10 @@ Aboriginal and Torres Strait Islander children and young people commissioner, fo
 Aboriginal or Torres Strait Islander child or young person, for part 10 (Criminal investigation)—see section 185.
 ACAT, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
 accused, for a person before the Magistrates Court, for part 13 (Unfitness to plead and mental impairment)—see section 300 (1).
-actual bodily harm to a pregnant woman includes harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
+actual bodily harm to a pregnant person includes harm to the pregnancy other than in the course of a medical procedure (whether or not the person suffers any other harm).
 aggravated offence—
   (a) for part 2 (Offences against the person)—
-    (i) for an offence committed against a pregnant woman—see section 48A (2); and
+    (i) for an offence committed against a pregnant person—see section 48A (2); and
     (ii) for an offence involving family violence—see section 48C (2); and
   (b) for part 3 (Sexual offences)—see section 72AA (2); and
   (c) for part 3A (Intimate image abuse)—see section 72EA (2).
@@ -104,7 +104,7 @@ goods, for division 6.6 (Contamination of goods and related offences)—see sect
 government or non-government school—see the Education Act 2004, dictionary.
 grievous bodily harm to a person includes—
   (a) any permanent or serious disfiguring of the person; and
-  (b) for a pregnant woman—loss of or serious harm to the pregnancy other than in the course of a medical procedure (whether or not the woman suffers any other harm).
+  (b) for a pregnant person—loss of or serious harm to the pregnancy other than in the course of a medical procedure (whether or not the person suffers any other harm).
 identification material, in relation to a person, for part 10 (Criminal investigation)—see section 185.
 impaired state, for a person, for part 10 (Criminal investigation)—see section 185.
 indictment includes any information presented or filed as provided by law for the prosecution of offences.
