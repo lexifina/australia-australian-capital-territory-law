@@ -66,13 +66,15 @@ relevant law means the following:
   (a) the Building Act 2004;
   (b) the Building and Construction Industry (Security of Payment) Act 2009;
   (c) the Civil Law (Sale of Residential Property) Act 2003;
-  (d) the Construction Occupations (Licensing) Act 2004;
-  (e) the Corporations Act;
-  (f) the Fair Work Act 2009 (Cwlth);
-  (g) the Planning Act 2023;
-  (h) the Unit Titles (Management) Act 2011;
-  (i) the Work Health and Safety Act 2011;
-  (j) any other law prescribed by regulation.
+  (d) the Community Housing Providers National Law (ACT);
+  (e) the Construction Occupations (Licensing) Act 2004;
+  (f) the Corporations Act;
+  (g) the Fair Work Act 2009 (Cwlth);
+  (h) the Planning Act 2023;
+  (i) the Unit Titles (Management) Act 2011;
+  (j) the Work Health and Safety Act 2011;
+  (k) any other law prescribed by regulation.
+Note The Community Housing Providers National Law (ACT) Act 2013, s 7 applies the Community Housing Providers National Law set out in the Community Housing Providers (Adoption of National Law) Act 2012 (NSW) appendix as if it were an ACT law called the Community Housing Providers National Law (ACT).
 remote application, for division 6.5 (Warrants)—see section 77 (3).
 renewal application—see section 13 (1).
 required rectification work, in relation to a rectification order, for part 5 (Rectification orders, stop work orders and undertakings)—see section 49 (2) (a).
