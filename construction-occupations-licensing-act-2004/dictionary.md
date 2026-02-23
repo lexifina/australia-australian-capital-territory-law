@@ -78,7 +78,7 @@ licensee—
   (b) for part 8 (Demerit points system)—see section 89.
 licence number, for a licence—see section 23 (1) (c).
 mandatory requirement, for division 3.2 (Nominees)—see section 27.
-nominee, of a corporation or partnership, means a person who is appointed as a nominee of the corporation or partnership under section 28.
+nominee, of a corporation or partnership, means a person who is appointed as a nominee of the corporation or partnership under section 28A.
 non-territory agency, for part 11AA (Information sharing)—see section 123AA.
 occupational discipline means—
   (a) something done by the ACAT by an occupational discipline order; or
