@@ -18,24 +18,24 @@ column 1 item | column 2 offence | column 3 short description | column 4 conditi
 Homicide and related offences
 1 | Crimes Act, s 12 | murder | 
 2 | Crimes Act, s 29 (2) | culpable driving of motor vehicle, causing death | intent to cause death
-3 | Crimes Act, s 29 (2) and s 48A (2) | culpable driving of motor vehicle, causing death (aggravated offence—against pregnant woman) | intent to cause death
+3 | Crimes Act, s 29 (2) and s 48A (2) | culpable driving of motor vehicle, causing death (aggravated offence—against pregnant person) | intent to cause death
 4 | Crimes Act, s 29 (2) and s 48C (2) | culpable driving of motor vehicle, causing death (aggravated offence—involving family violence) | intent to cause death
 Acts intended to cause injury
 5 | Crimes Act, s 19 | intentionally inflict grievous bodily harm | offence against vulnerable person
-6 | Crimes Act, s 19 and s 48A (2) | intentionally inflict grievous bodily harm (aggravated offence—against pregnant woman) | offence against vulnerable person
+6 | Crimes Act, s 19 and s 48A (2) | intentionally inflict grievous bodily harm (aggravated offence—against pregnant person) | offence against vulnerable person
 7 | Crimes Act, s 19 and s 48C (2) | intentionally inflict grievous bodily harm (aggravated offence—involving family violence) | offence against vulnerable person
 8 | Crimes Act, s 20 | recklessly inflict grievous bodily harm | offence against vulnerable person
-9 | Crimes Act, s 20 and s 48A (2) | recklessly inflict grievous bodily harm (aggravated offence—against pregnant woman) | offence against vulnerable person
+9 | Crimes Act, s 20 and s 48A (2) | recklessly inflict grievous bodily harm (aggravated offence—against pregnant person) | offence against vulnerable person
 10 | Crimes Act, s 20 and s 48C (2) | recklessly inflict grievous bodily harm (aggravated offence—involving family violence) | offence against vulnerable person
 11 | Crimes Act, s 21 | wounding | offence against vulnerable person
-12 | Crimes Act, s 21 and s 48A (2)s | wounding (aggravated offence—against pregnant woman) | offence against vulnerable person
+12 | Crimes Act, s 21 and s 48A (2)s | wounding (aggravated offence—against pregnant person) | offence against vulnerable person
 13 | Crimes Act, s 21 and s 48C (2) | wounding (aggravated offence—involving family violence) | offence against vulnerable person
 14 | Crimes Act, s 22 | assault with intent to commit other offence | offence against vulnerable person
 15 | Crimes Act, s 23 | inflict actual bodily harm | offence against vulnerable person
-16 | Crimes Act, s 23 and s 48A (2) | inflict actual bodily harm (aggravated offence—against pregnant woman) | offence against vulnerable person
+16 | Crimes Act, s 23 and s 48A (2) | inflict actual bodily harm (aggravated offence—against pregnant person) | offence against vulnerable person
 17 | Crimes Act, s 23 and s 48C (2) | inflict actual bodily harm (aggravated offence—involving family violence) | offence against vulnerable person
 18 | Crimes Act, s 24 | assault occasioning actual bodily harm | offence against vulnerable person
-19 | Crimes Act, s 24 and s 48A (2) | assault occasioning actual bodily harm (aggravated offence—against pregnant woman) | offence against vulnerable person
+19 | Crimes Act, s 24 and s 48A (2) | assault occasioning actual bodily harm (aggravated offence—against pregnant person) | offence against vulnerable person
 20 | Crimes Act, s 24 and s 48C (2) | assault occasioning actual bodily harm (aggravated offence—involving family violence) | offence against vulnerable person
 21 | Crimes Act, s 25 | cause grievous bodily harm | offence against vulnerable person
 22 | Crimes Act, s 27 (3) (a) | acts endangering life—chokes, suffocates or strangles | offence against vulnerable person
@@ -114,29 +114,29 @@ Public order offences
 column 1 item | column 2 offence | column 3 short description | column 4 condition
 Homicide and related offences
 1 | Crimes Act, s 15 | manslaughter | 
-2 | Crimes Act, s 15 and s 48A (2) | manslaughter (aggravated offence—against pregnant woman) | 
+2 | Crimes Act, s 15 and s 48A (2) | manslaughter (aggravated offence—against pregnant person) | 
 3 | Crimes Act, s 15 and s 48C (2) | manslaughter (aggravated offence—involving family violence) | 
 4 | Crimes Act, s 17 (1) | suicide—aids or abets | 
 5 | Crimes Act, s 17 (2) | suicide—incites or counsels | 
 6 | Crimes Act, s 29 (2) | culpable driving of motor vehicle—cause death | without intent to cause death
-7 | Crimes Act, s 29 (2) and s 48A (2) | culpable driving of motor vehicle—cause death (aggravated offence—against pregnant woman) | without intent to cause death
+7 | Crimes Act, s 29 (2) and s 48A (2) | culpable driving of motor vehicle—cause death (aggravated offence—against pregnant person) | without intent to cause death
 8 | Crimes Act, s 29 (2) and s 48C (2) | culpable driving of motor vehicle—cause death (aggravated offence—involving family violence) | without intent to cause death
 9 | Crimes Act, s 42 | child destruction | 
 10 | Road Transport (Safety and Traffic Management) Act, s 6 (1) | drive motor vehicle negligently | causes death
 Acts intended to cause injury
 11 | Crimes Act, s 19 | intentionally inflict grievous bodily harm | offence other than against vulnerable person
-12 | Crimes Act, s 19 and s 48A (2) | intentionally inflict grievous bodily harm (aggravated offence—against pregnant woman) | offence other than against vulnerable person
+12 | Crimes Act, s 19 and s 48A (2) | intentionally inflict grievous bodily harm (aggravated offence—against pregnant person) | offence other than against vulnerable person
 13 | Crimes Act, s 19 and s 48C (2) | intentionally inflict grievous bodily harm (aggravated offence—involving family violence) | offence other than against vulnerable person
 14 | Crimes Act, s 20 | recklessly inflict grievous bodily harm | offence other than against vulnerable person
-15 | Crimes Act, s 20 and s 48A (2) | recklessly inflict grievous bodily harm (aggravated offence—against pregnant woman) | offence other than against vulnerable person
+15 | Crimes Act, s 20 and s 48A (2) | recklessly inflict grievous bodily harm (aggravated offence—against pregnant person) | offence other than against vulnerable person
 16 | Crimes Act, s 20 and s 48C (2) | recklessly inflict grievous bodily harm (aggravated offence—involving family violence) | offence other than against vulnerable person
 17 | Crimes Act, s 21 | wounding | offence other than against vulnerable person
-18 | Crimes Act, s 21 and s 48A (2) | wounding (aggravated offence—against pregnant woman) | offence other than against vulnerable person
+18 | Crimes Act, s 21 and s 48A (2) | wounding (aggravated offence—against pregnant person) | offence other than against vulnerable person
 19 | Crimes Act, s 21 and s 48C (2) | wounding (aggravated offence—involving family violence) | offence other than against vulnerable person
 20 | Crimes Act, s 22 | assault with intent to commit other offence | offence other than against vulnerable person
-21 | Crimes Act, s 23 and s 48A (2) | inflict actual bodily harm (aggravated offence—against pregnant woman) | offence other than against vulnerable person
+21 | Crimes Act, s 23 and s 48A (2) | inflict actual bodily harm (aggravated offence—against pregnant person) | offence other than against vulnerable person
 22 | Crimes Act, s 23 and s 48C (2) | inflict actual bodily harm (aggravated offence—involving family violence) | offence other than against vulnerable person
-23 | Crimes Act, s 24 and s 48A (2) | assault occasioning actual bodily harm (aggravated offence—against pregnant woman) | offence other than against vulnerable person
+23 | Crimes Act, s 24 and s 48A (2) | assault occasioning actual bodily harm (aggravated offence—against pregnant person) | offence other than against vulnerable person
 24 | Crimes Act, s 24 and s 48C (2) | assault occasioning actual bodily harm (aggravated offence—involving family violence) | offence other than against vulnerable person
 25 | Crimes Act, s 25 | cause grievous bodily harm | offence other than against vulnerable person
 26 | Crimes Act, s 27 (3) (a) | acts endangering life—chokes, suffocates or strangles | offence other than against vulnerable person
