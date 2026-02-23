@@ -88,7 +88,6 @@ irrelevant criminal record, in relation to a person, means a record relating to 
     (i) the circumstances of the offence are directly relevant to the situation in which discrimination arises; and
     (ii) the Spent Convictions Act 2000, section 16 does not apply to the person in the situation in which discrimination arises.
 Note The Spent Convictions Act 2000, s 19 sets out the circumstances in which s 16 does not apply in relation to an application by a person.
-man means a member of the male sex irrespective of age.
 physical features means a person’s height, weight, size or other bodily features.
 political conviction includes—
   (a) having a political conviction, belief, opinion or affiliation; and
@@ -157,4 +156,3 @@ voluntary body means an association or other body (whether incorporated or uninc
   (a) a club; or
   (b) a body established by a law of the Territory, the Commonwealth, a State or another Territory; or
   (c) an association that provides grants, loans, credit or finance to its members.
-woman means a member of the female sex irrespective of age.
