@@ -57,8 +57,9 @@ certifier—
   (a) for building work—means an entity appointed to act as certifier under section 19 (Appointment of certifiers—work not begun), section 19A (Appointment of certifiers—work begun) or government certifier under section 20 (Appointment of government certifiers) for the work; but
   (b) for division 3.2 (Certifiers and government certifiers)—see section 17.
 class, of building, means that class of building under the building code.
+complete exemption, for part 5A (Regulated swimming pools)—see section 83K (1).
 completion day, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 85.
-compliance certificate, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83K (1).
+compliance status certificate, for a regulated swimming pool, for part 5A (Regulated swimming pools)—see section 83K (1).
 complying residential building work insurance, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.
 consumer representative, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 127AA (1).
 cost, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 86.
@@ -115,6 +116,7 @@ owner—
   (b) of premises, for part 5A (Regulated swimming pools)—see section 83 (1).
 owner-builder means an entity licensed under the Construction Occupations (Licensing) Act 2004 in the occupation class of owner-builder.
 parcel, of land, includes land under a land sublease.
+partial Ministerial exemption, for part 5A (Regulated swimming pools)—see section 83K (1).
 premises includes land or a structure and any part of an area of land or a structure.
 prescribed requirements, for division 5.1 (Certificates of occupancy and other certificates)—see section 66.
 prudential standards, for part 6 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)—see section 84.

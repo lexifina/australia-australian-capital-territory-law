@@ -15,7 +15,7 @@
 ### Division 5A.1 Preliminary
 ### Division 5A.2 Compliance with safety standards
 #### Subdivision 5A.2.1 Exemptions
-#### Subdivision 5A.2.2 Compliance certificates
+#### Subdivision 5A.2.2 Compliance status certificates
 ### Division 5A.3 Swimming pool safety
 ### Division 5A.4 Administration
 ### Division 5A.5 Miscellaneous
