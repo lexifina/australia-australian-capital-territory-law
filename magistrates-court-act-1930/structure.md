@@ -41,6 +41,7 @@
 ### Division 3.8.2B Waiver of infringement notice penalties
 ### Division 3.8.3 Additional provisions for vehicle-related offences
 ### Division 3.8.4 Disputing liability for infringement notices
+### Division 3.8.4A Notification and review of infringement notice decisions
 ### Division 3.8.5 Infringement notices—other provisions
 ## Part 3.9 Enforcement of criminal decisions
 ### Division 3.9.1 Enforcement of criminal decisions—general
