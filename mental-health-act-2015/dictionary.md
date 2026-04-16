@@ -56,6 +56,7 @@ community care facility—
   (b) does not include a correctional centre or detention place.
 community care order means an order made under section 66.
 community care service, for chapter 15 (Interstate application of mental health laws)—see section 243.
+conditional release order, for chapter 10 (Referrals by courts under Crimes Act and Children and Young People Act)—see section 180 (4).
 coordinating director-general means the director-general appointed under section 215.
 correctional patient—see section 135.
 corrections director-general means the director-general responsible for the Corrections Management Act 2007.
