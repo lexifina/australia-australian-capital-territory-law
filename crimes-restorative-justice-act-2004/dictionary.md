@@ -11,15 +11,16 @@ Note 2 For example, the Legislation Act, dict, pt 1 defines the following terms:
 • director-general (see s 163)
 • director of public prosecutions (or DPP)
 • domestic partner (see s 169 (1))
+• financial year
 • found guilty (of an offence)
 • Legislative Assembly
 • Magistrates Court
 • property
-• quarter
 • sentence administration board
 • Supreme Court
 • the Territory
-• victims of crime commissioner.
+• victims of crime commissioner
+• working day.
 adult offender—see section 12.
 child offender, in relation to an offence—see section 12.
 child victim—see section 11.
