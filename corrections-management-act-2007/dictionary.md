@@ -33,10 +33,9 @@ accredited person, in relation to a detainee, means each of the following:
   (b) a lawyer representing the detainee;
   (c) an official visitor;
   (d) the custodial inspector;
-  (e) the human rights commissioner;
-  (f) the public advocate;
-  (g) the ombudsman;
-  (h) a person prescribed by regulation.
+  (e) a commissioner exercising functions under the Human Rights Commission Act 2005;
+  (f) the ombudsman;
+  (g) a person prescribed by regulation.
 Note Territory laws apply to a delegate of a person in the exercise of a delegation as if the delegate were the person who appointed the delegate (see Legislation Act, s 239 (2)).
 accused—see section 151.
 activity—see the Crimes (Sentence Administration) Act 2005, dictionary.
@@ -120,11 +119,10 @@ protected mail means mail between a detainee and any of the following:
   (a) a lawyer representing the detainee;
   (b) an official visitor;
   (c) the custodial inspector;
-  (d) the human rights commissioner;
-  (e) the public advocate;
-  (f) the ombudsman;
-  (g) the integrity commissioner;
-  (h) a person prescribed by regulation.
+  (d) a commissioner exercising functions under the Human Rights Commission Act 2005;
+  (e) the ombudsman;
+  (f) the integrity commissioner;
+  (g) a person prescribed by regulation.
 register of detainees means the register kept under section 76.
 relevant presiding officer, for division 10.3.5 (Disciplinary action)—see section 182.
 remandee—see the Crimes (Sentence Administration) Act 2005, dictionary.
