@@ -37,6 +37,7 @@ Note 2 For example, the Legislation Act, pt 1 defines the following terms:
 • police officer
 • prescribed
 • proceeding
+• reviewable decision notice
 • sign
 • summary offence (see s 190)
 • territory law
@@ -95,6 +96,9 @@ infringement notice—
 infringement notice management plan, for part 3.8 (Infringement notices for certain offences)—see section 131AA.
 infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
 infringement notice penalty, for a person for an infringement notice offence, for part 3.8 (Infringement notices for certain offences)—see section 117.
+internally reviewable infringement decision, for division 3.8.4A (Notification and review of infringement notice decisions)—see section 134AA.
+internal reviewer, for division 3.8.4A (Notification and review of infringement notice decisions)—see section 134AF.
+internal review notice, for division 3.8.4A (Notification and review of infringement notice decisions)—see the ACT Civil and Administrative Tribunal Act 2008, section 67B (1).
 judicial exchange arrangement, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 judicial officer, for division 2.2.3A (Judicial officers exchange)—see section 9C.
 known offender declaration, for part 3.8 (Infringement notices for certain offences)—see section 131E.
@@ -118,8 +122,8 @@ relevant circumstances, of a person, for part 3.8 (Infringement notices for cert
 relevant officer, in relation to a reciprocating court, for division 3.9.3 (Reciprocal enforcement of fines against bodies corporate)—see section 166A.
 reminder notice, for part 3.8 (Infringement notices for certain offences)—see section 117.
 reporting officer, for division 3.4.2 (Warrants for witnesses)—see section 62.
-responsible director-general, for part 3.8 (Infringement notices for certain offences)—see section 117.
 responsible person, for a vehicle, for part 3.8 (Infringement notices for certain offences)—see the Road Transport (General) Act 1999, section 10 and section 11.
+reviewable infringement decision, for division 3.8.4A (Notification and review of infringement notice decisions)—see section 134AB.
 review appeal, for division 3.10.3 (Review appeals in criminal matters)—see section 219B (1).
 rules means rules under the Court Procedures Act 2004 applying in relation to the Magistrates Court.
 security—for part 3.12 (Securities in criminal matters)—see section 248.
