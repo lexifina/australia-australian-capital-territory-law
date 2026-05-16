@@ -310,7 +310,7 @@ A scheme in force under this schedule applies to proceedings relating to acts or
 (2) Subject to subsection (4), a scheme (other than an interstate scheme) remains in force until—
   (a) the period stated under subsection (1) ends; or
   (b) the scheme is revoked; or
-  (c) the scheme ceases to operate because of the operation of this schedule or another Territory law; or
+  (c) the scheme ceases to operate because of the operation of this schedule or another territory law; or
   (d) the scheme is declared void by an order made by—
     (i) the Supreme Court under section 4.12; or
     (ii) the Supreme Court of another jurisdiction under the corresponding law of that jurisdiction; or

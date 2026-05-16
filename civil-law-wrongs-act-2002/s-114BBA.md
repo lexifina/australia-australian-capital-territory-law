@@ -1,3 +1,3 @@
-# 114BD Organisations that are responsible for child
+# 114BBA Organisations that are responsible for child
 (1) An organisation is responsible for a child if it, including any part of it, exercises care, supervision or authority over the child.
 (2) If an organisation, including any part of it, delegates the exercise of care, supervision or authority over the child to another organisation, in whole or in part, each organisation is responsible for the child.

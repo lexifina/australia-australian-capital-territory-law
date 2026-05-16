@@ -35,15 +35,17 @@ accommodation provider—see section 146.
 accommodation unit, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 act of terrorism, for part 3.3 (Exclusion of liability for terrorism-associated risks)—see section 37.
 agent, of an accommodation provider, for part 11.1 (Traveller accommodation providers liability)—see section 144.
-aggrieved person, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124.
+aggrieved person, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124 (1).
 amount payable, under an insurance policy in relation to an occupational liability, for schedule 4 (Professional standards)—see schedule 4, section 4.2A.
 animal, for division 11.2.4 (Liability of common carriers for certain animals)—see section 163.
 another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 apology, for part 2.3 (Apologies)—see section 13.
-applicable period, for an offer to make amends, for division 9.3.1 (Concerns notices and offers to make amends)—see section 126.
+applicable period, for an offer to make amends, for division 9.3.1 (Concerns notices and offers to make amends)—see section 126 (2).
 applicant, for part 8A.3 (Institutional child abuse—setting aside abuse settlement agreements)—see section 114K (1).
 apportionable claim, for chapter 7A (Proportionate liability)—see section 107B.
 appropriate council, in relation to another jurisdiction, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+associate, of a law practice, for part 15.4A (Prohibition on claim farming)—see the Legal Profession Act 2006, dictionary.
+associated, for an individual, for division 8A.1A.2 (Duty of organisations to prevent child abuse)—see section 114BBC.
 associated entity, for chapter 9 (Defamation)—see the Corporations Act, section 50AAA.
 Australian court, for chapter 9 (Defamation)—see section 116.
 Australian jurisdiction, for chapter 9 (Defamation)—see section 116.
@@ -57,15 +59,17 @@ child abuse, for chapter 8A (Institutional child abuse)—see section 114AA.
 child abuse claim—see section 114A.
 claim—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
-  (b) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.
+  (b) for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92; and
+  (c) for part 15.4A (Prohibition on claim farming)—see section 221A.
 claimant—
   (a) for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49; and
-  (b) for chapter 7A (Proportionate liability)—see section 107C.
+  (b) for chapter 7A (Proportionate liability)—see section 107C; and
+  (c) for part 15.4A (Prohibition on claim farming)—see section 221A.
 common carrier, for part 11.2 (Common carriers)—see section 156.
 community organisation, for part 2.2 (Volunteers)—see section 6.
 community work, for part 2.2 (Volunteers)—see section 7.
 complying notice of claim, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
-concerns notice, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124A.
+concerns notice, for division 9.3.1 (Concerns notices and offers to make amends)—see section 124A (1).
 concurrent wrongdoer, for chapter 7A (Proportionate liability)—see section 107D.
 conduit service, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 consequential mental harm, for part 3.2 (Mental harm)—see section 32.
@@ -101,17 +105,17 @@ document, for chapter 9 (Defamation)—see section 116.
 donor, for part 2.2A (Food donors)—see section 11A.
 duty of care, for chapter 8 (Liability of public and other authorities)—see section 109.
 electronic communication, for chapter 9 (Defamation)—see section 116.
-employee, of an organisation, for part 8A.1A (Liability of organisations)—see section 114BC.
+employee, of an organisation, for division 8A.1A.3 (Vicarious liability of organisations)—see section 114BC.
 equine, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine activity, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine activity sponsor, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine facility, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
 equine professional, for schedule 3 (Equine activities)—see schedule 3, section 3.1.
-excluded corporation, for chapter 9 (Defamation)—see section 121.
+excluded corporation, for chapter 9 (Defamation)—see section 121 (2).
 family member, of a person, for part 3.2 (Mental harm)—see section 32.
 fault, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 fit for human consumption, in relation to food, for part 2.2A (Food donors)—see section 11A.
-food, for part 2.2A (Food donors)—see section 11A.
+food, for part 2.2A (Food donors)—see the Food Act 2001, section 8.
 funeral expenses includes costs related to any of the following:
   (a) the publication of death and funeral notices;
   (b) the services of an undertaker, including the supply of vehicles;
@@ -131,6 +135,7 @@ insurer, of a person in relation to a claim, for chapter 5 (Personal injuries cl
 interstate scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 intoxicated, for part 7.1 (Damages for personal injuries—exclusions and limitations)—see section 92.
 judgment, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
+law practice, for part 15.4A (Prohibition on claim farming)—see the Legal Profession Act 2006, dictionary.
 legal services means legal services provided by a lawyer or the lawyer’s agent or employee.
 limitation amount, for part 11.1 (Traveller accommodation providers liability)—see section 144.
 loss, of property, for part 11.1 (Traveller accommodation providers liability)—see section 144.
@@ -186,13 +191,14 @@ reasonable prospects of success, for part 14.2 (Costs in damages claims if no re
 recreational drug means a drug consumed voluntarily for non-medicinal purposes, and includes alcohol.
 related trust, in relation to an unincorporated body, for chapter 8A (Institutional child abuse)—see section 114B.
 respondent, for chapter 5 (Personal injuries claims—pre-court procedures)—see section 49.
-responsible, for a child, for part 8A.1A (Liability of organisations)—see section 114BD.
+responsible, for a child, for part 8A.1A (Liability of organisations)—see section 114BBA.
 safe custody facilities, for part 11.1 (Traveller accommodation providers liability)—see section 153 (1).
 schedule 2 packaged goods, for part 11.2 (Common carriers)—see section 159 (1).
 scheme, for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 search engine, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 search engine provider, for a search engine, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 search result, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
+service, for part 15.4A (Prohibition on claim farming)—see section 221A.
 storage service, for division 9.2.2A (Exemptions from liability for digital intermediaries)—see section 122B.
 substantially true, for chapter 9 (Defamation)—see section 116.
 this jurisdiction—
@@ -200,8 +206,8 @@ this jurisdiction—
   (b) for schedule 4 (Professional standards)—see schedule 4, section 4.2.
 transport, for part 11.2 (Common carriers)—see section 156.
 traveller accommodation—see section 145.
-unsafe, in relation to food, for part 2.2A (Food donors)—see section 11A.
-unsuitable, in relation to food, for part 2.2A (Food donors)—see section 11A.
+unsafe, in relation to food, for part 2.2A (Food donors)—see the Food Act 2001, section 12.
+unsuitable, in relation to food, for part 2.2A (Food donors)—see the Food Act 2001, section 13.
 voluntary basis, for part 2.2 (Volunteers)—see section 6.
 volunteer, for part 2.2 (Volunteers)—see section 6.
 wrong—
