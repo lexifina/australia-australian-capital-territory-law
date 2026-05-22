@@ -26,7 +26,7 @@ practice direction means a direction issued under section 55.
 public road—see the Public Unleased Land Act 2013, section 9.
 public unleased land—see the Public Unleased Land Act 2013, section 8.
 registered means registered under this Act.
-registered business address—see section 12(1) (b).
+registered business address—see section 12 (1) (b).
 registration certificate—see section 8 (3).
 registration number––see section 8 (1) (a) (ii).
 reviewable decision, for part 7 (Notification and review of decisions)—see section 75.
