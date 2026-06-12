@@ -30,5 +30,4 @@
 ### Division 5.4 Notification and review of decisions
 ## Part 5A Child safe standards
 ## Part 6 Miscellaneous
-## Part 8 Transitional—Human Rights (Complaints) Legislation Amendment Act 2023
 ## Part 9 Transitional—Justice and Community Safety Legislation Amendment Act 2025
