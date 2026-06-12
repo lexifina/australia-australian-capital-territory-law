@@ -92,9 +92,9 @@ right to interment means a right to inter cremated remains at a facility—
   (a) given to a person under section 9; or
   (b) transferred to a person under section 10.
 right to interment certificate—see section 9 (6).
-standard cemetery operating procedures—see section 59.
-standard crematorium operating procedures—see section 60.
-standard facility operating procedures—see section 61.
+standard cemetery operating procedures—see section 59 (1).
+standard crematorium operating procedures—see section 60 (1).
+standard facility operating procedures—see section 61 (1).
 stillborn child—see the Births, Deaths and Marriages Registration Act 1997, dictionary.
 suitable person, for division 4.2 (Licence to operate facility)—see section 48.
 warrant, for part 6 (Enforcement)—see section 82.
