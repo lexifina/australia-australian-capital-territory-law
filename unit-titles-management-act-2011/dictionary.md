@@ -53,7 +53,7 @@ eligible person, for a unit or common property, means—
 entitled to vote, in relation to a motion at a general meeting of an owners corporation, means a person who is entitled to vote on the motion under schedule 3, section 3.20.
 executive committee, of an owners corporation, means the executive committee of the corporation established under section 34.
 executive member means a member of an executive committee.
-expected sinking fund expenditure, for division 5.2 (Administrative, special purpose and sinking funds)—see section 83.
+expected sinking fund expenditure, for division 5.2 (Administrative, special purpose and sinking funds)—see section 83 (1).
 financed service contract, for part 9 (Protection of financiers for service contracts)—see section 130.
 financial year, for an owners corporation, means—
   (a) a period of 12 months beginning on 1 July; or
@@ -121,7 +121,7 @@ special privilege rule—see section 112A (1).
 special purpose fund, for division 5.2 (Administrative, special purpose and sinking funds)—see section 74 (1).
 special resolution means a resolution of a general meeting passed as required by schedule 3, section 3.16.
 staged development—see the Unit Titles Act 2001, section 17 (4) (Unit title applications—general requirements).
-standard quorum—see schedule 3, section 3.9 (Quorum at a general meeting—owners corporations with 3 or more members).
+standard quorum—see schedule 3, section 3.9 (Quorum at a general meeting—owners corporation with 3 or more members).
 sustainability infrastructure—
   (a) means infrastructure or equipment that—
     (i) if installed in relation to a units plan—
@@ -131,7 +131,7 @@ sustainability infrastructure—
       (A) improves the environmental sustainability of the unit; or
       (B) reduces the environmental impact of the unit; and
   (b) includes related utility service connections and equipment.
-total general fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 75 (2) (a).
+total general fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 75 (2) (a) (i).
 total sinking fund contribution, for division 5.2 (Administrative, special purpose and sinking funds)—see section 82 (3) (b).
 treasurer, for an owners corporation, means the treasurer of the corporation elected under section 40.
 unanimous resolution means a resolution of a general meeting passed as required by schedule 3, section 3.18.

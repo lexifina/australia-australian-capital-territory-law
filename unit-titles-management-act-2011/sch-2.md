@@ -85,7 +85,7 @@ The executive committee of an owners corporation may approve an application by a
 ## (a) the use applied for is minor; and
 ## (b) the use will not unreasonably interfere with the reasonable use and enjoyment of the common property by other members of the corporation.
 Example—minor use
-installation of airconditioner or awning on unit that extends over common property
+installation of air conditioner or awning on unit that extends over common property
 ## 2.5 Decisions about taking legal action
 ## (1) This section applies if the executive committee proposes to take legal action.
 ## (2) The executive committee of an owners corporation must not take legal action on behalf of the owners corporation unless—
