@@ -30,6 +30,11 @@ annual report means—
   (f) a territory entity annual report.
 annual report direction—see section 8.
 director-general annual report—see section 6.
+National Agreement on Closing the Gap—
+  (a) means the National Agreement on Closing the Gap between the ACT, the Commonwealth, States, the Australian Local Government Association and the Coalition of Aboriginal and Torres Strait Islander Peak Organisations that took effect on 27 July 2020, as in force from time to time; and
+Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
+  (b) includes any future agreement mentioned in clause 13 of the agreement.
+Note The National Agreement on Closing the Gap is available at www.closingthegap.gov.au.
 Office of the Legislative Assembly annual report—see section 7B.
 officer of the Assembly annual report—see section 7A.
 public sector body annual report—see section 7.
