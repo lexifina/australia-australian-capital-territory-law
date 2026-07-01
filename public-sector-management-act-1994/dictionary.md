@@ -31,7 +31,7 @@ authorised doctor means a doctor authorised by the head of service to—
   (a) perform medical examinations under this Act; and
   (b) make recommendations under this Act in relation to redeployment or retirement; and
   (c) make recommendations under this Act in relation to the health and physical fitness of officers whose appointment to the service on probation has not been confirmed.
-best practice principle—see section 8 (4).
+best practice principle—see section 8 (6).
 chief executive officer, of a territory instrumentality, means the person who has responsibility for managing the affairs of the instrumentality.
 classification—
   (a) for an SES position, means a prescribed classification; and
@@ -90,7 +90,7 @@ joint council means the forum established under section 28.
 joint selection committee, for part 5 (Employment of officers and employees)—see section 63.
 management standards means the management standards made under section 251.
 management strategy means a strategy made under section 26.
-merit and equity principle—see section 8 (4).
+merit and equity principle—see section 8 (6).
 misconduct, by a public servant, means failure to comply with section 9 (Public sector conduct).
 Note Fail includes refuse (see Legislation Act, dict, pt 1).
 misconduct procedure, in relation to a public servant, means—
