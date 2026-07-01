@@ -79,7 +79,7 @@ secure local jobs code certificate, for part 2B (Secure local jobs code)—see s
 secure local jobs code register, for part 2B (Secure local jobs code)—see section 22N.
 standing-offer arrangement means an arrangement or agreement to supply stated goods or services on agreed terms, including pricing, that may be procured from time to time during a period stated in the arrangement or agreement.
 Examples
-common use arrangement, deed of standing offer, head agreement
+common use arrangement, deed of standing offer, head agreement, panel arrangement
 tenderer, in relation to a procurement, means an entity that submits a quote, tender or other response in relation to the procurement.
 Territory entity—see section 6.
 territory-funded work, for part 2B (Secure local jobs code)—see section 22F.
