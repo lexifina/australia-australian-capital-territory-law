@@ -18,4 +18,3 @@
 ## Part 4 Government procurement board
 ## Part 5 Notification and review of decisions
 ## Part 7 Miscellaneous
-## Part 12 Transitional—Government Procurement Amendment Act 2024
