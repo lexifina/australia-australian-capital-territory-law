@@ -19,11 +19,13 @@
 ### Division 5A.3 Swimming pool safety
 ### Division 5A.4 Administration
 ### Division 5A.5 Miscellaneous
-## Part 6 Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates
+## Part 6 Residential building work—warranties, conditions, insurance etc
 ### Division 6.1 Interpretation—pt 6
 ### Division 6.2 Statutory warranties
 ### Division 6.2A Standard conditions
+### Division 6.2B Defective building work
 ### Division 6.3 Residential building insurance
+### Division 6.3A Latent defects insurance
 ### Division 6.4 Approved fidelity fund schemes
 ### Division 6.5 Auditors and actuaries of approved schemes
 ### Division 6.6 Consumer representative
