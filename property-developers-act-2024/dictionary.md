@@ -49,7 +49,7 @@ proposed regulatory action, for division 4.2 (Regulatory action)—see section 3
 public safety agency, for division 9.1 (Sharing public safety information)—see section 108 (1).
 public safety information, for division 9.1 (Sharing public safety information)—see section 108 (1).
 rating entity means an entity approved under section 27.
-rating report, in relation to an applicant for a license or a licensee, for part 2 (Licensing of property developers)—see section 10.
+rating report, in relation to an applicant for a licence or a licensee, for part 2 (Licensing of property developers)—see section 10.
 reconsideration application, for part 10 (Notification and review of decisions)—see section 113 (1).
 rectification order, for part 5 (Rectification orders, stop work orders and undertakings)—see section 49 (2).
 rectify, a serious defect, for part 5 (Rectification orders, stop work orders and undertakings)—see section 45.
