@@ -15,6 +15,7 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • function
 • instrument (see s 14)
 • intersex person
+• nurse practitioner
 • penalty unit (see s 133)
 • registrar-general
 • reviewable decision notice
@@ -24,6 +25,7 @@ birth includes a stillbirth.
 birth certificate means a certificate issued under section 27 or section 45 certifying particulars contained in an entry in the register of a person’s birth.
 birth parent, of a child, for part 2 (Registration of births)—see section 4B.
 birth registration statement, for division 2.2 (Registration of births)—see section 6.
+cause of death certificate, for a deceased person, for part 6 (Registration of deaths)—see section 32F.
 change of name application, in relation to a restricted person, for division 3.2 (Change of name—restricted people)—see section 22A.
 child—see section 4.
 corresponding law means a law of a State or another Territory that provides for the registration of births, deaths and marriages.

@@ -17,7 +17,8 @@
 ## Part 5B Civil partnerships
 ## Part 6 Registration of deaths
 ### Division 6.1 When registration of deaths is required or authorised
-### Division 6.2 Notification and registration of deaths
+### Division 6.2 Notification of deaths
+### Division 6.3 Registration of deaths
 ## Part 7 The register and other records
 ### Division 7.1 Keeping the register
 ### Division 7.2 Inquiries
