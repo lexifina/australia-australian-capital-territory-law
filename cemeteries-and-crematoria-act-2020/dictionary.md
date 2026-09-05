@@ -7,9 +7,13 @@ Note 2 For example, the Legislation Act, dict, pt 1, defines the following terms
 • Corporations Act
 • director-general (see s 163)
 • disallowable instrument (see s 9)
+• doctor
 • may (see s 146)
+• midwife
 • must (see s 146)
 • notifiable instrument (see s 10)
+• nurse
+• nurse practitioner
 • the Territory.
 acceptable container means—
   (a) a coffin; or
@@ -26,6 +30,7 @@ burial area, of a cemetery, means an area of the cemetery allocated for the buri
 Examples—other special category
 babies, children or members of the Australian Defence Force
 burial site, of a cemetery, includes a crypt, family memorial, lawn burial, mausoleum and natural burial site at the cemetery.
+cause of death certificate, for a deceased person—see the Births, Deaths and Marriages Registration Act 1997, section 32F.
 cemetery means a place—
   (a) where human remains are buried, cremated remains are interred and deceased people are memorialised; and
   (b) operated by the authority.
@@ -39,7 +44,6 @@ cremation includes alkaline hydrolysis and other non-fire based methods for brea
 crematorium means a place—
   (a) where human remains are cremated, cremated remains are interred and deceased people are memorialised; and
   (b) operated by a licensee.
-death certificate, for part 2 (Right to burial or interment)—see section 7.
 decision maker, for a reviewable decision, for part 11 (Notification and review of decisions)—see section 125.
 disciplinary action, against a licensee, for division 5.1 (Disciplinary action)—see section 69.
 disciplinary conduct, of a licensee, for division 5.1 (Disciplinary action)—see section 69.
@@ -68,7 +72,7 @@ licensee means—
   (b) the authority.
 licensee perpetual care trust—see section 104 (1).
 licensee receipt, for a facility, means an amount received by the licensee of the facility for—
-  (a) giving a right of burial or right of interment at the facility; or
+  (a) giving a right to burial or right to interment at the facility; or
   (b) the burial or cremation of human remains at the facility; or
   (c) the interment of cremated remains at the facility; or
   (d) the memorialisation of a deceased person at the facility.
