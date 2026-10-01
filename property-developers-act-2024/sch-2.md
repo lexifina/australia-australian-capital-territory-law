@@ -6,19 +6,19 @@ omit
 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)
 substitute
 (Residential building work—warranties, conditions, insurance etc)
-U [2.2] New section 27 (1) (ca)
+[2.2] New section 27 (1) (ca)
 insert
   (ca) if the application relates to residential building work—each person arranging for the building work to be carried out or a related entity of the person—
     (i) holds a property developer licence; and
     (ii) is not restricted under their licence from arranging for the work to be carried out; and
-U [2.3] New section 27 (1A)
+[2.3] New section 27 (1A)
 insert
 (1A) Subsection (1) (ca) does not apply to the following:
   (a) the Territory, the Commonwealth or a State;
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
   (b) a territory entity or a Commonwealth or State entity;
   (c) a person, or an application under section 26, excluded by regulation.
-U [2.4] Section 27 (2), new definitions
+[2.4] Section 27 (2), new definitions
 insert
 Commonwealth or State entity means an agency of the Commonwealth or a State that substantially corresponds to a territory entity.
 Note State includes the Northern Territory (see Legislation Act, dict, pt 1).
@@ -31,7 +31,7 @@ territory entity means—
   (a) a territory authority; or
   (b) a territory instrumentality; or
   (c) a territory-owned corporation.
-U [2.5] New section 28AA
+[2.5] New section 28AA
 before section 28A, insert
 ## 28AA Approval of certain residential building work when property developer licence required
 (1) This section applies to a building approval for residential building work if a person is required to hold a property developer licence because of section 27 (1) (ca) in relation to the application for approval.
@@ -57,7 +57,7 @@ building manual, in relation to a building, means a manual for the ongoing manag
   (b) the draft manual contains information that is false or misleading in a material particular.
 Maximum penalty: 50 penalty units.
 (2) An offence against this section is a strict liability offence.
-U [2.7] New section 69 (1) (c)
+[2.7] New section 69 (1) (c)
 before note 1, insert
   (c) if the approval is subject to a condition under section 28AA (Approval of certain residential building work when property developer licence required)—the condition has been complied with.
 [2.8] New section 69 (1) (d)
@@ -187,22 +187,22 @@ in the dictionary definitions of
 • residential building work
 • special actuary
 • storey
-## U Part 2.2 Building (General) Regulation 2008
-U [2.23] New section 30A (c) (via)
+## Part 2.2 Building (General) Regulation 2008
+[2.23] New section 30A (c) (via)
 insert
     (via) if a person is required to hold a property developer licence because of the Act, section 27 (1) (ca) in relation to the building work—
       (A) the name and licence number of the licensee; and
       (B) a contact telephone number for the property developer licensee; and
       (C) for a corporation—the property developer licensee ACN or ABN;
-U [2.24] Part 4 heading
+[2.24] Part 4 heading
 substitute
 Part 4 Residential building work—warranties, conditions, insurance etc
-U [2.25] Section 37
+[2.25] Section 37
 omit
 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)
 substitute
 (Residential building work—warranties, conditions, insurance etc)
-U [2.26] New section 37A
+[2.26] New section 37A
 insert
 ## 37A People who are not property developers—Act, s 84, def property developer, par (b) (iii)
 (1) The following people are excluded:
@@ -215,7 +215,7 @@ professional—
   (b) does not include a person who provides professional advice to a client in their capacity as an employee of the client.
 Example
 a consultant, employed in that capacity by a firm of consultants engaged by a property developer to give the developer advice in relation to residential building work
-U [2.27] Schedule 1, part 1.3, table, column 3
+[2.27] Schedule 1, part 1.3, table, column 3
 omit
 (Residential buildings—statutory warranties, standard conditions, insurance and fidelity certificates)
 substitute
@@ -352,8 +352,8 @@ sunset event, for division 2A.4 (Off-the-plan contracts—rescission provisions)
 U [2.44] Dictionary, new definition of territory entity
 insert
 territory entity, for part 2.A (Off-the-plan contracts)—see section 19AA (1).
-## U Part 2.5 Planning Act 2023
-U [2.45] New division 7.3.3
+## Part 2.5 Planning Act 2023
+[2.45] New division 7.3.3
 insert
 Division 7.3.3 Development applications for certain residential building developments
 ## 162A Development applications for certain residential building developments—property developer licence required
@@ -395,19 +395,19 @@ significant amendment, of a development approval in relation to a residential bu
   (c) prescribed by regulation.
 (6) This section expires on the day the Property Developers Act 2024, part 12 (Transitional) expires.
 Note A transitional provision is repealed on its expiry but continues to have effect after its repeal (see Legislation Act, s 88).
-U [2.46] New section 187 (1) (f)
+[2.46] New section 187 (1) (f)
 insert
   (f) if a person is required to hold a property developer licence because of division 7.3.3—must include a condition that—
     (i) any residential building work undertaken in or on a place the subject of the approval may only be undertaken or arranged by a person who holds a property developer licence or who is a related entity of someone who holds a property developer licence; and
     (ii) the relevant property developer licensee is not restricted under their licence from undertaking the residential building work.
-U [2.47] New section 187 (6)
+[2.47] New section 187 (6)
 insert
 (6) In this section:
 related entity, of someone who holds a property developer licence, means—
   (a) if the person is a corporation—a wholly-owned subsidiary of the licence holder; or
   (b) an entity prescribed by regulation.
 residential building work—see the Property Developers Act 2024, dictionary.
-U [2.48] Dictionary, new definition of property developer licence
+[2.48] Dictionary, new definition of property developer licence
 insert
 property developer licence means a licence under the Property Developers Act 2024.
 ## U Part 2.6 Property Developers Act 2024
