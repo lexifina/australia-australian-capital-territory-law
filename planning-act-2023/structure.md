@@ -49,6 +49,7 @@
 ## Part 7.3 Prohibited development
 ### Division 7.3.1 Applications for prohibited development—general
 ### Division 7.3.2 Prohibited waste facility development applications
+### Division 7.3.3 Development applications for certain residential building developments
 ## Part 7.4 Development in designated areas
 ## Part 7.5 Assessable development
 ### Division 7.5.1 Pre-application matters

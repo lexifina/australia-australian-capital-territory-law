@@ -257,6 +257,7 @@ principles of good consultation—see section 11 (1).
 principles of good planning—see section 10 (1).
 prohibited development—see section 154 (1).
 prohibition notice—see section 452 (1).
+property developer licence means a licence under the Property Developers Act 2024.
 proponent, of a development proposal, means the person proposing the proposal.
 proponent-initiated amendment, for part 5.2 (Territory plan—major plan amendments)—see section 57.
 protected matter—see section 221 (1).
