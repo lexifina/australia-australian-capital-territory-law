@@ -1,5 +1,7 @@
 # Australian Capital Territory law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Australian Capital Territory, Australia, which global-law reads at `australia/australian-capital-territory/acts/`.
+
 The Acts of the Australian Capital Territory as a git repository: every republication of every Act in force, from the
 [ACT Legislation Register](https://www.legislation.act.gov.au), the Territory's authorised legislation website. Each
 change is one commit, credited to the law that made it and dated the day it took effect, at noon in Canberra.
